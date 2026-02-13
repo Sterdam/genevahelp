@@ -1,0 +1,82 @@
+import { useState, useEffect, useMemo } from 'react'
+import { supabase, isSupabaseConfigured } from '../lib/supabase'
+import { DEMO_RESOURCES } from '../lib/demo-data'
+import type { Resource, ResourceCategory } from '../lib/types'
+import { getDistance } from './useGeolocation'
+
+interface UseResourcesOptions {
+  categories?: ResourceCategory[]
+  search?: string
+  userLat?: number | null
+  userLng?: number | null
+}
+
+export function useResources(options: UseResourcesOptions = {}) {
+  const { categories = [], search = '', userLat, userLng } = options
+  const [resources, setResources] = useState<Resource[]>([])
+  const [loading, setLoading] = useState(true)
+  const [error, setError] = useState<string | null>(null)
+
+  useEffect(() => {
+    async function fetchResources() {
+      setLoading(true)
+      setError(null)
+
+      if (!isSupabaseConfigured) {
+        setResources(DEMO_RESOURCES)
+        setLoading(false)
+        return
+      }
+
+      try {
+        const { data, error: fetchError } = await supabase!
+          .from('resources')
+          .select('*')
+          .order('upvotes', { ascending: false })
+
+        if (fetchError) throw fetchError
+        setResources(data || [])
+      } catch (err) {
+        console.error('Failed to fetch resources:', err)
+        setError('Failed to load resources')
+        setResources(DEMO_RESOURCES)
+      } finally {
+        setLoading(false)
+      }
+    }
+
+    fetchResources()
+  }, [])
+
+  const filtered = useMemo(() => {
+    let result = resources
+
+    if (categories.length > 0) {
+      result = result.filter((r) => categories.includes(r.category))
+    }
+
+    if (search.trim()) {
+      const q = search.toLowerCase().trim()
+      result = result.filter(
+        (r) =>
+          r.name.toLowerCase().includes(q) ||
+          r.description.toLowerCase().includes(q) ||
+          r.tags.some((t) => t.toLowerCase().includes(q)) ||
+          r.address.toLowerCase().includes(q)
+      )
+    }
+
+    if (userLat != null && userLng != null) {
+      result = result
+        .map((r) => ({
+          ...r,
+          _distance: getDistance(userLat, userLng, r.latitude, r.longitude),
+        }))
+        .sort((a, b) => a._distance - b._distance)
+    }
+
+    return result
+  }, [resources, categories, search, userLat, userLng])
+
+  return { resources: filtered, allResources: resources, loading, error }
+}

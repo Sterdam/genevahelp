@@ -1,0 +1,131 @@
+{
+  "app": {
+    "name": "GenevaMap",
+    "tagline": "Free resources in Geneva",
+    "description": "Interactive map of all free resources in Geneva"
+  },
+  "nav": {
+    "map": "Map",
+    "list": "List",
+    "suggest": "Suggest",
+    "about": "About"
+  },
+  "search": {
+    "placeholder": "Search for a resource...",
+    "noResults": "No results found",
+    "resultsCount": "{{count}} resource found",
+    "resultsCount_plural": "{{count}} resources found"
+  },
+  "filters": {
+    "allCategories": "All",
+    "openNow": "Open now",
+    "wheelchair": "Wheelchair accessible",
+    "nearby": "Nearby"
+  },
+  "resource": {
+    "address": "Address",
+    "phone": "Phone",
+    "website": "Website",
+    "email": "Email",
+    "hours": "Hours",
+    "access": "Access conditions",
+    "audience": "Target audience",
+    "forWhom": "Who is it for?",
+    "whatItOffers": "What it offers",
+    "contact": "Contact & access",
+    "practicalInfo": "Practical info",
+    "languages": "Languages spoken",
+    "wheelchair": "Wheelchair accessible",
+    "wheelchairYes": "Wheelchair accessible",
+    "wheelchairNo": "Not wheelchair accessible",
+    "verified": "Verified",
+    "directions": "Directions",
+    "share": "Share",
+    "report": "Report",
+    "closed": "Closed",
+    "open": "Open",
+    "free": "Free",
+    "seeWebsite": "Visit website",
+    "call": "Call",
+    "distance": "{{distance}} m",
+    "distanceKm": "{{distance}} km",
+    "source": "Source"
+  },
+  "suggest": {
+    "title": "Suggest a resource",
+    "subtitle": "Do you know a free resource in Geneva? Share it!",
+    "name": "Resource name",
+    "description": "Description",
+    "category": "Category",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "website": "Website",
+    "submit": "Submit suggestion",
+    "success": "Thank you! Your suggestion will be reviewed.",
+    "error": "An error occurred. Please try again."
+  },
+  "about": {
+    "title": "About GenevaMap",
+    "mission": "GenevaMap lists all free resources available in Geneva: food aid, legal help, healthcare, language courses, public wifi, and much more.",
+    "howItWorks": "How it works",
+    "howItWorksText": "All resources are verified and regularly updated. You can contribute by suggesting new resources or reporting incorrect information.",
+    "openSource": "Open-source project",
+    "openSourceText": "GenevaMap is an open-source project created for Geneva.",
+    "contact": "Contact"
+  },
+  "days": {
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday"
+  },
+  "report": {
+    "button": "Report a problem",
+    "title": "Report this resource",
+    "placeholder": "Additional details (optional)...",
+    "submit": "Submit report",
+    "thanks": "Thank you for your report!"
+  },
+  "admin": {
+    "login": "Administration",
+    "username": "Username",
+    "password": "Password",
+    "loginButton": "Sign in",
+    "loginError": "Invalid credentials",
+    "logout": "Sign out",
+    "dashboard": "Dashboard",
+    "resources": "Resources",
+    "reports": "Reports",
+    "totalResources": "Total resources",
+    "pendingReports": "Pending reports",
+    "resolvedReports": "Resolved reports",
+    "needsVerification": "Needs verification",
+    "resolve": "Resolve",
+    "dismiss": "Dismiss",
+    "delete": "Delete",
+    "verify": "Mark as verified",
+    "verified": "Verified",
+    "lastVerified": "Last verified",
+    "noReports": "No reports",
+    "suggestions": "Suggestions",
+    "pendingSuggestions": "Pending suggestions",
+    "reviewedSuggestions": "Reviewed suggestions",
+    "noSuggestions": "No suggestions",
+    "allResources": "All resources",
+    "searchResources": "Search resources..."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "close": "Close",
+    "back": "Back",
+    "save": "Save",
+    "cancel": "Cancel",
+    "yes": "Yes",
+    "no": "No"
+  }
+}
