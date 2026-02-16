@@ -2,6 +2,8 @@ import { useState } from 'react'
 import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom'
 import { Header } from './components/layout/Header'
 import { MobileNav } from './components/layout/MobileNav'
+import { WelcomeModal } from './components/layout/WelcomeModal'
+import { ToastProvider } from './components/ui/Toast'
 import { HomePage } from './pages/HomePage'
 import { AboutPage } from './pages/AboutPage'
 import { SuggestPage } from './pages/SuggestPage'
@@ -9,6 +11,9 @@ import { AdminPage } from './pages/AdminPage'
 
 function AppContent() {
   const [mobileView, setMobileView] = useState<'map' | 'list'>('map')
+  const [showWelcome, setShowWelcome] = useState(
+    () => !localStorage.getItem('genevemap-welcomed')
+  )
   const location = useLocation()
   const isAdmin = location.pathname.startsWith('/admin')
 
@@ -31,6 +36,7 @@ function AppContent() {
         <Route path="/suggest" element={<SuggestPage />} />
       </Routes>
       <MobileNav view={mobileView} onViewChange={setMobileView} />
+      {showWelcome && <WelcomeModal onClose={() => setShowWelcome(false)} />}
     </div>
   )
 }
@@ -38,7 +44,9 @@ function AppContent() {
 export default function App() {
   return (
     <BrowserRouter>
-      <AppContent />
+      <ToastProvider>
+        <AppContent />
+      </ToastProvider>
     </BrowserRouter>
   )
 }

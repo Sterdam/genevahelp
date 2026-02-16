@@ -1,0 +1,1214 @@
+{
+  "r_0001": {
+    "description": "Qaybinta cuntada oo bilaash ah ee dadka dhibaatada ku jira. Cuntada kulul oo la siiyo duhurkii iyo habeenkii. Soo dhaweyn aan shuruud lahayn.",
+    "target_audience": "Qof kasta oo xaalad adag ku jira",
+    "access_conditions": "Shuruud la'aan, furan oo dhan"
+  },
+  "r_0002": {
+    "description": "La-talinta sharciga ee bilaashka ah oo ay bixiyaan Ururka Qareenada ee Genève. Talooyin sharciyeed oo aan ballan la'ayn oo su'aal kasta oo sharciyeed ah.",
+    "target_audience": "Qof kasta oo u baahan talo sharciyeed",
+    "access_conditions": "Ballan la'aan, kan hore yimaado ayaa hore loo adeegeeyaa"
+  },
+  "r_0003": {
+    "description": "Qaboojiye iskaa-wax-u-qabso ah halkaas oo qof kasta uu dhigi karo ama qaadan karo cunto bilaash ah. Dagaalka lagula jiro khasaaraha cuntada.",
+    "target_audience": "Dadweynaha oo dhan",
+    "access_conditions": "Gelitaan bilaash ah 24 saac/maalintii"
+  },
+  "r_0004": {
+    "description": "Dukaanka is-kaashiga iyo qaybinta dharka. Taageerada bulshada ee dadka dhaqaale ahaan dhibaatada ku jira. Gargaarka cuntada iyo dharka.",
+    "target_audience": "Dadka dakhligoodu hooseeyo",
+    "access_conditions": "Marka la soo bandhigo caddayn dakhli hooseeya"
+  },
+  "r_0005": {
+    "description": "La-talinta sharciga iyo bulshada ee bilaashka ah. Caawinta maamulka, talada ku saabsan xeerka shisheeyaha, sharciga shaqada iyo caymiska bulshada.",
+    "target_audience": "Qof kasta oo dhibaato sharci ama maamul ah ku jira",
+    "access_conditions": "Ballan, la-talin koowaad oo bilaash ah"
+  },
+  "r_0006": {
+    "description": "Adeegyada caafimaadka, gargaarka bulshada iyo taageerada dadka nugul. Barnaamijyada taageerada muhaajiriinta iyo qaxootiga.",
+    "target_audience": "Dadka nugul, muhaajiriinta, qaxootiga",
+    "access_conditions": "Barnaamijyada ku xiran, qaar ballan ah"
+  },
+  "r_0007": {
+    "description": "Qaybinta toddobaadlaha ah ee baakadaha cuntada ee qoysaska iyo dadka xaalad adag ku jira. Badeecooyin cusub iyo kuwo aasaasi ah.",
+    "target_audience": "Qoysaska iyo dadka dakhligoodu hooseeyo",
+    "access_conditions": "Diiwaangelinta, caddayn xaaladda dhaqaale"
+  },
+  "r_0008": {
+    "description": "Hay'adda gobolka ee gargaarka bulshada. Lacagta gargaarka, taageerada bulshada, caawinta guryeynta iyo shaqo-gelinta.",
+    "target_audience": "Dadka Genève ee ku nool oo dhaqaale ahaan dhibaatada ku jira",
+    "access_conditions": "Ballan, dadka deggan gobolka Genève"
+  },
+  "r_0009": {
+    "description": "Gelitaan bilaash ah oo qubeysi, mashiinnada dharka iyo qalajiyaha. Goobo nadaafadeed ee dadka aan guri lahayn ama xaalad adag ku jira.",
+    "target_audience": "Dadka aan guri lahayn, dadka xaalad adag ku jira",
+    "access_conditions": "Shuruud la'aan, gelitaan bilaash ah"
+  },
+  "r_0010": {
+    "description": "Daaweynta caafimaadka ee bilaashka ah ee dadka aan caymis caafimaad lahayn. Daryeelka caafimaadka ee koowaad, hagitaan iyo taageerada caafimaadka.",
+    "target_audience": "Dadka aan caymiska caafimaadka lahayn, dadka aan warqado lahayn",
+    "access_conditions": "Caymis caafimaad la'aan, ballan la'aan"
+  },
+  "r_0011": {
+    "description": "Koorsasha Faransiiska ee bilaashka ah ee haweenka soo galootiga ah. Xanaanada carruurta inta koorsayaasha socoto. Casharro is-dhexgalka iyo bulshada.",
+    "target_audience": "Haweenka soo galootiga ah iyo carruurtood",
+    "access_conditions": "Haweenka soo galootiga ah, diiwaangelinta bilowga xilli dugsiyeedka"
+  },
+  "r_0012": {
+    "description": "Koorsayaasha fiidkii oo bilaash ah ama qiimo jaban: Faransiis, kombiyuutar, xisaabaad, luqadaha. Waxbarasho joogto ah oo dadka waaweyn.",
+    "target_audience": "Dadka waaweyn ee doonaya inay wax bartaan",
+    "access_conditions": "Diiwaangelinta bilowga xilli dugsiyeedka, qiimo la dhimay dakhli ku xiran"
+  },
+  "r_0013": {
+    "description": "Hoy degdeg ah habeenkii. Soo dhaweyn aan shuruud lahayn ee dadka aan guri lahayn. Cashada fiidkii iyo quraacda waa la soo darsaday.",
+    "target_audience": "Dadka aan guri lahayn",
+    "access_conditions": "Shuruud la'aan, soo dhaweyn aan shuruud lahayn habeenkii"
+  },
+  "r_0014": {
+    "description": "Soo dhaweyn, dhageysi iyo hoy degdeg ah ee haweenka ka soo badbaaday rabshadaha. Taageero nafsi iyo raacitaan sharci.",
+    "target_audience": "Haweenka ka soo badbaaday rabshadaha guriga",
+    "access_conditions": "Khadka taleefanka 24 saac/maalintii, hoy degdeg ah qiimayn ka dib"
+  },
+  "r_0015": {
+    "description": "Dukaanka is-kaashiga ee dharka, qalabka guriga iyo walxaha qiimo aad u jaban. Soo-celinta iyo qaybinta walxaha gacanta labaad.",
+    "target_audience": "Dadweynaha oo dhan, dadka dakhligoodu hooseeyo",
+    "access_conditions": "Furan oo dhan, qiimaha is-kaashiga"
+  },
+  "r_0016": {
+    "description": "Macluumaadka iyo hagitaanka ee dadka ajnabiga ah. Koorsayaasha Faransiiska oo dawladdu taageerto, caawinta is-dhexgalka, ka hortagga cunsuriyada iyo takoorka.",
+    "target_audience": "Dadka ajnabiga ah ee ku nool Genève",
+    "access_conditions": "Dadka ajnabiga ah ee deggan gobolka Genève"
+  },
+  "r_0017": {
+    "description": "Gelitaanka WiFi ee bilaashka ah ee Beerta Bastions, oo ay bixiso Magaalada Genève. Isku xirnaanta bilaash ah oo aan xadidnayn.",
+    "target_audience": "Dadweynaha oo dhan",
+    "access_conditions": "Gelitaan bilaash ah"
+  },
+  "r_0018": {
+    "description": "Goob bulshada oo bixinaysa hawlaha bulsho, dhaqan iyo waxbarasho. Koorsayaal, casharro iyo dhacdooyin bilaash ah ama qiimo jaban.",
+    "target_audience": "Dadka deggan xaafadda Plainpalais",
+    "access_conditions": "Furan dadka deggan xaafadda oo dhan"
+  },
+  "r_0019": {
+    "description": "Soo ururinta cuntada aan la iibin ee dukaammada iyo qaybinta bilaashka ah ee dadka u baahan. Dagaalka lagula jiro khasaaraha.",
+    "target_audience": "Dadka ku jira xaaladda baahi cuntada",
+    "access_conditions": "Diiwaangelinta, caddayn xaaladda dhaqaale"
+  },
+  "r_0020": {
+    "description": "Gargaar dhaqaale degdeg ah, taageerada bulshada, hagitaan xagga adeegyada ku habboon. Taageerada dadka deggan Magaalada Genève.",
+    "target_audience": "Dadka deggan Magaalada Genève ee dhibaatada ku jira",
+    "access_conditions": "Dadka deggan Magaalada Genève"
+  },
+  "r_0021": {
+    "description": "Daaweynta caafimaadka koowaad ee magangalyo-doonayaasha iyo muhaajiriinta. La-shaqeeyaha shabakadda caafimaadka magangalyada, habka dhaqamaha iyo nafsi-bulshada. La-talinta turjubaano la heli karo.",
+    "target_audience": "Magangalyo-doonayaasha, qaxootiga, muhaajiriinta",
+    "access_conditions": "Ballan, qabashada ballanta Isniinta ilaa Jimcaha 9h-11h30 iyo 13h30-17h"
+  },
+  "r_0022": {
+    "description": "Barnaamijka shaqo-gelinta ee dadka shaqo-raadinta ku jira. Casharro, tababarro wax ku ool ah iyo taageero gaar ah.",
+    "target_audience": "Shaqo-raadiyayaasha ku adkaysanaya shaqo-gelinta",
+    "access_conditions": "Diiwaangelinta xafiiska gobolka ee shaqo-siinta ama Hospice général"
+  },
+  "r_0023": {
+    "description": "Raacitaanka waxbarashada iyo bulshada ee carruurta iyo dhallinyarada. Guryaha, casharrada waxbarashada, taageerada dugsiga iyo howlaha madadaalada.",
+    "target_audience": "Carruurta iyo dhallinyarada 4 ilaa 18 sano",
+    "access_conditions": "Hagitaan Adeegga Ilaalinta Yaryarta"
+  },
+  "r_0024": {
+    "description": "Qeybta degdegga nafsi-bulshada ee ku xiran imad. Way ka qeyb qaadataa xaaladaha dhibaatada, rabshadaha guriga, yaryarta qalalaasaha ku jira iyo dhibaatada nafsi-bulshada. Kooxda waxaa ka mid ah kalkaaliye iyo shaqaalaha bulshada.",
+    "target_audience": "Dadka aan guri lahayn",
+    "access_conditions": "Shuruud la'aan, koox socdaalka wadooyinka"
+  },
+  "r_0025": {
+    "description": "Raacitaanka dadka ku dhacday qaniinyooyinka. La-talinta, barnaamijka beddelka, ka bixitaanka iyo dib-u-gelinta. Xarunaha daaweynta socdaalka.",
+    "target_audience": "Dadka ku dhacday qaniinyooyinka",
+    "access_conditions": "Ballan la'aan soo-dhaweynta, ballan la-talinta"
+  },
+  "r_0026": {
+    "description": "Adeegyada dadka waayeelka ah: caawinta guriga, hawlaha bulshada, talada sharciga iyo dhaqaalaha, koorsayaasha iyo casharrada.",
+    "target_audience": "Dadka waayeelka ah 60 sano iyo ka badan",
+    "access_conditions": "Dadka 60 sano iyo ka badan"
+  },
+  "r_0027": {
+    "description": "Gelitaanka WiFi ee bilaashka ah ee Bains des Pâquis. Goobta isku xirnaanta bilaash ah.",
+    "target_audience": "Dadweynaha oo dhan",
+    "access_conditions": "Gelitaan bilaash ah"
+  },
+  "r_0028": {
+    "description": "Adeegga dhakhaatiirta guriga 24 saac/maalintii. Daaweynta caafimaadka degdegga ah ee guriga ama xafiiska, 7 maalmood toddobaadkii.",
+    "target_audience": "Qof kasta oo u baahan daaweyn caafimaad degdeg ah",
+    "access_conditions": "Wicitaan taleefan, kharashaadka caafimaadka bukaan-soccod xil"
+  },
+  "r_0029": {
+    "description": "Goobta soo-dhaweynta maalintii ee dadka xaalad adag ku jira. Goob diiran, kafeeto, qubeysi, dhar-dhaqid, gelitaan internet iyo hawlo.",
+    "target_audience": "Dadka xaalad adag ku jira",
+    "access_conditions": "Shuruud la'aan, soo-dhaweyn bilaash ah"
+  },
+  "r_0030": {
+    "description": "La-talinta nafsiyaadka ee bilaashka ah ama qiimo la dhimay ee dadka soo galootiga ah. Taageerada nafsiyaadka luqado badan.",
+    "target_audience": "Dadka soo galootiga ah ee dhibaato nafsiyaad ah ku jira",
+    "access_conditions": "Ballan, qiimaha dakhli ku xiran"
+  },
+  "r_0031": {
+    "description": "Maktabadda magaalada oo gelitaankeeda bilaash yahay. Amaahinta buugaagta, DVD, CD. Goobta shaqada, WiFi bilaash ah, jaraa'id iyo majallado. Casharro dhaqameedyo.",
+    "target_audience": "Dadweynaha oo dhan",
+    "access_conditions": "Gelitaan bilaash ah, kaarka bilaash ah oo amaahinta"
+  },
+  "r_0032": {
+    "description": "Adeegga dawladda ee caawinta shaqo-raadinta. Diiwaangelinta shaqo la'aanta, fursadaha shaqada, talada hagitaanka xirfadeed, tallaabooyinka shaqo-gelinta.",
+    "target_audience": "Shaqo-raadiyayaasha deggan Genève",
+    "access_conditions": "Dadka deggan gobolka Genève, diiwaangelinta waa qasab"
+  },
+  "r_0033": {
+    "description": "Joogitaanada sharciga iyo bulshada ee dadka soo galootiga ah. Caawinta maamulka, xeerka shisheeyaha, isku-keenista qoyska.",
+    "target_audience": "Dadka soo galootiga ah, dadka aan warqado lahayn",
+    "access_conditions": "Ballan ama joogitaanada ballan la'aanta"
+  },
+  "r_0034": {
+    "description": "Goobta soo-dhaweynta marxalad hoose ee dadka isticmaala daroogada. Qalabka nadiifka, la-talinta, goobta nasashada iyo raacitaanka.",
+    "target_audience": "Dadka isticmaala daroogada",
+    "access_conditions": "Shuruud la'aan, soo-dhaweyn aqoon la'aan"
+  },
+  "r_0035": {
+    "description": "Xarunta bulshada ee xaafadda Pâquis. Hawlaha dhaqameedka, koorsayaasha luqadaha, casharrada farshaxan, goobta carruurta iyo caawinta shaqada guriga.",
+    "target_audience": "Dadka deggan xaafadda Pâquis",
+    "access_conditions": "Furan oo dhan"
+  },
+  "r_0036": {
+    "description": "Qaybinta bilaashka ah ee dharka ee dadka xaalad adag ku jira. Dhar raga, haween iyo carruur ah, xilli kasta oo sanadka ah.",
+    "target_audience": "Dadka xaalad adag ku jira",
+    "access_conditions": "Marka la soo bandhigo caddayn adeeg bulsho"
+  },
+  "r_0037": {
+    "description": "Koorsayaasha Faransiiska ee luqada shisheeye ee dadka waaweyn ee soo galootiga ah. Heerarka bilow ilaa sare. Koorsayaasha maalintii iyo habeenkii.",
+    "target_audience": "Dadka waaweyn ee soo galootiga ah ee doonaya inay bartaan Faransiis",
+    "access_conditions": "Diiwaangelinta iyo imtixaanka heerka, qiimo la dhimay suuro gal"
+  },
+  "r_0038": {
+    "description": "Qaybinta cuntada kulul (maraq iyo rooti) ee dadka xaalad adag ku jira. Adeeg bilaash ah oo shuruud la'aan.",
+    "target_audience": "Dadweynaha oo dhan",
+    "access_conditions": "Shuruud la'aan, kan hore yimaado ayaa hore loo adeegeeyaa"
+  },
+  "r_0039": {
+    "description": "Xarun macluumaad iyo la-talin ee haweenka. Talo sharci, bulsho iyo xirfadeed. Taageero marka rabshad dhacdo.",
+    "target_audience": "Haweenka da' kasta iyo xaalad kasta",
+    "access_conditions": "Furan haweenka oo dhan, la-talinno qaar ballan ah"
+  },
+  "r_0040": {
+    "description": "Laanta Hospice général ee Plainpalais. Gargaarka dhaqaalaha, taageerada bulshada, caawinta guryeynta iyo shaqo-gelinta.",
+    "target_audience": "Dadka deggan xaafadda Plainpalais ee dhibaatada ku jira",
+    "access_conditions": "Ballan, dadka deggan gobolka Genève"
+  },
+  "r_0041": {
+    "description": "Ururka umulisooyinka madax-banaan oo kor u qaadaya caafimaadka dhalmada. Joogitaanada taleefanka 7 maalmood/toddobaad, goobaha soo-dhaweynta bilaash ah oo umulisooyinka la joogo, talada uurka, naas-nuujinta, dabagalka dhalmada kadib.",
+    "target_audience": "Haweenka uurka leh iyo waaliddiinta dhowaan noqday",
+    "access_conditions": "Ballan la'aan joogitaanada, bilaash. Joogitaanada taleefanka Isn-Jim 8h-20h, Sab-Axad 9h-12h iyo 17h-20h"
+  },
+  "r_0042": {
+    "description": "Goobta soo-dhaweynta maalintii ee dadka xaalad adag ku jira. Quraac, kafeeto, goobta nasashada, hawlo iyo hagitaanka bulshada.",
+    "target_audience": "Dadka aan guri lahayn",
+    "access_conditions": "Shuruud la'aan, soo-dhaweyn aan shuruud lahayn"
+  },
+  "r_0043": {
+    "description": "Ilaalinta sharciga ee dadka waaweyn ee nugul iyo yaryarta. Wakiillada, mas'uuliyada iyo tallaabooyinka ilaalinta.",
+    "target_audience": "Dadka waaweyn ee nugul iyo yaryarta u baahan ilaalin sharci",
+    "access_conditions": "Warbixin ama codsi toos ah"
+  },
+  "r_0044": {
+    "description": "Barta gelitaanka WiFi ee bilaashka ah ee Place du Molard, bartamaha magaalada hore ee Genève. Shabakadda Magaalada Genève.",
+    "target_audience": "Dadweynaha oo dhan",
+    "access_conditions": "Gelitaan bilaash ah"
+  },
+  "r_0045": {
+    "description": "Hoyga haweenka iyo carruurta ee dhibaatada ku jira, oo badanaa dhibanayaasha rabshadaha xiriirka. Taageerada nafsi-bulshada, caawinta is-dhexgalka bulshada iyo xirfadeed, xoojinta xiriirka hooyada/ilmaha. Waxay leedahay xanaano.",
+    "target_audience": "Haweenka keli ah ama carruur la joogo oo xaalad adag ku jira",
+    "access_conditions": "Hagitaanka adeeg bulsho, qiimaynta xaaladda"
+  },
+  "r_0046": {
+    "description": "Goobta soo-dhaweynta bilaash ah, aqoon la'aan ah oo diiwaangelinta la'aan ah ee carruurta ilaa 5 sano oo qof weyn la socda. Goob dhageysi iyo taageero waaliddiinta iyo carruurta.",
+    "target_audience": "Carruurta 0 ilaa 5 sano iyo waaliddiintood ama la-socotooda",
+    "access_conditions": "Bilaash, aqoon la'aan, diiwaangelinta la'aan, carruurta qof weyn la socdo"
+  },
+  "r_0047": {
+    "description": "Talada sharciga ee kireystayaasha. Caawinta marka khilaaf ka dhaco mulkiilaha, korkicinta kirada, joojinta heshiiska kirada.",
+    "target_audience": "Kireystayaasha gobolka Genève",
+    "access_conditions": "Xubniyada ururka (lacag yar oo xubniyad ah)"
+  },
+  "r_0048": {
+    "description": "Ururinta iyo qaybinta dib u eegga cuntada ee ururrada khayraadka ee Genève. Dagaalka lagula jiro dhibaatada cuntada iyo khasaaraha.",
+    "target_audience": "Ururrada khayraadka iyo dadka ku jira dhibaatada cuntada",
+    "access_conditions": "Laga heli karo ururrada la-shaqeeyaha ah"
+  },
+  "r_0049": {
+    "description": "Rugta ilkaha ee jaamacadda oo bixisa daryeelka ilkaha. Soo-dhaweyn ballan la'aan Isniinta ilaa Jimcaha 8h ilaa 15h30. Degdegga ilkaha iyo daryeelka caadiga ah.",
+    "target_audience": "Dadweynaha oo dhan, dadka aan caymiska ilkaha lahayn ama dakhligoodu hooseeyo",
+    "access_conditions": "Soo-dhaweyn ballan la'aan Isniinta ilaa Jimcaha 8h ilaa 15h30"
+  },
+  "r_0050": {
+    "description": "Goobta soo-dhaweynta, taageerada iyo dib-u-gelinta xirfadeed ee dadka xaalad adag ku jira. Quraacyo bilaash ah (150-200/toddobaadkii), hawlaha bulshada iyo tababarada dib-u-gelinta.",
+    "target_audience": "Dadka xaalad adag ku jira",
+    "access_conditions": "Shuruud la'aan, soo-dhaweyn bilaash ah"
+  },
+  "r_0051": {
+    "description": "Goob soo-dhaweyn, madadaalo, kulan iyo nasasho oo da' kasta, dhaqan kasta iyo dabaqa bulsho kasta. Hawlaha dhaqameedka iyo bulshada.",
+    "target_audience": "Dadka deggan xaafadda Eaux-Vives iyo dadweynaha oo dhan",
+    "access_conditions": "Furan oo dhan, soo-dhaweyn bilaash ah"
+  },
+  "r_0052": {
+    "description": "Goobta soo-dhaweynta iyo hagitaanka haweenka iyo qoysaska. La-talinta sharciga (xeerka qoyska, furriinka, rabshadaha xiriirka, ruqsadda degnaanshaha), hagitaanka xirfadeed iyo taageerada nafsi-bulshada.",
+    "target_audience": "Haweenka iyo qoysaska",
+    "access_conditions": "Joogitaanada sharciga taleefanka: Talaadada 11h-13h, Arbacada 14h-16h, Khamiista 12h-14h lambarka 022 740 31 11. La-talinno ballan ah."
+  },
+  "r_0053": {
+    "description": "Ururka ka hortagga is-dilka dhallinyarada ee Suisse Romande. Wacyi-gelinta, casharro, barnaamijyada ka hortagga iyo hagitaanka xarumaha gargaarka. Haddii degdeg ah, ka wac 143.",
+    "target_audience": "Dhallinyarada 15 ilaa 29 sano, ka hortagga is-dilka",
+    "access_conditions": "Xafiiska furan toddobaadka. Degdeg, wac 143 (24 saac/maalintii)"
+  },
+  "r_0054": {
+    "description": "Waaxda caafimaadka maskaxda iyo caafimaadka dhimirka ee HUG. La-talinta caafimaadka dhimirka iyo nafsiyaadka, daryeelka walwalka, niyadjabka, dhaawacyada.",
+    "target_audience": "Dadka ku dhacday dhibaatooyinka maskaxda",
+    "access_conditions": "Ballan, dhakhtar wareegto"
+  },
+  "r_0055": {
+    "description": "Lacagta dheeraadka ah ee kuwa ka faa'iidaysanaya AVS/AI. Caawinta lacagta caymiska caafimaadka iyo kirada.",
+    "target_audience": "Kuwa ka faa'iidaysanaya AVS/AI ee dakhligoodu hooseeyo",
+    "access_conditions": "Ka faa'iidaysanayaasha AVS/AI, dadka deggan gobolka Genève"
+  },
+  "r_0056": {
+    "description": "Caawinta shayga iyo bixinta biilasha degdegga ah ee dadka dakhligoodu ku yaallay noolasha ugu yar ama ka sarreeya wax yar.",
+    "target_audience": "Dadka dhibaato dhaqaale gaar ah ku jira",
+    "access_conditions": "Codsiyada iimayl geneve@secours-d-hiver.ch. Taleefanka Jimcaha oo keliya."
+  },
+  "r_0057": {
+    "description": "Ururka Genève ee u jeedkiisu yahay carruurta iyo dhallinyarada. Xarunta cilmi-nafsiga (13-18 sano), Cafe Ados, taageerada yaryarta aan la socon, tallaabooyinka ka hortagga.",
+    "target_audience": "Carruurta iyo dhallinyarada 12 ilaa 18 sano",
+    "access_conditions": "Diiwaangelinta ama hagitaan"
+  },
+  "r_0058": {
+    "description": "Barnaamijyada shaqo-gelinta ee dadka ka fog suuqa shaqada. Qiimaynta xirfadaha, tababarka shaqada, tababarada.",
+    "target_audience": "Dadka ka fog suuqa shaqada",
+    "access_conditions": "Diiwaangelinta Hospice général ama OCE"
+  },
+  "r_0059": {
+    "description": "Gargaarka qaxootiga iyo muhaajiriinta. Koorsayaasha Faransiiska, caawinta is-dhexgalka, talo sharci ee xeerka magangalyada iyo raacitaanka bulshada.",
+    "target_audience": "Qaxootiga iyo muhaajiriinta",
+    "access_conditions": "Qaxootiga iyo muhaajiriinta, diiwaangelinta loo baahan yahay"
+  },
+  "r_0060": {
+    "description": "Xarunta bulshada ee Jonction. Hawlaha bulshada, madaniga iyo dhaqameedka oo da' kasta. Soo-dhaweyn bilaash ah, casharro furan dadka deggan 9 ilaa 99 sano.",
+    "target_audience": "Dadka deggan xaafadda Jonction",
+    "access_conditions": "Furan oo dhan"
+  },
+  "r_0061": {
+    "description": "Goobta nadaafadda (musqulaha/qubeysiga) dabaqa 1aad ee dhinaca bari ee gaariga Cornavin. Waxaa maamula CFF. Gelitaan lacag ah (CHF 2), bilaash kuwa haysta kaarka SwissPass. Musqullo ka jaban (CHF 1) ayaa ku yaallay qolka hoose ee goobta gaariga.",
+    "target_audience": "Dadweynaha oo dhan",
+    "access_conditions": "Gelitaan lacag ah (CHF 2), bilaash kaarka SwissPass"
+  },
+  "r_0062": {
+    "description": "Musqullada dadweynaha ee bilaashka ah ee ku yaallay Beerta Bastions, u dhow Darbiga Dib-u-habeynta. Dadka naafada ah way geli karaan.",
+    "target_audience": "Dadweynaha oo dhan",
+    "access_conditions": "Gelitaan bilaash ah"
+  },
+  "r_0063": {
+    "description": "Musqullada dadweynaha ee bilaashka ah ee ku yaallay Plaine de Plainpalais, u dhow suuqa waxyaabaha duugga ah. Dayactir joogto ah oo ay sameeyaan adeegyada Magaalada.",
+    "target_audience": "Dadweynaha oo dhan",
+    "access_conditions": "Gelitaan bilaash ah"
+  },
+  "r_0064": {
+    "description": "Ceelka biyaha la cabbo ee dadweynaha ee bilaashka ah ee ku yaallay Jardin Anglais, u dhow Saacadda Ubaxyada. Biyo qabow sanadka oo dhan.",
+    "target_audience": "Dadweynaha oo dhan",
+    "access_conditions": "Gelitaan bilaash ah 24 saac/maalintii"
+  },
+  "r_0065": {
+    "description": "Ceelka dadweynaha ee biyaha la cabbo ee goobta ugu da'da badan ee Genève. Biyo bilaash ah oo la cabbo oo joogto ah.",
+    "target_audience": "Dadweynaha oo dhan",
+    "access_conditions": "Gelitaan bilaash ah 24 saac/maalintii"
+  },
+  "r_0066": {
+    "description": "Ceelka biyaha la cabbo ee dadweynaha ee ku yaallay Beerta Eaux-Vives, xeebta harada. Wanaagsan in lagu qaboojiyo marka socodka la qaadanayo.",
+    "target_audience": "Dadweynaha oo dhan",
+    "access_conditions": "Gelitaan bilaash ah 24 saac/maalintii"
+  },
+  "r_0067": {
+    "description": "Maktabadda magaalada ee bilaashka ah ee bartamaha xaafadda Servette. Goobaha dadka waaweyn iyo dhalinyarada oo kala socan, amaahinta buugaagta iyo warbaahinta, WiFi bilaash ah iyo hawlo dhaqameedyo.",
+    "target_audience": "Dadweynaha oo dhan",
+    "access_conditions": "Gelitaan bilaash ah, kaarka bilaash ah oo amaahinta"
+  },
+  "r_0068": {
+    "description": "Maktabadda magaalada ee bilaashka ah ee xaafadda Eaux-Vives. Goobaha dadka waaweyn iyo dhalinyarada, amaahinta buugaagta iyo warbaahinta, WiFi bilaash ah.",
+    "target_audience": "Dadweynaha oo dhan",
+    "access_conditions": "Gelitaan bilaash ah, kaarka bilaash ah oo amaahinta"
+  },
+  "r_0069": {
+    "description": "Maktabadda magaalada ee bilaashka ah ee xaafadda Jonction. Xulashada ballaaran ee buugaagta, goobta dhalinyarada, dhaqdhaqaaqyo iyo WiFi bilaash ah.",
+    "target_audience": "Dadweynaha oo dhan",
+    "access_conditions": "Gelitaan bilaash ah, kaarka bilaash ah oo amaahinta"
+  },
+  "r_0070": {
+    "description": "Maktabadda magaalada ee bilaashka ah ee bartamaha xaafadda caalamiga ah ee Pâquis. Amaahinta buugaagta luqado badan, WiFi bilaash ah iyo dhaqdhaqaaqyo.",
+    "target_audience": "Dadweynaha oo dhan",
+    "access_conditions": "Gelitaan bilaash ah, kaarka bilaash ah oo amaahinta"
+  },
+  "r_0071": {
+    "description": "Amaahinta bilaashka ah ee ciyaaraha miiska, ciyaaraha waxbarashada iyo ciyaaraha carruurta iyo qoysaska. Goobta ciyaaraha halka. Furan carruurta oo dhan ee la socda.",
+    "target_audience": "Carruurta, qoysaska, dadweynaha oo dhan",
+    "access_conditions": "Diiwaangelinta bilaash ah, amaahinta bilaash ah"
+  },
+  "r_0072": {
+    "description": "Maktabadda ciyaaraha ee xaafadda oo leh amaahinta bilaashka ah ee ciyaaraha miiska, ciyaaraha iyo ciyaaraha waxbarashada. Goob ciyaaro oo saaxiibtinimo leh iyo casharro ciyaareedyo.",
+    "target_audience": "Carruurta, qoysaska, dadweynaha oo dhan",
+    "access_conditions": "Diiwaangelinta bilaash ah, amaahinta bilaash ah"
+  },
+  "r_0073": {
+    "description": "Beerta magaalada ee wadaaga ee xaafadda Grottes. Qeybo wadaag, bacrin wadaag iyo casharro beer-abuur oo bilaash ah.",
+    "target_audience": "Dadka deggan xaafadda, kuwa jecel beer-abuurka",
+    "access_conditions": "Gelitaan bilaash ah, ka qaybgalka casharrada diiwaangelinta"
+  },
+  "r_0074": {
+    "description": "Beerta magaalada ee ka qaybqaadashada ee Beerta Beaulieu, oo uu maamulo ururka Les Artichauts. Casharrada beer-abuurka ee bilaashka ah Sabti galabnimo kasta, furan heer kasta. Wax soo saarka geedaha dabiiciga ah.",
+    "target_audience": "Dadka deggan xaafadda, dadweynaha oo dhan",
+    "access_conditions": "Gelitaan bilaash ah, casharrada beer-abuurka bilaash Sabtida 14h-17h (badhtamaha Febraayo ilaa dhammaadka Oktoobar)"
+  },
+  "r_0075": {
+    "description": "Joogitaanada ururka shaqaalaha. Talada xeerka shaqada, difaaca xuquuqda, caawinta marka shaqo ka joojin ama khilaaf shaqo dhaco.",
+    "target_audience": "Shaqaalaha, qaybaha oo dhan",
+    "access_conditions": "Furan shaqaalaha oo dhan, xubniyada adeegyada sharciga"
+  },
+  "r_0076": {
+    "description": "Ururka shaqaalaha ee qaybaha oo dhan. Joogitaanada sharciga, difaaca xuquuqda shaqada, wada-hadalada qoraalka ah.",
+    "target_audience": "Shaqaalaha qaybaha oo dhan",
+    "access_conditions": "Furan shaqaalaha oo dhan, xubniyada adeegyada sharciga"
+  },
+  "r_0077": {
+    "description": "Xarun la-talin bilaash ah oo sir ah ee dhibanayaasha falalka dambiyeedka. Taageerada nafsiyaadka, sharciga iyo bulshada. Gargaar dhaqaale degdeg ah.",
+    "target_audience": "Dhibanayaasha falalka dambiyeedka iyo eheladooda",
+    "access_conditions": "Bilaash oo sir ah, la-talinno ballan ah"
+  },
+  "r_0078": {
+    "description": "Adeegga dhageysi taleefan 24 saac/maalintii ee qof kasta oo dhibaatada ku jira, walwaal ama keligayn. Dhageysi aqoon la'aan ah, sir ah oo bilaash ah.",
+    "target_audience": "Qof kasta oo dhibaatada ku jira, keligayn ama walwaal",
+    "access_conditions": "Wac 143, bilaash, aqoon la'aan oo sir ah 24 saac/maalintii"
+  },
+  "r_0079": {
+    "description": "Khadka gargaarka carruurta iyo dhalinyarada, 24 saac/maalintii. Dhageysi, talo iyo hagitaan dhibaatooyinka gaarka ah, qoyska ama dugsiga.",
+    "target_audience": "Carruurta iyo dhalinyarada ilaa 25 sano",
+    "access_conditions": "Wac 147, bilaash, aqoon la'aan oo sir ah 24 saac/maalintii"
+  },
+  "r_0080": {
+    "description": "La-talinno bilaash ah oo sir ah oo ku saabsan caafimaadka galmoodka iyo taranka. Ka hortagga uurka, uurka, IST, talo guurka iyo waxbarashada galmoodka. Ka hortagga uurka degdegga ah oo ballan la'aan.",
+    "target_audience": "Qof kasta, gaar ahaan dhalinyarada iyo haweenka",
+    "access_conditions": "Bilaash, sir, ballan (ballan la'aan ka hortagga uurka degdegga ah)"
+  },
+  "r_0081": {
+    "description": "Baaritaanka VIH iyo IST ee aqoon la'aanta iyo sirta ee Isbitaalada Jaamacadda Genève. Baaritaanka degdegga VIH (55 CHF), baaritaanka dhamaystiran VIH/IST (155 CHF). La-talinno dabagal iyo daaweyn ee dadka qaba VIH.",
+    "target_audience": "Qof kasta oo doonaya baaritaanka VIH/IST",
+    "access_conditions": "Baaritaanka aqoon la'aanta oo ballan ah (www.testvih.ch ama taleefan), baaritaanka degdegga VIH laga bilaabo 55 CHF"
+  },
+  "r_0082": {
+    "description": "Farmashiyaha ku dhex yaallay xarunta caafimaadka Cité Générations (Rugta Caafimaadka Onex). Talada daawooyinka, dabagalka daaweynta iyo u dhowaanshaha degdegga dadka waaweyn iyo carruurta.",
+    "target_audience": "Dadweynaha oo dhan, bukaanada xarunta caafimaadka Cité Générations",
+    "access_conditions": "Furan oo dhan, shuruud la'aan"
+  },
+  "r_0083": {
+    "description": "Adeeg bartilmaameedsan oo qaybinta goobaha hoyga degdegga ah ee dadka aan guri lahayn. Wac xarunta si aad u hesho goob shabakadda dhexdeeda (hoyga PC Châtelaine, Richemont, guryaha ururrada). Tirada guud ee goobaha waa 184.",
+    "target_audience": "Dadka aan guri lahayn, xaalad degdeg ah",
+    "access_conditions": "Wac lambarka bilaashka ah 0800 22 22 10 si aad goob u hesho, soo-dhaweyn aan shuruud lahayn"
+  },
+  "r_0084": {
+    "description": "Goobta soo-dhaweynta maalintii aan shuruud lahayn ee Temple de la Servette ee dadka xaalad adag ku jira. Cuntada is-kaashiga, cabitaannada kulul, qoraa dadweyne (CV, warqado), casharrada Faransiis, Ingiriis iyo kombiyuutar, la-talinta sharciga bilaash ah.",
+    "target_audience": "Dadka xaalad adag ku jira, muhaajiriinta, dadka aan guri lahayn",
+    "access_conditions": "Shuruud la'aan, soo-dhaweyn aan shuruud lahayn"
+  },
+  "r_0085": {
+    "description": "Goobaha qubaysiga ee caanka ah ee xeebta harada Léman. Xeebta ciidda, berkadaha, boodista (3-10m), sauna iyo hammam, maqaayad caan ah. Soo-gelinta qiimo aad u jaban (2 CHF xagaaga, 1 CHF jiilaalka).",
+    "target_audience": "Dadweynaha oo dhan",
+    "access_conditions": "Gelitaan bilaash ah goobaha dadweynaha, soo-gelinta 2 CHF xagaaga iyo 1 CHF jiilaalka"
+  },
+  "r_0086": {
+    "description": "Xeebta dadweynaha ee bilaashka ah ee xeebta harada, ku wanaagsan qoysaska iyo carruurta. Goobta ciyaaraha, berkadaha carruurta, goobaha cagaaran iyo garoonada isboortiga.",
+    "target_audience": "Qoysaska, carruurta, dadweynaha oo dhan",
+    "access_conditions": "Gelitaan bilaash ah"
+  },
+  "r_0087": {
+    "description": "Garoonada isboortiga ee dadweynaha oo bilaash ah ee Beerta Bastions. Shatranj weyn, miisaska ping-pong, pétanque iyo goobta jimicsiga bannaanka.",
+    "target_audience": "Dadweynaha oo dhan",
+    "access_conditions": "Gelitaan bilaash ah"
+  },
+  "r_0088": {
+    "description": "Adeegga bilaashka ah ee dhexdhexaadinta si loo xalliyo khilaafaadka qoyska, bulshada, derisyada ama shaqada. Dhexdhexaadinta dambiyeedka, madaniga iyo caafimaadka.",
+    "target_audience": "Dadka deggan Magaalada Genève",
+    "access_conditions": "Bilaash, ballan"
+  },
+  "r_0089": {
+    "description": "Goobta soo-dhaweynta, macluumaadka iyo hawlaha dadka waayeelka ah. Macluumaadka adeegyada bilaash ah, caawinta maamulka, koorsayaasha, casharrada, shirarka, talada caafimaadka iyo kulammada da'yarta oo dhan.",
+    "target_audience": "Dadka waayeelka ah, hawl-gabayaasha iyo eheladooda",
+    "access_conditions": "Furan dadka waayeelka ah oo dhan iyo eheladooda, gelitaan bilaash ah"
+  },
+  "r_0090": {
+    "description": "Goobta shaqada ee wadaaga bilaash ah ee Maktabadda Cité. WiFi, qalabka korantada, miisaska shaqada iyo jawi deggan oo lagu shaqeeyo ama lagu bartobeto.",
+    "target_audience": "Ardayda, shaqaalaha madax-banaan, shaqo-raadiyayaasha, dadweynaha oo dhan",
+    "access_conditions": "Gelitaan bilaash ah, WiFi diyaar ah"
+  },
+  "r_0091": {
+    "description": "Casharrada hagaajinta bilaashka ah ee ururka FRC Genève. Mutadawaciin khabiirad ah ayaa hagaajiya qalabka elektaroonigga, dharka iyo baaskiillad. Dhacdooyin joogto ah (eeg bogga maalmaha iyo goobaha).",
+    "target_audience": "Dadweynaha oo dhan",
+    "access_conditions": "Gelitaan bilaash ah, Sabti kasta bishii (eeg bogga)"
+  },
+  "r_0092": {
+    "description": "Cashar hagaajinta bilaash ah ee Carouge. Mutadawaciin baa ku caawiya hagaajinta shayaadkaaga jabay: qalab yaryar, tolid, kombiyuutar, baaskiillad.",
+    "target_audience": "Dadweynaha oo dhan",
+    "access_conditions": "Gelitaan bilaash ah, Sabti kasta bishii (eeg bogga)"
+  },
+  "r_0093": {
+    "description": "Xarunta la-talinta iyo daraasaadka cilmi-nafsiga ee dadka soo galootiga ah. Taageerada cilmi-nafsiga ee ku habaysan dhaqanka asalka, caawinta dhaawacyada la xiriira qaxitaanka iyo is-dhexgalka.",
+    "target_audience": "Dadka soo galootiga ah, lamaanaha laba-dhaqan, qoysaska xaaladda dhaqamaha badan",
+    "access_conditions": "Ballan, la-talinno dadka soo galootiga ah iyo laba-dhaqan"
+  },
+  "r_0094": {
+    "description": "Musqullada dadweynaha ee bilaashka ah ee Place de Neuve, u dhow Tiyaatarka Weyn iyo Mathafka Rath. Dadka naafada ah way geli karaan.",
+    "target_audience": "Dadweynaha oo dhan",
+    "access_conditions": "Gelitaan bilaash ah"
+  },
+  "r_0095": {
+    "description": "Ceelka biyaha la cabbo ee bilaashka ah ee Beerta Grange, beerta xeebta ugu weyn ee Genève. Biyo qabow oo la heli karo sanadka oo dhan.",
+    "target_audience": "Dadweynaha oo dhan",
+    "access_conditions": "Gelitaan bilaash ah 24 saac/maalintii"
+  },
+  "r_0096": {
+    "description": "Musqullada dadweynaha ee bilaashka ah ee ku yaallay Quai du Mont-Blanc, u dhow Biyo-buuxinta. Furan sanadka oo dhan.",
+    "target_audience": "Dadweynaha oo dhan",
+    "access_conditions": "Gelitaan bilaash ah"
+  },
+  "r_0097": {
+    "description": "Beerta magaalada ee wadaaga ee bartamaha Arve iyo Rhône. Casharrada permaculture, bacrin wadaag ah iyo beer-abuur ka qaybqaadasho ah.",
+    "target_audience": "Dadka deggan xaafadda, dadweynaha oo dhan",
+    "access_conditions": "Gelitaan bilaash ah, ka qaybqaadashada codsiga"
+  },
+  "r_0098": {
+    "description": "Ceelka dadweynaha ee biyaha la cabbo ee horta Gaariga Cornavin. Barta buuxinta biyaha qabow oo bilaash ah ee bartamaha Genève.",
+    "target_audience": "Dadweynaha oo dhan",
+    "access_conditions": "Gelitaan bilaash ah 24 saac/maalintii"
+  },
+  "r_0099": {
+    "description": "Maktabadda ciyaaraha ee xaafadda oo leh amaahinta bilaashka ah ee ciyaaraha miiska, buuxyada iyo ciyaaraha da' kasta. Galabnimada ciyaaraha oo furan qoysaska.",
+    "target_audience": "Carruurta, qoysaska, dadweynaha oo dhan",
+    "access_conditions": "Ciyaaraha halka bilaash, diiwaangelinta sanadlaha ah 30 CHF amaahinta"
+  },
+  "r_0100": {
+    "description": "Gelitaanka WiFi ee bilaashka ah ee Beerta Grange oo ay bixiso Magaalada Genève. Isku xirnaanta bilaash ah ee mid ka mid ah beertiyaha ugu quruxda badan ee Genève.",
+    "target_audience": "Dadweynaha oo dhan",
+    "access_conditions": "Gelitaan bilaash ah"
+  },
+  "r_0101": {
+    "description": "Ururka taageerada bulshada LGBTIQ+. Checkpoint Genève (xarun caafimaad bulsho oo leh baaritaanka VIH/IST iyo taageero nafsiyaad), Le Refuge (hoy dhalinyarada LGBTIQ+), kooxaha wada-hadalka iyo hawlaha bulshada.",
+    "target_audience": "Bulshada LGBT+ iyo qof kasta oo khuseeyo",
+    "access_conditions": "Furan oo dhan, baaritaan bilaash ah oo aqoon la'aan ah"
+  },
+  "r_0102": {
+    "description": "Xarunta bulshada ee Saint-Jean oo bixinaysa hawlo da' kasta. Casharro, koorsayaasha luqadaha, taageerada dugsiga iyo dhacdooyin dhaqameedyo.",
+    "target_audience": "Dadka deggan xaafadda Saint-Jean, carruurta, dhallinyarada iyo dadka waaweyn",
+    "access_conditions": "Furan dadka deggan xaafadda oo dhan"
+  },
+  "r_0103": {
+    "description": "Taageero bilaash ah iyo macluumaad dadka ku dhacday kanserka. La-talinta cilmi-nafsiga-kanserka, kooxaha wada-hadalka iyo raacitaanka bulshada.",
+    "target_audience": "Dadka qaba kanserka iyo eheladooda",
+    "access_conditions": "Bilaash, ballan"
+  },
+  "r_0104": {
+    "description": "La-talinta caafimaadka dhimirka degdegga ah iyo dabagalka socdaalka bilaash ah ee dadka waaweyn ee dhibaatada maskaxda ku jira. Adeeg ku xiran HUG.",
+    "target_audience": "Dadka waaweyn ee qalalaasaha maskaxda ku jira",
+    "access_conditions": "Bilaash, ballan ama ballan la'aan iyadoo ku xiran degdegga"
+  },
+  "r_0105": {
+    "description": "Taageero bilaash ah ee dadka qaba macaanka iyo eheladooda. Talada nafaqada, kooxaha wadaagga iyo macluumaadka cudurka.",
+    "target_audience": "Dadka qaba macaanka iyo eheladooda",
+    "access_conditions": "Bilaash, ballan ama joogitaanada taleefanka"
+  },
+  "r_0106": {
+    "description": "Daryeelka caafimaadka koowaad ee dadka aan caymiska caafimaadka lahayn ama xaalad adag ku jira. La-talinta guud iyo hagitaanka.",
+    "target_audience": "Dadka aan caymiska caafimaadka lahayn ama xaalad adag ku jira",
+    "access_conditions": "La heli karo dadka aan caymis caafimaad lahayn, ballan"
+  },
+  "r_0107": {
+    "description": "Hay'adda Genève ee ilaalinta guriga. Daryeelka kalkaaliyaha, caawinta guriga iyo raacitaanka dadka waayeelka ah, bukaanka ama baxsanayaasha.",
+    "target_audience": "Dadka waayeelka ah, bukaanka ama baxsanayaasha u baahan daryeel guriga",
+    "access_conditions": "Dhakhtar wareegto ama codsi toos ah"
+  },
+  "r_0108": {
+    "description": "Taageero bilaash ah ee qoysaska iyo ehelada dadka qaba Alzheimer. Kooxaha wada-hadalka, la-talinta iyo hagitaanka adeegyada khaaska ah.",
+    "target_audience": "Qoysaska iyo ehelada dadka qaba Alzheimer ama daciifnimada maskaxda",
+    "access_conditions": "Bilaash, ballan"
+  },
+  "r_0109": {
+    "description": "Adeegga gobolka ee ilaalinta carruurnimada. Qiimaynta xaaladaha khatarta ah, tallaabooyinka ilaalinta iyo raacitaanka qoysaska dhibaatada ku jira.",
+    "target_audience": "Carruurta iyo qoysaska xaalad khatara ah ama dhibaatada ku jira",
+    "access_conditions": "Adeeg gobolleed, gelitaan warbixin ama codsi"
+  },
+  "r_0110": {
+    "description": "Raacitaanka waxbarashada iyo taageerada dugsiga ee dhalinyarada dhibaatada ku jira. Casharro, hoy waxbarasho iyo barnaamijyada dib-u-gelinta.",
+    "target_audience": "Dhalinyarada dhibaatada dugsiga, bulshada ama qoyska ku jira",
+    "access_conditions": "Hagitaanka SPMi ama codsi toos ah"
+  },
+  "r_0111": {
+    "description": "Goobta farshaxanka bilaashka ah ee carruurta 0 ilaa 6 sano iyo la-socotooda. Casharrada rinjiyeynta, samaynta, muusikada gudaha Beerta Perle du Lac.",
+    "target_audience": "Carruurta 0 ilaa 6 sano oo qof weyn la socda",
+    "access_conditions": "Bilaash, diiwaangelinta la'aan, carruurta la socdo"
+  },
+  "r_0112": {
+    "description": "Goobta soo-dhaweynta waaliddiinta-carruurta 0 ilaa 4 sano. Goobta ciyaaraha bilaash ah, wadaagga waaliddiinta iyo taageerada waalidnimada jawi diiran.",
+    "target_audience": "Waaliddiinta iyo carruurta 0 ilaa 4 sano",
+    "access_conditions": "Bilaash, diiwaangelinta la'aan, ilmuhu waa inuu waalidkiisa la joogaa"
+  },
+  "r_0113": {
+    "description": "Amaahinta bilaashka ah ee ciyaaraha iyo ciyaaraha carruurta iyo qoysaska. Ururinta ballaaran ee ciyaaraha miiska, ciyaaraha waxbarashada iyo ciyaaraha da' kasta.",
+    "target_audience": "Carruurta iyo qoysaska",
+    "access_conditions": "Diiwaangelinta bilaash ah, amaahinta ciyaaraha bilaash ah dadka deggan Carouge"
+  },
+  "r_0114": {
+    "description": "Adeegga amaahinta bilaashka ah ee baaskiilladda iskaa-wax-u-qabso Genève. Baaskiillad caadi ah iyo kuwo korantada ah oo diyaar u ah socdaalka magaalada maalinlaha ah.",
+    "target_audience": "Dadweynaha oo dhan",
+    "access_conditions": "Bilaash, aqoonsi iyo dammaanad loo baahan yahay"
+  },
+  "r_0115": {
+    "description": "Qiimo la dhimay ee diiwaangelinta gaadiidka dadweynaha Genève ee dadka dakhligoodu yar yahay. Dhimis ilaa 50% ee diiwaangelinta bishiiba iyo sanadkiiba.",
+    "target_audience": "Dadka dakhligoodu yar yahay oo deggan gobolka Genève",
+    "access_conditions": "Dakhli ku xiran, caddayn loo baahan yahay"
+  },
+  "r_0116": {
+    "description": "Bixinta kharashaadka gaadiidka dadweynaha ee kuwa ka faa'iidaysanaya gargaarka bulshada. Diiwaangelinta TPG waxaa ku jirta lacagta gargaarka dhaqaalaha.",
+    "target_audience": "Kuwa ka faa'iidaysanaya gargaarka bulshada",
+    "access_conditions": "U gaar ah kuwa ka faa'iidaysanaya gargaarka bulshada ee Hospice général"
+  },
+  "r_0117": {
+    "description": "Gelitaanka WiFi bilaash ah SBB-FREE gaariga Cornavin. Isku xirnaanta aan xadidnayn oo ku jirta gaariga oo dhan iyo meelaha sugitaanka.",
+    "target_audience": "Dadweynaha oo dhan",
+    "access_conditions": "Bilaash, shabakadda SBB-FREE, erayga sirta la'aan"
+  },
+  "r_0118": {
+    "description": "Gelitaanka WiFi bilaashka ah ee Magaalada Genève Jardin Anglais. Barta gelitaanka bannaanka oo leh muuqaalka Biyo-buuxinta iyo harada.",
+    "target_audience": "Dadweynaha oo dhan",
+    "access_conditions": "Bilaash, shabakadda Ville de Genève WiFi"
+  },
+  "r_0119": {
+    "description": "Gelitaanka WiFi bilaashka ah ee Magaalada Genève Plaine de Plainpalais. Aagga daboolka ballaaran ee meeshaas weyn ee magaalada.",
+    "target_audience": "Dadweynaha oo dhan",
+    "access_conditions": "Bilaash, shabakadda Ville de Genève WiFi"
+  },
+  "r_0120": {
+    "description": "Dhismaha jaamacadda oo bixiya WiFi bilaash ah iyo goobaha waxbarashada ee dadweynaha u furan. Maktabadda, qolalka shaqada iyo maqaayadda ay geli karaan.",
+    "target_audience": "Ardayda iyo dadweynaha oo dhan ee doonaya goob shaqo",
+    "access_conditions": "Bilaash, gelitaan bilaash ah goobaha dadweynaha ee dhismaha"
+  },
+  "r_0121": {
+    "description": "Dib-u-gelinta xirfadeed ee dadka ku dhacday dhibaatooyinka caafimaadka ama naafada ku jira. Horumarinta xirfadaha shakhsiga, xirfadeed iyo bulshada, qorshaynta mashruuca xirfadeed, tababarada shirkadaha iyo shaqo-siinta.",
+    "target_audience": "Dadka naafada ku jira ama dhibaatooyinka caafimaadka oo shaqo raadanaya",
+    "access_conditions": "Bilaash, hagitaanka AI, shaqo la'aanta ama gargaarka bulshada"
+  },
+  "r_0122": {
+    "description": "Goobta tababarka haweenka xirfad yar ama aan lahayn oo ku adkaysanaya shaqo-helitaanka. Koorsayaasha Faransiiska, kombiyuutarka, xirfadaha aasaasiga ah iyo raacitaanka madax-banaan iyo shaqo-gelinta.",
+    "target_audience": "Haweenka xirfad yar ama aan lahayn oo xaalad adag ku jira",
+    "access_conditions": "Bilaash tababarrada badankooda, diiwaangelinta xafiiska loo baahan yahay"
+  },
+  "r_0123": {
+    "description": "Raacitaanka xirfadeed ee dhalinyarada ka yar 25 sano si ay u guuleystaan wax-barasho shaqo iyo dadka 50 sano iyo ka badan ee ku soo laabashada shaqada. Tababar gaar ah iyo koox.",
+    "target_audience": "Dhalinyarada ka yar 25 sano oo tababar la'aan iyo dadka 50 sano iyo ka badan oo shaqo raadanaya",
+    "access_conditions": "Bilaash dhalinyarada ka yar 25 sano iyo dadka 50 sano iyo ka badan ee ku nool Genève"
+  },
+  "r_0124": {
+    "description": "Goobta wadaagga, macluumaadka iyo tababarka ururrada oo leh in ka badan 80 ururro maxalli ah iyo caalami ah. 13 qol oo kiro ah oo loo isticmaali karo dhacdooyin, shirkooyin iyo hawlaha ururrada.",
+    "target_audience": "Ururrada iyo dadka deggan xaafadda",
+    "access_conditions": "Gelitaan bilaash ah goobaha wadaaga, qabad qolalka"
+  },
+  "r_0125": {
+    "description": "Xarunta noloshada xaafadda oo bixinaysa hawlaha bulsho-dhaqameedka oo da' kasta. Casharro farshaxaneed, koorsayaasha luqadaha, dhacdooyin bulsheed iyo goobta kafeeto.",
+    "target_audience": "Dadka deggan Carouge iyo aaggeeda, da' kasta",
+    "access_conditions": "Gelitaan bilaash ah, hawlo qaar diiwaangelinta ah"
+  },
+  "r_0126": {
+    "description": "Goobta bulshada ee Vernier oo bixinaysa hawlo carruurta, dhallinyarada iyo dadka waaweyn. Taageerada dugsiga, casharro, socdaalasha iyo dhacdooyin dhaqamaha badan.",
+    "target_audience": "Dadka deggan Vernier, da' kasta",
+    "access_conditions": "Gelitaan bilaash ah, hawlo qaar diiwaangelinta ah"
+  },
+  "r_0127": {
+    "description": "Khadka dhageysi iyo taageerada dhibanayaasha rabshadaha galmoodka. Raacitaanka nafsiyaadka, sharciga iyo bulshada xaalad sir ah.",
+    "target_audience": "Dhibanayaasha rabshadaha galmoodka, inta badan haweenka iyo dadka LGBTIQ+",
+    "access_conditions": "Bilaash oo sir ah, ballan ama ballan la'aan"
+  },
+  "r_0128": {
+    "description": "Ururka raacitaanka iyo xorriyadda haweenka soo galootiga ah. Koorsayaasha Faransiiska, casharrada is-dhexgalka, la-talinta nafsiyaadka iyo taageerada bulshada.",
+    "target_audience": "Haweenka soo galootiga ah iyo qaxootiga",
+    "access_conditions": "Bilaash ama qiimo calaamad, diiwaangelinta koorsayaasha loo baahan yahay"
+  },
+  "r_0129": {
+    "description": "Taageero iyo raacitaan haweenka uurka leh ee dhibaatada ku jira. Dhageysi, caawinta shayga (dharka ilmaha, gaari-riixeed), talo iyo hagitaanka adeegyada bulshada.",
+    "target_audience": "Haweenka uurka leh ee dhibaatada ku jira iyo hooyooyinka dhowaan noqday",
+    "access_conditions": "Bilaash, ballan ama joogitaanada taleefanka"
+  },
+  "r_0130": {
+    "description": "Soo-dhaweynta maalintii ee dadka waayeelka ah ee lumin kara madax-banaanidooda. Hawlo ku haboon, cuntada iyo daryeelka u oggolaan kara qoyska inay nastaan.",
+    "target_audience": "Dadka waayeelka ah ee lumin kara madax-banaanidooda iyo eheladooda",
+    "access_conditions": "Dhakhtar wareegto, ka qaybgalka dhaqaale dakhli ku xiran"
+  },
+  "r_0131": {
+    "description": "Taageero iyo hagitaan ehelada daryeelayaasha ee gobolka Genève. Dhageysi, talo, kooxaha wada-hadalka iyo isku xirnaanta khayraadka jira.",
+    "target_audience": "Ehelada daryeelayaasha dadka waayeelka ah, bukaanka ama naafada",
+    "access_conditions": "Bilaash, ballan ama ballan la'aan"
+  },
+  "r_0132": {
+    "description": "Koorsayaasha bilaashka ah ama qiimo jaban ee dadka waaweyn qaybaha badan: luqadaha, kombiyuutarka, dhaqanka, horumarinta shakhsiga. Furan oo dhan shahaado shuruud la'aan.",
+    "target_audience": "Dadka waaweyn oo dhan oo shahaado shuruud la'aan",
+    "access_conditions": "Bilaash ama qiimo jaban, diiwaangelinta xilli kasta"
+  },
+  "r_0133": {
+    "description": "Xarunta khayraadka ee hay'adaha caalamiga ah iyo ururrada. Qolalka shirarka, goobaha shaqada wadaaga iyo adeegyada taageerada maamulka.",
+    "target_audience": "Ururrada, NGO-yada iyo hay'adaha caalamiga ah",
+    "access_conditions": "Gelitaan bilaash ah goobaha wadaaga, qabad qolalka shirarka"
+  },
+  "r_0134": {
+    "description": "La-talinta sharciga bilaashka ah ee dadka ajnabiga ah oo ku saabsan su'aalaha xeerka shisheeyaha, magangalyada, isku-keenista qoyska iyo ruqsadda degnaanshaha.",
+    "target_audience": "Dadka ajnabiga ah ee deggan gobolka Genève",
+    "access_conditions": "Bilaash, ballan la'aan, kan hore yimaado ayaa hore loo adeegeeyaa"
+  },
+  "r_0135": {
+    "description": "Joogitaanada sharciga bilaashka ah ee ku takhasustay xeerka magangalyada iyo shisheeyaha. Talo, raacitaanka nidaamyada iyo qorista dacwadaha.",
+    "target_audience": "Magangalyo-doonayaasha, qaxootiga iyo dadka la diiday",
+    "access_conditions": "Bilaash, ballan la-talinnada qoto dheer"
+  },
+  "r_0136": {
+    "description": "Talo iyo raacitaan bilaash ah ee dadka naafada ku jira iyo eheladooda. Caawinta maamulka, hagitaanka xirfadeed iyo taageerada bulshada.",
+    "target_audience": "Dadka naafada ku jira iyo eheladooda",
+    "access_conditions": "Bilaash, ballan"
+  },
+  "r_0137": {
+    "description": "Mathafka dabiiciga ah oo soo-gelinta bilaash ah. Ururrada joogtada ah ee xayawaanka, macdaniyaadka iyo dhagaxyada duugga ah. Bandhigyo ku meel gaar ah iyo hawlo carruureed.",
+    "target_audience": "Dadweynaha oo dhan, qoysaska iyo dugsiyada",
+    "access_conditions": "Soo-gelinta bilaash ururrada joogtada ah"
+  },
+  "r_0138": {
+    "description": "Mathafka ugu weyn ee Genève oo ururka joogtada ahi bilaash yahay. Farshaxanka, farshaxanka la isticmaalo iyo qadiimiyada, taariikhda hore ilaa farshaxanka casriga ah.",
+    "target_audience": "Dadweynaha oo dhan, kuwa jecel farshaxanka iyo taariikhda",
+    "access_conditions": "Ururka joogtada ah bilaash, bandhigyada ku meel gaarka ah lacag"
+  },
+  "r_0139": {
+    "description": "Mathafka Iswiiska ee dhoobeyaasha iyo muraayadda oo soo-gelinta bilaash ah. Ururrada gaarka ah dhismaha neo-baroque ee ka soo horjeedda Qasr Quruumaha.",
+    "target_audience": "Dadweynaha oo dhan, kuwa jecel farshaxanka qurxinta",
+    "access_conditions": "Soo-gelinta bilaash ururrada joogtada ah"
+  },
+  "r_0140": {
+    "description": "Mathafka u gaar ah tallaabooyinka bini'aadantinimada oo soo-gelinta bilaash ah Arbacada galabnimo. Bandhigyada wax-is-barashada taariikhda iyo caqabadaha bini'aadantinimada maanta.",
+    "target_audience": "Dadweynaha oo dhan, kuwa jecel taariikhda bini'aadantinimada",
+    "access_conditions": "Soo-gelinta bilaash Arbacada galabnimo (16:00-18:00), qiimo la dhimay diyaar ah"
+  },
+  "r_0141": {
+    "description": "Xarunta biyaha ee magaalada oo qiimo la dhimay dadka deggan ee dakhligoodu hooseeyo. Berkadda olimpikga, berkadda wax-barashada iyo goobta ladnaan.",
+    "target_audience": "Dadweynaha oo dhan, qiimo la dhimay dadka deggan ee dakhligoodu hooseeyo",
+    "access_conditions": "Qiimo la dhimay kaarka Cité Seniors ama kaalmada caymiska caafimaadka"
+  },
+  "r_0142": {
+    "description": "Maktabadda warbaahinta ee bilaashka ah oo bixisa buugaag, DVD, CD iyo gelitaanka internet bilaash ah. Dhaqdhaqaaqyada dhaqameedka, saacadda sheekada iyo goobta akhrinta raaxada.",
+    "target_audience": "Dadweynaha oo dhan, akhristayaasha iyo qoysaska xaafadda",
+    "access_conditions": "Gelitaan bilaash ah, diiwaangelinta bilaash ah amaahinta"
+  },
+  "r_0143": {
+    "description": "Maqaayad is-kaashi ah oo bixisa cuntooyin bilaash habeenkii dadka xaalad adag ku jira. Karinta heerka sare ah oo ku salaysan cuntada dheeraadka ah ee la soo ururiyay. Waxaa maareeyay Mater Fondazione iyadoo la shaqeynayso Food for Soul.",
+    "target_audience": "Dadka ku jira dhibaatada cuntada",
+    "access_conditions": "Cuntada habeenkii bilaash, hagitaan ururrada la-shaqeeyaha ah"
+  },
+  "r_0144": {
+    "description": "Maraq dadweyne oo bixiya cuntooyin bilaash ah duhurkii ee dadka aan khayraad lahayn. In ka badan 250 cuntooyin maalintii oo ay bixiyaan ururado khayraad kala duwan. Goobta kulanka gadaasha gaariga Cornavin.",
+    "target_audience": "Dadka aan khayraad lahayn, dadka aan guri lahayn",
+    "access_conditions": "Shuruud la'aan, furan qof kasta oo u baahan"
+  },
+  "r_0145": {
+    "description": "Xarunta soo-dhaweynta maalintii degdegga ah oo bixisa cuntooyin kulul bilaash ah, qubeysi, dhageysi iyo hagitaan. Soo-dhaweyn aan shuruud lahayn ee dadka la kulma keligaynta, meel-ka-saarida iyo cirib-tirida. CARE = Caritas Accueil Rencontre Échange.",
+    "target_audience": "Dadka xaalad adag ku jira, meel-ka-saarida, keligaynta",
+    "access_conditions": "Shuruud la'aan, soo-dhaweyn aan shuruud lahayn dadka waaweyn"
+  },
+  "r_0146": {
+    "description": "Hoyga degdegga ah oo bixiya magangalyo dadka aan guri lahayn. Quraacda iyo cuntada habeenkii bilaash. Muddada joogitaanku xaddidnayn. Suurtagal in la joogo maalintii jiilaalka. Goobta Haweenka oo gaar ah.",
+    "target_audience": "Dadka aan guri lahayn, haweenka keli ah ama carruurtooda la jooga",
+    "access_conditions": "Hoy codsiga, 10 ilaa 20 goob, muddo aan xadidnayn"
+  },
+  "r_0147": {
+    "description": "Hoyga habeenkii degdegga ah ee Magaalada Genève. Sariir, cuntada habeenkii, alaabta keydinta iyo gelitaanka qubeysiga oo bilaash ah. Muddo ugu badan 30 maalmood.",
+    "target_audience": "Dadka aan guri lahayn",
+    "access_conditions": "Wac xarunta hoyga degdegga ah 0800 22 22 10 (bilaash). Muddo ugu badan 30 maalmood."
+  },
+  "r_0148": {
+    "description": "Daaweynta caafimaadka bilaash ah oo sir ah ee dadka aan caymiska caafimaadka lahayn ama aan xaalad sharci lahayn. Daryeelka koowaad, la-talinta caafimaadka iyo kalkaaliyaha, hagitaanka adeegyada khaaska ah. In ka badan 4500 bukaan sanadkii.",
+    "target_audience": "Dadka aan caymiska caafimaadka lahayn, aan xaalad sharci lahayn, aan guri lahayn",
+    "access_conditions": "Laga bilaabo 16 sano, xaalad sharci shuruud la'aan, caymis la'aan la aqbalay, bilaash oo sir ah"
+  },
+  "r_0149": {
+    "description": "Xarunta caafimaadka bulshada LGBTIQ+ oo ku takhasustay caafimaadka galmoodka. Baaritaanka VIH/IST bilaash oo aqoon la'aan, daaweynta, tallaalka, la-talinta nafsiyaadka. Adeegga Dialogai.",
+    "target_audience": "Bulshada LGBTIQ+ iyo qof kasta oo khuseeyo caafimaadka galmoodka",
+    "access_conditions": "Baaritaanka bilaash oo aqoon la'aan ballan la'aan Isniinta iyo Khamiista"
+  },
+  "r_0150": {
+    "description": "Xafiiska ilkaha oo bixiya daryeelka aasaasiga qiimo aad u jaban ee dadka dakhligoodu hooseeyo. La-talinta dhakhtarka ilkaha 40 CHF, nadiifinta ilkaha 20 CHF. Dhakhaatiirta ilkaha iyo nadiifiyayaasha ilkaha waa mutadawiciin.",
+    "target_audience": "Shaqaalaha saboolka ah iyo dadka dakhligoodu hooseeyo oo aan gargaar bulsho lahayn",
+    "access_conditions": "Ballan Joogitaanada soo-dhaweynta bulshada. U gaar ah dadka dakhligoodu hooseeyo."
+  },
+  "r_0151": {
+    "description": "Ururka howlgalka lagula dagaalanayo VIH, cagaarshowga iyo IST. La-talinta nafsiyaadka bilaash (fashigii 1aad), baaritaanka sirta, talada sharciga iyo bulshada ee dadka nool VIH.",
+    "target_audience": "Dadka khuseeya VIH, IST, cagaarshowga",
+    "access_conditions": "La-talinta nafsiyaadka koowaad bilaash. Baaritaanno sir ah."
+  },
+  "r_0152": {
+    "description": "Raacitaanka bulshada iyo xirfadeed ee haweenka meel-ka-saarida ku jira. Caawinta tallaabooyinka maamulka, aqoonta xuquuqda, dib-u-hagaajinta xirfadeed. Dhageysi taleefan iyo taageero.",
+    "target_audience": "Haweenka ku jira meel-ka-saarida bulshada ama xirfadeed",
+    "access_conditions": "Bilaash, joogitaanada taleefanka saacadaha la tilmaamay"
+  },
+  "r_0153": {
+    "description": "Hoy haweenka ka soo badbaaday rabshadaha iyo ganacsiga aadanaha, carruur la joogo ama la'aan. Hoy degnaansho oo leh dabagal nafsi-bulsho qiyaastii 30 haween. Koorsayaasha Faransiiska iyo tababarka xirfadeed.",
+    "target_audience": "Haweenka ka soo badbaaday rabshadaha iyo ganacsiga, carruur la joogo ama la'aan",
+    "access_conditions": "Soo-dhaweynta taleefanka 8h30-12h. Hoyga degdegga 24 saac/maalintii."
+  },
+  "r_0154": {
+    "description": "Ururka is-kaashiga ee difaacaya xuquuqda shaqaalaha galmoodka. Soo-dhaweyn, dhageysi, taageero nafsi-bulsho, adeegyada sharciga, caawinta maamulka, ka hortagga IST iyo qalabka ka hortagga.",
+    "target_audience": "Dadka ku shaqeeya shaqada galmoodka",
+    "access_conditions": "Ballan la'aan saacadaha la tilmaamay. Soo-dhaweyn xukun la'aan ah."
+  },
+  "r_0155": {
+    "description": "Goob bilaash ah oo macluumaad iyo talo ah oo ku saabsan hagitaanka, tababarka iyo shaqada. La-taliyayaasha diyaar u ah ballan la'aan. Casharro mawduucyo ah: qiimaynta xirfadaha, CV, wareysiga shaqada, dib-u-beddelka.",
+    "target_audience": "Dhalinyarada iyo dadka waaweyn ee raadanaya hagitaan, tababar ama shaqo",
+    "access_conditions": "Bilaash, ballan la'aan, gelitaan bilaash ah"
+  },
+  "r_0156": {
+    "description": "Ururka shaqo-gelinta bulsho-xirfadeed ee dhalinyarada 15 ilaa 25 sano. Shaqooyin yaryar oo ku meel gaar ah, taageero gaar ah, tababarada diyaarinta iyo raacitaanka raadinta shaqada ama tababarka.",
+    "target_audience": "Dhalinyarada 15 ilaa 25 sano ee raadanaya shaqo ama tababar",
+    "access_conditions": "Bilaash, diiwaangelinta bogga ama goobta"
+  },
+  "r_0157": {
+    "description": "Ururad madax-banaan oo difaacaya xaqa magangalyada laga soo bilaabo 1986. Caawinta sharciga bilaash ah iyo wakiilashada qaxootiga. La-talinno ballan la'aan Isniinta. Raacitaan dhammaan nidaamka magangalyada.",
+    "target_audience": "Magangalyo-doonayaasha iyo qaxootiga",
+    "access_conditions": "Bilaash, la-talinno ballan la'aan Isniinta"
+  },
+  "r_0158": {
+    "description": "Ururka haweenka lesbiyanka ah iyo haweennimada furan haweenka oo dhan (cis, trans, laba-dhinaceed, queer). Soo-dhaweyn, dhageysi, macluumaad iyo is-kaashi. Hawlo: filim, habeenno, shirooyin, isboort.",
+    "target_audience": "Haweenka lesbiyanka ah, laba-dhinaceedka, trans, queer",
+    "access_conditions": "Furan haweenka oo dhan shuruud la'aan"
+  },
+  "r_0159": {
+    "description": "Goobta soo-dhaweynta, dhageysi iyo taageerada dhalinyarada LGBTIQ+ ee dhibaatada ku jira. Raacitaan gaar ah, kooxaha taageerada, sheeko-sheeko aqoon la'aan oo online ah, hoy 3 ilaa 6 bilood laga bilaabo 18 sano.",
+    "target_audience": "Dhalinyarada LGBTIQ+ iyo dadka ku hareeraysan",
+    "access_conditions": "Ballan ama ballan la'aan, sheeko-sheeko aqoon la'aan oo online ah"
+  },
+  "r_0160": {
+    "description": "Ururka u adeegaya kala-duwanaanshaha galmoodka iyo jinsiga. Soo-dhaweyn, macluumaad, dhageysi iyo hagitaan dadka LGBTIQ+. Adeegga sharciga ee gaarka ah ee Suisse Romande. Kooxo: Trans*, Waaliddiinta isku-jinsiga, Bi, Tamalou (waayeelka).",
+    "target_audience": "Dadka LGBTIQ+ iyo eheladooda",
+    "access_conditions": "Soo-dhaweyn bilaash ah ballan la'aan"
+  },
+  "r_0161": {
+    "description": "Ururka ka hortagga iyo raacitaanka dadka ku qaniinay khamriga iyo qoysaskooda. Talo xirfadeed, daaweynta socdaalka, kooxaha taageerada, fasaxo.",
+    "target_audience": "Dadka khuseeya khamriyada iyo eheladooda",
+    "access_conditions": "Soo-dhaweyn bilaash ah, bilaash"
+  },
+  "r_0162": {
+    "description": "Xarun maalin ah ee dadka ku qaniinay daroogada. Soo-dhaweyn, dhageysi, cunto, hawlo iyo raacitaan daryeelka. Ururka ARGOS waxay kaloo bixisaa xarumaha degnaanshada ee dib-u-gelinta.",
+    "target_audience": "Dadka ku qaniinay daroogada",
+    "access_conditions": "Soo-dhaweyn bilaash ah, ballan la'aan"
+  },
+  "r_0163": {
+    "description": "Xarunta ka hortagga oo isku keenaysa FEGPA (khamri iyo hashiish), CIPRET (tubaako) iyo RNVP (ciyaaraha/shaashiyada). Talooyiin bilaash ah oo sir ah qof kasta oo khuseeyo qaniinyada ama eheladooda.",
+    "target_audience": "Qof kasta oo khuseeyo qaniinyada, dhalinyarada iyo ehelada",
+    "access_conditions": "La-talinno bilaash ah oo sir ah, ballan"
+  },
+  "r_0164": {
+    "description": "Ururka waaliddiinta iyo asxaabta dadka naafada maskaxda ku jira. Macluumaad, talo, taageero qoysaska. Hawlaha madadaalada, fasaxo nasasho, safarro. Difaaca xuquuqda.",
+    "target_audience": "Dadka naafada maskaxda ku jira iyo qoysaskooda",
+    "access_conditions": "La xiriir taleefan ama iimayl"
+  },
+  "r_0165": {
+    "description": "Ururka is-kaashiga ugu weyn ee dadka naafada ku jira ee Switzerland. Talo sharciyeed bilaash ah ee caymisyada bulshada (AI, APG). Hawlaha kulanka carruurta naafada ku jira.",
+    "target_audience": "Dadka naafada ku jira",
+    "access_conditions": "Talo sharciyeed bilaash xubnaha"
+  },
+  "r_0166": {
+    "description": "Ururka ku dhiirrigelinaya dadka waayeelka ah inay firfircoon yihiin oo madax-banaan. Hawlo kala duwan: koorsayaal, casharro, socdaalasha, shirooyin, isboort. Barnaamijka 'Seniors d'ici et d'ailleurs' ee is-dhexgalka.",
+    "target_audience": "Dadka waayeelka ah 50 sano iyo ka badan",
+    "access_conditions": "Furan dadka 50 sano iyo ka badan"
+  },
+  "r_0167": {
+    "description": "Wadaadnimada isugu jirta oo bixisa joogitaan, dhageysi iyo taageero magangalyo-doonayaasha iyo qaxootiga. Koorsayaasha Faransiiska, kombiyuutarka, cuntooyin wadaag, hawlaha isboortiga iyo dhaqameedka.",
+    "target_audience": "Magangalyo-doonayaasha iyo qaxootiga Genève",
+    "access_conditions": "Furan magangalyo-doonayaasha iyo qaxootiga oo dhan"
+  },
+  "r_0168": {
+    "description": "Soo-dhaweynta iyo raacitaanka qaxootiga LGBTIQ+. Joogitaanada sharciga oo la kaashanayo elisa-asile, taageero iyo hawlaha wacyi-gelinta.",
+    "target_audience": "Qaxootiga iyo magangalyo-doonayaasha LGBTIQ+",
+    "access_conditions": "Furan qof kasta oo LGBTIQ+ ah oo qaxooti ah ama magangalyo doonaya"
+  },
+  "r_0169": {
+    "description": "Maktabadda ciyaarta ee degmada oo bilaash ah oo lagu ciyaaro goobta. Ciyaaraha miiska ee caadiga ah iyo kuwa iskaashiga ah oo ku kala qaybsan laba dabaq. Amaahinta ciyaaraha oo leh rukhsad sannadeed oo qoys (30 CHF). Shaqaalaha ayaa diyaar u ah talada.",
+    "target_audience": "Carruurta, qoysaska, hay'adaha xaafadda",
+    "access_conditions": "Ciyaarta goobta waa bilaash. Amaahinta leh rukhsad qoys sannadeed (30 CHF). Carruurta ka yar 6 sano oo ay weheliyaan qof weyn."
+  },
+  "r_0170": {
+    "description": "Maktabadda ciyaarta ee degmada oo bilaash ah oo lagu ciyaaro goobta, gudaha Manège en Ville. Qiyaastii 1000 ciyaar oo miis ah, ciyaaraha fiidiyowga iyo ciyaaraha da'yar ilaa da'weyn. Amaahinta leh rukhsad qoys (30 CHF/sannad). Tartamaayo iyo dhacdooyinka la qabanayo.",
+    "target_audience": "Carruurta, qoysaska, da'a walba (dhallaanka ilaa dadka waaweyn)",
+    "access_conditions": "Ciyaarta goobta waa bilaash. Amaahinta leh rukhsad qoys sannadeed (30 CHF). Carruurta ka yar 6 sano oo ay weheliyaan qof weyn."
+  },
+  "r_0171": {
+    "description": "Hoy degdeg ah oo loogu tala galay haweenka xaalad adag ku jira, guriyaleyda ama qaxootiyada carruurta haysta. 30 boos oo qaabilaad ah oo shuruud la'aan ah iyo 21 boos oo loogu tala galay haweenka kaalmada bulshada heysta. Qolal keli ah ama laba qof, saddex cunto maalin kasta, dharka dhaqid, caawimaad bulsho.",
+    "target_audience": "Haweenka guriyaleyda ah, haweenka xaalad adag ku jira, qaxootiyada carruurta haysta",
+    "access_conditions": "La xiriir khadka hoyga degdegga ee Geneva: 0800 22 22 10 (Isn-Jim 10:30-20:00, Sab-Axad 15:00-20:00). Bukin toos ah ma jiro."
+  },
+  "tag": {
+    "143": "143",
+    "147": "147",
+    "15-25 ans": "15-25 sano",
+    "24h": "24s",
+    "50+": "50+",
+    "AI": "AI",
+    "AVS": "AVS",
+    "Belle-Idée": "Belle-Idée",
+    "CFF": "CFF",
+    "CV": "CV",
+    "Carouge": "Carouge",
+    "Cité Générations": "Cité Générations",
+    "Cornavin": "Cornavin",
+    "Croix-Rouge": "Croix-Rouge",
+    "FLE": "FLE",
+    "FRC": "FRC",
+    "HUG": "HUG",
+    "Hospice général": "Hospice général",
+    "IST": "IST",
+    "LAVI": "LAVI",
+    "LGBT": "LGBT",
+    "LGBTIQ+": "LGBTIQ+",
+    "Onex": "Onex",
+    "Plainpalais": "Plainpalais",
+    "SBB": "SBB",
+    "SIT": "SIT",
+    "SOS": "SOS",
+    "TPAE": "TPAE",
+    "TPG": "TPG",
+    "UNIA": "UNIA",
+    "VIH": "VIH",
+    "Vernier": "Vernier",
+    "abri": "hoy",
+    "accessibilité": "gelitaan",
+    "accompagnement": "raacitaan",
+    "accueil": "soo-dhaweyn",
+    "accueil de jour": "soo-dhaweyn maalin",
+    "activités": "hawlo",
+    "addiction": "qaniinyo",
+    "administratif": "maamul",
+    "administration": "maamul",
+    "adolescents": "dhallinyaro",
+    "adultes": "dad waaweyn",
+    "aide": "gargaar",
+    "aide financière": "gargaar dhaqaale",
+    "aide matérielle": "gargaar shay",
+    "aide sociale": "gargaar bulsho",
+    "aide à domicile": "caawimo guriga",
+    "alcool": "khamri",
+    "alimentaire": "cunto",
+    "allaitement": "naas-nuujin",
+    "alzheimer": "alzheimer",
+    "anonyme": "aqoon la'aan",
+    "anti-gaspillage": "ka-hortagga khasaaraha",
+    "antigaspillage": "ka-hortagga khasaaraha",
+    "apprentissage": "tababar",
+    "archéologie": "qadiimiyad",
+    "armée du salut": "armée du salut",
+    "art": "farshaxan",
+    "artichauts": "artichauts",
+    "arts": "farshaxanno",
+    "asile": "magangalyo",
+    "associations": "ururrado",
+    "assurance": "caymis",
+    "assurances sociales": "caymisyada bulshada",
+    "ateliers": "casharro",
+    "autonomie": "madax-banaanid",
+    "autonomisation": "xorriyadda",
+    "avocats": "qareenno",
+    "bail": "kirada",
+    "bains": "qubeysi",
+    "banque": "bangi",
+    "bas prix": "qiimo jaban",
+    "bas seuil": "marxalad hoose",
+    "bateau": "doon",
+    "beaulieu": "beaulieu",
+    "bibliothèque": "maktabad",
+    "bien-être": "ladnaan",
+    "bébé": "ilmo",
+    "bénévoles": "mutadawiciin",
+    "café": "kafeeto",
+    "cancer": "kanser",
+    "cannabis": "hashiish",
+    "cantonal": "gobolleed",
+    "caritas": "caritas",
+    "carouge": "carouge",
+    "carrière": "xirfad",
+    "centrale": "xarun",
+    "centre-ville": "bartamaha",
+    "chômage": "shaqo la'aan",
+    "citoyenneté": "muwaadinnimo",
+    "coaching": "tababar",
+    "colis": "baakado",
+    "collecte": "ururinta",
+    "communautaire": "bulsho",
+    "communauté": "bulsho",
+    "compétences": "xirfado",
+    "confidentiel": "sir",
+    "conflits": "khilaafaad",
+    "conférences": "shirooyin",
+    "conseil": "talo",
+    "conseils": "talooyiin",
+    "consultation": "la-talin",
+    "contraception": "ka hortagga uurka",
+    "cornavin": "cornavin",
+    "cours": "koorsayaal",
+    "coworking": "shaqo wadaag",
+    "crise": "qalalaase",
+    "croix-rouge": "croix-rouge",
+    "crèche": "xanaano",
+    "créativité": "hal-abuurnimo",
+    "culture": "dhaqan",
+    "curatelle": "wakiilnimo",
+    "céramique": "dhoobey",
+    "dentaire": "ilko",
+    "diabète": "macaan",
+    "distribution": "qaybinta",
+    "diversité": "kala-duwanaansho",
+    "divorce": "furiin",
+    "diététique": "nafaqo",
+    "domicile": "guri",
+    "douche": "qubeysi",
+    "douches": "qubeysiyo",
+    "drogue": "daroogo",
+    "drogues": "daroogooyiin",
+    "droit": "sharci",
+    "droit des étrangers": "xeerka shisheeyaha",
+    "droits": "xuquuqda",
+    "démence": "daciifnimada maskaxda",
+    "dépendance": "ku-tiirsanaan",
+    "dépistage": "baaritaan",
+    "détresse": "dhibaato",
+    "eau potable": "biyo la cabbo",
+    "eaux-vives": "eaux-vives",
+    "emploi": "shaqo",
+    "enfance": "carruurnimo",
+    "enfants": "carruur",
+    "espace partagé": "goob wadaag",
+    "espace travail": "goob shaqo",
+    "ethnopsychologie": "cilmi-nafsi dhaqameed",
+    "extérieur": "dibadda",
+    "factures": "biilal",
+    "famille": "qoys",
+    "familles": "qoysas",
+    "femmes": "haween",
+    "femmes migrantes": "haween soo galootiga ah",
+    "financière": "dhaqaale",
+    "fitness": "jimicsi",
+    "fontaine": "ceel",
+    "formation": "tababar",
+    "fr": "fr",
+    "français": "faransiis",
+    "français professionnel": "faransiis xirfadeed",
+    "frigo": "qaboojiye",
+    "féministe": "haweennimo",
+    "garderie": "xanaano",
+    "gare": "gaari",
+    "gastronomique": "karinta heerka sare",
+    "grange": "grange",
+    "gratuit": "bilaash",
+    "grossesse": "uur",
+    "groupe": "koox",
+    "handicap": "naafanimo",
+    "handicap mental": "naafada maskaxda",
+    "histoire": "taariikh",
+    "hiver": "jiilaal",
+    "humanitaire": "bini'aadantinimo",
+    "hydratation": "biyo-cabid",
+    "hygiène": "nadaafad",
+    "hébergement": "hoy",
+    "infirmiers": "kalkaaliyayaal",
+    "information": "macluumaad",
+    "informatique": "kombiyuutar",
+    "infractions": "fallo dambiyeed",
+    "insertion": "shaqo-gelin",
+    "interactif": "wax-is-barasho",
+    "interculturel": "dhaqamaha badan",
+    "international": "caalami",
+    "internet": "internet",
+    "intégration": "is-dhexgal",
+    "invendus": "aan la iibin",
+    "jardin": "beer",
+    "jeu": "ciyaar",
+    "jeunes": "dhallinyaro",
+    "jeunesse": "dhallinyaronimo",
+    "jeux": "ciyaaro",
+    "jonction": "jonction",
+    "jouets": "ciyaaro",
+    "jour": "maalin",
+    "juridique": "sharci",
+    "lac": "harad",
+    "langues": "luqado",
+    "laverie": "dhaqis",
+    "lesbienne": "lesbiyaan",
+    "libre-service": "iskaa-wax-u-qabso",
+    "licenciement": "shaqo-ka-joojin",
+    "livres": "buugaag",
+    "locataires": "kireystayaal",
+    "logement": "guri",
+    "loisirs": "madadaalo",
+    "loyer": "kirada",
+    "ludothèque": "maktabad ciyaaraha",
+    "maintien à domicile": "daryeelka guriga",
+    "maladie chronique": "cudur joogto ah",
+    "maraude": "socdaalka wadooyinka",
+    "maternité": "dhalmada",
+    "meubles": "qalabka guriga",
+    "midi": "duhur",
+    "migrantes": "soo-galootiga",
+    "migrants": "muhaajiriin",
+    "migration": "soo-galootinimo",
+    "mineurs": "yaryar",
+    "mobile": "guurguure",
+    "mobilité": "socdaal",
+    "molard": "molard",
+    "multilingue": "luqado badan",
+    "musée": "mathaf",
+    "médecin": "dhakhtar",
+    "médecine générale": "caafimaadka guud",
+    "médiathèque": "maktabad warbaahinta",
+    "médiation": "dhexdhexaadin",
+    "médicaments": "daawooyin",
+    "natation": "dabaasha",
+    "nature": "dabiici",
+    "nuit": "habeen",
+    "offres": "fursadaha",
+    "orientation": "hagitaan",
+    "parc": "beer",
+    "parc de la grange": "beerta grange",
+    "parentalité": "waalidnimo",
+    "parents": "waaliddiin",
+    "parents-enfants": "waaliddiin-carruur",
+    "partage": "wadaag",
+    "permaculture": "permaculture",
+    "permanence": "joogitaan",
+    "permis": "ruqsad",
+    "personnes âgées": "dadka waayeelka ah",
+    "petite enfance": "carruurnimada hore",
+    "petits boulots": "shaqooyiin yaryar",
+    "petits-déjeuners": "quraacyo",
+    "pharmacie": "farmashiye",
+    "piscine": "berkad",
+    "place de neuve": "place de neuve",
+    "plage": "xeeb",
+    "plaine": "bannaanka",
+    "plainpalais": "plainpalais",
+    "planning familial": "qorsheynta qoyska",
+    "plein air": "bannaanka",
+    "ponctuel": "mar keliya",
+    "potager": "beer khudaar",
+    "prestations": "adeegyada",
+    "prix réduits": "qiimo la dhimay",
+    "pro juventute": "pro juventute",
+    "proches aidants": "ehelada daryeelayaasha",
+    "protection": "ilaalin",
+    "précarité": "xaalad adag",
+    "prévention": "ka hortagga",
+    "prêt": "amaah",
+    "psychiatrie": "caafimaadka dhimirka",
+    "psycho-oncologie": "nafsi-kanser",
+    "psychologie": "cilmi-nafsiga",
+    "psychologique": "nafsiyaad",
+    "psychologue": "cilmi-nafsi-yahan",
+    "psychopédagogique": "cilmi-nafsi-waxbarasho",
+    "public": "dadweyne",
+    "pâquis": "pâquis",
+    "quai": "xeebta",
+    "quartier": "xaafad",
+    "reconversion": "dib-u-beddel",
+    "recours": "dacwad",
+    "redistribution": "dib-u-qaybinta",
+    "refuge": "hoy",
+    "repair café": "repair café",
+    "repas": "cunto",
+    "repos": "nasasho",
+    "ressources": "khayraad",
+    "restaurant": "maqaayad",
+    "récupération": "soo-celinta",
+    "réduction": "dhimid",
+    "réduction des risques": "yaraynta khatarta",
+    "réfugiés": "qaxooti",
+    "réinsertion": "dib-u-gelin",
+    "réorientation": "dib-u-hagaajin",
+    "réparation": "hagaajin",
+    "répit": "nasasho",
+    "réseau": "shabakad",
+    "résolution": "xallin",
+    "réunions": "kulammo",
+    "sages-femmes": "umulisooyiin",
+    "saint-jean": "saint-jean",
+    "sans assurance": "caymis la'aan",
+    "sans rendez-vous": "ballan la'aan",
+    "sans-abri": "guri la'aan",
+    "sans-papiers": "warqado la'aan",
+    "santé": "caafimaad",
+    "santé mentale": "caafimaadka maskaxda",
+    "santé sexuelle": "caafimaadka galmoodka",
+    "sauna": "sauna",
+    "sciences": "sayniska",
+    "seconde main": "gacanta labaad",
+    "seniors": "waayeelka",
+    "servette": "servette",
+    "social": "bulsho",
+    "socioculturel": "bulsho-dhaqameed",
+    "soins": "daryeel",
+    "soins à domicile": "daryeelka guriga",
+    "solidaire": "is-kaashi",
+    "soupe": "maraq",
+    "soupe populaire": "maraq dadweyne",
+    "soutien": "taageero",
+    "soutien scolaire": "taageerada dugsiga",
+    "sport": "isboort",
+    "stages": "tababarro",
+    "substitution": "beddelka",
+    "suicide": "is-dil",
+    "syndicat": "urur shaqaale",
+    "sécheron": "sécheron",
+    "tabac": "tubaako",
+    "tarif réduit": "qiimo la dhimay",
+    "tarif social": "qiimo bulsho",
+    "toilettes": "musqullo",
+    "toxicodépendance": "ku-tiirsanaanta daroogada",
+    "traite": "ganacsi aadane",
+    "traitement": "daaweyn",
+    "trans": "trans",
+    "transport": "gaadiid",
+    "travail": "shaqo",
+    "travail du sexe": "shaqada galmoodka",
+    "travailleurs pauvres": "shaqaale sabool",
+    "tutelle": "mas'uuliyad",
+    "téléphone": "taleefan",
+    "université": "jaamacad",
+    "urbain": "magaalo",
+    "urgence": "degdeg",
+    "verre": "muraayad",
+    "vestiaire": "qolka dharka",
+    "victimes": "dhibanayaal",
+    "vie associative": "noloshada ururrada",
+    "vieille ville": "magaalada hore",
+    "ville": "magaalo",
+    "violence": "rabshad",
+    "violence conjugale": "rabshadaha xiriirka",
+    "violences": "rabshadaha",
+    "violences sexuelles": "rabshadaha galmoodka",
+    "vélos": "baaskiillad",
+    "vêtements": "dhar",
+    "wifi": "wifi",
+    "écologie": "deegaanka",
+    "écologique": "deegaan",
+    "écoute": "dhageysi",
+    "éducation": "waxbarasho",
+    "épicerie": "dukaan",
+    "étrangers": "ajnabi",
+    "étude": "daraasad",
+    "étudier": "barto"
+  }
+}

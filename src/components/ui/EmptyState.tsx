@@ -10,9 +10,14 @@ export function EmptyState({ message }: EmptyStateProps) {
 
   return (
     <div className="flex flex-col items-center justify-center py-12 px-4 text-center">
-      <SearchX size={48} className="text-gray-300 mb-4" />
+      <div className="animate-float">
+        <SearchX size={48} className="text-gray-300 mb-4" />
+      </div>
       <p className="text-gray-500 text-sm">
         {message || t('search.noResults')}
+      </p>
+      <p className="text-gray-400 text-xs mt-1">
+        {t('search.noResultsHint')}
       </p>
     </div>
   )

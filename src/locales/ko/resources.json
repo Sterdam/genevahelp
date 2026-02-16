@@ -1,0 +1,1214 @@
+{
+  "r_0001": {
+    "description": "취약 계층을 위한 무료 식품 배급. 점심과 저녁에 따뜻한 식사 제공. 무조건적 환영.",
+    "target_audience": "취약 계층 모든 분",
+    "access_conditions": "조건 없음, 누구에게나 개방"
+  },
+  "r_0002": {
+    "description": "제네바 변호사회에서 제공하는 무료 법률 상담. 모든 법적 문의에 대해 예약 없이 초기 법률 자문 가능.",
+    "target_audience": "법률 자문이 필요한 모든 분",
+    "access_conditions": "예약 불필요, 선착순"
+  },
+  "r_0003": {
+    "description": "누구나 무료로 음식을 넣거나 가져갈 수 있는 셀프서비스 냉장고. 음식물 낭비 방지 활동.",
+    "target_audience": "모든 분",
+    "access_conditions": "24시간 자유 이용"
+  },
+  "r_0004": {
+    "description": "연대 식료품점 및 의류 배급. 경제적 어려움을 겪는 분들을 위한 사회적 동반 지원. 식품 및 의류 지원.",
+    "target_audience": "저소득층",
+    "access_conditions": "저소득 증명서 제시 필요"
+  },
+  "r_0005": {
+    "description": "무료 법률 및 사회 상담. 행정 지원, 외국인법, 노동법, 사회보험 관련 자문.",
+    "target_audience": "법적 또는 행정적 어려움을 겪는 모든 분",
+    "access_conditions": "예약제, 첫 상담 무료"
+  },
+  "r_0006": {
+    "description": "취약 계층을 위한 건강 서비스, 사회 지원 및 동반 지원. 이주민 및 난민 지원 프로그램.",
+    "target_audience": "취약 계층, 이주민, 난민",
+    "access_conditions": "프로그램에 따라 다름, 일부 예약 필요"
+  },
+  "r_0007": {
+    "description": "취약 계층 가정 및 개인을 위한 주간 식품 꾸러미 배급. 신선 식품 및 기본 식품.",
+    "target_audience": "저소득 가정 및 개인",
+    "access_conditions": "등록 필요, 재정 상황 증명서 지참"
+  },
+  "r_0008": {
+    "description": "주(州) 사회복지 기관. 재정 지원, 사회 동반 지원, 주거 지원 및 직업 재통합.",
+    "target_audience": "경제적 어려움을 겪는 제네바 주 거주자",
+    "access_conditions": "예약제, 제네바 주 거주자"
+  },
+  "r_0009": {
+    "description": "샤워 시설, 세탁기, 건조기 무료 이용. 노숙인 또는 취약 계층을 위한 위생 공간.",
+    "target_audience": "노숙인, 취약 계층",
+    "access_conditions": "조건 없음, 자유 이용"
+  },
+  "r_0010": {
+    "description": "건강보험 미가입자를 위한 무료 의료 상담. 1차 진료, 안내 및 건강 동반 지원.",
+    "target_audience": "건강보험 미가입자, 미등록 체류자",
+    "access_conditions": "건강보험 미가입자, 예약 불필요"
+  },
+  "r_0011": {
+    "description": "이주 여성을 위한 무료 프랑스어 수업. 수업 중 아이 돌봄 서비스 제공. 통합 및 사회화 워크숍.",
+    "target_audience": "이주 여성 및 자녀",
+    "access_conditions": "이주 여성, 학기 초 등록"
+  },
+  "r_0012": {
+    "description": "무료 또는 저렴한 야간 수업: 프랑스어, 컴퓨터, 회계, 외국어. 성인 평생교육.",
+    "target_audience": "학습을 원하는 성인",
+    "access_conditions": "학기 초 등록, 소득에 따른 할인 요금"
+  },
+  "r_0013": {
+    "description": "야간 긴급 숙소. 노숙인 무조건적 수용. 저녁 식사 및 아침 식사 포함.",
+    "target_audience": "노숙인",
+    "access_conditions": "조건 없음, 저녁 무조건적 수용"
+  },
+  "r_0014": {
+    "description": "폭력 피해 여성을 위한 접수, 경청 및 긴급 숙소. 심리 지원 및 법률 동반 지원.",
+    "target_audience": "가정폭력 피해 여성",
+    "access_conditions": "24시간 전화 상담, 평가에 따른 숙소 제공"
+  },
+  "r_0015": {
+    "description": "매우 저렴한 가격의 의류, 가구, 물품 판매 연대 매장. 중고 물품 수거 및 재분배.",
+    "target_audience": "모든 분, 저소득층",
+    "access_conditions": "누구에게나 개방, 연대 가격"
+  },
+  "r_0016": {
+    "description": "외국인을 위한 정보 및 안내. 보조금 지원 프랑스어 수업, 통합 지원, 인종차별 및 차별 예방.",
+    "target_audience": "제네바 거주 외국인",
+    "access_conditions": "제네바 주 거주 외국인"
+  },
+  "r_0017": {
+    "description": "Parc des Bastions에서 제네바 시가 제공하는 무료 WiFi. 자유롭고 무제한 연결.",
+    "target_audience": "모든 분",
+    "access_conditions": "자유 이용"
+  },
+  "r_0018": {
+    "description": "사회, 문화, 교육 활동을 제공하는 커뮤니티 공간. 무료 또는 저렴한 수업, 워크숍, 행사.",
+    "target_audience": "Plainpalais 지구 주민",
+    "access_conditions": "지구 주민 모두에게 개방"
+  },
+  "r_0019": {
+    "description": "상점의 판매되지 않은 식품을 수거하여 필요한 분들에게 무료 재분배. 식품 낭비 방지.",
+    "target_audience": "식품 빈곤 상황에 있는 분",
+    "access_conditions": "등록 필요, 재정 상황 증명서"
+  },
+  "r_0020": {
+    "description": "긴급 재정 지원, 사회 동반 지원, 적합한 서비스로의 안내. 제네바 시 주민 지원.",
+    "target_audience": "어려움을 겪는 제네바 시 주민",
+    "access_conditions": "제네바 시 거주자"
+  },
+  "r_0021": {
+    "description": "망명 신청자 및 이주민을 위한 1차 진료 상담. 망명자 건강 네트워크 파트너로서 문화 간 및 심리사회적 접근 방식. 통역사를 통한 상담 가능.",
+    "target_audience": "망명 신청자, 난민, 이주민",
+    "access_conditions": "예약제, 월~금 9시~11시 30분 및 13시 30분~17시 예약 접수"
+  },
+  "r_0022": {
+    "description": "구직자를 위한 직업 재통합 프로그램. 워크숍, 실무 교육 및 맞춤형 동반 지원.",
+    "target_audience": "취업 어려움을 겪는 구직자",
+    "access_conditions": "주 고용사무소 또는 Hospice general을 통한 등록"
+  },
+  "r_0023": {
+    "description": "아동 및 청소년을 위한 교육 및 사회 동반 지원. 생활시설, 교육 워크숍, 학업 지원 및 여가 활동.",
+    "target_audience": "4세~18세 아동 및 청소년",
+    "access_conditions": "미성년자 보호 서비스의 안내에 의함"
+  },
+  "r_0024": {
+    "description": "imad 소속 긴급 심리사회 팀. 빈곤, 가정폭력, 위기 상황의 미성년자, 심리사회적 고통 상황에 개입. 간호사 및 사회복지사로 구성된 팀.",
+    "target_audience": "노숙인",
+    "access_conditions": "조건 없음, 거리 이동 팀"
+  },
+  "r_0025": {
+    "description": "중독 환자 동반 지원. 상담, 대체 치료 프로그램, 금단 치료 및 사회 복귀. 외래 치료 센터.",
+    "target_audience": "중독 환자",
+    "access_conditions": "접수는 예약 불필요, 상담은 예약 필요"
+  },
+  "r_0026": {
+    "description": "고령자 서비스: 가정 지원, 사회 활동, 법률 및 재정 자문, 수업 및 워크숍.",
+    "target_audience": "60세 이상 고령자",
+    "access_conditions": "60세 이상"
+  },
+  "r_0027": {
+    "description": "Bains des Paquis에서 무료 WiFi 이용. 현장 자유 접속 구역.",
+    "target_audience": "모든 분",
+    "access_conditions": "자유 이용"
+  },
+  "r_0028": {
+    "description": "24시간 가정 방문 의사 서비스. 주 7일 가정 또는 진료실 긴급 의료 상담.",
+    "target_audience": "긴급 의료 상담이 필요한 모든 분",
+    "access_conditions": "전화 예약, 의료비 환자 부담"
+  },
+  "r_0029": {
+    "description": "취약 계층을 위한 주간 접수 시설. 따뜻한 공간, 커피, 샤워, 세탁, 인터넷 접속 및 활동.",
+    "target_audience": "취약 계층",
+    "access_conditions": "조건 없음, 자유 접수"
+  },
+  "r_0030": {
+    "description": "이주민을 위한 무료 또는 할인 심리 상담. 다국어 심리 지원.",
+    "target_audience": "심리적 어려움을 겪는 이주민",
+    "access_conditions": "예약제, 소득에 따른 요금"
+  },
+  "r_0031": {
+    "description": "무료 이용 가능한 시립 도서관. 도서, DVD, CD 대출. 작업 공간, 무료 WiFi, 신문 및 잡지. 문화 워크숍.",
+    "target_audience": "모든 분",
+    "access_conditions": "자유 이용, 대출용 무료 카드"
+  },
+  "r_0032": {
+    "description": "공공 구직 지원 서비스. 실업 등록, 일자리 정보, 직업 상담, 재통합 조치.",
+    "target_audience": "제네바 거주 구직자",
+    "access_conditions": "제네바 주 거주자, 등록 필수"
+  },
+  "r_0033": {
+    "description": "이주민을 위한 법률 및 사회 상담. 행정 지원, 외국인법, 가족 재결합.",
+    "target_audience": "이주민, 미등록 체류자",
+    "access_conditions": "예약 또는 예약 없는 상담"
+  },
+  "r_0034": {
+    "description": "약물 사용자를 위한 저문턱 접수 공간. 멸균 도구, 상담, 휴식 공간 및 동반 지원.",
+    "target_audience": "약물 사용자",
+    "access_conditions": "조건 없음, 익명 접수"
+  },
+  "r_0035": {
+    "description": "Paquis 지구 커뮤니티 센터. 문화 활동, 언어 수업, 창작 워크숍, 아동 공간 및 숙제 도움.",
+    "target_audience": "Paquis 지구 주민",
+    "access_conditions": "누구에게나 개방"
+  },
+  "r_0036": {
+    "description": "취약 계층을 위한 무료 의류 배급. 남성, 여성, 아동용 계절별 의류.",
+    "target_audience": "취약 계층",
+    "access_conditions": "사회복지 기관 증명서 제시 필요"
+  },
+  "r_0037": {
+    "description": "성인 이주민을 위한 외국어로서의 프랑스어 수업. 초급부터 고급까지. 주간 및 야간 수업.",
+    "target_audience": "프랑스어를 배우고자 하는 성인 이주민",
+    "access_conditions": "등록 및 레벨 테스트, 할인 가능"
+  },
+  "r_0038": {
+    "description": "취약 계층을 위한 따뜻한 식사(수프와 빵) 배급. 무료 및 무조건 제공.",
+    "target_audience": "모든 분",
+    "access_conditions": "조건 없음, 선착순"
+  },
+  "r_0039": {
+    "description": "여성을 위한 정보 및 상담 센터. 법률, 사회, 직업 자문. 폭력 피해 시 지원.",
+    "target_audience": "모든 연령, 모든 상황의 여성",
+    "access_conditions": "모든 여성에게 개방, 일부 상담 예약 필요"
+  },
+  "r_0040": {
+    "description": "Plainpalais의 Hospice general 지부. 재정 지원, 사회 동반 지원, 주거 및 직업 재통합 지원.",
+    "target_audience": "어려움을 겪는 Plainpalais 지구 주민",
+    "access_conditions": "예약제, 제네바 주 거주자"
+  },
+  "r_0041": {
+    "description": "주산기 건강을 증진하는 독립 조산사 협회. 주 7일 전화 상담, 조산사와 함께하는 무료 접수 공간, 임신, 모유 수유, 산후 관리 자문.",
+    "target_audience": "임산부 및 신생아 부모",
+    "access_conditions": "상담은 예약 불필요, 무료. 전화 상담: 월~금 8시~20시, 토~일 9시~12시 및 17시~20시"
+  },
+  "r_0042": {
+    "description": "취약 계층을 위한 주간 접수 공간. 아침 식사, 커피, 휴식 공간, 활동 및 사회 안내.",
+    "target_audience": "노숙인",
+    "access_conditions": "조건 없음, 무조건적 접수"
+  },
+  "r_0043": {
+    "description": "취약 성인 및 미성년자의 법적 보호. 후견, 보호 조치.",
+    "target_audience": "법적 보호가 필요한 취약 성인 및 미성년자",
+    "access_conditions": "신고 또는 직접 요청에 의함"
+  },
+  "r_0044": {
+    "description": "제네바 구시가지 중심 Place du Molard에서 무료 WiFi 접속. 제네바 시 네트워크.",
+    "target_audience": "모든 분",
+    "access_conditions": "자유 이용"
+  },
+  "r_0045": {
+    "description": "어려움을 겪는 자녀 동반 여성 숙소, 주로 가정폭력 피해자. 심리사회적 지원, 사회 및 직업 통합 지원, 모자 관계 강화. 어린이집 운영.",
+    "target_audience": "취약 계층 여성 또는 자녀 동반 여성",
+    "access_conditions": "사회복지 기관 안내, 상황 평가에 의함"
+  },
+  "r_0046": {
+    "description": "성인 동반 5세 이하 아동을 위한 무료, 익명, 등록 없는 접수 공간. 아동 및 부모를 위한 경청과 지원의 장소.",
+    "target_audience": "0~5세 아동 및 부모 또는 동반자",
+    "access_conditions": "무료, 익명, 등록 불필요, 성인 동반 아동"
+  },
+  "r_0047": {
+    "description": "임차인을 위한 법률 자문. 집주인과의 분쟁, 임대료 인상, 계약 해지 시 지원.",
+    "target_audience": "제네바 주 임차인",
+    "access_conditions": "협회 가입(소액 회비)"
+  },
+  "r_0048": {
+    "description": "식품을 수거하여 제네바 자선 단체에 재분배. 식품 빈곤 및 낭비 방지.",
+    "target_audience": "자선 단체 및 식품 빈곤 상황의 분들",
+    "access_conditions": "파트너 단체를 통해 이용 가능"
+  },
+  "r_0049": {
+    "description": "치과 진료를 제공하는 대학 치과 클리닉. 월~금 8시~15시 30분 예약 없이 접수. 치과 응급 및 일반 진료.",
+    "target_audience": "모든 분, 치과보험 미가입자 또는 저소득층",
+    "access_conditions": "월~금 8시~15시 30분 예약 없이 접수"
+  },
+  "r_0050": {
+    "description": "취약 계층을 위한 접수, 지원 및 사회직업 재통합 장소. 무료 아침 식사(주 150~200명), 사회 활동 및 재통합 프로그램.",
+    "target_audience": "취약 계층",
+    "access_conditions": "조건 없음, 자유 접수"
+  },
+  "r_0051": {
+    "description": "모든 연령, 모든 문화, 모든 사회 계층을 위한 접수, 여가, 만남, 휴식의 장소. 문화 및 사회 활동.",
+    "target_audience": "Eaux-Vives 지구 주민 및 모든 분",
+    "access_conditions": "누구에게나 개방, 자유 접수"
+  },
+  "r_0052": {
+    "description": "여성 및 가족을 위한 접수 및 안내 공간. 법률 상담(가족법, 이혼, 가정폭력, 체류 허가), 직업 안내 및 심리사회적 지원.",
+    "target_audience": "여성 및 가족",
+    "access_conditions": "전화 법률 상담: 화 11시~13시, 수 14시~16시, 목 12시~14시 (022 740 31 11). 상담 예약제."
+  },
+  "r_0053": {
+    "description": "스위스 서부 지역 청소년 자살 예방 협회. 인식 제고, 워크숍, 예방 프로그램 및 도움 기관 안내. 긴급 시 143번 전화.",
+    "target_audience": "15~29세 청소년, 자살 예방",
+    "access_conditions": "평일 사무실 개방. 긴급 시 143번 전화(24시간)"
+  },
+  "r_0054": {
+    "description": "HUG 정신건강 및 정신의학과. 정신과 및 심리 상담, 불안장애, 우울증, 트라우마 치료.",
+    "target_audience": "정신 질환을 겪는 분",
+    "access_conditions": "예약제, 의사 처방 필요"
+  },
+  "r_0055": {
+    "description": "AVS/AI 수급자를 위한 보충 재정 지원. 건강보험료 및 임대료 납부 지원.",
+    "target_audience": "저소득 AVS/AI 수급자",
+    "access_conditions": "AVS/AI 수급자, 제네바 주 거주자"
+  },
+  "r_0056": {
+    "description": "최저 생계비 수준 또는 약간 초과하는 소득의 분들을 위한 현물 지원 및 긴급 청구서 납부 지원.",
+    "target_audience": "일시적 재정 어려움을 겪는 분",
+    "access_conditions": "geneve@secours-d-hiver.ch로 이메일 문의. 전화는 금요일만 가능."
+  },
+  "r_0057": {
+    "description": "아동 및 청소년 전문 제네바 협회. 심리교육 센터(13~18세), Cafe Ados, 비동반 미성년자 지원, 예방 활동.",
+    "target_audience": "12~18세 아동 및 청소년",
+    "access_conditions": "등록 또는 안내에 의함"
+  },
+  "r_0058": {
+    "description": "노동시장에서 소외된 분들을 위한 직업 재통합 프로그램. 역량 평가, 취업 코칭, 인턴십.",
+    "target_audience": "노동시장에서 소외된 분",
+    "access_conditions": "Hospice general 또는 OCE를 통한 등록"
+  },
+  "r_0059": {
+    "description": "난민 및 이주민 지원. 프랑스어 수업, 통합 지원, 망명법 법률 자문 및 사회 동반 지원.",
+    "target_audience": "난민 및 이주민",
+    "access_conditions": "난민 및 이주민, 등록 필요"
+  },
+  "r_0060": {
+    "description": "Jonction 지구 커뮤니티 센터. 모든 연령을 위한 사회, 시민, 문화 활동. 자유 접수, 9세~99세 주민에게 개방된 워크숍.",
+    "target_audience": "Jonction 지구 주민",
+    "access_conditions": "누구에게나 개방"
+  },
+  "r_0061": {
+    "description": "Cornavin 역 동쪽 건물 2층 위생 시설(화장실/샤워). CFF 운영. 유료(CHF 2), SwissPass 정기권 소지자 무료. 역 광장 지하에 더 저렴한 화장실(CHF 1) 있음.",
+    "target_audience": "모든 분",
+    "access_conditions": "유료(CHF 2), SwissPass 정기권 소지 시 무료"
+  },
+  "r_0062": {
+    "description": "Parc des Bastions, 종교개혁 기념비 근처 무료 공중 화장실. 장애인 접근 가능.",
+    "target_audience": "모든 분",
+    "access_conditions": "자유 이용, 무료"
+  },
+  "r_0063": {
+    "description": "Plaine de Plainpalais, 벼룩시장 근처 무료 공중 화장실. 시 관리 부서의 정기 청소.",
+    "target_audience": "모든 분",
+    "access_conditions": "자유 이용, 무료"
+  },
+  "r_0064": {
+    "description": "Jardin Anglais, 꽃시계 근처 무료 공공 식수대. 연중 신선한 물 이용 가능.",
+    "target_audience": "모든 분",
+    "access_conditions": "24시간 자유 이용"
+  },
+  "r_0065": {
+    "description": "제네바에서 가장 오래된 광장의 공공 식수대. 무료 식수 상시 이용 가능.",
+    "target_audience": "모든 분",
+    "access_conditions": "24시간 자유 이용"
+  },
+  "r_0066": {
+    "description": "Parc des Eaux-Vives, 호수 변 공공 식수대. 산책 중 물을 마시기에 좋은 장소.",
+    "target_audience": "모든 분",
+    "access_conditions": "24시간 자유 이용"
+  },
+  "r_0067": {
+    "description": "Servette 지구 중심에 위치한 무료 시립 도서관. 성인 및 청소년 공간 분리, 도서 및 미디어 대출, 무료 WiFi 및 문화 활동.",
+    "target_audience": "모든 분",
+    "access_conditions": "자유 이용, 대출용 무료 카드"
+  },
+  "r_0068": {
+    "description": "Eaux-Vives 지구의 무료 시립 도서관. 성인 및 청소년 공간, 도서 및 미디어 대출, 무료 WiFi.",
+    "target_audience": "모든 분",
+    "access_conditions": "자유 이용, 대출용 무료 카드"
+  },
+  "r_0069": {
+    "description": "Jonction 지구의 무료 시립 도서관. 다양한 도서, 청소년 공간, 행사 및 무료 WiFi.",
+    "target_audience": "모든 분",
+    "access_conditions": "자유 이용, 대출용 무료 카드"
+  },
+  "r_0070": {
+    "description": "다문화 Paquis 지구 중심의 무료 시립 도서관. 다국어 도서 대출, 무료 WiFi 및 행사.",
+    "target_audience": "모든 분",
+    "access_conditions": "자유 이용, 대출용 무료 카드"
+  },
+  "r_0071": {
+    "description": "아동 및 가족을 위한 보드게임, 교육용 게임, 장난감 무료 대출. 현장 놀이 공간. 동반 아동 모두 이용 가능.",
+    "target_audience": "아동, 가족, 모든 분",
+    "access_conditions": "무료 등록, 무료 대출"
+  },
+  "r_0072": {
+    "description": "보드게임, 장난감, 교육용 게임 무료 대출이 가능한 지구 장난감 도서관. 친근한 놀이 공간 및 놀이 워크숍.",
+    "target_audience": "아동, 가족, 모든 분",
+    "access_conditions": "무료 등록, 무료 대출"
+  },
+  "r_0073": {
+    "description": "Grottes 지구의 도시 커뮤니티 텃밭. 공유 구획, 공동 퇴비화 및 무료 원예 워크숍.",
+    "target_audience": "지구 주민, 원예 애호가",
+    "access_conditions": "자유 이용, 워크숍 참가는 등록 필요"
+  },
+  "r_0074": {
+    "description": "Les Artichauts 협회가 관리하는 Parc Beaulieu의 참여형 도시 텃밭. 매주 토요일 오후 모든 수준 대상 무료 원예 워크숍. 유기농 묘목 생산.",
+    "target_audience": "지구 주민, 모든 분",
+    "access_conditions": "자유 이용, 토요일 14시~17시 무료 원예 워크숍 (2월 중순~10월 말)"
+  },
+  "r_0075": {
+    "description": "근로자를 위한 노동조합 상담. 노동법 자문, 권리 보호, 해고 또는 직장 내 분쟁 시 지원.",
+    "target_audience": "모든 업종의 근로자",
+    "access_conditions": "모든 근로자에게 개방, 법률 서비스는 가입 필요"
+  },
+  "r_0076": {
+    "description": "전 업종 근로자 노동조합. 법률 상담, 노동권 보호, 단체 협상.",
+    "target_audience": "모든 분야의 근로자",
+    "access_conditions": "모든 근로자에게 개방, 법률 서비스는 가입 필요"
+  },
+  "r_0077": {
+    "description": "형사 범죄 피해자를 위한 무료 비밀 상담 센터. 심리, 법률 및 사회 지원. 긴급 재정 지원.",
+    "target_audience": "형사 범죄 피해자 및 가족",
+    "access_conditions": "무료 및 비밀 보장, 예약 상담"
+  },
+  "r_0078": {
+    "description": "어려움, 불안, 고독을 겪는 모든 분을 위한 24시간 전화 경청 서비스. 익명, 비밀, 무료.",
+    "target_audience": "고통, 고독, 불안을 겪는 모든 분",
+    "access_conditions": "143번 전화, 무료, 익명, 비밀 보장, 24시간"
+  },
+  "r_0079": {
+    "description": "24시간 아동 및 청소년 전화 상담. 개인, 가족, 학교 문제에 대한 경청, 자문 및 안내.",
+    "target_audience": "25세 이하 아동 및 청소년",
+    "access_conditions": "147번 전화, 무료, 익명, 비밀 보장, 24시간"
+  },
+  "r_0080": {
+    "description": "성 및 생식 건강에 관한 무료 비밀 상담. 피임, 임신, 성병, 부부 상담 및 성교육. 긴급 피임은 예약 불필요.",
+    "target_audience": "모든 분, 특히 청소년 및 여성",
+    "access_conditions": "무료, 비밀 보장, 예약제(긴급 피임은 예약 불필요)"
+  },
+  "r_0081": {
+    "description": "제네바 대학병원(HUG)에서의 익명 비밀 HIV/성병 검사. 신속 HIV 검사(55 CHF), 종합 HIV/성병 검사(155 CHF). 양성 반응자 추적 상담 및 치료.",
+    "target_audience": "HIV/성병 검사를 원하는 모든 분",
+    "access_conditions": "예약제 익명 검사(www.testvih.ch 또는 전화), 신속 HIV 검사 55 CHF~"
+  },
+  "r_0082": {
+    "description": "Cite Generations 건강 센터(Onex 클리닉 및 응급실) 내 약국. 약학 자문, 치료 모니터링, 성인 및 소아 응급실 근접.",
+    "target_audience": "모든 분, Cite Generations 건강 센터 환자",
+    "access_conditions": "누구에게나 개방, 조건 없음"
+  },
+  "r_0083": {
+    "description": "노숙인 긴급 숙소 배정 중앙 서비스. 네트워크 내 숙소(Chatelaine 대피소, Richemont, 협회 시설) 배정을 위해 중앙에 전화. 총 184석.",
+    "target_audience": "긴급 상황의 노숙인",
+    "access_conditions": "무료 번호 0800 22 22 10으로 전화, 무조건적 접수"
+  },
+  "r_0084": {
+    "description": "취약 계층을 위한 Temple de la Servette의 무조건적 주간 접수 장소. 연대 식사, 따뜻한 음료, 공공 대필 서비스(이력서, 편지), 프랑스어/영어/컴퓨터 워크숍, 무료 법률 상담.",
+    "target_audience": "취약 계층, 이주민, 노숙인",
+    "access_conditions": "조건 없음, 무조건적 접수"
+  },
+  "r_0085": {
+    "description": "레만 호수변의 상징적인 공중 수영장. 모래 해변, 수영장, 다이빙대(3~10m), 사우나 및 한증막, 대중적인 카페. 매우 저렴한 입장료(여름 2 CHF, 겨울 1 CHF).",
+    "target_audience": "모든 분",
+    "access_conditions": "공공 구역 무료 이용, 여름 2 CHF, 겨울 1 CHF 입장"
+  },
+  "r_0086": {
+    "description": "가족에게 이상적인 무료 호수변 공공 해변. 놀이터, 어린이 물놀이장, 녹지 및 운동장.",
+    "target_audience": "가족, 아동, 모든 분",
+    "access_conditions": "자유 이용, 무료"
+  },
+  "r_0087": {
+    "description": "Parc des Bastions의 무료 공공 운동 시설. 대형 체스, 탁구대, 페탕크 및 야외 피트니스 공간.",
+    "target_audience": "모든 분",
+    "access_conditions": "자유 이용, 무료"
+  },
+  "r_0088": {
+    "description": "가족, 사회, 이웃, 직장 내 갈등 해결을 위한 무료 중재 서비스. 형사, 민사 및 건강 분야 중재.",
+    "target_audience": "제네바 시 주민",
+    "access_conditions": "무료, 예약제"
+  },
+  "r_0089": {
+    "description": "시니어를 위한 접수, 정보 및 활동 공간. 무료 서비스 정보, 행정 지원, 수업, 워크숍, 강연, 건강 자문 및 세대 간 만남.",
+    "target_audience": "시니어, 은퇴자 및 가족",
+    "access_conditions": "모든 시니어 및 가족에게 개방, 자유 이용, 무료"
+  },
+  "r_0090": {
+    "description": "Bibliotheque de la Cite 내 무료 공유 작업 공간. WiFi, 전원 콘센트, 작업 테이블 및 조용한 작업/학습 환경.",
+    "target_audience": "학생, 프리랜서, 구직자, 모든 분",
+    "access_conditions": "자유 이용, 무료, WiFi 가능"
+  },
+  "r_0091": {
+    "description": "FRC Geneve가 주최하는 무료 이동식 수리 워크숍. 자원봉사 전문가들이 전자제품, 의류, 자전거 수리. 정기 행사(날짜 및 장소는 웹사이트 참조).",
+    "target_audience": "모든 분",
+    "access_conditions": "자유 이용, 무료, 월 1회 토요일(웹사이트 참조)"
+  },
+  "r_0092": {
+    "description": "Carouge의 무료 수리 워크숍. 자원봉사자들이 고장 난 물건 수리 지원: 소형 가전, 재봉, 컴퓨터, 자전거.",
+    "target_audience": "모든 분",
+    "access_conditions": "자유 이용, 무료, 월 1회 토요일(웹사이트 참조)"
+  },
+  "r_0093": {
+    "description": "이주민을 위한 민족심리학 상담 및 연구 센터. 출신 문화에 맞춘 심리치료 지원, 이주 및 통합 관련 트라우마 지원.",
+    "target_audience": "이주민, 다문화 부부, 문화 간 상황의 가족",
+    "access_conditions": "예약제, 이주민 및 다문화 대상 상담"
+  },
+  "r_0094": {
+    "description": "Place de Neuve, 그랑 테아트르 및 Musee Rath 근처 무료 공중 화장실. 장애인 접근 가능.",
+    "target_audience": "모든 분",
+    "access_conditions": "자유 이용, 무료"
+  },
+  "r_0095": {
+    "description": "제네바 최대 호수변 공원 Parc de la Grange의 무료 식수대. 연중 신선한 물 이용 가능.",
+    "target_audience": "모든 분",
+    "access_conditions": "24시간 자유 이용"
+  },
+  "r_0096": {
+    "description": "Quai du Mont-Blanc, 제토(Jet d'eau) 근처 무료 공중 화장실. 연중 개방.",
+    "target_audience": "모든 분",
+    "access_conditions": "자유 이용, 무료"
+  },
+  "r_0097": {
+    "description": "아르브 강과 론 강 합류 지점의 공유 도시 텃밭. 퍼머컬처 워크숍, 공동 퇴비화 및 참여형 원예.",
+    "target_audience": "지구 주민, 모든 분",
+    "access_conditions": "자유 이용, 참여는 요청에 의함"
+  },
+  "r_0098": {
+    "description": "Cornavin 역 앞 공공 식수대. 제네바 중심부에서 무료 신선한 물 공급.",
+    "target_audience": "모든 분",
+    "access_conditions": "24시간 자유 이용"
+  },
+  "r_0099": {
+    "description": "모든 연령을 위한 보드게임, 퍼즐, 장난감 무료 대출이 가능한 지구 장난감 도서관. 가족 대상 오후 놀이 시간.",
+    "target_audience": "아동, 가족, 모든 분",
+    "access_conditions": "현장 놀이 무료, 대출은 연회비 30 CHF"
+  },
+  "r_0100": {
+    "description": "제네바 시가 제공하는 Parc de la Grange 무료 WiFi. 제네바에서 가장 아름다운 공원 중 하나에서 자유 접속.",
+    "target_audience": "모든 분",
+    "access_conditions": "자유 이용"
+  },
+  "r_0101": {
+    "description": "LGBTIQ+ 커뮤니티 지원 협회. Checkpoint Geneve(HIV/성병 검사 및 심리 지원 커뮤니티 건강 센터), Le Refuge(LGBTIQ+ 청소년 숙소), 대화 모임 및 사회 활동.",
+    "target_audience": "LGBT+ 커뮤니티 및 관련된 모든 분",
+    "access_conditions": "모두에게 개방, 무료 익명 검사"
+  },
+  "r_0102": {
+    "description": "모든 연령을 위한 활동을 제공하는 Saint-Jean 커뮤니티 센터. 워크숍, 언어 수업, 학업 지원 및 문화 행사.",
+    "target_audience": "Saint-Jean 지구 주민, 아동, 청소년 및 성인",
+    "access_conditions": "지구 주민 모두에게 개방"
+  },
+  "r_0103": {
+    "description": "암 환자를 위한 무료 지원 및 정보. 심리종양학 상담, 대화 모임 및 사회 동반 지원.",
+    "target_audience": "암 환자 및 가족",
+    "access_conditions": "무료, 예약제"
+  },
+  "r_0104": {
+    "description": "정신적 위기 상황의 성인을 위한 위기 정신과 상담 및 무료 외래 추적. HUG 소속 서비스.",
+    "target_audience": "정신적 위기 상황의 성인",
+    "access_conditions": "무료, 긴급도에 따라 예약 유무"
+  },
+  "r_0105": {
+    "description": "당뇨병 환자 및 가족을 위한 무료 지원. 식이 자문, 교류 모임 및 질병 정보.",
+    "target_audience": "당뇨병 환자 및 가족",
+    "access_conditions": "무료, 예약 또는 전화 상담"
+  },
+  "r_0106": {
+    "description": "건강보험 미가입자 또는 취약 계층을 위한 1차 진료. 일반 상담 및 안내.",
+    "target_audience": "건강보험 미가입자 또는 취약 계층",
+    "access_conditions": "건강보험 미가입자 이용 가능, 예약제"
+  },
+  "r_0107": {
+    "description": "제네바 재택 케어 기관. 고령자, 환자, 회복 중인 분을 위한 간호, 가정 지원 및 동반 케어.",
+    "target_audience": "재택 간호가 필요한 고령자, 환자, 회복 중인 분",
+    "access_conditions": "의사 처방 또는 직접 요청에 의함"
+  },
+  "r_0108": {
+    "description": "알츠하이머 환자 가족 및 보호자를 위한 무료 지원. 대화 모임, 상담 및 전문 서비스 안내.",
+    "target_audience": "알츠하이머 또는 치매 환자의 가족 및 보호자",
+    "access_conditions": "무료, 예약제"
+  },
+  "r_0109": {
+    "description": "주 아동 보호 서비스. 위험 상황 평가, 보호 조치 및 어려움을 겪는 가족 동반 지원.",
+    "target_audience": "위험 또는 어려운 상황의 아동 및 가족",
+    "access_conditions": "주 서비스, 신고 또는 요청에 의한 이용"
+  },
+  "r_0110": {
+    "description": "어려움을 겪는 청소년을 위한 교육 동반 지원 및 학업 보조. 워크숍, 교육 숙소 및 재통합 프로그램.",
+    "target_audience": "학업, 사회, 가족 문제를 겪는 청소년",
+    "access_conditions": "SPMi 안내 또는 직접 요청에 의함"
+  },
+  "r_0111": {
+    "description": "0~6세 아동 및 동반자를 위한 무료 예술 공간. Parc de la Perle du Lac에서 그림, 조형, 음악 워크숍.",
+    "target_audience": "성인 동반 0~6세 아동",
+    "access_conditions": "무료, 등록 불필요, 동반 아동"
+  },
+  "r_0112": {
+    "description": "0~4세 부모-아동 접수 공간. 자유 놀이, 부모 간 교류, 따뜻한 환경에서의 육아 지원.",
+    "target_audience": "0~4세 부모 및 아동",
+    "access_conditions": "무료, 등록 불필요, 부모 동반 아동"
+  },
+  "r_0113": {
+    "description": "아동 및 가족을 위한 무료 게임 및 장난감 대출. 모든 연령을 위한 다양한 보드게임, 교육용 게임, 장난감.",
+    "target_audience": "아동 및 가족",
+    "access_conditions": "무료 등록, Carouge 거주자 무료 대출"
+  },
+  "r_0114": {
+    "description": "제네바 무료 셀프서비스 자전거 대여. 일상 도시 이동을 위한 일반 자전거 및 전기 자전거.",
+    "target_audience": "모든 분",
+    "access_conditions": "무료, 신분증 및 보증금 필요"
+  },
+  "r_0115": {
+    "description": "저소득층을 위한 제네바 대중교통 정기권 할인. 월간 및 연간 정기권 최대 50% 할인.",
+    "target_audience": "제네바 주 거주 저소득층",
+    "access_conditions": "소득 조건 충족 필요, 증빙 서류 필요"
+  },
+  "r_0116": {
+    "description": "사회복지 수급자의 대중교통비 지원. 재정 지원에 TPG 정기권 포함.",
+    "target_audience": "사회복지 수급자",
+    "access_conditions": "Hospice general 사회복지 수급자만 해당"
+  },
+  "r_0117": {
+    "description": "Cornavin 역 SBB-FREE 무료 WiFi. 역 전체 및 플랫폼에서 무제한 접속.",
+    "target_audience": "모든 분",
+    "access_conditions": "무료, SBB-FREE 네트워크, 비밀번호 불필요"
+  },
+  "r_0118": {
+    "description": "Jardin Anglais에서 제네바 시가 제공하는 무료 WiFi. 제토(Jet d'eau)와 호수를 바라보며 야외 접속.",
+    "target_audience": "모든 분",
+    "access_conditions": "무료, 제네바 시 WiFi 네트워크"
+  },
+  "r_0119": {
+    "description": "Plaine de Plainpalais에서 제네바 시가 제공하는 무료 WiFi. 넓은 도시 광장 전역 커버.",
+    "target_audience": "모든 분",
+    "access_conditions": "무료, 제네바 시 WiFi 네트워크"
+  },
+  "r_0120": {
+    "description": "무료 WiFi 및 일반인에게 개방된 학습 공간을 갖춘 대학 건물. 도서관, 작업실 및 식당 이용 가능.",
+    "target_audience": "학생 및 작업 공간을 원하는 모든 분",
+    "access_conditions": "무료, 건물 공공 구역 자유 이용"
+  },
+  "r_0121": {
+    "description": "건강 문제 또는 장애인을 위한 직업 재통합. 개인, 직업, 사회 역량 개발, 직업 프로젝트 설정, 기업 인턴십 및 배치.",
+    "target_audience": "취업을 원하는 장애인 또는 건강 문제가 있는 분",
+    "access_conditions": "무료, AI, 실업 또는 사회복지 안내에 의함"
+  },
+  "r_0122": {
+    "description": "취업에 어려움을 겪는 비숙련 또는 저숙련 여성을 위한 교육 공간. 프랑스어, 컴퓨터, 기초 역량 수업 및 자립과 직업 재통합 동반 지원.",
+    "target_audience": "취약 계층의 비숙련 또는 저숙련 여성",
+    "access_conditions": "대부분의 교육 무료, 사무실 등록 필요"
+  },
+  "r_0123": {
+    "description": "25세 미만 청년의 이중 직업교육 성공 및 50세 이상의 재취업을 위한 전문 동반 지원. 개별 및 그룹 코칭.",
+    "target_audience": "교육 미이수 25세 미만 청년 및 구직 중인 50세 이상",
+    "access_conditions": "제네바 거주 25세 미만 청년 및 50세 이상 무료"
+  },
+  "r_0124": {
+    "description": "80개 이상의 국내외 단체를 수용하는 교류, 정보 및 협회 교육의 장. 행사, 회의 및 협회 활동을 위한 13개 대여 가능 공간.",
+    "target_audience": "단체 및 지구 주민",
+    "access_conditions": "공용 공간 자유 이용, 공간 예약 필요"
+  },
+  "r_0125": {
+    "description": "모든 연령을 위한 사회문화 활동을 제공하는 지구 생활 센터. 창작 워크숍, 언어 수업, 커뮤니티 행사 및 카페 공간.",
+    "target_audience": "Carouge 및 인근 주민, 모든 연령",
+    "access_conditions": "자유 이용, 일부 활동 등록 필요"
+  },
+  "r_0126": {
+    "description": "아동, 청소년, 성인을 위한 활동을 제공하는 Vernier 커뮤니티 공간. 학업 지원, 워크숍, 외출 및 문화 간 행사.",
+    "target_audience": "Vernier 주민, 모든 연령",
+    "access_conditions": "자유 이용, 일부 활동 등록 필요"
+  },
+  "r_0127": {
+    "description": "성폭력 피해자를 위한 전화 경청 및 지원. 비밀이 보장되는 환경에서의 심리, 법률 및 사회 동반 지원.",
+    "target_audience": "성폭력 피해자, 주로 여성 및 LGBTIQ+",
+    "access_conditions": "무료, 비밀 보장, 예약 유무 무관"
+  },
+  "r_0128": {
+    "description": "이주 여성의 동반 지원 및 자립 협회. 프랑스어 수업, 통합 워크숍, 심리 상담 및 커뮤니티 지원.",
+    "target_audience": "이주 여성 및 여성 난민",
+    "access_conditions": "무료 또는 상징적 비용, 수업 등록 필요"
+  },
+  "r_0129": {
+    "description": "어려움을 겪는 임산부를 위한 지원 및 동반. 경청, 물질적 지원(아기 옷, 유모차), 자문 및 사회 서비스 안내.",
+    "target_audience": "어려움을 겪는 임산부 및 젊은 엄마",
+    "access_conditions": "무료, 예약 또는 전화 상담"
+  },
+  "r_0130": {
+    "description": "자립 능력이 저하된 고령자를 위한 주간 돌봄. 맞춤 활동, 식사 및 돌봄으로 가족 돌봄 제공자에게 휴식 제공.",
+    "target_audience": "자립 능력이 저하된 고령자 및 가족 돌봄 제공자",
+    "access_conditions": "의사 처방 필요, 소득에 따른 본인 부담금"
+  },
+  "r_0131": {
+    "description": "제네바 주 가족 돌봄 제공자를 위한 지원 및 안내. 경청, 자문, 대화 모임 및 기존 자원과의 네트워킹.",
+    "target_audience": "고령자, 환자 또는 장애인의 가족 돌봄 제공자",
+    "access_conditions": "무료, 예약 유무 무관"
+  },
+  "r_0132": {
+    "description": "다양한 분야의 무료 또는 저렴한 성인 수업: 언어, 컴퓨터, 문화, 자기계발. 학력 조건 없이 누구에게나 개방.",
+    "target_audience": "학력 조건 없이 모든 배경의 성인",
+    "access_conditions": "무료 또는 저렴, 학기별 등록"
+  },
+  "r_0133": {
+    "description": "국제기구 및 단체를 위한 자원 센터. 회의실, 코워킹 공간 및 행정 지원 서비스.",
+    "target_audience": "단체, NGO 및 국제기구",
+    "access_conditions": "공용 공간 자유 이용, 회의실 예약 필요"
+  },
+  "r_0134": {
+    "description": "외국인을 위한 외국인법, 망명, 가족 재결합, 체류 허가 관련 무료 법률 상담.",
+    "target_audience": "제네바 주 거주 외국인",
+    "access_conditions": "무료, 예약 불필요, 선착순"
+  },
+  "r_0135": {
+    "description": "망명법 및 외국인법 전문 무료 법률 상담. 자문, 절차 동반 및 이의신청서 작성.",
+    "target_audience": "망명 신청자, 난민 및 거부된 신청자",
+    "access_conditions": "무료, 심층 상담은 예약 필요"
+  },
+  "r_0136": {
+    "description": "장애인 및 가족을 위한 무료 자문 및 동반 지원. 행정 지원, 직업 안내 및 사회적 지원.",
+    "target_audience": "장애인 및 가족",
+    "access_conditions": "무료, 예약제"
+  },
+  "r_0137": {
+    "description": "무료 입장 자연사 박물관. 동물학, 광물학, 고생물학 상설 전시. 특별 전시 및 아동 활동.",
+    "target_audience": "모든 분, 가족 및 학교 단체",
+    "access_conditions": "상설 전시 무료 입장"
+  },
+  "r_0138": {
+    "description": "무료 상설 전시를 갖춘 제네바 최대 박물관. 선사시대부터 현대 미술까지 미술, 응용미술, 고고학.",
+    "target_audience": "모든 분, 미술 및 역사 애호가",
+    "access_conditions": "상설 전시 무료, 특별 전시 유료"
+  },
+  "r_0139": {
+    "description": "무료 입장 스위스 도자기 및 유리 박물관. 유엔 유럽본부 맞은편 네오바로크 건물의 뛰어난 소장품.",
+    "target_audience": "모든 분, 장식 예술 애호가",
+    "access_conditions": "상설 전시 무료 입장"
+  },
+  "r_0140": {
+    "description": "수요일 오후 무료 입장의 인도주의 활동 전문 박물관. 현재 인도주의적 역사와 과제에 관한 인터랙티브 전시.",
+    "target_audience": "모든 분, 인도주의 역사 관심자",
+    "access_conditions": "수요일 오후(16:00~18:00) 무료 입장, 할인 요금 가능"
+  },
+  "r_0141": {
+    "description": "저소득 거주자 할인 요금의 시립 수영 센터. 올림픽 수영장, 교육용 수영장 및 웰빙 공간.",
+    "target_audience": "모든 분, 저소득 거주자 할인 요금",
+    "access_conditions": "Cite Seniors 카드 또는 건강보험 보조금으로 할인 요금"
+  },
+  "r_0142": {
+    "description": "도서, DVD, CD 및 무료 인터넷을 제공하는 자유 이용 시립 미디어 도서관. 문화 행사, 동화 시간 및 편안한 독서 공간.",
+    "target_audience": "모든 분, 독자 및 지구 가족",
+    "access_conditions": "자유 이용, 무료, 대출은 무료 등록"
+  },
+  "r_0143": {
+    "description": "취약 계층을 위해 저녁 무료 식사를 제공하는 연대 레스토랑. 회수된 잉여 식품으로 만든 미식 요리. Mater Fondazione와 Food for Soul의 파트너십 운영.",
+    "target_audience": "식품 빈곤 상황의 분",
+    "access_conditions": "저녁 식사 무료, 파트너 단체 안내"
+  },
+  "r_0144": {
+    "description": "무자력자를 위한 점심 무료 식사를 제공하는 무료 급식소. 다양한 자선 단체가 매일 250식 이상 제공. Cornavin 역 뒤편 만남의 장소.",
+    "target_audience": "무자력자, 노숙인",
+    "access_conditions": "조건 없음, 도움이 필요한 모든 분에게 개방"
+  },
+  "r_0145": {
+    "description": "무료 따뜻한 식사, 샤워, 경청 및 안내를 제공하는 긴급 주간 접수 센터. 고독, 배제, 소외에 직면한 분들을 위한 무조건적 접수. CARE = Caritas Accueil Rencontre Echange.",
+    "target_audience": "취약 계층, 배제, 고립 상태의 분",
+    "access_conditions": "조건 없음, 성인 무조건적 접수"
+  },
+  "r_0146": {
+    "description": "노숙인에게 피난처를 제공하는 긴급 숙소. 무료 아침 식사 및 저녁 식사. 체류 기간 제한 없음. 겨울철 주간 체류 가능. 전용 여성 공간.",
+    "target_audience": "노숙인, 혼자 또는 자녀 동반 여성",
+    "access_conditions": "요청에 따른 숙소, 10~20석, 기간 제한 없음"
+  },
+  "r_0147": {
+    "description": "제네바 시 긴급 야간 대피소. 침대, 저녁 식사, 짐 보관 및 샤워 무료 제공. 30일 제한.",
+    "target_audience": "노숙인",
+    "access_conditions": "긴급 숙소 중앙 0800 22 22 10(무료) 전화. 30일 제한."
+  },
+  "r_0148": {
+    "description": "건강보험 미가입자 또는 합법적 체류 자격이 없는 분을 위한 무료 비밀 의료 상담. 1차 진료, 의료 및 간호 상담, 전문 서비스 안내. 연간 4,500명 이상 진료.",
+    "target_audience": "건강보험 미가입자, 합법적 체류 자격 없는 분, 노숙인",
+    "access_conditions": "16세 이상, 체류 자격 조건 없음, 보험 미가입 허용, 무료 및 비밀 보장"
+  },
+  "r_0149": {
+    "description": "성 건강 전문 LGBTIQ+ 커뮤니티 건강 센터. 무료 익명 HIV/성병 검사, 치료, 백신, 심리 상담. Dialogai 서비스.",
+    "target_audience": "LGBTIQ+ 커뮤니티 및 성 건강 관련 모든 분",
+    "access_conditions": "월요일, 목요일 예약 없는 무료 익명 검사"
+  },
+  "r_0150": {
+    "description": "저소득층을 위한 매우 저렴한 기본 치과 진료 제공 치과. 치과 상담 40 CHF, 치위생사 20 CHF. 자원봉사 치과의사 및 치위생사.",
+    "target_audience": "사회복지 수급 없는 근로 빈곤층 및 저소득층",
+    "access_conditions": "사회복지 접수처를 통한 예약. 저소득층 전용."
+  },
+  "r_0151": {
+    "description": "HIV, 간염, 성병 퇴치 활동 협회. 무료 심리 상담(첫 회), 비밀 검사, HIV 양성자를 위한 법률 및 사회 자문.",
+    "target_audience": "HIV, 성병, 간염 관련자",
+    "access_conditions": "첫 심리 상담 무료. 비밀 검사."
+  },
+  "r_0152": {
+    "description": "배제 상태의 여성을 위한 사회 및 직업 동반 지원. 행정 절차 지원, 권리 인지, 직업 전환. 전화 경청 및 지원.",
+    "target_audience": "사회적 또는 직업적 배제 상태의 여성",
+    "access_conditions": "무료, 표시된 시간에 전화 상담"
+  },
+  "r_0153": {
+    "description": "폭력 및 인신매매 피해 여성을 위한 쉼터, 자녀 동반 가능. 약 30명의 여성을 위한 심리사회적 추적이 포함된 거주 숙소. 프랑스어 수업 및 직업 교육.",
+    "target_audience": "폭력 및 인신매매 피해 여성, 자녀 동반 가능",
+    "access_conditions": "전화 접수 8시 30분~12시. 24시간 긴급 숙소."
+  },
+  "r_0154": {
+    "description": "성노동자의 권리를 옹호하는 연대 협회. 접수, 경청, 심리사회적 지원, 법률 서비스, 행정 지원, 성병 예방 및 예방 도구 제공.",
+    "target_audience": "성노동 종사자",
+    "access_conditions": "표시된 시간에 예약 불필요. 비판단적 접수."
+  },
+  "r_0155": {
+    "description": "진로, 교육, 취업 관련 무료 정보 및 상담 공간. 예약 없이 상담사 이용 가능. 역량 평가, 이력서, 면접, 전직 주제별 워크숍.",
+    "target_audience": "진로, 교육 또는 취업을 찾는 청소년 및 성인",
+    "access_conditions": "무료, 예약 불필요, 자유 이용"
+  },
+  "r_0156": {
+    "description": "15~25세 청소년 사회직업 재통합 협회. 임시 아르바이트, 맞춤 지원, 사전 자격 인턴십 및 취업 또는 교육 탐색 동반.",
+    "target_audience": "취업 또는 교육을 찾는 15~25세 청소년",
+    "access_conditions": "무료, 웹사이트 또는 현장 등록"
+  },
+  "r_0157": {
+    "description": "1986년부터 망명권을 옹호하는 독립 협회. 무료 법률 지원 및 난민 대리. 월요일 예약 없는 상담. 망명 절차 전반 동반 지원.",
+    "target_audience": "망명 신청자 및 난민",
+    "access_conditions": "무료, 월요일 예약 없는 상담"
+  },
+  "r_0158": {
+    "description": "모든 여성(시스젠더, 트랜스젠더, 양성애자, 퀴어)에게 열려 있는 레즈비언 및 페미니스트 협회. 접수, 경청, 정보 및 연대. 활동: 영화 동호회, 파티, 강연, 스포츠.",
+    "target_audience": "레즈비언, 양성애자, 트랜스젠더, 퀴어 여성",
+    "access_conditions": "조건 없이 모든 여성에게 개방"
+  },
+  "r_0159": {
+    "description": "어려움을 겪는 LGBTIQ+ 청소년을 위한 접수, 경청, 지원 공간. 개별 동반 지원, 지원 그룹, 온라인 익명 채팅, 18세 이상 3~6개월 숙소.",
+    "target_audience": "LGBTIQ+ 청소년 및 주변인",
+    "access_conditions": "예약 유무 무관, 온라인 익명 채팅 가능"
+  },
+  "r_0160": {
+    "description": "성적 지향 및 성별 다양성을 위한 협회. LGBTIQ+ 대상 접수, 정보, 경청 및 안내. 스위스 서부 유일의 법률 서비스. 그룹: Trans*, 동성 부모, Bi, Tamalou(시니어).",
+    "target_audience": "LGBTIQ+ 및 가족",
+    "access_conditions": "예약 없이 자유 접수"
+  },
+  "r_0161": {
+    "description": "알코올 의존 환자 및 가족을 위한 예방 및 동반 지원 협회. 전문 상담, 외래 치료, 지원 그룹, 주말 프로그램.",
+    "target_audience": "알코올 문제 당사자 및 가족",
+    "access_conditions": "자유 접수, 무료"
+  },
+  "r_0162": {
+    "description": "약물 의존자를 위한 주간 센터. 접수, 경청, 식사, 활동 및 치료 동반 지원. ARGOS 협회는 재통합 거주 센터도 운영.",
+    "target_audience": "약물 의존자",
+    "access_conditions": "자유 접수, 예약 불필요"
+  },
+  "r_0163": {
+    "description": "FEGPA(알코올 및 대마), CIPRET(담배), RNVP(도박/스크린)를 포함하는 예방 센터. 중독 당사자 또는 가족을 위한 무료 비밀 상담.",
+    "target_audience": "중독 관련 모든 분, 청소년 및 가족",
+    "access_conditions": "무료 비밀 상담, 예약제"
+  },
+  "r_0164": {
+    "description": "지적 장애인 부모 및 친구 협회. 가족 정보, 자문, 지원. 여가 활동, 주말 휴식, 휴가 프로그램. 권리 옹호.",
+    "target_audience": "지적 장애인 및 가족",
+    "access_conditions": "전화 또는 이메일 연락"
+  },
+  "r_0165": {
+    "description": "스위스 최대 장애인 상호 지원 단체. 사회보험(AI, APG) 무료 법률 자문. 장애 아동 만남 활동.",
+    "target_audience": "장애인",
+    "access_conditions": "회원 무료 법률 자문"
+  },
+  "r_0166": {
+    "description": "시니어의 활동적이고 자립적인 생활을 장려하는 협회. 수업, 워크숍, 외출, 강연, 스포츠 등 다양한 활동. 통합을 위한 '여기저기 시니어' 프로그램.",
+    "target_audience": "50세 이상 시니어",
+    "access_conditions": "50세 이상 대상"
+  },
+  "r_0167": {
+    "description": "망명 신청자 및 난민에게 동행, 경청, 지원을 제공하는 에큐메니컬 원목 서비스. 프랑스어, 컴퓨터 수업, 교류 식사, 스포츠 및 문화 활동.",
+    "target_audience": "제네바의 망명 신청자 및 난민",
+    "access_conditions": "모든 망명 신청자 및 난민에게 개방"
+  },
+  "r_0168": {
+    "description": "LGBTIQ+ 난민 접수 및 동반 지원. elisa-asile과 협력한 법률 상담, 지원 및 인식 제고 활동.",
+    "target_audience": "LGBTIQ+ 난민 및 망명 신청자",
+    "access_conditions": "LGBTIQ+ 난민 또는 망명 신청자 모두에게 개방"
+  },
+  "r_0169": {
+    "description": "무료 시립 장난감 도서관으로 현장 놀이 가능. 2층에 걸쳐 클래식 및 협동 보드게임 구비. 연간 가족 구독(30 CHF)으로 게임 대여 가능. 직원의 조언 제공.",
+    "target_audience": "어린이, 가족, 지역 기관",
+    "access_conditions": "현장 놀이 무료. 연간 가족 구독(30 CHF)으로 대여 가능. 6세 미만 어린이는 성인 동반 필수."
+  },
+  "r_0170": {
+    "description": "Manège en Ville 내에 위치한 무료 시립 장난감 도서관으로 현장 놀이 가능. 약 1000종의 보드게임, 비디오 게임 및 모든 연령대용 장난감. 가족 구독(30 CHF/년)으로 대여 가능. 토너먼트 및 이벤트 개최.",
+    "target_audience": "어린이, 가족, 모든 연령대 (영아부터 성인까지)",
+    "access_conditions": "현장 놀이 무료. 연간 가족 구독(30 CHF)으로 대여 가능. 6세 미만 어린이는 성인 동반 필수."
+  },
+  "r_0171": {
+    "description": "어려운 상황에 처한 여성, 노숙 여성 또는 아이를 동반한 난민 여성을 위한 긴급 숙소. 무조건적 수용 30자리와 사회부조 대상 여성 21자리. 1인실 또는 2인실, 하루 세끼, 세탁 시설, 사회적 지원.",
+    "target_audience": "노숙 여성, 어려운 상황에 처한 여성, 아이를 동반한 난민 여성",
+    "access_conditions": "제네바 긴급 숙소 핫라인(0800 22 22 10, 월-금 10:30-20:00, 토-일 15:00-20:00)으로 연락. 직접 예약 불가."
+  },
+  "tag": {
+    "143": "143",
+    "147": "147",
+    "15-25 ans": "15-25세",
+    "24h": "24시간",
+    "50+": "50+",
+    "AI": "AI",
+    "AVS": "AVS",
+    "Belle-Idée": "Belle-Idee",
+    "CFF": "CFF",
+    "CV": "이력서",
+    "Carouge": "카루주",
+    "Cité Générations": "Cite Generations",
+    "Cornavin": "코르나뱅",
+    "Croix-Rouge": "적십자",
+    "FLE": "외국어 프랑스어",
+    "FRC": "FRC",
+    "HUG": "HUG",
+    "Hospice général": "Hospice general",
+    "IST": "성병",
+    "LAVI": "LAVI",
+    "LGBT": "LGBT",
+    "LGBTIQ+": "LGBTIQ+",
+    "Onex": "오넥스",
+    "Plainpalais": "플랭팔레",
+    "SBB": "SBB",
+    "SIT": "SIT",
+    "SOS": "SOS",
+    "TPAE": "TPAE",
+    "TPG": "TPG",
+    "UNIA": "UNIA",
+    "VIH": "HIV",
+    "Vernier": "베르니에",
+    "abri": "대피소",
+    "accessibilité": "접근성",
+    "accompagnement": "동반 지원",
+    "accueil": "접수",
+    "accueil de jour": "주간 접수",
+    "activités": "활동",
+    "addiction": "중독",
+    "administratif": "행정",
+    "administration": "행정",
+    "adolescents": "청소년",
+    "adultes": "성인",
+    "aide": "지원",
+    "aide financière": "재정 지원",
+    "aide matérielle": "물질 지원",
+    "aide sociale": "사회복지",
+    "aide à domicile": "가정 지원",
+    "alcool": "알코올",
+    "alimentaire": "식품",
+    "allaitement": "모유 수유",
+    "alzheimer": "알츠하이머",
+    "anonyme": "익명",
+    "anti-gaspillage": "낭비 방지",
+    "antigaspillage": "낭비 방지",
+    "apprentissage": "직업교육",
+    "archéologie": "고고학",
+    "armée du salut": "구세군",
+    "art": "미술",
+    "artichauts": "아티초",
+    "arts": "예술",
+    "asile": "망명",
+    "associations": "단체",
+    "assurance": "보험",
+    "assurances sociales": "사회보험",
+    "ateliers": "워크숍",
+    "autonomie": "자립",
+    "autonomisation": "자립 역량 강화",
+    "avocats": "변호사",
+    "bail": "임대차",
+    "bains": "수영장",
+    "banque": "은행",
+    "bas prix": "저가",
+    "bas seuil": "저문턱",
+    "bateau": "보트",
+    "beaulieu": "보리외",
+    "bibliothèque": "도서관",
+    "bien-être": "웰빙",
+    "bébé": "아기",
+    "bénévoles": "자원봉사",
+    "café": "카페",
+    "cancer": "암",
+    "cannabis": "대마",
+    "cantonal": "주(州)",
+    "caritas": "카리타스",
+    "carouge": "카루주",
+    "carrière": "경력",
+    "centrale": "중앙",
+    "centre-ville": "시내 중심",
+    "chômage": "실업",
+    "citoyenneté": "시민권",
+    "coaching": "코칭",
+    "colis": "꾸러미",
+    "collecte": "수거",
+    "communautaire": "커뮤니티",
+    "communauté": "커뮤니티",
+    "compétences": "역량",
+    "confidentiel": "비밀",
+    "conflits": "갈등",
+    "conférences": "강연",
+    "conseil": "자문",
+    "conseils": "자문",
+    "consultation": "상담",
+    "contraception": "피임",
+    "cornavin": "코르나뱅",
+    "cours": "수업",
+    "coworking": "코워킹",
+    "crise": "위기",
+    "croix-rouge": "적십자",
+    "crèche": "어린이집",
+    "créativité": "창의력",
+    "culture": "문화",
+    "curatelle": "후견",
+    "céramique": "도자기",
+    "dentaire": "치과",
+    "diabète": "당뇨",
+    "distribution": "배급",
+    "diversité": "다양성",
+    "divorce": "이혼",
+    "diététique": "식이요법",
+    "domicile": "가정",
+    "douche": "샤워",
+    "douches": "샤워",
+    "drogue": "약물",
+    "drogues": "약물",
+    "droit": "법률",
+    "droit des étrangers": "외국인법",
+    "droits": "권리",
+    "démence": "치매",
+    "dépendance": "의존",
+    "dépistage": "검사",
+    "détresse": "고통",
+    "eau potable": "식수",
+    "eaux-vives": "오비브",
+    "emploi": "취업",
+    "enfance": "아동기",
+    "enfants": "아동",
+    "espace partagé": "공유 공간",
+    "espace travail": "작업 공간",
+    "ethnopsychologie": "민족심리학",
+    "extérieur": "야외",
+    "factures": "청구서",
+    "famille": "가족",
+    "familles": "가족",
+    "femmes": "여성",
+    "femmes migrantes": "이주 여성",
+    "financière": "재정",
+    "fitness": "피트니스",
+    "fontaine": "분수",
+    "formation": "교육",
+    "fr": "프랑스어",
+    "français": "프랑스어",
+    "français professionnel": "직업 프랑스어",
+    "frigo": "냉장고",
+    "féministe": "페미니스트",
+    "garderie": "돌봄",
+    "gare": "역",
+    "gastronomique": "미식",
+    "grange": "그랑주",
+    "gratuit": "무료",
+    "grossesse": "임신",
+    "groupe": "그룹",
+    "handicap": "장애",
+    "handicap mental": "지적 장애",
+    "histoire": "역사",
+    "hiver": "겨울",
+    "humanitaire": "인도주의",
+    "hydratation": "수분 공급",
+    "hygiène": "위생",
+    "hébergement": "숙소",
+    "infirmiers": "간호사",
+    "information": "정보",
+    "informatique": "컴퓨터",
+    "infractions": "범죄",
+    "insertion": "재통합",
+    "interactif": "인터랙티브",
+    "interculturel": "문화 간",
+    "international": "국제",
+    "internet": "인터넷",
+    "intégration": "통합",
+    "invendus": "잔여품",
+    "jardin": "정원",
+    "jeu": "게임",
+    "jeunes": "청소년",
+    "jeunesse": "청소년",
+    "jeux": "게임",
+    "jonction": "종크시옹",
+    "jouets": "장난감",
+    "jour": "주간",
+    "juridique": "법률",
+    "lac": "호수",
+    "langues": "언어",
+    "laverie": "세탁",
+    "lesbienne": "레즈비언",
+    "libre-service": "셀프서비스",
+    "licenciement": "해고",
+    "livres": "도서",
+    "locataires": "임차인",
+    "logement": "주거",
+    "loisirs": "여가",
+    "loyer": "임대료",
+    "ludothèque": "장난감 도서관",
+    "maintien à domicile": "재택 케어",
+    "maladie chronique": "만성 질환",
+    "maraude": "거리 순회",
+    "maternité": "출산",
+    "meubles": "가구",
+    "midi": "점심",
+    "migrantes": "이주 여성",
+    "migrants": "이주민",
+    "migration": "이주",
+    "mineurs": "미성년자",
+    "mobile": "이동",
+    "mobilité": "이동성",
+    "molard": "몰라르",
+    "multilingue": "다국어",
+    "musée": "박물관",
+    "médecin": "의사",
+    "médecine générale": "일반의학",
+    "médiathèque": "미디어도서관",
+    "médiation": "중재",
+    "médicaments": "의약품",
+    "natation": "수영",
+    "nature": "자연",
+    "nuit": "야간",
+    "offres": "제공",
+    "orientation": "안내",
+    "parc": "공원",
+    "parc de la grange": "그랑주 공원",
+    "parentalité": "육아",
+    "parents": "부모",
+    "parents-enfants": "부모-아동",
+    "partage": "공유",
+    "permaculture": "퍼머컬처",
+    "permanence": "상담소",
+    "permis": "허가",
+    "personnes âgées": "고령자",
+    "petite enfance": "영유아",
+    "petits boulots": "아르바이트",
+    "petits-déjeuners": "아침 식사",
+    "pharmacie": "약국",
+    "piscine": "수영장",
+    "place de neuve": "뇌브 광장",
+    "plage": "해변",
+    "plaine": "평원",
+    "plainpalais": "플랭팔레",
+    "planning familial": "가족계획",
+    "plein air": "야외",
+    "ponctuel": "일시적",
+    "potager": "텃밭",
+    "prestations": "급여",
+    "prix réduits": "할인 가격",
+    "pro juventute": "Pro Juventute",
+    "proches aidants": "가족 돌봄 제공자",
+    "protection": "보호",
+    "précarité": "빈곤",
+    "prévention": "예방",
+    "prêt": "대출",
+    "psychiatrie": "정신의학",
+    "psycho-oncologie": "심리종양학",
+    "psychologie": "심리학",
+    "psychologique": "심리",
+    "psychologue": "심리사",
+    "psychopédagogique": "심리교육",
+    "public": "공공",
+    "pâquis": "파키",
+    "quai": "부두",
+    "quartier": "지구",
+    "reconversion": "전직",
+    "recours": "이의신청",
+    "redistribution": "재분배",
+    "refuge": "쉼터",
+    "repair café": "수리 카페",
+    "repas": "식사",
+    "repos": "휴식",
+    "ressources": "자원",
+    "restaurant": "식당",
+    "récupération": "회수",
+    "réduction": "할인",
+    "réduction des risques": "위험 감소",
+    "réfugiés": "난민",
+    "réinsertion": "재통합",
+    "réorientation": "재안내",
+    "réparation": "수리",
+    "répit": "휴식",
+    "réseau": "네트워크",
+    "résolution": "해결",
+    "réunions": "모임",
+    "sages-femmes": "조산사",
+    "saint-jean": "생장",
+    "sans assurance": "보험 미가입",
+    "sans rendez-vous": "예약 불필요",
+    "sans-abri": "노숙인",
+    "sans-papiers": "미등록 체류자",
+    "santé": "건강",
+    "santé mentale": "정신 건강",
+    "santé sexuelle": "성 건강",
+    "sauna": "사우나",
+    "sciences": "과학",
+    "seconde main": "중고",
+    "seniors": "시니어",
+    "servette": "세르베트",
+    "social": "사회",
+    "socioculturel": "사회문화",
+    "soins": "간호",
+    "soins à domicile": "재택 간호",
+    "solidaire": "연대",
+    "soupe": "수프",
+    "soupe populaire": "무료 급식",
+    "soutien": "지원",
+    "soutien scolaire": "학업 지원",
+    "sport": "스포츠",
+    "stages": "인턴십",
+    "substitution": "대체 치료",
+    "suicide": "자살",
+    "syndicat": "노동조합",
+    "sécheron": "세슈롱",
+    "tabac": "담배",
+    "tarif réduit": "할인 요금",
+    "tarif social": "사회 요금",
+    "toilettes": "화장실",
+    "toxicodépendance": "약물 의존",
+    "traite": "인신매매",
+    "traitement": "치료",
+    "trans": "트랜스",
+    "transport": "교통",
+    "travail": "노동",
+    "travail du sexe": "성노동",
+    "travailleurs pauvres": "근로 빈곤층",
+    "tutelle": "후견",
+    "téléphone": "전화",
+    "université": "대학",
+    "urbain": "도시",
+    "urgence": "응급",
+    "verre": "유리",
+    "vestiaire": "의류 보관소",
+    "victimes": "피해자",
+    "vie associative": "협회 생활",
+    "vieille ville": "구시가지",
+    "ville": "도시",
+    "violence": "폭력",
+    "violence conjugale": "가정폭력",
+    "violences": "폭력",
+    "violences sexuelles": "성폭력",
+    "vélos": "자전거",
+    "vêtements": "의류",
+    "wifi": "WiFi",
+    "écologie": "생태",
+    "écologique": "친환경",
+    "écoute": "경청",
+    "éducation": "교육",
+    "épicerie": "식료품점",
+    "étrangers": "외국인",
+    "étude": "학습",
+    "étudier": "공부"
+  }
+}

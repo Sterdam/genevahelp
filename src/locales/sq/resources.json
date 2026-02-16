@@ -1,0 +1,1214 @@
+{
+  "r_0001": {
+    "description": "Shpërndarje ushqimore falas për personat në situatë pasigurie. Vakte të ngrohta të shërbyera në drekë dhe darkë. Pritje pa kushte.",
+    "target_audience": "Çdo person në situatë pasigurie",
+    "access_conditions": "Pa kushte, i hapur për të gjithë"
+  },
+  "r_0002": {
+    "description": "Konsultime juridike falas të ofruara nga l'Ordre des Avocats de Genève. Këshilla të para juridike pa takim për çdo pyetje ligjore.",
+    "target_audience": "Çdo person që ka nevojë për këshilla juridike",
+    "access_conditions": "Pa takim, i pari që vjen i pari shërbehet"
+  },
+  "r_0003": {
+    "description": "Frigorifer me vetëshërbim ku secili mund të lërë ose të marrë ushqim falas. Luftë kundër shpërdorimit ushqimor.",
+    "target_audience": "I gjithë publiku",
+    "access_conditions": "Hyrje e lirë 24 orë/24"
+  },
+  "r_0004": {
+    "description": "Dyqan solidar dhe shpërndarje veshjesh. Shoqërim social për personat në vështirësi financiare. Ndihmë ushqimore dhe vestimentare.",
+    "target_audience": "Persona me të ardhura të ulëta",
+    "access_conditions": "Me paraqitjen e një vërtetimi të të ardhurave modeste"
+  },
+  "r_0005": {
+    "description": "Konsultime juridike dhe sociale falas. Ndihmë administrative, këshillim në fushën e të drejtës së të huajve, të drejtës së punës dhe sigurimeve sociale.",
+    "target_audience": "Çdo person në vështirësi juridike ose administrative",
+    "access_conditions": "Me takim, konsultimi i parë falas"
+  },
+  "r_0006": {
+    "description": "Shërbime shëndetësore, ndihmë sociale dhe shoqërim për personat e cenueshëm. Programe mbështetjeje për migrantët dhe refugjatët.",
+    "target_audience": "Persona të cenueshëm, migrantë, refugjatë",
+    "access_conditions": "Sipas programeve, disa me takim"
+  },
+  "r_0007": {
+    "description": "Shpërndarje javore e pakove ushqimore për familjet dhe personat në situatë pasigurie. Produkte të freskëta dhe bazë.",
+    "target_audience": "Familje dhe persona me të ardhura të ulëta",
+    "access_conditions": "Me regjistrim, me justifikim të situatës financiare"
+  },
+  "r_0008": {
+    "description": "Institucion kantonal i ndihmës sociale. Përfitime financiare, shoqërim social, ndihmë për strehim dhe integrim profesional.",
+    "target_audience": "Banorë të Gjenevës në vështirësi financiare",
+    "access_conditions": "Me takim, banorë të kantonit të Gjenevës"
+  },
+  "r_0009": {
+    "description": "Hyrje falas në dushe, makina larëse dhe tharëse. Hapësirë higjiene për personat pa strehë ose në situatë të pasigurt.",
+    "target_audience": "Persona pa banesë fikse, persona në situatë të pasigurt",
+    "access_conditions": "Pa kushte, hyrje e lirë"
+  },
+  "r_0010": {
+    "description": "Konsultime mjekësore falas për personat pa sigurim shëndetësor. Kujdes i ndihmës së parë, orientim dhe shoqërim shëndetësor.",
+    "target_audience": "Persona pa sigurim shëndetësor, pa dokumente",
+    "access_conditions": "Pa sigurim shëndetësor, pa takim"
+  },
+  "r_0011": {
+    "description": "Kurse falas të frëngjishtes për gratë migrante. Kujdestari për fëmijët gjatë kurseve. Punëtori integrimi dhe socializimi.",
+    "target_audience": "Gra migrante dhe fëmijët e tyre",
+    "access_conditions": "Gra migrante, regjistrim në fillim të semestrit"
+  },
+  "r_0012": {
+    "description": "Kurse të mbrëmjes falas ose me çmim modest: frëngjisht, informatikë, kontabilitet, gjuhë. Formim i vazhdueshëm për të rriturit.",
+    "target_audience": "Të rritur që dëshirojnë të formohen",
+    "access_conditions": "Regjistrim në fillim të semestrit, tarifa të reduktuara sipas të ardhurave"
+  },
+  "r_0013": {
+    "description": "Strehim urgjence për natën. Pritje pa kushte e personave pa strehë. Darka dhe mëngjesi i përfshirë.",
+    "target_audience": "Persona pa banesë fikse",
+    "access_conditions": "Pa kushte, pritje pa kushte në mbrëmje"
+  },
+  "r_0014": {
+    "description": "Pritje, dëgjim dhe strehim urgjence për gratë viktima të dhunës. Mbështetje psikologjike dhe shoqërim juridik.",
+    "target_audience": "Gra viktima të dhunës familjare",
+    "access_conditions": "Linjë telefonike 24 orë/24, strehim pas vlerësimit"
+  },
+  "r_0015": {
+    "description": "Dyqan solidar veshjesh, mobilesh dhe objektesh me çmime shumë të ulëta. Mbledhje dhe rishpërndarje e objekteve të dorës së dytë.",
+    "target_audience": "I gjithë publiku, persona me të ardhura të ulëta",
+    "access_conditions": "I hapur për të gjithë, çmime solidare"
+  },
+  "r_0016": {
+    "description": "Informacion dhe orientim për personat e huaja. Kurse të subvencionuara të frëngjishtes, ndihmë për integrimin, parandalim i racizmit dhe diskriminimeve.",
+    "target_audience": "Persona të huaja që banojnë në Gjenevë",
+    "access_conditions": "Banorë të huaj të kantonit të Gjenevës"
+  },
+  "r_0017": {
+    "description": "Hyrje WiFi falas në Parc des Bastions, ofruar nga Qyteti i Gjenevës. Lidhje e lirë dhe e pakufizuar.",
+    "target_audience": "I gjithë publiku",
+    "access_conditions": "Hyrje e lirë"
+  },
+  "r_0018": {
+    "description": "Hapësirë komunitare që ofron aktivitete sociale, kulturore dhe edukative. Kurse, punëtori dhe ngjarje falas ose me çmim modest.",
+    "target_audience": "Banorë të lagjes së Plainpalais",
+    "access_conditions": "I hapur për të gjithë banorët e lagjes"
+  },
+  "r_0019": {
+    "description": "Mbledhje e produkteve ushqimore të pashitura nga dyqanet dhe rishpërndarje falas për personat në nevojë. Luftë kundër shpërdorimit.",
+    "target_audience": "Persona në situatë pasigurie ushqimore",
+    "access_conditions": "Me regjistrim, justifikim i situatës financiare"
+  },
+  "r_0020": {
+    "description": "Ndihmë financiare urgjence, shoqërim social, orientim drejt shërbimeve të përshtatshme. Mbështetje për banorët e Qytetit të Gjenevës.",
+    "target_audience": "Banorë të Qytetit të Gjenevës në vështirësi",
+    "access_conditions": "Banorë të Qytetit të Gjenevës"
+  },
+  "r_0021": {
+    "description": "Konsultime mjekësie të ndihmës së parë për azilkërkuesit dhe personat migrante. Partner i rrjetit shëndetësor të azilit, me qasje ndërkulturore dhe psikosociale. Konsultime me përkthyes të disponueshëm.",
+    "target_audience": "Azilkërkues, refugjatë, persona migrante",
+    "access_conditions": "Me takim, marrje e takimit nga e hëna në të premte 9h-11h30 dhe 13h30-17h"
+  },
+  "r_0022": {
+    "description": "Program integrimi profesional për personat në kërkim pune. Punëtori, formime praktike dhe shoqërim i personalizuar.",
+    "target_audience": "Punëkërkues në vështirësi integrimi",
+    "access_conditions": "Regjistrim nëpërmjet Zyrës Kantonale të Punësimit ose Hospice général"
+  },
+  "r_0023": {
+    "description": "Shoqërim edukativ dhe social për fëmijët dhe adoleshentët. Banesa, punëtori edukative, mbështetje shkollore dhe aktivitete argëtimi.",
+    "target_audience": "Fëmijë dhe adoleshentë nga 4 deri në 18 vjeç",
+    "access_conditions": "Orientim nga Shërbimi i Mbrojtjes së të Miturve"
+  },
+  "r_0024": {
+    "description": "Njësi urgjence psikosociale e lidhur me imad. Ndërhyn në situata pasigurie, dhune familjare, të mitur në krizë dhe ngushticë psikosociale. Ekip i përbërë nga një infermier dhe punonjës socialë.",
+    "target_audience": "Persona pa strehë",
+    "access_conditions": "Pa kushte, ekip i lëvizshëm në rrugë"
+  },
+  "r_0025": {
+    "description": "Shoqërim i personave që vuajnë nga varësitë. Konsultime, program zëvendësimi, tërheqje dhe riintegrim. Qendër trajtimi ambulatorë.",
+    "target_audience": "Persona që vuajnë nga varësitë",
+    "access_conditions": "Pa takim për pritjen, me takim për konsultimet"
+  },
+  "r_0026": {
+    "description": "Shërbime për personat e moshuar: ndihmë në shtëpi, aktivitete sociale, këshilla juridike dhe financiare, kurse dhe punëtori.",
+    "target_audience": "Persona të moshuar 60 vjeç e më shumë",
+    "access_conditions": "Persona 60 vjeç e më shumë"
+  },
+  "r_0027": {
+    "description": "Hyrje WiFi falas në Bains des Pâquis. Zonë lidhje me hyrje të lirë në vend.",
+    "target_audience": "I gjithë publiku",
+    "access_conditions": "Hyrje e lirë"
+  },
+  "r_0028": {
+    "description": "Shërbim mjekësh në shtëpi i disponueshëm 24 orë/24. Konsultime mjekësore urgjence në shtëpi ose në kabinet, 7 ditë në javë.",
+    "target_audience": "Çdo person që ka nevojë për konsultim mjekësor urgjent",
+    "access_conditions": "Thirrje telefonike, shpenzimet mjekësore në ngarkim të pacientit"
+  },
+  "r_0029": {
+    "description": "Pritje ditore për personat në situatë pasigurie. Hapësirë e ngrohtë, kafe, dushe, larje, hyrje në internet dhe aktivitete.",
+    "target_audience": "Persona në situatë pasigurie",
+    "access_conditions": "Pa kushte, pritje e lirë"
+  },
+  "r_0030": {
+    "description": "Konsultime psikologjike falas ose me tarifa të reduktuara për personat migrante. Mbështetje psikologjike në disa gjuhë.",
+    "target_audience": "Persona migrante në vështirësi psikologjike",
+    "access_conditions": "Me takim, tarifa sipas të ardhurave"
+  },
+  "r_0031": {
+    "description": "Bibliotekë bashkiake me hyrje falas. Huazim librash, DVD, CD. Hapësirë pune, WiFi falas, gazeta dhe revista. Punëtori kulturore.",
+    "target_audience": "I gjithë publiku",
+    "access_conditions": "Hyrje e lirë, kartë falas për huazimin"
+  },
+  "r_0032": {
+    "description": "Shërbim publik i ndihmës për kërkimin e punës. Regjistrim në papunësi, oferta pune, këshillim në orientim profesional, masa integrimi.",
+    "target_audience": "Punëkërkues që banojnë në Gjenevë",
+    "access_conditions": "Banorë të kantonit të Gjenevës, regjistrim i detyrueshëm"
+  },
+  "r_0033": {
+    "description": "Permanenca juridike dhe sociale për personat migrante. Ndihmë administrative, e drejta e të huajve, bashkim familjar.",
+    "target_audience": "Persona migrante, pa dokumente",
+    "access_conditions": "Me takim ose permanencë pa takim"
+  },
+  "r_0034": {
+    "description": "Hapësirë pritjeje me prag të ulët për personat konsumatorë të drogave. Material steril, konsultime, hapësirë pushimi dhe shoqërim.",
+    "target_audience": "Persona konsumatorë të drogave",
+    "access_conditions": "Pa kushte, pritje anonime"
+  },
+  "r_0035": {
+    "description": "Qendër komunitare e lagjes së Pâquis. Aktivitete kulturore, kurse gjuhësh, punëtori kreative, hapësirë fëmijësh dhe ndihmë për detyrat.",
+    "target_audience": "Banorë të lagjes së Pâquis",
+    "access_conditions": "I hapur për të gjithë"
+  },
+  "r_0036": {
+    "description": "Shpërndarje falas veshjesh për personat në situatë pasigurie. Veshje për burra, gra dhe fëmijë, sipas stinëve.",
+    "target_audience": "Persona në situatë pasigurie",
+    "access_conditions": "Me paraqitjen e një vërtetimi nga një shërbim social"
+  },
+  "r_0037": {
+    "description": "Kurse të frëngjishtes si gjuhë e huaj për të rriturit migrantë. Nivele nga fillestar deri në avancuar. Kurse ditore dhe mbrëmjeje.",
+    "target_audience": "Të rritur migrantë që dëshirojnë të mësojnë frëngjishten",
+    "access_conditions": "Regjistrim dhe test niveli, tarifa të reduktuara të mundshme"
+  },
+  "r_0038": {
+    "description": "Shpërndarje vaktesh të ngrohta (supë dhe bukë) për personat në situatë pasigurie. Shërbim falas dhe pa kushte.",
+    "target_audience": "I gjithë publiku",
+    "access_conditions": "Pa kushte, i pari që vjen i pari shërbehet"
+  },
+  "r_0039": {
+    "description": "Qendër informacioni dhe konsultimi për gratë. Këshilla juridike, sociale dhe profesionale. Mbështetje në rastin e dhunës.",
+    "target_audience": "Gra të çdo moshe dhe çdo situate",
+    "access_conditions": "I hapur për të gjitha gratë, disa konsultime me takim"
+  },
+  "r_0040": {
+    "description": "Antenë e Hospice général në Plainpalais. Ndihmë financiare, shoqërim social, ndihmë për strehim dhe integrim profesional.",
+    "target_audience": "Banorë të lagjes së Plainpalais në vështirësi",
+    "access_conditions": "Me takim, banorë të kantonit të Gjenevës"
+  },
+  "r_0041": {
+    "description": "Shoqatë mamive të pavarura që promovojnë shëndetin perinatal. Permanencë telefonike 7 ditë/7, hapësira pritjeje falas me mami, këshilla shtatzënie, gjidhënie, ndjekje pas lindjes.",
+    "target_audience": "Gra shtatzëna dhe prindër të rinj",
+    "access_conditions": "Pa takim për permanencat, falas. Permanencë telefonike hën-pre 8h-20h, sht-diel 9h-12h dhe 17h-20h"
+  },
+  "r_0042": {
+    "description": "Hapësirë pritjeje ditore për personat në situatë pasigurie. Mëngjesi, kafe, hapësirë pushimi, aktivitete dhe orientim social.",
+    "target_audience": "Persona pa banesë fikse",
+    "access_conditions": "Pa kushte, pritje pa kushte"
+  },
+  "r_0043": {
+    "description": "Mbrojtje juridike e të rriturve të cenueshëm dhe e të miturve. Kujdestari, tutela dhe masa mbrojtëse.",
+    "target_audience": "Të rritur të cenueshëm dhe të mitur që kanë nevojë për mbrojtje juridike",
+    "access_conditions": "Me sinjalizim ose kërkesë të drejtpërdrejtë"
+  },
+  "r_0044": {
+    "description": "Pikë hyrjeje WiFi falas në Place du Molard, në zemër të qytetit të vjetër të Gjenevës. Rrjeti Ville de Genève.",
+    "target_audience": "I gjithë publiku",
+    "access_conditions": "Hyrje e lirë"
+  },
+  "r_0045": {
+    "description": "Strehim për gra me fëmijë në vështirësi, kryesisht viktima të dhunës bashkëshortore. Mbështetje psikosociale, ndihmë për integrimin social dhe profesional, konsolidim i lidhjeve nënë/fëmijë. Disponon një çerdhe.",
+    "target_audience": "Gra vetë ose me fëmijë në situatë pasigurie",
+    "access_conditions": "Me orientim nga një shërbim social, vlerësim i situatës"
+  },
+  "r_0046": {
+    "description": "Hapësirë pritjeje falas, anonime dhe pa regjistrim për fëmijët deri në 5 vjeç të shoqëruar nga një i rritur. Vend dëgjimi dhe mbështetjeje për fëmijët dhe prindërit.",
+    "target_audience": "Fëmijë nga 0 deri në 5 vjeç dhe prindërit ose shoqëruesit e tyre",
+    "access_conditions": "Falas, anonim, pa regjistrim, fëmijë të shoqëruar nga një i rritur"
+  },
+  "r_0047": {
+    "description": "Këshilla juridike për qiramarrësit. Ndihmë në rast mosmarrëveshjeje me pronarin, rritje qiraje, ndërprerje kontrate.",
+    "target_audience": "Qiramarrës të kantonit të Gjenevës",
+    "access_conditions": "Anëtarësim në shoqatë (kontribut modest)"
+  },
+  "r_0048": {
+    "description": "Mbledhje dhe rishpërndarje e produkteve ushqimore për shoqatat bamirëse gjenevaze. Luftë kundër pasigurisë ushqimore dhe shpërdorimit.",
+    "target_audience": "Shoqata bamirëse dhe persona në pasiguri ushqimore",
+    "access_conditions": "E aksesueshme nëpërmjet shoqatave partnere"
+  },
+  "r_0049": {
+    "description": "Klinikë dentare universitare që ofron kujdes dentar. Pritje pa takim nga e hëna në të premte nga 8h në 15h30. Urgjenca dentare dhe kujdes i zakonshëm.",
+    "target_audience": "I gjithë publiku, persona pa sigurim dentar ose me të ardhura të ulëta",
+    "access_conditions": "Pritje pa takim nga e hëna në të premte nga 8h në 15h30"
+  },
+  "r_0050": {
+    "description": "Vend pritjeje, mbështetjeje dhe riintegrimi socioprofesional për personat në situatë pasigurie. Mëngjeske falas (150-200/javë), aktivitete sociale dhe praktika riintegrimi.",
+    "target_audience": "Persona në situatë pasigurie",
+    "access_conditions": "Pa kushte, pritje e lirë"
+  },
+  "r_0051": {
+    "description": "Vend pritjeje, argëtimi, takimesh dhe relaksimi për të gjitha moshat, të gjitha kulturat dhe të gjitha mjediset sociale. Aktivitete kulturore dhe sociale.",
+    "target_audience": "Banorë të lagjes Eaux-Vives dhe gjithë publiku",
+    "access_conditions": "I hapur për të gjithë, pritje e lirë"
+  },
+  "r_0052": {
+    "description": "Hapësirë pritjeje dhe orientimi për gra dhe familje. Konsultime juridike (e drejta e familjes, divorci, dhuna bashkëshortore, leja e qëndrimit), orientim profesional dhe mbështetje psikosociale.",
+    "target_audience": "Gra dhe familje",
+    "access_conditions": "Permanencë juridike telefonike: mar 11h-13h, mër 14h-16h, enj 12h-14h në 022 740 31 11. Konsultime me takim."
+  },
+  "r_0053": {
+    "description": "Shoqatë parandalimi të vetëvrasjes tek të rinjtë në Zvicërën frankofone. Ndërgjegjësim, punëtori, module parandalimi dhe orientim drejt strukturave të ndihmës. Në rast urgjence, thirrni 143.",
+    "target_audience": "Të rinj nga 15 deri në 29 vjeç, parandalim i vetëvrasjes",
+    "access_conditions": "Zyrë e hapur gjatë javës. Në rast urgjence, thirrni 143 (24 orë/24)"
+  },
+  "r_0054": {
+    "description": "Departamenti i shëndetit mendor dhe psikiatrisë i HUG. Konsultime psikiatrike dhe psikologjike, trajtim i çrregullimeve ankthi, depresionit, traumave.",
+    "target_audience": "Persona që vuajnë nga çrregullime psikike",
+    "access_conditions": "Me takim, me recetë mjekësore"
+  },
+  "r_0055": {
+    "description": "Përfitime financiare plotësuese për përfituesit AVS/AI. Ndihmë në pagimin e primeve të sigurimit shëndetësor dhe qirasë.",
+    "target_audience": "Përfitues AVS/AI me të ardhura të ulëta",
+    "access_conditions": "Përfitues AVS/AI, banorë të kantonit të Gjenevës"
+  },
+  "r_0056": {
+    "description": "Ndihmë në natyrë dhe mbulim i faturave urgjente për personat me të ardhura në minimumin jetësor ose pak mbi të.",
+    "target_audience": "Persona në vështirësi financiare të përkohshme",
+    "access_conditions": "Kërkesa me email në geneve@secours-d-hiver.ch. Telefoni vetëm të premteve."
+  },
+  "r_0057": {
+    "description": "Shoqatë gjenevaze e drejtuar ndaj fëmijëve dhe adoleshentëve. Qendër psikopedagogjike (13-18 vjeç), Café Ados, mbështetje për të miturit e pashoqëruar, veprime parandalimi.",
+    "target_audience": "Fëmijë dhe adoleshentë nga 12 deri në 18 vjeç",
+    "access_conditions": "Me regjistrim ose orientim"
+  },
+  "r_0058": {
+    "description": "Programe integrimi profesional për personat larg tregut të punës. Bilanc kompetencash, stërvitje për punësim, praktika.",
+    "target_audience": "Persona larg tregut të punës",
+    "access_conditions": "Regjistrim nëpërmjet Hospice général ose OCE"
+  },
+  "r_0059": {
+    "description": "Ndihmë për refugjatët dhe migrantët. Kurse frëngjishte, ndihmë për integrimin, këshillim juridik në të drejtën e azilit dhe shoqërim social.",
+    "target_audience": "Refugjatë dhe persona migrante",
+    "access_conditions": "Refugjatë dhe migrantë, regjistrim i nevojshëm"
+  },
+  "r_0060": {
+    "description": "Qendër komunitare e Jonction. Aktivitete sociale, civile dhe kulturore për të gjitha moshat. Pritje e lirë, punëtori të hapura për banorët nga 9 deri në 99 vjeç.",
+    "target_audience": "Banorë të lagjes së Jonction",
+    "access_conditions": "I hapur për të gjithë"
+  },
+  "r_0061": {
+    "description": "Hapësirë higjienike (WC/dushe) në katin e 1-rë të krahut Lindor të stacionit Cornavin. Menaxhuar nga CFF. Hyrje me pagesë (CHF 2), falas për mbajtësit e abonimit të përgjithshëm SwissPass. WC më të lira (CHF 1) gjenden në bodrum të sheshit të stacionit.",
+    "target_audience": "I gjithë publiku",
+    "access_conditions": "Hyrje me pagesë (CHF 2), falas me abonim të përgjithshëm SwissPass"
+  },
+  "r_0062": {
+    "description": "Tualete publike falas të vendosura në Parc des Bastions, pranë Mur des Réformateurs. Të aksesueshme për personat me aftësi të kufizuara lëvizëse.",
+    "target_audience": "I gjithë publiku",
+    "access_conditions": "Hyrje e lirë dhe falas"
+  },
+  "r_0063": {
+    "description": "Tualete publike falas në Plaine de Plainpalais, pranë tregut të sendeve të vjetra. Mirëmbajtje e rregullt nga shërbimet e Qytetit.",
+    "target_audience": "I gjithë publiku",
+    "access_conditions": "Hyrje e lirë dhe falas"
+  },
+  "r_0064": {
+    "description": "Fontanë uji i pijshëm publike dhe falas në Jardin Anglais, pranë Horloge Fleurie. Ujë i freskët gjatë gjithë vitit.",
+    "target_audience": "I gjithë publiku",
+    "access_conditions": "Hyrje e lirë 24 orë/24"
+  },
+  "r_0065": {
+    "description": "Fontanë publike e ujit të pijshëm në sheshin më të vjetër të Gjenevës. Ujë falas dhe i pijshëm në vazhdimësi.",
+    "target_audience": "I gjithë publiku",
+    "access_conditions": "Hyrje e lirë 24 orë/24"
+  },
+  "r_0066": {
+    "description": "Fontanë uji i pijshëm publike në Parc des Eaux-Vives, në bregun e liqenit. Ideale për t'u freskuar gjatë shëtitjeve.",
+    "target_audience": "I gjithë publiku",
+    "access_conditions": "Hyrje e lirë 24 orë/24"
+  },
+  "r_0067": {
+    "description": "Bibliotekë bashkiake falas në zemër të lagjes Servette. Hapësira për të rritur dhe të rinj të ndara, huazim librash dhe mediash, WiFi falas dhe aktivitete kulturore.",
+    "target_audience": "I gjithë publiku",
+    "access_conditions": "Hyrje e lirë, kartë falas për huazimin"
+  },
+  "r_0068": {
+    "description": "Bibliotekë bashkiake falas në lagjen Eaux-Vives. Hapësira për të rritur dhe të rinj, huazim librash dhe mediash, WiFi falas.",
+    "target_audience": "I gjithë publiku",
+    "access_conditions": "Hyrje e lirë, kartë falas për huazimin"
+  },
+  "r_0069": {
+    "description": "Bibliotekë bashkiake falas në lagjen Jonction. Zgjedhje e gjerë librash, hapësirë rinisë, animacione dhe WiFi falas.",
+    "target_audience": "I gjithë publiku",
+    "access_conditions": "Hyrje e lirë, kartë falas për huazimin"
+  },
+  "r_0070": {
+    "description": "Bibliotekë bashkiake falas në zemër të lagjes kozmopolite Pâquis. Huazim librash në shumë gjuhë, WiFi falas dhe animacione.",
+    "target_audience": "I gjithë publiku",
+    "access_conditions": "Hyrje e lirë, kartë falas për huazimin"
+  },
+  "r_0071": {
+    "description": "Huazim falas i lojërave shoqërore, lojërave edukative dhe lodrave për fëmijë dhe familje. Hapësirë loje në vend. E hapur për të gjithë fëmijët e shoqëruar.",
+    "target_audience": "Fëmijë, familje, i gjithë publiku",
+    "access_conditions": "Regjistrim falas, huazim falas"
+  },
+  "r_0072": {
+    "description": "Ludotekë lagjeje me huazim falas të lojërave shoqërore, lodrave dhe lojërave edukative. Hapësirë loje miqësore dhe punëtori ludike.",
+    "target_audience": "Fëmijë, familje, i gjithë publiku",
+    "access_conditions": "Regjistrim falas, huazim falas"
+  },
+  "r_0073": {
+    "description": "Kopsht urban komunitar në lagjen Grottes. Parcela të përbashkëta, kompostim kolektiv dhe punëtori kopshtarie falas.",
+    "target_audience": "Banorë të lagjes, të apasionuar pas kopshtarisë",
+    "access_conditions": "Hyrje e lirë, pjesëmarrje në punëtori me regjistrim"
+  },
+  "r_0074": {
+    "description": "Kopsht urban pjesëmarrës në Parc Beaulieu, menaxhuar nga shoqata Les Artichauts. Punëtori kopshtarie falas çdo të shtunë pasdite, të hapura për të gjitha nivelet. Prodhim fidanësh bio.",
+    "target_audience": "Banorë të lagjes, i gjithë publiku",
+    "access_conditions": "Hyrje e lirë, punëtori kopshtarie falas të shtunave 14h-17h (mes shkurti deri në fund tetor)"
+  },
+  "r_0075": {
+    "description": "Permanencë sindikale për punëtorët. Këshilla në të drejtën e punës, mbrojtje e të drejtave, ndihmë në rast largimi nga puna ose konflikti në punë.",
+    "target_audience": "Punëtorë, të gjitha degët",
+    "access_conditions": "I hapur për të gjithë punëtorët, anëtarësim për shërbimet juridike"
+  },
+  "r_0076": {
+    "description": "Sindikatë ndërprofesionale e punëtorëve. Permanenca juridike, mbrojtje e të drejtave në punë, negociata kolektive.",
+    "target_audience": "Punëtorë të të gjithë sektorëve",
+    "access_conditions": "I hapur për të gjithë punëtorët, anëtarësim për shërbimet juridike"
+  },
+  "r_0077": {
+    "description": "Qendër konsultimi falas dhe konfidenciale për viktimat e veprave penale. Mbështetje psikologjike, juridike dhe sociale. Ndihmë financiare urgjence.",
+    "target_audience": "Viktima të veprave penale dhe të afërmit e tyre",
+    "access_conditions": "Falas dhe konfidenciale, konsultime me takim"
+  },
+  "r_0078": {
+    "description": "Shërbim dëgjimi telefonik 24 orë/24 për çdo person në vështirësi, ankth ose vetmi. Dëgjim anonim, konfidencial dhe falas.",
+    "target_audience": "Çdo person në ngushticë, vetmi ose ankth",
+    "access_conditions": "Thirrni 143, falas, anonim dhe konfidencial 24 orë/24"
+  },
+  "r_0079": {
+    "description": "Linjë ndihme për fëmijët dhe të rinjtë, e disponueshme 24 orë/24. Dëgjim, këshilla dhe orientim për problemet personale, familjare ose shkollore.",
+    "target_audience": "Fëmijë dhe të rinj deri në 25 vjeç",
+    "access_conditions": "Thirrni 147, falas, anonim dhe konfidencial 24 orë/24"
+  },
+  "r_0080": {
+    "description": "Konsultime falas dhe konfidenciale në shëndetin seksual dhe riprodhues. Kontracepsion, shtatzëni, IST, këshillim bashkëshortor dhe edukim seksual. Kontracepsion urgjence pa takim.",
+    "target_audience": "Çdo person, në veçanti të rinjtë dhe gratë",
+    "access_conditions": "Falas, konfidenciale, me takim (pa takim për kontracepsionin e urgjencës)"
+  },
+  "r_0081": {
+    "description": "Depistim VIH dhe IST anonim dhe konfidencial në Spitalet Universitare të Gjenevës. Test i shpejtë VIH (55 CHF), depistim i plotë VIH/IST (155 CHF). Konsultime ndjekjeje dhe trajtim për personat seropozitive.",
+    "target_audience": "Çdo person që dëshiron depistim VIH/IST",
+    "access_conditions": "Depistim anonim me takim (nëpërmjet www.testvih.ch ose me telefon), test i shpejtë VIH nga 55 CHF"
+  },
+  "r_0082": {
+    "description": "Farmaci e integruar në qendrën shëndetësore Cité Générations (Klinika dhe Permanenca e Onex). Këshilla farmaceutike, ndjekje terapeutike dhe afërsi me urgjencat për të rriturit dhe fëmijët.",
+    "target_audience": "I gjithë publiku, pacientë të qendrës shëndetësore Cité Générations",
+    "access_conditions": "I hapur për të gjithë, pa kushte"
+  },
+  "r_0083": {
+    "description": "Shërbim i centralizuar i shpërndarjes së vendeve të strehimit urgjent për personat pa strehë. Thirrni centralën për të marrë një vend në rrjet (strehmore PC Châtelaine, Richemont, banesa shoqatash). Kapacitet total 184 vende.",
+    "target_audience": "Persona pa strehë, në situatë urgjence",
+    "access_conditions": "Thirrni numrin falas 0800 22 22 10 për të marrë një vend, pritje pa kushte"
+  },
+  "r_0084": {
+    "description": "Vend pritjeje ditore pa kushte në Temple de la Servette për personat në situatë pasigurie. Vakte solidare, pije të ngrohta, shkrues publik (CV, letra), punëtori frëngjishteje, anglishteje dhe informatike, konsultime juridike falas.",
+    "target_audience": "Persona në situatë pasigurie, migrantë, pa strehë",
+    "access_conditions": "Pa kushte, pritje pa kushte"
+  },
+  "r_0085": {
+    "description": "Banja publike emblematike në bregun e liqenit Léman. Plazh me rërë, pishina, trampolinë (3-10m), sauna dhe hamam, bufe popullore. Hyrje shumë e përballueshme (2 CHF në verë, 1 CHF në dimër).",
+    "target_audience": "I gjithë publiku",
+    "access_conditions": "Hyrje falas në hapësirat publike, hyrje 2 CHF në verë dhe 1 CHF në dimër"
+  },
+  "r_0086": {
+    "description": "Plazh publik falas në bregun e liqenit, ideal për familjet me fëmijë. Hapësirë lojërash, pishinë e cekët, hapësira të gjelbra dhe terrene sporti.",
+    "target_audience": "Familje, fëmijë, i gjithë publiku",
+    "access_conditions": "Hyrje e lirë dhe falas"
+  },
+  "r_0087": {
+    "description": "Terrene sportive publike dhe falas në Parc des Bastions. Shah gjigant, tavolina ping-pong, petank dhe hapësirë fitness në natyrë.",
+    "target_audience": "I gjithë publiku",
+    "access_conditions": "Hyrje e lirë dhe falas"
+  },
+  "r_0088": {
+    "description": "Shërbim falas ndërmjetësimi për zgjidhjen e konflikteve familjare, sociale, fqinjësie ose pune. Ndërmjetësim penal, civil dhe shëndetësor.",
+    "target_audience": "Banorë të Qytetit të Gjenevës",
+    "access_conditions": "Falas, me takim"
+  },
+  "r_0089": {
+    "description": "Hapësirë pritjeje, informacioni dhe aktivitetesh për personat e moshuar. Pikë informacioni falas, ndihmë administrative, kurse, punëtori, konferenca, këshilla shëndetësore dhe takime ndërbrezash.",
+    "target_audience": "Persona të moshuar, të pensionuar dhe të afërmit e tyre",
+    "access_conditions": "I hapur për të gjithë personat e moshuar dhe të afërmit e tyre, hyrje e lirë dhe falas"
+  },
+  "r_0090": {
+    "description": "Hapësirë pune e përbashkët falas brenda Bibliothèque de la Cité. WiFi, priza elektrike, tavolina pune dhe atmosferë e qetë për të punuar ose studiuar.",
+    "target_audience": "Studentë, punëtorë të pavarur, punëkërkues, i gjithë publiku",
+    "access_conditions": "Hyrje e lirë dhe falas, WiFi i disponueshëm"
+  },
+  "r_0091": {
+    "description": "Punëtori riparimi falas dhe udhëtuese të organizuara nga FRC Genève. Vullnetarë ekspertë riparojnë pajisje elektronike, veshje dhe biçikleta. Ngjarje periodike (konsultoni faqen për datat dhe vendet).",
+    "target_audience": "I gjithë publiku",
+    "access_conditions": "Hyrje e lirë dhe falas, një të shtunë në muaj (konsultoni faqen)"
+  },
+  "r_0092": {
+    "description": "Punëtori riparimi falas në Carouge. Vullnetarë ju ndihmojnë të riparoni objektet e thyera: pajisje të vogla, qepje, informatikë, biçikleta.",
+    "target_audience": "I gjithë publiku",
+    "access_conditions": "Hyrje e lirë dhe falas, një të shtunë në muaj (konsultoni faqen)"
+  },
+  "r_0093": {
+    "description": "Qendër konsultimesh dhe studimesh etnopsikologjike për personat migrante. Mbështetje psikoterapeutike e përshtatur me kulturën e origjinës, ndihmë për traumat e lidhura me mërgimin dhe integrimin.",
+    "target_audience": "Persona migrante, çifte bikulturore, familje në situatë ndërkulturore",
+    "access_conditions": "Me takim, konsultime për personat migrante dhe bikulturore"
+  },
+  "r_0094": {
+    "description": "Tualete publike falas në Place de Neuve, pranë Grand Théâtre dhe Musée Rath. Të aksesueshme për personat me aftësi të kufizuara lëvizëse.",
+    "target_audience": "I gjithë publiku",
+    "access_conditions": "Hyrje e lirë dhe falas"
+  },
+  "r_0095": {
+    "description": "Fontanë uji i pijshëm falas në Parc de la Grange, parku më i madh bregësor i Gjenevës. Ujë i freskët i aksesueshëm gjatë gjithë vitit.",
+    "target_audience": "I gjithë publiku",
+    "access_conditions": "Hyrje e lirë 24 orë/24"
+  },
+  "r_0096": {
+    "description": "Tualete publike falas të vendosura në Quai du Mont-Blanc, pranë Jet d'eau. Të hapura gjatë gjithë vitit.",
+    "target_audience": "I gjithë publiku",
+    "access_conditions": "Hyrje e lirë dhe falas"
+  },
+  "r_0097": {
+    "description": "Kopsht urban i përbashkët në bashkimin e Arve-s dhe Rhône-s. Punëtori permakulture, kompostim kolektiv dhe kopshtari pjesëmarrëse.",
+    "target_audience": "Banorë të lagjes, i gjithë publiku",
+    "access_conditions": "Hyrje e lirë, pjesëmarrje me kërkesë"
+  },
+  "r_0098": {
+    "description": "Fontanë publike uji i pijshëm para Gare de Cornavin. Pikë furnizimi me ujë të freskët dhe falas në qendër të Gjenevës.",
+    "target_audience": "I gjithë publiku",
+    "access_conditions": "Hyrje e lirë 24 orë/24"
+  },
+  "r_0099": {
+    "description": "Ludotekë lagjeje me huazim falas të lojërave shoqërore, enigmave dhe lodrave për të gjitha moshat. Pasdite lojërash të hapura për familjet.",
+    "target_audience": "Fëmijë, familje, i gjithë publiku",
+    "access_conditions": "Lojë në vend falas, abonim vjetor 30 CHF për huazimin"
+  },
+  "r_0100": {
+    "description": "Hyrje WiFi falas në Parc de la Grange ofruar nga Qyteti i Gjenevës. Lidhje e lirë në një nga parqet më të bukura gjenevaze.",
+    "target_audience": "I gjithë publiku",
+    "access_conditions": "Hyrje e lirë"
+  },
+  "r_0101": {
+    "description": "Shoqatë mbështetëse për komunitetin LGBTIQ+. Checkpoint Genève (qendër shëndetësore komunitare me depistim VIH/IST dhe mbështetje psikologjike), Le Refuge (strehim të rinj LGBTIQ+), grupe diskutimi dhe aktivitete sociale.",
+    "target_audience": "Komuniteti LGBT+ dhe çdo person i interesuar",
+    "access_conditions": "I hapur për të gjithë, depistim falas dhe anonim"
+  },
+  "r_0102": {
+    "description": "Qendër komunitare Saint-Jean që ofron aktivitete për të gjitha moshat. Punëtori, kurse gjuhësh, mbështetje shkollore dhe ngjarje kulturore.",
+    "target_audience": "Banorë të lagjes Saint-Jean, fëmijë, adoleshentë dhe të rritur",
+    "access_conditions": "I hapur për të gjithë banorët e lagjes"
+  },
+  "r_0103": {
+    "description": "Mbështetje falas dhe informacione për personat e prekur nga kanceri. Konsultime psiko-onkologjike, grupe diskutimi dhe shoqërim social.",
+    "target_audience": "Persona të prekur nga kanceri dhe të afërmit e tyre",
+    "access_conditions": "Falas, me takim"
+  },
+  "r_0104": {
+    "description": "Konsultime psikiatrike krize dhe ndjekje ambulatore falas për të rriturit në situatë ngushticeje psikike. Shërbim i lidhur me HUG.",
+    "target_audience": "Të rritur në situatë krize psikike",
+    "access_conditions": "Falas, me ose pa takim sipas urgjencës"
+  },
+  "r_0105": {
+    "description": "Mbështetje falas për personat diabetikë dhe të afërmit e tyre. Këshilla dietike, grupe shkëmbimi dhe informacione mbi sëmundjen.",
+    "target_audience": "Persona diabetikë dhe të afërmit e tyre",
+    "access_conditions": "Falas, me takim ose permanencë telefonike"
+  },
+  "r_0106": {
+    "description": "Kujdes mjekësor i ndihmës së parë për personat pa sigurim shëndetësor ose në situatë pasigurie. Konsultime të përgjithshme dhe orientim.",
+    "target_audience": "Persona pa sigurim shëndetësor ose në situatë të pasigurt",
+    "access_conditions": "E aksesueshme për personat pa sigurim shëndetësor, me takim"
+  },
+  "r_0107": {
+    "description": "Institucion gjenevaz i mirëmbajtjes në shtëpi. Kujdes infermierik, ndihmë në shtëpi dhe shoqërim për personat e moshuar, të sëmurë ose në konvaleshencë.",
+    "target_audience": "Persona të moshuar, të sëmurë ose në konvaleshencë që kanë nevojë për kujdes në shtëpi",
+    "access_conditions": "Me recetë mjekësore ose kërkesë të drejtpërdrejtë"
+  },
+  "r_0108": {
+    "description": "Mbështetje falas për familjet dhe të afërmit e personave të prekur nga Alzheimer. Grupe diskutimi, konsultime dhe orientim drejt shërbimeve të specializuara.",
+    "target_audience": "Familje dhe të afërm të personave të prekur nga Alzheimer ose demenca",
+    "access_conditions": "Falas, me takim"
+  },
+  "r_0109": {
+    "description": "Shërbim kantonal i mbrojtjes së fëmijëve. Vlerësim i situatave të rrezikut, masa mbrojtëse dhe shoqërim i familjeve në vështirësi.",
+    "target_audience": "Fëmijë dhe familje në situatë rreziku ose vështirësie",
+    "access_conditions": "Shërbim kantonal, hyrje me sinjalizim ose kërkesë"
+  },
+  "r_0110": {
+    "description": "Shoqërim edukativ dhe mbështetje shkollore për të rinjtë në vështirësi. Punëtori, strehim edukativ dhe programe riintegrimi.",
+    "target_audience": "Të rinj në vështirësi shkollore, sociale ose familjare",
+    "access_conditions": "Me orientim nga SPMi ose kërkesë të drejtpërdrejtë"
+  },
+  "r_0111": {
+    "description": "Hapësirë artistike falas për fëmijët nga 0 deri në 6 vjeç dhe shoqëruesit e tyre. Punëtori pikture, modelimi, muzike në kuadrin e Parc de la Perle du Lac.",
+    "target_audience": "Fëmijë nga 0 deri në 6 vjeç të shoqëruar nga një i rritur",
+    "access_conditions": "Falas, pa regjistrim, fëmijë të shoqëruar"
+  },
+  "r_0112": {
+    "description": "Vend pritjeje prindër-fëmijë nga 0 deri në 4 vjeç. Hapësirë loje e lirë, shkëmbime midis prindërve dhe mbështetje në prindërim në një mjedis të ngrohtë.",
+    "target_audience": "Prindër dhe fëmijë nga 0 deri në 4 vjeç",
+    "access_conditions": "Falas, pa regjistrim, fëmijë i shoqëruar nga një prind"
+  },
+  "r_0113": {
+    "description": "Huazim falas i lojërave dhe lodrave për fëmijë dhe familje. Koleksion i gjerë lojërash shoqërore, lojëra edukative dhe lodra për të gjitha moshat.",
+    "target_audience": "Fëmijë dhe familje",
+    "access_conditions": "Regjistrim falas, huazim lojërash falas për banorët e Carouge"
+  },
+  "r_0114": {
+    "description": "Shërbim falas huazimi biçikletash me vetëshërbim në Gjenevë. Biçikleta klasike dhe elektrike të disponueshme për udhëtime ditore urbane.",
+    "target_audience": "I gjithë publiku",
+    "access_conditions": "Falas, dokument identiteti dhe garancion e kërkuar"
+  },
+  "r_0115": {
+    "description": "Tarifë e reduktuar në abonimet e transportit publik gjenevaz për personat me të ardhura modeste. Reduktim deri në 50% në abonimet mujore dhe vjetore.",
+    "target_audience": "Persona me të ardhura modeste që banojnë në kantonin e Gjenevës",
+    "access_conditions": "Me kushte të ardhurave, justifikim i kërkuar"
+  },
+  "r_0116": {
+    "description": "Mbulim i shpenzimeve të transportit publik për përfituesit e ndihmës sociale. Abonim TPG i përfshirë në përfitimet e ndihmës financiare.",
+    "target_audience": "Përfitues të ndihmës sociale",
+    "access_conditions": "I rezervuar për përfituesit e ndihmës sociale të Hospice général"
+  },
+  "r_0117": {
+    "description": "Hyrje WiFi falas SBB-FREE në stacionin e Cornavin. Lidhje e pakufizuar e disponueshme në të gjithë stacionin dhe në platformat.",
+    "target_audience": "I gjithë publiku",
+    "access_conditions": "Falas, rrjeti SBB-FREE, pa fjalëkalim"
+  },
+  "r_0118": {
+    "description": "Hyrje WiFi falas e Qytetit të Gjenevës në Jardin Anglais. Pikë hyrjeje në natyrë me pamje nga Jet d'eau dhe liqeni.",
+    "target_audience": "I gjithë publiku",
+    "access_conditions": "Falas, rrjeti Ville de Genève WiFi"
+  },
+  "r_0119": {
+    "description": "Hyrje WiFi falas e Qytetit të Gjenevës në Plaine de Plainpalais. Zonë mbulimi e gjerë në këtë esplanadë të madhe urbane.",
+    "target_audience": "I gjithë publiku",
+    "access_conditions": "Falas, rrjeti Ville de Genève WiFi"
+  },
+  "r_0120": {
+    "description": "Ndërtesë universitare që ofron hyrje WiFi falas dhe hapësira studimi të hapura për publikun. Bibliotekë, salla pune dhe kafene të aksesueshme.",
+    "target_audience": "Studentë dhe i gjithë publiku që kërkon hapësirë pune",
+    "access_conditions": "Falas, hyrje e lirë në hapësirat publike të ndërtesës"
+  },
+  "r_0121": {
+    "description": "Riintegrim profesional për personat me probleme shëndetësore ose në situatë handicapi. Zhvillim i kompetencave personale, profesionale dhe sociale, përcaktim i projektit profesional, praktika në ndërmarrje dhe vendosje.",
+    "target_audience": "Persona në situatë handicapi ose me probleme shëndetësore që kërkojnë punë",
+    "access_conditions": "Falas, me orientim AI, papunësi ose ndihmë sociale"
+  },
+  "r_0122": {
+    "description": "Hapësirë formimi për gratë pak ose aspak të kualifikuara që hasin vështirësi në gjetjen e punës. Kurse frëngjishteje, informatike, kompetenca bazë dhe shoqërim drejt autonomisë dhe integrimit profesional.",
+    "target_audience": "Gra pak ose aspak të kualifikuara në situatë pasigurie",
+    "access_conditions": "Falas për shumicën e formimeve, regjistrim në sekretariat i kërkuar"
+  },
+  "r_0123": {
+    "description": "Shoqërim profesional për të rriturit e rinj nën 25 vjeç drejt suksesit të mësimit dual dhe për personat 50 vjeç e më shumë drejt kthimit në punë. Stërvitje individuale dhe kolektive.",
+    "target_audience": "Të rinj nën 25 vjeç pa formim dhe persona 50 vjeç e më shumë në kërkim pune",
+    "access_conditions": "Falas për të rinjtë nën 25 vjeç dhe personat 50 vjeç e më shumë me vendbanim në Gjenevë"
+  },
+  "r_0124": {
+    "description": "Vend shkëmbimi, informacioni dhe formimi shoqëror që pret më shumë se 80 shoqata lokale dhe ndërkombëtare. 13 salla të disponueshme për marrje me qira për ngjarje, kongrese dhe aktivitete shoqërore.",
+    "target_audience": "Shoqata dhe banorë të lagjes",
+    "access_conditions": "Hyrje e lirë në hapësirat e përbashkëta, rezervim për sallat"
+  },
+  "r_0125": {
+    "description": "Qendër jete lagjeje që propozon aktivitete sociokulturore për të gjitha moshat. Punëtori kreative, kurse gjuhësh, ngjarje komunitare dhe hapësirë kafeje.",
+    "target_audience": "Banorë të Carouge dhe rrethinës, të gjitha moshat",
+    "access_conditions": "Hyrje e lirë, disa aktivitete me regjistrim"
+  },
+  "r_0126": {
+    "description": "Hapësirë komunitare e Vernier që ofron aktivitete për fëmijë, adoleshentë dhe të rritur. Mbështetje shkollore, punëtori, ekskursione dhe ngjarje ndërkulturore.",
+    "target_audience": "Banorë të Vernier, të gjitha moshat",
+    "access_conditions": "Hyrje e lirë, disa aktivitete me regjistrim"
+  },
+  "r_0127": {
+    "description": "Linjë dëgjimi dhe mbështetjeje për viktimat e dhunës seksuale. Shoqërim psikologjik, juridik dhe social në një kuadër konfidencial.",
+    "target_audience": "Viktima të dhunës seksuale, kryesisht gra dhe persona LGBTIQ+",
+    "access_conditions": "Falas dhe konfidencial, me ose pa takim"
+  },
+  "r_0128": {
+    "description": "Shoqatë shoqërimi dhe autonomizimi të grave migrante. Kurse frëngjishteje, punëtori integrimi, konsultime psikologjike dhe mbështetje komunitare.",
+    "target_audience": "Gra migrante dhe refugjate",
+    "access_conditions": "Falas ose me kosto simbolike, regjistrim i kërkuar për kurset"
+  },
+  "r_0129": {
+    "description": "Mbështetje dhe shoqërim për gratë shtatzëna në vështirësi. Dëgjim, ndihmë materiale (veshje bebeje, karroca), këshilla dhe orientim drejt shërbimeve sociale.",
+    "target_audience": "Gra shtatzëna në vështirësi dhe nëna të reja",
+    "access_conditions": "Falas, me takim ose permanencë telefonike"
+  },
+  "r_0130": {
+    "description": "Pritje ditore për personat e moshuar në humbje autonomie. Aktivitete të përshtatura, vakte dhe kujdes që mundësojnë pushim për kujdestarët e afërm.",
+    "target_audience": "Persona të moshuar në humbje autonomie dhe kujdestarët e tyre të afërm",
+    "access_conditions": "Me recetë mjekësore, pjesëmarrje financiare sipas të ardhurave"
+  },
+  "r_0131": {
+    "description": "Mbështetje dhe orientim për kujdestarët e afërm të kantonit të Gjenevës. Dëgjim, këshillim, grupe diskutimi dhe lidhje në rrjet me burimet ekzistuese.",
+    "target_audience": "Kujdestarë të afërm të personave të moshuar, të sëmurë ose në situatë handicapi",
+    "access_conditions": "Falas, me ose pa takim"
+  },
+  "r_0132": {
+    "description": "Kurse falas ose me çmim modest për të rriturit në shumë fusha: gjuhë, informatikë, kulturë, zhvillim personal. I hapur për të gjithë pa kushte diplome.",
+    "target_audience": "Të rritur të të gjithë horizonteve pa kushte diplome",
+    "access_conditions": "Falas ose me çmim modest, regjistrim sipas semestrit"
+  },
+  "r_0133": {
+    "description": "Qendër burimesh për organizatat ndërkombëtare dhe shoqatat. Salla konferencash, hapësira bashkëpunimi dhe shërbime mbështetjeje administrative.",
+    "target_audience": "Shoqata, OJQ dhe organizata ndërkombëtare",
+    "access_conditions": "Hyrje e lirë në hapësirat e përbashkëta, rezervim për sallat e konferencave"
+  },
+  "r_0134": {
+    "description": "Konsultime juridike falas për personat e huaja mbi çështjet e të drejtës së të huajve, azilit, bashkimit familjar dhe lejeve të qëndrimit.",
+    "target_audience": "Persona të huaja që banojnë në kantonin e Gjenevës",
+    "access_conditions": "Falas, pa takim, i pari që vjen i pari shërbehet"
+  },
+  "r_0135": {
+    "description": "Permanencë juridike falas e specializuar në të drejtën e azilit dhe të drejtën e të huajve. Këshillim, shoqërim në procedura dhe hartim ankimesh.",
+    "target_audience": "Azilkërkues, refugjatë dhe persona të refuzuar",
+    "access_conditions": "Falas, me takim për konsultimet e thelluara"
+  },
+  "r_0136": {
+    "description": "Këshillim dhe shoqërim falas për personat në situatë handicapi dhe të afërmit e tyre. Ndihmë administrative, orientim profesional dhe mbështetje sociale.",
+    "target_audience": "Persona në situatë handicapi dhe të afërmit e tyre",
+    "access_conditions": "Falas, me takim"
+  },
+  "r_0137": {
+    "description": "Muzeu i historisë natyrore me hyrje falas. Koleksione të përhershme zoologjie, mineralogjie dhe paleontologjie. Ekspozita të përkohshme dhe aktivitete për fëmijë.",
+    "target_audience": "I gjithë publiku, familje dhe shkolla",
+    "access_conditions": "Hyrje falas për koleksionet e përhershme"
+  },
+  "r_0138": {
+    "description": "Muzeu më i madh i Gjenevës me koleksion të përhershëm falas. Arte të bukura, arte të aplikuara dhe arkeologji, nga parahistoria deri tek arti bashkëkohor.",
+    "target_audience": "I gjithë publiku, dashamirës të artit dhe historisë",
+    "access_conditions": "Koleksion i përhershëm falas, ekspozita të përkohshme me pagesë"
+  },
+  "r_0139": {
+    "description": "Muzeu zviceran i qeramikës dhe qelqit me hyrje falas. Koleksione të jashtëzakonshme në një ndërtesë neo-baroke përballë Palais des Nations.",
+    "target_audience": "I gjithë publiku, dashamirës të arteve dekorative",
+    "access_conditions": "Hyrje falas për koleksionet e përhershme"
+  },
+  "r_0140": {
+    "description": "Muzeu i kushtuar veprimit humanitar me hyrje falas të mërkurave pasdite. Ekspozita interaktive mbi historinë dhe sfidat humanitare aktuale.",
+    "target_audience": "I gjithë publiku, të apasionuar pas historisë humanitare",
+    "access_conditions": "Hyrje falas të mërkurave pasdite (16:00-18:00), tarifë e reduktuar e disponueshme"
+  },
+  "r_0141": {
+    "description": "Qendër ujore bashkiake me tarifë të reduktuar për banorët me të ardhura të ulëta. Pishinë olimpike, pishinë mësimi dhe hapësirë mirëqenieje.",
+    "target_audience": "I gjithë publiku, tarifë e reduktuar për banorët me të ardhura të ulëta",
+    "access_conditions": "Tarifë e reduktuar me kartë Cité Seniors ose subvencion sigurimi shëndetësor"
+  },
+  "r_0142": {
+    "description": "Mediatekë bashkiake me hyrje të lirë që ofron libra, DVD, CD dhe hyrje falas në internet. Animacione kulturore, ora e tregimit dhe hapësirë leximi komode.",
+    "target_audience": "I gjithë publiku, lexues dhe familje të lagjes",
+    "access_conditions": "Hyrje e lirë dhe falas, regjistrim falas për huazimin"
+  },
+  "r_0143": {
+    "description": "Restorant solidar që propozon vakte falas në mbrëmje për personat në situatë pasigurie. Kuzhinë gastronomike me bazë tepricash ushqimore të rikuperuara. Menaxhuar nga Mater Fondazione në partneritet me Food for Soul.",
+    "target_audience": "Persona në situatë pasigurie ushqimore",
+    "access_conditions": "Vakte mbrëmjeje falas, orientim nga shoqatat partnere"
+  },
+  "r_0144": {
+    "description": "Supë popullore që shërben vakte falas në drekë për personat pa burime. Më shumë se 250 vakte të shërbyera në ditë nga shoqata të ndryshme bamirëse. Vend takimi pas stacionit Cornavin.",
+    "target_audience": "Persona pa burime, pa banesë fikse",
+    "access_conditions": "Pa kushte, i hapur për çdo person në nevojë"
+  },
+  "r_0145": {
+    "description": "Qendër pritjeje ditore urgjente që ofron vakte të ngrohta falas, dushe, dëgjim dhe orientim. Pritje pa kushte për personat e përballuara me vetminë, përjashtimin dhe margjinalizimin. CARÉ = Caritas Accueil Rencontre Échange.",
+    "target_audience": "Persona në situatë pasigurie, përjashtimi, izolimi",
+    "access_conditions": "Pa kushte, pritje pa kushte për të rriturit"
+  },
+  "r_0146": {
+    "description": "Banesë strehimi urgjence që ofron strehë për personat pa strehë. Mëngjesi dhe darka falas. Kohëzgjatje qëndrimi e pakufizuar. Mundësi për të qëndruar ditën gjatë dimrit. Hapësirë Grash e dedikuar.",
+    "target_audience": "Persona pa strehë, gra vetë ose me fëmijë",
+    "access_conditions": "Strehim me kërkesë, 10 deri 20 vende, kohëzgjatje e pakufizuar"
+  },
+  "r_0147": {
+    "description": "Strehimore nate urgjence e Qytetit të Gjenevës. Shtrat, darka, bagazheri dhe hyrje në dushe të ofruar falas. Kohëzgjatja e kufizuar në 30 ditë.",
+    "target_audience": "Persona pa strehë",
+    "access_conditions": "Thirrni centralën e strehimit urgjent në 0800 22 22 10 (falas). Kohëzgjatja e kufizuar në 30 ditë."
+  },
+  "r_0148": {
+    "description": "Konsultim mjekësor falas dhe konfidencial për personat pa sigurim shëndetësor ose pa status ligjor. Kujdes i linjës së parë, konsultime mjekësore dhe infermierike, orientim drejt shërbimeve të specializuara. Më shumë se 4500 pacientë në vit.",
+    "target_audience": "Persona pa sigurim shëndetësor, pa status ligjor, pa banesë fikse",
+    "access_conditions": "Nga 16 vjeç, pa kushte statusi ligjor, pa sigurim i pranuar, falas dhe konfidencial"
+  },
+  "r_0149": {
+    "description": "Qendër shëndetësore komunitare LGBTIQ+ e specializuar në shëndetin seksual. Depistim VIH/IST falas dhe anonim, trajtime, vaksinime, konsultime psikologjike. Shërbim i Dialogai.",
+    "target_audience": "Komuniteti LGBTIQ+ dhe çdo person i interesuar për shëndetin seksual",
+    "access_conditions": "Depistim falas dhe anonim pa takim të hënave dhe të enjteve"
+  },
+  "r_0150": {
+    "description": "Kabinet dentar që propozon kujdes bazë me çmime shumë të reduktuara për personat me të ardhura të ulëta. Konsultim dentisti 40 CHF, higjenist 20 CHF. Dentistë dhe higjenistë vullnetarë.",
+    "target_audience": "Punëtorë të varfër dhe persona me të ardhura të ulëta pa ndihmë sociale",
+    "access_conditions": "Me takim nëpërmjet Permanencës së Pritjes Sociale. I rezervuar për personat me të ardhura të ulëta."
+  },
+  "r_0151": {
+    "description": "Shoqatë aktive në luftën kundër VIH, hepatiteve dhe IST. Konsultim psikologjik falas (seanca e 1-rë), depistim konfidencial, këshillim juridik dhe social për personat që jetojnë me VIH.",
+    "target_audience": "Persona të interesuara për VIH, IST, hepatitet",
+    "access_conditions": "Konsultimi i parë psikologjik falas. Depostime konfidenciale."
+  },
+  "r_0152": {
+    "description": "Shoqërim social dhe profesional për gratë në situatë përjashtimi. Ndihmë në hapat administrativë, njohje e të drejtave, riorientim profesional. Dëgjim telefonik dhe mbështetje.",
+    "target_audience": "Gra në situatë përjashtimi social ose profesional",
+    "access_conditions": "Falas, permanencë telefonike në oraret e treguara"
+  },
+  "r_0153": {
+    "description": "Strehë për gratë viktima të dhunës dhe trafikut të qenieve njerëzore, me ose pa fëmijë. Strehim rezidencial me ndjekje psikosociale për rreth 30 gra. Kurse frëngjishteje dhe formim profesional.",
+    "target_audience": "Gra viktima të dhunës dhe trafikut, me ose pa fëmijë",
+    "access_conditions": "Pritje telefonike 8h30-12h. Strehim urgjence 24 orë/24."
+  },
+  "r_0154": {
+    "description": "Shoqatë solidariteti që mbron të drejtat e punëtorëve të seksit. Pritje, dëgjim, mbështetje psikosociale, shërbime juridike, ndihmë administrative, parandalim IST dhe material parandalimi.",
+    "target_audience": "Persona që ushtrojnë punën e seksit",
+    "access_conditions": "Pa takim në oraret e treguara. Pritje pa gjykim."
+  },
+  "r_0155": {
+    "description": "Hapësirë falas informacioni dhe këshillimi në orientim, formim dhe punësim. Këshilltarë të disponueshëm pa takim. Punëtori tematike: bilanc kompetencash, CV, intervista punësimi, rikonvertim.",
+    "target_audience": "Të rinj dhe të rritur në kërkim orientimi, formimi ose pune",
+    "access_conditions": "Falas, pa takim, hyrje e lirë"
+  },
+  "r_0156": {
+    "description": "Shoqatë integrimi socioprofesional për të rinjtë nga 15 deri në 25 vjeç. Punë të vogla të përkohshme, mbështetje e personalizuar, praktika parakualifikimi dhe shoqërim në kërkimin e punës ose formimit.",
+    "target_audience": "Të rinj nga 15 deri në 25 vjeç në kërkim pune ose formimi",
+    "access_conditions": "Falas, regjistrim në faqen e internetit ose në vend"
+  },
+  "r_0157": {
+    "description": "Shoqatë e pavarur që mbron të drejtën e azilit që nga 1986. Ndihmë juridike falas dhe përfaqësim i refugjatëve. Konsultime pa takim të hënave. Shoqërim përgjatë gjithë procedurës së azilit.",
+    "target_audience": "Azilkërkues dhe refugjatë",
+    "access_conditions": "Falas, konsultime pa takim të hënave"
+  },
+  "r_0158": {
+    "description": "Shoqatë lesbike dhe feministe e hapur për të gjitha gratë (cis, trans, biseksuale, queer). Pritje, dëgjim, informacion dhe solidaritet. Aktivitete: klub kinemaje, mbrëmje, konferenca, sport.",
+    "target_audience": "Gra lesbike, biseksuale, trans, queer",
+    "access_conditions": "I hapur për të gjitha gratë pa kushte"
+  },
+  "r_0159": {
+    "description": "Hapësirë pritjeje, dëgjimi dhe mbështetjeje për të rinjtë LGBTIQ+ në vështirësi. Shoqërim individual, grupe mbështetjeje, bisedë anonime në internet, strehim nga 3 deri 6 muaj nga 18 vjeç.",
+    "target_audience": "Të rinj LGBTIQ+ dhe rrethi i tyre",
+    "access_conditions": "Me ose pa takim, bisedë anonime e disponueshme në internet"
+  },
+  "r_0160": {
+    "description": "Shoqatë në shërbim të diversitetit seksual dhe gjinor. Pritje, informacion, dëgjim dhe orientim për personat LGBTIQ+. Shërbim juridik unik në Zvicërën frankofone. Grupe: Trans*, Homoprindër, Bi, Tamalou (të moshuar).",
+    "target_audience": "Persona LGBTIQ+ dhe të afërmit e tyre",
+    "access_conditions": "Pritje e lirë pa takim"
+  },
+  "r_0161": {
+    "description": "Shoqatë parandalimi dhe shoqërimi për personat e varur nga alkooli dhe familjet e tyre. Këshillim profesional, terapi ambulatore, grupe mbështetjeje, fundjavë.",
+    "target_audience": "Persona të interesuara nga alkoolizmi dhe të afërmit e tyre",
+    "access_conditions": "Pritje e lirë, falas"
+  },
+  "r_0162": {
+    "description": "Qendër ditore për personat toksikodipendente. Pritje, dëgjim, vakte, aktivitete dhe shoqërim drejt kujdesit. Shoqata ARGOS propozon gjithashtu qendra rezidenciale riintegrimi.",
+    "target_audience": "Persona toksikodipendente",
+    "access_conditions": "Pritje e lirë, pa takim"
+  },
+  "r_0163": {
+    "description": "Qendër parandalimi që grumbullon FEGPA (alkool dhe kanabis), CIPRET (duhan) dhe RNVP (lojëra/ekrane). Këshilla falas dhe konfidenciale për çdo person të interesuar nga një varësi ose të afërmit e tij.",
+    "target_audience": "Çdo person i interesuar nga një varësi, të rinj dhe të afërm",
+    "access_conditions": "Konsultime falas dhe konfidenciale, me takim"
+  },
+  "r_0164": {
+    "description": "Shoqatë prindërish dhe miqsh të personave në situatë handicapi mendor. Informacion, këshillim, mbështetje për familjet. Aktivitete argëtimi, fundjavë pushimi, qëndrime pushimesh. Mbrojtje e të drejtave.",
+    "target_audience": "Persona në situatë handicapi mendor dhe familjet e tyre",
+    "access_conditions": "Kontakt me telefon ose email"
+  },
+  "r_0165": {
+    "description": "Organizata më e madhe e ndihmës reciproke për personat me handicap në Zvicër. Këshillim juridik falas në sigurimet sociale (AI, APG). Aktivitete takimi për fëmijët në situatë handicapi.",
+    "target_audience": "Persona në situatë handicapi",
+    "access_conditions": "Këshillim juridik falas për anëtarët"
+  },
+  "r_0166": {
+    "description": "Shoqatë që inkurajon personat e moshuar të qëndrojnë aktivë dhe autonomë. Aktivitete të ndryshme: kurse, punëtori, ekskursione, konferenca, sport. Programi \"Seniors d'ici et d'ailleurs\" për integrimin.",
+    "target_audience": "Persona të moshuar 50 vjeç e më shumë",
+    "access_conditions": "I hapur për personat 50 vjeç e më shumë"
+  },
+  "r_0167": {
+    "description": "Kapelanë ekumenike që ofron prezencë, dëgjim dhe mbështetje për azilkërkuesit dhe refugjatët. Kurse frëngjishteje, informatike, vakte miqësore, aktivitete sportive dhe kulturore.",
+    "target_audience": "Azilkërkues dhe refugjatë në Gjenevë",
+    "access_conditions": "I hapur për të gjithë azilkërkuesit dhe refugjatët"
+  },
+  "r_0168": {
+    "description": "Pritje dhe shoqërim i refugjatëve LGBTIQ+. Permanencë juridike në bashkëpunim me elisa-asile, mbështetje dhe aktivitete ndërgjegjësimi.",
+    "target_audience": "Refugjatë dhe azilkërkues LGBTIQ+",
+    "access_conditions": "I hapur për çdo person LGBTIQ+ refugjat ose azilkërkues"
+  },
+  "r_0169": {
+    "description": "Ludotekë komunale falas për të luajtur në vend. Lojëra tavoline klasike dhe bashkëpunuese në dy kate. Huazim lojërash me abonim vjetor familjar (30 CHF). Stafi i disponueshëm për këshillim.",
+    "target_audience": "Fëmijë, familje, institucione të lagjes",
+    "access_conditions": "Loja në vend falas. Huazim me abonim familjar vjetor (30 CHF). Fëmijët nën 6 vjeç të shoqëruar nga një i rritur."
+  },
+  "r_0170": {
+    "description": "Ludotekë komunale falas për të luajtur në vend, brenda Manège en Ville. Rreth 1000 lojëra tavoline, lojëra video dhe lodra për të gjitha moshat. Huazim me abonim familjar (30 CHF/vit). Organizohen turnire dhe ngjarje.",
+    "target_audience": "Fëmijë, familje, të gjitha moshat (nga foshnjat te të rriturit)",
+    "access_conditions": "Loja në vend falas. Huazim me abonim familjar vjetor (30 CHF). Fëmijët nën 6 vjeç të shoqëruar nga një i rritur."
+  },
+  "r_0171": {
+    "description": "Strehim emergjence për gratë në situatë të vështirë, të pastrehë ose refugjate me fëmijë. 30 vende pranimi pa kushte dhe 21 vende për gratë me ndihmë sociale. Dhoma individuale ose dyshe, tre vakte ushqimi në ditë, lavanteri, mbështetje sociale.",
+    "target_audience": "Gra të pastrehë, gra në situatë të vështirë, refugjate me fëmijë",
+    "access_conditions": "Kontaktoni linjën e strehimit të emergjencës së Gjenevës: 0800 22 22 10 (Hën-Pre 10:30-20:00, Sht-Diel 15:00-20:00). Pa rezervim të drejtpërdrejtë."
+  },
+  "tag": {
+    "143": "143",
+    "147": "147",
+    "15-25 ans": "15-25 vjeç",
+    "24h": "24 orë",
+    "50+": "50+",
+    "AI": "AI",
+    "AVS": "AVS",
+    "Belle-Idée": "Belle-Idée",
+    "CFF": "CFF",
+    "CV": "CV",
+    "Carouge": "Carouge",
+    "Cité Générations": "Cité Générations",
+    "Cornavin": "Cornavin",
+    "Croix-Rouge": "Croix-Rouge",
+    "FLE": "FLE",
+    "FRC": "FRC",
+    "HUG": "HUG",
+    "Hospice général": "Hospice général",
+    "IST": "IST",
+    "LAVI": "LAVI",
+    "LGBT": "LGBT",
+    "LGBTIQ+": "LGBTIQ+",
+    "Onex": "Onex",
+    "Plainpalais": "Plainpalais",
+    "SBB": "SBB",
+    "SIT": "SIT",
+    "SOS": "SOS",
+    "TPAE": "TPAE",
+    "TPG": "TPG",
+    "UNIA": "UNIA",
+    "VIH": "VIH",
+    "Vernier": "Vernier",
+    "abri": "strehimore",
+    "accessibilité": "aksesueshmëri",
+    "accompagnement": "shoqërim",
+    "accueil": "pritje",
+    "accueil de jour": "pritje ditore",
+    "activités": "aktivitete",
+    "addiction": "varësi",
+    "administratif": "administrativ",
+    "administration": "administratë",
+    "adolescents": "adoleshentë",
+    "adultes": "të rritur",
+    "aide": "ndihmë",
+    "aide financière": "ndihmë financiare",
+    "aide matérielle": "ndihmë materiale",
+    "aide sociale": "ndihmë sociale",
+    "aide à domicile": "ndihmë në shtëpi",
+    "alcool": "alkool",
+    "alimentaire": "ushqimore",
+    "allaitement": "gjidhënie",
+    "alzheimer": "alzheimer",
+    "anonyme": "anonim",
+    "anti-gaspillage": "kundër shpërdorimit",
+    "antigaspillage": "kundërshpërdorim",
+    "apprentissage": "mësim",
+    "archéologie": "arkeologji",
+    "armée du salut": "ushtria e shpëtimit",
+    "art": "art",
+    "artichauts": "artichauts",
+    "arts": "arte",
+    "asile": "azil",
+    "associations": "shoqata",
+    "assurance": "sigurim",
+    "assurances sociales": "sigurime sociale",
+    "ateliers": "punëtori",
+    "autonomie": "autonomi",
+    "autonomisation": "autonomizim",
+    "avocats": "avokatë",
+    "bail": "kontratë qiraje",
+    "bains": "banja",
+    "banque": "bankë",
+    "bas prix": "çmim i ulët",
+    "bas seuil": "prag i ulët",
+    "bateau": "barkë",
+    "beaulieu": "beaulieu",
+    "bibliothèque": "bibliotekë",
+    "bien-être": "mirëqenie",
+    "bébé": "bebe",
+    "bénévoles": "vullnetarë",
+    "café": "kafe",
+    "cancer": "kancer",
+    "cannabis": "kanabis",
+    "cantonal": "kantonal",
+    "caritas": "caritas",
+    "carouge": "carouge",
+    "carrière": "karrierë",
+    "centrale": "qendror",
+    "centre-ville": "qendër qyteti",
+    "chômage": "papunësi",
+    "citoyenneté": "qytetari",
+    "coaching": "stërvitje",
+    "colis": "pako",
+    "collecte": "mbledhje",
+    "communautaire": "komunitar",
+    "communauté": "komunitet",
+    "compétences": "kompetenca",
+    "confidentiel": "konfidencial",
+    "conflits": "konflikte",
+    "conférences": "konferenca",
+    "conseil": "këshillim",
+    "conseils": "këshilla",
+    "consultation": "konsultim",
+    "contraception": "kontracepsion",
+    "cornavin": "cornavin",
+    "cours": "kurse",
+    "coworking": "bashkëpunim",
+    "crise": "krizë",
+    "croix-rouge": "kryqi i kuq",
+    "crèche": "çerdhe",
+    "créativité": "kreativitet",
+    "culture": "kulturë",
+    "curatelle": "kujdestari",
+    "céramique": "qeramikë",
+    "dentaire": "dentar",
+    "diabète": "diabet",
+    "distribution": "shpërndarje",
+    "diversité": "diversitet",
+    "divorce": "divorc",
+    "diététique": "dietikë",
+    "domicile": "banesë",
+    "douche": "dush",
+    "douches": "dushe",
+    "drogue": "drogë",
+    "drogues": "droga",
+    "droit": "e drejtë",
+    "droit des étrangers": "e drejta e të huajve",
+    "droits": "të drejta",
+    "démence": "demencë",
+    "dépendance": "varësi",
+    "dépistage": "depistim",
+    "détresse": "ngushticë",
+    "eau potable": "ujë i pijshëm",
+    "eaux-vives": "eaux-vives",
+    "emploi": "punësim",
+    "enfance": "fëmijëri",
+    "enfants": "fëmijë",
+    "espace partagé": "hapësirë e përbashkët",
+    "espace travail": "hapësirë pune",
+    "ethnopsychologie": "etnopsikologji",
+    "extérieur": "jashtë",
+    "factures": "fatura",
+    "famille": "familje",
+    "familles": "familje",
+    "femmes": "gra",
+    "femmes migrantes": "gra migrante",
+    "financière": "financiare",
+    "fitness": "fitness",
+    "fontaine": "fontanë",
+    "formation": "formim",
+    "fr": "fr",
+    "français": "frëngjisht",
+    "français professionnel": "frëngjisht profesionale",
+    "frigo": "frigorifer",
+    "féministe": "feministe",
+    "garderie": "kujdestari",
+    "gare": "stacion",
+    "gastronomique": "gastronomike",
+    "grange": "grange",
+    "gratuit": "falas",
+    "grossesse": "shtatzëni",
+    "groupe": "grup",
+    "handicap": "handicap",
+    "handicap mental": "handicap mendor",
+    "histoire": "histori",
+    "hiver": "dimër",
+    "humanitaire": "humanitar",
+    "hydratation": "hidratim",
+    "hygiène": "higjenë",
+    "hébergement": "strehim",
+    "infirmiers": "infermierë",
+    "information": "informacion",
+    "informatique": "informatikë",
+    "infractions": "vepra penale",
+    "insertion": "integrim",
+    "interactif": "interaktiv",
+    "interculturel": "ndërkulturor",
+    "international": "ndërkombëtar",
+    "internet": "internet",
+    "intégration": "integrim",
+    "invendus": "të pashitura",
+    "jardin": "kopsht",
+    "jeu": "lojë",
+    "jeunes": "të rinj",
+    "jeunesse": "rini",
+    "jeux": "lojëra",
+    "jonction": "jonction",
+    "jouets": "lodra",
+    "jour": "ditë",
+    "juridique": "juridik",
+    "lac": "liqen",
+    "langues": "gjuhë",
+    "laverie": "larje",
+    "lesbienne": "lesbike",
+    "libre-service": "vetëshërbim",
+    "licenciement": "largim nga puna",
+    "livres": "libra",
+    "locataires": "qiramarrës",
+    "logement": "strehim",
+    "loisirs": "argëtime",
+    "loyer": "qira",
+    "ludothèque": "ludotekë",
+    "maintien à domicile": "mirëmbajtje në shtëpi",
+    "maladie chronique": "sëmundje kronike",
+    "maraude": "patrullë sociale",
+    "maternité": "amësi",
+    "meubles": "mobile",
+    "midi": "drekë",
+    "migrantes": "migrante",
+    "migrants": "migrantë",
+    "migration": "migrim",
+    "mineurs": "të mitur",
+    "mobile": "i lëvizshëm",
+    "mobilité": "lëvizshmëri",
+    "molard": "molard",
+    "multilingue": "shumëgjuhësh",
+    "musée": "muze",
+    "médecin": "mjek",
+    "médecine générale": "mjekësi e përgjithshme",
+    "médiathèque": "mediatekë",
+    "médiation": "ndërmjetësim",
+    "médicaments": "medikamente",
+    "natation": "not",
+    "nature": "natyrë",
+    "nuit": "natë",
+    "offres": "oferta",
+    "orientation": "orientim",
+    "parc": "park",
+    "parc de la grange": "parc de la grange",
+    "parentalité": "prindërim",
+    "parents": "prindër",
+    "parents-enfants": "prindër-fëmijë",
+    "partage": "ndarje",
+    "permaculture": "permakulturë",
+    "permanence": "permanencë",
+    "permis": "leje",
+    "personnes âgées": "persona të moshuar",
+    "petite enfance": "fëmijëri e hershme",
+    "petits boulots": "punë të vogla",
+    "petits-déjeuners": "mëngjeske",
+    "pharmacie": "farmaci",
+    "piscine": "pishinë",
+    "place de neuve": "place de neuve",
+    "plage": "plazh",
+    "plaine": "fushë",
+    "plainpalais": "plainpalais",
+    "planning familial": "planifikim familjar",
+    "plein air": "në natyrë",
+    "ponctuel": "i përkohshëm",
+    "potager": "kopsht",
+    "prestations": "përfitime",
+    "prix réduits": "çmime të reduktuara",
+    "pro juventute": "pro juventute",
+    "proches aidants": "kujdestarë të afërm",
+    "protection": "mbrojtje",
+    "précarité": "pasiguri",
+    "prévention": "parandalim",
+    "prêt": "huazim",
+    "psychiatrie": "psikiatri",
+    "psycho-oncologie": "psiko-onkologji",
+    "psychologie": "psikologji",
+    "psychologique": "psikologjik",
+    "psychologue": "psikolog",
+    "psychopédagogique": "psikopedagogjik",
+    "public": "publik",
+    "pâquis": "pâquis",
+    "quai": "skelë",
+    "quartier": "lagje",
+    "reconversion": "rikonvertim",
+    "recours": "ankim",
+    "redistribution": "rishpërndarje",
+    "refuge": "strehë",
+    "repair café": "repair café",
+    "repas": "vakte",
+    "repos": "pushim",
+    "ressources": "burime",
+    "restaurant": "restorant",
+    "récupération": "rikuperim",
+    "réduction": "reduktim",
+    "réduction des risques": "reduktim i rreziqeve",
+    "réfugiés": "refugjatë",
+    "réinsertion": "riintegrim",
+    "réorientation": "riorientim",
+    "réparation": "riparim",
+    "répit": "pushim",
+    "réseau": "rrjet",
+    "résolution": "zgjidhje",
+    "réunions": "mbledhje",
+    "sages-femmes": "mami",
+    "saint-jean": "saint-jean",
+    "sans assurance": "pa sigurim",
+    "sans rendez-vous": "pa takim",
+    "sans-abri": "pa strehë",
+    "sans-papiers": "pa dokumente",
+    "santé": "shëndet",
+    "santé mentale": "shëndet mendor",
+    "santé sexuelle": "shëndet seksual",
+    "sauna": "sauna",
+    "sciences": "shkenca",
+    "seconde main": "dorë e dytë",
+    "seniors": "të moshuar",
+    "servette": "servette",
+    "social": "social",
+    "socioculturel": "sociokulturor",
+    "soins": "kujdes",
+    "soins à domicile": "kujdes në shtëpi",
+    "solidaire": "solidar",
+    "soupe": "supë",
+    "soupe populaire": "supë popullore",
+    "soutien": "mbështetje",
+    "soutien scolaire": "mbështetje shkollore",
+    "sport": "sport",
+    "stages": "praktika",
+    "substitution": "zëvendësim",
+    "suicide": "vetëvrasje",
+    "syndicat": "sindikatë",
+    "sécheron": "sécheron",
+    "tabac": "duhan",
+    "tarif réduit": "tarifë e reduktuar",
+    "tarif social": "tarifë sociale",
+    "toilettes": "tualete",
+    "toxicodépendance": "toksikodipendencë",
+    "traite": "trafikim",
+    "traitement": "trajtim",
+    "trans": "trans",
+    "transport": "transport",
+    "travail": "punë",
+    "travail du sexe": "punë e seksit",
+    "travailleurs pauvres": "punëtorë të varfër",
+    "tutelle": "tutelë",
+    "téléphone": "telefon",
+    "université": "universitet",
+    "urbain": "urban",
+    "urgence": "urgjencë",
+    "verre": "qelq",
+    "vestiaire": "garderobë",
+    "victimes": "viktima",
+    "vie associative": "jetë shoqërore",
+    "vieille ville": "qytet i vjetër",
+    "ville": "qytet",
+    "violence": "dhunë",
+    "violence conjugale": "dhunë bashkëshortore",
+    "violences": "dhuna",
+    "violences sexuelles": "dhuna seksuale",
+    "vélos": "biçikleta",
+    "vêtements": "veshje",
+    "wifi": "wifi",
+    "écologie": "ekologji",
+    "écologique": "ekologjik",
+    "écoute": "dëgjim",
+    "éducation": "edukim",
+    "épicerie": "dyqan ushqimor",
+    "étrangers": "të huaj",
+    "étude": "studim",
+    "étudier": "studiuar"
+  }
+}

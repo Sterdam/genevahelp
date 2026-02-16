@@ -1,0 +1,1214 @@
+{
+  "r_0001": {
+    "description": "Phát thực phẩm miễn phí cho người trong hoàn cảnh khó khăn. Bữa ăn nóng phục vụ vào buổi trưa và buổi tối. Tiếp nhận không điều kiện.",
+    "target_audience": "Mọi người trong hoàn cảnh khó khăn",
+    "access_conditions": "Không điều kiện, mở cửa cho tất cả mọi người"
+  },
+  "r_0002": {
+    "description": "Tư vấn pháp lý miễn phí do Ordre des Avocats de Genève cung cấp. Tư vấn pháp lý ban đầu không cần hẹn trước cho mọi câu hỏi về pháp luật.",
+    "target_audience": "Mọi người cần tư vấn pháp lý",
+    "access_conditions": "Không cần hẹn trước, đến trước phục vụ trước"
+  },
+  "r_0003": {
+    "description": "Tủ lạnh tự phục vụ, mọi người có thể để hoặc lấy thực phẩm miễn phí. Chống lãng phí thực phẩm.",
+    "target_audience": "Mọi đối tượng",
+    "access_conditions": "Truy cập tự do 24/24"
+  },
+  "r_0004": {
+    "description": "Cửa hàng tạp hóa liên đới và phát quần áo. Hỗ trợ xã hội cho người gặp khó khăn tài chính. Hỗ trợ thực phẩm và quần áo.",
+    "target_audience": "Người có thu nhập thấp",
+    "access_conditions": "Cần xuất trình giấy xác nhận thu nhập thấp"
+  },
+  "r_0005": {
+    "description": "Tư vấn pháp lý và xã hội miễn phí. Hỗ trợ hành chính, tư vấn về luật người nước ngoài, luật lao động và bảo hiểm xã hội.",
+    "target_audience": "Mọi người gặp khó khăn pháp lý hoặc hành chính",
+    "access_conditions": "Cần hẹn trước, buổi tư vấn đầu tiên miễn phí"
+  },
+  "r_0006": {
+    "description": "Dịch vụ y tế, hỗ trợ xã hội và đồng hành cho người dễ bị tổn thương. Các chương trình hỗ trợ người di cư và người tị nạn.",
+    "target_audience": "Người dễ bị tổn thương, người di cư, người tị nạn",
+    "access_conditions": "Tùy chương trình, một số cần hẹn trước"
+  },
+  "r_0007": {
+    "description": "Phát gói thực phẩm hàng tuần cho các gia đình và cá nhân trong hoàn cảnh khó khăn. Thực phẩm tươi và các nhu yếu phẩm cơ bản.",
+    "target_audience": "Gia đình và cá nhân có thu nhập thấp",
+    "access_conditions": "Cần đăng ký, có giấy chứng minh tình trạng tài chính"
+  },
+  "r_0008": {
+    "description": "Cơ quan hỗ trợ xã hội cấp bang. Trợ cấp tài chính, hỗ trợ xã hội, hỗ trợ nhà ở và hội nhập nghề nghiệp.",
+    "target_audience": "Cư dân Geneva gặp khó khăn tài chính",
+    "access_conditions": "Cần hẹn trước, cư dân bang Geneva"
+  },
+  "r_0009": {
+    "description": "Sử dụng miễn phí nhà tắm, máy giặt và máy sấy. Không gian vệ sinh cho người vô gia cư hoặc trong hoàn cảnh khó khăn.",
+    "target_audience": "Người vô gia cư, người trong hoàn cảnh khó khăn",
+    "access_conditions": "Không điều kiện, truy cập tự do"
+  },
+  "r_0010": {
+    "description": "Khám bệnh miễn phí cho người không có bảo hiểm y tế. Chăm sóc sức khỏe ban đầu, hướng dẫn và hỗ trợ y tế.",
+    "target_audience": "Người không có bảo hiểm y tế, người không có giấy tờ",
+    "access_conditions": "Không có bảo hiểm y tế, không cần hẹn trước"
+  },
+  "r_0011": {
+    "description": "Lớp tiếng Pháp miễn phí dành cho phụ nữ di cư. Nhà trẻ cho trẻ em trong giờ học. Các buổi hội thảo hội nhập và giao lưu xã hội.",
+    "target_audience": "Phụ nữ di cư và con em họ",
+    "access_conditions": "Phụ nữ di cư, đăng ký đầu học kỳ"
+  },
+  "r_0012": {
+    "description": "Lớp học buổi tối miễn phí hoặc giá ưu đãi: tiếng Pháp, tin học, kế toán, ngoại ngữ. Đào tạo liên tục cho người lớn.",
+    "target_audience": "Người lớn muốn được đào tạo",
+    "access_conditions": "Đăng ký đầu học kỳ, học phí giảm tùy thu nhập"
+  },
+  "r_0013": {
+    "description": "Nhà trọ khẩn cấp qua đêm. Tiếp nhận không điều kiện cho người vô gia cư. Bữa tối và bữa sáng bao gồm.",
+    "target_audience": "Người vô gia cư",
+    "access_conditions": "Không điều kiện, tiếp nhận không điều kiện vào buổi tối"
+  },
+  "r_0014": {
+    "description": "Tiếp đón, lắng nghe và nhà trọ khẩn cấp cho phụ nữ bị bạo lực. Hỗ trợ tâm lý và đồng hành pháp lý.",
+    "target_audience": "Phụ nữ là nạn nhân bạo lực gia đình",
+    "access_conditions": "Đường dây điện thoại 24/24, nhà trọ theo đánh giá"
+  },
+  "r_0015": {
+    "description": "Cửa hàng liên đới quần áo, đồ nội thất và đồ dùng giá rất rẻ. Thu hồi và phân phối lại đồ đã qua sử dụng.",
+    "target_audience": "Mọi đối tượng, người có thu nhập thấp",
+    "access_conditions": "Mở cửa cho tất cả, giá liên đới"
+  },
+  "r_0016": {
+    "description": "Thông tin và hướng dẫn cho người nước ngoài. Lớp tiếng Pháp được trợ cấp, hỗ trợ hội nhập, phòng chống phân biệt chủng tộc và kỳ thị.",
+    "target_audience": "Người nước ngoài cư trú tại Geneva",
+    "access_conditions": "Cư dân nước ngoài tại bang Geneva"
+  },
+  "r_0017": {
+    "description": "WiFi miễn phí tại Parc des Bastions, do Thành phố Geneva cung cấp. Kết nối tự do và không giới hạn.",
+    "target_audience": "Mọi đối tượng",
+    "access_conditions": "Truy cập tự do"
+  },
+  "r_0018": {
+    "description": "Không gian cộng đồng cung cấp các hoạt động xã hội, văn hóa và giáo dục. Các khóa học, hội thảo và sự kiện miễn phí hoặc giá ưu đãi.",
+    "target_audience": "Cư dân khu vực Plainpalais",
+    "access_conditions": "Mở cửa cho tất cả cư dân trong khu vực"
+  },
+  "r_0019": {
+    "description": "Thu hồi thực phẩm không bán được từ các cửa hàng và phân phối miễn phí cho người cần. Chống lãng phí thực phẩm.",
+    "target_audience": "Người trong hoàn cảnh thiếu thực phẩm",
+    "access_conditions": "Cần đăng ký, giấy chứng minh tình trạng tài chính"
+  },
+  "r_0020": {
+    "description": "Hỗ trợ tài chính khẩn cấp, đồng hành xã hội, hướng dẫn đến các dịch vụ phù hợp. Hỗ trợ cư dân Thành phố Geneva.",
+    "target_audience": "Cư dân Thành phố Geneva gặp khó khăn",
+    "access_conditions": "Cư dân Thành phố Geneva"
+  },
+  "r_0021": {
+    "description": "Khám bệnh chăm sóc sức khỏe ban đầu cho người xin tị nạn và người di cư. Đối tác mạng lưới y tế tị nạn, với phương pháp tiếp cận đa văn hóa và tâm lý xã hội. Có phiên dịch viên.",
+    "target_audience": "Người xin tị nạn, người tị nạn, người di cư",
+    "access_conditions": "Cần hẹn trước, đặt lịch từ thứ Hai đến thứ Sáu 9h-11h30 và 13h30-17h"
+  },
+  "r_0022": {
+    "description": "Chương trình hội nhập nghề nghiệp cho người tìm việc. Hội thảo, đào tạo thực hành và hỗ trợ cá nhân hóa.",
+    "target_audience": "Người tìm việc gặp khó khăn trong hội nhập",
+    "access_conditions": "Đăng ký qua Office cantonal de l'emploi hoặc Hospice général"
+  },
+  "r_0023": {
+    "description": "Hỗ trợ giáo dục và xã hội cho trẻ em và thanh thiếu niên. Nhà nội trú, hội thảo giáo dục, hỗ trợ học tập và hoạt động giải trí.",
+    "target_audience": "Trẻ em và thanh thiếu niên từ 4 đến 18 tuổi",
+    "access_conditions": "Giới thiệu từ Service de protection des mineurs"
+  },
+  "r_0024": {
+    "description": "Đơn vị cấp cứu tâm lý xã hội trực thuộc imad. Can thiệp trong các tình huống khó khăn, bạo lực gia đình, trẻ vị thành niên trong khủng hoảng và khốn khổ tâm lý xã hội. Đội ngũ gồm điều dưỡng và nhân viên xã hội.",
+    "target_audience": "Người vô gia cư",
+    "access_conditions": "Không điều kiện, đội lưu động trên đường phố"
+  },
+  "r_0025": {
+    "description": "Hỗ trợ người nghiện. Tư vấn, chương trình thay thế, cai nghiện và tái hòa nhập. Trung tâm điều trị ngoại trú.",
+    "target_audience": "Người bị nghiện",
+    "access_conditions": "Không cần hẹn trước để được tiếp nhận, cần hẹn trước cho tư vấn"
+  },
+  "r_0026": {
+    "description": "Dịch vụ cho người cao tuổi: hỗ trợ tại nhà, hoạt động xã hội, tư vấn pháp lý và tài chính, khóa học và hội thảo.",
+    "target_audience": "Người từ 60 tuổi trở lên",
+    "access_conditions": "Người từ 60 tuổi trở lên"
+  },
+  "r_0027": {
+    "description": "WiFi miễn phí tại Bains des Pâquis. Khu vực kết nối truy cập tự do tại địa điểm.",
+    "target_audience": "Mọi đối tượng",
+    "access_conditions": "Truy cập tự do"
+  },
+  "r_0028": {
+    "description": "Dịch vụ bác sĩ tại nhà 24/24. Khám bệnh cấp cứu tại nhà hoặc tại phòng khám, 7 ngày trong tuần.",
+    "target_audience": "Mọi người cần khám bệnh cấp cứu",
+    "access_conditions": "Gọi điện thoại, chi phí y tế do bệnh nhân chịu"
+  },
+  "r_0029": {
+    "description": "Nơi tiếp đón ban ngày cho người trong hoàn cảnh khó khăn. Không gian ấm cúng, cà phê, nhà tắm, giặt giũ, truy cập internet và hoạt động.",
+    "target_audience": "Người trong hoàn cảnh khó khăn",
+    "access_conditions": "Không điều kiện, tiếp nhận tự do"
+  },
+  "r_0030": {
+    "description": "Tư vấn tâm lý miễn phí hoặc giá ưu đãi cho người di cư. Hỗ trợ tâm lý bằng nhiều ngôn ngữ.",
+    "target_audience": "Người di cư gặp khó khăn tâm lý",
+    "access_conditions": "Cần hẹn trước, phí tùy thu nhập"
+  },
+  "r_0031": {
+    "description": "Thư viện thành phố truy cập miễn phí. Mượn sách, DVD, CD. Không gian làm việc, WiFi miễn phí, báo và tạp chí. Hội thảo văn hóa.",
+    "target_audience": "Mọi đối tượng",
+    "access_conditions": "Truy cập tự do, thẻ mượn miễn phí"
+  },
+  "r_0032": {
+    "description": "Dịch vụ công hỗ trợ tìm việc. Đăng ký thất nghiệp, cơ hội việc làm, tư vấn hướng nghiệp, biện pháp hội nhập.",
+    "target_audience": "Người tìm việc cư trú tại Geneva",
+    "access_conditions": "Cư dân bang Geneva, bắt buộc đăng ký"
+  },
+  "r_0033": {
+    "description": "Trực pháp lý và xã hội cho người di cư. Hỗ trợ hành chính, luật người nước ngoài, đoàn tụ gia đình.",
+    "target_audience": "Người di cư, người không có giấy tờ",
+    "access_conditions": "Cần hẹn trước hoặc trực không cần hẹn"
+  },
+  "r_0034": {
+    "description": "Nơi tiếp nhận ngưỡng thấp cho người sử dụng ma túy. Dụng cụ vô trùng, tư vấn, không gian nghỉ ngơi và hỗ trợ.",
+    "target_audience": "Người sử dụng ma túy",
+    "access_conditions": "Không điều kiện, tiếp nhận ẩn danh"
+  },
+  "r_0035": {
+    "description": "Trung tâm cộng đồng khu Pâquis. Hoạt động văn hóa, lớp ngoại ngữ, hội thảo sáng tạo, không gian trẻ em và hỗ trợ bài tập.",
+    "target_audience": "Cư dân khu vực Pâquis",
+    "access_conditions": "Mở cửa cho tất cả"
+  },
+  "r_0036": {
+    "description": "Phát quần áo miễn phí cho người trong hoàn cảnh khó khăn. Quần áo cho nam, nữ và trẻ em, theo mùa.",
+    "target_audience": "Người trong hoàn cảnh khó khăn",
+    "access_conditions": "Cần xuất trình giấy xác nhận từ dịch vụ xã hội"
+  },
+  "r_0037": {
+    "description": "Lớp tiếng Pháp như ngoại ngữ cho người lớn di cư. Từ trình độ sơ cấp đến nâng cao. Lớp ban ngày và buổi tối.",
+    "target_audience": "Người lớn di cư muốn học tiếng Pháp",
+    "access_conditions": "Đăng ký và kiểm tra trình độ, có thể giảm học phí"
+  },
+  "r_0038": {
+    "description": "Phát bữa ăn nóng (súp và bánh mì) cho người trong hoàn cảnh khó khăn. Dịch vụ miễn phí và không điều kiện.",
+    "target_audience": "Mọi đối tượng",
+    "access_conditions": "Không điều kiện, đến trước phục vụ trước"
+  },
+  "r_0039": {
+    "description": "Trung tâm thông tin và tư vấn cho phụ nữ. Tư vấn pháp lý, xã hội và nghề nghiệp. Hỗ trợ trong trường hợp bạo lực.",
+    "target_audience": "Phụ nữ mọi lứa tuổi và hoàn cảnh",
+    "access_conditions": "Mở cửa cho tất cả phụ nữ, một số buổi tư vấn cần hẹn trước"
+  },
+  "r_0040": {
+    "description": "Chi nhánh Hospice général tại Plainpalais. Hỗ trợ tài chính, đồng hành xã hội, hỗ trợ nhà ở và hội nhập nghề nghiệp.",
+    "target_audience": "Cư dân khu vực Plainpalais gặp khó khăn",
+    "access_conditions": "Cần hẹn trước, cư dân bang Geneva"
+  },
+  "r_0041": {
+    "description": "Hiệp hội nữ hộ sinh độc lập thúc đẩy sức khỏe chu sinh. Trực điện thoại 7 ngày/tuần, không gian tiếp đón miễn phí với nữ hộ sinh, tư vấn thai kỳ, cho con bú, theo dõi sau sinh.",
+    "target_audience": "Phụ nữ mang thai và cha mẹ trẻ nhỏ",
+    "access_conditions": "Không cần hẹn trước cho trực, miễn phí. Trực điện thoại Thứ 2-Thứ 6 8h-20h, Thứ 7-CN 9h-12h và 17h-20h"
+  },
+  "r_0042": {
+    "description": "Nơi tiếp đón ban ngày cho người trong hoàn cảnh khó khăn. Bữa sáng, cà phê, không gian nghỉ ngơi, hoạt động và hướng dẫn xã hội.",
+    "target_audience": "Người vô gia cư",
+    "access_conditions": "Không điều kiện, tiếp nhận không điều kiện"
+  },
+  "r_0043": {
+    "description": "Bảo vệ pháp lý cho người lớn dễ bị tổn thương và trẻ vị thành niên. Giám hộ, bảo trợ và các biện pháp bảo vệ.",
+    "target_audience": "Người lớn dễ bị tổn thương và trẻ vị thành niên cần được bảo vệ pháp lý",
+    "access_conditions": "Theo báo cáo hoặc yêu cầu trực tiếp"
+  },
+  "r_0044": {
+    "description": "Điểm truy cập WiFi miễn phí tại Place du Molard, ngay trung tâm phố cổ Geneva. Mạng Thành phố Geneva.",
+    "target_audience": "Mọi đối tượng",
+    "access_conditions": "Truy cập tự do"
+  },
+  "r_0045": {
+    "description": "Nhà trọ cho phụ nữ có con gặp khó khăn, chủ yếu là nạn nhân bạo lực gia đình. Hỗ trợ tâm lý xã hội, hỗ trợ hội nhập xã hội và nghề nghiệp, củng cố mối liên kết mẹ/con. Có nhà trẻ.",
+    "target_audience": "Phụ nữ đơn thân hoặc có con trong hoàn cảnh khó khăn",
+    "access_conditions": "Giới thiệu từ dịch vụ xã hội, đánh giá tình trạng"
+  },
+  "r_0046": {
+    "description": "Không gian tiếp đón miễn phí, ẩn danh và không cần đăng ký cho trẻ em đến 5 tuổi có người lớn đi cùng. Nơi lắng nghe và hỗ trợ cho trẻ em và phụ huynh.",
+    "target_audience": "Trẻ em từ 0 đến 5 tuổi và phụ huynh hoặc người đi cùng",
+    "access_conditions": "Miễn phí, ẩn danh, không cần đăng ký, trẻ em có người lớn đi cùng"
+  },
+  "r_0047": {
+    "description": "Tư vấn pháp lý cho người thuê nhà. Hỗ trợ khi tranh chấp với chủ nhà, tăng tiền thuê, hủy hợp đồng thuê.",
+    "target_audience": "Người thuê nhà tại bang Geneva",
+    "access_conditions": "Thành viên hiệp hội (phí thành viên nhỏ)"
+  },
+  "r_0048": {
+    "description": "Thu gom và phân phối lại thực phẩm cho các tổ chức từ thiện Geneva. Chống thiếu thực phẩm và lãng phí.",
+    "target_audience": "Các tổ chức từ thiện và người thiếu thực phẩm",
+    "access_conditions": "Tiếp cận qua các tổ chức đối tác"
+  },
+  "r_0049": {
+    "description": "Phòng khám nha khoa đại học cung cấp dịch vụ chăm sóc răng. Tiếp nhận không cần hẹn từ thứ Hai đến thứ Sáu 8h-15h30. Cấp cứu nha khoa và chăm sóc thường quy.",
+    "target_audience": "Mọi đối tượng, người không có bảo hiểm nha khoa hoặc thu nhập thấp",
+    "access_conditions": "Tiếp nhận không cần hẹn từ thứ Hai đến thứ Sáu 8h-15h30"
+  },
+  "r_0050": {
+    "description": "Nơi tiếp đón, hỗ trợ và tái hòa nhập nghề nghiệp xã hội cho người trong hoàn cảnh khó khăn. Bữa sáng miễn phí (150-200/tuần), hoạt động xã hội và thực tập tái hòa nhập.",
+    "target_audience": "Người trong hoàn cảnh khó khăn",
+    "access_conditions": "Không điều kiện, tiếp nhận tự do"
+  },
+  "r_0051": {
+    "description": "Nơi tiếp đón, giải trí, gặp gỡ và thư giãn cho mọi lứa tuổi, mọi nền văn hóa và mọi tầng lớp xã hội. Hoạt động văn hóa và xã hội.",
+    "target_audience": "Cư dân khu vực Eaux-Vives và mọi đối tượng",
+    "access_conditions": "Mở cửa cho tất cả, tiếp nhận tự do"
+  },
+  "r_0052": {
+    "description": "Không gian tiếp đón và hướng dẫn cho phụ nữ và gia đình. Tư vấn pháp lý (luật gia đình, ly hôn, bạo lực gia đình, giấy phép cư trú), hướng nghiệp và hỗ trợ tâm lý xã hội.",
+    "target_audience": "Phụ nữ và gia đình",
+    "access_conditions": "Trực pháp lý qua điện thoại: Thứ 3 11h-13h, Thứ 4 14h-16h, Thứ 5 12h-14h tại 022 740 31 11. Tư vấn cần hẹn trước."
+  },
+  "r_0053": {
+    "description": "Hiệp hội phòng chống tự tử ở thanh thiếu niên tại Suisse romande. Nâng cao nhận thức, hội thảo, mô-đun phòng chống và hướng dẫn đến cơ sở hỗ trợ. Trường hợp khẩn cấp, gọi 143.",
+    "target_audience": "Thanh thiếu niên từ 15 đến 29 tuổi, phòng chống tự tử",
+    "access_conditions": "Văn phòng mở trong tuần. Trường hợp khẩn cấp, gọi 143 (24/24)"
+  },
+  "r_0054": {
+    "description": "Khoa sức khỏe tâm thần và tâm thần học của HUG. Tư vấn tâm thần và tâm lý, điều trị rối loạn lo âu, trầm cảm, chấn thương tâm lý.",
+    "target_audience": "Người bị rối loạn tâm thần",
+    "access_conditions": "Cần hẹn trước, có giấy giới thiệu của bác sĩ"
+  },
+  "r_0055": {
+    "description": "Trợ cấp tài chính bổ sung cho người thụ hưởng AVS/AI. Hỗ trợ thanh toán phí bảo hiểm y tế và tiền thuê nhà.",
+    "target_audience": "Người thụ hưởng AVS/AI có thu nhập thấp",
+    "access_conditions": "Người thụ hưởng AVS/AI, cư dân bang Geneva"
+  },
+  "r_0056": {
+    "description": "Hỗ trợ hiện vật và thanh toán hóa đơn khẩn cấp cho người có thu nhập ở mức tối thiểu hoặc ngay trên mức tối thiểu.",
+    "target_audience": "Người gặp khó khăn tài chính tạm thời",
+    "access_conditions": "Gửi yêu cầu qua email geneve@secours-d-hiver.ch. Điện thoại chỉ vào thứ Sáu."
+  },
+  "r_0057": {
+    "description": "Hiệp hội Geneva hướng đến trẻ em và thanh thiếu niên. Trung tâm tâm lý giáo dục (13-18 tuổi), Café Ados, hỗ trợ trẻ vị thành niên không có người đi cùng, hoạt động phòng chống.",
+    "target_audience": "Trẻ em và thanh thiếu niên từ 12 đến 18 tuổi",
+    "access_conditions": "Cần đăng ký hoặc giới thiệu"
+  },
+  "r_0058": {
+    "description": "Chương trình hội nhập nghề nghiệp cho người xa rời thị trường lao động. Đánh giá năng lực, coaching việc làm, thực tập.",
+    "target_audience": "Người xa rời thị trường lao động",
+    "access_conditions": "Đăng ký qua Hospice général hoặc OCE"
+  },
+  "r_0059": {
+    "description": "Hỗ trợ người tị nạn và người di cư. Lớp tiếng Pháp, hỗ trợ hội nhập, tư vấn pháp lý về luật tị nạn và đồng hành xã hội.",
+    "target_audience": "Người tị nạn và người di cư",
+    "access_conditions": "Người tị nạn và người di cư, cần đăng ký"
+  },
+  "r_0060": {
+    "description": "Trung tâm cộng đồng khu Jonction. Hoạt động xã hội, dân sự và văn hóa cho mọi lứa tuổi. Tiếp nhận tự do, hội thảo mở cho cư dân từ 9 đến 99 tuổi.",
+    "target_audience": "Cư dân khu vực Jonction",
+    "access_conditions": "Mở cửa cho tất cả"
+  },
+  "r_0061": {
+    "description": "Khu vệ sinh (WC/nhà tắm) tại tầng 1 cánh Đông ga Cornavin. Quản lý bởi CFF. Truy cập có phí (2 CHF), miễn phí cho người có thẻ SwissPass. Có WC rẻ hơn (1 CHF) tại tầng hầm quảng trường ga.",
+    "target_audience": "Mọi đối tượng",
+    "access_conditions": "Truy cập có phí (2 CHF), miễn phí với thẻ SwissPass"
+  },
+  "r_0062": {
+    "description": "Nhà vệ sinh công cộng miễn phí tại Parc des Bastions, gần Mur des Réformateurs. Tiếp cận được cho người khuyết tật vận động.",
+    "target_audience": "Mọi đối tượng",
+    "access_conditions": "Truy cập tự do và miễn phí"
+  },
+  "r_0063": {
+    "description": "Nhà vệ sinh công cộng miễn phí tại Plaine de Plainpalais, gần chợ đồ cũ. Được dịch vụ thành phố bảo trì thường xuyên.",
+    "target_audience": "Mọi đối tượng",
+    "access_conditions": "Truy cập tự do và miễn phí"
+  },
+  "r_0064": {
+    "description": "Vòi nước uống công cộng miễn phí tại Jardin Anglais, gần Horloge Fleurie. Nước mát quanh năm.",
+    "target_audience": "Mọi đối tượng",
+    "access_conditions": "Truy cập tự do 24/24"
+  },
+  "r_0065": {
+    "description": "Vòi nước uống công cộng tại quảng trường lâu đời nhất Geneva. Nước miễn phí và uống được liên tục.",
+    "target_audience": "Mọi đối tượng",
+    "access_conditions": "Truy cập tự do 24/24"
+  },
+  "r_0066": {
+    "description": "Vòi nước uống công cộng tại Parc des Eaux-Vives, bên bờ hồ. Lý tưởng để giải khát khi dạo chơi.",
+    "target_audience": "Mọi đối tượng",
+    "access_conditions": "Truy cập tự do 24/24"
+  },
+  "r_0067": {
+    "description": "Thư viện thành phố miễn phí tại trung tâm khu Servette. Khu vực người lớn và thanh thiếu niên riêng biệt, mượn sách và phương tiện truyền thông, WiFi miễn phí và hoạt động văn hóa.",
+    "target_audience": "Mọi đối tượng",
+    "access_conditions": "Truy cập tự do, thẻ mượn miễn phí"
+  },
+  "r_0068": {
+    "description": "Thư viện thành phố miễn phí tại khu Eaux-Vives. Khu vực người lớn và thanh thiếu niên, mượn sách và phương tiện truyền thông, WiFi miễn phí.",
+    "target_audience": "Mọi đối tượng",
+    "access_conditions": "Truy cập tự do, thẻ mượn miễn phí"
+  },
+  "r_0069": {
+    "description": "Thư viện thành phố miễn phí tại khu Jonction. Nhiều lựa chọn sách, khu vực thanh thiếu niên, hoạt động giải trí và WiFi miễn phí.",
+    "target_audience": "Mọi đối tượng",
+    "access_conditions": "Truy cập tự do, thẻ mượn miễn phí"
+  },
+  "r_0070": {
+    "description": "Thư viện thành phố miễn phí tại trung tâm khu đa văn hóa Pâquis. Mượn sách bằng nhiều ngôn ngữ, WiFi miễn phí và hoạt động giải trí.",
+    "target_audience": "Mọi đối tượng",
+    "access_conditions": "Truy cập tự do, thẻ mượn miễn phí"
+  },
+  "r_0071": {
+    "description": "Mượn miễn phí trò chơi board game, trò chơi giáo dục và đồ chơi cho trẻ em và gia đình. Không gian chơi tại chỗ. Mở cửa cho tất cả trẻ em có người đi cùng.",
+    "target_audience": "Trẻ em, gia đình, mọi đối tượng",
+    "access_conditions": "Đăng ký miễn phí, mượn miễn phí"
+  },
+  "r_0072": {
+    "description": "Thư viện đồ chơi khu phố với dịch vụ mượn miễn phí board game, đồ chơi và trò chơi giáo dục. Không gian chơi thân thiện và hội thảo vui chơi.",
+    "target_audience": "Trẻ em, gia đình, mọi đối tượng",
+    "access_conditions": "Đăng ký miễn phí, mượn miễn phí"
+  },
+  "r_0073": {
+    "description": "Vườn rau đô thị cộng đồng tại khu Grottes. Ô đất chia sẻ, ủ phân tập thể và hội thảo làm vườn miễn phí.",
+    "target_audience": "Cư dân khu phố, người yêu thích làm vườn",
+    "access_conditions": "Truy cập tự do, tham gia hội thảo cần đăng ký"
+  },
+  "r_0074": {
+    "description": "Vườn rau đô thị có sự tham gia tại Parc Beaulieu, do hiệp hội Les Artichauts quản lý. Hội thảo làm vườn miễn phí mỗi chiều thứ Bảy, mở cho mọi trình độ. Sản xuất cây giống hữu cơ.",
+    "target_audience": "Cư dân khu phố, mọi đối tượng",
+    "access_conditions": "Truy cập tự do, hội thảo làm vườn miễn phí thứ Bảy 14h-17h (giữa tháng 2 đến cuối tháng 10)"
+  },
+  "r_0075": {
+    "description": "Trực công đoàn cho người lao động. Tư vấn luật lao động, bảo vệ quyền lợi, hỗ trợ khi sa thải hoặc tranh chấp lao động.",
+    "target_audience": "Người lao động, mọi ngành nghề",
+    "access_conditions": "Mở cửa cho mọi người lao động, thành viên để sử dụng dịch vụ pháp lý"
+  },
+  "r_0076": {
+    "description": "Công đoàn liên ngành cho người lao động. Trực pháp lý, bảo vệ quyền lao động, đàm phán tập thể.",
+    "target_audience": "Người lao động mọi ngành",
+    "access_conditions": "Mở cửa cho mọi người lao động, thành viên để sử dụng dịch vụ pháp lý"
+  },
+  "r_0077": {
+    "description": "Trung tâm tư vấn miễn phí và bảo mật cho nạn nhân tội phạm hình sự. Hỗ trợ tâm lý, pháp lý và xã hội. Hỗ trợ tài chính khẩn cấp.",
+    "target_audience": "Nạn nhân tội phạm hình sự và người thân",
+    "access_conditions": "Miễn phí và bảo mật, tư vấn cần hẹn trước"
+  },
+  "r_0078": {
+    "description": "Dịch vụ lắng nghe qua điện thoại 24/24 cho mọi người gặp khó khăn, lo lắng hoặc cô đơn. Lắng nghe ẩn danh, bảo mật và miễn phí.",
+    "target_audience": "Mọi người trong hoàn cảnh khốn khổ, cô đơn hoặc lo lắng",
+    "access_conditions": "Gọi 143, miễn phí, ẩn danh và bảo mật 24/24"
+  },
+  "r_0079": {
+    "description": "Đường dây hỗ trợ cho trẻ em và thanh thiếu niên, hoạt động 24/24. Lắng nghe, tư vấn và hướng dẫn về các vấn đề cá nhân, gia đình hoặc học tập.",
+    "target_audience": "Trẻ em và thanh thiếu niên đến 25 tuổi",
+    "access_conditions": "Gọi 147, miễn phí, ẩn danh và bảo mật 24/24"
+  },
+  "r_0080": {
+    "description": "Tư vấn miễn phí và bảo mật về sức khỏe sinh sản và tình dục. Tránh thai, thai kỳ, STI, tư vấn hôn nhân và giáo dục giới tính. Tránh thai khẩn cấp không cần hẹn trước.",
+    "target_audience": "Mọi người, đặc biệt thanh thiếu niên và phụ nữ",
+    "access_conditions": "Miễn phí, bảo mật, cần hẹn trước (không cần hẹn cho tránh thai khẩn cấp)"
+  },
+  "r_0081": {
+    "description": "Xét nghiệm HIV và STI ẩn danh và bảo mật tại HUG. Xét nghiệm nhanh HIV (55 CHF), xét nghiệm đầy đủ HIV/STI (155 CHF). Tư vấn theo dõi và điều trị cho người nhiễm HIV.",
+    "target_audience": "Mọi người muốn xét nghiệm HIV/STI",
+    "access_conditions": "Xét nghiệm ẩn danh cần hẹn trước (qua www.testvih.ch hoặc điện thoại), xét nghiệm nhanh HIV từ 55 CHF"
+  },
+  "r_0082": {
+    "description": "Nhà thuốc trong trung tâm y tế Cité Générations (Phòng khám và Trực cấp cứu Onex). Tư vấn dược, theo dõi điều trị và gần với khoa cấp cứu người lớn và nhi.",
+    "target_audience": "Mọi đối tượng, bệnh nhân trung tâm y tế Cité Générations",
+    "access_conditions": "Mở cửa cho tất cả, không điều kiện"
+  },
+  "r_0083": {
+    "description": "Dịch vụ tập trung phân bổ chỗ nhà trọ khẩn cấp cho người vô gia cư. Gọi tổng đài để được xếp chỗ trong mạng lưới (hầm trú ẩn Châtelaine, Richemont, nhà trọ hội). Tổng sức chứa 184 chỗ.",
+    "target_audience": "Người vô gia cư, trong tình trạng khẩn cấp",
+    "access_conditions": "Gọi số miễn phí 0800 22 22 10 để có chỗ, tiếp nhận không điều kiện"
+  },
+  "r_0084": {
+    "description": "Nơi tiếp đón ban ngày không điều kiện tại Temple de la Servette cho người trong hoàn cảnh khó khăn. Bữa ăn liên đới, đồ uống nóng, người viết hộ (CV, thư), hội thảo tiếng Pháp, tiếng Anh và tin học, tư vấn pháp lý miễn phí.",
+    "target_audience": "Người trong hoàn cảnh khó khăn, người di cư, người vô gia cư",
+    "access_conditions": "Không điều kiện, tiếp nhận không điều kiện"
+  },
+  "r_0085": {
+    "description": "Bể tắm công cộng biểu tượng bên bờ hồ Léman. Bãi cát, hồ bơi, ván nhảy (3-10m), sauna và hammam, quán bình dân. Giá vào rất phải chăng (2 CHF mùa hè, 1 CHF mùa đông).",
+    "target_audience": "Mọi đối tượng",
+    "access_conditions": "Miễn phí vào khu vực công cộng, vé 2 CHF mùa hè và 1 CHF mùa đông"
+  },
+  "r_0086": {
+    "description": "Bãi biển công cộng miễn phí bên hồ, lý tưởng cho gia đình có trẻ nhỏ. Khu vui chơi, hồ lội, không gian xanh và sân thể thao.",
+    "target_audience": "Gia đình, trẻ em, mọi đối tượng",
+    "access_conditions": "Truy cập tự do và miễn phí"
+  },
+  "r_0087": {
+    "description": "Sân thể thao công cộng miễn phí tại Parc des Bastions. Bàn cờ vua khổng lồ, bàn bóng bàn, pétanque và khu tập thể dục ngoài trời.",
+    "target_audience": "Mọi đối tượng",
+    "access_conditions": "Truy cập tự do và miễn phí"
+  },
+  "r_0088": {
+    "description": "Dịch vụ hòa giải miễn phí để giải quyết tranh chấp gia đình, xã hội, hàng xóm hoặc công việc. Hòa giải hình sự, dân sự và y tế.",
+    "target_audience": "Cư dân Thành phố Geneva",
+    "access_conditions": "Miễn phí, cần hẹn trước"
+  },
+  "r_0089": {
+    "description": "Không gian tiếp đón, thông tin và hoạt động cho người cao tuổi. Điểm thông tin dịch vụ miễn phí, hỗ trợ hành chính, khóa học, hội thảo, hội nghị, tư vấn sức khỏe và gặp gỡ liên thế hệ.",
+    "target_audience": "Người cao tuổi, người về hưu và người thân",
+    "access_conditions": "Mở cửa cho tất cả người cao tuổi và người thân, truy cập tự do và miễn phí"
+  },
+  "r_0090": {
+    "description": "Không gian làm việc chung miễn phí trong Bibliothèque de la Cité. WiFi, ổ cắm điện, bàn làm việc và không gian yên tĩnh để làm việc hoặc học tập.",
+    "target_audience": "Sinh viên, người làm việc tự do, người tìm việc, mọi đối tượng",
+    "access_conditions": "Truy cập tự do và miễn phí, có WiFi"
+  },
+  "r_0091": {
+    "description": "Hội thảo sửa chữa miễn phí và lưu động do FRC Genève tổ chức. Tình nguyện viên chuyên gia sửa chữa thiết bị điện tử, quần áo và xe đạp. Sự kiện định kỳ (xem trang web để biết ngày và địa điểm).",
+    "target_audience": "Mọi đối tượng",
+    "access_conditions": "Truy cập tự do và miễn phí, một thứ Bảy mỗi tháng (xem trang web)"
+  },
+  "r_0092": {
+    "description": "Hội thảo sửa chữa miễn phí tại Carouge. Tình nguyện viên giúp sửa chữa đồ vật hỏng: thiết bị nhỏ, may vá, tin học, xe đạp.",
+    "target_audience": "Mọi đối tượng",
+    "access_conditions": "Truy cập tự do và miễn phí, một thứ Bảy mỗi tháng (xem trang web)"
+  },
+  "r_0093": {
+    "description": "Trung tâm tư vấn và nghiên cứu tâm lý dân tộc cho người di cư. Hỗ trợ tâm lý trị liệu phù hợp với văn hóa gốc, hỗ trợ chấn thương liên quan đến lưu vong và hội nhập.",
+    "target_audience": "Người di cư, cặp đôi đa văn hóa, gia đình trong hoàn cảnh đa văn hóa",
+    "access_conditions": "Cần hẹn trước, tư vấn cho người di cư và đa văn hóa"
+  },
+  "r_0094": {
+    "description": "Nhà vệ sinh công cộng miễn phí tại Place de Neuve, gần Grand Théâtre và Musée Rath. Tiếp cận được cho người khuyết tật vận động.",
+    "target_audience": "Mọi đối tượng",
+    "access_conditions": "Truy cập tự do và miễn phí"
+  },
+  "r_0095": {
+    "description": "Vòi nước uống miễn phí tại Parc de la Grange, công viên ven hồ lớn nhất Geneva. Nước mát quanh năm.",
+    "target_audience": "Mọi đối tượng",
+    "access_conditions": "Truy cập tự do 24/24"
+  },
+  "r_0096": {
+    "description": "Nhà vệ sinh công cộng miễn phí trên Quai du Mont-Blanc, gần Jet d'eau. Mở cửa quanh năm.",
+    "target_audience": "Mọi đối tượng",
+    "access_conditions": "Truy cập tự do và miễn phí"
+  },
+  "r_0097": {
+    "description": "Vườn rau đô thị chia sẻ tại ngã ba sông Arve và Rhône. Hội thảo nông nghiệp bền vững, ủ phân tập thể và làm vườn có sự tham gia.",
+    "target_audience": "Cư dân khu phố, mọi đối tượng",
+    "access_conditions": "Truy cập tự do, tham gia theo yêu cầu"
+  },
+  "r_0098": {
+    "description": "Vòi nước uống công cộng trước ga Cornavin. Điểm cung cấp nước mát miễn phí tại trung tâm Geneva.",
+    "target_audience": "Mọi đối tượng",
+    "access_conditions": "Truy cập tự do 24/24"
+  },
+  "r_0099": {
+    "description": "Thư viện đồ chơi khu phố cho mượn miễn phí board game, puzzle và đồ chơi cho mọi lứa tuổi. Buổi chiều chơi trò chơi mở cửa cho gia đình.",
+    "target_audience": "Trẻ em, gia đình, mọi đối tượng",
+    "access_conditions": "Chơi tại chỗ miễn phí, thẻ thành viên năm 30 CHF để mượn"
+  },
+  "r_0100": {
+    "description": "WiFi miễn phí tại Parc de la Grange do Thành phố Geneva cung cấp. Kết nối tự do tại một trong những công viên đẹp nhất Geneva.",
+    "target_audience": "Mọi đối tượng",
+    "access_conditions": "Truy cập tự do"
+  },
+  "r_0101": {
+    "description": "Hiệp hội hỗ trợ cộng đồng LGBTIQ+. Checkpoint Genève (trung tâm y tế cộng đồng với xét nghiệm HIV/STI và hỗ trợ tâm lý), Le Refuge (nhà trọ cho thanh niên LGBTIQ+), nhóm trao đổi và hoạt động xã hội.",
+    "target_audience": "Cộng đồng LGBT+ và mọi người liên quan",
+    "access_conditions": "Mở cửa cho tất cả, xét nghiệm miễn phí và ẩn danh"
+  },
+  "r_0102": {
+    "description": "Trung tâm cộng đồng Saint-Jean cung cấp hoạt động cho mọi lứa tuổi. Hội thảo, lớp ngoại ngữ, hỗ trợ học tập và sự kiện văn hóa.",
+    "target_audience": "Cư dân khu Saint-Jean, trẻ em, thanh thiếu niên và người lớn",
+    "access_conditions": "Mở cửa cho tất cả cư dân khu phố"
+  },
+  "r_0103": {
+    "description": "Hỗ trợ miễn phí và thông tin cho người mắc bệnh ung thư. Tư vấn tâm lý ung thư, nhóm trao đổi và đồng hành xã hội.",
+    "target_audience": "Người mắc bệnh ung thư và người thân",
+    "access_conditions": "Miễn phí, cần hẹn trước"
+  },
+  "r_0104": {
+    "description": "Tư vấn tâm thần khẩn cấp và theo dõi ngoại trú miễn phí cho người lớn trong tình trạng khốn khổ tâm lý. Dịch vụ trực thuộc HUG.",
+    "target_audience": "Người lớn trong tình trạng khủng hoảng tâm lý",
+    "access_conditions": "Miễn phí, có hoặc không cần hẹn trước tùy mức độ khẩn cấp"
+  },
+  "r_0105": {
+    "description": "Hỗ trợ miễn phí cho người bị tiểu đường và người thân. Tư vấn dinh dưỡng, nhóm trao đổi và thông tin về bệnh.",
+    "target_audience": "Người bị tiểu đường và người thân",
+    "access_conditions": "Miễn phí, cần hẹn trước hoặc trực điện thoại"
+  },
+  "r_0106": {
+    "description": "Chăm sóc y tế ban đầu cho người không có bảo hiểm y tế hoặc trong hoàn cảnh khó khăn. Khám tổng quát và hướng dẫn.",
+    "target_audience": "Người không có bảo hiểm y tế hoặc trong hoàn cảnh khó khăn",
+    "access_conditions": "Dành cho người không có bảo hiểm y tế, cần hẹn trước"
+  },
+  "r_0107": {
+    "description": "Cơ quan chăm sóc tại nhà Geneva. Điều dưỡng, hỗ trợ tại nhà và đồng hành cho người cao tuổi, người bệnh hoặc đang hồi phục.",
+    "target_audience": "Người cao tuổi, người bệnh hoặc đang hồi phục cần chăm sóc tại nhà",
+    "access_conditions": "Theo đơn bác sĩ hoặc yêu cầu trực tiếp"
+  },
+  "r_0108": {
+    "description": "Hỗ trợ miễn phí cho gia đình và người thân của người mắc bệnh Alzheimer. Nhóm trao đổi, tư vấn và hướng dẫn đến các dịch vụ chuyên khoa.",
+    "target_audience": "Gia đình và người thân của người mắc Alzheimer hoặc sa sút trí tuệ",
+    "access_conditions": "Miễn phí, cần hẹn trước"
+  },
+  "r_0109": {
+    "description": "Cơ quan bảo vệ trẻ em cấp bang. Đánh giá tình huống nguy hiểm, biện pháp bảo vệ và đồng hành gia đình gặp khó khăn.",
+    "target_audience": "Trẻ em và gia đình trong tình trạng nguy hiểm hoặc khó khăn",
+    "access_conditions": "Cơ quan cấp bang, tiếp cận theo báo cáo hoặc yêu cầu"
+  },
+  "r_0110": {
+    "description": "Hỗ trợ giáo dục và học tập cho thanh thiếu niên gặp khó khăn. Hội thảo, nhà nội trú giáo dục và chương trình tái hòa nhập.",
+    "target_audience": "Thanh thiếu niên gặp khó khăn trong học tập, xã hội hoặc gia đình",
+    "access_conditions": "Giới thiệu từ SPMi hoặc yêu cầu trực tiếp"
+  },
+  "r_0111": {
+    "description": "Không gian nghệ thuật miễn phí cho trẻ em từ 0 đến 6 tuổi và người đi cùng. Hội thảo vẽ, nặn, âm nhạc trong khuôn viên Parc de la Perle du Lac.",
+    "target_audience": "Trẻ em từ 0 đến 6 tuổi có người lớn đi cùng",
+    "access_conditions": "Miễn phí, không cần đăng ký, trẻ em có người đi cùng"
+  },
+  "r_0112": {
+    "description": "Nơi tiếp đón cha mẹ - trẻ em từ 0 đến 4 tuổi. Không gian chơi tự do, trao đổi giữa phụ huynh và hỗ trợ nuôi dạy con trong không gian ấm cúng.",
+    "target_audience": "Phụ huynh và trẻ em từ 0 đến 4 tuổi",
+    "access_conditions": "Miễn phí, không cần đăng ký, trẻ em có phụ huynh đi cùng"
+  },
+  "r_0113": {
+    "description": "Cho mượn miễn phí trò chơi và đồ chơi cho trẻ em và gia đình. Bộ sưu tập lớn board game, trò chơi giáo dục và đồ chơi cho mọi lứa tuổi.",
+    "target_audience": "Trẻ em và gia đình",
+    "access_conditions": "Đăng ký miễn phí, mượn trò chơi miễn phí cho cư dân Carouge"
+  },
+  "r_0114": {
+    "description": "Dịch vụ cho mượn xe đạp tự phục vụ miễn phí tại Geneva. Xe đạp thường và xe đạp điện cho các chuyến đi đô thị hàng ngày.",
+    "target_audience": "Mọi đối tượng",
+    "access_conditions": "Miễn phí, cần giấy tờ tùy thân và tiền đặt cọc"
+  },
+  "r_0115": {
+    "description": "Giá ưu đãi vé giao thông công cộng Geneva cho người có thu nhập thấp. Giảm đến 50% cho vé tháng và vé năm.",
+    "target_audience": "Người có thu nhập thấp cư trú tại bang Geneva",
+    "access_conditions": "Theo điều kiện thu nhập, cần giấy chứng minh"
+  },
+  "r_0116": {
+    "description": "Chi trả phí giao thông công cộng cho người hưởng trợ cấp xã hội. Vé TPG bao gồm trong trợ cấp tài chính.",
+    "target_audience": "Người hưởng trợ cấp xã hội",
+    "access_conditions": "Dành riêng cho người hưởng trợ cấp xã hội của Hospice général"
+  },
+  "r_0117": {
+    "description": "WiFi miễn phí SBB-FREE tại ga Cornavin. Kết nối không giới hạn trong toàn bộ ga và trên sân ga.",
+    "target_audience": "Mọi đối tượng",
+    "access_conditions": "Miễn phí, mạng SBB-FREE, không cần mật khẩu"
+  },
+  "r_0118": {
+    "description": "WiFi miễn phí của Thành phố Geneva tại Jardin Anglais. Điểm truy cập ngoài trời với tầm nhìn ra Jet d'eau và hồ.",
+    "target_audience": "Mọi đối tượng",
+    "access_conditions": "Miễn phí, mạng Ville de Genève WiFi"
+  },
+  "r_0119": {
+    "description": "WiFi miễn phí của Thành phố Geneva tại Plaine de Plainpalais. Vùng phủ sóng rộng trên quảng trường lớn này.",
+    "target_audience": "Mọi đối tượng",
+    "access_conditions": "Miễn phí, mạng Ville de Genève WiFi"
+  },
+  "r_0120": {
+    "description": "Tòa nhà đại học cung cấp WiFi miễn phí và không gian học tập mở cho công chúng. Thư viện, phòng làm việc và căng tin có thể tiếp cận.",
+    "target_audience": "Sinh viên và mọi người cần không gian làm việc",
+    "access_conditions": "Miễn phí, truy cập tự do vào các khu vực công cộng của tòa nhà"
+  },
+  "r_0121": {
+    "description": "Tái hòa nhập nghề nghiệp cho người khuyết tật hoặc có vấn đề sức khỏe. Phát triển kỹ năng cá nhân, nghề nghiệp và xã hội, xác định dự án nghề nghiệp, thực tập doanh nghiệp và giới thiệu việc làm.",
+    "target_audience": "Người khuyết tật hoặc có vấn đề sức khỏe đang tìm việc",
+    "access_conditions": "Miễn phí, giới thiệu từ AI, bảo hiểm thất nghiệp hoặc trợ cấp xã hội"
+  },
+  "r_0122": {
+    "description": "Không gian đào tạo cho phụ nữ ít hoặc không có trình độ gặp khó khăn tìm việc. Lớp tiếng Pháp, tin học, kỹ năng cơ bản và hỗ trợ hướng đến tự chủ và hội nhập nghề nghiệp.",
+    "target_audience": "Phụ nữ ít hoặc không có trình độ trong hoàn cảnh khó khăn",
+    "access_conditions": "Miễn phí cho hầu hết khóa đào tạo, cần đăng ký tại văn phòng"
+  },
+  "r_0123": {
+    "description": "Hỗ trợ nghề nghiệp cho thanh niên dưới 25 tuổi hướng đến học nghề kép thành công và cho người từ 50 tuổi trở lên quay lại thị trường lao động. Coaching cá nhân và nhóm.",
+    "target_audience": "Thanh niên dưới 25 tuổi chưa có đào tạo và người từ 50 tuổi trở lên đang tìm việc",
+    "access_conditions": "Miễn phí cho thanh niên dưới 25 tuổi và người từ 50 tuổi trở lên cư trú tại Geneva"
+  },
+  "r_0124": {
+    "description": "Nơi trao đổi, thông tin và đào tạo hội đoàn tiếp nhận hơn 80 hội đoàn địa phương và quốc tế. 13 phòng cho thuê cho sự kiện, hội nghị và hoạt động hội đoàn.",
+    "target_audience": "Các hội đoàn và cư dân khu phố",
+    "access_conditions": "Truy cập tự do vào không gian chung, đặt phòng cho các phòng họp"
+  },
+  "r_0125": {
+    "description": "Trung tâm sinh hoạt khu phố cung cấp hoạt động văn hóa xã hội cho mọi lứa tuổi. Hội thảo sáng tạo, lớp ngoại ngữ, sự kiện cộng đồng và quán cà phê.",
+    "target_audience": "Cư dân Carouge và vùng lân cận, mọi lứa tuổi",
+    "access_conditions": "Truy cập tự do, một số hoạt động cần đăng ký"
+  },
+  "r_0126": {
+    "description": "Không gian cộng đồng Vernier cung cấp hoạt động cho trẻ em, thanh thiếu niên và người lớn. Hỗ trợ học tập, hội thảo, chuyến đi và sự kiện đa văn hóa.",
+    "target_audience": "Cư dân Vernier, mọi lứa tuổi",
+    "access_conditions": "Truy cập tự do, một số hoạt động cần đăng ký"
+  },
+  "r_0127": {
+    "description": "Đường dây lắng nghe và hỗ trợ cho nạn nhân bạo lực tình dục. Đồng hành tâm lý, pháp lý và xã hội trong khuôn khổ bảo mật.",
+    "target_audience": "Nạn nhân bạo lực tình dục, chủ yếu phụ nữ và người LGBTIQ+",
+    "access_conditions": "Miễn phí và bảo mật, có hoặc không cần hẹn trước"
+  },
+  "r_0128": {
+    "description": "Hiệp hội đồng hành và trao quyền cho phụ nữ di cư. Lớp tiếng Pháp, hội thảo hội nhập, tư vấn tâm lý và hỗ trợ cộng đồng.",
+    "target_audience": "Phụ nữ di cư và tị nạn",
+    "access_conditions": "Miễn phí hoặc phí tượng trưng, cần đăng ký cho các khóa học"
+  },
+  "r_0129": {
+    "description": "Hỗ trợ và đồng hành cho phụ nữ mang thai gặp khó khăn. Lắng nghe, hỗ trợ vật chất (quần áo em bé, xe đẩy), tư vấn và hướng dẫn đến dịch vụ xã hội.",
+    "target_audience": "Phụ nữ mang thai gặp khó khăn và bà mẹ trẻ",
+    "access_conditions": "Miễn phí, cần hẹn trước hoặc trực điện thoại"
+  },
+  "r_0130": {
+    "description": "Tiếp đón ban ngày cho người cao tuổi suy giảm tự chủ. Hoạt động phù hợp, bữa ăn và chăm sóc cho phép người thân được nghỉ ngơi.",
+    "target_audience": "Người cao tuổi suy giảm tự chủ và người thân chăm sóc",
+    "access_conditions": "Theo đơn bác sĩ, đóng góp tài chính tùy thu nhập"
+  },
+  "r_0131": {
+    "description": "Hỗ trợ và hướng dẫn cho người thân chăm sóc tại bang Geneva. Lắng nghe, tư vấn, nhóm trao đổi và kết nối với các nguồn lực hiện có.",
+    "target_audience": "Người thân chăm sóc người cao tuổi, người bệnh hoặc người khuyết tật",
+    "access_conditions": "Miễn phí, có hoặc không cần hẹn trước"
+  },
+  "r_0132": {
+    "description": "Khóa học miễn phí hoặc giá ưu đãi cho người lớn trong nhiều lĩnh vực: ngoại ngữ, tin học, văn hóa, phát triển bản thân. Mở cửa cho tất cả không yêu cầu bằng cấp.",
+    "target_audience": "Người lớn mọi hoàn cảnh, không yêu cầu bằng cấp",
+    "access_conditions": "Miễn phí hoặc giá ưu đãi, đăng ký theo học kỳ"
+  },
+  "r_0133": {
+    "description": "Trung tâm tài nguyên cho các tổ chức quốc tế và hội đoàn. Phòng hội nghị, không gian làm việc chung và dịch vụ hỗ trợ hành chính.",
+    "target_audience": "Hội đoàn, tổ chức phi chính phủ và tổ chức quốc tế",
+    "access_conditions": "Truy cập tự do vào không gian chung, đặt phòng hội nghị"
+  },
+  "r_0134": {
+    "description": "Tư vấn pháp lý miễn phí cho người nước ngoài về luật người nước ngoài, tị nạn, đoàn tụ gia đình và giấy phép cư trú.",
+    "target_audience": "Người nước ngoài cư trú tại bang Geneva",
+    "access_conditions": "Miễn phí, không cần hẹn trước, đến trước phục vụ trước"
+  },
+  "r_0135": {
+    "description": "Trực pháp lý miễn phí chuyên về luật tị nạn và luật người nước ngoài. Tư vấn, đồng hành trong thủ tục và soạn thảo kháng cáo.",
+    "target_audience": "Người xin tị nạn, người tị nạn và người bị từ chối",
+    "access_conditions": "Miễn phí, cần hẹn trước cho tư vấn chuyên sâu"
+  },
+  "r_0136": {
+    "description": "Tư vấn và đồng hành miễn phí cho người khuyết tật và người thân. Hỗ trợ hành chính, hướng nghiệp và hỗ trợ xã hội.",
+    "target_audience": "Người khuyết tật và người thân",
+    "access_conditions": "Miễn phí, cần hẹn trước"
+  },
+  "r_0137": {
+    "description": "Bảo tàng lịch sử tự nhiên miễn phí vé vào. Bộ sưu tập thường trực về động vật học, khoáng vật học và cổ sinh vật học. Triển lãm tạm thời và hoạt động cho trẻ em.",
+    "target_audience": "Mọi đối tượng, gia đình và trường học",
+    "access_conditions": "Vé vào miễn phí cho bộ sưu tập thường trực"
+  },
+  "r_0138": {
+    "description": "Bảo tàng lớn nhất Geneva với bộ sưu tập thường trực miễn phí. Mỹ thuật, nghệ thuật ứng dụng và khảo cổ học, từ thời tiền sử đến nghệ thuật đương đại.",
+    "target_audience": "Mọi đối tượng, người yêu nghệ thuật và lịch sử",
+    "access_conditions": "Bộ sưu tập thường trực miễn phí, triển lãm tạm thời có phí"
+  },
+  "r_0139": {
+    "description": "Bảo tàng gốm sứ và thủy tinh Thụy Sĩ miễn phí vé vào. Bộ sưu tập đặc biệt trong tòa nhà tân baroque đối diện Palais des Nations.",
+    "target_audience": "Mọi đối tượng, người yêu nghệ thuật trang trí",
+    "access_conditions": "Vé vào miễn phí cho bộ sưu tập thường trực"
+  },
+  "r_0140": {
+    "description": "Bảo tàng về hoạt động nhân đạo, miễn phí vé vào chiều thứ Tư. Triển lãm tương tác về lịch sử và thách thức nhân đạo hiện nay.",
+    "target_audience": "Mọi đối tượng, người đam mê lịch sử nhân đạo",
+    "access_conditions": "Miễn phí vé vào chiều thứ Tư (16:00-18:00), có giá ưu đãi"
+  },
+  "r_0141": {
+    "description": "Trung tâm bơi lội thành phố với giá ưu đãi cho cư dân thu nhập thấp. Hồ bơi chuẩn Olympic, hồ học bơi và khu chăm sóc sức khỏe.",
+    "target_audience": "Mọi đối tượng, giá ưu đãi cho cư dân thu nhập thấp",
+    "access_conditions": "Giá ưu đãi với thẻ Cité Seniors hoặc trợ cấp bảo hiểm y tế"
+  },
+  "r_0142": {
+    "description": "Thư viện đa phương tiện truy cập tự do cung cấp sách, DVD, CD và internet miễn phí. Hoạt động văn hóa, giờ kể chuyện và không gian đọc thoải mái.",
+    "target_audience": "Mọi đối tượng, độc giả và gia đình trong khu phố",
+    "access_conditions": "Truy cập tự do và miễn phí, đăng ký miễn phí để mượn"
+  },
+  "r_0143": {
+    "description": "Nhà hàng liên đới phục vụ bữa tối miễn phí cho người trong hoàn cảnh khó khăn. Ẩm thực cao cấp từ thực phẩm thặng dư được thu hồi. Được quản lý bởi Mater Fondazione phối hợp với Food for Soul.",
+    "target_audience": "Người trong hoàn cảnh thiếu thực phẩm",
+    "access_conditions": "Bữa tối miễn phí, giới thiệu từ các tổ chức đối tác"
+  },
+  "r_0144": {
+    "description": "Bếp ăn từ thiện phục vụ bữa trưa miễn phí cho người không có thu nhập. Hơn 250 bữa ăn mỗi ngày do các tổ chức từ thiện khác nhau phục vụ. Địa điểm gặp gỡ phía sau ga Cornavin.",
+    "target_audience": "Người không có thu nhập, người vô gia cư",
+    "access_conditions": "Không điều kiện, mở cửa cho mọi người cần"
+  },
+  "r_0145": {
+    "description": "Trung tâm tiếp đón ban ngày khẩn cấp cung cấp bữa ăn nóng miễn phí, nhà tắm, lắng nghe và hướng dẫn. Tiếp nhận không điều kiện cho người đối mặt với cô đơn, bị loại trừ và bên lề xã hội. CARE = Caritas Accueil Rencontre Echange.",
+    "target_audience": "Người trong hoàn cảnh khó khăn, bị loại trừ, cô lập",
+    "access_conditions": "Không điều kiện, tiếp nhận không điều kiện cho người lớn"
+  },
+  "r_0146": {
+    "description": "Nhà trọ khẩn cấp cung cấp nơi trú ẩn cho người vô gia cư. Bữa sáng và bữa tối miễn phí. Thời gian lưu trú không giới hạn. Có thể ở lại ban ngày trong mùa đông. Khu vực dành riêng cho phụ nữ.",
+    "target_audience": "Người vô gia cư, phụ nữ đơn thân hoặc có con",
+    "access_conditions": "Nhà trọ theo yêu cầu, 10 đến 20 chỗ, thời gian không giới hạn"
+  },
+  "r_0147": {
+    "description": "Nhà trọ qua đêm khẩn cấp của Thành phố Geneva. Giường, bữa tối, hành lý ký gửi và nhà tắm được cung cấp miễn phí. Thời hạn tối đa 30 ngày.",
+    "target_audience": "Người vô gia cư",
+    "access_conditions": "Gọi tổng đài nhà trọ khẩn cấp 0800 22 22 10 (miễn phí). Thời hạn tối đa 30 ngày."
+  },
+  "r_0148": {
+    "description": "Khám bệnh miễn phí và bảo mật cho người không có bảo hiểm y tế hoặc không có tư cách pháp lý. Chăm sóc tuyến đầu, khám bác sĩ và điều dưỡng, hướng dẫn đến dịch vụ chuyên khoa. Hơn 4500 bệnh nhân mỗi năm.",
+    "target_audience": "Người không có bảo hiểm y tế, không có tư cách pháp lý, vô gia cư",
+    "access_conditions": "Từ 16 tuổi, không yêu cầu tư cách pháp lý, chấp nhận không bảo hiểm, miễn phí và bảo mật"
+  },
+  "r_0149": {
+    "description": "Trung tâm y tế cộng đồng LGBTIQ+ chuyên về sức khỏe tình dục. Xét nghiệm HIV/STI miễn phí và ẩn danh, điều trị, tiêm chủng, tư vấn tâm lý. Dịch vụ của Dialogai.",
+    "target_audience": "Cộng đồng LGBTIQ+ và mọi người quan tâm đến sức khỏe tình dục",
+    "access_conditions": "Xét nghiệm miễn phí và ẩn danh không cần hẹn vào thứ Hai và thứ Năm"
+  },
+  "r_0150": {
+    "description": "Phòng khám nha khoa cung cấp dịch vụ cơ bản giá rất rẻ cho người thu nhập thấp. Khám nha sĩ 40 CHF, vệ sinh răng 20 CHF. Nha sĩ và chuyên viên vệ sinh răng tình nguyện.",
+    "target_audience": "Người lao động nghèo và người thu nhập thấp không có trợ cấp xã hội",
+    "access_conditions": "Cần hẹn trước qua Permanence d'accueil social. Dành cho người thu nhập thấp."
+  },
+  "r_0151": {
+    "description": "Hiệp hội hoạt động trong lĩnh vực phòng chống HIV, viêm gan và STI. Tư vấn tâm lý miễn phí (buổi đầu), xét nghiệm bảo mật, tư vấn pháp lý và xã hội cho người sống chung với HIV.",
+    "target_audience": "Người liên quan đến HIV, STI, viêm gan",
+    "access_conditions": "Buổi tư vấn tâm lý đầu tiên miễn phí. Xét nghiệm bảo mật."
+  },
+  "r_0152": {
+    "description": "Đồng hành xã hội và nghề nghiệp cho phụ nữ bị loại trừ xã hội. Hỗ trợ thủ tục hành chính, hiểu biết quyền lợi, chuyển hướng nghề nghiệp. Lắng nghe qua điện thoại và hỗ trợ.",
+    "target_audience": "Phụ nữ bị loại trừ xã hội hoặc nghề nghiệp",
+    "access_conditions": "Miễn phí, trực điện thoại theo giờ quy định"
+  },
+  "r_0153": {
+    "description": "Nơi trú ẩn cho phụ nữ nạn nhân bạo lực và buôn người, có hoặc không có con. Nhà trọ dài hạn với theo dõi tâm lý xã hội cho khoảng 30 phụ nữ. Lớp tiếng Pháp và đào tạo nghề.",
+    "target_audience": "Phụ nữ nạn nhân bạo lực và buôn người, có hoặc không có con",
+    "access_conditions": "Tiếp nhận điện thoại 8h30-12h. Nhà trọ khẩn cấp 24/24."
+  },
+  "r_0154": {
+    "description": "Hiệp hội liên đới bảo vệ quyền của người hành nghề mại dâm. Tiếp đón, lắng nghe, hỗ trợ tâm lý xã hội, dịch vụ pháp lý, hỗ trợ hành chính, phòng chống STI và vật tư phòng ngừa.",
+    "target_audience": "Người hành nghề mại dâm",
+    "access_conditions": "Không cần hẹn trước theo giờ quy định. Tiếp đón không phán xét."
+  },
+  "r_0155": {
+    "description": "Không gian miễn phí thông tin và tư vấn về hướng nghiệp, đào tạo và việc làm. Chuyên viên tư vấn không cần hẹn trước. Hội thảo chuyên đề: đánh giá năng lực, CV, phỏng vấn tuyển dụng, chuyển đổi nghề nghiệp.",
+    "target_audience": "Thanh thiếu niên và người lớn đang tìm hướng nghiệp, đào tạo hoặc việc làm",
+    "access_conditions": "Miễn phí, không cần hẹn trước, truy cập tự do"
+  },
+  "r_0156": {
+    "description": "Hiệp hội hội nhập nghề nghiệp xã hội cho thanh niên từ 15 đến 25 tuổi. Công việc tạm thời, hỗ trợ cá nhân, thực tập tiền đào tạo và đồng hành tìm việc hoặc đào tạo.",
+    "target_audience": "Thanh niên từ 15 đến 25 tuổi đang tìm việc hoặc đào tạo",
+    "access_conditions": "Miễn phí, đăng ký trên trang web hoặc trực tiếp"
+  },
+  "r_0157": {
+    "description": "Hiệp hội độc lập bảo vệ quyền tị nạn từ năm 1986. Hỗ trợ pháp lý miễn phí và đại diện cho người tị nạn. Tư vấn không cần hẹn vào thứ Hai. Đồng hành xuyên suốt thủ tục tị nạn.",
+    "target_audience": "Người xin tị nạn và người tị nạn",
+    "access_conditions": "Miễn phí, tư vấn không cần hẹn vào thứ Hai"
+  },
+  "r_0158": {
+    "description": "Hiệp hội đồng tính nữ và nữ quyền mở cửa cho mọi phụ nữ (cis, trans, lưỡng tính, queer). Tiếp đón, lắng nghe, thông tin và đoàn kết. Hoạt động: câu lạc bộ phim, buổi tối, hội nghị, thể thao.",
+    "target_audience": "Phụ nữ đồng tính, lưỡng tính, chuyển giới, queer",
+    "access_conditions": "Mở cửa cho tất cả phụ nữ không điều kiện"
+  },
+  "r_0159": {
+    "description": "Không gian tiếp đón, lắng nghe và hỗ trợ cho thanh niên LGBTIQ+ gặp khó khăn. Đồng hành cá nhân, nhóm hỗ trợ, trò chuyện ẩn danh trực tuyến, nhà trọ từ 3 đến 6 tháng từ 18 tuổi.",
+    "target_audience": "Thanh niên LGBTIQ+ và người xung quanh",
+    "access_conditions": "Có hoặc không cần hẹn trước, trò chuyện ẩn danh trực tuyến"
+  },
+  "r_0160": {
+    "description": "Hiệp hội phục vụ sự đa dạng tính dục và giới tính. Tiếp đón, thông tin, lắng nghe và hướng dẫn cho người LGBTIQ+. Dịch vụ pháp lý duy nhất tại Suisse romande. Nhóm: Trans*, Homoparents, Bi, Tamalou (người cao tuổi).",
+    "target_audience": "Người LGBTIQ+ và người thân",
+    "access_conditions": "Tiếp nhận tự do không cần hẹn trước"
+  },
+  "r_0161": {
+    "description": "Hiệp hội phòng chống và đồng hành cho người nghiện rượu và gia đình họ. Tư vấn chuyên nghiệp, trị liệu ngoại trú, nhóm hỗ trợ, cuối tuần.",
+    "target_audience": "Người liên quan đến nghiện rượu và người thân",
+    "access_conditions": "Tiếp nhận tự do, miễn phí"
+  },
+  "r_0162": {
+    "description": "Trung tâm ban ngày cho người nghiện ma túy. Tiếp đón, lắng nghe, bữa ăn, hoạt động và đồng hành hướng đến điều trị. Hiệp hội ARGOS cũng cung cấp trung tâm nội trú tái hòa nhập.",
+    "target_audience": "Người nghiện ma túy",
+    "access_conditions": "Tiếp nhận tự do, không cần hẹn trước"
+  },
+  "r_0163": {
+    "description": "Trung tâm phòng chống tập hợp FEGPA (rượu và cần sa), CIPRET (thuốc lá) và RNVP (trò chơi/màn hình). Tư vấn miễn phí và bảo mật cho mọi người liên quan đến nghiện hoặc người thân.",
+    "target_audience": "Mọi người liên quan đến nghiện, thanh thiếu niên và người thân",
+    "access_conditions": "Tư vấn miễn phí và bảo mật, cần hẹn trước"
+  },
+  "r_0164": {
+    "description": "Hiệp hội phụ huynh và bạn bè của người khuyết tật trí tuệ. Thông tin, tư vấn, hỗ trợ gia đình. Hoạt động giải trí, cuối tuần nghỉ ngơi, kỳ nghỉ. Bảo vệ quyền lợi.",
+    "target_audience": "Người khuyết tật trí tuệ và gia đình",
+    "access_conditions": "Liên hệ qua điện thoại hoặc email"
+  },
+  "r_0165": {
+    "description": "Tổ chức tương trợ lớn nhất cho người khuyết tật tại Thụy Sĩ. Tư vấn pháp lý miễn phí về bảo hiểm xã hội (AI, APG). Hoạt động gặp gỡ cho trẻ em khuyết tật.",
+    "target_audience": "Người khuyết tật",
+    "access_conditions": "Tư vấn pháp lý miễn phí cho thành viên"
+  },
+  "r_0166": {
+    "description": "Hiệp hội khuyến khích người cao tuổi giữ hoạt động và tự chủ. Hoạt động đa dạng: khóa học, hội thảo, chuyến đi, hội nghị, thể thao. Chương trình \"Seniors d'ici et d'ailleurs\" cho hội nhập.",
+    "target_audience": "Người cao tuổi từ 50 tuổi trở lên",
+    "access_conditions": "Mở cửa cho người từ 50 tuổi trở lên"
+  },
+  "r_0167": {
+    "description": "Tuyên úy đại kết cung cấp sự hiện diện, lắng nghe và hỗ trợ cho người xin tị nạn và người tị nạn. Lớp tiếng Pháp, tin học, bữa ăn thân mật, hoạt động thể thao và văn hóa.",
+    "target_audience": "Người xin tị nạn và người tị nạn tại Geneva",
+    "access_conditions": "Mở cửa cho tất cả người xin tị nạn và người tị nạn"
+  },
+  "r_0168": {
+    "description": "Tiếp đón và đồng hành người tị nạn LGBTIQ+. Trực pháp lý phối hợp với elisa-asile, hỗ trợ và hoạt động nâng cao nhận thức.",
+    "target_audience": "Người tị nạn và người xin tị nạn LGBTIQ+",
+    "access_conditions": "Mở cửa cho mọi người LGBTIQ+ tị nạn hoặc đang xin tị nạn"
+  },
+  "r_0169": {
+    "description": "Thư viện đồ chơi thành phố miễn phí để chơi tại chỗ. Trò chơi bàn cổ điển và hợp tác trên hai tầng. Mượn trò chơi với đăng ký gia đình hàng năm (30 CHF). Nhân viên sẵn sàng tư vấn.",
+    "target_audience": "Trẻ em, gia đình, các tổ chức trong khu phố",
+    "access_conditions": "Chơi tại chỗ miễn phí. Mượn với đăng ký gia đình hàng năm (30 CHF). Trẻ em dưới 6 tuổi phải có người lớn đi kèm."
+  },
+  "r_0170": {
+    "description": "Thư viện đồ chơi thành phố miễn phí để chơi tại chỗ, nằm trong Manège en Ville. Khoảng 1000 trò chơi bàn, trò chơi điện tử và đồ chơi cho mọi lứa tuổi. Mượn với đăng ký gia đình (30 CHF/năm). Tổ chức giải đấu và sự kiện.",
+    "target_audience": "Trẻ em, gia đình, mọi lứa tuổi (từ trẻ sơ sinh đến người lớn)",
+    "access_conditions": "Chơi tại chỗ miễn phí. Mượn với đăng ký gia đình hàng năm (30 CHF). Trẻ em dưới 6 tuổi phải có người lớn đi kèm."
+  },
+  "r_0171": {
+    "description": "Nơi trú ẩn khẩn cấp cho phụ nữ trong tình trạng khó khăn, vô gia cư hoặc phụ nữ tị nạn có con. 30 chỗ tiếp nhận vô điều kiện và 21 chỗ cho phụ nữ được hỗ trợ xã hội. Phòng đơn hoặc đôi, ba bữa ăn mỗi ngày, phòng giặt, hỗ trợ xã hội.",
+    "target_audience": "Phụ nữ vô gia cư, phụ nữ trong tình trạng khó khăn, phụ nữ tị nạn có con",
+    "access_conditions": "Liên hệ đường dây trú ẩn khẩn cấp Geneva: 0800 22 22 10 (Thứ Hai-Thứ Sáu 10:30-20:00, Thứ Bảy-Chủ nhật 15:00-20:00). Không đặt chỗ trực tiếp."
+  },
+  "tag": {
+    "143": "143",
+    "147": "147",
+    "15-25 ans": "15-25 tuổi",
+    "24h": "24h",
+    "50+": "50+",
+    "AI": "AI",
+    "AVS": "AVS",
+    "Belle-Idée": "Belle-Idée",
+    "CFF": "CFF",
+    "CV": "CV",
+    "Carouge": "Carouge",
+    "Cité Générations": "Cité Générations",
+    "Cornavin": "Cornavin",
+    "Croix-Rouge": "Croix-Rouge",
+    "FLE": "FLE",
+    "FRC": "FRC",
+    "HUG": "HUG",
+    "Hospice général": "Hospice général",
+    "IST": "STI",
+    "LAVI": "LAVI",
+    "LGBT": "LGBT",
+    "LGBTIQ+": "LGBTIQ+",
+    "Onex": "Onex",
+    "Plainpalais": "Plainpalais",
+    "SBB": "SBB",
+    "SIT": "SIT",
+    "SOS": "SOS",
+    "TPAE": "TPAE",
+    "TPG": "TPG",
+    "UNIA": "UNIA",
+    "VIH": "HIV",
+    "Vernier": "Vernier",
+    "abri": "nơi trú ẩn",
+    "accessibilité": "tiếp cận",
+    "accompagnement": "đồng hành",
+    "accueil": "tiếp đón",
+    "accueil de jour": "tiếp đón ban ngày",
+    "activités": "hoạt động",
+    "addiction": "nghiện",
+    "administratif": "hành chính",
+    "administration": "quản lý",
+    "adolescents": "thanh thiếu niên",
+    "adultes": "người lớn",
+    "aide": "hỗ trợ",
+    "aide financière": "hỗ trợ tài chính",
+    "aide matérielle": "hỗ trợ vật chất",
+    "aide sociale": "trợ cấp xã hội",
+    "aide à domicile": "hỗ trợ tại nhà",
+    "alcool": "rượu",
+    "alimentaire": "thực phẩm",
+    "allaitement": "cho con bú",
+    "alzheimer": "alzheimer",
+    "anonyme": "ẩn danh",
+    "anti-gaspillage": "chống lãng phí",
+    "antigaspillage": "chống lãng phí",
+    "apprentissage": "học nghề",
+    "archéologie": "khảo cổ",
+    "armée du salut": "đội quân cứu tế",
+    "art": "nghệ thuật",
+    "artichauts": "artichauts",
+    "arts": "nghệ thuật",
+    "asile": "tị nạn",
+    "associations": "hội đoàn",
+    "assurance": "bảo hiểm",
+    "assurances sociales": "bảo hiểm xã hội",
+    "ateliers": "hội thảo",
+    "autonomie": "tự chủ",
+    "autonomisation": "trao quyền",
+    "avocats": "luật sư",
+    "bail": "hợp đồng thuê",
+    "bains": "bể tắm",
+    "banque": "ngân hàng",
+    "bas prix": "giá rẻ",
+    "bas seuil": "ngưỡng thấp",
+    "bateau": "tàu",
+    "beaulieu": "beaulieu",
+    "bibliothèque": "thư viện",
+    "bien-être": "sức khỏe",
+    "bébé": "em bé",
+    "bénévoles": "tình nguyện",
+    "café": "cà phê",
+    "cancer": "ung thư",
+    "cannabis": "cần sa",
+    "cantonal": "cấp bang",
+    "caritas": "caritas",
+    "carouge": "carouge",
+    "carrière": "sự nghiệp",
+    "centrale": "tổng đài",
+    "centre-ville": "trung tâm",
+    "chômage": "thất nghiệp",
+    "citoyenneté": "công dân",
+    "coaching": "coaching",
+    "colis": "gói hàng",
+    "collecte": "thu gom",
+    "communautaire": "cộng đồng",
+    "communauté": "cộng đồng",
+    "compétences": "kỹ năng",
+    "confidentiel": "bảo mật",
+    "conflits": "tranh chấp",
+    "conférences": "hội nghị",
+    "conseil": "tư vấn",
+    "conseils": "tư vấn",
+    "consultation": "khám",
+    "contraception": "tránh thai",
+    "cornavin": "cornavin",
+    "cours": "khóa học",
+    "coworking": "làm việc chung",
+    "crise": "khủng hoảng",
+    "croix-rouge": "chữ thập đỏ",
+    "crèche": "nhà trẻ",
+    "créativité": "sáng tạo",
+    "culture": "văn hóa",
+    "curatelle": "giám hộ",
+    "céramique": "gốm sứ",
+    "dentaire": "nha khoa",
+    "diabète": "tiểu đường",
+    "distribution": "phân phát",
+    "diversité": "đa dạng",
+    "divorce": "ly hôn",
+    "diététique": "dinh dưỡng",
+    "domicile": "tại nhà",
+    "douche": "nhà tắm",
+    "douches": "nhà tắm",
+    "drogue": "ma túy",
+    "drogues": "ma túy",
+    "droit": "pháp luật",
+    "droit des étrangers": "luật người nước ngoài",
+    "droits": "quyền lợi",
+    "démence": "sa sút trí tuệ",
+    "dépendance": "phụ thuộc",
+    "dépistage": "xét nghiệm",
+    "détresse": "khốn khổ",
+    "eau potable": "nước uống",
+    "eaux-vives": "eaux-vives",
+    "emploi": "việc làm",
+    "enfance": "trẻ thơ",
+    "enfants": "trẻ em",
+    "espace partagé": "không gian chung",
+    "espace travail": "không gian làm việc",
+    "ethnopsychologie": "tâm lý dân tộc",
+    "extérieur": "ngoài trời",
+    "factures": "hóa đơn",
+    "famille": "gia đình",
+    "familles": "gia đình",
+    "femmes": "phụ nữ",
+    "femmes migrantes": "phụ nữ di cư",
+    "financière": "tài chính",
+    "fitness": "thể dục",
+    "fontaine": "vòi nước",
+    "formation": "đào tạo",
+    "fr": "fr",
+    "français": "tiếng pháp",
+    "français professionnel": "tiếng pháp chuyên nghiệp",
+    "frigo": "tủ lạnh",
+    "féministe": "nữ quyền",
+    "garderie": "nhà trẻ",
+    "gare": "ga",
+    "gastronomique": "ẩm thực",
+    "grange": "grange",
+    "gratuit": "miễn phí",
+    "grossesse": "thai kỳ",
+    "groupe": "nhóm",
+    "handicap": "khuyết tật",
+    "handicap mental": "khuyết tật trí tuệ",
+    "histoire": "lịch sử",
+    "hiver": "mùa đông",
+    "humanitaire": "nhân đạo",
+    "hydratation": "bổ sung nước",
+    "hygiène": "vệ sinh",
+    "hébergement": "nhà trọ",
+    "infirmiers": "điều dưỡng",
+    "information": "thông tin",
+    "informatique": "tin học",
+    "infractions": "tội phạm",
+    "insertion": "hội nhập",
+    "interactif": "tương tác",
+    "interculturel": "đa văn hóa",
+    "international": "quốc tế",
+    "internet": "internet",
+    "intégration": "hội nhập",
+    "invendus": "hàng tồn",
+    "jardin": "vườn",
+    "jeu": "trò chơi",
+    "jeunes": "thanh niên",
+    "jeunesse": "tuổi trẻ",
+    "jeux": "trò chơi",
+    "jonction": "jonction",
+    "jouets": "đồ chơi",
+    "jour": "ngày",
+    "juridique": "pháp lý",
+    "lac": "hồ",
+    "langues": "ngoại ngữ",
+    "laverie": "giặt giũ",
+    "lesbienne": "đồng tính nữ",
+    "libre-service": "tự phục vụ",
+    "licenciement": "sa thải",
+    "livres": "sách",
+    "locataires": "người thuê nhà",
+    "logement": "nhà ở",
+    "loisirs": "giải trí",
+    "loyer": "tiền thuê",
+    "ludothèque": "thư viện đồ chơi",
+    "maintien à domicile": "chăm sóc tại nhà",
+    "maladie chronique": "bệnh mạn tính",
+    "maraude": "tuần tra",
+    "maternité": "thai sản",
+    "meubles": "đồ nội thất",
+    "midi": "buổi trưa",
+    "migrantes": "phụ nữ di cư",
+    "migrants": "người di cư",
+    "migration": "di cư",
+    "mineurs": "trẻ vị thành niên",
+    "mobile": "di động",
+    "mobilité": "di chuyển",
+    "molard": "molard",
+    "multilingue": "đa ngôn ngữ",
+    "musée": "bảo tàng",
+    "médecin": "bác sĩ",
+    "médecine générale": "y khoa tổng quát",
+    "médiathèque": "thư viện đa phương tiện",
+    "médiation": "hòa giải",
+    "médicaments": "thuốc",
+    "natation": "bơi lội",
+    "nature": "thiên nhiên",
+    "nuit": "đêm",
+    "offres": "cơ hội",
+    "orientation": "hướng dẫn",
+    "parc": "công viên",
+    "parc de la grange": "parc de la grange",
+    "parentalité": "nuôi dạy con",
+    "parents": "phụ huynh",
+    "parents-enfants": "phụ huynh-trẻ em",
+    "partage": "chia sẻ",
+    "permaculture": "nông nghiệp bền vững",
+    "permanence": "trực",
+    "permis": "giấy phép",
+    "personnes âgées": "người cao tuổi",
+    "petite enfance": "mầm non",
+    "petits boulots": "việc làm nhỏ",
+    "petits-déjeuners": "bữa sáng",
+    "pharmacie": "nhà thuốc",
+    "piscine": "hồ bơi",
+    "place de neuve": "place de neuve",
+    "plage": "bãi biển",
+    "plaine": "quảng trường",
+    "plainpalais": "plainpalais",
+    "planning familial": "kế hoạch gia đình",
+    "plein air": "ngoài trời",
+    "ponctuel": "tạm thời",
+    "potager": "vườn rau",
+    "prestations": "trợ cấp",
+    "prix réduits": "giá ưu đãi",
+    "pro juventute": "pro juventute",
+    "proches aidants": "người thân chăm sóc",
+    "protection": "bảo vệ",
+    "précarité": "khó khăn",
+    "prévention": "phòng chống",
+    "prêt": "cho mượn",
+    "psychiatrie": "tâm thần học",
+    "psycho-oncologie": "tâm lý ung thư",
+    "psychologie": "tâm lý học",
+    "psychologique": "tâm lý",
+    "psychologue": "nhà tâm lý",
+    "psychopédagogique": "tâm lý giáo dục",
+    "public": "công cộng",
+    "pâquis": "pâquis",
+    "quai": "bờ sông",
+    "quartier": "khu phố",
+    "reconversion": "chuyển đổi nghề",
+    "recours": "kháng cáo",
+    "redistribution": "phân phối lại",
+    "refuge": "nơi trú ẩn",
+    "repair café": "quán sửa chữa",
+    "repas": "bữa ăn",
+    "repos": "nghỉ ngơi",
+    "ressources": "tài nguyên",
+    "restaurant": "nhà hàng",
+    "récupération": "thu hồi",
+    "réduction": "giảm giá",
+    "réduction des risques": "giảm thiểu rủi ro",
+    "réfugiés": "người tị nạn",
+    "réinsertion": "tái hòa nhập",
+    "réorientation": "chuyển hướng",
+    "réparation": "sửa chữa",
+    "répit": "nghỉ ngơi",
+    "réseau": "mạng lưới",
+    "résolution": "giải quyết",
+    "réunions": "họp mặt",
+    "sages-femmes": "nữ hộ sinh",
+    "saint-jean": "saint-jean",
+    "sans assurance": "không bảo hiểm",
+    "sans rendez-vous": "không cần hẹn",
+    "sans-abri": "vô gia cư",
+    "sans-papiers": "không giấy tờ",
+    "santé": "sức khỏe",
+    "santé mentale": "sức khỏe tâm thần",
+    "santé sexuelle": "sức khỏe tình dục",
+    "sauna": "sauna",
+    "sciences": "khoa học",
+    "seconde main": "đồ cũ",
+    "seniors": "người cao tuổi",
+    "servette": "servette",
+    "social": "xã hội",
+    "socioculturel": "văn hóa xã hội",
+    "soins": "chăm sóc",
+    "soins à domicile": "chăm sóc tại nhà",
+    "solidaire": "liên đới",
+    "soupe": "súp",
+    "soupe populaire": "bếp ăn từ thiện",
+    "soutien": "hỗ trợ",
+    "soutien scolaire": "hỗ trợ học tập",
+    "sport": "thể thao",
+    "stages": "thực tập",
+    "substitution": "thay thế",
+    "suicide": "tự tử",
+    "syndicat": "công đoàn",
+    "sécheron": "sécheron",
+    "tabac": "thuốc lá",
+    "tarif réduit": "giá ưu đãi",
+    "tarif social": "giá xã hội",
+    "toilettes": "nhà vệ sinh",
+    "toxicodépendance": "nghiện ma túy",
+    "traite": "buôn người",
+    "traitement": "điều trị",
+    "trans": "chuyển giới",
+    "transport": "giao thông",
+    "travail": "lao động",
+    "travail du sexe": "mại dâm",
+    "travailleurs pauvres": "người lao động nghèo",
+    "tutelle": "bảo trợ",
+    "téléphone": "điện thoại",
+    "université": "đại học",
+    "urbain": "đô thị",
+    "urgence": "khẩn cấp",
+    "verre": "thủy tinh",
+    "vestiaire": "phòng để đồ",
+    "victimes": "nạn nhân",
+    "vie associative": "đời sống hội đoàn",
+    "vieille ville": "phố cổ",
+    "ville": "thành phố",
+    "violence": "bạo lực",
+    "violence conjugale": "bạo lực gia đình",
+    "violences": "bạo lực",
+    "violences sexuelles": "bạo lực tình dục",
+    "vélos": "xe đạp",
+    "vêtements": "quần áo",
+    "wifi": "wifi",
+    "écologie": "sinh thái",
+    "écologique": "sinh thái",
+    "écoute": "lắng nghe",
+    "éducation": "giáo dục",
+    "épicerie": "tạp hóa",
+    "étrangers": "người nước ngoài",
+    "étude": "học tập",
+    "étudier": "học"
+  }
+}

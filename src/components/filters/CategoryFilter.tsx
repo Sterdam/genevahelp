@@ -1,10 +1,11 @@
 import { useTranslation } from 'react-i18next'
-import { CATEGORY_CONFIG } from '../../lib/constants'
+import { CATEGORY_CONFIG, CATEGORY_EMOJI } from '../../lib/constants'
 import type { ResourceCategory } from '../../lib/types'
 
 interface CategoryFilterProps {
   selected: ResourceCategory[]
   onChange: (categories: ResourceCategory[]) => void
+  counts?: Record<ResourceCategory, number>
 }
 
 const VISIBLE_CATEGORIES: ResourceCategory[] = [
@@ -13,9 +14,8 @@ const VISIBLE_CATEGORIES: ResourceCategory[] = [
   'children', 'women', 'elderly', 'addiction', 'social', 'emergency', 'admin',
 ]
 
-export function CategoryFilter({ selected, onChange }: CategoryFilterProps) {
-  const { t, i18n } = useTranslation()
-  const lang = i18n.language
+export function CategoryFilter({ selected, onChange, counts }: CategoryFilterProps) {
+  const { t } = useTranslation()
 
   const toggle = (category: ResourceCategory) => {
     if (selected.includes(category)) {
@@ -42,9 +42,9 @@ export function CategoryFilter({ selected, onChange }: CategoryFilterProps) {
 
       {VISIBLE_CATEGORIES.map((cat) => {
         const config = CATEGORY_CONFIG[cat]
-        const Icon = config.icon
+        const emoji = CATEGORY_EMOJI[cat]
         const isActive = selected.includes(cat)
-        const label = lang === 'en' ? config.labelEn : config.label
+        const count = counts?.[cat]
 
         return (
           <button
@@ -59,8 +59,13 @@ export function CategoryFilter({ selected, onChange }: CategoryFilterProps) {
                 : undefined
             }
           >
-            <Icon size={14} />
-            {label}
+            <span>{emoji}</span>
+            {t(`categories.${cat}`)}
+            {count != null && count > 0 && (
+              <span className={`text-[10px] ${isActive ? 'opacity-75' : 'opacity-50'}`}>
+                {count}
+              </span>
+            )}
           </button>
         )
       })}

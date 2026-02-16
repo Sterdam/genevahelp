@@ -1,0 +1,1214 @@
+{
+  "r_0001": {
+    "description": "Zor durumda olan kişiler için ücretsiz gıda dağıtımı. Öğle ve akşam sıcak yemek servisi. Koşulsuz kabul.",
+    "target_audience": "Zor durumda olan herkes",
+    "access_conditions": "Koşulsuz, herkese açık"
+  },
+  "r_0002": {
+    "description": "Genève Barolar Birliği tarafından sunulan ücretsiz hukuki danışmanlık. Randevusuz, her türlü hukuki soruda ilk danışmanlık.",
+    "target_audience": "Hukuki danışmanlığa ihtiyacı olan herkes",
+    "access_conditions": "Randevusuz, ilk gelen ilk alır"
+  },
+  "r_0003": {
+    "description": "Herkesin ücretsiz olarak yiyecek bırakabildiği veya alabileceği serbest erişimli buzdolabı. Gıda israfıyla mücadele.",
+    "target_audience": "Herkese açık",
+    "access_conditions": "7/24 serbest erişim"
+  },
+  "r_0004": {
+    "description": "Dayanışma marketi ve giysi dağıtımı. Mali zorluk yaşayan kişiler için sosyal destek. Gıda ve giysi yardımı.",
+    "target_audience": "Düşük gelirli kişiler",
+    "access_conditions": "Düşük gelir belgesi ibrazı ile"
+  },
+  "r_0005": {
+    "description": "Ücretsiz hukuki ve sosyal danışmanlık. İdari yardım, yabancılar hukuku, iş hukuku ve sosyal sigortalar konusunda danışmanlık.",
+    "target_audience": "Hukuki veya idari zorluk yaşayan herkes",
+    "access_conditions": "Randevulu, ilk danışma ücretsiz"
+  },
+  "r_0006": {
+    "description": "Dezavantajlı kişiler için sağlık hizmetleri, sosyal yardım ve destek. Göçmen ve mültecilere yönelik destek programları.",
+    "target_audience": "Dezavantajlı kişiler, göçmenler, mülteciler",
+    "access_conditions": "Programlara göre değişir, bazıları randevulu"
+  },
+  "r_0007": {
+    "description": "Zor durumda olan aileler ve kişiler için haftalık gıda kolisi dağıtımı. Taze ürünler ve temel gıda maddeleri.",
+    "target_audience": "Düşük gelirli aileler ve kişiler",
+    "access_conditions": "Kayıt ile, mali durum belgesi gerekli"
+  },
+  "r_0008": {
+    "description": "Kantonal sosyal yardım kurumu. Mali yardımlar, sosyal destek, konut yardımı ve mesleki entegrasyon.",
+    "target_audience": "Mali zorluk yaşayan Cenevre sakinleri",
+    "access_conditions": "Randevulu, Genève kantonu sakinleri"
+  },
+  "r_0009": {
+    "description": "Ücretsiz duş, çamaşır makinesi ve kurutma makinesi erişimi. Evsiz veya zor durumda olan kişiler için hijyen alanı.",
+    "target_audience": "Evsiz kişiler, zor durumda olan kişiler",
+    "access_conditions": "Koşulsuz, serbest erişim"
+  },
+  "r_0010": {
+    "description": "Sağlık sigortası olmayan kişiler için ücretsiz tıbbi muayene. Birinci basamak sağlık hizmetleri, yönlendirme ve sağlık desteği.",
+    "target_audience": "Sağlık sigortası olmayan kişiler, belgesiz göçmenler",
+    "access_conditions": "Sağlık sigortası olmadan, randevusuz"
+  },
+  "r_0011": {
+    "description": "Göçmen kadınlar için ücretsiz Fransızca kursları. Kurslar sırasında çocuklar için kreş hizmeti. Entegrasyon ve sosyalleşme atölyeleri.",
+    "target_audience": "Göçmen kadınlar ve çocukları",
+    "access_conditions": "Göçmen kadınlar, dönem başında kayıt"
+  },
+  "r_0012": {
+    "description": "Ücretsiz veya uygun fiyatlı akşam kursları: Fransızca, bilgisayar, muhasebe, yabancı diller. Yetişkinler için sürekli eğitim.",
+    "target_audience": "Eğitim almak isteyen yetişkinler",
+    "access_conditions": "Dönem başında kayıt, gelire göre indirimli ücret"
+  },
+  "r_0013": {
+    "description": "Gecelik acil barınma. Evsiz kişilerin koşulsuz kabulü. Akşam yemeği ve kahvaltı dahildir.",
+    "target_audience": "Evsiz kişiler",
+    "access_conditions": "Koşulsuz, akşamları koşulsuz kabul"
+  },
+  "r_0014": {
+    "description": "Şiddete maruz kalan kadınlar için karşılama, dinleme ve acil barınma. Psikolojik destek ve hukuki danışmanlık.",
+    "target_audience": "Aile içi şiddete maruz kalan kadınlar",
+    "access_conditions": "7/24 telefon hattı, değerlendirmeye göre barınma"
+  },
+  "r_0015": {
+    "description": "Çok uygun fiyatlı giysi, mobilya ve eşya satan dayanışma mağazası. İkinci el eşya toplama ve yeniden dağıtım.",
+    "target_audience": "Herkese açık, düşük gelirli kişiler",
+    "access_conditions": "Herkese açık, dayanışma fiyatları"
+  },
+  "r_0016": {
+    "description": "Yabancı uyruklu kişiler için bilgilendirme ve yönlendirme. Destekli Fransızca kursları, entegrasyon yardımı, ırkçılık ve ayrımcılık önleme.",
+    "target_audience": "Genève'de ikamet eden yabancı uyruklu kişiler",
+    "access_conditions": "Genève kantonunda ikamet eden yabancılar"
+  },
+  "r_0017": {
+    "description": "Parc des Bastions'da Genève Belediyesi tarafından sunulan ücretsiz WiFi erişimi. Serbest ve sınırsız bağlantı.",
+    "target_audience": "Herkese açık",
+    "access_conditions": "Serbest erişim"
+  },
+  "r_0018": {
+    "description": "Sosyal, kültürel ve eğitsel etkinlikler sunan toplum merkezi. Ücretsiz veya uygun fiyatlı kurslar, atölyeler ve etkinlikler.",
+    "target_audience": "Plainpalais semti sakinleri",
+    "access_conditions": "Semt sakinlerine açık"
+  },
+  "r_0019": {
+    "description": "Marketlerden satılmamış gıdaların toplanması ve ihtiyaç sahiplerine ücretsiz dağıtımı. İsrafla mücadele.",
+    "target_audience": "Gıda yoksulluğu yaşayan kişiler",
+    "access_conditions": "Kayıt ile, mali durum belgesi gerekli"
+  },
+  "r_0020": {
+    "description": "Acil mali yardım, sosyal destek, uygun hizmetlere yönlendirme. Genève Belediyesi sakinlerine destek.",
+    "target_audience": "Zorluk yaşayan Genève Belediyesi sakinleri",
+    "access_conditions": "Genève Belediyesi sakinleri"
+  },
+  "r_0021": {
+    "description": "Sığınmacılar ve göçmenler için birinci basamak sağlık muayeneleri. Kültürlerarası ve psikososyal yaklaşımla sığınmacı sağlık ağı ortağı. Tercümanlı muayene imkanı.",
+    "target_audience": "Sığınmacılar, mülteciler, göçmenler",
+    "access_conditions": "Randevulu, pazartesiden cumaya 9:00-11:30 ve 13:30-17:00 arası randevu alınabilir"
+  },
+  "r_0022": {
+    "description": "İş arayanlar için mesleki entegrasyon programı. Atölyeler, uygulamalı eğitimler ve kişisel destek.",
+    "target_audience": "Entegrasyon güçlüğü yaşayan iş arayanlar",
+    "access_conditions": "Kantonal İstihdam Bürosu veya Hospice général aracılığıyla kayıt"
+  },
+  "r_0023": {
+    "description": "Çocuklar ve ergenler için eğitimsel ve sosyal destek. Yurtlar, eğitim atölyeleri, ders desteği ve boş zaman etkinlikleri.",
+    "target_audience": "4-18 yaş arası çocuklar ve ergenler",
+    "access_conditions": "Çocuk Koruma Servisi yönlendirmesiyle"
+  },
+  "r_0024": {
+    "description": "İmad'a bağlı psikososyal acil müdahale birimi. Yoksulluk, aile içi şiddet, kriz durumundaki küçükler ve psikososyal sıkıntı durumlarında müdahale eder. Hemşire ve sosyal hizmet uzmanlarından oluşan ekip.",
+    "target_audience": "Evsiz kişiler",
+    "access_conditions": "Koşulsuz, sokaklarda mobil ekip"
+  },
+  "r_0025": {
+    "description": "Bağımlılık sorunu yaşayan kişilere destek. Muayene, ikame tedavi programı, arındırma ve yeniden entegrasyon. Ayakta tedavi merkezi.",
+    "target_audience": "Bağımlılık sorunu yaşayan kişiler",
+    "access_conditions": "Kabul için randevusuz, muayeneler randevulu"
+  },
+  "r_0026": {
+    "description": "Yaşlılar için hizmetler: evde yardım, sosyal etkinlikler, hukuki ve mali danışmanlık, kurslar ve atölyeler.",
+    "target_audience": "60 yaş ve üzeri kişiler",
+    "access_conditions": "60 yaş ve üzeri kişiler"
+  },
+  "r_0027": {
+    "description": "Bains des Pâquis'de ücretsiz WiFi erişimi. Alanda serbest erişimli bağlantı noktası.",
+    "target_audience": "Herkese açık",
+    "access_conditions": "Serbest erişim"
+  },
+  "r_0028": {
+    "description": "7/24 evde doktor hizmeti. Evde veya muayenehanede acil tıbbi muayene, haftanın 7 günü.",
+    "target_audience": "Acil tıbbi muayeneye ihtiyacı olan herkes",
+    "access_conditions": "Telefonla arama, tıbbi masraflar hastaya aittir"
+  },
+  "r_0029": {
+    "description": "Zor durumda olan kişiler için gündüz kabul merkezi. Sıcak ortam, kahve, duş, çamaşır, internet erişimi ve etkinlikler.",
+    "target_audience": "Zor durumda olan kişiler",
+    "access_conditions": "Koşulsuz, serbest kabul"
+  },
+  "r_0030": {
+    "description": "Göçmenler için ücretsiz veya indirimli psikolojik danışmanlık. Çok dilli psikolojik destek.",
+    "target_audience": "Psikolojik zorluk yaşayan göçmenler",
+    "access_conditions": "Randevulu, gelire göre ücretlendirme"
+  },
+  "r_0031": {
+    "description": "Ücretsiz erişimli belediye kütüphanesi. Kitap, DVD, CD ödünç verme. Çalışma alanı, ücretsiz WiFi, gazete ve dergiler. Kültürel atölyeler.",
+    "target_audience": "Herkese açık",
+    "access_conditions": "Serbest erişim, ödünç alma için ücretsiz kart"
+  },
+  "r_0032": {
+    "description": "İş arama konusunda kamu yardım hizmeti. İşsizlik kaydı, iş ilanları, mesleki yönlendirme danışmanlığı, entegrasyon önlemleri.",
+    "target_audience": "Genève'de ikamet eden iş arayanlar",
+    "access_conditions": "Genève kantonu sakinleri, kayıt zorunlu"
+  },
+  "r_0033": {
+    "description": "Göçmenler için hukuki ve sosyal danışma hizmeti. İdari yardım, yabancılar hukuku, aile birleşimi.",
+    "target_audience": "Göçmenler, belgesiz göçmenler",
+    "access_conditions": "Randevulu veya randevusuz danışma hizmeti"
+  },
+  "r_0034": {
+    "description": "Uyuşturucu kullanan kişiler için düşük eşikli kabul alanı. Steril malzeme, muayene, dinlenme alanı ve destek.",
+    "target_audience": "Uyuşturucu kullanan kişiler",
+    "access_conditions": "Koşulsuz, anonim kabul"
+  },
+  "r_0035": {
+    "description": "Pâquis semti toplum merkezi. Kültürel etkinlikler, dil kursları, yaratıcı atölyeler, çocuk alanı ve ödev yardımı.",
+    "target_audience": "Pâquis semti sakinleri",
+    "access_conditions": "Herkese açık"
+  },
+  "r_0036": {
+    "description": "Zor durumda olan kişiler için ücretsiz giysi dağıtımı. Mevsime göre erkek, kadın ve çocuk giysileri.",
+    "target_audience": "Zor durumda olan kişiler",
+    "access_conditions": "Sosyal hizmet kurumundan alınan belge ibrazı ile"
+  },
+  "r_0037": {
+    "description": "Yetişkin göçmenler için yabancı dil olarak Fransızca kursları. Başlangıçtan ileri düzeye. Gündüz ve akşam kursları.",
+    "target_audience": "Fransızca öğrenmek isteyen yetişkin göçmenler",
+    "access_conditions": "Kayıt ve seviye testi, indirimli ücret imkanı"
+  },
+  "r_0038": {
+    "description": "Zor durumda olan kişiler için sıcak yemek dağıtımı (çorba ve ekmek). Ücretsiz ve koşulsuz hizmet.",
+    "target_audience": "Herkese açık",
+    "access_conditions": "Koşulsuz, ilk gelen ilk alır"
+  },
+  "r_0039": {
+    "description": "Kadınlar için bilgilendirme ve danışmanlık merkezi. Hukuki, sosyal ve mesleki danışmanlık. Şiddet durumlarında destek.",
+    "target_audience": "Her yaştan ve durumdan kadınlar",
+    "access_conditions": "Tüm kadınlara açık, bazı danışmalar randevulu"
+  },
+  "r_0040": {
+    "description": "Hospice général'in Plainpalais şubesi. Mali yardım, sosyal destek, konut ve mesleki entegrasyon yardımı.",
+    "target_audience": "Zorluk yaşayan Plainpalais semti sakinleri",
+    "access_conditions": "Randevulu, Genève kantonu sakinleri"
+  },
+  "r_0041": {
+    "description": "Perinatal sağlığı destekleyen bağımsız ebe derneği. Haftanın 7 günü telefon danışma hattı, ebelerle ücretsiz kabul alanları, gebelik danışmanlığı, emzirme, doğum sonrası takip.",
+    "target_audience": "Hamile kadınlar ve yeni ebeveynler",
+    "access_conditions": "Danışma hizmetleri için randevusuz, ücretsiz. Telefon hattı Pzt-Cum 8:00-20:00, Cmt-Paz 9:00-12:00 ve 17:00-20:00"
+  },
+  "r_0042": {
+    "description": "Zor durumda olan kişiler için gündüz kabul alanı. Kahvaltı, kahve, dinlenme alanı, etkinlikler ve sosyal yönlendirme.",
+    "target_audience": "Evsiz kişiler",
+    "access_conditions": "Koşulsuz, koşulsuz kabul"
+  },
+  "r_0043": {
+    "description": "Dezavantajlı yetişkinler ve küçükler için hukuki koruma. Kayyımlık, vesayet ve koruma tedbirleri.",
+    "target_audience": "Hukuki korumaya ihtiyacı olan dezavantajlı yetişkinler ve küçükler",
+    "access_conditions": "İhbar veya doğrudan başvuru ile"
+  },
+  "r_0044": {
+    "description": "Place du Molard'da, Genève eski şehir merkezinde ücretsiz WiFi erişim noktası. Genève Belediyesi ağı.",
+    "target_audience": "Herkese açık",
+    "access_conditions": "Serbest erişim"
+  },
+  "r_0045": {
+    "description": "Zorluk yaşayan çocuklu kadınlar için barınma, çoğunlukla aile içi şiddet mağdurları. Psikososyal destek, sosyal ve mesleki entegrasyon yardımı, anne-çocuk bağının güçlendirilmesi. Kreş mevcuttur.",
+    "target_audience": "Zor durumda olan yalnız kadınlar veya çocuklu kadınlar",
+    "access_conditions": "Sosyal hizmet yönlendirmesiyle, durum değerlendirmesi"
+  },
+  "r_0046": {
+    "description": "Bir yetişkin eşliğinde 5 yaşına kadar çocuklar için ücretsiz, anonim ve kayıtsız kabul alanı. Çocuklar ve ebeveynler için dinleme ve destek mekanı.",
+    "target_audience": "0-5 yaş arası çocuklar ve ebeveynleri veya refakatçileri",
+    "access_conditions": "Ücretsiz, anonim, kayıtsız, çocuklar yetişkin eşliğinde"
+  },
+  "r_0047": {
+    "description": "Kiracılar için hukuki danışmanlık. Ev sahibiyle anlaşmazlık, kira artışı, kira sözleşmesi feshi durumlarında yardım.",
+    "target_audience": "Genève kantonu kiracıları",
+    "access_conditions": "Derneğe üyelik (düşük aidat)"
+  },
+  "r_0048": {
+    "description": "Genève hayır kurumlarına gıda toplama ve yeniden dağıtım. Gıda yoksulluğu ve israfla mücadele.",
+    "target_audience": "Hayır kurumları ve gıda yoksulluğu yaşayan kişiler",
+    "access_conditions": "Ortak dernekler aracılığıyla erişilebilir"
+  },
+  "r_0049": {
+    "description": "Diş bakımı sunan üniversite diş kliniği. Pazartesiden cumaya 8:00-15:30 arası randevusuz kabul. Acil diş müdahaleleri ve rutin bakım.",
+    "target_audience": "Herkese açık, diş sigortası olmayan veya düşük gelirli kişiler",
+    "access_conditions": "Pazartesiden cumaya 8:00-15:30 arası randevusuz kabul"
+  },
+  "r_0050": {
+    "description": "Zor durumda olan kişiler için kabul, destek ve sosyo-mesleki yeniden entegrasyon merkezi. Ücretsiz kahvaltılar (haftada 150-200), sosyal etkinlikler ve yeniden entegrasyon stajları.",
+    "target_audience": "Zor durumda olan kişiler",
+    "access_conditions": "Koşulsuz, serbest kabul"
+  },
+  "r_0051": {
+    "description": "Her yaş, her kültür ve her sosyal kesimden kişiler için kabul, eğlence, buluşma ve dinlenme alanı. Kültürel ve sosyal etkinlikler.",
+    "target_audience": "Eaux-Vives semti sakinleri ve herkese açık",
+    "access_conditions": "Herkese açık, serbest kabul"
+  },
+  "r_0052": {
+    "description": "Kadınlar ve aileler için kabul ve yönlendirme alanı. Hukuki danışmanlık (aile hukuku, boşanma, aile içi şiddet, oturma izni), mesleki yönlendirme ve psikososyal destek.",
+    "target_audience": "Kadınlar ve aileler",
+    "access_conditions": "Telefonla hukuki danışma: Salı 11:00-13:00, Çarşamba 14:00-16:00, Perşembe 12:00-14:00, 022 740 31 11. Randevulu danışmalar."
+  },
+  "r_0053": {
+    "description": "Batı İsviçre'de gençlerde intihar önleme derneği. Farkındalık, atölyeler, önleme modülleri ve yardım kuruluşlarına yönlendirme. Acil durumda 143'ü arayın.",
+    "target_audience": "15-29 yaş arası gençler, intihar önleme",
+    "access_conditions": "Hafta içi açık büro. Acil durumda 143'ü arayın (7/24)"
+  },
+  "r_0054": {
+    "description": "HUG Ruh Sağlığı ve Psikiyatri Bölümü. Psikiyatrik ve psikolojik muayeneler, anksiyete bozuklukları, depresyon, travma tedavisi.",
+    "target_audience": "Ruhsal bozukluk yaşayan kişiler",
+    "access_conditions": "Randevulu, doktor sevki ile"
+  },
+  "r_0055": {
+    "description": "AVS/AI yararlanıcıları için ek mali yardımlar. Sağlık sigortası primleri ve kira ödemesinde yardım.",
+    "target_audience": "Düşük gelirli AVS/AI yararlanıcıları",
+    "access_conditions": "AVS/AI yararlanıcıları, Genève kantonu sakinleri"
+  },
+  "r_0056": {
+    "description": "Geliri asgari geçim düzeyinde veya hemen üzerinde olan kişiler için ayni yardım ve acil fatura ödemesi.",
+    "target_audience": "Geçici mali zorluk yaşayan kişiler",
+    "access_conditions": "geneve@secours-d-hiver.ch adresine e-posta ile başvuru. Telefon yalnızca cuma günleri."
+  },
+  "r_0057": {
+    "description": "Çocuk ve ergenlere yönelik Cenevre derneği. Psikopedagojik merkez (13-18 yaş), Café Ados, refakatsiz küçüklere destek, önleme faaliyetleri.",
+    "target_audience": "12-18 yaş arası çocuklar ve ergenler",
+    "access_conditions": "Kayıt veya yönlendirme ile"
+  },
+  "r_0058": {
+    "description": "İş piyasasından uzak kişiler için mesleki entegrasyon programları. Yetkinlik değerlendirmesi, iş koçluğu, stajlar.",
+    "target_audience": "İş piyasasından uzak kişiler",
+    "access_conditions": "Hospice général veya OCE aracılığıyla kayıt"
+  },
+  "r_0059": {
+    "description": "Mültecilere ve göçmenlere yardım. Fransızca kursları, entegrasyon yardımı, iltica hukuku danışmanlığı ve sosyal destek.",
+    "target_audience": "Mülteciler ve göçmenler",
+    "access_conditions": "Mülteciler ve göçmenler, kayıt gerekli"
+  },
+  "r_0060": {
+    "description": "Jonction toplum merkezi. Her yaştan kişi için sosyal, sivil ve kültürel etkinlikler. Serbest kabul, 9-99 yaş sakinlere açık atölyeler.",
+    "target_audience": "Jonction semti sakinleri",
+    "access_conditions": "Herkese açık"
+  },
+  "r_0061": {
+    "description": "Cornavin garının doğu kanadı 1. katta hijyen alanı (WC/duş). CFF tarafından işletilmektedir. Ücretli giriş (2 CHF), SwissPass genel abonelik sahipleri için ücretsiz. Gar meydanı altında daha ucuz WC'ler (1 CHF) bulunmaktadır.",
+    "target_audience": "Herkese açık",
+    "access_conditions": "Ücretli giriş (2 CHF), SwissPass genel abonelik ile ücretsiz"
+  },
+  "r_0062": {
+    "description": "Parc des Bastions'da, Mur des Réformateurs yakınında ücretsiz halka açık tuvaletler. Engelli erişimine uygundur.",
+    "target_audience": "Herkese açık",
+    "access_conditions": "Serbest ve ücretsiz erişim"
+  },
+  "r_0063": {
+    "description": "Plaine de Plainpalais'de, bit pazarı yakınında ücretsiz halka açık tuvaletler. Belediye hizmetleri tarafından düzenli bakım.",
+    "target_audience": "Herkese açık",
+    "access_conditions": "Serbest ve ücretsiz erişim"
+  },
+  "r_0064": {
+    "description": "Jardin Anglais'de, Horloge Fleurie yakınında halka açık ücretsiz içme suyu çeşmesi. Yıl boyunca taze su.",
+    "target_audience": "Herkese açık",
+    "access_conditions": "7/24 serbest erişim"
+  },
+  "r_0065": {
+    "description": "Genève'nin en eski meydanında halka açık içme suyu çeşmesi. Sürekli ücretsiz ve içilebilir su.",
+    "target_audience": "Herkese açık",
+    "access_conditions": "7/24 serbest erişim"
+  },
+  "r_0066": {
+    "description": "Parc des Eaux-Vives'de, göl kıyısında halka açık içme suyu çeşmesi. Yürüyüş sırasında serinlemek için ideal.",
+    "target_audience": "Herkese açık",
+    "access_conditions": "7/24 serbest erişim"
+  },
+  "r_0067": {
+    "description": "Servette semtinin kalbinde ücretsiz belediye kütüphanesi. Ayrı yetişkin ve gençlik alanları, kitap ve medya ödünç verme, ücretsiz WiFi ve kültürel etkinlikler.",
+    "target_audience": "Herkese açık",
+    "access_conditions": "Serbest erişim, ödünç alma için ücretsiz kart"
+  },
+  "r_0068": {
+    "description": "Eaux-Vives semtinde ücretsiz belediye kütüphanesi. Yetişkin ve gençlik alanları, kitap ve medya ödünç verme, ücretsiz WiFi.",
+    "target_audience": "Herkese açık",
+    "access_conditions": "Serbest erişim, ödünç alma için ücretsiz kart"
+  },
+  "r_0069": {
+    "description": "Jonction semtinde ücretsiz belediye kütüphanesi. Geniş kitap seçeneği, gençlik alanı, etkinlikler ve ücretsiz WiFi.",
+    "target_audience": "Herkese açık",
+    "access_conditions": "Serbest erişim, ödünç alma için ücretsiz kart"
+  },
+  "r_0070": {
+    "description": "Kozmopolit Pâquis semtinin kalbinde ücretsiz belediye kütüphanesi. Birçok dilde kitap ödünç verme, ücretsiz WiFi ve etkinlikler.",
+    "target_audience": "Herkese açık",
+    "access_conditions": "Serbest erişim, ödünç alma için ücretsiz kart"
+  },
+  "r_0071": {
+    "description": "Çocuklar ve aileler için ücretsiz masa oyunu, eğitici oyun ve oyuncak ödünç verme. Yerinde oyun alanı. Refakatli tüm çocuklara açık.",
+    "target_audience": "Çocuklar, aileler, herkese açık",
+    "access_conditions": "Ücretsiz kayıt, ücretsiz ödünç verme"
+  },
+  "r_0072": {
+    "description": "Ücretsiz masa oyunu, oyuncak ve eğitici oyun ödünç veren semt oyuncak kütüphanesi. Samimi oyun alanı ve oyun atölyeleri.",
+    "target_audience": "Çocuklar, aileler, herkese açık",
+    "access_conditions": "Ücretsiz kayıt, ücretsiz ödünç verme"
+  },
+  "r_0073": {
+    "description": "Grottes semtinde kentsel topluluk bostanı. Paylaşımlı parseller, toplu kompost ve ücretsiz bahçecilik atölyeleri.",
+    "target_audience": "Semt sakinleri, bahçecilik meraklıları",
+    "access_conditions": "Serbest erişim, atölyelere kayıtla katılım"
+  },
+  "r_0074": {
+    "description": "Les Artichauts derneği tarafından yönetilen Parc Beaulieu'deki katılımcı kentsel bostan. Her cumartesi öğleden sonra herkese açık ücretsiz bahçecilik atölyeleri. Organik fide üretimi.",
+    "target_audience": "Semt sakinleri, herkese açık",
+    "access_conditions": "Serbest erişim, cumartesi 14:00-17:00 arası ücretsiz bahçecilik atölyeleri (şubat ortasından ekim sonuna)"
+  },
+  "r_0075": {
+    "description": "Çalışanlar için sendika danışma hizmeti. İş hukuku danışmanlığı, hak savunuculuğu, işten çıkarma veya iş anlaşmazlığı durumlarında yardım.",
+    "target_audience": "Her sektörden çalışanlar",
+    "access_conditions": "Tüm çalışanlara açık, hukuki hizmetler için üyelik"
+  },
+  "r_0076": {
+    "description": "Meslekler arası işçi sendikası. Hukuki danışma hizmetleri, iş hakları savunuculuğu, toplu iş sözleşmeleri.",
+    "target_audience": "Her sektörden çalışanlar",
+    "access_conditions": "Tüm çalışanlara açık, hukuki hizmetler için üyelik"
+  },
+  "r_0077": {
+    "description": "Cezai suç mağdurları için ücretsiz ve gizli danışmanlık merkezi. Psikolojik, hukuki ve sosyal destek. Acil mali yardım.",
+    "target_audience": "Cezai suç mağdurları ve yakınları",
+    "access_conditions": "Ücretsiz ve gizli, randevulu danışmalar"
+  },
+  "r_0078": {
+    "description": "Zorluk, kaygı veya yalnızlık yaşayan herkes için 7/24 telefon dinleme hizmeti. Anonim, gizli ve ücretsiz dinleme.",
+    "target_audience": "Sıkıntı, yalnızlık veya kaygı yaşayan herkes",
+    "access_conditions": "143'ü arayın, ücretsiz, anonim ve gizli 7/24"
+  },
+  "r_0079": {
+    "description": "Çocuklar ve gençler için 7/24 yardım hattı. Kişisel, ailevi veya okul sorunlarında dinleme, danışmanlık ve yönlendirme.",
+    "target_audience": "25 yaşına kadar çocuklar ve gençler",
+    "access_conditions": "147'yi arayın, ücretsiz, anonim ve gizli 7/24"
+  },
+  "r_0080": {
+    "description": "Cinsel ve üreme sağlığında ücretsiz ve gizli danışmanlık. Doğum kontrolü, gebelik, CYBE, evlilik danışmanlığı ve cinsel eğitim. Randevusuz acil doğum kontrolü.",
+    "target_audience": "Herkes, özellikle gençler ve kadınlar",
+    "access_conditions": "Ücretsiz, gizli, randevulu (acil doğum kontrolü için randevusuz)"
+  },
+  "r_0081": {
+    "description": "Hôpitaux Universitaires de Genève'de anonim ve gizli HIV ve CBYE testi. Hızlı HIV testi (55 CHF), kapsamlı HIV/CBYE taraması (155 CHF). HIV pozitif kişiler için takip muayeneleri ve tedavi.",
+    "target_audience": "HIV/CBYE testi yaptırmak isteyen herkes",
+    "access_conditions": "Randevulu anonim tarama (www.testvih.ch veya telefonla), hızlı HIV testi 55 CHF'den itibaren"
+  },
+  "r_0082": {
+    "description": "Cité Générations sağlık merkezine (Onex Kliniği ve Acil Servisi) entegre eczane. İlaç danışmanlığı, tedavi takibi ve yetişkin-çocuk acil servisleriyle yakınlık.",
+    "target_audience": "Herkese açık, Cité Générations sağlık merkezi hastaları",
+    "access_conditions": "Herkese açık, koşulsuz"
+  },
+  "r_0083": {
+    "description": "Evsiz kişiler için merkezi acil barınma yer tahsis hizmeti. Ağ içinde yer almak için merkezi arayın (Châtelaine sığınakları, Richemont, dernek yurtları). Toplam 184 yatak kapasitesi.",
+    "target_audience": "Evsiz kişiler, acil durumdakiler",
+    "access_conditions": "Yer almak için ücretsiz 0800 22 22 10 numarasını arayın, koşulsuz kabul"
+  },
+  "r_0084": {
+    "description": "Temple de la Servette'de zor durumda olan kişiler için koşulsuz gündüz kabul merkezi. Dayanışma yemekleri, sıcak içecekler, yazıcılık hizmeti (CV, mektuplar), Fransızca, İngilizce ve bilgisayar atölyeleri, ücretsiz hukuki danışmanlık.",
+    "target_audience": "Zor durumda olan kişiler, göçmenler, evsizler",
+    "access_conditions": "Koşulsuz, koşulsuz kabul"
+  },
+  "r_0085": {
+    "description": "Léman gölü kıyısında simge halka açık hamam. Kumsal, havuzlar, atlama kuleleri (3-10m), sauna ve hamam, halk büfesi. Çok uygun fiyatlı giriş (yazın 2 CHF, kışın 1 CHF).",
+    "target_audience": "Herkese açık",
+    "access_conditions": "Kamusal alanlara ücretsiz erişim, giriş yazın 2 CHF ve kışın 1 CHF"
+  },
+  "r_0086": {
+    "description": "Aileler ve çocuklar için ideal, göl kıyısında ücretsiz halka açık plaj. Çocuk oyun alanı, sığ havuz, yeşil alanlar ve spor sahaları.",
+    "target_audience": "Aileler, çocuklar, herkese açık",
+    "access_conditions": "Serbest ve ücretsiz erişim"
+  },
+  "r_0087": {
+    "description": "Parc des Bastions'da halka açık ve ücretsiz spor alanları. Dev satranç, masa tenisi masaları, petank ve açık hava fitness alanı.",
+    "target_audience": "Herkese açık",
+    "access_conditions": "Serbest ve ücretsiz erişim"
+  },
+  "r_0088": {
+    "description": "Aile, sosyal, komşuluk veya iş anlaşmazlıklarını çözmek için ücretsiz arabuluculuk hizmeti. Cezai, hukuki ve sağlık arabuluculuğu.",
+    "target_audience": "Genève Belediyesi sakinleri",
+    "access_conditions": "Ücretsiz, randevulu"
+  },
+  "r_0089": {
+    "description": "Yaşlılar için kabul, bilgilendirme ve etkinlik alanı. Ücretsiz hizmet bilgi noktası, idari yardım, kurslar, atölyeler, konferanslar, sağlık danışmanlığı ve kuşaklararası buluşmalar.",
+    "target_audience": "Yaşlılar, emekliler ve yakınları",
+    "access_conditions": "Tüm yaşlılara ve yakınlarına açık, serbest ve ücretsiz erişim"
+  },
+  "r_0090": {
+    "description": "Bibliothèque de la Cité bünyesinde ücretsiz ortak çalışma alanı. WiFi, elektrik prizleri, çalışma masaları ve sakin ortam.",
+    "target_audience": "Öğrenciler, serbest çalışanlar, iş arayanlar, herkese açık",
+    "access_conditions": "Serbest ve ücretsiz erişim, WiFi mevcut"
+  },
+  "r_0091": {
+    "description": "FRC Genève tarafından düzenlenen ücretsiz ve gezici tamir atölyeleri. Gönüllü uzmanlar elektronik cihazları, kıyafetleri ve bisikletleri tamir eder. Dönemsel etkinlikler (tarih ve yer için siteye bakınız).",
+    "target_audience": "Herkese açık",
+    "access_conditions": "Serbest ve ücretsiz erişim, ayda bir cumartesi (siteye bakınız)"
+  },
+  "r_0092": {
+    "description": "Carouge'da ücretsiz tamir atölyesi. Gönüllüler kırık eşyalarınızı tamir etmenize yardımcı olur: küçük cihazlar, dikiş, bilgisayar, bisiklet.",
+    "target_audience": "Herkese açık",
+    "access_conditions": "Serbest ve ücretsiz erişim, ayda bir cumartesi (siteye bakınız)"
+  },
+  "r_0093": {
+    "description": "Göçmenler için etnopsikolojik danışma ve araştırma merkezi. Köken kültürüne uygun psikoterapötik destek, sürgün ve entegrasyon travmalarında yardım.",
+    "target_audience": "Göçmenler, kültürlerarası çiftler, kültürlerarası durumda aileler",
+    "access_conditions": "Randevulu, göçmen ve iki kültürlü kişiler için danışmalar"
+  },
+  "r_0094": {
+    "description": "Place de Neuve'de, Grand Théâtre ve Musée Rath yakınında ücretsiz halka açık tuvaletler. Engelli erişimine uygundur.",
+    "target_audience": "Herkese açık",
+    "access_conditions": "Serbest ve ücretsiz erişim"
+  },
+  "r_0095": {
+    "description": "Genève'nin en büyük göl kıyısı parkı olan Parc de la Grange'da ücretsiz içme suyu çeşmesi. Yıl boyunca taze su erişimi.",
+    "target_audience": "Herkese açık",
+    "access_conditions": "7/24 serbest erişim"
+  },
+  "r_0096": {
+    "description": "Quai du Mont-Blanc'da, Jet d'eau yakınında ücretsiz halka açık tuvaletler. Yıl boyunca açık.",
+    "target_audience": "Herkese açık",
+    "access_conditions": "Serbest ve ücretsiz erişim"
+  },
+  "r_0097": {
+    "description": "Arve ve Rhône nehirlerinin birleştiği noktada paylaşımlı kentsel bostan. Permakültür atölyeleri, toplu kompost ve katılımcı bahçecilik.",
+    "target_audience": "Semt sakinleri, herkese açık",
+    "access_conditions": "Serbest erişim, başvuru ile katılım"
+  },
+  "r_0098": {
+    "description": "Cornavin Garı önünde halka açık içme suyu çeşmesi. Genève merkezinde taze ve ücretsiz su ikmal noktası.",
+    "target_audience": "Herkese açık",
+    "access_conditions": "7/24 serbest erişim"
+  },
+  "r_0099": {
+    "description": "Her yaştan kişi için ücretsiz masa oyunu, yapboz ve oyuncak ödünç veren semt oyuncak kütüphanesi. Ailelere açık oyun öğleden sonraları.",
+    "target_audience": "Çocuklar, aileler, herkese açık",
+    "access_conditions": "Yerinde oyun ücretsiz, ödünç alma için yıllık 30 CHF abonelik"
+  },
+  "r_0100": {
+    "description": "Genève Belediyesi tarafından Parc de la Grange'da sunulan ücretsiz WiFi erişimi. Genève'nin en güzel parklarından birinde serbest bağlantı.",
+    "target_audience": "Herkese açık",
+    "access_conditions": "Serbest erişim"
+  },
+  "r_0101": {
+    "description": "LGBTIQ+ topluluğuna destek derneği. Checkpoint Genève (HIV/CBYE taraması ve psikolojik destek sunan toplum sağlık merkezi), Le Refuge (genç LGBTIQ+ barınması), destek grupları ve sosyal etkinlikler.",
+    "target_audience": "LGBT+ topluluğu ve ilgili herkes",
+    "access_conditions": "Herkese açık, ücretsiz ve anonim tarama"
+  },
+  "r_0102": {
+    "description": "Her yaştan kişiye etkinlikler sunan Saint-Jean toplum merkezi. Atölyeler, dil kursları, ders desteği ve kültürel etkinlikler.",
+    "target_audience": "Saint-Jean semti sakinleri, çocuklar, ergenler ve yetişkinler",
+    "access_conditions": "Semt sakinlerine açık"
+  },
+  "r_0103": {
+    "description": "Kanser hastalarına ücretsiz destek ve bilgilendirme. Psiko-onkolojik danışmanlık, destek grupları ve sosyal destek.",
+    "target_audience": "Kanser hastaları ve yakınları",
+    "access_conditions": "Ücretsiz, randevulu"
+  },
+  "r_0104": {
+    "description": "Ruhsal sıkıntı yaşayan yetişkinler için ücretsiz kriz psikiyatrisi muayeneleri ve ayakta tedavi takibi. HUG'a bağlı hizmet.",
+    "target_audience": "Ruhsal kriz durumundaki yetişkinler",
+    "access_conditions": "Ücretsiz, aciliyete göre randevulu veya randevusuz"
+  },
+  "r_0105": {
+    "description": "Diyabet hastaları ve yakınları için ücretsiz destek. Beslenme danışmanlığı, paylaşım grupları ve hastalık hakkında bilgilendirme.",
+    "target_audience": "Diyabet hastaları ve yakınları",
+    "access_conditions": "Ücretsiz, randevulu veya telefon danışma hattı"
+  },
+  "r_0106": {
+    "description": "Sağlık sigortası olmayan veya zor durumda olan kişiler için birinci basamak sağlık hizmetleri. Genel muayene ve yönlendirme.",
+    "target_audience": "Sağlık sigortası olmayan veya zor durumda olan kişiler",
+    "access_conditions": "Sağlık sigortası olmayan kişilere açık, randevulu"
+  },
+  "r_0107": {
+    "description": "Cenevre evde bakım kurumu. Yaşlı, hasta veya iyileşme sürecindeki kişiler için hemşirelik bakımı, evde yardım ve destek.",
+    "target_audience": "Evde bakıma ihtiyacı olan yaşlı, hasta veya iyileşme sürecindeki kişiler",
+    "access_conditions": "Doktor reçetesiyle veya doğrudan başvuru ile"
+  },
+  "r_0108": {
+    "description": "Alzheimer hastalarının aileleri ve yakınları için ücretsiz destek. Destek grupları, danışmanlık ve uzman hizmetlere yönlendirme.",
+    "target_audience": "Alzheimer veya demans hastalarının aileleri ve yakınları",
+    "access_conditions": "Ücretsiz, randevulu"
+  },
+  "r_0109": {
+    "description": "Kantonal çocuk koruma hizmeti. Tehlike durumu değerlendirmesi, koruma tedbirleri ve zorlu durumdaki ailelere destek.",
+    "target_audience": "Tehlikeli veya zorlu durumda olan çocuklar ve aileler",
+    "access_conditions": "Kantonal hizmet, ihbar veya başvuru ile erişim"
+  },
+  "r_0110": {
+    "description": "Zorluk yaşayan gençler için eğitimsel destek ve ders yardımı. Atölyeler, eğitim barınması ve yeniden entegrasyon programları.",
+    "target_audience": "Eğitimsel, sosyal veya ailevi zorluk yaşayan gençler",
+    "access_conditions": "SPMi yönlendirmesiyle veya doğrudan başvuru ile"
+  },
+  "r_0111": {
+    "description": "0-6 yaş arası çocuklar ve refakatçileri için ücretsiz sanat alanı. Parc de la Perle du Lac'ta resim, heykel ve müzik atölyeleri.",
+    "target_audience": "Bir yetişkin eşliğinde 0-6 yaş arası çocuklar",
+    "access_conditions": "Ücretsiz, kayıtsız, çocuklar refakatli"
+  },
+  "r_0112": {
+    "description": "0-4 yaş arası çocuklar için ebeveyn-çocuk kabul alanı. Serbest oyun alanı, ebeveynler arası paylaşım ve sıcak bir ortamda ebeveynlik desteği.",
+    "target_audience": "Ebeveynler ve 0-4 yaş arası çocuklar",
+    "access_conditions": "Ücretsiz, kayıtsız, çocuk bir ebeveyni eşliğinde"
+  },
+  "r_0113": {
+    "description": "Çocuklar ve aileler için ücretsiz oyun ve oyuncak ödünç verme. Geniş masa oyunu, eğitici oyun ve her yaş için oyuncak koleksiyonu.",
+    "target_audience": "Çocuklar ve aileler",
+    "access_conditions": "Ücretsiz kayıt, Carouge sakinleri için ücretsiz oyun ödünç verme"
+  },
+  "r_0114": {
+    "description": "Genève'de serbest kullanımlı ücretsiz bisiklet ödünç verme hizmeti. Günlük şehir içi ulaşım için klasik ve elektrikli bisikletler.",
+    "target_audience": "Herkese açık",
+    "access_conditions": "Ücretsiz, kimlik belgesi ve depozito gerekli"
+  },
+  "r_0115": {
+    "description": "Düşük gelirli kişiler için Genève toplu taşıma aboneliklerinde indirim. Aylık ve yıllık aboneliklerde %50'ye kadar indirim.",
+    "target_audience": "Genève kantonunda ikamet eden düşük gelirli kişiler",
+    "access_conditions": "Gelir koşuluna bağlı, belge gerekli"
+  },
+  "r_0116": {
+    "description": "Sosyal yardım yararlanıcıları için toplu taşıma masraflarının karşılanması. TPG aboneliği mali yardım kapsamında dahildir.",
+    "target_audience": "Sosyal yardım yararlanıcıları",
+    "access_conditions": "Hospice général sosyal yardım yararlanıcılarına özel"
+  },
+  "r_0117": {
+    "description": "Cornavin Garı'nda SBB-FREE ücretsiz WiFi erişimi. Garda ve peronlarda sınırsız bağlantı.",
+    "target_audience": "Herkese açık",
+    "access_conditions": "Ücretsiz, SBB-FREE ağı, şifresiz"
+  },
+  "r_0118": {
+    "description": "Jardin Anglais'de Genève Belediyesi ücretsiz WiFi erişimi. Jet d'eau ve göl manzaralı açık hava erişim noktası.",
+    "target_audience": "Herkese açık",
+    "access_conditions": "Ücretsiz, Genève Belediyesi WiFi ağı"
+  },
+  "r_0119": {
+    "description": "Plaine de Plainpalais'de Genève Belediyesi ücretsiz WiFi erişimi. Bu geniş kentsel alanda geniş kapsama alanı.",
+    "target_audience": "Herkese açık",
+    "access_conditions": "Ücretsiz, Genève Belediyesi WiFi ağı"
+  },
+  "r_0120": {
+    "description": "Ücretsiz WiFi ve halka açık çalışma alanları sunan üniversite binası. Kütüphane, çalışma salonları ve kafeterya erişilebilir.",
+    "target_audience": "Öğrenciler ve çalışma alanı isteyen herkes",
+    "access_conditions": "Ücretsiz, binanın kamusal alanlarına serbest erişim"
+  },
+  "r_0121": {
+    "description": "Sağlık sorunu yaşayan veya engelli kişiler için mesleki yeniden entegrasyon. Kişisel, mesleki ve sosyal beceri geliştirme, kariyer planlaması, işletmelerde staj ve işe yerleştirme.",
+    "target_audience": "İş arayan engelli veya sağlık sorunu yaşayan kişiler",
+    "access_conditions": "Ücretsiz, AI, işsizlik veya sosyal yardım yönlendirmesiyle"
+  },
+  "r_0122": {
+    "description": "Az nitelikli veya niteliksiz, iş bulmakta zorlanan kadınlar için eğitim alanı. Fransızca, bilgisayar, temel beceriler ve özerklik ile mesleki entegrasyona yönelik destek.",
+    "target_audience": "Zor durumda olan az nitelikli veya niteliksiz kadınlar",
+    "access_conditions": "Çoğu eğitim ücretsiz, sekreterlikten kayıt gerekli"
+  },
+  "r_0123": {
+    "description": "25 yaş altı gençlerin ikili çıraklık başarısı için ve 50 yaş üstü kişilerin işe dönüşü için mesleki destek. Bireysel ve grup koçluğu.",
+    "target_audience": "Eğitimsiz 25 yaş altı gençler ve iş arayan 50 yaş üstü kişiler",
+    "access_conditions": "Genève'de ikamet eden 25 yaş altı gençler ve 50 yaş üstü kişiler için ücretsiz"
+  },
+  "r_0124": {
+    "description": "80'den fazla yerel ve uluslararası derneğe ev sahipliği yapan bilgi, iletişim ve dernek eğitimi merkezi. Etkinlikler, kongreler ve dernek faaliyetleri için kiralanabilecek 13 salon.",
+    "target_audience": "Dernekler ve semt sakinleri",
+    "access_conditions": "Ortak alanlara serbest erişim, salonlar için rezervasyon"
+  },
+  "r_0125": {
+    "description": "Her yaştan kişiye sosyokültürel etkinlikler sunan semt yaşam merkezi. Yaratıcı atölyeler, dil kursları, topluluk etkinlikleri ve kafe alanı.",
+    "target_audience": "Carouge ve çevresi sakinleri, her yaş",
+    "access_conditions": "Serbest erişim, bazı etkinlikler kayıtlı"
+  },
+  "r_0126": {
+    "description": "Çocuklar, ergenler ve yetişkinler için etkinlikler sunan Vernier toplum alanı. Ders desteği, atölyeler, geziler ve kültürlerarası etkinlikler.",
+    "target_audience": "Vernier sakinleri, her yaş",
+    "access_conditions": "Serbest erişim, bazı etkinlikler kayıtlı"
+  },
+  "r_0127": {
+    "description": "Cinsel şiddet mağdurları için dinleme ve destek hattı. Gizli ortamda psikolojik, hukuki ve sosyal destek.",
+    "target_audience": "Cinsel şiddet mağdurları, ağırlıklı olarak kadınlar ve LGBTIQ+ bireyler",
+    "access_conditions": "Ücretsiz ve gizli, randevulu veya randevusuz"
+  },
+  "r_0128": {
+    "description": "Göçmen kadınlara destek ve güçlendirme derneği. Fransızca kursları, entegrasyon atölyeleri, psikolojik danışmanlık ve topluluk desteği.",
+    "target_audience": "Göçmen ve mülteci kadınlar",
+    "access_conditions": "Ücretsiz veya sembolik ücretli, kurslar için kayıt gerekli"
+  },
+  "r_0129": {
+    "description": "Zorluk yaşayan hamile kadınlara destek ve destek. Dinleme, maddi yardım (bebek giysileri, bebek arabası), danışmanlık ve sosyal hizmetlere yönlendirme.",
+    "target_audience": "Zorluk yaşayan hamile kadınlar ve genç anneler",
+    "access_conditions": "Ücretsiz, randevulu veya telefon danışma hattı"
+  },
+  "r_0130": {
+    "description": "Özerklik kaybı yaşayan yaşlılar için gündüz bakım merkezi. Uyarlanmış etkinlikler, yemek ve bakım hizmetleri, yakın bakıcılar için dinlenme imkanı.",
+    "target_audience": "Özerklik kaybı yaşayan yaşlılar ve yakın bakıcıları",
+    "access_conditions": "Doktor reçetesiyle, gelire göre mali katılım"
+  },
+  "r_0131": {
+    "description": "Genève kantonundaki yakın bakıcılar için destek ve yönlendirme. Dinleme, danışmanlık, destek grupları ve mevcut kaynaklarla bağlantı.",
+    "target_audience": "Yaşlı, hasta veya engelli kişilere bakan yakınları",
+    "access_conditions": "Ücretsiz, randevulu veya randevusuz"
+  },
+  "r_0132": {
+    "description": "Birçok alanda yetişkinler için ücretsiz veya uygun fiyatlı kurslar: diller, bilgisayar, kültür, kişisel gelişim. Diplomasız herkese açık.",
+    "target_audience": "Diplomasız her kesimden yetişkinler",
+    "access_conditions": "Ücretsiz veya uygun fiyatlı, dönemlik kayıt"
+  },
+  "r_0133": {
+    "description": "Uluslararası kuruluşlar ve dernekler için kaynak merkezi. Konferans salonları, ortak çalışma alanları ve idari destek hizmetleri.",
+    "target_audience": "Dernekler, STK'lar ve uluslararası kuruluşlar",
+    "access_conditions": "Ortak alanlara serbest erişim, konferans salonları için rezervasyon"
+  },
+  "r_0134": {
+    "description": "Yabancılar hukuku, iltica, aile birleşimi ve oturma izni konularında yabancı uyruklu kişiler için ücretsiz hukuki danışmanlık.",
+    "target_audience": "Genève kantonunda ikamet eden yabancı uyruklu kişiler",
+    "access_conditions": "Ücretsiz, randevusuz, ilk gelen ilk alır"
+  },
+  "r_0135": {
+    "description": "İltica hukuku ve yabancılar hukuku konusunda uzmanlaşmış ücretsiz hukuki danışma hizmeti. Danışmanlık, prosedürlerde destek ve itiraz dilekçesi hazırlama.",
+    "target_audience": "Sığınmacılar, mülteciler ve başvurusu reddedilmiş kişiler",
+    "access_conditions": "Ücretsiz, detaylı danışmalar randevulu"
+  },
+  "r_0136": {
+    "description": "Engelli kişiler ve yakınları için ücretsiz danışmanlık ve destek. İdari yardım, mesleki yönlendirme ve sosyal destek.",
+    "target_audience": "Engelli kişiler ve yakınları",
+    "access_conditions": "Ücretsiz, randevulu"
+  },
+  "r_0137": {
+    "description": "Ücretsiz girişli doğa tarihi müzesi. Zooloji, mineraloji ve paleontoloji koleksiyonları. Geçici sergiler ve çocuk etkinlikleri.",
+    "target_audience": "Herkese açık, aileler ve okullar",
+    "access_conditions": "Daimi koleksiyonlara ücretsiz giriş"
+  },
+  "r_0138": {
+    "description": "Ücretsiz daimi koleksiyonuyla Genève'nin en büyük müzesi. Prehistoryadan çağdaş sanata güzel sanatlar, uygulamalı sanatlar ve arkeoloji.",
+    "target_audience": "Herkese açık, sanat ve tarih severler",
+    "access_conditions": "Daimi koleksiyon ücretsiz, geçici sergiler ücretli"
+  },
+  "r_0139": {
+    "description": "Ücretsiz girişli İsviçre seramik ve cam müzesi. Palais des Nations karşısında neo-barok bir binada olağanüstü koleksiyonlar.",
+    "target_audience": "Herkese açık, dekoratif sanat severler",
+    "access_conditions": "Daimi koleksiyonlara ücretsiz giriş"
+  },
+  "r_0140": {
+    "description": "Çarşamba öğleden sonra ücretsiz girişli insani yardım müzesi. İnsani yardım tarihi ve güncel zorlukları hakkında interaktif sergiler.",
+    "target_audience": "Herkese açık, insani yardım tarihi meraklıları",
+    "access_conditions": "Çarşamba öğleden sonra ücretsiz giriş (16:00-18:00), indirimli tarife mevcut"
+  },
+  "r_0141": {
+    "description": "Düşük gelirli sakinler için indirimli tarifeli belediye su sporları merkezi. Olimpik havuz, eğitim havuzu ve sağlık alanı.",
+    "target_audience": "Herkese açık, düşük gelirli sakinler için indirimli tarife",
+    "access_conditions": "Cité Seniors kartı veya sağlık sigortası desteği ile indirimli tarife"
+  },
+  "r_0142": {
+    "description": "Kitap, DVD, CD ve ücretsiz internet erişimi sunan serbest erişimli belediye medyateki. Kültürel etkinlikler, hikaye saati ve konforlu okuma alanı.",
+    "target_audience": "Herkese açık, okurlar ve semt aileleri",
+    "access_conditions": "Serbest ve ücretsiz erişim, ödünç alma için ücretsiz kayıt"
+  },
+  "r_0143": {
+    "description": "Zor durumda olan kişiler için akşamları ücretsiz yemek sunan dayanışma restoranı. Toplanan fazla gıdalarla hazırlanan gurme mutfak. Food for Soul ortaklığıyla Mater Fondazione tarafından yönetilmektedir.",
+    "target_audience": "Gıda yoksulluğu yaşayan kişiler",
+    "access_conditions": "Ücretsiz akşam yemekleri, ortak dernekler yönlendirmesiyle"
+  },
+  "r_0144": {
+    "description": "Kaynaksız kişilere öğle saatlerinde ücretsiz yemek servisi yapan halk mutfağı. Çeşitli hayır kuruluşları tarafından günde 250'den fazla yemek servisi. Cornavin garı arkasında buluşma noktası.",
+    "target_audience": "Kaynaksız kişiler, evsizler",
+    "access_conditions": "Koşulsuz, ihtiyacı olan herkese açık"
+  },
+  "r_0145": {
+    "description": "Ücretsiz sıcak yemek, duş, dinleme ve yönlendirme sunan gündüz acil kabul merkezi. Yalnızlık, dışlanma ve marjinalleşme ile karşı karşıya kalan kişiler için koşulsuz kabul. CARE = Caritas Accueil Rencontre Echange.",
+    "target_audience": "Yoksulluk, dışlanma, yalnızlık durumundaki kişiler",
+    "access_conditions": "Koşulsuz, yetişkinler için koşulsuz kabul"
+  },
+  "r_0146": {
+    "description": "Evsiz kişilere sığınak sunan acil barınma yurdu. Ücretsiz kahvaltı ve akşam yemeği. Sınırsız kalış süresi. Kışın gündüz kalma imkanı. Kadınlara özel alan.",
+    "target_audience": "Evsiz kişiler, yalnız kadınlar veya çocuklu kadınlar",
+    "access_conditions": "Başvuru ile barınma, 10-20 yatak, sınırsız süre"
+  },
+  "r_0147": {
+    "description": "Genève Belediyesi acil gece sığınağı. Yatak, akşam yemeği, eşya deposu ve duş ücretsiz sağlanır. 30 günle sınırlı kalış.",
+    "target_audience": "Evsiz kişiler",
+    "access_conditions": "Acil barınma merkezini 0800 22 22 10 (ücretsiz) numaradan arayın. 30 günle sınırlı kalış."
+  },
+  "r_0148": {
+    "description": "Sağlık sigortası veya yasal statüsü olmayan kişiler için ücretsiz ve gizli tıbbi muayene. Birinci basamak bakım, tıbbi ve hemşirelik muayeneleri, uzman hizmetlere yönlendirme. Yılda 4500'den fazla hasta.",
+    "target_audience": "Sağlık sigortası olmayan, yasal statüsü olmayan, evsiz kişiler",
+    "access_conditions": "16 yaşından itibaren, yasal statü koşulu yok, sigortasız kabul edilir, ücretsiz ve gizli"
+  },
+  "r_0149": {
+    "description": "Cinsel sağlık konusunda uzmanlaşmış LGBTIQ+ toplum sağlık merkezi. Ücretsiz ve anonim HIV/CBYE taraması, tedaviler, aşılar, psikolojik danışmanlık. Dialogai hizmeti.",
+    "target_audience": "LGBTIQ+ topluluğu ve cinsel sağlıkla ilgilenen herkes",
+    "access_conditions": "Pazartesi ve perşembe randevusuz ücretsiz ve anonim tarama"
+  },
+  "r_0150": {
+    "description": "Düşük gelirli kişiler için çok uygun fiyatlı temel diş bakımı sunan diş muayenehanesi. Diş muayenesi 40 CHF, diş hijyenisti 20 CHF. Gönüllü diş hekimleri ve hijyenistler.",
+    "target_audience": "Yoksul çalışanlar ve sosyal yardım almayan düşük gelirli kişiler",
+    "access_conditions": "Sosyal Kabul Hizmeti aracılığıyla randevulu. Düşük gelirli kişilere özel."
+  },
+  "r_0151": {
+    "description": "HIV, hepatit ve CBYE ile mücadelede aktif dernek. Ücretsiz psikolojik danışmanlık (ilk seans), gizli tarama, HIV ile yaşayan kişiler için hukuki ve sosyal danışmanlık.",
+    "target_audience": "HIV, CBYE, hepatit ile ilgilenen kişiler",
+    "access_conditions": "İlk psikolojik danışma ücretsiz. Gizli taramalar."
+  },
+  "r_0152": {
+    "description": "Dışlanma durumundaki kadınlar için sosyal ve mesleki destek. İdari işlemlerde yardım, hak bilgilendirmesi, mesleki yeniden yönlendirme. Telefon dinleme ve destek.",
+    "target_audience": "Sosyal veya mesleki dışlanma durumundaki kadınlar",
+    "access_conditions": "Ücretsiz, belirtilen saatlerde telefon danışma hattı"
+  },
+  "r_0153": {
+    "description": "Şiddet ve insan ticareti mağduru kadınlar için, çocuklu veya çocuksuz sığınak. Yaklaşık 30 kadın kapasiteli psikososyal takipli konut barınma. Fransızca kursları ve mesleki eğitim.",
+    "target_audience": "Şiddet ve insan ticareti mağduru kadınlar, çocuklu veya çocuksuz",
+    "access_conditions": "8:30-12:00 arası telefon kabulü. 7/24 acil barınma."
+  },
+  "r_0154": {
+    "description": "Seks işçilerinin haklarını savunan dayanışma derneği. Kabul, dinleme, psikososyal destek, hukuki hizmetler, idari yardım, CBYE önleme ve koruyucu malzeme.",
+    "target_audience": "Seks işçileri",
+    "access_conditions": "Belirtilen saatlerde randevusuz. Yargısız kabul."
+  },
+  "r_0155": {
+    "description": "Yönlendirme, eğitim ve istihdam konusunda ücretsiz bilgi ve danışmanlık alanı. Randevusuz danışmanlar. Tematik atölyeler: yetkinlik değerlendirmesi, CV, iş mülakatları, kariyer değişikliği.",
+    "target_audience": "Yönlendirme, eğitim veya iş arayan gençler ve yetişkinler",
+    "access_conditions": "Ücretsiz, randevusuz, serbest erişim"
+  },
+  "r_0156": {
+    "description": "15-25 yaş arası gençler için sosyo-mesleki entegrasyon derneği. Geçici küçük işler, kişisel destek, ön yeterlilik stajları ve iş veya eğitim arama desteği.",
+    "target_audience": "İş veya eğitim arayan 15-25 yaş arası gençler",
+    "access_conditions": "Ücretsiz, siteden veya yerinde kayıt"
+  },
+  "r_0157": {
+    "description": "1986'dan beri iltica hakkını savunan bağımsız dernek. Ücretsiz hukuki yardım ve mültecilerin temsili. Pazartesi günleri randevusuz danışmalar. İltica prosedürü boyunca destek.",
+    "target_audience": "Sığınmacılar ve mülteciler",
+    "access_conditions": "Ücretsiz, pazartesi günleri randevusuz danışmalar"
+  },
+  "r_0158": {
+    "description": "Tüm kadınlara (cis, trans, biseksüel, queer) açık lezbiyen ve feminist dernek. Kabul, dinleme, bilgilendirme ve dayanışma. Etkinlikler: sinema kulübü, sosyal akşamlar, konferanslar, spor.",
+    "target_audience": "Lezbiyen, biseksüel, trans, queer kadınlar",
+    "access_conditions": "Tüm kadınlara koşulsuz açık"
+  },
+  "r_0159": {
+    "description": "Zorluk yaşayan genç LGBTIQ+ bireyler için kabul, dinleme ve destek alanı. Bireysel destek, destek grupları, çevrimiçi anonim sohbet, 18 yaşından itibaren 3-6 ay barınma.",
+    "target_audience": "Genç LGBTIQ+ bireyler ve çevresi",
+    "access_conditions": "Randevulu veya randevusuz, çevrimiçi anonim sohbet mevcut"
+  },
+  "r_0160": {
+    "description": "Cinsel ve cinsiyet çeşitliliğine hizmet eden dernek. LGBTIQ+ bireyler için kabul, bilgilendirme, dinleme ve yönlendirme. Batı İsviçre'de benzersiz hukuki hizmet. Gruplar: Trans*, Eşcinsel Ebeveynler, Bi, Tamalou (yaşlılar).",
+    "target_audience": "LGBTIQ+ bireyler ve yakınları",
+    "access_conditions": "Randevusuz serbest kabul"
+  },
+  "r_0161": {
+    "description": "Alkol bağımlısı kişiler ve aileleri için önleme ve destek derneği. Profesyonel danışmanlık, ayakta tedavi, destek grupları, hafta sonu programları.",
+    "target_audience": "Alkolizmden etkilenen kişiler ve yakınları",
+    "access_conditions": "Serbest kabul, ücretsiz"
+  },
+  "r_0162": {
+    "description": "Uyuşturucu bağımlıları için gündüz merkezi. Kabul, dinleme, yemek, etkinlikler ve tedaviye yönlendirme. ARGOS derneği ayrıca konut tipi yeniden entegrasyon merkezleri işletmektedir.",
+    "target_audience": "Uyuşturucu bağımlıları",
+    "access_conditions": "Serbest kabul, randevusuz"
+  },
+  "r_0163": {
+    "description": "FEGPA (alkol ve esrar), CIPRET (tütün) ve RNVP (kumar/ekran) birimlerini bünyesinde barındıran önleme merkezi. Bağımlılıkla ilgilenen herkes ve yakınları için ücretsiz ve gizli danışmanlık.",
+    "target_audience": "Bağımlılıkla ilgilenen herkes, gençler ve yakınları",
+    "access_conditions": "Ücretsiz ve gizli danışmalar, randevulu"
+  },
+  "r_0164": {
+    "description": "Zihinsel engelli bireylerin ebeveyn ve dostları derneği. Ailelere bilgilendirme, danışmanlık, destek. Boş zaman etkinlikleri, dinlenme hafta sonları, tatil kampları. Hak savunuculuğu.",
+    "target_audience": "Zihinsel engelli bireyler ve aileleri",
+    "access_conditions": "Telefonla veya e-posta ile iletişim"
+  },
+  "r_0165": {
+    "description": "İsviçre'nin engelli bireyler için en büyük yardımlaşma kuruluşu. Sosyal sigortalarda (AI, APG) ücretsiz hukuki danışmanlık. Engelli çocuklar için buluşma etkinlikleri.",
+    "target_audience": "Engelli bireyler",
+    "access_conditions": "Üyeler için ücretsiz hukuki danışmanlık"
+  },
+  "r_0166": {
+    "description": "Yaşlıların aktif ve bağımsız kalmalarını teşvik eden dernek. Çeşitli etkinlikler: kurslar, atölyeler, geziler, konferanslar, spor. Entegrasyon için \"Buradan ve Oradan Yaşlılar\" programı.",
+    "target_audience": "50 yaş ve üzeri yaşlılar",
+    "access_conditions": "50 yaş ve üzeri kişilere açık"
+  },
+  "r_0167": {
+    "description": "Sığınmacılara ve mültecilere mevcudiyet, dinleme ve destek sunan ekümenik papazlık hizmeti. Fransızca kursları, bilgisayar, paylaşım yemekleri, spor ve kültürel etkinlikler.",
+    "target_audience": "Genève'deki sığınmacılar ve mülteciler",
+    "access_conditions": "Tüm sığınmacı ve mültecilere açık"
+  },
+  "r_0168": {
+    "description": "LGBTIQ+ mültecilerin kabulü ve desteği. Elisa-asile ile iş birliğinde hukuki danışma hizmeti, destek ve farkındalık etkinlikleri.",
+    "target_audience": "LGBTIQ+ mülteciler ve sığınmacılar",
+    "access_conditions": "Mülteci veya sığınmacı tüm LGBTIQ+ bireylere açık"
+  },
+  "r_0169": {
+    "description": "Yerinde ücretsiz belediye oyun kütüphanesi. İki katta klasik ve işbirlikçi kutu oyunları. Yıllık aile aboneliği (30 CHF) ile oyun ödünç alma. Danışmanlık için personel mevcut.",
+    "target_audience": "Çocuklar, aileler, mahalle kurumları",
+    "access_conditions": "Yerinde oynama ücretsiz. Yıllık aile aboneliği (30 CHF) ile ödünç alma. 6 yaş altı çocuklar bir yetişkin eşliğinde."
+  },
+  "r_0170": {
+    "description": "Manège en Ville bünyesinde yerinde ücretsiz belediye oyun kütüphanesi. Her yaş için yaklaşık 1000 kutu oyunu, video oyunu ve oyuncak. Aile aboneliği (30 CHF/yıl) ile ödünç alma. Turnuvalar ve etkinlikler düzenlenmektedir.",
+    "target_audience": "Çocuklar, aileler, tüm yaşlar (bebeklerden yetişkinlere)",
+    "access_conditions": "Yerinde oynama ücretsiz. Yıllık aile aboneliği (30 CHF) ile ödünç alma. 6 yaş altı çocuklar bir yetişkin eşliğinde."
+  },
+  "r_0171": {
+    "description": "Zor durumda olan kadınlar, evsiz veya çocuklu mülteci kadınlar için acil barınma. 30 koşulsuz kabul yeri ve sosyal yardım alan kadınlar için 21 yer. Tek veya çift kişilik odalar, günde üç öğün yemek, çamaşırhane, sosyal destek.",
+    "target_audience": "Evsiz kadınlar, zor durumda olan kadınlar, çocuklu mülteci kadınlar",
+    "access_conditions": "Cenevre acil barınma hattını arayın: 0800 22 22 10 (Pzt-Cum 10:30-20:00, Cts-Paz 15:00-20:00). Doğrudan rezervasyon yapılamaz."
+  },
+  "tag": {
+    "143": "143",
+    "147": "147",
+    "15-25 ans": "15-25 yaş",
+    "24h": "7/24",
+    "50+": "50+",
+    "AI": "AI",
+    "AVS": "AVS",
+    "Belle-Idée": "Belle-Idée",
+    "CFF": "CFF",
+    "CV": "CV",
+    "Carouge": "Carouge",
+    "Cité Générations": "Cité Générations",
+    "Cornavin": "Cornavin",
+    "Croix-Rouge": "Croix-Rouge",
+    "FLE": "yabancı dil olarak fransızca",
+    "FRC": "FRC",
+    "HUG": "HUG",
+    "Hospice général": "Hospice général",
+    "IST": "CBYE",
+    "LAVI": "LAVI",
+    "LGBT": "LGBT",
+    "LGBTIQ+": "LGBTIQ+",
+    "Onex": "Onex",
+    "Plainpalais": "Plainpalais",
+    "SBB": "SBB",
+    "SIT": "SIT",
+    "SOS": "SOS",
+    "TPAE": "TPAE",
+    "TPG": "TPG",
+    "UNIA": "UNIA",
+    "VIH": "HIV",
+    "Vernier": "Vernier",
+    "abri": "sığınak",
+    "accessibilité": "erişilebilirlik",
+    "accompagnement": "destek",
+    "accueil": "kabul",
+    "accueil de jour": "gündüz kabul",
+    "activités": "etkinlikler",
+    "addiction": "bağımlılık",
+    "administratif": "idari",
+    "administration": "yönetim",
+    "adolescents": "ergenler",
+    "adultes": "yetişkinler",
+    "aide": "yardım",
+    "aide financière": "mali yardım",
+    "aide matérielle": "maddi yardım",
+    "aide sociale": "sosyal yardım",
+    "aide à domicile": "evde yardım",
+    "alcool": "alkol",
+    "alimentaire": "gıda",
+    "allaitement": "emzirme",
+    "alzheimer": "alzheimer",
+    "anonyme": "anonim",
+    "anti-gaspillage": "israf karşıtı",
+    "antigaspillage": "israf karşıtı",
+    "apprentissage": "çıraklık",
+    "archéologie": "arkeoloji",
+    "armée du salut": "kurtuluş ordusu",
+    "art": "sanat",
+    "artichauts": "artichauts",
+    "arts": "sanatlar",
+    "asile": "iltica",
+    "associations": "dernekler",
+    "assurance": "sigorta",
+    "assurances sociales": "sosyal sigortalar",
+    "ateliers": "atölyeler",
+    "autonomie": "özerklik",
+    "autonomisation": "güçlendirme",
+    "avocats": "avukatlar",
+    "bail": "kira sözleşmesi",
+    "bains": "hamam",
+    "banque": "banka",
+    "bas prix": "düşük fiyat",
+    "bas seuil": "düşük eşik",
+    "bateau": "tekne",
+    "beaulieu": "beaulieu",
+    "bibliothèque": "kütüphane",
+    "bien-être": "sağlık",
+    "bébé": "bebek",
+    "bénévoles": "gönüllüler",
+    "café": "kafe",
+    "cancer": "kanser",
+    "cannabis": "esrar",
+    "cantonal": "kantonal",
+    "caritas": "caritas",
+    "carouge": "carouge",
+    "carrière": "kariyer",
+    "centrale": "merkez",
+    "centre-ville": "şehir merkezi",
+    "chômage": "işsizlik",
+    "citoyenneté": "vatandaşlık",
+    "coaching": "koçluk",
+    "colis": "koli",
+    "collecte": "toplama",
+    "communautaire": "topluluk",
+    "communauté": "topluluk",
+    "compétences": "beceriler",
+    "confidentiel": "gizli",
+    "conflits": "anlaşmazlıklar",
+    "conférences": "konferanslar",
+    "conseil": "danışmanlık",
+    "conseils": "danışmanlık",
+    "consultation": "muayene",
+    "contraception": "doğum kontrolü",
+    "cornavin": "cornavin",
+    "cours": "kurslar",
+    "coworking": "ortak çalışma",
+    "crise": "kriz",
+    "croix-rouge": "kızılhaç",
+    "crèche": "kreş",
+    "créativité": "yaratıcılık",
+    "culture": "kültür",
+    "curatelle": "kayyımlık",
+    "céramique": "seramik",
+    "dentaire": "diş",
+    "diabète": "diyabet",
+    "distribution": "dağıtım",
+    "diversité": "çeşitlilik",
+    "divorce": "boşanma",
+    "diététique": "beslenme",
+    "domicile": "ev",
+    "douche": "duş",
+    "douches": "duşlar",
+    "drogue": "uyuşturucu",
+    "drogues": "uyuşturucular",
+    "droit": "hukuk",
+    "droit des étrangers": "yabancılar hukuku",
+    "droits": "haklar",
+    "démence": "demans",
+    "dépendance": "bağımlılık",
+    "dépistage": "tarama",
+    "détresse": "sıkıntı",
+    "eau potable": "içme suyu",
+    "eaux-vives": "eaux-vives",
+    "emploi": "istihdam",
+    "enfance": "çocukluk",
+    "enfants": "çocuklar",
+    "espace partagé": "paylaşımlı alan",
+    "espace travail": "çalışma alanı",
+    "ethnopsychologie": "etnopsikoloji",
+    "extérieur": "açık hava",
+    "factures": "faturalar",
+    "famille": "aile",
+    "familles": "aileler",
+    "femmes": "kadınlar",
+    "femmes migrantes": "göçmen kadınlar",
+    "financière": "mali",
+    "fitness": "fitness",
+    "fontaine": "çeşme",
+    "formation": "eğitim",
+    "fr": "fr",
+    "français": "fransızca",
+    "français professionnel": "mesleki fransızca",
+    "frigo": "buzdolabı",
+    "féministe": "feminist",
+    "garderie": "kreş",
+    "gare": "gar",
+    "gastronomique": "gurme",
+    "grange": "grange",
+    "gratuit": "ücretsiz",
+    "grossesse": "gebelik",
+    "groupe": "grup",
+    "handicap": "engel",
+    "handicap mental": "zihinsel engel",
+    "histoire": "tarih",
+    "hiver": "kış",
+    "humanitaire": "insani yardım",
+    "hydratation": "su ikmali",
+    "hygiène": "hijyen",
+    "hébergement": "barınma",
+    "infirmiers": "hemşireler",
+    "information": "bilgi",
+    "informatique": "bilgisayar",
+    "infractions": "suçlar",
+    "insertion": "entegrasyon",
+    "interactif": "interaktif",
+    "interculturel": "kültürlerarası",
+    "international": "uluslararası",
+    "internet": "internet",
+    "intégration": "entegrasyon",
+    "invendus": "satılmamış ürünler",
+    "jardin": "bahçe",
+    "jeu": "oyun",
+    "jeunes": "gençler",
+    "jeunesse": "gençlik",
+    "jeux": "oyunlar",
+    "jonction": "jonction",
+    "jouets": "oyuncaklar",
+    "jour": "gündüz",
+    "juridique": "hukuki",
+    "lac": "göl",
+    "langues": "diller",
+    "laverie": "çamaşırhane",
+    "lesbienne": "lezbiyen",
+    "libre-service": "serbest erişim",
+    "licenciement": "işten çıkarma",
+    "livres": "kitaplar",
+    "locataires": "kiracılar",
+    "logement": "konut",
+    "loisirs": "eğlence",
+    "loyer": "kira",
+    "ludothèque": "oyuncak kütüphanesi",
+    "maintien à domicile": "evde bakım",
+    "maladie chronique": "kronik hastalık",
+    "maraude": "sokak devriyesi",
+    "maternité": "annelik",
+    "meubles": "mobilya",
+    "midi": "öğle",
+    "migrantes": "göçmen kadınlar",
+    "migrants": "göçmenler",
+    "migration": "göç",
+    "mineurs": "küçükler",
+    "mobile": "mobil",
+    "mobilité": "ulaşım",
+    "molard": "molard",
+    "multilingue": "çok dilli",
+    "musée": "müze",
+    "médecin": "doktor",
+    "médecine générale": "genel tıp",
+    "médiathèque": "medyatek",
+    "médiation": "arabuluculuk",
+    "médicaments": "ilaçlar",
+    "natation": "yüzme",
+    "nature": "doğa",
+    "nuit": "gece",
+    "offres": "teklifler",
+    "orientation": "yönlendirme",
+    "parc": "park",
+    "parc de la grange": "parc de la grange",
+    "parentalité": "ebeveynlik",
+    "parents": "ebeveynler",
+    "parents-enfants": "ebeveyn-çocuk",
+    "partage": "paylaşım",
+    "permaculture": "permakültür",
+    "permanence": "danışma hizmeti",
+    "permis": "izin",
+    "personnes âgées": "yaşlılar",
+    "petite enfance": "erken çocukluk",
+    "petits boulots": "küçük işler",
+    "petits-déjeuners": "kahvaltılar",
+    "pharmacie": "eczane",
+    "piscine": "havuz",
+    "place de neuve": "place de neuve",
+    "plage": "plaj",
+    "plaine": "meydan",
+    "plainpalais": "plainpalais",
+    "planning familial": "aile planlaması",
+    "plein air": "açık hava",
+    "ponctuel": "geçici",
+    "potager": "bostan",
+    "prestations": "yardımlar",
+    "prix réduits": "indirimli fiyatlar",
+    "pro juventute": "pro juventute",
+    "proches aidants": "yakın bakıcılar",
+    "protection": "koruma",
+    "précarité": "yoksulluk",
+    "prévention": "önleme",
+    "prêt": "ödünç verme",
+    "psychiatrie": "psikiyatri",
+    "psycho-oncologie": "psiko-onkoloji",
+    "psychologie": "psikoloji",
+    "psychologique": "psikolojik",
+    "psychologue": "psikolog",
+    "psychopédagogique": "psikopedagojik",
+    "public": "halka açık",
+    "pâquis": "pâquis",
+    "quai": "rıhtım",
+    "quartier": "semt",
+    "reconversion": "kariyer değişikliği",
+    "recours": "itiraz",
+    "redistribution": "yeniden dağıtım",
+    "refuge": "sığınak",
+    "repair café": "tamir kafesi",
+    "repas": "yemek",
+    "repos": "dinlenme",
+    "ressources": "kaynaklar",
+    "restaurant": "restoran",
+    "récupération": "geri kazanım",
+    "réduction": "indirim",
+    "réduction des risques": "zarar azaltma",
+    "réfugiés": "mülteciler",
+    "réinsertion": "yeniden entegrasyon",
+    "réorientation": "yeniden yönlendirme",
+    "réparation": "tamir",
+    "répit": "dinlenme",
+    "réseau": "ağ",
+    "résolution": "çözüm",
+    "réunions": "toplantılar",
+    "sages-femmes": "ebeler",
+    "saint-jean": "saint-jean",
+    "sans assurance": "sigortasız",
+    "sans rendez-vous": "randevusuz",
+    "sans-abri": "evsiz",
+    "sans-papiers": "belgesiz",
+    "santé": "sağlık",
+    "santé mentale": "ruh sağlığı",
+    "santé sexuelle": "cinsel sağlık",
+    "sauna": "sauna",
+    "sciences": "bilimler",
+    "seconde main": "ikinci el",
+    "seniors": "yaşlılar",
+    "servette": "servette",
+    "social": "sosyal",
+    "socioculturel": "sosyokültürel",
+    "soins": "bakım",
+    "soins à domicile": "evde bakım",
+    "solidaire": "dayanışma",
+    "soupe": "çorba",
+    "soupe populaire": "halk mutfağı",
+    "soutien": "destek",
+    "soutien scolaire": "ders desteği",
+    "sport": "spor",
+    "stages": "stajlar",
+    "substitution": "ikame",
+    "suicide": "intihar",
+    "syndicat": "sendika",
+    "sécheron": "sécheron",
+    "tabac": "tütün",
+    "tarif réduit": "indirimli tarife",
+    "tarif social": "sosyal tarife",
+    "toilettes": "tuvaletler",
+    "toxicodépendance": "uyuşturucu bağımlılığı",
+    "traite": "insan ticareti",
+    "traitement": "tedavi",
+    "trans": "trans",
+    "transport": "ulaşım",
+    "travail": "iş",
+    "travail du sexe": "seks işçiliği",
+    "travailleurs pauvres": "yoksul çalışanlar",
+    "tutelle": "vesayet",
+    "téléphone": "telefon",
+    "université": "üniversite",
+    "urbain": "kentsel",
+    "urgence": "acil",
+    "verre": "cam",
+    "vestiaire": "giysi dolabı",
+    "victimes": "mağdurlar",
+    "vie associative": "dernek yaşamı",
+    "vieille ville": "eski şehir",
+    "ville": "şehir",
+    "violence": "şiddet",
+    "violence conjugale": "aile içi şiddet",
+    "violences": "şiddet",
+    "violences sexuelles": "cinsel şiddet",
+    "vélos": "bisikletler",
+    "vêtements": "giysiler",
+    "wifi": "wifi",
+    "écologie": "ekoloji",
+    "écologique": "ekolojik",
+    "écoute": "dinleme",
+    "éducation": "eğitim",
+    "épicerie": "market",
+    "étrangers": "yabancılar",
+    "étude": "çalışma",
+    "étudier": "çalışmak"
+  }
+}

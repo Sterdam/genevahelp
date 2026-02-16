@@ -65,11 +65,11 @@ function RecenterButton({ userLat, userLng }: { userLat?: number | null; userLng
   }
 
   return (
-    <div className="leaflet-bottom leaflet-right" style={{ marginBottom: 20, marginRight: 10 }}>
+    <div className="leaflet-bottom leaflet-right" style={{ marginBottom: 80, marginRight: 10 }}>
       <div className="leaflet-control">
         <button
           onClick={handleRecenter}
-          className="w-9 h-9 bg-white rounded-xl shadow-md flex items-center justify-center hover:bg-gray-50 transition-colors border border-gray-200"
+          className="w-11 h-11 bg-white rounded-xl shadow-md flex items-center justify-center hover:bg-gray-50 transition-colors border border-gray-200"
           aria-label="Recentrer"
           title="Recentrer"
         >

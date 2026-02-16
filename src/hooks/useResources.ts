@@ -1,6 +1,6 @@
 import { useState, useEffect, useMemo } from 'react'
 import { supabase, isSupabaseConfigured } from '../lib/supabase'
-import { DEMO_RESOURCES } from '../lib/demo-data'
+import { getPublicResources } from '../lib/resource-admin'
 import type { Resource, ResourceCategory } from '../lib/types'
 import { getDistance } from './useGeolocation'
 
@@ -23,7 +23,7 @@ export function useResources(options: UseResourcesOptions = {}) {
       setError(null)
 
       if (!isSupabaseConfigured) {
-        setResources(DEMO_RESOURCES)
+        setResources(getPublicResources())
         setLoading(false)
         return
       }
@@ -35,11 +35,11 @@ export function useResources(options: UseResourcesOptions = {}) {
           .order('upvotes', { ascending: false })
 
         if (fetchError) throw fetchError
-        setResources(data || [])
+        setResources(data && data.length > 0 ? data : getPublicResources())
       } catch (err) {
         console.error('Failed to fetch resources:', err)
         setError('Failed to load resources')
-        setResources(DEMO_RESOURCES)
+        setResources(getPublicResources())
       } finally {
         setLoading(false)
       }

@@ -69,11 +69,11 @@ export function getReportCountForResource(resourceId: string): number {
   return getReports().filter((r) => r.resource_id === resourceId && r.status === 'pending').length
 }
 
-export const REPORT_REASONS: { value: ReportReason; labelFr: string; labelEn: string }[] = [
-  { value: 'closed', labelFr: 'N\'existe plus', labelEn: 'No longer exists' },
-  { value: 'wrong_info', labelFr: 'Informations incorrectes', labelEn: 'Wrong information' },
-  { value: 'wrong_location', labelFr: 'Mauvaise adresse/localisation', labelEn: 'Wrong address/location' },
-  { value: 'outdated', labelFr: 'Informations obsolètes', labelEn: 'Outdated information' },
-  { value: 'duplicate', labelFr: 'Doublon', labelEn: 'Duplicate' },
-  { value: 'other', labelFr: 'Autre', labelEn: 'Other' },
+export const REPORT_REASONS: { value: ReportReason; labelKey: string }[] = [
+  { value: 'closed', labelKey: 'report.reasonClosed' },
+  { value: 'wrong_info', labelKey: 'report.reasonWrongInfo' },
+  { value: 'wrong_location', labelKey: 'report.reasonWrongLocation' },
+  { value: 'outdated', labelKey: 'report.reasonOutdated' },
+  { value: 'duplicate', labelKey: 'report.reasonDuplicate' },
+  { value: 'other', labelKey: 'report.reasonOther' },
 ]

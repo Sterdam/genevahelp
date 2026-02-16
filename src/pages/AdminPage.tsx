@@ -12,7 +12,6 @@ import {
   AlertTriangle,
   X,
   Trash2,
-  Eye,
   MapPin,
   Shield,
   Plus,
@@ -20,14 +19,26 @@ import {
   Phone,
   Globe,
   User,
+  Pencil,
+  EyeOff,
+  Eye,
+  Save,
 } from 'lucide-react'
 import { login, logout, isAuthenticated } from '../lib/auth'
 import { getReports, resolveReport, dismissReport, deleteReport, REPORT_REASONS } from '../lib/reports'
-import { verifyResource, getAllVerifications, getFreshness, getFreshnessConfig } from '../lib/verification'
+import { verifyResource, getAllVerifications, getFreshness } from '../lib/verification'
 import { getSuggestions, approveSuggestion, rejectSuggestion, deleteSuggestion, type ResourceSuggestion } from '../lib/suggestions'
-import { DEMO_RESOURCES } from '../lib/demo-data'
+import {
+  getAllAdminResources,
+  getHiddenIds,
+  toggleHideResource,
+  deleteResource as adminDeleteResource,
+  editResource,
+  addResource,
+  CATEGORY_OPTIONS,
+} from '../lib/resource-admin'
 import { CATEGORY_CONFIG } from '../lib/constants'
-import type { Report } from '../lib/types'
+import type { Resource, ResourceCategory, Report } from '../lib/types'
 
 type Tab = 'dashboard' | 'resources' | 'reports' | 'suggestions'
 
@@ -122,7 +133,6 @@ function AdminDashboard({ onLogout }: { onLogout: () => void }) {
   const refreshSuggestions = () => setSuggestions(getSuggestions())
 
   const pendingReports = reports.filter((r) => r.status === 'pending')
-  const resolvedReports = reports.filter((r) => r.status !== 'pending')
   const pendingSuggestions = suggestions.filter((s) => s.status === 'pending')
 
   const tabs: { id: Tab; label: string; icon: typeof LayoutDashboard; count?: number }[] = [
@@ -151,21 +161,21 @@ function AdminDashboard({ onLogout }: { onLogout: () => void }) {
 
       {/* Tabs */}
       <div className="bg-white border-b border-gray-200 px-4 flex gap-1">
-        {tabs.map((t) => (
+        {tabs.map((tabItem) => (
           <button
-            key={t.id}
-            onClick={() => setTab(t.id)}
+            key={tabItem.id}
+            onClick={() => setTab(tabItem.id)}
             className={`px-4 py-2.5 text-sm font-medium flex items-center gap-2 border-b-2 transition-colors ${
-              tab === t.id
+              tab === tabItem.id
                 ? 'border-gray-900 text-gray-900'
                 : 'border-transparent text-gray-500 hover:text-gray-700'
             }`}
           >
-            <t.icon size={16} />
-            {t.label}
-            {t.count != null && t.count > 0 && (
+            <tabItem.icon size={16} />
+            {tabItem.label}
+            {tabItem.count != null && tabItem.count > 0 && (
               <span className="ml-1 px-1.5 py-0.5 bg-red-100 text-red-600 text-xs rounded-full font-semibold">
-                {t.count}
+                {tabItem.count}
               </span>
             )}
           </button>
@@ -176,21 +186,17 @@ function AdminDashboard({ onLogout }: { onLogout: () => void }) {
       <div className="flex-1 overflow-y-auto p-4">
         {tab === 'dashboard' && (
           <DashboardView
-            totalResources={DEMO_RESOURCES.length}
             pendingCount={pendingReports.length}
-            resolvedCount={resolvedReports.length}
             pendingSuggestionsCount={pendingSuggestions.length}
-            t={t}
           />
         )}
-        {tab === 'resources' && <ResourcesView t={t} />}
+        {tab === 'resources' && <ResourcesView />}
         {tab === 'suggestions' && (
           <SuggestionsView
             suggestions={suggestions}
             onApprove={(id) => { approveSuggestion(id); refreshSuggestions() }}
             onReject={(id) => { rejectSuggestion(id); refreshSuggestions() }}
             onDelete={(id) => { deleteSuggestion(id); refreshSuggestions() }}
-            t={t}
           />
         )}
         {tab === 'reports' && (
@@ -199,7 +205,6 @@ function AdminDashboard({ onLogout }: { onLogout: () => void }) {
             onResolve={(id) => { resolveReport(id); refreshReports() }}
             onDismiss={(id) => { dismissReport(id); refreshReports() }}
             onDelete={(id) => { deleteReport(id); refreshReports() }}
-            t={t}
           />
         )}
       </div>
@@ -208,20 +213,17 @@ function AdminDashboard({ onLogout }: { onLogout: () => void }) {
 }
 
 function DashboardView({
-  totalResources,
   pendingCount,
-  resolvedCount,
   pendingSuggestionsCount,
-  t,
 }: {
-  totalResources: number
   pendingCount: number
-  resolvedCount: number
   pendingSuggestionsCount: number
-  t: (key: string) => string
 }) {
+  const { t } = useTranslation()
+  const allResources = getAllAdminResources()
+  const totalResources = allResources.length
   const verifications = getAllVerifications()
-  const verifiedCount = DEMO_RESOURCES.filter((r) => verifications[r.id]).length
+  const verifiedCount = allResources.filter((r) => verifications[r.id]).length
   const unverifiedCount = totalResources - verifiedCount
 
   const stats = [
@@ -247,10 +249,10 @@ function DashboardView({
 
       {/* Category breakdown */}
       <div className="bg-white rounded-xl border border-gray-200 p-4">
-        <h3 className="text-sm font-semibold text-gray-900 mb-3">Ressources par catégorie</h3>
+        <h3 className="text-sm font-semibold text-gray-900 mb-3">{t('adminExtra.categoryBreakdown')}</h3>
         <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
           {Object.entries(CATEGORY_CONFIG).map(([cat, config]) => {
-            const count = DEMO_RESOURCES.filter((r) => r.category === cat).length
+            const count = allResources.filter((r) => r.category === cat).length
             if (count === 0) return null
             return (
               <div key={cat} className="flex items-center gap-2 text-sm">
@@ -258,7 +260,7 @@ function DashboardView({
                   className="w-3 h-3 rounded-full shrink-0"
                   style={{ backgroundColor: config.color }}
                 />
-                <span className="text-gray-600 truncate">{config.label}</span>
+                <span className="text-gray-600 truncate">{t(`categories.${cat}`)}</span>
                 <span className="text-gray-900 font-medium ml-auto">{count}</span>
               </div>
             )
@@ -269,13 +271,21 @@ function DashboardView({
   )
 }
 
-function ResourcesView({ t }: { t: (key: string) => string }) {
+function ResourcesView() {
+  const { t } = useTranslation()
   const [search, setSearch] = useState('')
-  const [filter, setFilter] = useState<'all' | 'unverified' | 'stale'>('all')
+  const [filter, setFilter] = useState<'all' | 'hidden' | 'unverified'>('all')
+  const [editingId, setEditingId] = useState<string | null>(null)
+  const [showAddForm, setShowAddForm] = useState(false)
   const [, forceUpdate] = useState(0)
 
+  const refresh = () => forceUpdate((n) => n + 1)
+
+  const allResources = getAllAdminResources()
+  const hiddenIds = getHiddenIds()
+
   const filtered = useMemo(() => {
-    let result = DEMO_RESOURCES
+    let result = allResources
 
     if (search.trim()) {
       const q = search.toLowerCase()
@@ -284,30 +294,30 @@ function ResourcesView({ t }: { t: (key: string) => string }) {
       )
     }
 
-    if (filter === 'unverified') {
+    if (filter === 'hidden') {
+      result = result.filter((r) => hiddenIds.has(r.id))
+    } else if (filter === 'unverified') {
       result = result.filter((r) => getFreshness(r.id) === 'unknown')
-    } else if (filter === 'stale') {
-      result = result.filter((r) => {
-        const f = getFreshness(r.id)
-        return f === 'stale' || f === 'aging'
-      })
     }
 
     return result
-  }, [search, filter])
+  }, [search, filter, allResources, hiddenIds])
 
-  const handleVerify = (resourceId: string) => {
-    verifyResource(resourceId)
-    forceUpdate((n) => n + 1)
+  const handleVerify = (id: string) => { verifyResource(id); refresh() }
+  const handleHide = (id: string) => { toggleHideResource(id); refresh() }
+  const handleDelete = (id: string) => {
+    if (!confirm('Supprimer cette ressource ?')) return
+    adminDeleteResource(id)
+    refresh()
   }
 
-  const verifications = getAllVerifications()
-  const unverifiedCount = DEMO_RESOURCES.filter((r) => !verifications[r.id]).length
+  const hiddenCount = hiddenIds.size
 
   return (
     <div className="max-w-4xl mx-auto space-y-3">
-      <div className="flex gap-2 items-center">
-        <div className="relative flex-1">
+      {/* Toolbar */}
+      <div className="flex gap-2 items-center flex-wrap">
+        <div className="relative flex-1 min-w-[200px]">
           <Search size={16} className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400" />
           <input
             type="text"
@@ -324,28 +334,56 @@ function ResourcesView({ t }: { t: (key: string) => string }) {
         </div>
         <select
           value={filter}
-          onChange={(e) => setFilter(e.target.value as 'all' | 'unverified' | 'stale')}
-          className="px-3 py-2 bg-white border border-gray-200 rounded-lg text-sm focus:ring-2 focus:ring-gray-900 focus:border-transparent"
+          onChange={(e) => setFilter(e.target.value as typeof filter)}
+          className="px-3 py-2 bg-white border border-gray-200 rounded-lg text-sm"
         >
-          <option value="all">Tous ({DEMO_RESOURCES.length})</option>
-          <option value="unverified">Non vérifiés ({unverifiedCount})</option>
-          <option value="stale">À revérifier</option>
+          <option value="all">Tous ({allResources.length})</option>
+          <option value="hidden">Masqués ({hiddenCount})</option>
+          <option value="unverified">Non vérifiés</option>
         </select>
+        <button
+          onClick={() => { setShowAddForm(true); setEditingId(null) }}
+          className="px-3 py-2 bg-blue-600 text-white rounded-lg text-sm font-medium hover:bg-blue-700 transition-colors flex items-center gap-1.5"
+        >
+          <Plus size={16} />
+          Ajouter
+        </button>
       </div>
 
       <p className="text-xs text-gray-400">{filtered.length} ressources</p>
 
+      {/* Add / Edit Form */}
+      {(showAddForm || editingId) && (
+        <ResourceForm
+          resource={editingId ? allResources.find((r) => r.id === editingId) : undefined}
+          onSave={(data) => {
+            if (editingId) {
+              editResource(editingId, data)
+            } else {
+              addResource(data as Parameters<typeof addResource>[0])
+            }
+            setEditingId(null)
+            setShowAddForm(false)
+            refresh()
+          }}
+          onCancel={() => { setEditingId(null); setShowAddForm(false) }}
+          t={t}
+        />
+      )}
+
+      {/* Resource list */}
       <div className="space-y-1.5">
         {filtered.map((resource) => {
           const config = CATEGORY_CONFIG[resource.category]
+          const isHidden = hiddenIds.has(resource.id)
           const freshness = getFreshness(resource.id)
-          const freshnessConfig = getFreshnessConfig(freshness)
-          const verification = verifications[resource.id]
 
           return (
             <div
               key={resource.id}
-              className="bg-white rounded-lg border border-gray-200 px-3 py-2.5 flex items-center gap-3"
+              className={`bg-white rounded-lg border px-3 py-2.5 flex items-center gap-3 ${
+                isHidden ? 'border-amber-200 bg-amber-50/30 opacity-60' : 'border-gray-200'
+              }`}
             >
               <div
                 className="w-8 h-8 rounded-lg flex items-center justify-center shrink-0"
@@ -356,30 +394,50 @@ function ResourcesView({ t }: { t: (key: string) => string }) {
               <div className="flex-1 min-w-0">
                 <div className="flex items-center gap-2">
                   <p className="text-sm font-medium text-gray-900 truncate">{resource.name}</p>
+                  {isHidden && <EyeOff size={12} className="text-amber-500 shrink-0" />}
                   {freshness === 'fresh' && <CheckCircle size={12} className="text-green-500 shrink-0" />}
-                  {freshness === 'aging' && <Clock size={12} className="text-amber-500 shrink-0" />}
-                  {freshness === 'stale' && <AlertTriangle size={12} className="text-red-500 shrink-0" />}
                 </div>
                 <div className="flex items-center gap-2 text-xs text-gray-400">
-                  <span style={{ color: config.color }}>{config.label}</span>
-                  {verification && (
-                    <span className={`${freshnessConfig.color}`}>
-                      {new Date(verification.verified_at).toLocaleDateString('fr-CH')}
-                    </span>
-                  )}
+                  <span style={{ color: config.color }}>{t(`categories.${resource.category}`)}</span>
+                  <span className="truncate">{resource.address}</span>
                 </div>
               </div>
-              <button
-                onClick={() => handleVerify(resource.id)}
-                className={`px-2.5 py-1 text-xs font-medium rounded-lg transition-colors shrink-0 ${
-                  freshness === 'fresh'
-                    ? 'text-green-600 bg-green-50'
-                    : 'text-gray-600 bg-gray-50 hover:bg-green-50 hover:text-green-600'
-                }`}
-                title={t('admin.verify')}
-              >
-                <CheckCircle size={14} />
-              </button>
+
+              {/* Actions */}
+              <div className="flex items-center gap-0.5 shrink-0">
+                <button
+                  onClick={() => handleVerify(resource.id)}
+                  className={`p-1.5 rounded-lg transition-colors ${
+                    freshness === 'fresh' ? 'text-green-500' : 'text-gray-300 hover:text-green-500 hover:bg-green-50'
+                  }`}
+                  title="Vérifier"
+                >
+                  <CheckCircle size={14} />
+                </button>
+                <button
+                  onClick={() => { setEditingId(resource.id); setShowAddForm(false) }}
+                  className="p-1.5 text-gray-400 hover:text-blue-600 hover:bg-blue-50 rounded-lg transition-colors"
+                  title="Modifier"
+                >
+                  <Pencil size={14} />
+                </button>
+                <button
+                  onClick={() => handleHide(resource.id)}
+                  className={`p-1.5 rounded-lg transition-colors ${
+                    isHidden ? 'text-amber-500 hover:bg-amber-50' : 'text-gray-400 hover:text-amber-500 hover:bg-amber-50'
+                  }`}
+                  title={isHidden ? 'Rendre visible' : 'Masquer'}
+                >
+                  {isHidden ? <Eye size={14} /> : <EyeOff size={14} />}
+                </button>
+                <button
+                  onClick={() => handleDelete(resource.id)}
+                  className="p-1.5 text-gray-400 hover:text-red-500 hover:bg-red-50 rounded-lg transition-colors"
+                  title="Supprimer"
+                >
+                  <Trash2 size={14} />
+                </button>
+              </div>
             </div>
           )
         })}
@@ -388,19 +446,209 @@ function ResourcesView({ t }: { t: (key: string) => string }) {
   )
 }
 
+/* ========== Resource Form (Add / Edit) ========== */
+
+interface ResourceFormProps {
+  resource?: Resource
+  onSave: (data: Partial<Resource>) => void
+  onCancel: () => void
+  t: (key: string) => string
+}
+
+function ResourceForm({ resource, onSave, onCancel, t }: ResourceFormProps) {
+  const [name, setName] = useState(resource?.name || '')
+  const [description, setDescription] = useState(resource?.description || '')
+  const [category, setCategory] = useState<ResourceCategory>(resource?.category || 'food')
+  const [address, setAddress] = useState(resource?.address || '')
+  const [latitude, setLatitude] = useState(resource?.latitude?.toString() || '46.2044')
+  const [longitude, setLongitude] = useState(resource?.longitude?.toString() || '6.1432')
+  const [phone, setPhone] = useState(resource?.phone || '')
+  const [email, setEmail] = useState(resource?.email || '')
+  const [website, setWebsite] = useState(resource?.website || '')
+  const [targetAudience, setTargetAudience] = useState(resource?.target_audience || '')
+  const [accessConditions, setAccessConditions] = useState(resource?.access_conditions || '')
+  const [languages, setLanguages] = useState(resource?.languages_spoken?.join(', ') || 'fr')
+  const [tags, setTags] = useState(resource?.tags?.join(', ') || '')
+  const [wheelchair, setWheelchair] = useState<boolean | null>(resource?.wheelchair_accessible ?? null)
+  const [verified, setVerified] = useState(resource?.verified ?? false)
+  const [source, setSource] = useState(resource?.source || '')
+
+  const handleSubmit = (e: React.FormEvent) => {
+    e.preventDefault()
+    if (!name.trim() || !description.trim() || !address.trim()) return
+
+    onSave({
+      name: name.trim(),
+      description: description.trim(),
+      category,
+      address: address.trim(),
+      latitude: parseFloat(latitude) || 46.2044,
+      longitude: parseFloat(longitude) || 6.1432,
+      phone: phone.trim() || null,
+      email: email.trim() || null,
+      website: website.trim() || null,
+      target_audience: targetAudience.trim() || null,
+      access_conditions: accessConditions.trim() || null,
+      languages_spoken: languages.split(',').map((l) => l.trim()).filter(Boolean),
+      tags: tags.split(',').map((t) => t.trim()).filter(Boolean),
+      wheelchair_accessible: wheelchair,
+      verified,
+      source: source.trim() || null,
+      opening_hours: resource?.opening_hours || {},
+    })
+  }
+
+  const inputClass = 'w-full px-3 py-2 border border-gray-200 rounded-lg text-sm focus:ring-2 focus:ring-blue-500 focus:border-transparent'
+  const labelClass = 'block text-xs font-medium text-gray-600 mb-1'
+
+  return (
+    <form onSubmit={handleSubmit} className="bg-white rounded-xl border border-blue-200 p-4 space-y-4 animate-fade-in">
+      <div className="flex items-center justify-between">
+        <h3 className="text-sm font-bold text-gray-900">
+          {resource ? 'Modifier la ressource' : 'Ajouter une ressource'}
+        </h3>
+        <button type="button" onClick={onCancel} className="p-1 text-gray-400 hover:text-gray-600">
+          <X size={18} />
+        </button>
+      </div>
+
+      {/* Row 1: Name + Category */}
+      <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
+        <div className="sm:col-span-2">
+          <label className={labelClass}>Nom *</label>
+          <input type="text" value={name} onChange={(e) => setName(e.target.value)} className={inputClass} required />
+        </div>
+        <div>
+          <label className={labelClass}>Catégorie *</label>
+          <select value={category} onChange={(e) => setCategory(e.target.value as ResourceCategory)} className={inputClass}>
+            {CATEGORY_OPTIONS.map((cat) => (
+              <option key={cat} value={cat}>{t(`categories.${cat}`)}</option>
+            ))}
+          </select>
+        </div>
+      </div>
+
+      {/* Description */}
+      <div>
+        <label className={labelClass}>Description *</label>
+        <textarea value={description} onChange={(e) => setDescription(e.target.value)} rows={2} className={inputClass} required />
+      </div>
+
+      {/* Address + Coords */}
+      <div className="grid grid-cols-1 sm:grid-cols-4 gap-3">
+        <div className="sm:col-span-2">
+          <label className={labelClass}>Adresse *</label>
+          <input type="text" value={address} onChange={(e) => setAddress(e.target.value)} className={inputClass} required />
+        </div>
+        <div>
+          <label className={labelClass}>Latitude</label>
+          <input type="text" value={latitude} onChange={(e) => setLatitude(e.target.value)} className={inputClass} />
+        </div>
+        <div>
+          <label className={labelClass}>Longitude</label>
+          <input type="text" value={longitude} onChange={(e) => setLongitude(e.target.value)} className={inputClass} />
+        </div>
+      </div>
+
+      {/* Contact */}
+      <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
+        <div>
+          <label className={labelClass}>Téléphone</label>
+          <input type="text" value={phone} onChange={(e) => setPhone(e.target.value)} className={inputClass} />
+        </div>
+        <div>
+          <label className={labelClass}>Email</label>
+          <input type="email" value={email} onChange={(e) => setEmail(e.target.value)} className={inputClass} />
+        </div>
+        <div>
+          <label className={labelClass}>Site web</label>
+          <input type="url" value={website} onChange={(e) => setWebsite(e.target.value)} className={inputClass} placeholder="https://..." />
+        </div>
+      </div>
+
+      {/* Audience + Conditions */}
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+        <div>
+          <label className={labelClass}>Public cible</label>
+          <input type="text" value={targetAudience} onChange={(e) => setTargetAudience(e.target.value)} className={inputClass} />
+        </div>
+        <div>
+          <label className={labelClass}>Conditions d'accès</label>
+          <input type="text" value={accessConditions} onChange={(e) => setAccessConditions(e.target.value)} className={inputClass} />
+        </div>
+      </div>
+
+      {/* Languages, Tags, Source */}
+      <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
+        <div>
+          <label className={labelClass}>Langues (séparées par virgule)</label>
+          <input type="text" value={languages} onChange={(e) => setLanguages(e.target.value)} className={inputClass} placeholder="fr, en, ar" />
+        </div>
+        <div>
+          <label className={labelClass}>Tags (séparés par virgule)</label>
+          <input type="text" value={tags} onChange={(e) => setTags(e.target.value)} className={inputClass} placeholder="repas, gratuit" />
+        </div>
+        <div>
+          <label className={labelClass}>Source</label>
+          <input type="text" value={source} onChange={(e) => setSource(e.target.value)} className={inputClass} />
+        </div>
+      </div>
+
+      {/* Checkboxes */}
+      <div className="flex items-center gap-6">
+        <label className="flex items-center gap-2 text-sm text-gray-700 cursor-pointer">
+          <input
+            type="checkbox"
+            checked={wheelchair === true}
+            onChange={(e) => setWheelchair(e.target.checked ? true : null)}
+            className="rounded border-gray-300"
+          />
+          Accessible fauteuil roulant
+        </label>
+        <label className="flex items-center gap-2 text-sm text-gray-700 cursor-pointer">
+          <input
+            type="checkbox"
+            checked={verified}
+            onChange={(e) => setVerified(e.target.checked)}
+            className="rounded border-gray-300"
+          />
+          Vérifié
+        </label>
+      </div>
+
+      {/* Actions */}
+      <div className="flex justify-end gap-2 pt-2 border-t border-gray-100">
+        <button
+          type="button"
+          onClick={onCancel}
+          className="px-4 py-2 text-sm text-gray-600 bg-gray-100 rounded-lg hover:bg-gray-200 transition-colors"
+        >
+          Annuler
+        </button>
+        <button
+          type="submit"
+          className="px-4 py-2 text-sm font-medium text-white bg-blue-600 rounded-lg hover:bg-blue-700 transition-colors flex items-center gap-1.5"
+        >
+          <Save size={14} />
+          {resource ? 'Enregistrer' : 'Ajouter'}
+        </button>
+      </div>
+    </form>
+  )
+}
+
 function ReportsView({
   reports,
   onResolve,
   onDismiss,
   onDelete,
-  t,
 }: {
   reports: Report[]
   onResolve: (id: string) => void
   onDismiss: (id: string) => void
   onDelete: (id: string) => void
-  t: (key: string) => string
 }) {
+  const { t } = useTranslation()
   const pending = reports.filter((r) => r.status === 'pending')
   const resolved = reports.filter((r) => r.status !== 'pending')
 
@@ -424,7 +672,7 @@ function ReportsView({
           </h3>
           <div className="space-y-2">
             {pending.map((report) => (
-              <ReportCard key={report.id} report={report} onResolve={onResolve} onDismiss={onDismiss} onDelete={onDelete} t={t} />
+              <ReportCard key={report.id} report={report} onResolve={onResolve} onDismiss={onDismiss} onDelete={onDelete} />
             ))}
           </div>
         </div>
@@ -439,7 +687,7 @@ function ReportsView({
           </h3>
           <div className="space-y-2 opacity-60">
             {resolved.map((report) => (
-              <ReportCard key={report.id} report={report} onResolve={onResolve} onDismiss={onDismiss} onDelete={onDelete} t={t} />
+              <ReportCard key={report.id} report={report} onResolve={onResolve} onDismiss={onDismiss} onDelete={onDelete} />
             ))}
           </div>
         </div>
@@ -453,15 +701,15 @@ function ReportCard({
   onResolve,
   onDismiss,
   onDelete,
-  t,
 }: {
   report: Report
   onResolve: (id: string) => void
   onDismiss: (id: string) => void
   onDelete: (id: string) => void
-  t: (key: string) => string
 }) {
-  const reasonLabel = REPORT_REASONS.find((r) => r.value === report.reason)?.labelFr || report.reason
+  const { t, i18n } = useTranslation()
+  const reasonDef = REPORT_REASONS.find((r) => r.value === report.reason)
+  const reasonLabel = reasonDef ? t(reasonDef.labelKey) : report.reason
   const isPending = report.status === 'pending'
 
   return (
@@ -476,7 +724,7 @@ function ReportCard({
               {reasonLabel}
             </span>
             <span className="text-xs text-gray-400">
-              {new Date(report.created_at).toLocaleDateString('fr-CH')}
+              {new Date(report.created_at).toLocaleDateString(i18n.language)}
             </span>
           </div>
           {report.message && (
@@ -519,14 +767,13 @@ function SuggestionsView({
   onApprove,
   onReject,
   onDelete,
-  t,
 }: {
   suggestions: ResourceSuggestion[]
   onApprove: (id: string) => void
   onReject: (id: string) => void
   onDelete: (id: string) => void
-  t: (key: string) => string
 }) {
+  const { t } = useTranslation()
   const pending = suggestions.filter((s) => s.status === 'pending')
   const reviewed = suggestions.filter((s) => s.status !== 'pending')
 
@@ -583,6 +830,7 @@ function SuggestionCard({
   onReject: (id: string) => void
   onDelete: (id: string) => void
 }) {
+  const { t, i18n } = useTranslation()
   const [expanded, setExpanded] = useState(false)
   const isPending = s.status === 'pending'
   const catConfig = s.category ? CATEGORY_CONFIG[s.category] : null
@@ -595,12 +843,12 @@ function SuggestionCard({
           <div className="min-w-0 flex-1">
             <div className="flex items-center gap-2">
               <p className="text-sm font-semibold text-gray-900 truncate">{s.name}</p>
-              {catConfig && (
+              {catConfig && s.category && (
                 <span
                   className="text-xs px-2 py-0.5 rounded-full font-medium shrink-0"
                   style={{ backgroundColor: `${catConfig.color}15`, color: catConfig.color }}
                 >
-                  {catConfig.label}
+                  {t(`categories.${s.category}`)}
                 </span>
               )}
               <span className={`text-xs px-2 py-0.5 rounded-full font-medium shrink-0 ${
@@ -608,7 +856,7 @@ function SuggestionCard({
                 s.status === 'rejected' ? 'bg-red-100 text-red-700' :
                 'bg-purple-100 text-purple-700'
               }`}>
-                {s.status === 'approved' ? 'Approuvé' : s.status === 'rejected' ? 'Rejeté' : 'En attente'}
+                {s.status === 'approved' ? t('adminExtra.approved') : s.status === 'rejected' ? t('adminExtra.rejected') : t('adminExtra.pending')}
               </span>
             </div>
             <div className="flex items-center gap-3 mt-1 text-xs text-gray-500">
@@ -618,7 +866,7 @@ function SuggestionCard({
                   {s.address}
                 </span>
               )}
-              <span>{new Date(s.created_at).toLocaleDateString('fr-CH')}</span>
+              <span>{new Date(s.created_at).toLocaleDateString(i18n.language)}</span>
             </div>
             {s.description && (
               <p className="text-xs text-gray-600 mt-1.5 line-clamp-2">{s.description}</p>
@@ -631,13 +879,13 @@ function SuggestionCard({
                 onClick={() => onApprove(s.id)}
                 className="px-2.5 py-1 text-xs font-medium text-green-700 bg-green-50 hover:bg-green-100 rounded-lg transition-colors"
               >
-                Approuver
+                {t('adminExtra.approve')}
               </button>
               <button
                 onClick={() => onReject(s.id)}
                 className="px-2.5 py-1 text-xs font-medium text-red-600 bg-red-50 hover:bg-red-100 rounded-lg transition-colors"
               >
-                Rejeter
+                {t('adminExtra.reject')}
               </button>
             </div>
           ) : (
@@ -655,7 +903,7 @@ function SuggestionCard({
           onClick={() => setExpanded(!expanded)}
           className="mt-2 text-xs text-blue-600 hover:text-blue-700 font-medium"
         >
-          {expanded ? 'Masquer les détails' : 'Voir tous les détails'}
+          {expanded ? t('adminExtra.hideDetails') : t('adminExtra.showDetails')}
         </button>
       </div>
 
@@ -688,32 +936,32 @@ function SuggestionCard({
 
           {s.opening_hours && (
             <div>
-              <p className="text-xs font-medium text-gray-500 mb-0.5">Horaires</p>
+              <p className="text-xs font-medium text-gray-500 mb-0.5">{t('resource.hours')}</p>
               <p className="text-xs text-gray-600 whitespace-pre-line">{s.opening_hours}</p>
             </div>
           )}
           {s.target_audience && (
             <div>
-              <p className="text-xs font-medium text-gray-500 mb-0.5">Public cible</p>
+              <p className="text-xs font-medium text-gray-500 mb-0.5">{t('resource.audience')}</p>
               <p className="text-xs text-gray-600">{s.target_audience}</p>
             </div>
           )}
           {s.access_conditions && (
             <div>
-              <p className="text-xs font-medium text-gray-500 mb-0.5">Conditions d'accès</p>
+              <p className="text-xs font-medium text-gray-500 mb-0.5">{t('resource.access')}</p>
               <p className="text-xs text-gray-600">{s.access_conditions}</p>
             </div>
           )}
           {s.languages_spoken && (
             <div>
-              <p className="text-xs font-medium text-gray-500 mb-0.5">Langues</p>
+              <p className="text-xs font-medium text-gray-500 mb-0.5">{t('resource.languages')}</p>
               <p className="text-xs text-gray-600">{s.languages_spoken}</p>
             </div>
           )}
           {s.wheelchair_accessible != null && (
             <div>
-              <p className="text-xs font-medium text-gray-500 mb-0.5">Accessible PMR</p>
-              <p className="text-xs text-gray-600">{s.wheelchair_accessible ? 'Oui' : 'Non'}</p>
+              <p className="text-xs font-medium text-gray-500 mb-0.5">{t('resource.wheelchair')}</p>
+              <p className="text-xs text-gray-600">{s.wheelchair_accessible ? t('common.yes') : t('common.no')}</p>
             </div>
           )}
 
@@ -721,19 +969,19 @@ function SuggestionCard({
           <div className="bg-white rounded-lg border border-gray-200 p-2.5 mt-2">
             <p className="text-xs font-semibold text-gray-700 mb-1 flex items-center gap-1.5">
               <User size={12} />
-              Soumis par
+              {t('adminExtra.submittedBy')}
             </p>
             <div className="space-y-0.5">
               {s.submitter_name && (
                 <p className="text-xs text-gray-600">{s.submitter_name}</p>
               )}
-              <p className="text-xs text-blue-600 font-medium">{s.submitter_contact}</p>
+              <p className="text-xs text-blue-600 font-medium">{s.submitter_contact || t('adminExtra.noContact')}</p>
               {s.submitter_relation && (
                 <p className="text-xs text-gray-500 italic">
-                  {s.submitter_relation === 'user' ? 'Utilise ce lieu' :
-                   s.submitter_relation === 'staff' ? 'Travaille / bénévole' :
-                   s.submitter_relation === 'organization' ? 'Représente l\'organisation' :
-                   'Autre'}
+                  {s.submitter_relation === 'user' ? t('suggest.relationUser') :
+                   s.submitter_relation === 'staff' ? t('suggest.relationStaff') :
+                   s.submitter_relation === 'organization' ? t('suggest.relationOrg') :
+                   t('suggest.relationOther')}
                 </p>
               )}
             </div>

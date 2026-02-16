@@ -23,13 +23,6 @@ import { addSuggestion } from '../lib/suggestions'
 
 const CATEGORIES = Object.keys(CATEGORY_CONFIG) as ResourceCategory[]
 
-const RELATION_OPTIONS = [
-  { value: 'user', labelFr: 'J\'utilise ce lieu', labelEn: 'I use this place' },
-  { value: 'staff', labelFr: 'J\'y travaille / bénévole', labelEn: 'I work/volunteer there' },
-  { value: 'organization', labelFr: 'Je représente cette organisation', labelEn: 'I represent this organization' },
-  { value: 'other', labelFr: 'Autre', labelEn: 'Other' },
-]
-
 interface FormState {
   name: string
   description: string
@@ -67,8 +60,7 @@ const INITIAL_FORM: FormState = {
 }
 
 export function SuggestPage() {
-  const { t, i18n } = useTranslation()
-  const isFr = i18n.language === 'fr'
+  const { t } = useTranslation()
   const [submitted, setSubmitted] = useState(false)
   const [showDetails, setShowDetails] = useState(false)
   const [form, setForm] = useState<FormState>(INITIAL_FORM)
@@ -99,30 +91,26 @@ export function SuggestPage() {
             <CheckCircle size={32} className="text-green-600" />
           </div>
           <h2 className="text-lg font-bold text-gray-900 mb-2">
-            {isFr ? 'Merci pour votre contribution !' : 'Thank you for your contribution!'}
+            {t('suggest.thankYouTitle')}
           </h2>
           <p className="text-sm text-gray-500 mb-1">
-            {isFr
-              ? 'Votre suggestion a bien été enregistrée.'
-              : 'Your suggestion has been recorded.'}
+            {t('suggest.thankYouRecorded')}
           </p>
           <p className="text-sm text-gray-500 mb-6">
-            {isFr
-              ? 'Un administrateur la vérifiera dans les plus brefs délais et vous contactera si besoin.'
-              : 'An administrator will review it as soon as possible and contact you if needed.'}
+            {t('suggest.thankYouReview')}
           </p>
           <div className="flex gap-3 justify-center">
             <button
               onClick={() => { setForm(INITIAL_FORM); setSubmitted(false) }}
               className="px-4 py-2 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-lg hover:bg-gray-50 transition-colors"
             >
-              {isFr ? 'Ajouter un autre lieu' : 'Add another place'}
+              {t('suggest.addAnother')}
             </button>
             <Link
               to="/"
               className="px-4 py-2 text-sm font-medium text-white bg-gray-900 rounded-lg hover:bg-gray-800 transition-colors"
             >
-              {isFr ? 'Voir la carte' : 'View map'}
+              {t('suggest.viewMap')}
             </Link>
           </div>
         </div>
@@ -131,7 +119,7 @@ export function SuggestPage() {
   }
 
   return (
-    <div className="flex-1 overflow-y-auto bg-gray-50">
+    <div className="flex-1 overflow-y-auto bg-gray-50 animate-fade-in">
       <div className="max-w-lg mx-auto px-4 py-6 pb-24">
         {/* Header */}
         <div className="mb-6">
@@ -140,12 +128,10 @@ export function SuggestPage() {
             {t('common.back')}
           </Link>
           <h1 className="text-xl font-bold text-gray-900">
-            {isFr ? 'Proposer un lieu' : 'Suggest a place'}
+            {t('suggest.pageTitle')}
           </h1>
           <p className="text-sm text-gray-500 mt-1">
-            {isFr
-              ? 'Vous connaissez une ressource gratuite à Genève ? Aidez-nous à compléter la carte !'
-              : 'Know a free resource in Geneva? Help us complete the map!'}
+            {t('suggest.pageSubtitle')}
           </p>
         </div>
 
@@ -154,19 +140,19 @@ export function SuggestPage() {
           <section className="bg-white rounded-xl border border-gray-200 p-4 space-y-4">
             <h2 className="text-sm font-semibold text-gray-900 flex items-center gap-2">
               <Info size={15} className="text-blue-500" />
-              {isFr ? 'Informations principales' : 'Main information'}
+              {t('suggest.sectionMain')}
             </h2>
 
             {/* Name */}
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-1">
-                {isFr ? 'Nom du lieu / de l\'organisation' : 'Place / organization name'} *
+                {t('suggest.nameLabel')} *
               </label>
               <input
                 value={form.name}
                 onChange={(e) => update('name', e.target.value)}
                 required
-                placeholder={isFr ? 'ex: Caritas Genève, Croix-Rouge...' : 'e.g. Caritas Geneva, Red Cross...'}
+                placeholder={t('suggest.namePlaceholder')}
                 className="w-full px-3 py-2.5 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-blue-500 focus:border-transparent placeholder:text-gray-300"
               />
             </div>
@@ -174,11 +160,10 @@ export function SuggestPage() {
             {/* Category - visual grid */}
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-2">
-                {isFr ? 'Type de ressource' : 'Resource type'} *
+                {t('suggest.typeLabel')} *
               </label>
               <div className="grid grid-cols-3 sm:grid-cols-4 gap-1.5">
                 {CATEGORIES.map((cat) => {
-                  const cfg = CATEGORY_CONFIG[cat]
                   const emoji = CATEGORY_EMOJI[cat]
                   const selected = form.category === cat
                   return (
@@ -194,7 +179,7 @@ export function SuggestPage() {
                     >
                       <span className="text-base">{emoji}</span>
                       <span className="block mt-0.5 truncate">
-                        {isFr ? cfg.label : cfg.labelEn}
+                        {t(`categories.${cat}`)}
                       </span>
                     </button>
                   )
@@ -205,15 +190,13 @@ export function SuggestPage() {
             {/* Description */}
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-1">
-                {isFr ? 'Description' : 'Description'}
+                {t('suggest.description')}
               </label>
               <textarea
                 value={form.description}
                 onChange={(e) => update('description', e.target.value)}
                 rows={3}
-                placeholder={isFr
-                  ? 'Que propose ce lieu ? Quels services sont offerts ?'
-                  : 'What does this place offer? What services are provided?'}
+                placeholder={t('suggest.descriptionPlaceholder')}
                 className="w-full px-3 py-2.5 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-blue-500 focus:border-transparent resize-none placeholder:text-gray-300"
               />
             </div>
@@ -223,19 +206,19 @@ export function SuggestPage() {
           <section className="bg-white rounded-xl border border-gray-200 p-4 space-y-4">
             <h2 className="text-sm font-semibold text-gray-900 flex items-center gap-2">
               <MapPin size={15} className="text-red-500" />
-              {isFr ? 'Localisation & contact' : 'Location & contact'}
+              {t('suggest.sectionLocation')}
             </h2>
 
             {/* Address */}
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-1">
-                {isFr ? 'Adresse' : 'Address'} *
+                {t('suggest.address')} *
               </label>
               <input
                 value={form.address}
                 onChange={(e) => update('address', e.target.value)}
                 required
-                placeholder={isFr ? 'ex: Rue du Marché 12, 1204 Genève' : 'e.g. Rue du Marché 12, 1204 Geneva'}
+                placeholder={t('suggest.addressPlaceholder')}
                 className="w-full px-3 py-2.5 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-blue-500 focus:border-transparent placeholder:text-gray-300"
               />
             </div>
@@ -245,7 +228,7 @@ export function SuggestPage() {
               <div>
                 <label className="block text-sm font-medium text-gray-700 mb-1 flex items-center gap-1.5">
                   <Phone size={13} className="text-gray-400" />
-                  {isFr ? 'Téléphone' : 'Phone'}
+                  {t('suggest.phone')}
                 </label>
                 <input
                   value={form.phone}
@@ -258,7 +241,7 @@ export function SuggestPage() {
               <div>
                 <label className="block text-sm font-medium text-gray-700 mb-1 flex items-center gap-1.5">
                   <Mail size={13} className="text-gray-400" />
-                  Email
+                  {t('suggest.email')}
                 </label>
                 <input
                   value={form.email}
@@ -274,7 +257,7 @@ export function SuggestPage() {
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-1 flex items-center gap-1.5">
                 <Globe size={13} className="text-gray-400" />
-                {isFr ? 'Site web' : 'Website'}
+                {t('suggest.website')}
               </label>
               <input
                 value={form.website}
@@ -295,7 +278,7 @@ export function SuggestPage() {
             >
               <span className="flex items-center gap-2">
                 <Clock size={15} className="text-amber-500" />
-                {isFr ? 'Détails supplémentaires (optionnel)' : 'Additional details (optional)'}
+                {t('suggest.sectionDetails')}
               </span>
               {showDetails ? <ChevronUp size={16} /> : <ChevronDown size={16} />}
             </button>
@@ -306,15 +289,13 @@ export function SuggestPage() {
                 <div>
                   <label className="block text-sm font-medium text-gray-700 mb-1 flex items-center gap-1.5">
                     <Clock size={13} className="text-gray-400" />
-                    {isFr ? 'Horaires d\'ouverture' : 'Opening hours'}
+                    {t('suggest.hoursLabel')}
                   </label>
                   <textarea
                     value={form.opening_hours}
                     onChange={(e) => update('opening_hours', e.target.value)}
                     rows={3}
-                    placeholder={isFr
-                      ? 'ex:\nLun-Ven: 9h-17h\nSamedi: 10h-14h\nDimanche: Fermé'
-                      : 'e.g.:\nMon-Fri: 9am-5pm\nSaturday: 10am-2pm\nSunday: Closed'}
+                    placeholder={t('suggest.hoursPlaceholder')}
                     className="w-full px-3 py-2.5 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-blue-500 focus:border-transparent resize-none placeholder:text-gray-300"
                   />
                 </div>
@@ -323,14 +304,12 @@ export function SuggestPage() {
                 <div>
                   <label className="block text-sm font-medium text-gray-700 mb-1 flex items-center gap-1.5">
                     <Users size={13} className="text-gray-400" />
-                    {isFr ? 'Pour qui ?' : 'Who is it for?'}
+                    {t('suggest.audienceLabel')}
                   </label>
                   <input
                     value={form.target_audience}
                     onChange={(e) => update('target_audience', e.target.value)}
-                    placeholder={isFr
-                      ? 'ex: Familles, réfugiés, personnes sans-abri...'
-                      : 'e.g. Families, refugees, homeless...'}
+                    placeholder={t('suggest.audiencePlaceholder')}
                     className="w-full px-3 py-2.5 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-blue-500 focus:border-transparent placeholder:text-gray-300"
                   />
                 </div>
@@ -338,14 +317,12 @@ export function SuggestPage() {
                 {/* Access conditions */}
                 <div>
                   <label className="block text-sm font-medium text-gray-700 mb-1">
-                    {isFr ? 'Conditions d\'accès' : 'Access conditions'}
+                    {t('suggest.accessLabel')}
                   </label>
                   <input
                     value={form.access_conditions}
                     onChange={(e) => update('access_conditions', e.target.value)}
-                    placeholder={isFr
-                      ? 'ex: Gratuit, sur rendez-vous, carte d\'identité...'
-                      : 'e.g. Free, by appointment, ID required...'}
+                    placeholder={t('suggest.accessPlaceholder')}
                     className="w-full px-3 py-2.5 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-blue-500 focus:border-transparent placeholder:text-gray-300"
                   />
                 </div>
@@ -354,14 +331,12 @@ export function SuggestPage() {
                 <div>
                   <label className="block text-sm font-medium text-gray-700 mb-1 flex items-center gap-1.5">
                     <Languages size={13} className="text-gray-400" />
-                    {isFr ? 'Langues parlées' : 'Languages spoken'}
+                    {t('suggest.languagesLabel')}
                   </label>
                   <input
                     value={form.languages_spoken}
                     onChange={(e) => update('languages_spoken', e.target.value)}
-                    placeholder={isFr
-                      ? 'ex: Français, anglais, arabe...'
-                      : 'e.g. French, English, Arabic...'}
+                    placeholder={t('suggest.languagesPlaceholder')}
                     className="w-full px-3 py-2.5 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-blue-500 focus:border-transparent placeholder:text-gray-300"
                   />
                 </div>
@@ -370,13 +345,13 @@ export function SuggestPage() {
                 <div>
                   <label className="block text-sm font-medium text-gray-700 mb-2 flex items-center gap-1.5">
                     <Accessibility size={13} className="text-gray-400" />
-                    {isFr ? 'Accessible en fauteuil roulant ?' : 'Wheelchair accessible?'}
+                    {t('suggest.wheelchairLabel')}
                   </label>
                   <div className="flex gap-2">
                     {[
-                      { value: true, label: isFr ? 'Oui' : 'Yes' },
-                      { value: false, label: isFr ? 'Non' : 'No' },
-                      { value: null, label: isFr ? 'Je ne sais pas' : 'Not sure' },
+                      { value: true, label: t('common.yes') },
+                      { value: false, label: t('common.no') },
+                      { value: null, label: t('suggest.notSure') },
                     ].map((opt) => (
                       <button
                         key={String(opt.value)}
@@ -403,27 +378,25 @@ export function SuggestPage() {
           }`}>
             <h2 className="text-sm font-semibold text-gray-900 flex items-center gap-2">
               <Mail size={15} className="text-green-500" />
-              {isFr ? 'Vos coordonnées' : 'Your contact info'}
+              {t('suggest.sectionContact')}
               <span className="text-xs font-normal text-gray-400">
-                ({isFr ? 'obligatoire' : 'required'})
+                ({t('suggest.required')})
               </span>
             </h2>
 
             <p className="text-xs text-gray-500 -mt-2">
-              {isFr
-                ? 'Pour que l\'administrateur puisse vous contacter si besoin de vérification ou de précisions.'
-                : 'So the administrator can contact you for verification or clarifications.'}
+              {t('suggest.contactExplain')}
             </p>
 
             {/* Submitter name */}
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-1">
-                {isFr ? 'Votre nom / pseudo' : 'Your name / alias'}
+                {t('suggest.yourName')}
               </label>
               <input
                 value={form.submitter_name}
                 onChange={(e) => update('submitter_name', e.target.value)}
-                placeholder={isFr ? 'ex: Marie, Association XYZ...' : 'e.g. Marie, Association XYZ...'}
+                placeholder={t('suggest.yourNamePlaceholder')}
                 className="w-full px-3 py-2.5 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-blue-500 focus:border-transparent placeholder:text-gray-300"
               />
             </div>
@@ -431,21 +404,19 @@ export function SuggestPage() {
             {/* Submitter contact */}
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-1">
-                {isFr ? 'Email ou téléphone de contact' : 'Contact email or phone'} *
+                {t('suggest.contactLabel')} *
               </label>
               <input
                 value={form.submitter_contact}
                 onChange={(e) => update('submitter_contact', e.target.value)}
-                placeholder={isFr ? 'email@exemple.com ou +41 79...' : 'email@example.com or +41 79...'}
+                placeholder={t('suggest.contactPlaceholder')}
                 className={`w-full px-3 py-2.5 border rounded-lg text-sm focus:ring-2 focus:ring-blue-500 focus:border-transparent placeholder:text-gray-300 ${
                   contactError ? 'border-red-400' : 'border-gray-300'
                 }`}
               />
               {contactError && (
                 <p className="text-xs text-red-500 mt-1">
-                  {isFr
-                    ? 'Un moyen de contact est nécessaire pour valider votre suggestion.'
-                    : 'A contact method is required to validate your suggestion.'}
+                  {t('suggest.contactRequired')}
                 </p>
               )}
             </div>
@@ -453,10 +424,15 @@ export function SuggestPage() {
             {/* Relation to place */}
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-2">
-                {isFr ? 'Votre lien avec ce lieu' : 'Your relation to this place'}
+                {t('suggest.relationLabel')}
               </label>
               <div className="flex flex-wrap gap-2">
-                {RELATION_OPTIONS.map((opt) => (
+                {[
+                  { value: 'user', label: t('suggest.relationUser') },
+                  { value: 'staff', label: t('suggest.relationStaff') },
+                  { value: 'organization', label: t('suggest.relationOrg') },
+                  { value: 'other', label: t('suggest.relationOther') },
+                ].map((opt) => (
                   <button
                     key={opt.value}
                     type="button"
@@ -467,7 +443,7 @@ export function SuggestPage() {
                         : 'border-gray-200 text-gray-600 hover:border-gray-300'
                     }`}
                   >
-                    {isFr ? opt.labelFr : opt.labelEn}
+                    {opt.label}
                   </button>
                 ))}
               </div>
@@ -477,9 +453,7 @@ export function SuggestPage() {
           {/* Info banner */}
           <div className="bg-blue-50 border border-blue-100 rounded-xl px-4 py-3">
             <p className="text-xs text-blue-700">
-              {isFr
-                ? '📋 Un administrateur examinera votre suggestion dans les plus brefs délais. Vous serez contacté(e) si des informations complémentaires sont nécessaires.'
-                : '📋 An administrator will review your suggestion as soon as possible. You will be contacted if additional information is needed.'}
+              {t('suggest.infoBanner')}
             </p>
           </div>
 
@@ -489,7 +463,7 @@ export function SuggestPage() {
             className="w-full py-3 bg-gray-900 text-white rounded-xl text-sm font-semibold hover:bg-gray-800 transition-colors flex items-center justify-center gap-2 shadow-sm"
           >
             <Send size={16} />
-            {isFr ? 'Envoyer ma suggestion' : 'Submit my suggestion'}
+            {t('suggest.submitButton')}
           </button>
         </form>
       </div>

@@ -1,0 +1,1214 @@
+{
+  "r_0001": {
+    "description": "Besplatna podjela hrane za osobe u teškoj situaciji. Topli obroci poslužuju se u podne i navečer. Bezuvjetni prijem.",
+    "target_audience": "Sve osobe u teškoj situaciji",
+    "access_conditions": "Bez uvjeta, otvoreno za sve"
+  },
+  "r_0002": {
+    "description": "Besplatni pravni savjeti koje nudi Odvjetnička komora Geneve. Prvi pravni savjeti bez narudžbe za sva pravna pitanja.",
+    "target_audience": "Sve osobe kojima su potrebni pravni savjeti",
+    "access_conditions": "Bez narudžbe, po redu dolaska"
+  },
+  "r_0003": {
+    "description": "Hladnjak na slobodnom korištenju gdje svatko može ostaviti ili uzeti hranu besplatno. Borba protiv bacanja hrane.",
+    "target_audience": "Svi",
+    "access_conditions": "Slobodan pristup 24/7"
+  },
+  "r_0004": {
+    "description": "Solidarna trgovina i podjela odjeće. Socijalna podrška za osobe u financijskim poteškoćama. Pomoć u hrani i odjeći.",
+    "target_audience": "Osobe s niskim prihodima",
+    "access_conditions": "Uz predočenje potvrde o niskim primanjima"
+  },
+  "r_0005": {
+    "description": "Besplatni pravni i socijalni savjeti. Administrativna pomoć, savjeti iz područja prava stranaca, radnog prava i socijalnog osiguranja.",
+    "target_audience": "Sve osobe u pravnim ili administrativnim poteškoćama",
+    "access_conditions": "Uz narudžbu, prvi savjet besplatan"
+  },
+  "r_0006": {
+    "description": "Zdravstvene usluge, socijalna pomoć i podrška za ranjive osobe. Programi potpore migrantima i izbjeglicama.",
+    "target_audience": "Ranjive osobe, migranti, izbjeglice",
+    "access_conditions": "Ovisno o programu, neki uz narudžbu"
+  },
+  "r_0007": {
+    "description": "Tjedno dijeljenje paketa hrane za obitelji i osobe u teškoj situaciji. Svježi i osnovni proizvodi.",
+    "target_audience": "Obitelji i osobe s niskim prihodima",
+    "access_conditions": "Uz prijavu, s dokazom o financijskoj situaciji"
+  },
+  "r_0008": {
+    "description": "Kantonalna ustanova za socijalnu pomoć. Financijske potpore, socijalna podrška, pomoć pri stanovanju i profesionalna reintegracija.",
+    "target_audience": "Stanovnici Geneve u financijskim poteškoćama",
+    "access_conditions": "Uz narudžbu, stanovnici kantona Geneve"
+  },
+  "r_0009": {
+    "description": "Besplatan pristup tuševima, perilicama rublja i sušilicama. Higijenske prostorije za beskućnike ili osobe u teškoj situaciji.",
+    "target_audience": "Beskućnici, osobe u teškoj situaciji",
+    "access_conditions": "Bez uvjeta, slobodan pristup"
+  },
+  "r_0010": {
+    "description": "Besplatni liječnički pregledi za osobe bez zdravstvenog osiguranja. Primarna zdravstvena zaštita, usmjeravanje i zdravstvena podrška.",
+    "target_audience": "Osobe bez zdravstvenog osiguranja, osobe bez dokumenata",
+    "access_conditions": "Bez zdravstvenog osiguranja, bez narudžbe"
+  },
+  "r_0011": {
+    "description": "Besplatni tečajevi francuskog za migrantice. Čuvanje djece tijekom tečajeva. Radionice za integraciju i socijalizaciju.",
+    "target_audience": "Migrantice i njihova djeca",
+    "access_conditions": "Migrantice, upis na početku semestra"
+  },
+  "r_0012": {
+    "description": "Besplatni ili povoljni večernji tečajevi: francuski, informatika, računovodstvo, jezici. Kontinuirano obrazovanje za odrasle.",
+    "target_audience": "Odrasle osobe koje se žele obrazovati",
+    "access_conditions": "Upis na početku semestra, snižene cijene prema prihodima"
+  },
+  "r_0013": {
+    "description": "Hitni noćni smještaj. Bezuvjetni prijem beskućnika. Večera i doručak uključeni.",
+    "target_audience": "Beskućnici",
+    "access_conditions": "Bez uvjeta, bezuvjetni prijem navečer"
+  },
+  "r_0014": {
+    "description": "Prijem, saslušanje i hitni smještaj za žene žrtve nasilja. Psihološka podrška i pravna pomoć.",
+    "target_audience": "Žene žrtve obiteljskog nasilja",
+    "access_conditions": "Telefonska linija 24/7, smještaj prema procjeni"
+  },
+  "r_0015": {
+    "description": "Solidarna trgovina odjeće, namještaja i predmeta po vrlo niskim cijenama. Prikupljanje i preraspodjela rabljenih predmeta.",
+    "target_audience": "Svi, osobe s niskim prihodima",
+    "access_conditions": "Otvoreno za sve, solidarne cijene"
+  },
+  "r_0016": {
+    "description": "Informacije i usmjeravanje za strane osobe. Subvencionirani tečajevi francuskog, pomoć pri integraciji, prevencija rasizma i diskriminacije.",
+    "target_audience": "Strani državljani s prebivalištem u Genevi",
+    "access_conditions": "Strani državljani kantona Geneve"
+  },
+  "r_0017": {
+    "description": "Besplatan WiFi pristup u Parc des Bastions, u ponudi Grada Geneve. Slobodna i neograničena veza.",
+    "target_audience": "Svi",
+    "access_conditions": "Slobodan pristup"
+  },
+  "r_0018": {
+    "description": "Zajednički prostor koji nudi društvene, kulturne i obrazovne aktivnosti. Tečajevi, radionice i besplatni ili povoljni događaji.",
+    "target_audience": "Stanovnici četvrti Plainpalais",
+    "access_conditions": "Otvoreno za sve stanovnike četvrti"
+  },
+  "r_0019": {
+    "description": "Prikupljanje neprodanih prehrambenih proizvoda iz trgovina i besplatna preraspodjela osobama u potrebi. Borba protiv rasipanja.",
+    "target_audience": "Osobe u prehrambenom siromaštvu",
+    "access_conditions": "Uz prijavu, dokaz o financijskoj situaciji"
+  },
+  "r_0020": {
+    "description": "Hitna financijska pomoć, socijalna podrška, usmjeravanje prema odgovarajućim službama. Potpora stanovnicima Grada Geneve.",
+    "target_audience": "Stanovnici Grada Geneve u poteškoćama",
+    "access_conditions": "Stanovnici Grada Geneve"
+  },
+  "r_0021": {
+    "description": "Liječnički pregledi primarne zdravstvene zaštite za tražitelje azila i migrante. Partner mreže zdravstvene zaštite azila, s interkulturalnim i psihosocijalnim pristupom. Dostupni pregledi s prevoditeljima.",
+    "target_audience": "Tražitelji azila, izbjeglice, migranti",
+    "access_conditions": "Uz narudžbu, naručivanje ponedjeljak-petak 9h-11h30 i 13h30-17h"
+  },
+  "r_0022": {
+    "description": "Program profesionalne reintegracije za tražitelje zaposlenja. Radionice, praktične obuke i personalizirana podrška.",
+    "target_audience": "Tražitelji zaposlenja u poteškoćama s integracijom",
+    "access_conditions": "Prijava putem Kantonalnog ureda za zapošljavanje ili Hospice général"
+  },
+  "r_0023": {
+    "description": "Obrazovna i socijalna podrška za djecu i adolescente. Domovi, obrazovne radionice, pomoć u učenju i slobodne aktivnosti.",
+    "target_audience": "Djeca i adolescenti od 4 do 18 godina",
+    "access_conditions": "Usmjeravanje putem Službe za zaštitu maloljetnika"
+  },
+  "r_0024": {
+    "description": "Jedinica za hitnu psihosocijalnu intervenciju pri imad-u. Djeluje u situacijama siromaštva, obiteljskog nasilja, maloljetnika u krizi i psihosocijalne nevolje. Tim sastavljen od medicinske sestre i socijalnih radnika.",
+    "target_audience": "Beskućnici",
+    "access_conditions": "Bez uvjeta, mobilni tim na ulicama"
+  },
+  "r_0025": {
+    "description": "Podrška osobama s ovisnostima. Savjetovanja, supstitucijski program, odvikavanje i reintegracija. Ambulantni centar za liječenje.",
+    "target_audience": "Osobe s ovisnostima",
+    "access_conditions": "Bez narudžbe za prijem, uz narudžbu za savjetovanja"
+  },
+  "r_0026": {
+    "description": "Usluge za starije osobe: pomoć u kući, društvene aktivnosti, pravni i financijski savjeti, tečajevi i radionice.",
+    "target_audience": "Osobe starije od 60 godina",
+    "access_conditions": "Osobe od 60 godina i starije"
+  },
+  "r_0027": {
+    "description": "Besplatan WiFi pristup na Bains des Pâquis. Slobodna zona za povezivanje na lokaciji.",
+    "target_audience": "Svi",
+    "access_conditions": "Slobodan pristup"
+  },
+  "r_0028": {
+    "description": "Služba liječnika u kući dostupna 24/7. Hitni liječnički pregledi u kući ili u ordinaciji, 7 dana u tjednu.",
+    "target_audience": "Sve osobe kojima je potreban hitan liječnički pregled",
+    "access_conditions": "Telefonski poziv, medicinski troškovi na teret pacijenta"
+  },
+  "r_0029": {
+    "description": "Dnevni prijem za osobe u teškoj situaciji. Topao prostor, kava, tuševi, pranje rublja, pristup internetu i aktivnosti.",
+    "target_audience": "Osobe u teškoj situaciji",
+    "access_conditions": "Bez uvjeta, slobodan prijem"
+  },
+  "r_0030": {
+    "description": "Besplatna ili snižena psihološka savjetovanja za migrante. Psihološka podrška na više jezika.",
+    "target_audience": "Migranti u psihološkim poteškoćama",
+    "access_conditions": "Uz narudžbu, cijene prema prihodima"
+  },
+  "r_0031": {
+    "description": "Gradska knjižnica s besplatnim pristupom. Posudba knjiga, DVD-ova, CD-ova. Radni prostor, besplatan WiFi, novine i časopisi. Kulturne radionice.",
+    "target_audience": "Svi",
+    "access_conditions": "Slobodan pristup, besplatna iskaznica za posudbu"
+  },
+  "r_0032": {
+    "description": "Javna služba za pomoć u traženju zaposlenja. Prijava na zavod za nezaposlene, ponude za posao, savjeti za profesionalnu orijentaciju, mjere integracije.",
+    "target_audience": "Tražitelji zaposlenja s prebivalištem u Genevi",
+    "access_conditions": "Stanovnici kantona Geneve, obavezna prijava"
+  },
+  "r_0033": {
+    "description": "Pravne i socijalne službe za migrante. Administrativna pomoć, pravo stranaca, spajanje obitelji.",
+    "target_audience": "Migranti, osobe bez dokumenata",
+    "access_conditions": "Uz narudžbu ili dežurstvo bez narudžbe"
+  },
+  "r_0034": {
+    "description": "Niskopražni prostor za primanje korisnika droga. Sterilni pribor, savjetovanja, prostor za odmor i podrška.",
+    "target_audience": "Korisnici droga",
+    "access_conditions": "Bez uvjeta, anonimni prijem"
+  },
+  "r_0035": {
+    "description": "Zajednički centar četvrti Pâquis. Kulturne aktivnosti, tečajevi jezika, kreativne radionice, dječji prostor i pomoć u učenju.",
+    "target_audience": "Stanovnici četvrti Pâquis",
+    "access_conditions": "Otvoreno za sve"
+  },
+  "r_0036": {
+    "description": "Besplatna podjela odjeće za osobe u teškoj situaciji. Odjeća za muškarce, žene i djecu, prema godišnjim dobima.",
+    "target_audience": "Osobe u teškoj situaciji",
+    "access_conditions": "Uz predočenje potvrde socijalne službe"
+  },
+  "r_0037": {
+    "description": "Tečajevi francuskog kao stranog jezika za odrasle migrante. Razine od početne do napredne. Tečajevi danju i navečer.",
+    "target_audience": "Odrasli migranti koji žele naučiti francuski",
+    "access_conditions": "Upis i test razine, moguće snižene cijene"
+  },
+  "r_0038": {
+    "description": "Dijeljenje toplih obroka (juha i kruh) za osobe u teškoj situaciji. Besplatna usluga bez uvjeta.",
+    "target_audience": "Svi",
+    "access_conditions": "Bez uvjeta, po redu dolaska"
+  },
+  "r_0039": {
+    "description": "Centar za informiranje i savjetovanje žena. Pravni, socijalni i profesionalni savjeti. Podrška u slučaju nasilja.",
+    "target_audience": "Žene svih dobi i situacija",
+    "access_conditions": "Otvoreno za sve žene, neka savjetovanja uz narudžbu"
+  },
+  "r_0040": {
+    "description": "Podružnica Hospice général u Plainpalaisu. Financijska pomoć, socijalna podrška, pomoć pri stanovanju i profesionalnoj reintegraciji.",
+    "target_audience": "Stanovnici četvrti Plainpalais u poteškoćama",
+    "access_conditions": "Uz narudžbu, stanovnici kantona Geneve"
+  },
+  "r_0041": {
+    "description": "Udruga neovisnih primalja koja promiče perinatalnu zdravstvenu zaštitu. Telefonsko dežurstvo 7 dana u tjednu, besplatni prostori za prijem s primaljama, savjeti o trudnoći, dojenju, postnatalnom praćenju.",
+    "target_audience": "Trudnice i mladi roditelji",
+    "access_conditions": "Bez narudžbe za dežurstva, besplatno. Telefonsko dežurstvo pon-pet 8h-20h, sub-ned 9h-12h i 17h-20h"
+  },
+  "r_0042": {
+    "description": "Dnevni prostor za prijem osoba u teškoj situaciji. Doručak, kava, prostor za odmor, aktivnosti i socijalno usmjeravanje.",
+    "target_audience": "Beskućnici",
+    "access_conditions": "Bez uvjeta, bezuvjetni prijem"
+  },
+  "r_0043": {
+    "description": "Pravna zaštita ranjivih odraslih osoba i maloljetnika. Skrbništva, tutorstva i zaštitne mjere.",
+    "target_audience": "Ranjive odrasle osobe i maloljetnici kojima je potrebna pravna zaštita",
+    "access_conditions": "Na temelju prijave ili izravnog zahtjeva"
+  },
+  "r_0044": {
+    "description": "Besplatna WiFi pristupna točka na Place du Molard, u srcu starog grada Geneve. Mreža Grada Geneve.",
+    "target_audience": "Svi",
+    "access_conditions": "Slobodan pristup"
+  },
+  "r_0045": {
+    "description": "Smještaj za žene s djecom u poteškoćama, većinom žrtve obiteljskog nasilja. Psihosocijalna podrška, pomoć pri socijalnoj i profesionalnoj integraciji, jačanje veze majka/dijete. Raspolaže jaslicama.",
+    "target_audience": "Žene same ili s djecom u teškoj situaciji",
+    "access_conditions": "Na usmjeravanje socijalne službe, procjena situacije"
+  },
+  "r_0046": {
+    "description": "Besplatan, anoniman prostor za prijem djece do 5 godina u pratnji odrasle osobe, bez prijave. Mjesto za slušanje i podršku djeci i roditeljima.",
+    "target_audience": "Djeca od 0 do 5 godina i njihovi roditelji ili pratitelji",
+    "access_conditions": "Besplatno, anonimno, bez prijave, djeca u pratnji odrasle osobe"
+  },
+  "r_0047": {
+    "description": "Pravni savjeti za stanare. Pomoć u slučaju spora s vlasnikom, povećanja najamnine, raskida ugovora o najmu.",
+    "target_audience": "Stanari kantona Geneve",
+    "access_conditions": "Članstvo u udruzi (simbolična članarina)"
+  },
+  "r_0048": {
+    "description": "Prikupljanje i preraspodjela prehrambenih proizvoda dobrotvornim organizacijama u Genevi. Borba protiv prehrambenog siromaštva i rasipanja.",
+    "target_audience": "Dobrotvorne organizacije i osobe u prehrambenom siromaštvu",
+    "access_conditions": "Dostupno putem partnerskih organizacija"
+  },
+  "r_0049": {
+    "description": "Sveučilišna stomatološka klinika koja nudi stomatološku skrb. Prijem bez narudžbe od ponedjeljka do petka od 8h do 15h30. Hitna stomatološka pomoć i redoviti tretmani.",
+    "target_audience": "Svi, osobe bez stomatološkog osiguranja ili s niskim prihodima",
+    "access_conditions": "Prijem bez narudžbe od ponedjeljka do petka od 8h do 15h30"
+  },
+  "r_0050": {
+    "description": "Mjesto za prijem, podršku i socioprofesionalnu reintegraciju osoba u teškoj situaciji. Besplatni doručci (150-200/tjedno), društvene aktivnosti i staževi za reintegraciju.",
+    "target_audience": "Osobe u teškoj situaciji",
+    "access_conditions": "Bez uvjeta, slobodan prijem"
+  },
+  "r_0051": {
+    "description": "Mjesto za prijem, razonodu, susrete i opuštanje za sve dobi, sve kulture i sve društvene slojeve. Kulturne i društvene aktivnosti.",
+    "target_audience": "Stanovnici četvrti Eaux-Vives i svi",
+    "access_conditions": "Otvoreno za sve, slobodan prijem"
+  },
+  "r_0052": {
+    "description": "Prostor za prijem i usmjeravanje žena i obitelji. Pravna savjetovanja (obiteljsko pravo, razvod, obiteljsko nasilje, boravišna dozvola), profesionalno usmjeravanje i psihosocijalna podrška.",
+    "target_audience": "Žene i obitelji",
+    "access_conditions": "Telefonsko pravno dežurstvo: uto 11h-13h, sri 14h-16h, čet 12h-14h na 022 740 31 11. Savjetovanja uz narudžbu."
+  },
+  "r_0053": {
+    "description": "Udruga za prevenciju suicida među mladima u frankofonskoj Švicarskoj. Osvješćivanje, radionice, moduli prevencije i usmjeravanje prema strukturama pomoći. U hitnom slučaju nazvati 143.",
+    "target_audience": "Mladi od 15 do 29 godina, prevencija suicida",
+    "access_conditions": "Ured otvoren radnim danom. U hitnom slučaju nazvati 143 (24/7)"
+  },
+  "r_0054": {
+    "description": "Odjel za mentalno zdravlje i psihijatriju HUG-a. Psihijatrijska i psihološka savjetovanja, liječenje anksioznih poremećaja, depresije, trauma.",
+    "target_audience": "Osobe s psihičkim poremećajima",
+    "access_conditions": "Uz narudžbu, uz liječnički uput"
+  },
+  "r_0055": {
+    "description": "Dopunske financijske potpore za korisnike AVS/AI. Pomoć pri plaćanju premija zdravstvenog osiguranja i najamnine.",
+    "target_audience": "Korisnici AVS/AI s niskim prihodima",
+    "access_conditions": "Korisnici AVS/AI, stanovnici kantona Geneve"
+  },
+  "r_0056": {
+    "description": "Pomoć u naturi i plaćanje hitnih računa za osobe čiji su prihodi na razini egzistencijalnog minimuma ili malo iznad.",
+    "target_audience": "Osobe u povremenim financijskim poteškoćama",
+    "access_conditions": "Zahtjevi putem e-maila na geneve@secours-d-hiver.ch. Telefon samo petkom."
+  },
+  "r_0057": {
+    "description": "Genevska udruga usmjerena na djecu i adolescente. Psihopedagoški centar (13-18 godina), Café Ados, podrška maloljetnicima bez pratnje, preventivne aktivnosti.",
+    "target_audience": "Djeca i adolescenti od 12 do 18 godina",
+    "access_conditions": "Uz prijavu ili usmjeravanje"
+  },
+  "r_0058": {
+    "description": "Programi profesionalne integracije za osobe udaljene od tržišta rada. Procjena kompetencija, coaching za zapošljavanje, staževi.",
+    "target_audience": "Osobe udaljene od tržišta rada",
+    "access_conditions": "Prijava putem Hospice général ili OCE"
+  },
+  "r_0059": {
+    "description": "Pomoć izbjeglicama i migrantima. Tečajevi francuskog, pomoć pri integraciji, pravni savjeti iz područja azila i socijalna podrška.",
+    "target_audience": "Izbjeglice i migranti",
+    "access_conditions": "Izbjeglice i migranti, potrebna prijava"
+  },
+  "r_0060": {
+    "description": "Zajednički centar četvrti Jonction. Društvene, građanske i kulturne aktivnosti za sve dobi. Slobodan prijem, radionice otvorene stanovnicima od 9 do 99 godina.",
+    "target_audience": "Stanovnici četvrti Jonction",
+    "access_conditions": "Otvoreno za sve"
+  },
+  "r_0061": {
+    "description": "Higijenske prostorije (WC/tuševi) na 1. katu istočnog krila kolodvora Cornavin. Pod upravom SBB-a. Plaćeni pristup (CHF 2), besplatno za vlasnike općeg pretplatnog SwissPass-a. Jeftiniji WC-i (CHF 1) nalaze se u podrumu kolodvorskog trga.",
+    "target_audience": "Svi",
+    "access_conditions": "Plaćeni pristup (CHF 2), besplatno uz opću pretplatu SwissPass"
+  },
+  "r_0062": {
+    "description": "Besplatni javni toaleti u Parc des Bastions, u blizini Zida reformatora. Pristupačni osobama smanjene pokretljivosti.",
+    "target_audience": "Svi",
+    "access_conditions": "Slobodan i besplatan pristup"
+  },
+  "r_0063": {
+    "description": "Besplatni javni toaleti na Plaine de Plainpalais, u blizini buvljaka. Redovito održavanje od strane gradskih službi.",
+    "target_audience": "Svi",
+    "access_conditions": "Slobodan i besplatan pristup"
+  },
+  "r_0064": {
+    "description": "Javna fontana s pitkom vodom besplatno u Jardin Anglais, blizu Cvjetnog sata. Svježa voda cijele godine.",
+    "target_audience": "Svi",
+    "access_conditions": "Slobodan pristup 24/7"
+  },
+  "r_0065": {
+    "description": "Javna fontana s pitkom vodom na najstarijem trgu u Genevi. Besplatna pitka voda neprekidno.",
+    "target_audience": "Svi",
+    "access_conditions": "Slobodan pristup 24/7"
+  },
+  "r_0066": {
+    "description": "Javna fontana s pitkom vodom u Parc des Eaux-Vives, uz jezero. Idealna za osvježenje tijekom šetnji.",
+    "target_audience": "Svi",
+    "access_conditions": "Slobodan pristup 24/7"
+  },
+  "r_0067": {
+    "description": "Besplatna gradska knjižnica u srcu četvrti Servette. Odvojeni prostori za odrasle i mlade, posudba knjiga i medija, besplatan WiFi i kulturne aktivnosti.",
+    "target_audience": "Svi",
+    "access_conditions": "Slobodan pristup, besplatna iskaznica za posudbu"
+  },
+  "r_0068": {
+    "description": "Besplatna gradska knjižnica u četvrti Eaux-Vives. Prostori za odrasle i mlade, posudba knjiga i medija, besplatan WiFi.",
+    "target_audience": "Svi",
+    "access_conditions": "Slobodan pristup, besplatna iskaznica za posudbu"
+  },
+  "r_0069": {
+    "description": "Besplatna gradska knjižnica u četvrti Jonction. Veliki izbor knjiga, prostor za mlade, animacije i besplatan WiFi.",
+    "target_audience": "Svi",
+    "access_conditions": "Slobodan pristup, besplatna iskaznica za posudbu"
+  },
+  "r_0070": {
+    "description": "Besplatna gradska knjižnica u srcu kozmopolitske četvrti Pâquis. Posudba knjiga na brojnim jezicima, besplatan WiFi i animacije.",
+    "target_audience": "Svi",
+    "access_conditions": "Slobodan pristup, besplatna iskaznica za posudbu"
+  },
+  "r_0071": {
+    "description": "Besplatna posudba društvenih igara, edukativnih igara i igračaka za djecu i obitelji. Prostor za igru na licu mjesta. Otvoreno za svu djecu u pratnji.",
+    "target_audience": "Djeca, obitelji, svi",
+    "access_conditions": "Besplatna prijava, besplatna posudba"
+  },
+  "r_0072": {
+    "description": "Četvrtna ludoteka s besplatnom posudbom društvenih igara, igračaka i edukativnih igara. Ugodna igraonica i ludičke radionice.",
+    "target_audience": "Djeca, obitelji, svi",
+    "access_conditions": "Besplatna prijava, besplatna posudba"
+  },
+  "r_0073": {
+    "description": "Urbani zajednički vrt u četvrti Grottes. Zajedničke parcele, kolektivno kompostiranje i besplatne vrtlarske radionice.",
+    "target_audience": "Stanovnici četvrti, ljubitelji vrtlarstva",
+    "access_conditions": "Slobodan pristup, sudjelovanje u radionicama uz prijavu"
+  },
+  "r_0074": {
+    "description": "Urbani participativni vrt u Parc Beaulieu, pod vodstvom udruge Les Artichauts. Besplatne vrtlarske radionice svake subote popodne, otvorene za sve razine. Proizvodnja bio presadnica.",
+    "target_audience": "Stanovnici četvrti, svi",
+    "access_conditions": "Slobodan pristup, besplatne vrtlarske radionice subotom 14h-17h (sredina veljače do kraja listopada)"
+  },
+  "r_0075": {
+    "description": "Sindikalno dežurstvo za radnike i radnice. Savjeti iz radnog prava, obrana prava, pomoć u slučaju otkaza ili radnog spora.",
+    "target_audience": "Radnici i radnice, sve struke",
+    "access_conditions": "Otvoreno za sve radnike, članstvo za pravne usluge"
+  },
+  "r_0076": {
+    "description": "Međustrukovni sindikat radnika i radnica. Pravna dežurstva, obrana prava na radu, kolektivno pregovaranje.",
+    "target_audience": "Radnici i radnice svih sektora",
+    "access_conditions": "Otvoreno za sve radnike, članstvo za pravne usluge"
+  },
+  "r_0077": {
+    "description": "Besplatni i povjerljivi centar za savjetovanje žrtava kaznenih djela. Psihološka, pravna i socijalna podrška. Hitna financijska pomoć.",
+    "target_audience": "Žrtve kaznenih djela i njihovi bližnji",
+    "access_conditions": "Besplatno i povjerljivo, savjetovanja uz narudžbu"
+  },
+  "r_0078": {
+    "description": "Telefonska služba za slušanje 24/7 za svaku osobu u poteškoćama, tjeskobama ili samoći. Anonimno, povjerljivo i besplatno slušanje.",
+    "target_audience": "Svaka osoba u nevolji, samoći ili tjeskobi",
+    "access_conditions": "Nazvati 143, besplatno, anonimno i povjerljivo 24/7"
+  },
+  "r_0079": {
+    "description": "Telefonska linija pomoći za djecu i mlade, dostupna 24/7. Slušanje, savjeti i usmjeravanje za osobne, obiteljske ili školske probleme.",
+    "target_audience": "Djeca i mladi do 25 godina",
+    "access_conditions": "Nazvati 147, besplatno, anonimno i povjerljivo 24/7"
+  },
+  "r_0080": {
+    "description": "Besplatna i povjerljiva savjetovanja o seksualnom i reproduktivnom zdravlju. Kontracepcija, trudnoća, SPB, bračno savjetovanje i seksualno obrazovanje. Hitna kontracepcija bez narudžbe.",
+    "target_audience": "Sve osobe, posebno mladi i žene",
+    "access_conditions": "Besplatno, povjerljivo, uz narudžbu (bez narudžbe za hitnu kontracepciju)"
+  },
+  "r_0081": {
+    "description": "Anonimno i povjerljivo testiranje na HIV i SPB u Sveučilišnim bolnicama u Genevi. Brzi test na HIV (55 CHF), potpuno testiranje HIV/SPB (155 CHF). Savjetovanja o praćenju i liječenju za HIV pozitivne osobe.",
+    "target_audience": "Sve osobe koje žele testiranje na HIV/SPB",
+    "access_conditions": "Anonimno testiranje uz narudžbu (putem www.testvih.ch ili telefonom), brzi test na HIV od 55 CHF"
+  },
+  "r_0082": {
+    "description": "Ljekarna integrirana u zdravstveni centar Cité Générations (Klinika i hitna služba u Onexu). Farmaceutski savjeti, terapeutsko praćenje i blizina hitnih službi za odrasle i djecu.",
+    "target_audience": "Svi, pacijenti zdravstvenog centra Cité Générations",
+    "access_conditions": "Otvoreno za sve, bez uvjeta"
+  },
+  "r_0083": {
+    "description": "Centralizirana služba za dodjelu mjesta u hitnom smještaju za beskućnike. Nazvati centralu za dobivanje mjesta u mreži (skloništa PC Châtelaine, Richemont, udruge domova). Ukupni kapacitet 184 mjesta.",
+    "target_audience": "Beskućnici, u hitnim situacijama",
+    "access_conditions": "Nazvati besplatni broj 0800 22 22 10 za dobivanje mjesta, bezuvjetni prijem"
+  },
+  "r_0084": {
+    "description": "Bezuvjetno dnevno prihvatilište u Temple de la Servette za osobe u teškoj situaciji. Solidarni obroci, topli napitci, javni pisar (životopisi, pisma), radionice francuskog, engleskog i informatike, besplatna pravna savjetovanja.",
+    "target_audience": "Osobe u teškoj situaciji, migranti, beskućnici",
+    "access_conditions": "Bez uvjeta, bezuvjetni prijem"
+  },
+  "r_0085": {
+    "description": "Kultna javna kupališta na obali Ženevskog jezera. Pješčana plaža, bazeni, skakaonice (3-10 m), sauna i hamam, popularna buvette. Vrlo pristupačna cijena ulaznice (2 CHF ljeti, 1 CHF zimi).",
+    "target_audience": "Svi",
+    "access_conditions": "Besplatan pristup javnim prostorima, ulaz 2 CHF ljeti i 1 CHF zimi"
+  },
+  "r_0086": {
+    "description": "Besplatna javna plaža uz jezero, idealna za obitelji s djecom. Dječje igralište, plitak bazen za djecu, zelene površine i sportski tereni.",
+    "target_audience": "Obitelji, djeca, svi",
+    "access_conditions": "Slobodan i besplatan pristup"
+  },
+  "r_0087": {
+    "description": "Javni i besplatni sportski tereni u Parc des Bastions. Divovski šah, stolovi za stolni tenis, boćanje i vanjski fitnes prostor.",
+    "target_audience": "Svi",
+    "access_conditions": "Slobodan i besplatan pristup"
+  },
+  "r_0088": {
+    "description": "Besplatna služba za medijaciju u rješavanju obiteljskih, socijalnih, susjedskih ili radnih sukoba. Kaznena, građanska i zdravstvena medijacija.",
+    "target_audience": "Stanovnici Grada Geneve",
+    "access_conditions": "Besplatno, uz narudžbu"
+  },
+  "r_0089": {
+    "description": "Prostor za prijem, informiranje i aktivnosti za starije osobe. Besplatni info punkt, administrativna pomoć, tečajevi, radionice, predavanja, zdravstveni savjeti i međugeneracijski susreti.",
+    "target_audience": "Starije osobe, umirovljenici i njihovi bližnji",
+    "access_conditions": "Otvoreno za sve starije osobe i njihove bližnje, slobodan i besplatan pristup"
+  },
+  "r_0090": {
+    "description": "Besplatan zajednički radni prostor u Bibliothèque de la Cité. WiFi, električne utičnice, radni stolovi i mirna atmosfera za rad ili učenje.",
+    "target_audience": "Studenti, slobodnjaci, tražitelji zaposlenja, svi",
+    "access_conditions": "Slobodan i besplatan pristup, WiFi dostupan"
+  },
+  "r_0091": {
+    "description": "Besplatne putujuće radionice za popravke koje organizira FRC Genève. Iskusni volonteri popravljaju elektroničke uređaje, odjeću i bicikle. Povremeni događaji (pogledajte stranicu za datume i lokacije).",
+    "target_audience": "Svi",
+    "access_conditions": "Slobodan i besplatan pristup, jednom mjesečno subotom (pogledajte stranicu)"
+  },
+  "r_0092": {
+    "description": "Besplatna radionica za popravke u Carougeu. Volonteri pomažu popraviti vaše pokvarene predmete: male uređaje, šivanje, informatiku, bicikle.",
+    "target_audience": "Svi",
+    "access_conditions": "Slobodan i besplatan pristup, jednom mjesečno subotom (pogledajte stranicu)"
+  },
+  "r_0093": {
+    "description": "Centar za etnopsihološka savjetovanja i studije za migrante. Psihoterapeutska podrška prilagođena kulturi podrijetla, pomoć kod trauma vezanih uz izgnanstvo i integraciju.",
+    "target_audience": "Migranti, bikulturalni parovi, obitelji u interkulturalnoj situaciji",
+    "access_conditions": "Uz narudžbu, savjetovanja za migrante i bikulturalne osobe"
+  },
+  "r_0094": {
+    "description": "Besplatni javni toaleti na Place de Neuve, u blizini Grand Théâtre i Musée Rath. Pristupačni osobama smanjene pokretljivosti.",
+    "target_audience": "Svi",
+    "access_conditions": "Slobodan i besplatan pristup"
+  },
+  "r_0095": {
+    "description": "Besplatna fontana s pitkom vodom u Parc de la Grange, najvećem obalnom parku u Genevi. Svježa voda dostupna cijele godine.",
+    "target_audience": "Svi",
+    "access_conditions": "Slobodan pristup 24/7"
+  },
+  "r_0096": {
+    "description": "Besplatni javni toaleti na Quai du Mont-Blanc, u blizini Jet d'eau. Otvoreni cijele godine.",
+    "target_audience": "Svi",
+    "access_conditions": "Slobodan i besplatan pristup"
+  },
+  "r_0097": {
+    "description": "Zajednički urbani vrt na ušću Arve i Rhône. Radionice permakulture, kolektivno kompostiranje i participativno vrtlarstvo.",
+    "target_audience": "Stanovnici četvrti, svi",
+    "access_conditions": "Slobodan pristup, sudjelovanje na upit"
+  },
+  "r_0098": {
+    "description": "Javna fontana s pitkom vodom ispred kolodvora Cornavin. Mjesto za opskrbu svježom i besplatnom vodom u centru Geneve.",
+    "target_audience": "Svi",
+    "access_conditions": "Slobodan pristup 24/7"
+  },
+  "r_0099": {
+    "description": "Četvrtna ludoteka s besplatnom posudbom društvenih igara, puzzli i igračaka za sve dobi. Popodnevne igre otvorene obiteljima.",
+    "target_audience": "Djeca, obitelji, svi",
+    "access_conditions": "Igra na licu mjesta besplatna, godišnja pretplata 30 CHF za posudbu"
+  },
+  "r_0100": {
+    "description": "Besplatan WiFi pristup u Parc de la Grange u ponudi Grada Geneve. Slobodna veza u jednom od najljepših genevskih parkova.",
+    "target_audience": "Svi",
+    "access_conditions": "Slobodan pristup"
+  },
+  "r_0101": {
+    "description": "Udruga za podršku LGBTIQ+ zajednici. Checkpoint Genève (zajednički zdravstveni centar s testiranjem na HIV/SPB i psihološkom podrškom), Le Refuge (smještaj za mlade LGBTIQ+), grupe za razgovor i društvene aktivnosti.",
+    "target_audience": "LGBTIQ+ zajednica i sve zainteresirane osobe",
+    "access_conditions": "Otvoreno za sve, besplatno i anonimno testiranje"
+  },
+  "r_0102": {
+    "description": "Zajednički centar Saint-Jean koji nudi aktivnosti za sve dobi. Radionice, tečajevi jezika, pomoć u učenju i kulturni događaji.",
+    "target_audience": "Stanovnici četvrti Saint-Jean, djeca, adolescenti i odrasli",
+    "access_conditions": "Otvoreno za sve stanovnike četvrti"
+  },
+  "r_0103": {
+    "description": "Besplatna podrška i informacije za osobe pogođene rakom. Psiho-onkološka savjetovanja, grupe za razgovor i socijalna podrška.",
+    "target_audience": "Osobe oboljele od raka i njihovi bližnji",
+    "access_conditions": "Besplatno, uz narudžbu"
+  },
+  "r_0104": {
+    "description": "Besplatni krizni psihijatrijski pregledi i ambulantno praćenje za odrasle u psihičkim poteškoćama. Služba pri HUG-u.",
+    "target_audience": "Odrasle osobe u psihičkoj krizi",
+    "access_conditions": "Besplatno, uz ili bez narudžbe ovisno o hitnosti"
+  },
+  "r_0105": {
+    "description": "Besplatna podrška za osobe s dijabetesom i njihove bližnje. Dijetetski savjeti, grupe za razmjenu i informacije o bolesti.",
+    "target_audience": "Osobe s dijabetesom i njihovi bližnji",
+    "access_conditions": "Besplatno, uz narudžbu ili telefonsko dežurstvo"
+  },
+  "r_0106": {
+    "description": "Primarna zdravstvena zaštita za osobe bez zdravstvenog osiguranja ili u teškoj situaciji. Opći pregledi i usmjeravanje.",
+    "target_audience": "Osobe bez zdravstvenog osiguranja ili u teškoj situaciji",
+    "access_conditions": "Dostupno osobama bez zdravstvenog osiguranja, uz narudžbu"
+  },
+  "r_0107": {
+    "description": "Genevska ustanova za kućnu njegu. Medicinska njega, pomoć u kući i podrška za starije osobe, bolesnike ili osobe u oporavku.",
+    "target_audience": "Starije osobe, bolesnici ili osobe u oporavku kojima je potrebna kućna njega",
+    "access_conditions": "Uz liječnički uput ili izravni zahtjev"
+  },
+  "r_0108": {
+    "description": "Besplatna podrška za obitelji i bližnje osoba oboljelih od Alzheimera. Grupe za razgovor, savjetovanja i usmjeravanje prema specijaliziranim službama.",
+    "target_audience": "Obitelji i bližnji osoba oboljelih od Alzheimera ili demencije",
+    "access_conditions": "Besplatno, uz narudžbu"
+  },
+  "r_0109": {
+    "description": "Kantonalna služba za zaštitu djece. Procjena opasnih situacija, zaštitne mjere i podrška obiteljima u poteškoćama.",
+    "target_audience": "Djeca i obitelji u opasnosti ili poteškoćama",
+    "access_conditions": "Kantonalna služba, pristup na temelju prijave ili zahtjeva"
+  },
+  "r_0110": {
+    "description": "Obrazovna podrška i pomoć u učenju za mlade u poteškoćama. Radionice, obrazovni smještaj i programi reintegracije.",
+    "target_audience": "Mladi u školskim, socijalnim ili obiteljskim poteškoćama",
+    "access_conditions": "Na usmjeravanje SPMi-ja ili izravni zahtjev"
+  },
+  "r_0111": {
+    "description": "Besplatni umjetnički prostor za djecu od 0 do 6 godina i njihove pratitelje. Radionice slikanja, modeliranja i glazbe u okviru Parc de la Perle du Lac.",
+    "target_audience": "Djeca od 0 do 6 godina u pratnji odrasle osobe",
+    "access_conditions": "Besplatno, bez prijave, djeca u pratnji"
+  },
+  "r_0112": {
+    "description": "Mjesto za prijem roditelja i djece od 0 do 4 godine. Prostor za slobodnu igru, razmjenu među roditeljima i podrška roditeljstvu u toplom okruženju.",
+    "target_audience": "Roditelji i djeca od 0 do 4 godine",
+    "access_conditions": "Besplatno, bez prijave, dijete u pratnji roditelja"
+  },
+  "r_0113": {
+    "description": "Besplatna posudba igara i igračaka za djecu i obitelji. Bogata zbirka društvenih igara, edukativnih igara i igračaka za sve dobi.",
+    "target_audience": "Djeca i obitelji",
+    "access_conditions": "Besplatna prijava, besplatna posudba igara za stanovnike Carougea"
+  },
+  "r_0114": {
+    "description": "Besplatna služba za posudbu bicikala na slobodno korištenje u Genevi. Klasični i električni bicikli dostupni za svakodnevna gradska putovanja.",
+    "target_audience": "Svi",
+    "access_conditions": "Besplatno, potrebna osobna iskaznica i jamčevina"
+  },
+  "r_0115": {
+    "description": "Snižena cijena pretplata na javni prijevoz u Genevi za osobe s niskim prihodima. Popust do 50% na mjesečne i godišnje pretplate.",
+    "target_audience": "Osobe s niskim prihodima s prebivalištem u kantonu Geneve",
+    "access_conditions": "Prema uvjetima prihoda, potreban dokaz"
+  },
+  "r_0116": {
+    "description": "Pokrivanje troškova javnog prijevoza za korisnike socijalne pomoći. Pretplata na TPG uključena u financijsku pomoć.",
+    "target_audience": "Korisnici socijalne pomoći",
+    "access_conditions": "Rezervirano za korisnike socijalne pomoći Hospice général"
+  },
+  "r_0117": {
+    "description": "Besplatan SBB-FREE WiFi pristup na kolodvoru Cornavin. Neograničena veza dostupna u cijelom kolodvoru i na peronima.",
+    "target_audience": "Svi",
+    "access_conditions": "Besplatno, mreža SBB-FREE, bez lozinke"
+  },
+  "r_0118": {
+    "description": "Besplatan WiFi Grada Geneve u Jardin Anglais. Pristupna točka na otvorenom s pogledom na Jet d'eau i jezero.",
+    "target_audience": "Svi",
+    "access_conditions": "Besplatno, mreža Ville de Genève WiFi"
+  },
+  "r_0119": {
+    "description": "Besplatan WiFi Grada Geneve na Plaine de Plainpalais. Proširena zona pokrivanja na ovom velikom gradskom prostoru.",
+    "target_audience": "Svi",
+    "access_conditions": "Besplatno, mreža Ville de Genève WiFi"
+  },
+  "r_0120": {
+    "description": "Sveučilišna zgrada s besplatnim WiFi pristupom i studijskim prostorima otvorenim za javnost. Knjižnica, radne sobe i kafeterija dostupni.",
+    "target_audience": "Studenti i svi koji traže radni prostor",
+    "access_conditions": "Besplatno, slobodan pristup javnim prostorima zgrade"
+  },
+  "r_0121": {
+    "description": "Profesionalna reintegracija za osobe s narušenim zdravljem ili s invaliditetom. Razvoj osobnih, profesionalnih i socijalnih kompetencija, definiranje profesionalnog projekta, staževi u tvrtkama i zapošljavanje.",
+    "target_audience": "Osobe s invaliditetom ili zdravstvenim problemima koje traže zaposlenje",
+    "access_conditions": "Besplatno, na usmjeravanje AI, zavoda za nezaposlene ili socijalne pomoći"
+  },
+  "r_0122": {
+    "description": "Prostor za obrazovanje žena s malo ili bez kvalifikacija koje imaju poteškoća u pronalaženju posla. Tečajevi francuskog, informatike, osnovnih vještina i podrška prema samostalnosti i profesionalnoj integraciji.",
+    "target_audience": "Žene s malo ili bez kvalifikacija u teškoj situaciji",
+    "access_conditions": "Besplatno za većinu tečajeva, potrebna prijava u tajništvu"
+  },
+  "r_0123": {
+    "description": "Profesionalna podrška za mlade odrasle mlađe od 25 godina prema uspjehu u dualnom naukovanju i za osobe starije od 50 godina prema povratku na tržište rada. Individualni i skupni coaching.",
+    "target_audience": "Mladi mlađi od 25 godina bez obrazovanja i osobe starije od 50 godina u potrazi za poslom",
+    "access_conditions": "Besplatno za mlade mlađe od 25 godina i osobe starije od 50 godina s prebivalištem u Genevi"
+  },
+  "r_0124": {
+    "description": "Mjesto razmjene, informiranja i udružnog obrazovanja koje ugošćuje više od 80 lokalnih i međunarodnih udruga. 13 dvorana dostupnih za najam za događaje, kongrese i udružne aktivnosti.",
+    "target_audience": "Udruge i stanovnici četvrti",
+    "access_conditions": "Slobodan pristup zajedničkim prostorima, rezervacija za dvorane"
+  },
+  "r_0125": {
+    "description": "Četvrtni životni centar koji nudi sociokulturalne aktivnosti za sve dobi. Kreativne radionice, tečajevi jezika, zajednički događaji i kafić.",
+    "target_audience": "Stanovnici Carougea i okolice, sve dobi",
+    "access_conditions": "Slobodan pristup, neke aktivnosti uz prijavu"
+  },
+  "r_0126": {
+    "description": "Zajednički prostor u Vernieru koji nudi aktivnosti za djecu, adolescente i odrasle. Pomoć u učenju, radionice, izleti i interkulturalni događaji.",
+    "target_audience": "Stanovnici Verniera, sve dobi",
+    "access_conditions": "Slobodan pristup, neke aktivnosti uz prijavu"
+  },
+  "r_0127": {
+    "description": "Telefonska linija za slušanje i podršku žrtvama seksualnog nasilja. Psihološka, pravna i socijalna podrška u povjerljivom okruženju.",
+    "target_audience": "Žrtve seksualnog nasilja, pretežno žene i LGBTIQ+ osobe",
+    "access_conditions": "Besplatno i povjerljivo, uz ili bez narudžbe"
+  },
+  "r_0128": {
+    "description": "Udruga za podršku i osnaživanje migrantica. Tečajevi francuskog, radionice za integraciju, psihološka savjetovanja i zajednička podrška.",
+    "target_audience": "Migrantice i izbjeglice",
+    "access_conditions": "Besplatno ili uz simboličnu cijenu, potrebna prijava za tečajeve"
+  },
+  "r_0129": {
+    "description": "Podrška i pratnja trudnicama u poteškoćama. Slušanje, materijalna pomoć (odjeća za bebe, kolica), savjeti i usmjeravanje prema socijalnim službama.",
+    "target_audience": "Trudnice u poteškoćama i mlade majke",
+    "access_conditions": "Besplatno, uz narudžbu ili telefonsko dežurstvo"
+  },
+  "r_0130": {
+    "description": "Dnevni prijem za starije osobe s gubitkom samostalnosti. Prilagođene aktivnosti, obroci i njega koji pružaju predah bližnjim njegovateljima.",
+    "target_audience": "Starije osobe s gubitkom samostalnosti i njihovi bližnji njegovatelji",
+    "access_conditions": "Uz liječnički uput, financijsko sudjelovanje prema prihodima"
+  },
+  "r_0131": {
+    "description": "Podrška i usmjeravanje za bližnje njegovatelje u kantonu Geneve. Slušanje, savjeti, grupe za razgovor i umrežavanje s postojećim resursima.",
+    "target_audience": "Bližnji njegovatelji starijih osoba, bolesnika ili osoba s invaliditetom",
+    "access_conditions": "Besplatno, uz ili bez narudžbe"
+  },
+  "r_0132": {
+    "description": "Besplatni ili povoljni tečajevi za odrasle u brojnim područjima: jezici, informatika, kultura, osobni razvoj. Otvoreno za sve bez uvjeta diplome.",
+    "target_audience": "Odrasle osobe svih profila bez uvjeta diplome",
+    "access_conditions": "Besplatno ili po povoljnim cijenama, upis po semestru"
+  },
+  "r_0133": {
+    "description": "Resursni centar za međunarodne organizacije i udruge. Konferencijske dvorane, coworking prostori i administrativne usluge podrške.",
+    "target_audience": "Udruge, nevladine organizacije i međunarodne organizacije",
+    "access_conditions": "Slobodan pristup zajedničkim prostorima, rezervacija za konferencijske dvorane"
+  },
+  "r_0134": {
+    "description": "Besplatna pravna savjetovanja za strane osobe o pitanjima prava stranaca, azila, spajanja obitelji i boravišne dozvole.",
+    "target_audience": "Strani državljani s prebivalištem u kantonu Geneve",
+    "access_conditions": "Besplatno, bez narudžbe, po redu dolaska"
+  },
+  "r_0135": {
+    "description": "Besplatno pravno dežurstvo specijalizirano za pravo azila i pravo stranaca. Savjeti, podrška u postupcima i pisanje žalbi.",
+    "target_audience": "Tražitelji azila, izbjeglice i odbijene osobe",
+    "access_conditions": "Besplatno, uz narudžbu za detaljnija savjetovanja"
+  },
+  "r_0136": {
+    "description": "Besplatni savjeti i podrška za osobe s invaliditetom i njihove bližnje. Administrativna pomoć, profesionalno usmjeravanje i socijalna podrška.",
+    "target_audience": "Osobe s invaliditetom i njihovi bližnji",
+    "access_conditions": "Besplatno, uz narudžbu"
+  },
+  "r_0137": {
+    "description": "Prirodoslovni muzej s besplatnim ulazom. Stalne zbirke zoologije, mineralogije i paleontologije. Povremene izložbe i aktivnosti za djecu.",
+    "target_audience": "Svi, obitelji i školske grupe",
+    "access_conditions": "Besplatan ulaz za stalne zbirke"
+  },
+  "r_0138": {
+    "description": "Najveći muzej u Genevi s besplatnom stalnom zbirkom. Likovne umjetnosti, primijenjene umjetnosti i arheologija, od prethistorije do suvremene umjetnosti.",
+    "target_audience": "Svi, ljubitelji umjetnosti i povijesti",
+    "access_conditions": "Stalna zbirka besplatna, povremene izložbe uz plaćanje"
+  },
+  "r_0139": {
+    "description": "Švicarski muzej keramike i stakla s besplatnim ulazom. Izuzetne zbirke u neobaroknoj zgradi nasuprot Palače naroda.",
+    "target_audience": "Svi, ljubitelji dekorativnih umjetnosti",
+    "access_conditions": "Besplatan ulaz za stalne zbirke"
+  },
+  "r_0140": {
+    "description": "Muzej posvećen humanitarnoj akciji s besplatnim ulazom srijedom popodne. Interaktivne izložbe o povijesti i trenutačnim humanitarnim izazovima.",
+    "target_audience": "Svi, zaljubljenici u humanitarnu povijest",
+    "access_conditions": "Besplatan ulaz srijedom popodne (16:00-18:00), dostupna snižena cijena"
+  },
+  "r_0141": {
+    "description": "Gradski vodeni centar sa sniženom cijenom za stanovnike s niskim prihodima. Olimpijski bazen, bazen za učenje i wellness prostor.",
+    "target_audience": "Svi, snižena cijena za stanovnike s niskim prihodima",
+    "access_conditions": "Snižena cijena uz karticu Cité Seniors ili subvencioniranje zdravstvenog osiguranja"
+  },
+  "r_0142": {
+    "description": "Gradska medijateka s besplatnim pristupom koja nudi knjige, DVD-ove, CD-ove i besplatan pristup internetu. Kulturne animacije, pričaonica i ugodan prostor za čitanje.",
+    "target_audience": "Svi, čitatelji i obitelji iz četvrti",
+    "access_conditions": "Slobodan i besplatan pristup, besplatna prijava za posudbu"
+  },
+  "r_0143": {
+    "description": "Solidarni restoran koji navečer nudi besplatne obroke za osobe u teškoj situaciji. Gastronomska kuhinja na bazi prikupljenih viškova hrane. Vodi Mater Fondazione u partnerstvu s Food for Soul.",
+    "target_audience": "Osobe u prehrambenom siromaštvu",
+    "access_conditions": "Besplatni večernji obroci, usmjeravanje putem partnerskih udruga"
+  },
+  "r_0144": {
+    "description": "Pučka kuhinja koja u podne besplatno poslužuje obroke osobama bez sredstava. Više od 250 obroka dnevno poslužuju razne dobrotvorne organizacije. Mjesto susreta iza kolodvora Cornavin.",
+    "target_audience": "Osobe bez sredstava, beskućnici",
+    "access_conditions": "Bez uvjeta, otvoreno za svaku osobu u potrebi"
+  },
+  "r_0145": {
+    "description": "Hitno dnevno prihvatilište koje nudi besplatne tople obroke, tuševe, slušanje i usmjeravanje. Bezuvjetni prijem za osobe suočene sa samoćom, isključenošću i marginalizacijom. CARÉ = Caritas Accueil Rencontre Échange.",
+    "target_audience": "Osobe u teškoj situaciji, isključenosti, izoliranosti",
+    "access_conditions": "Bez uvjeta, bezuvjetni prijem za odrasle"
+  },
+  "r_0146": {
+    "description": "Dom za hitni smještaj koji pruža utočište beskućnicima. Besplatni doručak i večera. Neograničeno trajanje boravka. Mogućnost boravka tijekom dana zimi. Posvećen prostor za žene.",
+    "target_audience": "Beskućnici, žene same ili s djecom",
+    "access_conditions": "Smještaj na zahtjev, 10 do 20 mjesta, neograničeno trajanje"
+  },
+  "r_0147": {
+    "description": "Hitno noćno sklonište Grada Geneve. Krevet, večera, garderoba i pristup tuševima besplatno. Trajanje ograničeno na 30 dana.",
+    "target_audience": "Beskućnici",
+    "access_conditions": "Nazvati centralu za hitni smještaj na 0800 22 22 10 (besplatno). Trajanje ograničeno na 30 dana."
+  },
+  "r_0148": {
+    "description": "Besplatni i povjerljivi liječnički pregledi za osobe bez zdravstvenog osiguranja ili bez legalnog statusa. Primarna zdravstvena zaštita, liječnički i sestrinski pregledi, usmjeravanje prema specijaliziranim službama. Više od 4500 pacijenata godišnje.",
+    "target_audience": "Osobe bez zdravstvenog osiguranja, bez legalnog statusa, beskućnici",
+    "access_conditions": "Od 16 godina, bez uvjeta legalnog statusa, bez osiguranja prihvaćeno, besplatno i povjerljivo"
+  },
+  "r_0149": {
+    "description": "Zajednički LGBTIQ+ zdravstveni centar specijaliziran za seksualno zdravlje. Besplatno i anonimno testiranje na HIV/SPB, liječenje, cijepljenje, psihološka savjetovanja. Služba udruge Dialogai.",
+    "target_audience": "LGBTIQ+ zajednica i sve osobe zainteresirane za seksualno zdravlje",
+    "access_conditions": "Besplatno i anonimno testiranje bez narudžbe ponedjeljkom i četvrtkom"
+  },
+  "r_0150": {
+    "description": "Stomatološka ordinacija koja nudi osnovnu stomatološku skrb po vrlo sniženim cijenama za osobe s niskim prihodima. Pregled kod stomatologa 40 CHF, kod dentalne higijeničarke 20 CHF. Volonterski stomatolozi i higijeničarke.",
+    "target_audience": "Zaposleni s niskim prihodima i osobe s niskim prihodima bez socijalne pomoći",
+    "access_conditions": "Uz narudžbu putem Permanence d'accueil social. Rezervirano za osobe s niskim prihodima."
+  },
+  "r_0151": {
+    "description": "Udruga aktivna u borbi protiv HIV-a, hepatitisa i SPB-a. Besplatno psihološko savjetovanje (1. seansu), povjerljivo testiranje, pravni i socijalni savjeti za osobe koje žive s HIV-om.",
+    "target_audience": "Osobe koje se odnose na HIV, SPB, hepatitis",
+    "access_conditions": "Prvo psihološko savjetovanje besplatno. Povjerljiva testiranja."
+  },
+  "r_0152": {
+    "description": "Socijalna i profesionalna podrška ženama u situaciji isključenosti. Pomoć u administrativnim postupcima, poznavanje prava, profesionalna preusmjeravanja. Telefonsko slušanje i podrška.",
+    "target_audience": "Žene u situaciji socijalne ili profesionalne isključenosti",
+    "access_conditions": "Besplatno, telefonsko dežurstvo u navedenim terminima"
+  },
+  "r_0153": {
+    "description": "Utočište za žene žrtve nasilja i trgovine ljudima, sa ili bez djece. Rezidencijalni smještaj s psihosocijalnim praćenjem za oko 30 žena. Tečajevi francuskog i profesionalna obuka.",
+    "target_audience": "Žene žrtve nasilja i trgovine ljudima, sa ili bez djece",
+    "access_conditions": "Telefonski prijem 8h30-12h. Hitni smještaj 24/7."
+  },
+  "r_0154": {
+    "description": "Solidarna udruga koja brani prava seksualnih radnika i radnica. Prijem, slušanje, psihosocijalna podrška, pravne usluge, administrativna pomoć, prevencija SPB-a i zaštitni materijal.",
+    "target_audience": "Osobe koje se bave seksualnim radom",
+    "access_conditions": "Bez narudžbe u navedenim terminima. Prijem bez osude."
+  },
+  "r_0155": {
+    "description": "Besplatan prostor za informiranje i savjetovanje o orijentaciji, obrazovanju i zaposlenju. Savjetnici dostupni bez narudžbe. Tematske radionice: procjena kompetencija, životopis, razgovori za posao, prekvalifikacija.",
+    "target_audience": "Mladi i odrasli u potrazi za orijentacijom, obrazovanjem ili zaposlenjem",
+    "access_conditions": "Besplatno, bez narudžbe, slobodan pristup"
+  },
+  "r_0156": {
+    "description": "Udruga za socioprofesionalnu integraciju mladih od 15 do 25 godina. Povremeni poslovi, personalizirana podrška, staževi prekvalifikacije i pomoć u traženju zaposlenja ili obrazovanja.",
+    "target_audience": "Mladi od 15 do 25 godina u potrazi za zaposlenjem ili obrazovanjem",
+    "access_conditions": "Besplatno, prijava na stranici ili osobno"
+  },
+  "r_0157": {
+    "description": "Neovisna udruga koja brani pravo azila od 1986. godine. Besplatna pravna pomoć i zastupanje izbjeglica. Savjetovanja bez narudžbe ponedjeljkom. Podrška tijekom cijelog postupka azila.",
+    "target_audience": "Tražitelji azila i izbjeglice",
+    "access_conditions": "Besplatno, savjetovanja bez narudžbe ponedjeljkom"
+  },
+  "r_0158": {
+    "description": "Lezbijska i feministička udruga otvorena za sve žene (cis, trans, biseksualne, queer). Prijem, slušanje, informiranje i solidarnost. Aktivnosti: filmski klub, večeri, predavanja, sport.",
+    "target_audience": "Lezbijke, biseksualne žene, trans žene, queer žene",
+    "access_conditions": "Otvoreno za sve žene bez uvjeta"
+  },
+  "r_0159": {
+    "description": "Prostor za prijem, slušanje i podršku mladim LGBTIQ+ osobama u poteškoćama. Individualna podrška, grupe za podršku, anonimni online chat, smještaj od 3 do 6 mjeseci od 18 godina.",
+    "target_audience": "Mlade LGBTIQ+ osobe i njihova okolina",
+    "access_conditions": "Uz ili bez narudžbe, anonimni chat dostupan online"
+  },
+  "r_0160": {
+    "description": "Udruga u službi seksualne i rodne raznolikosti. Prijem, informiranje, slušanje i usmjeravanje za LGBTIQ+ osobe. Jedinstvena pravna služba u frankofonskoj Švicarskoj. Grupe: Trans*, Homoroditelji, Bi, Tamalou (stariji).",
+    "target_audience": "LGBTIQ+ osobe i njihovi bližnji",
+    "access_conditions": "Slobodan prijem bez narudžbe"
+  },
+  "r_0161": {
+    "description": "Udruga za prevenciju i podršku osobama ovisnima o alkoholu i njihovim obiteljima. Profesionalno savjetovanje, ambulantna terapija, grupe za podršku, vikendi.",
+    "target_audience": "Osobe pogođene alkoholizmom i njihovi bližnji",
+    "access_conditions": "Slobodan prijem, besplatno"
+  },
+  "r_0162": {
+    "description": "Dnevni centar za ovisne osobe. Prijem, slušanje, obroci, aktivnosti i usmjeravanje prema liječenju. Udruga ARGOS također nudi rezidencijalne centre za reintegraciju.",
+    "target_audience": "Ovisne osobe",
+    "access_conditions": "Slobodan prijem, bez narudžbe"
+  },
+  "r_0163": {
+    "description": "Centar za prevenciju koji okuplja FEGPA (alkohol i kanabis), CIPRET (duhan) i RNVP (kockanje/ekrani). Besplatni i povjerljivi savjeti za svaku osobu pogođenu ovisnošću ili njihove bližnje.",
+    "target_audience": "Sve osobe pogođene ovisnošću, mladi i bližnji",
+    "access_conditions": "Besplatna i povjerljiva savjetovanja, uz narudžbu"
+  },
+  "r_0164": {
+    "description": "Udruga roditelja i prijatelja osoba s mentalnim invaliditetom. Informacije, savjeti, podrška obiteljima. Slobodne aktivnosti, vikendi predaha, odmori. Obrana prava.",
+    "target_audience": "Osobe s mentalnim invaliditetom i njihove obitelji",
+    "access_conditions": "Kontakt telefonom ili e-mailom"
+  },
+  "r_0165": {
+    "description": "Najveća organizacija za samopomnoć osoba s invaliditetom u Švicarskoj. Besplatni pravni savjeti iz socijalnog osiguranja (AI, APG). Aktivnosti za djecu s invaliditetom.",
+    "target_audience": "Osobe s invaliditetom",
+    "access_conditions": "Besplatni pravni savjeti za članove"
+  },
+  "r_0166": {
+    "description": "Udruga koja potiče starije osobe da ostanu aktivne i samostalne. Raznovrsne aktivnosti: tečajevi, radionice, izleti, predavanja, sport. Program \"Seniors d'ici et d'ailleurs\" za integraciju.",
+    "target_audience": "Starije osobe od 50 godina",
+    "access_conditions": "Otvoreno za osobe od 50 godina i starije"
+  },
+  "r_0167": {
+    "description": "Ekumenska duhovna služba koja pruža prisutnost, slušanje i podršku tražiteljima azila i izbjeglicama. Tečajevi francuskog, informatike, zajednički obroci, sportske i kulturne aktivnosti.",
+    "target_audience": "Tražitelji azila i izbjeglice u Genevi",
+    "access_conditions": "Otvoreno za sve tražitelje azila i izbjeglice"
+  },
+  "r_0168": {
+    "description": "Prijem i podrška LGBTIQ+ izbjeglicama. Pravno dežurstvo u suradnji s elisa-asile, podrška i aktivnosti osvješćivanja.",
+    "target_audience": "LGBTIQ+ izbjeglice i tražitelji azila",
+    "access_conditions": "Otvoreno za sve LGBTIQ+ izbjeglice ili tražitelje azila"
+  },
+  "r_0169": {
+    "description": "Besplatna gradska igraonica za igranje na licu mjesta. Klasične i kooperativne društvene igre na dva kata. Posudba igara s godišnjom obiteljskom pretplatom (30 CHF). Osoblje dostupno za savjetovanje.",
+    "target_audience": "Djeca, obitelji, institucije iz kvarta",
+    "access_conditions": "Igranje na licu mjesta besplatno. Posudba s godišnjom obiteljskom pretplatom (30 CHF). Djeca mlađa od 6 godina u pratnji odrasle osobe."
+  },
+  "r_0170": {
+    "description": "Besplatna gradska igraonica za igranje na licu mjesta, unutar Manège en Ville. Oko 1000 društvenih igara, videoigara i igračaka za sve uzraste. Posudba s obiteljskom pretplatom (30 CHF/god). Organiziraju se turniri i događanja.",
+    "target_audience": "Djeca, obitelji, sve dobne skupine (od novorođenčadi do odraslih)",
+    "access_conditions": "Igranje na licu mjesta besplatno. Posudba s godišnjom obiteljskom pretplatom (30 CHF). Djeca mlađa od 6 godina u pratnji odrasle osobe."
+  },
+  "r_0171": {
+    "description": "Hitni smještaj za žene u teškoj situaciji, beskućnice ili izbjeglice s djecom. 30 bezuvjetnih mjesta za prihvat i 21 mjesto za žene na socijalnoj pomoći. Jednokrevetne ili dvokrevetne sobe, tri obroka dnevno, praonica rublja, socijalna podrška.",
+    "target_audience": "Beskućnice, žene u teškoj situaciji, izbjeglice s djecom",
+    "access_conditions": "Kontaktirajte ženevsku liniju za hitni smještaj: 0800 22 22 10 (pon-pet 10:30-20:00, sub-ned 15:00-20:00). Bez izravne rezervacije."
+  },
+  "tag": {
+    "143": "143",
+    "147": "147",
+    "15-25 ans": "15-25 god.",
+    "24h": "24h",
+    "50+": "50+",
+    "AI": "AI",
+    "AVS": "AVS",
+    "Belle-Idée": "Belle-Idée",
+    "CFF": "CFF",
+    "CV": "životopis",
+    "Carouge": "Carouge",
+    "Cité Générations": "Cité Générations",
+    "Cornavin": "Cornavin",
+    "Croix-Rouge": "Croix-Rouge",
+    "FLE": "FLE",
+    "FRC": "FRC",
+    "HUG": "HUG",
+    "Hospice général": "Hospice général",
+    "IST": "SPB",
+    "LAVI": "LAVI",
+    "LGBT": "LGBT",
+    "LGBTIQ+": "LGBTIQ+",
+    "Onex": "Onex",
+    "Plainpalais": "Plainpalais",
+    "SBB": "SBB",
+    "SIT": "SIT",
+    "SOS": "SOS",
+    "TPAE": "TPAE",
+    "TPG": "TPG",
+    "UNIA": "UNIA",
+    "VIH": "HIV",
+    "Vernier": "Vernier",
+    "abri": "sklonište",
+    "accessibilité": "pristupačnost",
+    "accompagnement": "podrška",
+    "accueil": "prijem",
+    "accueil de jour": "dnevni prijem",
+    "activités": "aktivnosti",
+    "addiction": "ovisnost",
+    "administratif": "administrativno",
+    "administration": "administracija",
+    "adolescents": "adolescenti",
+    "adultes": "odrasli",
+    "aide": "pomoć",
+    "aide financière": "financijska pomoć",
+    "aide matérielle": "materijalna pomoć",
+    "aide sociale": "socijalna pomoć",
+    "aide à domicile": "pomoć u kući",
+    "alcool": "alkohol",
+    "alimentaire": "prehrambeno",
+    "allaitement": "dojenje",
+    "alzheimer": "alzheimer",
+    "anonyme": "anonimno",
+    "anti-gaspillage": "protiv rasipanja",
+    "antigaspillage": "protivrasipanja",
+    "apprentissage": "naukovanje",
+    "archéologie": "arheologija",
+    "armée du salut": "armija spasa",
+    "art": "umjetnost",
+    "artichauts": "artichauts",
+    "arts": "umjetnosti",
+    "asile": "azil",
+    "associations": "udruge",
+    "assurance": "osiguranje",
+    "assurances sociales": "socijalno osiguranje",
+    "ateliers": "radionice",
+    "autonomie": "samostalnost",
+    "autonomisation": "osnaživanje",
+    "avocats": "odvjetnici",
+    "bail": "najam",
+    "bains": "kupališta",
+    "banque": "banka",
+    "bas prix": "niske cijene",
+    "bas seuil": "niskopražni",
+    "bateau": "brod",
+    "beaulieu": "beaulieu",
+    "bibliothèque": "knjižnica",
+    "bien-être": "dobrobit",
+    "bébé": "beba",
+    "bénévoles": "volonteri",
+    "café": "kafić",
+    "cancer": "rak",
+    "cannabis": "kanabis",
+    "cantonal": "kantonalni",
+    "caritas": "caritas",
+    "carouge": "carouge",
+    "carrière": "karijera",
+    "centrale": "centrala",
+    "centre-ville": "centar grada",
+    "chômage": "nezaposlenost",
+    "citoyenneté": "građanstvo",
+    "coaching": "coaching",
+    "colis": "paketi",
+    "collecte": "prikupljanje",
+    "communautaire": "zajednički",
+    "communauté": "zajednica",
+    "compétences": "kompetencije",
+    "confidentiel": "povjerljivo",
+    "conflits": "sukobi",
+    "conférences": "predavanja",
+    "conseil": "savjet",
+    "conseils": "savjeti",
+    "consultation": "savjetovanje",
+    "contraception": "kontracepcija",
+    "cornavin": "cornavin",
+    "cours": "tečajevi",
+    "coworking": "coworking",
+    "crise": "kriza",
+    "croix-rouge": "crveni križ",
+    "crèche": "jaslice",
+    "créativité": "kreativnost",
+    "culture": "kultura",
+    "curatelle": "skrbništvo",
+    "céramique": "keramika",
+    "dentaire": "stomatologija",
+    "diabète": "dijabetes",
+    "distribution": "podjela",
+    "diversité": "raznolikost",
+    "divorce": "razvod",
+    "diététique": "dijetetika",
+    "domicile": "dom",
+    "douche": "tuš",
+    "douches": "tuševi",
+    "drogue": "droga",
+    "drogues": "droge",
+    "droit": "pravo",
+    "droit des étrangers": "pravo stranaca",
+    "droits": "prava",
+    "démence": "demencija",
+    "dépendance": "ovisnost",
+    "dépistage": "testiranje",
+    "détresse": "nevolja",
+    "eau potable": "pitka voda",
+    "eaux-vives": "eaux-vives",
+    "emploi": "zaposlenje",
+    "enfance": "djetinjstvo",
+    "enfants": "djeca",
+    "espace partagé": "zajednički prostor",
+    "espace travail": "radni prostor",
+    "ethnopsychologie": "etnopsihologija",
+    "extérieur": "vani",
+    "factures": "računi",
+    "famille": "obitelj",
+    "familles": "obitelji",
+    "femmes": "žene",
+    "femmes migrantes": "migrantice",
+    "financière": "financijsko",
+    "fitness": "fitness",
+    "fontaine": "fontana",
+    "formation": "obrazovanje",
+    "fr": "fr",
+    "français": "francuski",
+    "français professionnel": "poslovni francuski",
+    "frigo": "hladnjak",
+    "féministe": "feministički",
+    "garderie": "čuvaonica",
+    "gare": "kolodvor",
+    "gastronomique": "gastronomski",
+    "grange": "grange",
+    "gratuit": "besplatno",
+    "grossesse": "trudnoća",
+    "groupe": "grupa",
+    "handicap": "invaliditet",
+    "handicap mental": "mentalni invaliditet",
+    "histoire": "povijest",
+    "hiver": "zima",
+    "humanitaire": "humanitarno",
+    "hydratation": "hidratacija",
+    "hygiène": "higijena",
+    "hébergement": "smještaj",
+    "infirmiers": "medicinske sestre",
+    "information": "informacije",
+    "informatique": "informatika",
+    "infractions": "kaznena djela",
+    "insertion": "integracija",
+    "interactif": "interaktivno",
+    "interculturel": "interkulturalno",
+    "international": "međunarodni",
+    "internet": "internet",
+    "intégration": "integracija",
+    "invendus": "neprodano",
+    "jardin": "vrt",
+    "jeu": "igra",
+    "jeunes": "mladi",
+    "jeunesse": "mladež",
+    "jeux": "igre",
+    "jonction": "jonction",
+    "jouets": "igračke",
+    "jour": "dan",
+    "juridique": "pravno",
+    "lac": "jezero",
+    "langues": "jezici",
+    "laverie": "praonica",
+    "lesbienne": "lezbijka",
+    "libre-service": "samoposluga",
+    "licenciement": "otkaz",
+    "livres": "knjige",
+    "locataires": "stanari",
+    "logement": "stanovanje",
+    "loisirs": "slobodno vrijeme",
+    "loyer": "najamnina",
+    "ludothèque": "ludoteka",
+    "maintien à domicile": "kućna njega",
+    "maladie chronique": "kronična bolest",
+    "maraude": "terenska pomoć",
+    "maternité": "majčinstvo",
+    "meubles": "namještaj",
+    "midi": "podne",
+    "migrantes": "migrantice",
+    "migrants": "migranti",
+    "migration": "migracija",
+    "mineurs": "maloljetnici",
+    "mobile": "mobilno",
+    "mobilité": "mobilnost",
+    "molard": "molard",
+    "multilingue": "višejezično",
+    "musée": "muzej",
+    "médecin": "liječnik",
+    "médecine générale": "opća medicina",
+    "médiathèque": "medijateka",
+    "médiation": "medijacija",
+    "médicaments": "lijekovi",
+    "natation": "plivanje",
+    "nature": "priroda",
+    "nuit": "noć",
+    "offres": "ponude",
+    "orientation": "orijentacija",
+    "parc": "park",
+    "parc de la grange": "parc de la grange",
+    "parentalité": "roditeljstvo",
+    "parents": "roditelji",
+    "parents-enfants": "roditelji-djeca",
+    "partage": "dijeljenje",
+    "permaculture": "permakultura",
+    "permanence": "dežurstvo",
+    "permis": "dozvola",
+    "personnes âgées": "starije osobe",
+    "petite enfance": "rano djetinjstvo",
+    "petits boulots": "povremeni poslovi",
+    "petits-déjeuners": "doručci",
+    "pharmacie": "ljekarna",
+    "piscine": "bazen",
+    "place de neuve": "place de neuve",
+    "plage": "plaža",
+    "plaine": "ravnica",
+    "plainpalais": "plainpalais",
+    "planning familial": "obiteljsko planiranje",
+    "plein air": "na otvorenom",
+    "ponctuel": "povremeno",
+    "potager": "povrtnjak",
+    "prestations": "usluge",
+    "prix réduits": "snižene cijene",
+    "pro juventute": "pro juventute",
+    "proches aidants": "bližnji njegovatelji",
+    "protection": "zaštita",
+    "précarité": "siromaštvo",
+    "prévention": "prevencija",
+    "prêt": "posudba",
+    "psychiatrie": "psihijatrija",
+    "psycho-oncologie": "psiho-onkologija",
+    "psychologie": "psihologija",
+    "psychologique": "psihološko",
+    "psychologue": "psiholog",
+    "psychopédagogique": "psihopedagoško",
+    "public": "javno",
+    "pâquis": "pâquis",
+    "quai": "obala",
+    "quartier": "četvrt",
+    "reconversion": "prekvalifikacija",
+    "recours": "žalba",
+    "redistribution": "preraspodjela",
+    "refuge": "utočište",
+    "repair café": "repair café",
+    "repas": "obroci",
+    "repos": "odmor",
+    "ressources": "resursi",
+    "restaurant": "restoran",
+    "récupération": "prikupljanje",
+    "réduction": "smanjenje",
+    "réduction des risques": "smanjenje rizika",
+    "réfugiés": "izbjeglice",
+    "réinsertion": "reintegracija",
+    "réorientation": "preusmjeravanje",
+    "réparation": "popravak",
+    "répit": "predah",
+    "réseau": "mreža",
+    "résolution": "rješavanje",
+    "réunions": "sastanci",
+    "sages-femmes": "primalje",
+    "saint-jean": "saint-jean",
+    "sans assurance": "bez osiguranja",
+    "sans rendez-vous": "bez narudžbe",
+    "sans-abri": "beskućnici",
+    "sans-papiers": "bez dokumenata",
+    "santé": "zdravlje",
+    "santé mentale": "mentalno zdravlje",
+    "santé sexuelle": "seksualno zdravlje",
+    "sauna": "sauna",
+    "sciences": "znanosti",
+    "seconde main": "rabljeno",
+    "seniors": "stariji",
+    "servette": "servette",
+    "social": "socijalno",
+    "socioculturel": "sociokulturalno",
+    "soins": "njega",
+    "soins à domicile": "kućna njega",
+    "solidaire": "solidarno",
+    "soupe": "juha",
+    "soupe populaire": "pučka kuhinja",
+    "soutien": "podrška",
+    "soutien scolaire": "pomoć u učenju",
+    "sport": "sport",
+    "stages": "staževi",
+    "substitution": "supstitucija",
+    "suicide": "suicid",
+    "syndicat": "sindikat",
+    "sécheron": "sécheron",
+    "tabac": "duhan",
+    "tarif réduit": "snižena cijena",
+    "tarif social": "socijalna cijena",
+    "toilettes": "toaleti",
+    "toxicodépendance": "ovisnost o drogama",
+    "traite": "trgovina ljudima",
+    "traitement": "liječenje",
+    "trans": "trans",
+    "transport": "prijevoz",
+    "travail": "rad",
+    "travail du sexe": "seksualni rad",
+    "travailleurs pauvres": "siromašni radnici",
+    "tutelle": "tutorstvo",
+    "téléphone": "telefon",
+    "université": "sveučilište",
+    "urbain": "urbano",
+    "urgence": "hitno",
+    "verre": "staklo",
+    "vestiaire": "garderoba",
+    "victimes": "žrtve",
+    "vie associative": "udružni život",
+    "vieille ville": "stari grad",
+    "ville": "grad",
+    "violence": "nasilje",
+    "violence conjugale": "obiteljsko nasilje",
+    "violences": "nasilje",
+    "violences sexuelles": "seksualno nasilje",
+    "vélos": "bicikli",
+    "vêtements": "odjeća",
+    "wifi": "wifi",
+    "écologie": "ekologija",
+    "écologique": "ekološki",
+    "écoute": "slušanje",
+    "éducation": "obrazovanje",
+    "épicerie": "trgovina",
+    "étrangers": "stranci",
+    "étude": "studij",
+    "étudier": "učiti"
+  }
+}

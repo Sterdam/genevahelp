@@ -1,0 +1,1214 @@
+{
+  "r_0001": {
+    "description": "为生活困难人士提供免费食品分发。中午和晚上供应热餐。无条件接待。",
+    "target_audience": "所有生活困难人士",
+    "access_conditions": "无需任何条件，向所有人开放"
+  },
+  "r_0002": {
+    "description": "由日内瓦律师公会提供的免费法律咨询。无需预约，提供各类法律问题的初步咨询。",
+    "target_audience": "所有需要法律咨询的人士",
+    "access_conditions": "无需预约，先到先得"
+  },
+  "r_0003": {
+    "description": "自助式公共冰箱，任何人都可以免费存放或领取食物。旨在减少食物浪费。",
+    "target_audience": "所有公众",
+    "access_conditions": "24小时免费开放"
+  },
+  "r_0004": {
+    "description": "平价超市和服装分发。为经济困难人士提供社会陪伴。食品和服装援助。",
+    "target_audience": "低收入人士",
+    "access_conditions": "需出示低收入证明"
+  },
+  "r_0005": {
+    "description": "免费法律和社会咨询。行政协助、外国人权利法、劳动法和社会保险方面的咨询。",
+    "target_audience": "所有面临法律或行政困难的人士",
+    "access_conditions": "需预约，首次咨询免费"
+  },
+  "r_0006": {
+    "description": "为弱势群体提供医疗服务、社会援助和陪伴。面向移民和难民的支持项目。",
+    "target_audience": "弱势群体、移民、难民",
+    "access_conditions": "视项目而定，部分需预约"
+  },
+  "r_0007": {
+    "description": "每周为家庭和生活困难人士分发食品包裹。提供新鲜食品和基本食品。",
+    "target_audience": "低收入家庭和个人",
+    "access_conditions": "需注册登记，并提供经济状况证明"
+  },
+  "r_0008": {
+    "description": "州级社会援助机构。提供经济补助、社会陪伴、住房援助和职业融入服务。",
+    "target_audience": "面临经济困难的日内瓦州居民",
+    "access_conditions": "需预约，仅限日内瓦州居民"
+  },
+  "r_0009": {
+    "description": "免费使用淋浴、洗衣机和烘干机。为无家可归者或生活困难人士提供的卫生设施。",
+    "target_audience": "无固定住所人士、生活困难人士",
+    "access_conditions": "无需任何条件，免费开放"
+  },
+  "r_0010": {
+    "description": "为无医疗保险人士提供免费医疗咨询。初级医疗服务、转介和健康陪伴。",
+    "target_audience": "无医疗保险人士、无证件人士",
+    "access_conditions": "无需医疗保险，无需预约"
+  },
+  "r_0011": {
+    "description": "为移民女性提供免费法语课程。上课期间提供儿童托管。融入和社交工作坊。",
+    "target_audience": "移民女性及其子女",
+    "access_conditions": "移民女性，学期初报名"
+  },
+  "r_0012": {
+    "description": "免费或低价夜校课程：法语、计算机、会计、语言等。面向成人的继续教育。",
+    "target_audience": "希望接受培训的成年人",
+    "access_conditions": "学期初报名，根据收入享受优惠价格"
+  },
+  "r_0013": {
+    "description": "夜间紧急住宿。无条件接待无家可归者。包含晚餐和早餐。",
+    "target_audience": "无固定住所人士",
+    "access_conditions": "无需任何条件，晚间无条件接待"
+  },
+  "r_0014": {
+    "description": "为遭受暴力的女性提供接待、倾听和紧急住宿。心理支持和法律陪伴。",
+    "target_audience": "遭受家庭暴力的女性",
+    "access_conditions": "24小时电话热线，住宿需经评估"
+  },
+  "r_0015": {
+    "description": "以极低价格出售服装、家具和物品的爱心商店。回收和分发二手物品。",
+    "target_audience": "所有公众，低收入人士",
+    "access_conditions": "向所有人开放，爱心价格"
+  },
+  "r_0016": {
+    "description": "为外国人士提供信息和指引。补贴法语课程、融入援助、反种族歧视预防。",
+    "target_audience": "居住在日内瓦的外国人士",
+    "access_conditions": "日内瓦州外国居民"
+  },
+  "r_0017": {
+    "description": "Parc des Bastions提供免费WiFi，由日内瓦市政府提供。免费无限制网络连接。",
+    "target_audience": "所有公众",
+    "access_conditions": "免费开放"
+  },
+  "r_0018": {
+    "description": "社区空间，提供社交、文化和教育活动。免费或低价的课程、工作坊和活动。",
+    "target_audience": "Plainpalais社区居民",
+    "access_conditions": "向社区所有居民开放"
+  },
+  "r_0019": {
+    "description": "从商铺回收滞销食品，免费分发给有需要的人士。减少食物浪费。",
+    "target_audience": "面临食品短缺的困难人士",
+    "access_conditions": "需注册登记，提供经济状况证明"
+  },
+  "r_0020": {
+    "description": "紧急经济援助、社会陪伴、转介至相关服务机构。为日内瓦市居民提供支持。",
+    "target_audience": "面临困难的日内瓦市居民",
+    "access_conditions": "日内瓦市居民"
+  },
+  "r_0021": {
+    "description": "为庇护申请者和移民提供初级医疗咨询。庇护健康网络合作伙伴，提供跨文化和心理社会服务。可提供翻译陪同咨询。",
+    "target_audience": "庇护申请者、难民、移民",
+    "access_conditions": "需预约，周一至周五9:00-11:30和13:30-17:00预约"
+  },
+  "r_0022": {
+    "description": "为求职者提供职业融入项目。工作坊、实践培训和个性化辅导。",
+    "target_audience": "融入困难的求职者",
+    "access_conditions": "通过州就业办公室或Hospice général报名"
+  },
+  "r_0023": {
+    "description": "为儿童和青少年提供教育和社会支持。寄养中心、教育工作坊、课业辅导和休闲活动。",
+    "target_audience": "4至18岁的儿童和青少年",
+    "access_conditions": "由未成年人保护服务转介"
+  },
+  "r_0024": {
+    "description": "隶属于imad的紧急心理社会服务单位。介入处理困难处境、家庭暴力、未成年人危机和心理社会紧急状况。团队由护士和社工组成。",
+    "target_audience": "无家可归者",
+    "access_conditions": "无需任何条件，流动团队在街头服务"
+  },
+  "r_0025": {
+    "description": "为成瘾人士提供陪伴。咨询、替代治疗、戒断和重新融入社会。门诊治疗中心。",
+    "target_audience": "成瘾人士",
+    "access_conditions": "接待处无需预约，咨询需预约"
+  },
+  "r_0026": {
+    "description": "老年人服务：居家援助、社交活动、法律和财务咨询、课程和工作坊。",
+    "target_audience": "60岁及以上老年人",
+    "access_conditions": "60岁及以上人士"
+  },
+  "r_0027": {
+    "description": "Bains des Pâquis提供免费WiFi。场地内免费开放网络连接。",
+    "target_audience": "所有公众",
+    "access_conditions": "免费开放"
+  },
+  "r_0028": {
+    "description": "24小时上门医疗服务。全年无休提供紧急上门或诊所医疗咨询。",
+    "target_audience": "所有需要紧急医疗咨询的人士",
+    "access_conditions": "电话预约，医疗费用由患者承担"
+  },
+  "r_0029": {
+    "description": "为生活困难人士提供日间接待。温馨空间，提供咖啡、淋浴、洗衣、上网和活动。",
+    "target_audience": "生活困难人士",
+    "access_conditions": "无需任何条件，自由进入"
+  },
+  "r_0030": {
+    "description": "为移民提供免费或优惠价格的心理咨询。多语言心理支持。",
+    "target_audience": "有心理困难的移民人士",
+    "access_conditions": "需预约，费用根据收入而定"
+  },
+  "r_0031": {
+    "description": "免费公共图书馆。提供书籍、DVD、CD借阅。工作空间、免费WiFi、报纸和杂志。文化工作坊。",
+    "target_audience": "所有公众",
+    "access_conditions": "免费进入，办理免费借书卡即可借阅"
+  },
+  "r_0032": {
+    "description": "公共就业服务。失业登记、职位信息、职业指导咨询、融入措施。",
+    "target_audience": "居住在日内瓦的求职者",
+    "access_conditions": "日内瓦州居民，必须注册登记"
+  },
+  "r_0033": {
+    "description": "为移民提供法律和社会咨询服务。行政协助、外国人权利法、家庭团聚。",
+    "target_audience": "移民、无证件人士",
+    "access_conditions": "需预约或无需预约的常设咨询"
+  },
+  "r_0034": {
+    "description": "为吸毒人士提供的低门槛接待空间。无菌用品、咨询、休息空间和陪伴。",
+    "target_audience": "吸毒人士",
+    "access_conditions": "无需任何条件，匿名接待"
+  },
+  "r_0035": {
+    "description": "Pâquis社区活动中心。文化活动、语言课程、创意工作坊、儿童空间和课后辅导。",
+    "target_audience": "Pâquis社区居民",
+    "access_conditions": "向所有人开放"
+  },
+  "r_0036": {
+    "description": "为生活困难人士免费分发服装。按季节提供男装、女装和童装。",
+    "target_audience": "生活困难人士",
+    "access_conditions": "需出示社会服务机构开具的证明"
+  },
+  "r_0037": {
+    "description": "面向成年移民的法语外语课程。从初级到高级。提供白天和晚间课程。",
+    "target_audience": "希望学习法语的成年移民",
+    "access_conditions": "需注册和水平测试，可享受优惠价格"
+  },
+  "r_0038": {
+    "description": "为生活困难人士分发热食（汤和面包）。免费且无条件的服务。",
+    "target_audience": "所有公众",
+    "access_conditions": "无需任何条件，先到先得"
+  },
+  "r_0039": {
+    "description": "女性信息和咨询中心。法律、社会和职业咨询。遭受暴力时提供支持。",
+    "target_audience": "各年龄段、各种情况的女性",
+    "access_conditions": "向所有女性开放，部分咨询需预约"
+  },
+  "r_0040": {
+    "description": "Hospice général在Plainpalais的服务站。经济援助、社会陪伴、住房和职业融入援助。",
+    "target_audience": "面临困难的Plainpalais社区居民",
+    "access_conditions": "需预约，日内瓦州居民"
+  },
+  "r_0041": {
+    "description": "独立助产士协会，致力于围产期健康促进。全周7天电话咨询，免费助产士接待空间，孕期指导、母乳喂养、产后随访。",
+    "target_audience": "孕妇和新手父母",
+    "access_conditions": "常设咨询无需预约，免费。电话咨询时间：周一至周五8:00-20:00，周六日9:00-12:00和17:00-20:00"
+  },
+  "r_0042": {
+    "description": "为生活困难人士提供日间接待空间。早餐、咖啡、休息区、活动和社会指引。",
+    "target_audience": "无固定住所人士",
+    "access_conditions": "无需任何条件，无条件接待"
+  },
+  "r_0043": {
+    "description": "为弱势成年人和未成年人提供法律保护。监护、托管和保护措施。",
+    "target_audience": "需要法律保护的弱势成年人和未成年人",
+    "access_conditions": "通过举报或直接申请"
+  },
+  "r_0044": {
+    "description": "Place du Molard提供免费WiFi，位于日内瓦老城中心。日内瓦市政府网络。",
+    "target_audience": "所有公众",
+    "access_conditions": "免费开放"
+  },
+  "r_0045": {
+    "description": "为有困难的母亲和儿童提供住宿，主要为家庭暴力受害者。心理社会支持、社会和职业融入援助、巩固母子关系。设有托儿所。",
+    "target_audience": "单身或携带子女的困难女性",
+    "access_conditions": "由社会服务机构转介，需评估情况"
+  },
+  "r_0046": {
+    "description": "免费、匿名、无需注册的接待空间，面向5岁以下由成人陪同的儿童。为儿童和家长提供倾听和支持的场所。",
+    "target_audience": "0至5岁儿童及其父母或陪同人",
+    "access_conditions": "免费、匿名、无需注册，儿童需由成人陪同"
+  },
+  "r_0047": {
+    "description": "为租户提供法律咨询。在与房东发生纠纷、租金上涨、租约终止等情况下提供帮助。",
+    "target_audience": "日内瓦州租户",
+    "access_conditions": "需加入协会（少量会费）"
+  },
+  "r_0048": {
+    "description": "收集食品并分发给日内瓦慈善组织。抗击食品短缺和食物浪费。",
+    "target_audience": "慈善组织和面临食品短缺的人士",
+    "access_conditions": "通过合作伙伴组织获取"
+  },
+  "r_0049": {
+    "description": "大学口腔诊所提供牙科服务。周一至周五8:00至15:30无需预约。牙科急诊和常规护理。",
+    "target_audience": "所有公众，无牙科保险或低收入人士",
+    "access_conditions": "周一至周五8:00至15:30无需预约"
+  },
+  "r_0050": {
+    "description": "为生活困难人士提供接待、支持和社会职业重新融入的场所。免费早餐（每周150-200份）、社交活动和重新融入实习。",
+    "target_audience": "生活困难人士",
+    "access_conditions": "无需任何条件，自由进入"
+  },
+  "r_0051": {
+    "description": "面向所有年龄段、所有文化背景和社会阶层的接待、休闲和交流场所。文化和社交活动。",
+    "target_audience": "Eaux-Vives社区居民及所有公众",
+    "access_conditions": "向所有人开放，自由进入"
+  },
+  "r_0052": {
+    "description": "为女性和家庭提供接待和指引空间。法律咨询（家庭法、离婚、家庭暴力、居留许可）、职业指导和心理社会支持。",
+    "target_audience": "女性和家庭",
+    "access_conditions": "电话法律咨询：周二11:00-13:00，周三14:00-16:00，周四12:00-14:00，电话022 740 31 11。面谈需预约。"
+  },
+  "r_0053": {
+    "description": "瑞士法语区青年自杀预防协会。宣传教育、工作坊、预防模块和转介至援助机构。紧急情况请拨打143。",
+    "target_audience": "15至29岁青年，自杀预防",
+    "access_conditions": "工作日办公。紧急情况请拨打143（24小时）"
+  },
+  "r_0054": {
+    "description": "HUG精神健康和精神科。精神科和心理咨询，治疗焦虑症、抑郁症和心理创伤。",
+    "target_audience": "精神疾病患者",
+    "access_conditions": "需预约，需医生处方"
+  },
+  "r_0055": {
+    "description": "为AVS/AI受益人提供补充经济补助。帮助支付医疗保险费和房租。",
+    "target_audience": "低收入的AVS/AI受益人",
+    "access_conditions": "AVS/AI受益人，日内瓦州居民"
+  },
+  "r_0056": {
+    "description": "为收入处于最低生活标准或略高于该标准的人士提供实物援助和紧急账单支付。",
+    "target_audience": "面临临时经济困难的人士",
+    "access_conditions": "通过电子邮件geneve@secours-d-hiver.ch提交申请。仅周五接听电话。"
+  },
+  "r_0057": {
+    "description": "面向儿童和青少年的日内瓦协会。心理教育中心（13-18岁）、青少年咖啡馆、无人陪伴未成年人支持、预防行动。",
+    "target_audience": "12至18岁的儿童和青少年",
+    "access_conditions": "需注册或转介"
+  },
+  "r_0058": {
+    "description": "为远离劳动市场的人士提供职业融入项目。技能评估、就业辅导、实习。",
+    "target_audience": "远离劳动市场的人士",
+    "access_conditions": "通过Hospice général或OCE报名"
+  },
+  "r_0059": {
+    "description": "为难民和移民提供援助。法语课程、融入支持、庇护法律咨询和社会陪伴。",
+    "target_audience": "难民和移民",
+    "access_conditions": "难民和移民，需注册"
+  },
+  "r_0060": {
+    "description": "Jonction社区活动中心。面向各年龄段的社交、公民和文化活动。自由进入，向9至99岁居民开放的工作坊。",
+    "target_audience": "Jonction社区居民",
+    "access_conditions": "向所有人开放"
+  },
+  "r_0061": {
+    "description": "Cornavin火车站东翼一楼的卫生设施（洗手间/淋浴）。由SBB管理。收费使用（2瑞士法郎），SwissPass通勤卡持有者免费。车站广场地下有更便宜的洗手间（1瑞士法郎）。",
+    "target_audience": "所有公众",
+    "access_conditions": "收费使用（2瑞士法郎），SwissPass通勤卡持有者免费"
+  },
+  "r_0062": {
+    "description": "位于Parc des Bastions的免费公共洗手间，靠近宗教改革纪念碑。无障碍设施。",
+    "target_audience": "所有公众",
+    "access_conditions": "免费开放"
+  },
+  "r_0063": {
+    "description": "位于Plaine de Plainpalais的免费公共洗手间，靠近跳蚤市场。由市政服务部门定期维护。",
+    "target_audience": "所有公众",
+    "access_conditions": "免费开放"
+  },
+  "r_0064": {
+    "description": "位于Jardin Anglais的免费公共饮用水喷泉，靠近花钟。全年供应清凉饮用水。",
+    "target_audience": "所有公众",
+    "access_conditions": "24小时免费开放"
+  },
+  "r_0065": {
+    "description": "位于日内瓦最古老广场上的公共饮用水喷泉。持续供应免费饮用水。",
+    "target_audience": "所有公众",
+    "access_conditions": "24小时免费开放"
+  },
+  "r_0066": {
+    "description": "位于Parc des Eaux-Vives湖边的公共饮用水喷泉。散步时清凉解渴的理想选择。",
+    "target_audience": "所有公众",
+    "access_conditions": "24小时免费开放"
+  },
+  "r_0067": {
+    "description": "位于Servette社区中心的免费市立图书馆。分设成人和青少年区域，提供书籍和多媒体借阅、免费WiFi和文化活动。",
+    "target_audience": "所有公众",
+    "access_conditions": "免费进入，办理免费借书卡即可借阅"
+  },
+  "r_0068": {
+    "description": "位于Eaux-Vives社区的免费市立图书馆。成人和青少年区域，提供书籍和多媒体借阅、免费WiFi。",
+    "target_audience": "所有公众",
+    "access_conditions": "免费进入，办理免费借书卡即可借阅"
+  },
+  "r_0069": {
+    "description": "位于Jonction社区的免费市立图书馆。丰富的藏书、青少年区域、文化活动和免费WiFi。",
+    "target_audience": "所有公众",
+    "access_conditions": "免费进入，办理免费借书卡即可借阅"
+  },
+  "r_0070": {
+    "description": "位于多元文化的Pâquis社区中心的免费市立图书馆。提供多语种书籍借阅、免费WiFi和文化活动。",
+    "target_audience": "所有公众",
+    "access_conditions": "免费进入，办理免费借书卡即可借阅"
+  },
+  "r_0071": {
+    "description": "免费借阅桌游、教育游戏和儿童玩具。设有现场游戏空间。向所有由成人陪同的儿童开放。",
+    "target_audience": "儿童、家庭、所有公众",
+    "access_conditions": "免费注册，免费借阅"
+  },
+  "r_0072": {
+    "description": "社区玩具图书馆，免费借阅桌游、玩具和教育游戏。温馨的游戏空间和游戏工作坊。",
+    "target_audience": "儿童、家庭、所有公众",
+    "access_conditions": "免费注册，免费借阅"
+  },
+  "r_0073": {
+    "description": "Grottes社区的城市社区菜园。共享地块、集体堆肥和免费园艺工作坊。",
+    "target_audience": "社区居民、园艺爱好者",
+    "access_conditions": "免费进入，参加工作坊需注册"
+  },
+  "r_0074": {
+    "description": "Parc Beaulieu的参与式城市菜园，由Les Artichauts协会管理。每周六下午免费园艺工作坊，面向所有水平。有机种苗培育。",
+    "target_audience": "社区居民、所有公众",
+    "access_conditions": "免费进入，免费园艺工作坊：周六14:00-17:00（2月中旬至10月底）"
+  },
+  "r_0075": {
+    "description": "工会常设咨询服务。劳动法咨询、权益维护、解雇或工作纠纷援助。",
+    "target_audience": "各行业劳动者",
+    "access_conditions": "向所有劳动者开放，法律服务需加入工会"
+  },
+  "r_0076": {
+    "description": "跨行业工会。法律常设咨询、劳动权益维护、集体谈判。",
+    "target_audience": "各行业劳动者",
+    "access_conditions": "向所有劳动者开放，法律服务需加入工会"
+  },
+  "r_0077": {
+    "description": "为刑事犯罪受害者提供免费保密咨询中心。心理、法律和社会支持。紧急经济援助。",
+    "target_audience": "刑事犯罪受害者及其亲属",
+    "access_conditions": "免费保密，需预约"
+  },
+  "r_0078": {
+    "description": "24小时电话倾听服务，面向所有遇到困难、焦虑或孤独的人士。匿名、保密且免费的倾听服务。",
+    "target_audience": "所有处于困境、孤独或焦虑中的人士",
+    "access_conditions": "拨打143，免费、匿名、保密，24小时服务"
+  },
+  "r_0079": {
+    "description": "面向儿童和青少年的24小时帮助热线。为个人、家庭或学业问题提供倾听、建议和指引。",
+    "target_audience": "25岁以下的儿童和青少年",
+    "access_conditions": "拨打147，免费、匿名、保密，24小时服务"
+  },
+  "r_0080": {
+    "description": "免费保密的性与生殖健康咨询。避孕、妊娠、性传播感染、婚姻咨询和性教育。紧急避孕无需预约。",
+    "target_audience": "所有人士，尤其是青年和女性",
+    "access_conditions": "免费、保密，需预约（紧急避孕无需预约）"
+  },
+  "r_0081": {
+    "description": "日内瓦大学医院匿名保密HIV和性传播感染检测。快速HIV检测（55瑞士法郎），HIV/性传播感染全面检测（155瑞士法郎）。为HIV阳性人士提供后续咨询和治疗。",
+    "target_audience": "所有希望进行HIV/性传播感染检测的人士",
+    "access_conditions": "匿名检测需预约（通过www.testvih.ch或电话），快速HIV检测55瑞士法郎起"
+  },
+  "r_0082": {
+    "description": "位于Cité Générations健康中心（Onex诊所和急诊）的药房。药学咨询、治疗随访，紧邻成人和儿科急诊。",
+    "target_audience": "所有公众，Cité Générations健康中心患者",
+    "access_conditions": "向所有人开放，无需任何条件"
+  },
+  "r_0083": {
+    "description": "集中分配无家可归者紧急住宿床位的服务。致电服务中心即可在网络中获得床位（Châtelaine民防避难所、Richemont、协会收容所）。总容量184个床位。",
+    "target_audience": "无家可归者，紧急情况",
+    "access_conditions": "拨打免费电话0800 22 22 10获取床位，无条件接待"
+  },
+  "r_0084": {
+    "description": "位于Servette教堂的无条件日间接待场所，面向生活困难人士。爱心餐食、热饮、公共代书人（简历、信件）、法语、英语和计算机工作坊、免费法律咨询。",
+    "target_audience": "生活困难人士、移民、无家可归者",
+    "access_conditions": "无需任何条件，无条件接待"
+  },
+  "r_0085": {
+    "description": "日内瓦湖畔标志性公共浴场。沙滩、泳池、跳水台（3-10米）、桑拿和蒸汽浴、平价餐饮。门票非常实惠（夏季2瑞士法郎，冬季1瑞士法郎）。",
+    "target_audience": "所有公众",
+    "access_conditions": "公共区域免费，门票夏季2瑞士法郎，冬季1瑞士法郎"
+  },
+  "r_0086": {
+    "description": "免费公共湖滨沙滩，非常适合带孩子的家庭。设有游乐场、戏水池、绿地和运动场。",
+    "target_audience": "家庭、儿童、所有公众",
+    "access_conditions": "免费开放"
+  },
+  "r_0087": {
+    "description": "Parc des Bastions内的免费公共运动场地。巨型国际象棋、乒乓球桌、法式滚球和室外健身器材。",
+    "target_audience": "所有公众",
+    "access_conditions": "免费开放"
+  },
+  "r_0088": {
+    "description": "免费调解服务，用于解决家庭、社会、邻里或工作纠纷。刑事、民事和健康调解。",
+    "target_audience": "日内瓦市居民",
+    "access_conditions": "免费，需预约"
+  },
+  "r_0089": {
+    "description": "老年人接待、信息和活动空间。免费服务信息咨询、行政协助、课程、工作坊、讲座、健康建议和代际交流活动。",
+    "target_audience": "老年人、退休人士及其亲属",
+    "access_conditions": "向所有老年人及其亲属开放，免费进入"
+  },
+  "r_0090": {
+    "description": "位于Bibliothèque de la Cité内的免费共享工作空间。提供WiFi、电源插座、工作桌和安静的工作学习环境。",
+    "target_audience": "学生、自由职业者、求职者、所有公众",
+    "access_conditions": "免费开放，提供WiFi"
+  },
+  "r_0091": {
+    "description": "由FRC日内瓦组织的免费流动修理工作坊。志愿者专家修理电子产品、衣物和自行车。定期活动（请查看网站了解日期和地点）。",
+    "target_audience": "所有公众",
+    "access_conditions": "免费开放，每月一个周六（请查看网站）"
+  },
+  "r_0092": {
+    "description": "Carouge的免费修理工作坊。志愿者帮助修理破损物品：小型电器、缝补、电脑、自行车。",
+    "target_audience": "所有公众",
+    "access_conditions": "免费开放，每月一个周六（请查看网站）"
+  },
+  "r_0093": {
+    "description": "面向移民的民族心理学咨询和研究中心。提供适应原籍文化的心理治疗支持，帮助处理流亡和融入相关的心理创伤。",
+    "target_audience": "移民、跨文化夫妻、跨文化家庭",
+    "access_conditions": "需预约，面向移民和跨文化人士的咨询"
+  },
+  "r_0094": {
+    "description": "位于Place de Neuve的免费公共洗手间，靠近大剧院和Rath博物馆。无障碍设施。",
+    "target_audience": "所有公众",
+    "access_conditions": "免费开放"
+  },
+  "r_0095": {
+    "description": "位于Parc de la Grange的免费饮用水喷泉，这是日内瓦最大的湖滨公园。全年供应清凉饮用水。",
+    "target_audience": "所有公众",
+    "access_conditions": "24小时免费开放"
+  },
+  "r_0096": {
+    "description": "位于Quai du Mont-Blanc的免费公共洗手间，靠近大喷泉。全年开放。",
+    "target_audience": "所有公众",
+    "access_conditions": "免费开放"
+  },
+  "r_0097": {
+    "description": "位于Arve河和Rhône河交汇处的共享城市菜园。朴门永续农业工作坊、集体堆肥和参与式园艺。",
+    "target_audience": "社区居民、所有公众",
+    "access_conditions": "免费进入，参与需申请"
+  },
+  "r_0098": {
+    "description": "位于Cornavin火车站前的公共饮用水喷泉。日内瓦市中心的免费清凉饮水点。",
+    "target_audience": "所有公众",
+    "access_conditions": "24小时免费开放"
+  },
+  "r_0099": {
+    "description": "社区玩具图书馆，免费借阅桌游、拼图和各年龄段玩具。每周有面向家庭的游戏下午。",
+    "target_audience": "儿童、家庭、所有公众",
+    "access_conditions": "现场游戏免费，年度借阅卡30瑞士法郎"
+  },
+  "r_0100": {
+    "description": "Parc de la Grange由日内瓦市政府提供免费WiFi。在日内瓦最美的公园之一享受免费网络连接。",
+    "target_audience": "所有公众",
+    "access_conditions": "免费开放"
+  },
+  "r_0101": {
+    "description": "LGBTIQ+社区支持协会。Checkpoint Genève（社区健康中心，提供HIV/性传播感染检测和心理支持）、Le Refuge（LGBTIQ+青年住宿）、互助小组和社交活动。",
+    "target_audience": "LGBT+社区及所有相关人士",
+    "access_conditions": "向所有人开放，免费匿名检测"
+  },
+  "r_0102": {
+    "description": "Saint-Jean社区活动中心，提供面向各年龄段的活动。工作坊、语言课程、课业辅导和文化活动。",
+    "target_audience": "Saint-Jean社区居民，儿童、青少年和成人",
+    "access_conditions": "向社区所有居民开放"
+  },
+  "r_0103": {
+    "description": "为癌症患者提供免费支持和信息。心理肿瘤咨询、互助小组和社会陪伴。",
+    "target_audience": "癌症患者及其亲属",
+    "access_conditions": "免费，需预约"
+  },
+  "r_0104": {
+    "description": "为处于精神危机的成年人提供免费的精神科危机咨询和门诊随访。隶属于HUG。",
+    "target_audience": "处于精神危机的成年人",
+    "access_conditions": "免费，根据紧急程度可预约或直接就诊"
+  },
+  "r_0105": {
+    "description": "为糖尿病患者及其亲属提供免费支持。饮食建议、交流小组和疾病相关信息。",
+    "target_audience": "糖尿病患者及其亲属",
+    "access_conditions": "免费，可预约或电话咨询"
+  },
+  "r_0106": {
+    "description": "为无医疗保险或生活困难人士提供初级医疗服务。全科咨询和转介。",
+    "target_audience": "无医疗保险或生活困难人士",
+    "access_conditions": "面向无医疗保险人士，需预约"
+  },
+  "r_0107": {
+    "description": "日内瓦居家护理机构。为老年人、病人或康复期人士提供护理服务、居家援助和陪伴。",
+    "target_audience": "需要居家护理的老年人、病人或康复期人士",
+    "access_conditions": "需医生处方或直接申请"
+  },
+  "r_0108": {
+    "description": "为阿尔茨海默症患者的家人和亲属提供免费支持。互助小组、咨询和转介至专业服务。",
+    "target_audience": "阿尔茨海默症或失智症患者的家人和亲属",
+    "access_conditions": "免费，需预约"
+  },
+  "r_0109": {
+    "description": "州级儿童保护服务。评估危险处境、制定保护措施和为困难家庭提供陪伴。",
+    "target_audience": "面临危险或困难的儿童和家庭",
+    "access_conditions": "州级服务，通过举报或申请获取"
+  },
+  "r_0110": {
+    "description": "为有困难的青少年提供教育支持和课业辅导。工作坊、教育寄宿和重新融入项目。",
+    "target_audience": "学业、社会或家庭困难的青少年",
+    "access_conditions": "由SPMi转介或直接申请"
+  },
+  "r_0111": {
+    "description": "为0至6岁儿童及其陪同人提供的免费艺术空间。在Parc de la Perle du Lac内开展绘画、塑形和音乐工作坊。",
+    "target_audience": "0至6岁由成人陪同的儿童",
+    "access_conditions": "免费，无需注册，儿童需有成人陪同"
+  },
+  "r_0112": {
+    "description": "0至4岁亲子接待场所。自由游戏空间、家长交流和温馨氛围中的育儿支持。",
+    "target_audience": "家长和0至4岁儿童",
+    "access_conditions": "免费，无需注册，儿童需由家长陪同"
+  },
+  "r_0113": {
+    "description": "为儿童和家庭免费借阅游戏和玩具。丰富的桌游、教育游戏和各年龄段玩具收藏。",
+    "target_audience": "儿童和家庭",
+    "access_conditions": "免费注册，Carouge居民免费借阅"
+  },
+  "r_0114": {
+    "description": "日内瓦免费自助自行车借用服务。提供普通自行车和电动自行车，用于日常城市出行。",
+    "target_audience": "所有公众",
+    "access_conditions": "免费，需身份证件和押金"
+  },
+  "r_0115": {
+    "description": "低收入人士可享受日内瓦公共交通优惠票价。月票和年票最高可减免50%。",
+    "target_audience": "日内瓦州低收入居民",
+    "access_conditions": "需符合收入条件，提供证明文件"
+  },
+  "r_0116": {
+    "description": "为社会救助受益人承担公共交通费用。TPG公交卡包含在经济援助中。",
+    "target_audience": "社会救助受益人",
+    "access_conditions": "仅限Hospice général社会救助受益人"
+  },
+  "r_0117": {
+    "description": "Cornavin火车站提供SBB-FREE免费WiFi。站内及站台均可使用无限制网络。",
+    "target_audience": "所有公众",
+    "access_conditions": "免费，SBB-FREE网络，无需密码"
+  },
+  "r_0118": {
+    "description": "日内瓦市政府在Jardin Anglais提供免费WiFi。可欣赏大喷泉和湖景的户外上网点。",
+    "target_audience": "所有公众",
+    "access_conditions": "免费，日内瓦市WiFi网络"
+  },
+  "r_0119": {
+    "description": "日内瓦市政府在Plaine de Plainpalais提供免费WiFi。覆盖这片大型城市广场的广泛网络。",
+    "target_audience": "所有公众",
+    "access_conditions": "免费，日内瓦市WiFi网络"
+  },
+  "r_0120": {
+    "description": "大学建筑提供免费WiFi和向公众开放的自习空间。可使用图书馆、自习室和食堂。",
+    "target_audience": "学生和需要工作空间的所有公众",
+    "access_conditions": "免费，建筑内公共空间自由进入"
+  },
+  "r_0121": {
+    "description": "为健康状况受损或残障人士提供职业重新融入服务。个人、职业和社会技能发展、职业项目规划、企业实习和就业安置。",
+    "target_audience": "残障人士或有健康问题的求职者",
+    "access_conditions": "免费，由AI、失业保险或社会救助转介"
+  },
+  "r_0122": {
+    "description": "为低学历或无学历、求职困难的女性提供培训空间。法语、计算机、基础技能课程，以及走向自主和职业融入的陪伴。",
+    "target_audience": "低学历或无学历的困难女性",
+    "access_conditions": "大部分培训免费，需到秘书处注册"
+  },
+  "r_0123": {
+    "description": "为25岁以下年轻人提供职业辅导以完成双轨制学徒培训，以及为50岁以上人士提供重返就业的支持。个人和集体辅导。",
+    "target_audience": "25岁以下无职业培训的年轻人和50岁以上的求职者",
+    "access_conditions": "25岁以下年轻人和居住在日内瓦的50岁以上人士免费"
+  },
+  "r_0124": {
+    "description": "社团交流、信息和培训场所，接待80多个本地和国际协会。13间会议室可供活动、会议和社团活动租用。",
+    "target_audience": "协会和社区居民",
+    "access_conditions": "公共空间免费进入，会议室需预约"
+  },
+  "r_0125": {
+    "description": "社区生活中心，提供面向各年龄段的社会文化活动。创意工作坊、语言课程、社区活动和咖啡空间。",
+    "target_audience": "Carouge及周边居民，各年龄段",
+    "access_conditions": "自由进入，部分活动需注册"
+  },
+  "r_0126": {
+    "description": "Vernier社区空间，提供面向儿童、青少年和成人的活动。课业辅导、工作坊、出游和跨文化活动。",
+    "target_audience": "Vernier居民，各年龄段",
+    "access_conditions": "自由进入，部分活动需注册"
+  },
+  "r_0127": {
+    "description": "为性暴力受害者提供的倾听热线和支持。保密环境中的心理、法律和社会陪伴。",
+    "target_audience": "性暴力受害者，主要为女性和LGBTIQ+群体",
+    "access_conditions": "免费保密，可预约或直接来访"
+  },
+  "r_0128": {
+    "description": "为移民女性提供陪伴和赋能的协会。法语课程、融入工作坊、心理咨询和社区支持。",
+    "target_audience": "移民和难民女性",
+    "access_conditions": "免费或象征性收费，课程需注册"
+  },
+  "r_0129": {
+    "description": "为困难孕妇提供支持和陪伴。倾听、物资援助（婴儿服装、婴儿车）、咨询和转介至社会服务。",
+    "target_audience": "困难孕妇和年轻妈妈",
+    "access_conditions": "免费，可预约或电话咨询"
+  },
+  "r_0130": {
+    "description": "为失能老年人提供日间照料。适配活动、餐食和护理，为家庭照护者提供喘息机会。",
+    "target_audience": "失能老年人及其家庭照护者",
+    "access_conditions": "需医生处方，费用根据收入而定"
+  },
+  "r_0131": {
+    "description": "为日内瓦州家庭照护者提供支持和指引。倾听、咨询、互助小组和连接现有资源。",
+    "target_audience": "老年人、病人或残障人士的家庭照护者",
+    "access_conditions": "免费，可预约或直接来访"
+  },
+  "r_0132": {
+    "description": "面向成人的免费或低价课程，涵盖多个领域：语言、计算机、文化、个人发展。无学历要求，向所有人开放。",
+    "target_audience": "各行各业的成年人，无学历要求",
+    "access_conditions": "免费或低价，按学期注册"
+  },
+  "r_0133": {
+    "description": "面向国际组织和协会的资源中心。会议室、联合办公空间和行政支持服务。",
+    "target_audience": "协会、非政府组织和国际组织",
+    "access_conditions": "公共空间免费进入，会议室需预约"
+  },
+  "r_0134": {
+    "description": "为外国人士提供关于外国人权利法、庇护、家庭团聚和居留许可的免费法律咨询。",
+    "target_audience": "居住在日内瓦州的外国人士",
+    "access_conditions": "免费，无需预约，先到先得"
+  },
+  "r_0135": {
+    "description": "专门从事庇护法和外国人权利法的免费法律常设咨询。法律建议、程序陪伴和上诉起草。",
+    "target_audience": "庇护申请者、难民和被拒绝申请者",
+    "access_conditions": "免费，深入咨询需预约"
+  },
+  "r_0136": {
+    "description": "为残障人士及其亲属提供免费咨询和陪伴。行政协助、职业指导和社会支持。",
+    "target_audience": "残障人士及其亲属",
+    "access_conditions": "免费，需预约"
+  },
+  "r_0137": {
+    "description": "免费自然历史博物馆。动物学、矿物学和古生物学常设展览。临时展览和儿童活动。",
+    "target_audience": "所有公众、家庭和学校团体",
+    "access_conditions": "常设展览免费"
+  },
+  "r_0138": {
+    "description": "日内瓦最大的博物馆，常设展览免费。美术、应用艺术和考古，从史前到当代艺术。",
+    "target_audience": "所有公众、艺术和历史爱好者",
+    "access_conditions": "常设展览免费，临时展览收费"
+  },
+  "r_0139": {
+    "description": "瑞士陶瓷和玻璃博物馆，免费入场。面对万国宫的新巴洛克建筑中珍藏的杰出藏品。",
+    "target_audience": "所有公众、装饰艺术爱好者",
+    "access_conditions": "常设展览免费"
+  },
+  "r_0140": {
+    "description": "人道主义博物馆，周三下午免费入场。关于历史和当前人道主义挑战的互动展览。",
+    "target_audience": "所有公众、人道主义历史爱好者",
+    "access_conditions": "周三下午免费（16:00-18:00），提供优惠票价"
+  },
+  "r_0141": {
+    "description": "市政水上运动中心，低收入居民可享受优惠票价。奥林匹克标准泳池、教学泳池和休闲区。",
+    "target_audience": "所有公众，低收入居民可享优惠票价",
+    "access_conditions": "持Cité Seniors卡或医疗保险补贴可享优惠票价"
+  },
+  "r_0142": {
+    "description": "免费开放的市立媒体图书馆，提供书籍、DVD、CD和免费上网。文化活动、故事时间和舒适的阅读空间。",
+    "target_audience": "所有公众、社区读者和家庭",
+    "access_conditions": "免费进入，免费注册即可借阅"
+  },
+  "r_0143": {
+    "description": "爱心餐厅，晚间为生活困难人士提供免费餐食。以回收的剩余食材制作精致料理。由Mater Fondazione与Food for Soul合作运营。",
+    "target_audience": "面临食品短缺的困难人士",
+    "access_conditions": "晚间免费用餐，由合作伙伴组织转介"
+  },
+  "r_0144": {
+    "description": "公益食堂，中午为无资源人士提供免费餐食。由多个慈善组织每天提供超过250份餐食。位于Cornavin火车站后方的聚会场所。",
+    "target_audience": "无资源人士、无固定住所人士",
+    "access_conditions": "无需任何条件，向所有有需要的人开放"
+  },
+  "r_0145": {
+    "description": "日间紧急接待中心，提供免费热餐、淋浴、倾听和指引。无条件接待面临孤独、排斥和边缘化的人士。CARÉ = Caritas接待交流中心。",
+    "target_audience": "生活困难、被排斥、孤立的人士",
+    "access_conditions": "无需任何条件，无条件接待成年人"
+  },
+  "r_0146": {
+    "description": "紧急住宿收容所，为无家可归者提供庇护。免费提供早餐和晚餐。住宿期限不限。冬季可白天留在所内。设有女性专区。",
+    "target_audience": "无家可归者、单身或携带子女的女性",
+    "access_conditions": "申请入住，10至20个床位，住宿期限不限"
+  },
+  "r_0147": {
+    "description": "日内瓦市紧急夜间收容所。免费提供床位、晚餐、行李寄存和淋浴。最长入住30天。",
+    "target_audience": "无家可归者",
+    "access_conditions": "拨打紧急住宿中心免费电话0800 22 22 10。最长入住30天。"
+  },
+  "r_0148": {
+    "description": "为无医疗保险或无合法身份人士提供免费保密医疗咨询。初级医疗服务、医疗和护理咨询、转介至专科服务。每年接诊超过4500名患者。",
+    "target_audience": "无医疗保险、无合法身份、无固定住所人士",
+    "access_conditions": "16岁以上，不限合法身份，接受无保险人士，免费保密"
+  },
+  "r_0149": {
+    "description": "LGBTIQ+社区健康中心，专注于性健康。免费匿名HIV/性传播感染检测、治疗、疫苗接种、心理咨询。Dialogai旗下服务。",
+    "target_audience": "LGBTIQ+社区及所有关注性健康的人士",
+    "access_conditions": "周一和周四无需预约免费匿名检测"
+  },
+  "r_0150": {
+    "description": "为低收入人士提供极低价格基础牙科服务的牙科诊所。牙医咨询40瑞士法郎，口腔卫生师20瑞士法郎。志愿牙医和口腔卫生师。",
+    "target_audience": "低收入劳动者和无社会救助的低收入人士",
+    "access_conditions": "通过社会接待服务预约。仅面向低收入人士。"
+  },
+  "r_0151": {
+    "description": "致力于抗击HIV、肝炎和性传播感染的协会。首次心理咨询免费、保密检测、为HIV感染者提供法律和社会咨询。",
+    "target_audience": "HIV、性传播感染、肝炎相关人士",
+    "access_conditions": "首次心理咨询免费。保密检测。"
+  },
+  "r_0152": {
+    "description": "为被排斥女性提供社会和职业陪伴。行政手续协助、权利认知、职业重新定位。电话倾听和支持。",
+    "target_audience": "面临社会或职业排斥的女性",
+    "access_conditions": "免费，指定时间段提供电话咨询"
+  },
+  "r_0153": {
+    "description": "为遭受暴力和人口贩运的女性提供庇护所，可携带或不携带子女。为约30名女性提供住宿和心理社会随访。法语课程和职业培训。",
+    "target_audience": "遭受暴力和人口贩运的女性，可携带或不携带子女",
+    "access_conditions": "电话接待8:30-12:00。24小时紧急住宿。"
+  },
+  "r_0154": {
+    "description": "维护性工作者权利的团结协会。接待、倾听、心理社会支持、法律服务、行政援助、性传播感染预防和预防材料。",
+    "target_audience": "性工作者",
+    "access_conditions": "指定时间无需预约。无歧视接待。"
+  },
+  "r_0155": {
+    "description": "免费职业指导、培训和就业信息及咨询空间。无需预约可咨询顾问。主题工作坊：技能评估、简历、面试、职业转型。",
+    "target_audience": "寻求职业指导、培训或就业的青年和成人",
+    "access_conditions": "免费，无需预约，自由进入"
+  },
+  "r_0156": {
+    "description": "面向15至25岁年轻人的社会职业融入协会。临时零工、个性化支持、预备资格实习和求职或培训陪伴。",
+    "target_audience": "15至25岁求职或寻找培训的年轻人",
+    "access_conditions": "免费，网上或现场注册"
+  },
+  "r_0157": {
+    "description": "自1986年以来维护庇护权的独立协会。免费法律援助和难民代理。周一无需预约咨询。全程陪伴庇护程序。",
+    "target_audience": "庇护申请者和难民",
+    "access_conditions": "免费，周一无需预约咨询"
+  },
+  "r_0158": {
+    "description": "面向所有女性（顺性别、跨性别、双性恋、酷儿）的女同性恋和女权主义协会。接待、倾听、信息和团结。活动：电影俱乐部、聚会、讲座、运动。",
+    "target_audience": "女同性恋、双性恋、跨性别、酷儿女性",
+    "access_conditions": "向所有女性无条件开放"
+  },
+  "r_0159": {
+    "description": "为困难LGBTIQ+青年提供接待、倾听和支持空间。个人辅导、互助小组、在线匿名聊天、18岁起提供3至6个月的住宿。",
+    "target_audience": "LGBTIQ+青年及其周围人",
+    "access_conditions": "可预约或直接来访，提供在线匿名聊天"
+  },
+  "r_0160": {
+    "description": "致力于性别和性取向多元化的协会。为LGBTIQ+群体提供接待、信息、倾听和指引。瑞士法语区独有的法律服务。设有跨性别、同性恋父母、双性恋、Tamalou（老年人）等互助小组。",
+    "target_audience": "LGBTIQ+群体及其亲属",
+    "access_conditions": "无需预约自由来访"
+  },
+  "r_0161": {
+    "description": "面向酒精依赖者及其家人的预防和陪伴协会。专业咨询、门诊治疗、互助小组、周末活动。",
+    "target_audience": "受酒精问题影响的人士及其亲属",
+    "access_conditions": "自由来访，免费"
+  },
+  "r_0162": {
+    "description": "药物依赖者日间中心。接待、倾听、餐食、活动和治疗陪伴。ARGOS协会还提供住宿式重新融入中心。",
+    "target_audience": "药物依赖者",
+    "access_conditions": "自由来访，无需预约"
+  },
+  "r_0163": {
+    "description": "综合预防中心，汇集FEGPA（酒精和大麻）、CIPRET（烟草）和RNVP（赌博/屏幕）。为所有受成瘾影响的人士或其亲属提供免费保密咨询。",
+    "target_audience": "所有受成瘾影响的人士、青年和亲属",
+    "access_conditions": "免费保密咨询，需预约"
+  },
+  "r_0164": {
+    "description": "智力障碍者的家长和朋友协会。为家庭提供信息、咨询和支持。休闲活动、喘息周末、假期住宿。权益维护。",
+    "target_audience": "智力障碍者及其家庭",
+    "access_conditions": "电话或电子邮件联系"
+  },
+  "r_0165": {
+    "description": "瑞士最大的残障人士互助组织。社会保险（AI、APG）免费法律咨询。面向残障儿童的交流活动。",
+    "target_audience": "残障人士",
+    "access_conditions": "会员可享免费法律咨询"
+  },
+  "r_0166": {
+    "description": "鼓励老年人保持活跃和自主的协会。丰富多彩的活动：课程、工作坊、出游、讲座、运动。设有面向移民老年人的融入项目。",
+    "target_audience": "50岁及以上老年人",
+    "access_conditions": "面向50岁及以上人士开放"
+  },
+  "r_0167": {
+    "description": "面向庇护申请者和难民的跨宗派牧灵服务，提供陪伴、倾听和支持。法语课程、计算机课程、共进餐食、体育和文化活动。",
+    "target_audience": "日内瓦的庇护申请者和难民",
+    "access_conditions": "向所有庇护申请者和难民开放"
+  },
+  "r_0168": {
+    "description": "为LGBTIQ+难民提供接待和陪伴。与elisa-asile合作提供法律常设咨询、支持和宣传活动。",
+    "target_audience": "LGBTIQ+难民和庇护申请者",
+    "access_conditions": "向所有LGBTIQ+难民或庇护申请者开放"
+  },
+  "r_0169": {
+    "description": "免费市立玩具图书馆，可在现场游玩。两层楼设有经典和合作类桌游。凭家庭年度订阅（30瑞郎）可借用游戏。工作人员可提供建议。",
+    "target_audience": "儿童、家庭、社区机构",
+    "access_conditions": "现场游玩免费。借用需家庭年度订阅（30瑞郎）。6岁以下儿童须由成人陪同。"
+  },
+  "r_0170": {
+    "description": "免费市立玩具图书馆，位于Manège en Ville内，可在现场游玩。约1000种桌游、电子游戏和各年龄段玩具。凭家庭订阅（30瑞郎/年）可借用。举办锦标赛和活动。",
+    "target_audience": "儿童、家庭、所有年龄段（婴儿至成人）",
+    "access_conditions": "现场游玩免费。借用需家庭年度订阅（30瑞郎）。6岁以下儿童须由成人陪同。"
+  },
+  "r_0171": {
+    "description": "为处于困境中的女性、无家可归者或带孩子的难民女性提供紧急住所。30个无条件接收名额和21个社会救助女性名额。单人或双人房间，每日三餐，洗衣房，社会陪伴。",
+    "target_audience": "无家可归的女性、处于困境中的女性、带孩子的难民女性",
+    "access_conditions": "联系日内瓦紧急住所热线：0800 22 22 10（周一至周五10:30-20:00，周六至周日15:00-20:00）。不接受直接预约。"
+  },
+  "tag": {
+    "143": "143",
+    "147": "147",
+    "15-25 ans": "15-25岁",
+    "24h": "24小时",
+    "50+": "50+",
+    "AI": "AI",
+    "AVS": "AVS",
+    "Belle-Idée": "Belle-Idée",
+    "CFF": "CFF",
+    "CV": "简历",
+    "Carouge": "Carouge",
+    "Cité Générations": "Cité Générations",
+    "Cornavin": "Cornavin",
+    "Croix-Rouge": "红十字会",
+    "FLE": "法语外语",
+    "FRC": "FRC",
+    "HUG": "HUG",
+    "Hospice général": "Hospice général",
+    "IST": "性传播感染",
+    "LAVI": "LAVI",
+    "LGBT": "LGBT",
+    "LGBTIQ+": "LGBTIQ+",
+    "Onex": "Onex",
+    "Plainpalais": "Plainpalais",
+    "SBB": "SBB",
+    "SIT": "SIT",
+    "SOS": "SOS",
+    "TPAE": "TPAE",
+    "TPG": "TPG",
+    "UNIA": "UNIA",
+    "VIH": "HIV",
+    "Vernier": "Vernier",
+    "abri": "收容所",
+    "accessibilité": "无障碍",
+    "accompagnement": "陪伴",
+    "accueil": "接待",
+    "accueil de jour": "日间接待",
+    "activités": "活动",
+    "addiction": "成瘾",
+    "administratif": "行政",
+    "administration": "行政管理",
+    "adolescents": "青少年",
+    "adultes": "成人",
+    "aide": "援助",
+    "aide financière": "经济援助",
+    "aide matérielle": "物资援助",
+    "aide sociale": "社会救助",
+    "aide à domicile": "居家援助",
+    "alcool": "酒精",
+    "alimentaire": "食品",
+    "allaitement": "母乳喂养",
+    "alzheimer": "阿尔茨海默症",
+    "anonyme": "匿名",
+    "anti-gaspillage": "反浪费",
+    "antigaspillage": "反浪费",
+    "apprentissage": "学徒培训",
+    "archéologie": "考古",
+    "armée du salut": "救世军",
+    "art": "艺术",
+    "artichauts": "artichauts",
+    "arts": "艺术",
+    "asile": "庇护",
+    "associations": "协会",
+    "assurance": "保险",
+    "assurances sociales": "社会保险",
+    "ateliers": "工作坊",
+    "autonomie": "自主",
+    "autonomisation": "赋能",
+    "avocats": "律师",
+    "bail": "租约",
+    "bains": "浴场",
+    "banque": "银行",
+    "bas prix": "低价",
+    "bas seuil": "低门槛",
+    "bateau": "船",
+    "beaulieu": "beaulieu",
+    "bibliothèque": "图书馆",
+    "bien-être": "健康",
+    "bébé": "婴儿",
+    "bénévoles": "志愿者",
+    "café": "咖啡",
+    "cancer": "癌症",
+    "cannabis": "大麻",
+    "cantonal": "州级",
+    "caritas": "明爱会",
+    "carouge": "carouge",
+    "carrière": "职业",
+    "centrale": "中心",
+    "centre-ville": "市中心",
+    "chômage": "失业",
+    "citoyenneté": "公民",
+    "coaching": "辅导",
+    "colis": "包裹",
+    "collecte": "收集",
+    "communautaire": "社区",
+    "communauté": "社区",
+    "compétences": "技能",
+    "confidentiel": "保密",
+    "conflits": "纠纷",
+    "conférences": "讲座",
+    "conseil": "咨询",
+    "conseils": "咨询",
+    "consultation": "咨询",
+    "contraception": "避孕",
+    "cornavin": "cornavin",
+    "cours": "课程",
+    "coworking": "联合办公",
+    "crise": "危机",
+    "croix-rouge": "红十字",
+    "crèche": "托儿所",
+    "créativité": "创意",
+    "culture": "文化",
+    "curatelle": "监护",
+    "céramique": "陶瓷",
+    "dentaire": "牙科",
+    "diabète": "糖尿病",
+    "distribution": "分发",
+    "diversité": "多元",
+    "divorce": "离婚",
+    "diététique": "饮食",
+    "domicile": "居家",
+    "douche": "淋浴",
+    "douches": "淋浴",
+    "drogue": "毒品",
+    "drogues": "毒品",
+    "droit": "法律",
+    "droit des étrangers": "外国人法",
+    "droits": "权利",
+    "démence": "失智症",
+    "dépendance": "依赖",
+    "dépistage": "检测",
+    "détresse": "困境",
+    "eau potable": "饮用水",
+    "eaux-vives": "eaux-vives",
+    "emploi": "就业",
+    "enfance": "童年",
+    "enfants": "儿童",
+    "espace partagé": "共享空间",
+    "espace travail": "工作空间",
+    "ethnopsychologie": "民族心理学",
+    "extérieur": "户外",
+    "factures": "账单",
+    "famille": "家庭",
+    "familles": "家庭",
+    "femmes": "女性",
+    "femmes migrantes": "移民女性",
+    "financière": "经济",
+    "fitness": "健身",
+    "fontaine": "喷泉",
+    "formation": "培训",
+    "fr": "法语",
+    "français": "法语",
+    "français professionnel": "职业法语",
+    "frigo": "冰箱",
+    "féministe": "女权",
+    "garderie": "托管",
+    "gare": "火车站",
+    "gastronomique": "美食",
+    "grange": "grange",
+    "gratuit": "免费",
+    "grossesse": "孕期",
+    "groupe": "小组",
+    "handicap": "残障",
+    "handicap mental": "智力障碍",
+    "histoire": "历史",
+    "hiver": "冬季",
+    "humanitaire": "人道主义",
+    "hydratation": "饮水",
+    "hygiène": "卫生",
+    "hébergement": "住宿",
+    "infirmiers": "护理",
+    "information": "信息",
+    "informatique": "计算机",
+    "infractions": "犯罪",
+    "insertion": "融入",
+    "interactif": "互动",
+    "interculturel": "跨文化",
+    "international": "国际",
+    "internet": "网络",
+    "intégration": "融入",
+    "invendus": "滞销品",
+    "jardin": "花园",
+    "jeu": "游戏",
+    "jeunes": "青年",
+    "jeunesse": "青少年",
+    "jeux": "游戏",
+    "jonction": "jonction",
+    "jouets": "玩具",
+    "jour": "日间",
+    "juridique": "法律",
+    "lac": "湖",
+    "langues": "语言",
+    "laverie": "洗衣",
+    "lesbienne": "女同性恋",
+    "libre-service": "自助",
+    "licenciement": "解雇",
+    "livres": "书籍",
+    "locataires": "租户",
+    "logement": "住房",
+    "loisirs": "休闲",
+    "loyer": "房租",
+    "ludothèque": "玩具馆",
+    "maintien à domicile": "居家护理",
+    "maladie chronique": "慢性病",
+    "maraude": "街头巡查",
+    "maternité": "产科",
+    "meubles": "家具",
+    "midi": "午间",
+    "migrantes": "移民女性",
+    "migrants": "移民",
+    "migration": "移民",
+    "mineurs": "未成年人",
+    "mobile": "流动",
+    "mobilité": "出行",
+    "molard": "molard",
+    "multilingue": "多语言",
+    "musée": "博物馆",
+    "médecin": "医生",
+    "médecine générale": "全科医疗",
+    "médiathèque": "媒体馆",
+    "médiation": "调解",
+    "médicaments": "药品",
+    "natation": "游泳",
+    "nature": "自然",
+    "nuit": "夜间",
+    "offres": "职位",
+    "orientation": "指导",
+    "parc": "公园",
+    "parc de la grange": "parc de la grange",
+    "parentalité": "育儿",
+    "parents": "家长",
+    "parents-enfants": "亲子",
+    "partage": "分享",
+    "permaculture": "朴门永续",
+    "permanence": "常设服务",
+    "permis": "许可证",
+    "personnes âgées": "老年人",
+    "petite enfance": "幼儿",
+    "petits boulots": "零工",
+    "petits-déjeuners": "早餐",
+    "pharmacie": "药房",
+    "piscine": "泳池",
+    "place de neuve": "place de neuve",
+    "plage": "沙滩",
+    "plaine": "广场",
+    "plainpalais": "plainpalais",
+    "planning familial": "计划生育",
+    "plein air": "户外",
+    "ponctuel": "临时",
+    "potager": "菜园",
+    "prestations": "福利",
+    "prix réduits": "优惠价",
+    "pro juventute": "pro juventute",
+    "proches aidants": "家庭照护者",
+    "protection": "保护",
+    "précarité": "困境",
+    "prévention": "预防",
+    "prêt": "借阅",
+    "psychiatrie": "精神科",
+    "psycho-oncologie": "肿瘤心理",
+    "psychologie": "心理学",
+    "psychologique": "心理",
+    "psychologue": "心理咨询师",
+    "psychopédagogique": "心理教育",
+    "public": "公共",
+    "pâquis": "pâquis",
+    "quai": "湖滨",
+    "quartier": "社区",
+    "reconversion": "转型",
+    "recours": "上诉",
+    "redistribution": "分发",
+    "refuge": "庇护所",
+    "repair café": "修理咖啡馆",
+    "repas": "餐食",
+    "repos": "休息",
+    "ressources": "资源",
+    "restaurant": "餐厅",
+    "récupération": "回收",
+    "réduction": "减免",
+    "réduction des risques": "风险减低",
+    "réfugiés": "难民",
+    "réinsertion": "重新融入",
+    "réorientation": "重新定位",
+    "réparation": "修理",
+    "répit": "喘息",
+    "réseau": "网络",
+    "résolution": "解决",
+    "réunions": "会议",
+    "sages-femmes": "助产士",
+    "saint-jean": "saint-jean",
+    "sans assurance": "无保险",
+    "sans rendez-vous": "免预约",
+    "sans-abri": "无家可归",
+    "sans-papiers": "无证件",
+    "santé": "健康",
+    "santé mentale": "心理健康",
+    "santé sexuelle": "性健康",
+    "sauna": "桑拿",
+    "sciences": "科学",
+    "seconde main": "二手",
+    "seniors": "老年人",
+    "servette": "servette",
+    "social": "社会",
+    "socioculturel": "社会文化",
+    "soins": "护理",
+    "soins à domicile": "居家护理",
+    "solidaire": "互助",
+    "soupe": "汤",
+    "soupe populaire": "公益食堂",
+    "soutien": "支持",
+    "soutien scolaire": "课业辅导",
+    "sport": "运动",
+    "stages": "实习",
+    "substitution": "替代治疗",
+    "suicide": "自杀",
+    "syndicat": "工会",
+    "sécheron": "sécheron",
+    "tabac": "烟草",
+    "tarif réduit": "优惠价",
+    "tarif social": "社会票价",
+    "toilettes": "洗手间",
+    "toxicodépendance": "药物依赖",
+    "traite": "人口贩运",
+    "traitement": "治疗",
+    "trans": "跨性别",
+    "transport": "交通",
+    "travail": "工作",
+    "travail du sexe": "性工作",
+    "travailleurs pauvres": "贫困劳动者",
+    "tutelle": "托管",
+    "téléphone": "电话",
+    "université": "大学",
+    "urbain": "城市",
+    "urgence": "紧急",
+    "verre": "玻璃",
+    "vestiaire": "服装间",
+    "victimes": "受害者",
+    "vie associative": "社团生活",
+    "vieille ville": "老城",
+    "ville": "城市",
+    "violence": "暴力",
+    "violence conjugale": "家庭暴力",
+    "violences": "暴力",
+    "violences sexuelles": "性暴力",
+    "vélos": "自行车",
+    "vêtements": "服装",
+    "wifi": "WiFi",
+    "écologie": "生态",
+    "écologique": "环保",
+    "écoute": "倾听",
+    "éducation": "教育",
+    "épicerie": "超市",
+    "étrangers": "外国人",
+    "étude": "学习",
+    "étudier": "学习"
+  }
+}

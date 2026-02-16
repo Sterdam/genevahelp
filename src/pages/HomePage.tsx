@@ -1,4 +1,5 @@
-import { useState, useCallback } from 'react'
+import { useState, useCallback, useMemo } from 'react'
+import { Eye } from 'lucide-react'
 import { MapView } from '../components/map/MapView'
 import { ResourceList } from '../components/resources/ResourceList'
 import { ResourceDetail } from '../components/resources/ResourceDetail'
@@ -7,6 +8,9 @@ import { CategoryFilter } from '../components/filters/CategoryFilter'
 import { useResources } from '../hooks/useResources'
 import { useGeolocation } from '../hooks/useGeolocation'
 import { useSearch } from '../hooks/useSearch'
+import { useVisitCounter } from '../hooks/useVisitCounter'
+import { useTranslatedResources, useTranslatedResource } from '../hooks/useTranslatedResource'
+import { useTranslation } from 'react-i18next'
 import type { Resource, ResourceCategory } from '../lib/types'
 
 interface HomePageProps {
@@ -14,18 +18,23 @@ interface HomePageProps {
 }
 
 export function HomePage({ mobileView }: HomePageProps) {
+  const { t } = useTranslation()
   const [categories, setCategories] = useState<ResourceCategory[]>([])
   const [selectedResource, setSelectedResource] = useState<Resource | null>(null)
   const [selectedId, setSelectedId] = useState<string | null>(null)
   const { query, setSearchQuery } = useSearch()
   const { latitude, longitude } = useGeolocation()
+  const visitCount = useVisitCounter()
 
-  const { resources, loading } = useResources({
+  const { resources, allResources, loading } = useResources({
     categories,
     search: query,
     userLat: latitude,
     userLng: longitude,
   })
+
+  const translatedResources = useTranslatedResources(resources)
+  const translatedSelected = useTranslatedResource(selectedResource)
 
   const handleSelectResource = useCallback((resource: Resource) => {
     setSelectedId(resource.id)
@@ -37,19 +46,34 @@ export function HomePage({ mobileView }: HomePageProps) {
     setSelectedId(null)
   }, [])
 
+  const categoryCounts = useMemo(() => {
+    const counts: Partial<Record<ResourceCategory, number>> = {}
+    for (const r of allResources) {
+      counts[r.category] = (counts[r.category] || 0) + 1
+    }
+    return counts as Record<ResourceCategory, number>
+  }, [allResources])
+
   return (
     <div className="flex flex-col flex-1 overflow-hidden">
       {/* Search & Filters */}
       <div className="px-4 py-3 bg-white border-b border-gray-100 space-y-2.5 z-20 relative">
         <SearchBar onSearch={setSearchQuery} />
         <div className="flex items-center gap-2">
-          <CategoryFilter selected={categories} onChange={setCategories} />
+          <CategoryFilter selected={categories} onChange={setCategories} counts={categoryCounts} />
         </div>
         {/* Results count */}
         {!loading && (
-          <p className="text-xs text-gray-400">
-            {resources.length} {resources.length > 1 ? 'ressources' : 'ressource'}
-            {categories.length > 0 && ` (${categories.length} filtre${categories.length > 1 ? 's' : ''})`}
+          <p className="text-xs text-gray-400 flex items-center gap-2">
+            <span>
+              {t('search.resultsCount', { count: resources.length })}
+              {categories.length > 0 && ` (${t('filters.activeCount', { count: categories.length })})`}
+            </span>
+            {visitCount != null && (
+              <span className="inline-flex items-center gap-1 text-gray-300">
+                · <Eye size={10} /> {visitCount.toLocaleString()}
+              </span>
+            )}
           </p>
         )}
       </div>
@@ -58,7 +82,7 @@ export function HomePage({ mobileView }: HomePageProps) {
       <div className="flex-1 hidden sm:flex overflow-hidden">
         <div className="w-[380px] border-r border-gray-200 overflow-y-auto bg-gray-50 shrink-0">
           <ResourceList
-            resources={resources}
+            resources={translatedResources}
             selectedId={selectedId}
             onSelectResource={handleSelectResource}
             loading={loading}
@@ -66,7 +90,7 @@ export function HomePage({ mobileView }: HomePageProps) {
         </div>
         <div className="flex-1 relative">
           <MapView
-            resources={resources}
+            resources={translatedResources}
             selectedId={selectedId}
             onSelectResource={handleSelectResource}
             userLat={latitude}
@@ -79,7 +103,7 @@ export function HomePage({ mobileView }: HomePageProps) {
       <div className="flex-1 sm:hidden overflow-hidden relative">
         {mobileView === 'map' ? (
           <MapView
-            resources={resources}
+            resources={translatedResources}
             selectedId={selectedId}
             onSelectResource={handleSelectResource}
             userLat={latitude}
@@ -88,7 +112,7 @@ export function HomePage({ mobileView }: HomePageProps) {
         ) : (
           <div className="h-full overflow-y-auto bg-gray-50 pb-16">
             <ResourceList
-              resources={resources}
+              resources={translatedResources}
               selectedId={selectedId}
               onSelectResource={handleSelectResource}
               loading={loading}
@@ -98,7 +122,7 @@ export function HomePage({ mobileView }: HomePageProps) {
       </div>
 
       {/* Resource Detail */}
-      <ResourceDetail resource={selectedResource} onClose={handleCloseDetail} />
+      <ResourceDetail resource={translatedSelected} onClose={handleCloseDetail} />
     </div>
   )
 }

@@ -1,12 +1,29 @@
+import { useState, useRef, useEffect } from 'react'
 import { useTranslation } from 'react-i18next'
-import { MapPin, Plus, Info } from 'lucide-react'
+import { MapPin, Plus, Info, ChevronDown } from 'lucide-react'
 import { Link } from 'react-router-dom'
+import { languages } from '../../lib/i18n'
 
 export function Header() {
   const { t, i18n } = useTranslation()
+  const [langOpen, setLangOpen] = useState(false)
+  const langRef = useRef<HTMLDivElement>(null)
 
-  const toggleLanguage = () => {
-    i18n.changeLanguage(i18n.language === 'fr' ? 'en' : 'fr')
+  const currentLang = languages.find((l) => l.code === i18n.language) || languages[0]
+
+  useEffect(() => {
+    const handleClickOutside = (e: MouseEvent) => {
+      if (langRef.current && !langRef.current.contains(e.target as Node)) {
+        setLangOpen(false)
+      }
+    }
+    document.addEventListener('mousedown', handleClickOutside)
+    return () => document.removeEventListener('mousedown', handleClickOutside)
+  }, [])
+
+  const changeLanguage = (code: string) => {
+    i18n.changeLanguage(code)
+    setLangOpen(false)
   }
 
   return (
@@ -26,13 +43,37 @@ export function Header() {
       </Link>
 
       <div className="flex items-center gap-2">
-        <button
-          onClick={toggleLanguage}
-          className="px-2.5 py-1.5 text-sm font-medium text-gray-600 bg-gray-100 rounded-lg hover:bg-gray-200 transition-colors"
-          aria-label="Toggle language"
-        >
-          {i18n.language === 'fr' ? 'EN' : 'FR'}
-        </button>
+        <div ref={langRef} className="relative">
+          <button
+            onClick={() => setLangOpen(!langOpen)}
+            className="flex items-center gap-1 px-2.5 py-1.5 text-sm font-medium text-gray-600 bg-gray-100 rounded-lg hover:bg-gray-200 transition-colors"
+            aria-label="Change language"
+            aria-expanded={langOpen}
+          >
+            <span>{currentLang.flag}</span>
+            <span className="hidden sm:inline">{currentLang.name}</span>
+            <ChevronDown size={14} className={`transition-transform ${langOpen ? 'rotate-180' : ''}`} />
+          </button>
+
+          {langOpen && (
+            <div className="absolute right-0 top-full mt-1 w-48 max-h-80 overflow-y-auto bg-white rounded-xl shadow-lg border border-gray-200 py-1 z-50">
+              {languages.map((lang) => (
+                <button
+                  key={lang.code}
+                  onClick={() => changeLanguage(lang.code)}
+                  className={`w-full text-left px-3 py-2 text-sm flex items-center gap-2 hover:bg-gray-50 transition-colors ${
+                    lang.code === i18n.language
+                      ? 'bg-blue-50 text-blue-700 font-medium'
+                      : 'text-gray-700'
+                  }`}
+                >
+                  <span>{lang.flag}</span>
+                  <span>{lang.name}</span>
+                </button>
+              ))}
+            </div>
+          )}
+        </div>
 
         <Link
           to="/suggest"

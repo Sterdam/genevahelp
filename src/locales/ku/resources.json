@@ -1,0 +1,1214 @@
+{
+  "r_0001": {
+    "description": "Belavkirina xwarinê ya belaş ji bo kesên di rewşa tengasiyê de. Xwarinên germ di nîvro û êvarê de têne pêşkêşkirin. Pêşwaziya bê mercî.",
+    "target_audience": "Her kesê ku di rewşa tengasiyê de ye",
+    "access_conditions": "Bê merc, ji bo hemûyan vekirî ye"
+  },
+  "r_0002": {
+    "description": "Şêwirmendiya hiqûqî ya belaş ku ji hêla Baroya Parêzerên Genève ve tê pêşkêşkirin. Şêwirmendiya hiqûqî ya yekem bê randevû ji bo her pirsek hiqûqî.",
+    "target_audience": "Her kesê ku hewcedariya wî/wê bi şêwirmendiya hiqûqî heye",
+    "access_conditions": "Bê randevû, yê yekem tê yê yekem tê xizmeta wî/wê"
+  },
+  "r_0003": {
+    "description": "Sarincoka xwe-xizmetî ku her kes dikare xwarinê tê de bide an jî belaş xwarinê jê bigire. Têkoşîna li dijî windakirina xwarinê.",
+    "target_audience": "Hemû gel",
+    "access_conditions": "Gihîştina azad 24 demjimêr/24"
+  },
+  "r_0004": {
+    "description": "Dikana hevgirtî û belavkirina cilan. Alîkariya civakî ji bo kesên di tengasiya darayî de. Alîkariya xwarinê û cilan.",
+    "target_audience": "Kesên bi dahatên kêm",
+    "access_conditions": "Bi pêşkêşkirina belgeyeke dahata kêm"
+  },
+  "r_0005": {
+    "description": "Şêwirmendiya hiqûqî û civakî ya belaş. Alîkariya îdarî, şêwirmendî di warê mafên biyaniyan, mafên kar û bîmeyên civakî de.",
+    "target_audience": "Her kesê ku di tengasiya hiqûqî an îdarî de ye",
+    "access_conditions": "Bi randevû, şêwirmendiya yekem belaş e"
+  },
+  "r_0006": {
+    "description": "Xizmetên tenduristiyê, alîkariya civakî û piştgirî ji bo kesên lawaz. Bernameyên piştgiriyê ji bo koçber û penaberan.",
+    "target_audience": "Kesên lawaz, koçber, penaber",
+    "access_conditions": "Li gor bernameyan, hin bi randevû ne"
+  },
+  "r_0007": {
+    "description": "Belavkirina pakêtên xwarinê yên heftane ji bo malbat û kesên di rewşa tengasiyê de. Berhemên teze û bingehîn.",
+    "target_audience": "Malbat û kesên bi dahatên kêm",
+    "access_conditions": "Bi qeydkirinê, bi belgeya rewşa darayî"
+  },
+  "r_0008": {
+    "description": "Saziya kantonî ya alîkariya civakî. Dravdanên darayî, alîkariya civakî, alîkariya xanî û veguheztina pîşeyî.",
+    "target_audience": "Niştecihên Genève yên di tengasiya darayî de",
+    "access_conditions": "Bi randevû, niştecihên kantona Genève"
+  },
+  "r_0009": {
+    "description": "Gihîştina belaş a serşokan, makîneyên cilşûştinê û ziwakirinê. Qada paqijiyê ji bo kesên bê mal an di rewşa tengasiyê de.",
+    "target_audience": "Kesên bê mal, kesên di rewşa tengasiyê de",
+    "access_conditions": "Bê merc, gihîştina azad"
+  },
+  "r_0010": {
+    "description": "Muayeneyên bijîşkî yên belaş ji bo kesên bê bîmeya nexweşiyê. Lênihêrîna yekem, rêbername û alîkariya tenduristiyê.",
+    "target_audience": "Kesên bê bîmeya nexweşiyê, kesên bê belge",
+    "access_conditions": "Bê bîmeya nexweşiyê, bê randevû"
+  },
+  "r_0011": {
+    "description": "Dersên Fransizî yên belaş ji bo jinên koçber. Zarokxane ji bo zarokan di dema dersan de. Atolyeyên entegrasyonê û civakîbûnê.",
+    "target_audience": "Jinên koçber û zarokên wan",
+    "access_conditions": "Jinên koçber, qeydkirin di destpêka nîvsalê de"
+  },
+  "r_0012": {
+    "description": "Dersên êvarê yên belaş an bi bihayê kêm: Fransizî, informatîk, hesab, ziman. Perwerdehiya domdar ji bo mezinan.",
+    "target_audience": "Mezinên ku dixwazin perwerdehî bibînin",
+    "access_conditions": "Qeydkirin di destpêka nîvsalê de, bihayên kêm li gor dahatê"
+  },
+  "r_0013": {
+    "description": "Bicihkirina acîl ji bo şevê. Pêşwaziya bê mercî ya kesên bê mal. Şîva êvarê û taştê tê de ye.",
+    "target_audience": "Kesên bê mal",
+    "access_conditions": "Bê merc, pêşwaziya bê mercî bi êvarê"
+  },
+  "r_0014": {
+    "description": "Pêşwazî, guhdarîkirin û bicihkirina acîl ji bo jinên qurbaniyên tundiyê. Piştgiriya derûnî û alîkariya hiqûqî.",
+    "target_audience": "Jinên qurbaniyên tundiya nav malê",
+    "access_conditions": "Xeta têlefonê 24 demjimêr/24, bicihkirin bi nirxandinê"
+  },
+  "r_0015": {
+    "description": "Dikana hevgirtî ya cilan, mobîlya û tiştan bi bihayên pir kêm. Berhevkirin û belavkirina tiştên destê duyemîn.",
+    "target_audience": "Hemû gel, kesên bi dahatên kêm",
+    "access_conditions": "Ji bo hemûyan vekirî ye, bihayên hevgirtî"
+  },
+  "r_0016": {
+    "description": "Agahdarî û rêbername ji bo kesên biyanî. Dersên Fransizî yên piştgirîkirî, alîkariya entegrasyonê, pêşîgirtina nijadperestî û cudakariyê.",
+    "target_audience": "Kesên biyanî yên li Genève dimînin",
+    "access_conditions": "Niştecihên biyanî yên kantona Genève"
+  },
+  "r_0017": {
+    "description": "Gihîştina WiFi ya belaş li Parc des Bastions, ji hêla Bajarê Genève ve tê pêşkêşkirin. Girêdana azad û bêsînor.",
+    "target_audience": "Hemû gel",
+    "access_conditions": "Gihîştina azad"
+  },
+  "r_0018": {
+    "description": "Qada civakî ku çalakiyên civakî, çandî û perwerdehiyê pêşkêş dike. Ders, atolye û bûyerên belaş an bi bihayê kêm.",
+    "target_audience": "Niştecihên taxa Plainpalais",
+    "access_conditions": "Ji bo hemû niştecihên taxê vekirî ye"
+  },
+  "r_0019": {
+    "description": "Berhevkirina xwarinên nefirotî ji dikanan û belavkirina belaş ji kesên hewcedar re. Têkoşîna li dijî windakirina xwarinê.",
+    "target_audience": "Kesên di rewşa tengasiya xwarinê de",
+    "access_conditions": "Bi qeydkirinê, belgeya rewşa darayî"
+  },
+  "r_0020": {
+    "description": "Alîkariya darayî ya acîl, alîkariya civakî, rêbername ber bi xizmetên guncan. Piştgirî ji niştecihên Bajarê Genève re.",
+    "target_audience": "Niştecihên Bajarê Genève yên di tengasiyê de",
+    "access_conditions": "Niştecihên Bajarê Genève"
+  },
+  "r_0021": {
+    "description": "Muayeneyên bijîşkî yên yekem ji bo daxwazkarên penabendê û kesên koçber. Hevkarê tora tenduristiya penabendê, bi nêzîkatiya navçandî û psîkocivakî. Muayene bi wergêran peyda dibin.",
+    "target_audience": "Daxwazkarên penabendê, penaber, kesên koçber",
+    "access_conditions": "Bi randevû, wergirtina randevûyê ji duşemê heta înê 9:00-11:30 û 13:30-17:00"
+  },
+  "r_0022": {
+    "description": "Bernameya veguheztina pîşeyî ji bo kesên li lêgerîna karê de ne. Atolye, perwerdehiyên pratîk û alîkariya kesane.",
+    "target_audience": "Lêgerên kar ên ku di veguheztinê de tengasî dikişînin",
+    "access_conditions": "Qeydkirin bi rêya Ofîsa Kantonî ya Karê an Hospice général"
+  },
+  "r_0023": {
+    "description": "Alîkariya perwerdehî û civakî ji bo zarok û ciwanan. Mal, atolyeyên perwerdehiyê, alîkariya dibistanê û çalakiyên serbest.",
+    "target_audience": "Zarok û ciwan ji 4 heta 18 salî",
+    "access_conditions": "Rêbername ji hêla Xizmeta Parastina Biçûkan ve"
+  },
+  "r_0024": {
+    "description": "Yekîneya acîl a psîkocivakî ya girêdayî imad. Di rewşên tengasiyê, tundiya nav malê, biçûkên di krîzê de û tengasiya psîkocivakî de mudaxale dike. Tîma ji hemşîre û karkerên civakî pêk tê.",
+    "target_audience": "Kesên bê mal",
+    "access_conditions": "Bê merc, tîma gergera di kolanan de"
+  },
+  "r_0025": {
+    "description": "Alîkariya kesên ku ji alîkariyê dikişînin. Muayene, bernameya veguherînê, veqetandin û ji nû ve veguheztina civakî. Navenda dermankirina sererastkirî.",
+    "target_audience": "Kesên ku ji alîkariyê dikişînin",
+    "access_conditions": "Bê randevû ji bo pêşwaziyê, bi randevû ji bo muayeneyan"
+  },
+  "r_0026": {
+    "description": "Xizmetên ji bo kesên pîr: alîkariya li malê, çalakiyên civakî, şêwirmendiya hiqûqî û darayî, ders û atolye.",
+    "target_audience": "Kesên 60 salî û mezintir",
+    "access_conditions": "Kesên 60 salî û mezintir"
+  },
+  "r_0027": {
+    "description": "Gihîştina WiFi ya belaş li Bains des Pâquis. Qada girêdanê bi gihîştina azad li ser cihê.",
+    "target_audience": "Hemû gel",
+    "access_conditions": "Gihîştina azad"
+  },
+  "r_0028": {
+    "description": "Xizmeta bijîşkên li malê 24 demjimêr/24 peyda dibe. Muayeneyên bijîşkî yên acîl li malê an li kabîneyê, 7 roj di hefteyê de.",
+    "target_audience": "Her kesê ku hewcedariya muayeneya bijîşkî ya acîl heye",
+    "access_conditions": "Bi têlefonê, mesrefên bijîşkî li ser nexweş in"
+  },
+  "r_0029": {
+    "description": "Pêşwaziya rojane ji bo kesên di rewşa tengasiyê de. Qada germ, qehwe, serşok, cilşûştin, gihîştina înternetê û çalakî.",
+    "target_audience": "Kesên di rewşa tengasiyê de",
+    "access_conditions": "Bê merc, pêşwaziya azad"
+  },
+  "r_0030": {
+    "description": "Muayeneyên derûnî yên belaş an bi bihayên kêm ji bo kesên koçber. Piştgiriya derûnî bi çend zimanan.",
+    "target_audience": "Kesên koçber ên di tengasiya derûnî de",
+    "access_conditions": "Bi randevû, bihayên li gor dahatê"
+  },
+  "r_0031": {
+    "description": "Pirtûkxaneya şaredariyê bi gihîştina belaş. Deynkirina pirtûk, DVD, CD. Qada xebatê, WiFi ya belaş, rojname û kovar. Atolyeyên çandî.",
+    "target_audience": "Hemû gel",
+    "access_conditions": "Gihîştina azad, karta belaş ji bo deynkirinê"
+  },
+  "r_0032": {
+    "description": "Xizmeta giştî ya alîkariyê ji bo lêgerîna kar. Qeydkirina bêkariyê, pêşniyarên kar, şêwirmendiya rêbernameya pîşeyî, tedbîrên veguheztinê.",
+    "target_audience": "Lêgerên kar ên li Genève dimînin",
+    "access_conditions": "Niştecihên kantona Genève, qeydkirin pêdivî ye"
+  },
+  "r_0033": {
+    "description": "Demên hiqûqî û civakî yên belaş ji bo kesên koçber. Alîkariya îdarî, mafên biyaniyan, yekbûna malbatê.",
+    "target_audience": "Kesên koçber, bêbelge",
+    "access_conditions": "Bi randevû an dema bê randevû"
+  },
+  "r_0034": {
+    "description": "Qada pêşwaziya kêm-astengî ji bo kesên bikaranînerên narkotîkan. Amûrên steril, muayene, qada bêhnvedanê û alîkarî.",
+    "target_audience": "Kesên bikaranînerên narkotîkan",
+    "access_conditions": "Bê merc, pêşwaziya nenas"
+  },
+  "r_0035": {
+    "description": "Navenda civakî ya taxa Pâquis. Çalakiyên çandî, dersên zimanan, atolyeyên afirîner, qada zarokan û alîkariya dersê.",
+    "target_audience": "Niştecihên taxa Pâquis",
+    "access_conditions": "Ji bo hemûyan vekirî ye"
+  },
+  "r_0036": {
+    "description": "Belavkirina belaş a cilan ji bo kesên di rewşa tengasiyê de. Cilên ji bo mêr, jin û zarokan, li gor demsalan.",
+    "target_audience": "Kesên di rewşa tengasiyê de",
+    "access_conditions": "Bi pêşkêşkirina belgeyek ji xizmeta civakî"
+  },
+  "r_0037": {
+    "description": "Dersên Fransizî wekî zimanê biyanî ji bo koçberên mezin. Ji asta destpêkê heta pêşketî. Ders di rojê û êvarê de.",
+    "target_audience": "Koçberên mezin ên ku dixwazin Fransizî fêr bibin",
+    "access_conditions": "Qeydkirin û testa astê, bihayên kêm gengaz in"
+  },
+  "r_0038": {
+    "description": "Belavkirina xwarinên germ (şorbe û nan) ji bo kesên di rewşa tengasiyê de. Xizmeta belaş û bê merc.",
+    "target_audience": "Hemû gel",
+    "access_conditions": "Bê merc, yê yekem tê yê yekem tê xizmeta wî/wê"
+  },
+  "r_0039": {
+    "description": "Navenda agahdarî û şêwirmendiyê ji bo jinan. Şêwirmendiya hiqûqî, civakî û pîşeyî. Piştgirî di rewşa tundiyê de.",
+    "target_audience": "Jinên ji her temen û rewşê",
+    "access_conditions": "Ji bo hemû jinan vekirî ye, hin muayene bi randevû ne"
+  },
+  "r_0040": {
+    "description": "Şaxê Hospice général li Plainpalais. Alîkariya darayî, alîkariya civakî, alîkariya xanî û veguheztina pîşeyî.",
+    "target_audience": "Niştecihên taxa Plainpalais ên di tengasiyê de",
+    "access_conditions": "Bi randevû, niştecihên kantona Genève"
+  },
+  "r_0041": {
+    "description": "Komeleya pîrikên serbixwe yên ku tenduristiya derdora zayînê pêş dixin. Dema têlefonî 7 roj/7, qadên pêşwaziya belaş bi pîrikan re, şêwirmendiya ducaniyê, şîrdayinê, şopandina piştî zayînê.",
+    "target_audience": "Jinên ducanî û dêûbavên ciwan",
+    "access_conditions": "Bê randevû ji bo deman, belaş. Dema têlefonî duşemê-înê 8:00-20:00, şemî-yekşemê 9:00-12:00 û 17:00-20:00"
+  },
+  "r_0042": {
+    "description": "Qada pêşwaziya rojane ji bo kesên di rewşa tengasiyê de. Taştê, qehwe, qada bêhnvedanê, çalakî û rêberiya civakî.",
+    "target_audience": "Kesên bê mal",
+    "access_conditions": "Bê merc, pêşwaziya bê mercî"
+  },
+  "r_0043": {
+    "description": "Parastina hiqûqî ya mezinên lawaz û biçûkan. Serwêrîtî, qeyyûmtî û tedbîrên parastinê.",
+    "target_audience": "Mezinên lawaz û biçûkên ku hewcedariya parastina hiqûqî heye",
+    "access_conditions": "Bi îxbarnameyek an daxwaza rasterast"
+  },
+  "r_0044": {
+    "description": "Xala gihîştina WiFi ya belaş li Place du Molard, di dilê bajarê kevn ê Genève de. Tora Bajarê Genève.",
+    "target_audience": "Hemû gel",
+    "access_conditions": "Gihîştina azad"
+  },
+  "r_0045": {
+    "description": "Bicihkirin ji bo jinên bi zarokan ên di tengasiyê de, bi piranî qurbaniyên tundiya hevjînê. Piştgiriya psîkocivakî, alîkariya entegrasyona civakî û pîşeyî, xurtkirina girêdanên dayik/zarok. Zarokxaneyek heye.",
+    "target_audience": "Jinên tenê an bi zarokan ên di rewşa tengasiyê de",
+    "access_conditions": "Bi rêberiya xizmeta civakî, nirxandina rewşê"
+  },
+  "r_0046": {
+    "description": "Qada pêşwaziya belaş, nenas û bê qeydkirinê ji bo zarokên heta 5 salî yên bi mezinahiyekê re. Cihê guhdarîkirin û piştgiriya ji bo zarok û dêûbavan.",
+    "target_audience": "Zarokên ji 0 heta 5 salî û dêûbav an pêşwazîkerên wan",
+    "access_conditions": "Belaş, nenas, bê qeydkirin, zarokên bi mezinahiyekê re"
+  },
+  "r_0047": {
+    "description": "Şêwirmendiya hiqûqî ji bo kirêgiran. Alîkarî di rewşa nakokiyê bi xwediyê xanî re, zêdebûna kirê, betalkirina peymana kirê.",
+    "target_audience": "Kirêgirên kantona Genève",
+    "access_conditions": "Endambûna komelê (dravdana hindik)"
+  },
+  "r_0048": {
+    "description": "Berhevkirin û belavkirina xwarinê ji bo komelên xêrxwaz ên Genève. Têkoşîna li dijî tengasiya xwarinê û windakirinê.",
+    "target_audience": "Komelên xêrxwaz û kesên di tengasiya xwarinê de",
+    "access_conditions": "Bi rêya komelên hevkar peyda dibe"
+  },
+  "r_0049": {
+    "description": "Klînîka diranan ya zanîngehê ku lênihêrîna diranan pêşkêş dike. Pêşwazî bê randevû ji duşemê heta înê ji 8:00 heta 15:30. Rewşên acîl û lênihêrîna asayî ya diranan.",
+    "target_audience": "Hemû gel, kesên bê bîmeya diranan an bi dahatên kêm",
+    "access_conditions": "Pêşwazî bê randevû ji duşemê heta înê ji 8:00 heta 15:30"
+  },
+  "r_0050": {
+    "description": "Cihê pêşwazî, piştgirî û veguheztina pîşeyî-civakî ji bo kesên di rewşa tengasiyê de. Taştêyên belaş (150-200/hefteyê), çalakiyên civakî û stajên veguheztinê.",
+    "target_audience": "Kesên di rewşa tengasiyê de",
+    "access_conditions": "Bê merc, pêşwaziya azad"
+  },
+  "r_0051": {
+    "description": "Cihê pêşwazî, dîlanan, hevdîtinan û bêhnvedanê ji bo her temenî, her çand û her çîna civakî. Çalakiyên çandî û civakî.",
+    "target_audience": "Niştecihên taxa Eaux-Vives û hemû gel",
+    "access_conditions": "Ji bo hemûyan vekirî ye, pêşwaziya azad"
+  },
+  "r_0052": {
+    "description": "Qada pêşwazî û rêbernameya ji bo jin û malbatan. Şêwirmendiya hiqûqî (mafên malbatê, hevberdanê, tundiya hevjînê, destûra rûniştinê), rêberiya pîşeyî û piştgiriya psîkocivakî.",
+    "target_audience": "Jin û malbat",
+    "access_conditions": "Dema hiqûqî ya têlefonî: sêşemê 11:00-13:00, çarşemê 14:00-16:00, pêncşemê 12:00-14:00 li 022 740 31 11. Muayene bi randevû."
+  },
+  "r_0053": {
+    "description": "Komeleya pêşîgirtina xwekuştinê di nav ciwanan de li Swîsra Romand. Hişyarkirin, atolye, modulên pêşîgirtinê û rêbername ber bi saziyên alîkariyê. Di rewşa acîl de, bi 143 re têkilî bikin.",
+    "target_audience": "Ciwan ji 15 heta 29 salî, pêşîgirtina xwekuştinê",
+    "access_conditions": "Ofîs di hefteyê de vekirî ye. Di rewşa acîl de, bi 143 re têkilî bikin (24 demjimêr/24)"
+  },
+  "r_0054": {
+    "description": "Beşa tenduristiya derûnî û psîkiyatriyê ya HUG. Muayeneyên psîkiyatrî û derûnî, lênihêrîna nexweşiyên xemgîniyê, depresyonê, trawma.",
+    "target_audience": "Kesên ku ji nexweşiyên derûnî dikişînin",
+    "access_conditions": "Bi randevû, bi rêçeteya bijîşkî"
+  },
+  "r_0055": {
+    "description": "Dravdanên darayî yên temamker ji bo wergirên AVS/AI. Alîkarî di dayina prîmên bîmeya nexweşiyê û kirê de.",
+    "target_audience": "Wergirên AVS/AI yên bi dahatên kêm",
+    "access_conditions": "Wergirên AVS/AI, niştecihên kantona Genève"
+  },
+  "r_0056": {
+    "description": "Alîkariya materyal û dayina fatûreyên acîl ji bo kesên ku dahata wan li ser an piçekî jor ji asta herî kêm e.",
+    "target_audience": "Kesên di tengasiya darayî ya demkî de",
+    "access_conditions": "Daxwaznameyan bi e-nameyê bişînin geneve@secours-d-hiver.ch. Têlefonê tenê roja înê."
+  },
+  "r_0057": {
+    "description": "Komeleya Genève ya ku ber bi zarok û ciwanan ve çêdibe. Navenda psîkopedagojîk (13-18 salî), Café Ados, piştgiriya biçûkên bê hevaltî, çalakiyên pêşîgirtinê.",
+    "target_audience": "Zarok û ciwan ji 12 heta 18 salî",
+    "access_conditions": "Bi qeydkirin an rêbernameya"
+  },
+  "r_0058": {
+    "description": "Bernameyên veguheztina pîşeyî ji bo kesên dûr ji bazara karê. Nirxandina jêhatîyan, rahêneriya karê, staj.",
+    "target_audience": "Kesên dûr ji bazara karê",
+    "access_conditions": "Qeydkirin bi rêya Hospice général an OCE"
+  },
+  "r_0059": {
+    "description": "Alîkariya penaber û koçberan. Dersên Fransizî, alîkariya entegrasyonê, şêwirmendiya hiqûqî ya penabendê û alîkariya civakî.",
+    "target_audience": "Penaber û kesên koçber",
+    "access_conditions": "Penaber û koçber, qeydkirin pêdivî ye"
+  },
+  "r_0060": {
+    "description": "Navenda civakî ya Jonction. Çalakiyên civakî, hemwelatiyê û çandî ji bo her temenî. Pêşwaziya azad, atolyeyên vekirî ji bo niştecihên ji 9 heta 99 salî.",
+    "target_audience": "Niştecihên taxa Jonction",
+    "access_conditions": "Ji bo hemûyan vekirî ye"
+  },
+  "r_0061": {
+    "description": "Qada paqijiyê (tûalet/serşok) li qata yekem a baskê Rojhilatê yê stasyona Cornavin. Ji hêla CFF ve tê birêvebirin. Bi dravdanê (2 CHF), belaş ji bo xwediyên abonmana giştî ya SwissPass. Tûaletên erzantir (1 CHF) li binzemînê ya meydana stasyonê hene.",
+    "target_audience": "Hemû gel",
+    "access_conditions": "Bi dravdanê (2 CHF), belaş bi abonmana giştî ya SwissPass"
+  },
+  "r_0062": {
+    "description": "Tûaletên giştî yên belaş li Parc des Bastions, li nêzîkî Dîwarê Reformatoran. Ji bo kesên bi tevgera sînorkirî gihîştbar in.",
+    "target_audience": "Hemû gel",
+    "access_conditions": "Gihîştina azad û belaş"
+  },
+  "r_0063": {
+    "description": "Tûaletên giştî yên belaş li Plaine de Plainpalais, li nêzîkî bazara tiştên kevin. Bi awayekî birêkûpêk ji hêla xizmetên Bajarê ve têne paqijkirin.",
+    "target_audience": "Hemû gel",
+    "access_conditions": "Gihîştina azad û belaş"
+  },
+  "r_0064": {
+    "description": "Kaniya ava vexwarinê ya giştî û belaş li Jardin Anglais, li nêzîkî Saeta Kulîlkan. Ava sar di tevahiya salê de.",
+    "target_audience": "Hemû gel",
+    "access_conditions": "Gihîştina azad 24 demjimêr/24"
+  },
+  "r_0065": {
+    "description": "Kaniya giştî ya ava vexwarinê li herî kevintirîn meydana Genève. Ava belaş û vexwarinê bi berdewamî.",
+    "target_audience": "Hemû gel",
+    "access_conditions": "Gihîştina azad 24 demjimêr/24"
+  },
+  "r_0066": {
+    "description": "Kaniya ava vexwarinê ya giştî li Parc des Eaux-Vives, li ber golê. Ji bo nûjenkirinê di dema gerîdanan de.",
+    "target_audience": "Hemû gel",
+    "access_conditions": "Gihîştina azad 24 demjimêr/24"
+  },
+  "r_0067": {
+    "description": "Pirtûkxaneya şaredariyê ya belaş di dilê taxa Servette de. Qadên mezin û ciwan ên cuda, deynkirina pirtûk û medya, WiFi ya belaş û çalakiyên çandî.",
+    "target_audience": "Hemû gel",
+    "access_conditions": "Gihîştina azad, karta belaş ji bo deynkirinê"
+  },
+  "r_0068": {
+    "description": "Pirtûkxaneya şaredariyê ya belaş li taxa Eaux-Vives. Qadên mezin û ciwan, deynkirina pirtûk û medya, WiFi ya belaş.",
+    "target_audience": "Hemû gel",
+    "access_conditions": "Gihîştina azad, karta belaş ji bo deynkirinê"
+  },
+  "r_0069": {
+    "description": "Pirtûkxaneya şaredariyê ya belaş li taxa Jonction. Hilbijartina fireh a pirtûkan, qada ciwanan, anîmasyon û WiFi ya belaş.",
+    "target_audience": "Hemû gel",
+    "access_conditions": "Gihîştina azad, karta belaş ji bo deynkirinê"
+  },
+  "r_0070": {
+    "description": "Pirtûkxaneya şaredariyê ya belaş di dilê taxa kozmopolît a Pâquis de. Deynkirina pirtûkan bi gelek zimanan, WiFi ya belaş û anîmasyon.",
+    "target_audience": "Hemû gel",
+    "access_conditions": "Gihîştina azad, karta belaş ji bo deynkirinê"
+  },
+  "r_0071": {
+    "description": "Deynkirina belaş a lîstikên mêzê, lîstikên perwerdehiyê û pêlîstokan ji bo zarok û malbatan. Qada lîstikê li cihê. Ji bo hemû zarokên bi mezinekî re vekirî ye.",
+    "target_audience": "Zarok, malbat, hemû gel",
+    "access_conditions": "Qeydkirina belaş, deynkirina belaş"
+  },
+  "r_0072": {
+    "description": "Lîstikxaneya taxê bi deynkirina belaş a lîstikên mêzê, pêlîstok û lîstikên perwerdehiyê. Qada lîstikê ya heval û atolyeyên lîstikê.",
+    "target_audience": "Zarok, malbat, hemû gel",
+    "access_conditions": "Qeydkirina belaş, deynkirina belaş"
+  },
+  "r_0073": {
+    "description": "Bexçeya bajarî ya civakî li taxa Grottes. Parceyên hevpar, kompostkirina hevpar û atolyeyên bexçevaniyê yên belaş.",
+    "target_audience": "Niştecihên taxê, dilxwazên bexçevaniyê",
+    "access_conditions": "Gihîştina azad, beşdariya atolyeyan bi qeydkirinê"
+  },
+  "r_0074": {
+    "description": "Bexçeya bajarî ya beşdarî li Parc Beaulieu, ji hêla komeleya Les Artichauts ve tê birêvebirin. Atolyeyên bexçevaniyê yên belaş her şemiyê piştî nîvro, ji bo her astê vekirî ye. Hilberîna fidanên biyolojîk.",
+    "target_audience": "Niştecihên taxê, hemû gel",
+    "access_conditions": "Gihîştina azad, atolyeyên bexçevaniyê yên belaş şemiyê 14:00-17:00 (nîvê Sibatê heta dawiya Cotmehê)"
+  },
+  "r_0075": {
+    "description": "Dema sendîkayî ji bo karker û karkerinan. Şêwirmendî di warê mafên kar de, parastina mafan, alîkarî di rewşa ji karderxistinê an nakokiya li ser kar de.",
+    "target_audience": "Karker û karkerîn, hemû beş",
+    "access_conditions": "Ji bo hemû karkaran vekirî ye, endambûn ji bo xizmetên hiqûqî"
+  },
+  "r_0076": {
+    "description": "Sendîkaya navpîşeyî ya karker û karkerinan. Demên hiqûqî, parastina mafên li ser kar, danûstandinên kolektîf.",
+    "target_audience": "Karker û karkerinên hemû beşan",
+    "access_conditions": "Ji bo hemû karkaran vekirî ye, endambûn ji bo xizmetên hiqûqî"
+  },
+  "r_0077": {
+    "description": "Navenda şêwirmendiya belaş û nepenî ji bo qurbaniyên sûcên cezayî. Piştgiriya derûnî, hiqûqî û civakî. Alîkariya darayî ya acîl.",
+    "target_audience": "Qurbaniyên sûcên cezayî û nêzîkên wan",
+    "access_conditions": "Belaş û nepenî, muayene bi randevû"
+  },
+  "r_0078": {
+    "description": "Xizmeta guhdarîkirina têlefonî 24 demjimêr/24 ji bo her kesê di tengasiyê, xemgîniyê an tenêtiyê de. Guhdarîkirina nenas, nepenî û belaş.",
+    "target_audience": "Her kesê di tengasiyê, tenêtiyê an xemgîniyê de",
+    "access_conditions": "Bi 143 re têkilî bikin, belaş, nenas û nepenî 24 demjimêr/24"
+  },
+  "r_0079": {
+    "description": "Xeta alîkariyê ji bo zarok û ciwanan, 24 demjimêr/24 peyda dibe. Guhdarîkirin, şêwirmendî û rêbername ji bo pirsgirêkên kesane, malbatê an dibistanê.",
+    "target_audience": "Zarok û ciwan heta 25 salî",
+    "access_conditions": "Bi 147 re têkilî bikin, belaş, nenas û nepenî 24 demjimêr/24"
+  },
+  "r_0080": {
+    "description": "Muayeneyên belaş û nepenî yên tenduristiya zayendî û zayînê. Parastina ducaniyê, ducanî, nexweşiyên zayendî, şêwirmendiya hevjînan û perwerdehiya zayendî. Parastina acîl a ducaniyê bê randevû.",
+    "target_audience": "Her kes, bi taybetî ciwan û jin",
+    "access_conditions": "Belaş, nepenî, bi randevû (bê randevû ji bo parastina acîl a ducaniyê)"
+  },
+  "r_0081": {
+    "description": "Testkirina HIV û nexweşiyên zayendî yên nenas û nepenî li Nexweşxaneyên Zanîngehê yên Genève. Testa bilez a HIV (55 CHF), testkirina temam a HIV/IST (155 CHF). Muayene û dermankirina ji bo kesên bi HIV re.",
+    "target_audience": "Her kesê ku dixwaze testkirina HIV/IST bike",
+    "access_conditions": "Testkirina nenas bi randevû (bi rêya www.testvih.ch an bi têlefonê), testa bilez a HIV ji 55 CHF"
+  },
+  "r_0082": {
+    "description": "Dermanxaneya yekgirtî di navenda tenduristiya Cité Générations de (Klînîk û Dema Onex). Şêwirmendiya dermanxaneyê, şopandina dermankirinê û nêzîkbûna bi lênihêrîna acîl a mezin û zarokan re.",
+    "target_audience": "Hemû gel, nexweşên navenda tenduristiya Cité Générations",
+    "access_conditions": "Ji bo hemûyan vekirî ye, bê merc"
+  },
+  "r_0083": {
+    "description": "Xizmeta navendî ya dayîna cihên bicihkirina acîl ji bo kesên bê mal. Bi navendê re têkilî bikin da ku cihek di torê de bistînin (stargehên PC Châtelaine, Richemont, xaniyên komelî). Kapasîteya tevahî 184 cih.",
+    "target_audience": "Kesên bê mal, di rewşa acîl de",
+    "access_conditions": "Bi jimareya belaş 0800 22 22 10 re têkilî bikin da ku cihek bistînin, pêşwaziya bê mercî"
+  },
+  "r_0084": {
+    "description": "Cihê pêşwaziya rojane ya bê mercî li Temple de la Servette ji bo kesên di rewşa tengasiyê de. Xwarinên hevgirtî, vexwarinên germ, nivîskarê giştî (CV, name), atolyeyên Fransizî, Îngilîzî û informatîkê, şêwirmendiya hiqûqî ya belaş.",
+    "target_audience": "Kesên di rewşa tengasiyê de, koçber, bêmal",
+    "access_conditions": "Bê merc, pêşwaziya bê mercî"
+  },
+  "r_0085": {
+    "description": "Serşoka giştî ya navdar a li ber Gola Léman. Perava qûmê, hewz, xwe avêtin (3-10m), sauna û hemam, barkahek populer. Bihayê ketinê pir erzan e (2 CHF di havînê de, 1 CHF di zivistanê de).",
+    "target_audience": "Hemû gel",
+    "access_conditions": "Gihîştina belaş ji bo qadên giştî, ketinê 2 CHF di havînê de û 1 CHF di zivistanê de"
+  },
+  "r_0086": {
+    "description": "Perava giştî ya belaş li ber golê, ji bo malbatên bi zarokan pir baş e. Qada lîstikê, hewza biçûk, qadên kesk û qadên werzîşê.",
+    "target_audience": "Malbat, zarok, hemû gel",
+    "access_conditions": "Gihîştina azad û belaş"
+  },
+  "r_0087": {
+    "description": "Qadên werzîşê yên giştî û belaş li Parc des Bastions. Setrancên mezin, maseyên ping-pongê, petanq û qada fîtnesê li der.",
+    "target_audience": "Hemû gel",
+    "access_conditions": "Gihîştina azad û belaş"
+  },
+  "r_0088": {
+    "description": "Xizmeta belaş a navbeynkariyê ji bo çareserkirina nakokiyên malbatê, civakî, cîraniyê an karê. Navbeynkariya cezayî, medenî û tenduristiyê.",
+    "target_audience": "Niştecihên Bajarê Genève",
+    "access_conditions": "Belaş, bi randevû"
+  },
+  "r_0089": {
+    "description": "Qada pêşwazî, agahdarî û çalakiyan ji bo kalûpîran. Xala agahdariya xizmetên belaş, alîkariya îdarî, ders, atolye, konferans, şêwirmendiya tenduristiyê û hevdîtinên navnifşî.",
+    "target_audience": "Kalûpîr, kesên teqawidkirî û nêzîkên wan",
+    "access_conditions": "Ji bo hemû kalûpîr û nêzîkên wan vekirî ye, gihîştina azad û belaş"
+  },
+  "r_0090": {
+    "description": "Qada xebata hevpar a belaş di Pirtûkxaneya Cité de. WiFi, pêlên elektrîkê, maseyên xebatê û atmosfera aram ji bo xebat an xwendinê.",
+    "target_audience": "Xwendekar, karkerên serbixwe, lêgerên kar, hemû gel",
+    "access_conditions": "Gihîştina azad û belaş, WiFi peyda dibe"
+  },
+  "r_0091": {
+    "description": "Atolyeyên tamîrkirinê yên belaş û gerok ên ku ji hêla FRC Genève ve têne organîzekirin. Dilxwazên pispor amûrên elektronîk, cil û bisîkletan tamîr dikin. Bûyerên demdembûn (ji bo tarîx û cihan li malpera wan binêrin).",
+    "target_audience": "Hemû gel",
+    "access_conditions": "Gihîştina azad û belaş, şemiyekê di mehê de (li malpera wan binêrin)"
+  },
+  "r_0092": {
+    "description": "Atolyeya tamîrkirinê ya belaş li Carouge. Dilxwaz alîkariya we dikin ku tiştên şikestî tamîr bikin: amûrên biçûk, dirûndarî, informatîk, bisîklet.",
+    "target_audience": "Hemû gel",
+    "access_conditions": "Gihîştina azad û belaş, şemiyekê di mehê de (li malpera wan binêrin)"
+  },
+  "r_0093": {
+    "description": "Navenda muayene û lêkolînên etnopsîkolojîk ji bo kesên koçber. Piştgiriya psîkoterapîk a li gor çanda eslê xwe hatiye adapte kirin, alîkarî ji bo trawmayên girêdayî koçberî û entegrasyonê.",
+    "target_audience": "Kesên koçber, hevjînên duçandî, malbatên di rewşa navçandî de",
+    "access_conditions": "Bi randevû, muayene ji bo kesên koçber û duçandî"
+  },
+  "r_0094": {
+    "description": "Tûaletên giştî yên belaş li Place de Neuve, li nêzîkî Grand Théâtre û Musée Rath. Ji bo kesên bi tevgera sînorkirî gihîştbar in.",
+    "target_audience": "Hemû gel",
+    "access_conditions": "Gihîştina azad û belaş"
+  },
+  "r_0095": {
+    "description": "Kaniya ava vexwarinê ya belaş li Parc de la Grange, herî mezin parka li ber golê ya Genève. Ava sar di tevahiya salê de peyda dibe.",
+    "target_audience": "Hemû gel",
+    "access_conditions": "Gihîştina azad 24 demjimêr/24"
+  },
+  "r_0096": {
+    "description": "Tûaletên giştî yên belaş li Quai du Mont-Blanc, li nêzîkî Jet d'eau. Di tevahiya salê de vekirî ne.",
+    "target_audience": "Hemû gel",
+    "access_conditions": "Gihîştina azad û belaş"
+  },
+  "r_0097": {
+    "description": "Bexçeya bajarî ya hevpar li hevgirtina Arve û Rhône. Atolyeyên permakultûrê, kompostkirina hevpar û bexçevaniya beşdarî.",
+    "target_audience": "Niştecihên taxê, hemû gel",
+    "access_conditions": "Gihîştina azad, beşdarî bi daxwazê"
+  },
+  "r_0098": {
+    "description": "Kaniya giştî ya ava vexwarinê li ber Stasyona Cornavin. Xala ava sar û belaş di navenda Genève de.",
+    "target_audience": "Hemû gel",
+    "access_conditions": "Gihîştina azad 24 demjimêr/24"
+  },
+  "r_0099": {
+    "description": "Lîstikxaneya taxê bi deynkirina belaş a lîstikên mêzê, pûzle û pêlîstokan ji bo her temenî. Piştî nîvroên lîstikê yên ji bo malbatan vekirî ne.",
+    "target_audience": "Zarok, malbat, hemû gel",
+    "access_conditions": "Lîstik li cihê belaş, abonmana salane 30 CHF ji bo deynkirinê"
+  },
+  "r_0100": {
+    "description": "Gihîştina WiFi ya belaş li Parc de la Grange ji hêla Bajarê Genève ve tê pêşkêşkirin. Girêdana azad li yek ji herî bedew parkên Genève.",
+    "target_audience": "Hemû gel",
+    "access_conditions": "Gihîştina azad"
+  },
+  "r_0101": {
+    "description": "Komeleya piştgiriya civata LGBTIQ+. Checkpoint Genève (navenda tenduristiya civakî bi testkirina HIV/IST û piştgiriya derûnî), Le Refuge (bicihkirina ciwanên LGBTIQ+), komên axaftinê û çalakiyên civakî.",
+    "target_audience": "Civata LGBT+ û her kesê ku têkildar e",
+    "access_conditions": "Ji bo hemûyan vekirî ye, testkirina belaş û nenas"
+  },
+  "r_0102": {
+    "description": "Navenda civakî ya Saint-Jean ku çalakiyên ji bo her temenî pêşkêş dike. Atolye, dersên zimanan, alîkariya dibistanê û bûyerên çandî.",
+    "target_audience": "Niştecihên taxa Saint-Jean, zarok, ciwan û mezin",
+    "access_conditions": "Ji bo hemû niştecihên taxê vekirî ye"
+  },
+  "r_0103": {
+    "description": "Piştgirî û agahdariya belaş ji bo kesên ku bi pençeşêrê ketine. Muayeneyên psîko-onkolojîk, komên axaftinê û alîkariya civakî.",
+    "target_audience": "Kesên bi nexweşiya pençeşêrê û nêzîkên wan",
+    "access_conditions": "Belaş, bi randevû"
+  },
+  "r_0104": {
+    "description": "Muayeneyên psîkiyatrîk ên krîzê û şopandina sererastkirî ya belaş ji bo mezinên di rewşa tengasiya derûnî de. Xizmeta girêdayî HUG.",
+    "target_audience": "Mezinên di rewşa krîza derûnî de",
+    "access_conditions": "Belaş, bi an bê randevû li gor acîliyê"
+  },
+  "r_0105": {
+    "description": "Piştgiriya belaş ji bo kesên bi şekir û nêzîkên wan. Şêwirmendiya xwarinê, komên pevguherînê û agahdarî li ser nexweşiyê.",
+    "target_audience": "Kesên bi nexweşiya şekir û nêzîkên wan",
+    "access_conditions": "Belaş, bi randevû an dema têlefonî"
+  },
+  "r_0106": {
+    "description": "Lênihêrîna bijîşkî ya yekem ji bo kesên bê bîmeya nexweşiyê an di rewşa tengasiyê de. Muayeneyên giştî û rêbername.",
+    "target_audience": "Kesên bê bîmeya nexweşiyê an di rewşa tengasiyê de",
+    "access_conditions": "Ji bo kesên bê bîmeya nexweşiyê gihîştbar e, bi randevû"
+  },
+  "r_0107": {
+    "description": "Saziya Genève ya parastina li malê. Lênihêrîna hemşîreyê, alîkariya li malê û piştgirî ji bo kesên pîr, nexweş an di başbûnê de.",
+    "target_audience": "Kesên pîr, nexweş an di başbûnê de ku hewcedariya lênihêrîna li malê heye",
+    "access_conditions": "Bi rêçeteya bijîşkî an daxwaza rasterast"
+  },
+  "r_0108": {
+    "description": "Piştgiriya belaş ji bo malbat û nêzîkên kesên bi nexweşiya Alzheimer. Komên axaftinê, muayene û rêbername ber bi xizmetên pispor.",
+    "target_audience": "Malbat û nêzîkên kesên bi nexweşiya Alzheimer an pîrbûnê",
+    "access_conditions": "Belaş, bi randevû"
+  },
+  "r_0109": {
+    "description": "Xizmeta kantonî ya parastina zarokan. Nirxandina rewşên xeternak, tedbîrên parastinê û alîkariya malbatên di tengasiyê de.",
+    "target_audience": "Zarok û malbatên di rewşa xeternak an tengasiyê de",
+    "access_conditions": "Xizmeta kantonî, gihîştin bi îxbarname an daxwazê"
+  },
+  "r_0110": {
+    "description": "Alîkariya perwerdehiyê û piştgiriya dibistanê ji bo ciwanên di tengasiyê de. Atolye, bicihkirina perwerdehiyê û bernameyên veguheztinê.",
+    "target_audience": "Ciwanên di tengasiya dibistanê, civakî an malbatê de",
+    "access_conditions": "Bi rêberiya SPMi an daxwaza rasterast"
+  },
+  "r_0111": {
+    "description": "Qada hunerî ya belaş ji bo zarokên ji 0 heta 6 salî û pêşwazîkerên wan. Atolyeyên wênekêşandinê, qelibkirinê, muzîkê di çarçoveya Parc de la Perle du Lac de.",
+    "target_audience": "Zarokên ji 0 heta 6 salî bi mezinahiyekê re",
+    "access_conditions": "Belaş, bê qeydkirin, zarokên bi pêşwazîker"
+  },
+  "r_0112": {
+    "description": "Cihê pêşwaziya dêûbav-zarokan ji 0 heta 4 salî. Qada lîstika azad, pevguherîna di navbera dêûbavan de û piştgiriya dêûbavtiyê di çarçoveyek germ de.",
+    "target_audience": "Dêûbav û zarokên ji 0 heta 4 salî",
+    "access_conditions": "Belaş, bê qeydkirin, zarok bi dêûbavek re"
+  },
+  "r_0113": {
+    "description": "Deynkirina belaş a lîstik û pêlîstokan ji bo zarok û malbatan. Koleksiyona fireh a lîstikên mêzê, lîstikên perwerdehiyê û pêlîstokan ji bo her temenî.",
+    "target_audience": "Zarok û malbat",
+    "access_conditions": "Qeydkirina belaş, deynkirina lîstikan belaş ji bo niştecihên Carouge"
+  },
+  "r_0114": {
+    "description": "Xizmeta deynkirina belaş a bisîkletan bi xwe-xizmetî li Genève. Bisîkletên asayî û elektrîkî ji bo rêwîtiyên rojane yên bajarî peyda dibin.",
+    "target_audience": "Hemû gel",
+    "access_conditions": "Belaş, nasnameya kesane û depozîto pêwîst e"
+  },
+  "r_0115": {
+    "description": "Bihayê kêmkirî yên abonmanên veguhastina giştî ya Genève ji bo kesên bi dahatên kêm. Kêmkirin heta 50% li ser abonmanên mehane û salane.",
+    "target_audience": "Kesên bi dahatên kêm ên li kantona Genève dimînin",
+    "access_conditions": "Li gor şertên dahatê, belge pêwîst e"
+  },
+  "r_0116": {
+    "description": "Dayina mesrefên veguhastina giştî ji bo wergirên alîkariya civakî. Abonmana TPG di nav dravdanên alîkariya darayî de ye.",
+    "target_audience": "Wergirên alîkariya civakî",
+    "access_conditions": "Bi taybetî ji bo wergirên alîkariya civakî ya Hospice général"
+  },
+  "r_0117": {
+    "description": "Gihîştina WiFi ya belaş SBB-FREE li stasyona Cornavin. Girêdana bêsînor di tevahiya stasyonê û li ser platforman peyda dibe.",
+    "target_audience": "Hemû gel",
+    "access_conditions": "Belaş, tora SBB-FREE, bê şîfre"
+  },
+  "r_0118": {
+    "description": "Gihîştina WiFi ya belaş a Bajarê Genève li Jardin Anglais. Xala gihîştinê ya li derve bi dîtina Jet d'eau û golê.",
+    "target_audience": "Hemû gel",
+    "access_conditions": "Belaş, tora WiFi ya Bajarê Genève"
+  },
+  "r_0119": {
+    "description": "Gihîştina WiFi ya belaş a Bajarê Genève li Plaine de Plainpalais. Qada vegirtinê ya fireh li ser vê meydana mezin a bajarî.",
+    "target_audience": "Hemû gel",
+    "access_conditions": "Belaş, tora WiFi ya Bajarê Genève"
+  },
+  "r_0120": {
+    "description": "Avahiya zanîngehê ku gihîştina WiFi ya belaş û qadên xwendinê yên ji bo gel vekirî pêşkêş dike. Pirtûkxane, odeyên xebatê û kafetêrya gihîştbar in.",
+    "target_audience": "Xwendekar û her kesê ku qada xebatê dixwaze",
+    "access_conditions": "Belaş, gihîştina azad ji bo qadên giştî yên avahiyê"
+  },
+  "r_0121": {
+    "description": "Veguheztina pîşeyî ji bo kesên ku tenduristiya wan bandor kiriye an di rewşa astengdariyê de ne. Geşekirina jêhatiyên kesane, pîşeyî û civakî, diyarkirina projeya pîşeyî, stajên li pargîdaniyan û bicihkirin.",
+    "target_audience": "Kesên di rewşa astengdariyê de an bi pirsgirêkên tenduristiyê yên li lêgerîna karê de ne",
+    "access_conditions": "Belaş, bi rêberiya AI, bêkariyê an alîkariya civakî"
+  },
+  "r_0122": {
+    "description": "Qada perwerdehiyê ji bo jinên kêm an bê pîşeyî yên ku di dîtina karê de tengasî dikişînin. Dersên Fransizî, informatîk, jêhatiyên bingehîn û alîkarî ber bi serxwebûn û veguheztina pîşeyî.",
+    "target_audience": "Jinên kêm an bê pîşeyî yên di rewşa tengasiyê de",
+    "access_conditions": "Belaş ji bo piraniya perwerdehan, qeydkirin li sekreteriyê pêwîst e"
+  },
+  "r_0123": {
+    "description": "Alîkariya pîşeyî ji bo ciwanên mezinên kêmtirî 25 salî ber bi serkeftina hînbûna ducarî û ji bo kesên 50 salî û mezintir ber bi vegerîna karê. Rahêneriya kesane û komî.",
+    "target_audience": "Ciwanên kêmtirî 25 salî bê perwerdehî û kesên 50 salî û mezintir ên li lêgerîna karê de ne",
+    "access_conditions": "Belaş ji bo ciwanên kêmtirî 25 salî û kesên 50 salî û mezintir ên li Genève dimînin"
+  },
+  "r_0124": {
+    "description": "Cihê pevguherîn, agahdarî û perwerdehiya komelî ku ji 80 komelên herêmî û navneteweyî pêşwazî dike. 13 ode ji bo kirêkirinê ji bo bûyer, kongre û çalakiyên komelî peyda dibin.",
+    "target_audience": "Komel û niştecihên taxê",
+    "access_conditions": "Gihîştina azad ji bo qadên hevpar, veqetandin ji bo odeyan"
+  },
+  "r_0125": {
+    "description": "Navenda jiyana taxê ku çalakiyên çandî-civakî ji bo her temenî pêşkêş dike. Atolyeyên afirîner, dersên zimanan, bûyerên civakî û qada qehweyê.",
+    "target_audience": "Niştecihên Carouge û derdorê, her temen",
+    "access_conditions": "Gihîştina azad, hin çalakî bi qeydkirinê"
+  },
+  "r_0126": {
+    "description": "Qada civakî ya Vernier ku çalakiyên ji bo zarok, ciwan û mezinan pêşkêş dike. Alîkariya dibistanê, atolye, geşt û bûyerên navçandî.",
+    "target_audience": "Niştecihên Vernier, her temen",
+    "access_conditions": "Gihîştina azad, hin çalakî bi qeydkirinê"
+  },
+  "r_0127": {
+    "description": "Xeta guhdarîkirinê û piştgiriya ji bo qurbaniyên tundiya zayendî. Alîkariya derûnî, hiqûqî û civakî di çarçoveya nepenî de.",
+    "target_audience": "Qurbaniyên tundiya zayendî, bi taybetî jin û kesên LGBTIQ+",
+    "access_conditions": "Belaş û nepenî, bi an bê randevû"
+  },
+  "r_0128": {
+    "description": "Komeleya alîkarî û serxwebûna jinên koçber. Dersên Fransizî, atolyeyên entegrasyonê, muayeneyên derûnî û piştgiriya civakî.",
+    "target_audience": "Jinên koçber û penaber",
+    "access_conditions": "Belaş an bi bihayê sembolîk, qeydkirin ji bo dersan pêwîst e"
+  },
+  "r_0129": {
+    "description": "Piştgirî û alîkarî ji bo jinên ducanî yên di tengasiyê de. Guhdarîkirin, alîkariya materyal (cilên pitikan, erebeyên pitikan), şêwirmendî û rêbername ber bi xizmetên civakî.",
+    "target_audience": "Jinên ducanî yên di tengasiyê de û dayikên ciwan",
+    "access_conditions": "Belaş, bi randevû an dema têlefonî"
+  },
+  "r_0130": {
+    "description": "Pêşwaziya rojane ji bo kesên pîr ên ku serxwebûna xwe winda dikin. Çalakiyên guncan, xwarin û lênihêrîn ku ji bo nêzîkên alîkar bêhnvedanê çêdike.",
+    "target_audience": "Kesên pîr ên ku serxwebûna xwe winda dikin û nêzîkên wan ên alîkar",
+    "access_conditions": "Bi rêçeteya bijîşkî, beşdariya darayî li gor dahatê"
+  },
+  "r_0131": {
+    "description": "Piştgirî û rêbername ji bo nêzîkên alîkar ên kantona Genève. Guhdarîkirin, şêwirmendî, komên axaftinê û girêdana bi çavkaniyên heyî re.",
+    "target_audience": "Nêzîkên alîkar ên kesên pîr, nexweş an di rewşa astengdariyê de",
+    "access_conditions": "Belaş, bi an bê randevû"
+  },
+  "r_0132": {
+    "description": "Dersên belaş an bi bihayê kêm ji bo mezinan di gelek waran de: ziman, informatîk, çand, geşekirina kesane. Ji bo hemûyan bê şertê dîplomayê vekirî ye.",
+    "target_audience": "Mezinên ji her warî bê şertê dîplomayê",
+    "access_conditions": "Belaş an bi bihayê kêm, qeydkirin bi nîvsalê"
+  },
+  "r_0133": {
+    "description": "Navenda çavkaniyan ji bo rêxistinên navneteweyî û komelan. Odeyên konferansê, qadên xebata hevpar û xizmetên piştgiriya îdarî.",
+    "target_audience": "Komel, NGO û rêxistinên navneteweyî",
+    "access_conditions": "Gihîştina azad ji bo qadên hevpar, veqetandin ji bo odeyên konferansê"
+  },
+  "r_0134": {
+    "description": "Şêwirmendiya hiqûqî ya belaş ji bo kesên biyanî li ser pirsên mafên biyaniyan, penabendê, yekbûna malbatê û destûra rûniştinê.",
+    "target_audience": "Kesên biyanî yên li kantona Genève dimînin",
+    "access_conditions": "Belaş, bê randevû, yê yekem tê yê yekem tê xizmeta wî/wê"
+  },
+  "r_0135": {
+    "description": "Dema hiqûqî ya belaş a pispor di mafên penabendê û mafên biyaniyan de. Şêwirmendî, alîkarî di proseduran de û nivîsandina îtîrazan.",
+    "target_audience": "Daxwazkarên penabendê, penaber û kesên redkirî",
+    "access_conditions": "Belaş, bi randevû ji bo muayeneyên kûr"
+  },
+  "r_0136": {
+    "description": "Şêwirmendî û alîkariya belaş ji bo kesên di rewşa astengdariyê de û nêzîkên wan. Alîkariya îdarî, rêberiya pîşeyî û piştgiriya civakî.",
+    "target_audience": "Kesên di rewşa astengdariyê de û nêzîkên wan",
+    "access_conditions": "Belaş, bi randevû"
+  },
+  "r_0137": {
+    "description": "Muzeya dîroka xwezayê bi ketina belaş. Koleksiyonên daîmî yên zoolojî, mîneralojî û paleontolojiyê. Pêşangehên demkî û çalakî ji bo zarokan.",
+    "target_audience": "Hemû gel, malbat û dibistanî",
+    "access_conditions": "Ketina belaş ji bo koleksiyonên daîmî"
+  },
+  "r_0138": {
+    "description": "Herî mezin muzeya Genève bi koleksiyona daîmî ya belaş. Hunerên bedew, hunerên pêkanî û arkeolojî, ji pêşdîrokê heta hunera hemdem.",
+    "target_audience": "Hemû gel, dilxwazên huner û dîrokê",
+    "access_conditions": "Koleksiyona daîmî belaş, pêşangehên demkî bi drav"
+  },
+  "r_0139": {
+    "description": "Muzeya Swîsreyî ya seramîk û camê bi ketina belaş. Koleksiyonên awarte di avahiyeke neo-barok de li hemberî Palais des Nations.",
+    "target_audience": "Hemû gel, dilxwazên hunerên xemilî",
+    "access_conditions": "Ketina belaş ji bo koleksiyonên daîmî"
+  },
+  "r_0140": {
+    "description": "Muzeya çalakiya mirovahî bi ketina belaş piştî nîvroja çarşemê. Pêşangehên înteraktîf li ser dîrokê û dijwariyên mirovahî yên îroyîn.",
+    "target_audience": "Hemû gel, dilxwazên dîroka mirovahî",
+    "access_conditions": "Ketina belaş piştî nîvroja çarşemê (16:00-18:00), bihayê kêmkirî peyda dibe"
+  },
+  "r_0141": {
+    "description": "Navenda avê ya şaredariyê bi bihayê kêmkirî ji bo niştecihên bi dahatên kêm. Hewza olîmpîk, hewza hînbûnê û qada saxlemiyê.",
+    "target_audience": "Hemû gel, bihayê kêmkirî ji bo niştecihên bi dahatên kêm",
+    "access_conditions": "Bihayê kêmkirî bi karta Cité Seniors an piştgiriya bîmeya nexweşiyê"
+  },
+  "r_0142": {
+    "description": "Medyateka şaredariyê ya bi gihîştina azad ku pirtûk, DVD, CD û gihîştina înternetê ya belaş pêşkêş dike. Anîmasyonên çandî, saeta çîrokê û qada xwendinê ya rehet.",
+    "target_audience": "Hemû gel, xwîner û malbatên taxê",
+    "access_conditions": "Gihîştina azad û belaş, qeydkirina belaş ji bo deynkirinê"
+  },
+  "r_0143": {
+    "description": "Xwaringaha hevgirtî ku êvarê xwarinên belaş pêşkêşî kesên di rewşa tengasiyê de dike. Xwarinpêjiya gastranomîk a ji zêdeyên xwarinê yên berhevkirî. Ji hêla Mater Fondazione ve bi hevkariya Food for Soul ve tê birêvebirin.",
+    "target_audience": "Kesên di rewşa tengasiya xwarinê de",
+    "access_conditions": "Şîva êvarê belaş, rêbername bi rêya komelên hevkar"
+  },
+  "r_0144": {
+    "description": "Şorbeya gel ku nîvro xwarinên belaş pêşkêşî kesên bê çavkanî dike. Ji 250 xwarinên zêdetir di rojê de ji hêla komelên xêrxwaz ên cuda ve têne pêşkêşkirin. Cihê hevdîtinê li pişt stasyona Cornavin.",
+    "target_audience": "Kesên bê çavkanî, bê mal",
+    "access_conditions": "Bê merc, ji bo her kesê ku hewcedarî ye vekirî ye"
+  },
+  "r_0145": {
+    "description": "Navenda pêşwaziya rojane ya acîl ku xwarinên germ ên belaş, serşok, guhdarîkirin û rêbername pêşkêş dike. Pêşwaziya bê mercî ji bo kesên ku bi tenêtî, derxistina civakî û marjînalîzekirinê re rûbirû ne. CARÉ = Caritas Accueil Rencontre Échange.",
+    "target_audience": "Kesên di rewşa tengasiyê, derxistina civakî, tenêtiyê de",
+    "access_conditions": "Bê merc, pêşwaziya bê mercî ji bo mezinan"
+  },
+  "r_0146": {
+    "description": "Mala bicihkirina acîl ku penagehek ji bo kesên bê mal pêşkêş dike. Taştê û şîva êvarê belaş. Dema mayînê bê sînor. Di zivistanê de gengaz e ku rojê jî bimînin. Qada Jinan a taybet.",
+    "target_audience": "Kesên bê mal, jinên tenê an bi zarokan",
+    "access_conditions": "Bicihkirin bi daxwazê, 10 heta 20 cih, dema bê sînor"
+  },
+  "r_0147": {
+    "description": "Stargeha şevê ya acîl a Bajarê Genève. Nivîn, şîva êvarê, cihê heqîban û gihîştina serşokan belaş têne pêşkêşkirin. Dema sînorkirî ya 30 rojan.",
+    "target_audience": "Kesên bê mal",
+    "access_conditions": "Bi navenda bicihkirina acîl re li 0800 22 22 10 (belaş) têkilî bikin. Dema sînorkirî ya 30 rojan."
+  },
+  "r_0148": {
+    "description": "Muayeneya bijîşkî ya belaş û nepenî ji bo kesên bê bîmeya nexweşiyê an bê statûya qanûnî. Lênihêrîna yekem, muayeneyên bijîşkî û hemşîreyê, rêbername ber bi xizmetên pispor. Ji 4500 nexweşan zêdetir di salê de.",
+    "target_audience": "Kesên bê bîmeya nexweşiyê, bê statûya qanûnî, bê mal",
+    "access_conditions": "Ji 16 salî, bê şertê statûya qanûnî, bê bîme tê qebûlkirin, belaş û nepenî"
+  },
+  "r_0149": {
+    "description": "Navenda tenduristiya civakî ya LGBTIQ+ ya pispor di tenduristiya zayendî de. Testkirina HIV/IST ya belaş û nenas, dermankirina, vakslêdan, muayeneyên derûnî. Xizmeta Dialogai.",
+    "target_audience": "Civata LGBTIQ+ û her kesê ku bi tenduristiya zayendî re eleqedar e",
+    "access_conditions": "Testkirina belaş û nenas bê randevû duşemê û pêncşemê"
+  },
+  "r_0150": {
+    "description": "Kabîneya diranan ku lênihêrîna bingehîn bi bihayên pir kêm ji bo kesên bi dahatên kêm pêşkêş dike. Muayeneya diranpizîşk bi 40 CHF, paqijkera diranan bi 20 CHF. Diranpizîşk û paqijkerên dilxwaz.",
+    "target_audience": "Karkerên xizan û kesên bi dahatên kêm ên bê alîkariya civakî",
+    "access_conditions": "Bi randevû bi rêya Dema pêşwaziya civakî. Bi taybetî ji bo kesên bi dahatên kêm."
+  },
+  "r_0151": {
+    "description": "Komeleya çalak di têkoşîna li dijî HIV, hepatîtan û nexweşiyên zayendî de. Muayeneya derûnî ya belaş (danişîna yekem), testkirina nepenî, şêwirmendiya hiqûqî û civakî ji bo kesên bi HIV re dijîn.",
+    "target_audience": "Kesên ku bi HIV, nexweşiyên zayendî, hepatîtan re eleqedar in",
+    "access_conditions": "Muayeneya derûnî ya yekem belaş. Testkirinên nepenî."
+  },
+  "r_0152": {
+    "description": "Alîkariya civakî û pîşeyî ji bo jinên di rewşa derxistina civakî de. Alîkariya proseduran îdarî, naskirina mafan, veguheztina pîşeyî. Guhdarîkirina têlefonî û piştgirî.",
+    "target_audience": "Jinên di rewşa derxistina civakî an pîşeyî de",
+    "access_conditions": "Belaş, dema têlefonî di demjimêrên diyarkirî de"
+  },
+  "r_0153": {
+    "description": "Penagehek ji bo jinên qurbaniyên tundiyê û bazirganiya mirovan, bi an bê zarokan. Bicihkirina niştecihî bi şopandina psîkocivakî ji bo derdora 30 jinan. Dersên Fransizî û perwerdehiya pîşeyî.",
+    "target_audience": "Jinên qurbaniyên tundiyê û bazirganiyê, bi an bê zarokan",
+    "access_conditions": "Pêşwaziya têlefonî 8:30-12:00. Bicihkirina acîl 24 demjimêr/24."
+  },
+  "r_0154": {
+    "description": "Komeleya hevgirtiyê ku mafên karkerên seksê diparêze. Pêşwazî, guhdarîkirin, piştgiriya psîkocivakî, xizmetên hiqûqî, alîkariya îdarî, pêşîgirtina nexweşiyên zayendî û amûrên pêşîgirtinê.",
+    "target_audience": "Kesên ku karê seksê dikin",
+    "access_conditions": "Bê randevû di demjimêrên diyarkirî de. Pêşwaziya bê dadbarkirinê."
+  },
+  "r_0155": {
+    "description": "Qada belaş a agahdarî û şêwirmendiya rêbernameya pîşeyî, perwerdehî û karê. Şêwirmend bê randevû peyda dibin. Atolyeyên mijarî: nirxandina jêhatiyan, CV, hevpeyivîn, veguheztina pîşeyî.",
+    "target_audience": "Ciwan û mezinên li lêgerîna rêbername, perwerdehî an karê de",
+    "access_conditions": "Belaş, bê randevû, gihîştina azad"
+  },
+  "r_0156": {
+    "description": "Komeleya veguheztina pîşeyî-civakî ji bo ciwanên ji 15 heta 25 salî. Karên biçûk ên demkî, piştgiriya kesane, stajên pêş-jêhatiyê û alîkarî di lêgerîna karê an perwerdehiyê de.",
+    "target_audience": "Ciwanên ji 15 heta 25 salî yên li lêgerîna karê an perwerdehiyê de",
+    "access_conditions": "Belaş, qeydkirin li ser malperê an li cihê"
+  },
+  "r_0157": {
+    "description": "Komeleya serbixwe ku ji 1986-an ve mafên penabendê diparêze. Alîkariya hiqûqî ya belaş û nûnertiya penaberan. Muayene bê randevû roja duşemê. Alîkarî di tevahiya prosedura penabendê de.",
+    "target_audience": "Daxwazkarên penabendê û penaber",
+    "access_conditions": "Belaş, muayene bê randevû roja duşemê"
+  },
+  "r_0158": {
+    "description": "Komeleya lezbiyen û femînîst ku ji bo hemû jinan vekirî ye (cîs, trans, bîseksuel, queer). Pêşwazî, guhdarîkirin, agahdarî û hevgirtî. Çalakî: kluba sînemayê, êvare, konferans, werzîş.",
+    "target_audience": "Jinên lezbiyen, bîseksuel, trans, queer",
+    "access_conditions": "Ji bo hemû jinan bê merc vekirî ye"
+  },
+  "r_0159": {
+    "description": "Qada pêşwazî, guhdarîkirin û piştgiriya ji bo ciwanên LGBTIQ+ ên di tengasiyê de. Alîkariya kesane, komên piştgiriyê, sohbeta nenas a serhêl, bicihkirin ji 3 heta 6 mehan ji 18 salî pê ve.",
+    "target_audience": "Ciwanên LGBTIQ+ û derdora wan",
+    "access_conditions": "Bi an bê randevû, sohbeta nenas li ser malperê peyda dibe"
+  },
+  "r_0160": {
+    "description": "Komeleya di xizmeta pirrengiya zayendî û cinsiyetê de. Pêşwazî, agahdarî, guhdarîkirin û rêbername ji bo kesên LGBTIQ+. Xizmeta hiqûqî ya yekane li Swîsra Romand. Kom: Trans*, Homoparents, Bi, Tamalou (kalûpîr).",
+    "target_audience": "Kesên LGBTIQ+ û nêzîkên wan",
+    "access_conditions": "Pêşwaziya azad bê randevû"
+  },
+  "r_0161": {
+    "description": "Komeleya pêşîgirtinê û alîkariyê ji bo kesên girêdayî alkolê û malbatên wan. Şêwirmendiya pîşeyî, terapiya sererastkirî, komên piştgiriyê, dawiya heftê.",
+    "target_audience": "Kesên ku bi alkolîzmê re eleqedar in û nêzîkên wan",
+    "access_conditions": "Pêşwaziya azad, belaş"
+  },
+  "r_0162": {
+    "description": "Navenda rojane ji bo kesên girêdayî narkotîkan. Pêşwazî, guhdarîkirin, xwarin, çalakî û alîkarî ber bi lênihêrînê. Komeleya ARGOS di heman demê de navendên niştecihî yên veguheztinê pêşniyar dike.",
+    "target_audience": "Kesên girêdayî narkotîkan",
+    "access_conditions": "Pêşwaziya azad, bê randevû"
+  },
+  "r_0163": {
+    "description": "Navenda pêşîgirtinê ku FEGPA (alkol û esrar), CIPRET (tûtin) û RNVP (lîstik/ekran) li hev dicive. Şêwirmendiya belaş û nepenî ji bo her kesê ku bi alîkariyê re eleqedar e an nêzîkên wan.",
+    "target_audience": "Her kesê ku bi alîkariyê re eleqedar e, ciwan û nêzîk",
+    "access_conditions": "Muayeneyên belaş û nepenî, bi randevû"
+  },
+  "r_0164": {
+    "description": "Komeleya dêûbav û hevalên kesên di rewşa astengdariya derûnî de. Agahdarî, şêwirmendî, piştgiriya malbatan. Çalakiyên dîlanan, dawiya hefteyên bêhnvedanê, mayînên betlaneyê. Parastina mafan.",
+    "target_audience": "Kesên di rewşa astengdariya derûnî de û malbatên wan",
+    "access_conditions": "Bi têlefonê an e-nameyê têkilî bikin"
+  },
+  "r_0165": {
+    "description": "Herî mezin rêxistina alîkariya hevdu ji bo kesên astengdar li Swîsreyê. Şêwirmendiya hiqûqî ya belaş di bîmeyên civakî de (AI, APG). Çalakiyên hevdîtinê ji bo zarokên di rewşa astengdariyê de.",
+    "target_audience": "Kesên di rewşa astengdariyê de",
+    "access_conditions": "Şêwirmendiya hiqûqî ya belaş ji bo endaman"
+  },
+  "r_0166": {
+    "description": "Komeleya ku kalûpîran teşwîq dike ku çalak û xweser bimînin. Çalakiyên cihêreng: ders, atolye, geşt, konferans, werzîş. Bernameya \"Seniors d'ici et d'ailleurs\" ji bo entegrasyonê.",
+    "target_audience": "Kalûpîrên 50 salî û mezintir",
+    "access_conditions": "Ji bo kesên 50 salî û mezintir vekirî ye"
+  },
+  "r_0167": {
+    "description": "Papastiya ekyûmenîk ku hebûn, guhdarîkirin û piştgirî ji daxwazkarên penabendê û penaberan re pêşkêş dike. Dersên Fransizî, informatîk, xwarinên hevpar, çalakiyên werzîşê û çandî.",
+    "target_audience": "Daxwazkarên penabendê û penaber li Genève",
+    "access_conditions": "Ji bo hemû daxwazkarên penabendê û penaberan vekirî ye"
+  },
+  "r_0168": {
+    "description": "Pêşwazî û alîkariya penaber û daxwazkarên penabendê yên LGBTIQ+. Dema hiqûqî bi hevkariya elisa-asile, piştgirî û çalakiyên hişyarkirinê.",
+    "target_audience": "Penaber û daxwazkarên penabendê yên LGBTIQ+",
+    "access_conditions": "Ji bo her kesê LGBTIQ+ yê penaber an di daxwaza penabendê de vekirî ye"
+  },
+  "r_0169": {
+    "description": "Pirtûkxaneya lîstikên şaredariyê ya belaş ji bo lîstina li cih. Lîstikên maseyê yên klasîk û hevkar li ser du qatan. Deynkirina lîstikan bi aboneyê salane yê malbatî (30 CHF). Karmendan ji bo şêwirmendiyê amade ne.",
+    "target_audience": "Zarok, malbat, saziyên taxa",
+    "access_conditions": "Lîstina li cih belaş e. Deynkirin bi aboneyê malbatî yê salane (30 CHF). Zarokên di bin 6 salî de bi mezinan re."
+  },
+  "r_0170": {
+    "description": "Pirtûkxaneya lîstikên şaredariyê ya belaş ji bo lîstina li cih, di nav Manège en Ville de. Nêzîkê 1000 lîstikên maseyê, lîstikên vîdyoyê û pêlîstok ji bo hemû temenan. Deynkirin bi aboneyê malbatî (30 CHF/sal). Tûrnûva û çalakî têne organîzekirin.",
+    "target_audience": "Zarok, malbat, hemû temen (ji pitikan heta mezinan)",
+    "access_conditions": "Lîstina li cih belaş e. Deynkirin bi aboneyê malbatî yê salane (30 CHF). Zarokên di bin 6 salî de bi mezinan re."
+  },
+  "r_0171": {
+    "description": "Bicîhkirina acîl ji bo jinên di rewşa dijwar de, bêmal an penaberên bi zarokan. 30 cihên pêşwaziya bê mercî û 21 cih ji bo jinên di alîkariya civakî de. Odeyên yek an du kesî, sê xwarinên rojane, cihê cilşûştinê, alîkariya civakî.",
+    "target_audience": "Jinên bêmal, jinên di rewşa dijwar de, penaberên bi zarokan",
+    "access_conditions": "Bi xeta bicîhkirina acîl a Cenêvê re têkilî daynin: 0800 22 22 10 (Duş-Înî 10:30-20:00, Şem-Yekş 15:00-20:00). Bê rezervasyona rasterast."
+  },
+  "tag": {
+    "143": "143",
+    "147": "147",
+    "15-25 ans": "15-25 salî",
+    "24h": "24d",
+    "50+": "50+",
+    "AI": "AI",
+    "AVS": "AVS",
+    "Belle-Idée": "Belle-Idée",
+    "CFF": "CFF",
+    "CV": "CV",
+    "Carouge": "Carouge",
+    "Cité Générations": "Cité Générations",
+    "Cornavin": "Cornavin",
+    "Croix-Rouge": "Croix-Rouge",
+    "FLE": "FLE",
+    "FRC": "FRC",
+    "HUG": "HUG",
+    "Hospice général": "Hospice général",
+    "IST": "IST",
+    "LAVI": "LAVI",
+    "LGBT": "LGBT",
+    "LGBTIQ+": "LGBTIQ+",
+    "Onex": "Onex",
+    "Plainpalais": "Plainpalais",
+    "SBB": "SBB",
+    "SIT": "SIT",
+    "SOS": "SOS",
+    "TPAE": "TPAE",
+    "TPG": "TPG",
+    "UNIA": "UNIA",
+    "VIH": "VIH",
+    "Vernier": "Vernier",
+    "abri": "stargeh",
+    "accessibilité": "gihîştin",
+    "accompagnement": "alîkarî",
+    "accueil": "pêşwazî",
+    "accueil de jour": "pêşwaziya rojane",
+    "activités": "çalakî",
+    "addiction": "alîkarî",
+    "administratif": "îdarî",
+    "administration": "birêvebirî",
+    "adolescents": "ciwan",
+    "adultes": "mezin",
+    "aide": "alîkarî",
+    "aide financière": "alîkariya darayî",
+    "aide matérielle": "alîkariya materyal",
+    "aide sociale": "alîkariya civakî",
+    "aide à domicile": "alîkariya li malê",
+    "alcool": "alkol",
+    "alimentaire": "xwarinê",
+    "allaitement": "şîrdayîn",
+    "alzheimer": "alzheimer",
+    "anonyme": "nenas",
+    "anti-gaspillage": "dijî-windakirinê",
+    "antigaspillage": "dijîwindakirin",
+    "apprentissage": "hînbûn",
+    "archéologie": "arkeolojî",
+    "armée du salut": "armée du salut",
+    "art": "huner",
+    "artichauts": "artichauts",
+    "arts": "huner",
+    "asile": "penabend",
+    "associations": "komel",
+    "assurance": "bîme",
+    "assurances sociales": "bîmeyên civakî",
+    "ateliers": "atolye",
+    "autonomie": "serxwebûn",
+    "autonomisation": "xweserkirî",
+    "avocats": "parêzer",
+    "bail": "peymana kirê",
+    "bains": "serşok",
+    "banque": "bank",
+    "bas prix": "bihayê kêm",
+    "bas seuil": "kêm-astengî",
+    "bateau": "keştî",
+    "beaulieu": "beaulieu",
+    "bibliothèque": "pirtûkxane",
+    "bien-être": "saxlemî",
+    "bébé": "pitik",
+    "bénévoles": "dilxwaz",
+    "café": "qehwe",
+    "cancer": "pençeşêr",
+    "cannabis": "esrar",
+    "cantonal": "kantonî",
+    "caritas": "caritas",
+    "carouge": "carouge",
+    "carrière": "karîyer",
+    "centrale": "navend",
+    "centre-ville": "navenda bajêr",
+    "chômage": "bêkarî",
+    "citoyenneté": "hemwelatîbûn",
+    "coaching": "rahênerî",
+    "colis": "pakêt",
+    "collecte": "berhevkirin",
+    "communautaire": "civakî",
+    "communauté": "civat",
+    "compétences": "jêhatî",
+    "confidentiel": "nepenî",
+    "conflits": "nakokî",
+    "conférences": "konferans",
+    "conseil": "şêwirmendî",
+    "conseils": "şêwirmendî",
+    "consultation": "muayene",
+    "contraception": "parastina ducaniyê",
+    "cornavin": "cornavin",
+    "cours": "ders",
+    "coworking": "xebata hevpar",
+    "crise": "krîz",
+    "croix-rouge": "croix-rouge",
+    "crèche": "zarokxane",
+    "créativité": "afirînerî",
+    "culture": "çand",
+    "curatelle": "serwêrîtî",
+    "céramique": "seramîk",
+    "dentaire": "diran",
+    "diabète": "şekir",
+    "distribution": "belavkirin",
+    "diversité": "pirrengî",
+    "divorce": "hevberdanê",
+    "diététique": "xwarinzan",
+    "domicile": "mal",
+    "douche": "serşok",
+    "douches": "serşok",
+    "drogue": "narkotîk",
+    "drogues": "narkotîk",
+    "droit": "maf",
+    "droit des étrangers": "mafên biyaniyan",
+    "droits": "maf",
+    "démence": "pîrbûn",
+    "dépendance": "girêdayîbûn",
+    "dépistage": "testkirin",
+    "détresse": "tengasî",
+    "eau potable": "ava vexwarinê",
+    "eaux-vives": "eaux-vives",
+    "emploi": "kar",
+    "enfance": "zaroktî",
+    "enfants": "zarok",
+    "espace partagé": "qada hevpar",
+    "espace travail": "qada xebatê",
+    "ethnopsychologie": "etnopsîkolojî",
+    "extérieur": "derve",
+    "factures": "fatûre",
+    "famille": "malbat",
+    "familles": "malbat",
+    "femmes": "jin",
+    "femmes migrantes": "jinên koçber",
+    "financière": "darayî",
+    "fitness": "fîtnes",
+    "fontaine": "kanî",
+    "formation": "perwerdehî",
+    "fr": "fr",
+    "français": "fransizî",
+    "français professionnel": "fransiziya pîşeyî",
+    "frigo": "sarincok",
+    "féministe": "femînîst",
+    "garderie": "zarokxane",
+    "gare": "stasyon",
+    "gastronomique": "gastranomîk",
+    "grange": "grange",
+    "gratuit": "belaş",
+    "grossesse": "ducanî",
+    "groupe": "kom",
+    "handicap": "astengdarî",
+    "handicap mental": "astengdariya derûnî",
+    "histoire": "dîrok",
+    "hiver": "zivistan",
+    "humanitaire": "mirovahî",
+    "hydratation": "avdayîn",
+    "hygiène": "paqijî",
+    "hébergement": "bicihkirin",
+    "infirmiers": "hemşîre",
+    "information": "agahdarî",
+    "informatique": "informatîk",
+    "infractions": "sûc",
+    "insertion": "veguheztin",
+    "interactif": "înteraktîf",
+    "interculturel": "navçandî",
+    "international": "navneteweyî",
+    "internet": "înternet",
+    "intégration": "entegrasyon",
+    "invendus": "nefirotî",
+    "jardin": "bexçe",
+    "jeu": "lîstik",
+    "jeunes": "ciwan",
+    "jeunesse": "ciwanî",
+    "jeux": "lîstik",
+    "jonction": "jonction",
+    "jouets": "pêlîstok",
+    "jour": "roj",
+    "juridique": "hiqûqî",
+    "lac": "gol",
+    "langues": "ziman",
+    "laverie": "cilşûştin",
+    "lesbienne": "lezbiyen",
+    "libre-service": "xwe-xizmetî",
+    "licenciement": "ji karderxistin",
+    "livres": "pirtûk",
+    "locataires": "kirêgir",
+    "logement": "xanî",
+    "loisirs": "dîlan",
+    "loyer": "kirê",
+    "ludothèque": "lîstikxane",
+    "maintien à domicile": "parastina li malê",
+    "maladie chronique": "nexweşiya kronîk",
+    "maraude": "gergera",
+    "maternité": "dayikbûn",
+    "meubles": "mobîlya",
+    "midi": "nîvro",
+    "migrantes": "koçber",
+    "migrants": "koçber",
+    "migration": "koçberî",
+    "mineurs": "biçûk",
+    "mobile": "gerger",
+    "mobilité": "tevger",
+    "molard": "molard",
+    "multilingue": "pirziman",
+    "musée": "muze",
+    "médecin": "bijîşk",
+    "médecine générale": "bijîşkiya giştî",
+    "médiathèque": "medyatek",
+    "médiation": "navbeynkarî",
+    "médicaments": "derman",
+    "natation": "avjenî",
+    "nature": "xweza",
+    "nuit": "şev",
+    "offres": "pêşniyar",
+    "orientation": "rêbername",
+    "parc": "park",
+    "parc de la grange": "parc de la grange",
+    "parentalité": "dêûbavtî",
+    "parents": "dêûbav",
+    "parents-enfants": "dêûbav-zarok",
+    "partage": "parvedan",
+    "permaculture": "permakultûr",
+    "permanence": "dem",
+    "permis": "destûr",
+    "personnes âgées": "kesên pîr",
+    "petite enfance": "zaroktiya biçûk",
+    "petits boulots": "karên biçûk",
+    "petits-déjeuners": "taştê",
+    "pharmacie": "dermanxane",
+    "piscine": "hewz",
+    "place de neuve": "place de neuve",
+    "plage": "perav",
+    "plaine": "deşt",
+    "plainpalais": "plainpalais",
+    "planning familial": "plana malbatê",
+    "plein air": "li der",
+    "ponctuel": "demkî",
+    "potager": "bexçe",
+    "prestations": "dravdan",
+    "prix réduits": "bihayên kêm",
+    "pro juventute": "pro juventute",
+    "proches aidants": "nêzîkên alîkar",
+    "protection": "parastin",
+    "précarité": "tengasî",
+    "prévention": "pêşîgirtin",
+    "prêt": "deynkirin",
+    "psychiatrie": "psîkiyatrî",
+    "psycho-oncologie": "psîko-onkolojî",
+    "psychologie": "derûnzanî",
+    "psychologique": "derûnî",
+    "psychologue": "derûnzan",
+    "psychopédagogique": "psîkopedagojîk",
+    "public": "giştî",
+    "pâquis": "pâquis",
+    "quai": "bender",
+    "quartier": "tax",
+    "reconversion": "veguheztin",
+    "recours": "îtîraz",
+    "redistribution": "belavkirin",
+    "refuge": "penageh",
+    "repair café": "atolyeya tamîrê",
+    "repas": "xwarin",
+    "repos": "bêhnvedan",
+    "ressources": "çavkanî",
+    "restaurant": "xwaringeh",
+    "récupération": "berhevkirin",
+    "réduction": "kêmkirin",
+    "réduction des risques": "kêmkirina xetereyan",
+    "réfugiés": "penaber",
+    "réinsertion": "veguheztin",
+    "réorientation": "rêberiya nû",
+    "réparation": "tamîrkirin",
+    "répit": "bêhnvedan",
+    "réseau": "tor",
+    "résolution": "çareserkirin",
+    "réunions": "civîn",
+    "sages-femmes": "pîrik",
+    "saint-jean": "saint-jean",
+    "sans assurance": "bê bîme",
+    "sans rendez-vous": "bê randevû",
+    "sans-abri": "bêmal",
+    "sans-papiers": "bêbelge",
+    "santé": "tenduristî",
+    "santé mentale": "tenduristiya derûnî",
+    "santé sexuelle": "tenduristiya zayendî",
+    "sauna": "sauna",
+    "sciences": "zanist",
+    "seconde main": "destê duyemîn",
+    "seniors": "kalûpîr",
+    "servette": "servette",
+    "social": "civakî",
+    "socioculturel": "çandî-civakî",
+    "soins": "lênihêrîn",
+    "soins à domicile": "lênihêrîna li malê",
+    "solidaire": "hevgirtî",
+    "soupe": "şorbe",
+    "soupe populaire": "şorbeya gel",
+    "soutien": "piştgirî",
+    "soutien scolaire": "alîkariya dibistanê",
+    "sport": "werzîş",
+    "stages": "staj",
+    "substitution": "veguherîn",
+    "suicide": "xwekuştin",
+    "syndicat": "sendîka",
+    "sécheron": "sécheron",
+    "tabac": "tûtin",
+    "tarif réduit": "bihayê kêmkirî",
+    "tarif social": "bihayê civakî",
+    "toilettes": "tûalet",
+    "toxicodépendance": "girêdayiya narkotîkan",
+    "traite": "bazirganî",
+    "traitement": "dermankirîn",
+    "trans": "trans",
+    "transport": "veguheztin",
+    "travail": "kar",
+    "travail du sexe": "karê seksê",
+    "travailleurs pauvres": "karkerên xizan",
+    "tutelle": "qeyyûmtî",
+    "téléphone": "têlefon",
+    "université": "zanîngeh",
+    "urbain": "bajarî",
+    "urgence": "acîl",
+    "verre": "cam",
+    "vestiaire": "cildank",
+    "victimes": "qurbanî",
+    "vie associative": "jiyana komelî",
+    "vieille ville": "bajarê kevin",
+    "ville": "bajar",
+    "violence": "tundî",
+    "violence conjugale": "tundiya hevjînê",
+    "violences": "tundî",
+    "violences sexuelles": "tundiya zayendî",
+    "vélos": "bisîklet",
+    "vêtements": "cil",
+    "wifi": "wifi",
+    "écologie": "ekolojî",
+    "écologique": "ekolojîk",
+    "écoute": "guhdarîkirin",
+    "éducation": "perwerdehî",
+    "épicerie": "dikana xwarinê",
+    "étrangers": "biyanî",
+    "étude": "xwendin",
+    "étudier": "xwendin"
+  }
+}

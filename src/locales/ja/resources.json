@@ -1,0 +1,1214 @@
+{
+  "r_0001": {
+    "description": "生活困窮者向けの無料食料配布。昼食と夕食に温かい食事を提供。無条件で受け入れます。",
+    "target_audience": "生活困窮者全般",
+    "access_conditions": "条件なし、どなたでも利用可能"
+  },
+  "r_0002": {
+    "description": "ジュネーヴ弁護士会による無料法律相談。あらゆる法律問題について、予約不要で初回相談を受けられます。",
+    "target_audience": "法律相談が必要なすべての方",
+    "access_conditions": "予約不要、先着順"
+  },
+  "r_0003": {
+    "description": "自由に利用できるコミュニティ冷蔵庫。誰でも無料で食品を置いたり、持っていったりできます。食品ロス削減の取り組みです。",
+    "target_audience": "どなたでも",
+    "access_conditions": "24時間自由にアクセス可能"
+  },
+  "r_0004": {
+    "description": "連帯型食料品店および衣類配布。経済的困難を抱える方への社会的支援。食料および衣類の援助を行っています。",
+    "target_audience": "低所得者",
+    "access_conditions": "低収入証明書の提示が必要"
+  },
+  "r_0005": {
+    "description": "無料の法律・社会相談。行政手続きの支援、外国人法、労働法、社会保険に関する助言を行います。",
+    "target_audience": "法律上または行政上の困難を抱えるすべての方",
+    "access_conditions": "予約制、初回相談無料"
+  },
+  "r_0006": {
+    "description": "脆弱な立場にある方々への医療、社会福祉、支援サービス。移民・難民向けの支援プログラムがあります。",
+    "target_audience": "脆弱な立場にある方、移民、難民",
+    "access_conditions": "プログラムにより異なる、一部予約制"
+  },
+  "r_0007": {
+    "description": "困窮家庭および個人向けの週間食料パック配布。生鮮食品および基本食料品を提供します。",
+    "target_audience": "低所得の家族および個人",
+    "access_conditions": "事前登録制、経済状況の証明書が必要"
+  },
+  "r_0008": {
+    "description": "州立社会福祉機関。経済的支援、社会的支援、住居支援、職業復帰支援を行います。",
+    "target_audience": "経済的困難を抱えるジュネーヴ州住民",
+    "access_conditions": "予約制、ジュネーヴ州住民対象"
+  },
+  "r_0009": {
+    "description": "シャワー、洗濯機、乾燥機を無料で利用できます。住居を持たない方や困窮状態にある方のための衛生スペースです。",
+    "target_audience": "ホームレスの方、困窮状態にある方",
+    "access_conditions": "条件なし、自由にアクセス可能"
+  },
+  "r_0010": {
+    "description": "健康保険未加入者向けの無料診療。初期診療、紹介、健康面でのサポートを行います。",
+    "target_audience": "健康保険未加入者、非正規滞在者",
+    "access_conditions": "健康保険なしで利用可能、予約不要"
+  },
+  "r_0011": {
+    "description": "移民女性向けの無料フランス語講座。授業中は子どもの託児あり。社会統合・交流のためのワークショップも開催。",
+    "target_audience": "移民女性とその子ども",
+    "access_conditions": "移民女性対象、学期初めに登録"
+  },
+  "r_0012": {
+    "description": "無料または低料金の夜間講座：フランス語、情報技術、簿記、語学。成人向け継続教育です。",
+    "target_audience": "学びたい成人の方",
+    "access_conditions": "学期初めに登録、収入に応じた割引料金あり"
+  },
+  "r_0013": {
+    "description": "夜間の緊急宿泊施設。ホームレスの方を無条件で受け入れます。夕食と朝食が含まれます。",
+    "target_audience": "ホームレスの方",
+    "access_conditions": "条件なし、夜間の無条件受け入れ"
+  },
+  "r_0014": {
+    "description": "暴力被害を受けた女性のための受け入れ、傾聴、緊急宿泊施設。心理的サポートおよび法的支援を行います。",
+    "target_audience": "家庭内暴力の被害を受けた女性",
+    "access_conditions": "24時間対応の電話相談、宿泊は状況評価により判断"
+  },
+  "r_0015": {
+    "description": "衣類、家具、雑貨を格安で販売するソリダリティショップ。中古品の回収と再配布を行っています。",
+    "target_audience": "どなたでも、低所得者",
+    "access_conditions": "どなたでも利用可能、連帯価格"
+  },
+  "r_0016": {
+    "description": "外国人居住者向けの情報提供・案内。助成付きフランス語講座、社会統合支援、人種差別・差別防止活動。",
+    "target_audience": "ジュネーヴ在住の外国人",
+    "access_conditions": "ジュネーヴ州在住の外国人"
+  },
+  "r_0017": {
+    "description": "Parc des Bastions（バスティオン公園）で利用できるジュネーヴ市提供の無料WiFi。制限なしの無料接続。",
+    "target_audience": "どなたでも",
+    "access_conditions": "自由にアクセス可能"
+  },
+  "r_0018": {
+    "description": "社会・文化・教育活動を提供するコミュニティスペース。無料または低料金の講座、ワークショップ、イベントを開催。",
+    "target_audience": "Plainpalais（プランパレ）地区の住民",
+    "access_conditions": "地区住民であればどなたでも参加可能"
+  },
+  "r_0019": {
+    "description": "店舗からの売れ残り食品を回収し、困窮者へ無料で再配布。食品ロス削減の活動です。",
+    "target_audience": "食料困窮状態にある方",
+    "access_conditions": "事前登録制、経済状況の証明書が必要"
+  },
+  "r_0020": {
+    "description": "緊急経済支援、社会的サポート、適切なサービスへの案内。ジュネーヴ市住民への支援を行います。",
+    "target_audience": "困難な状況にあるジュネーヴ市住民",
+    "access_conditions": "ジュネーヴ市住民"
+  },
+  "r_0021": {
+    "description": "庇護申請者および移民向けのプライマリケア診療。異文化間・心理社会的アプローチによる難民医療ネットワークのパートナー。通訳付きの診療が利用可能です。",
+    "target_audience": "庇護申請者、難民、移民",
+    "access_conditions": "予約制、月曜日～金曜日 9時～11時30分、13時30分～17時に予約受付"
+  },
+  "r_0022": {
+    "description": "求職者向けの職業復帰プログラム。ワークショップ、実践的な研修、個別サポートを提供します。",
+    "target_audience": "就職が困難な求職者",
+    "access_conditions": "州雇用局またはHospice general（オスピス・ジェネラル）経由で登録"
+  },
+  "r_0023": {
+    "description": "子どもと青少年への教育的・社会的支援。ホーム、教育ワークショップ、学習支援、余暇活動を提供。",
+    "target_audience": "4歳から18歳の子どもと青少年",
+    "access_conditions": "未成年者保護局からの紹介が必要"
+  },
+  "r_0024": {
+    "description": "imadに所属する緊急心理社会ユニット。困窮状態、家庭内暴力、危機的状況にある未成年者、心理社会的苦痛の状況に介入。看護師とソーシャルワーカーで構成されるチーム。",
+    "target_audience": "ホームレスの方",
+    "access_conditions": "条件なし、路上を巡回するモバイルチーム"
+  },
+  "r_0025": {
+    "description": "依存症の方への支援。外来相談、代替療法プログラム、断薬、社会復帰。外来治療センターです。",
+    "target_audience": "依存症の方",
+    "access_conditions": "受付は予約不要、診療は予約制"
+  },
+  "r_0026": {
+    "description": "高齢者向けサービス：在宅支援、社会活動、法律・経済相談、講座・ワークショップ。",
+    "target_audience": "60歳以上の方",
+    "access_conditions": "60歳以上の方"
+  },
+  "r_0027": {
+    "description": "Bains des Paquis（バン・デ・パキ）で利用できる無料WiFi。施設内で自由に接続可能。",
+    "target_audience": "どなたでも",
+    "access_conditions": "自由にアクセス可能"
+  },
+  "r_0028": {
+    "description": "24時間対応の往診医サービス。自宅または診療所での緊急診療、年中無休。",
+    "target_audience": "緊急の診療が必要なすべての方",
+    "access_conditions": "電話予約、医療費は患者負担"
+  },
+  "r_0029": {
+    "description": "困窮状態にある方のためのデイケアセンター。温かい雰囲気の中で、コーヒー、シャワー、洗濯、インターネット、各種活動を提供。",
+    "target_audience": "困窮状態にある方",
+    "access_conditions": "条件なし、自由に利用可能"
+  },
+  "r_0030": {
+    "description": "移民の方向けの無料または低料金の心理カウンセリング。複数言語での心理的サポートを提供。",
+    "target_audience": "心理的な困難を抱える移民の方",
+    "access_conditions": "予約制、収入に応じた料金"
+  },
+  "r_0031": {
+    "description": "無料の市立図書館。書籍、DVD、CDの貸し出し。ワークスペース、無料WiFi、新聞・雑誌の閲覧。文化ワークショップも開催。",
+    "target_audience": "どなたでも",
+    "access_conditions": "自由にアクセス可能、貸出には無料カードが必要"
+  },
+  "r_0032": {
+    "description": "就職支援の公的機関。失業登録、求人情報、職業指導、就職支援プログラムを提供。",
+    "target_audience": "ジュネーヴ在住の求職者",
+    "access_conditions": "ジュネーヴ州住民、登録が必要"
+  },
+  "r_0033": {
+    "description": "移民の方向けの法律・社会相談窓口。行政手続き支援、外国人法、家族呼び寄せに関するサポート。",
+    "target_audience": "移民の方、非正規滞在者",
+    "access_conditions": "予約制または予約不要の相談窓口あり"
+  },
+  "r_0034": {
+    "description": "薬物使用者向けの低閾値受け入れスペース。無菌器具、相談、休憩スペース、支援を提供。",
+    "target_audience": "薬物使用者",
+    "access_conditions": "条件なし、匿名で利用可能"
+  },
+  "r_0035": {
+    "description": "Paquis（パキ）地区のコミュニティセンター。文化活動、語学講座、創作ワークショップ、子どもスペース、宿題支援を行っています。",
+    "target_audience": "パキ地区の住民",
+    "access_conditions": "どなたでも利用可能"
+  },
+  "r_0036": {
+    "description": "困窮状態にある方への無料衣類配布。季節に合わせた男性、女性、子ども向けの衣類を提供。",
+    "target_audience": "困窮状態にある方",
+    "access_conditions": "社会福祉サービスの証明書の提示が必要"
+  },
+  "r_0037": {
+    "description": "成人移民向けの外国語としてのフランス語講座。初級から上級まで。昼間と夜間の講座があります。",
+    "target_audience": "フランス語を学びたい成人移民",
+    "access_conditions": "登録とレベルテストが必要、割引料金あり"
+  },
+  "r_0038": {
+    "description": "困窮状態にある方への温かい食事（スープとパン）の配布。無料・無条件のサービスです。",
+    "target_audience": "どなたでも",
+    "access_conditions": "条件なし、先着順"
+  },
+  "r_0039": {
+    "description": "女性のための情報・相談センター。法律、社会、職業に関するアドバイス。暴力被害時の支援。",
+    "target_audience": "あらゆる年齢・状況の女性",
+    "access_conditions": "すべての女性が対象、一部相談は予約制"
+  },
+  "r_0040": {
+    "description": "Plainpalais（プランパレ）にあるHospice general（オスピス・ジェネラル）の窓口。経済的支援、社会的サポート、住居・就職支援を行います。",
+    "target_audience": "困難な状況にあるプランパレ地区の住民",
+    "access_conditions": "予約制、ジュネーヴ州住民対象"
+  },
+  "r_0041": {
+    "description": "周産期の健康を促進する独立助産師協会。年中無休の電話相談、助産師による無料相談スペース、妊娠・授乳・産後ケアに関するアドバイス。",
+    "target_audience": "妊婦および若い親御さん",
+    "access_conditions": "相談窓口は予約不要、無料。電話相談：月～金 8時～20時、土日 9時～12時、17時～20時"
+  },
+  "r_0042": {
+    "description": "困窮状態にある方のためのデイケアスペース。朝食、コーヒー、休憩スペース、各種活動、社会福祉への案内を提供。",
+    "target_audience": "ホームレスの方",
+    "access_conditions": "条件なし、無条件受け入れ"
+  },
+  "r_0043": {
+    "description": "脆弱な成人および未成年者の法的保護。後見、保佐および保護措置を行います。",
+    "target_audience": "法的保護を必要とする脆弱な成人および未成年者",
+    "access_conditions": "通報または直接申請により"
+  },
+  "r_0044": {
+    "description": "ジュネーヴ旧市街の中心、Place du Molard（モラール広場）で利用できる無料WiFiアクセスポイント。ジュネーヴ市ネットワーク。",
+    "target_audience": "どなたでも",
+    "access_conditions": "自由にアクセス可能"
+  },
+  "r_0045": {
+    "description": "困難な状況にある女性と子どものための宿泊施設。主に家庭内暴力の被害者が対象。心理社会的支援、社会・職業統合支援、母子関係の強化。託児所を完備。",
+    "target_audience": "困窮状態にある単身女性または子ども連れの女性",
+    "access_conditions": "社会福祉サービスからの紹介、状況の評価あり"
+  },
+  "r_0046": {
+    "description": "5歳までの子どもと付き添いの大人のための無料・匿名・登録不要の受け入れスペース。子どもと親のための傾聴と支援の場。",
+    "target_audience": "0歳から5歳の子どもとその親または付き添いの大人",
+    "access_conditions": "無料、匿名、登録不要、大人の付き添いが必要"
+  },
+  "r_0047": {
+    "description": "賃借人向けの法律相談。家主とのトラブル、家賃値上げ、賃貸契約解除の場合のサポート。",
+    "target_audience": "ジュネーヴ州の賃借人",
+    "access_conditions": "協会への入会が必要（少額の会費）"
+  },
+  "r_0048": {
+    "description": "ジュネーヴの慈善団体への食料品の収集・再配布。食料困窮と食品ロスの削減に取り組んでいます。",
+    "target_audience": "慈善団体および食料困窮状態にある方",
+    "access_conditions": "パートナー団体を通じてアクセス可能"
+  },
+  "r_0049": {
+    "description": "歯科治療を提供する大学附属歯科クリニック。月曜日～金曜日の8時～15時30分に予約不要で受付。歯科救急および一般治療。",
+    "target_audience": "どなたでも、歯科保険未加入者や低所得者",
+    "access_conditions": "月曜日～金曜日 8時～15時30分に予約不要で受付"
+  },
+  "r_0050": {
+    "description": "困窮状態にある方のための受け入れ、支援、社会・職業復帰の場。無料朝食（週150～200食）、社会活動、復帰研修を提供。",
+    "target_audience": "困窮状態にある方",
+    "access_conditions": "条件なし、自由に利用可能"
+  },
+  "r_0051": {
+    "description": "すべての年齢、文化、社会的背景の方を対象とした、受け入れ、レジャー、交流、リラクゼーションの場。文化・社会活動を提供。",
+    "target_audience": "Eaux-Vives（オー・ヴィーヴ）地区の住民およびどなたでも",
+    "access_conditions": "どなたでも利用可能、自由に入場"
+  },
+  "r_0052": {
+    "description": "女性と家族のための受け入れ・案内スペース。法律相談（家族法、離婚、家庭内暴力、滞在許可）、職業指導、心理社会的サポート。",
+    "target_audience": "女性と家族",
+    "access_conditions": "電話法律相談窓口：火曜 11時～13時、水曜 14時～16時、木曜 12時～14時（022 740 31 11）。対面相談は予約制。"
+  },
+  "r_0053": {
+    "description": "スイス・ロマンド地方の若者の自殺予防協会。啓発活動、ワークショップ、予防プログラム、支援機関への案内。緊急時は143番に電話してください。",
+    "target_audience": "15歳から29歳の若者、自殺予防",
+    "access_conditions": "事務局は平日営業。緊急時は143番（24時間対応）に電話"
+  },
+  "r_0054": {
+    "description": "HUG（ジュネーヴ大学病院）の精神科・メンタルヘルス部門。精神科・心理カウンセリング、不安障害、うつ病、トラウマの治療。",
+    "target_audience": "精神疾患を抱える方",
+    "access_conditions": "予約制、医師の紹介状が必要"
+  },
+  "r_0055": {
+    "description": "AVS/AI（老齢・障害年金）受給者向けの補完的経済給付。健康保険料および家賃の支払い支援。",
+    "target_audience": "低所得のAVS/AI受給者",
+    "access_conditions": "AVS/AI受給者、ジュネーヴ州住民"
+  },
+  "r_0056": {
+    "description": "最低生活費またはそれをわずかに上回る収入の方への現物支給および緊急請求書の支払い支援。",
+    "target_audience": "一時的な経済的困難を抱える方",
+    "access_conditions": "geneve@secours-d-hiver.ch にメールで申請。電話対応は金曜日のみ。"
+  },
+  "r_0057": {
+    "description": "子どもと青少年を対象としたジュネーヴの協会。心理教育センター（13歳～18歳）、Cafe Ados（青少年カフェ）、保護者のいない未成年者への支援、予防活動。",
+    "target_audience": "12歳から18歳の子どもと青少年",
+    "access_conditions": "登録または紹介により"
+  },
+  "r_0058": {
+    "description": "労働市場から離れた方のための職業復帰プログラム。スキル評価、就職コーチング、職場研修を提供。",
+    "target_audience": "労働市場から離れた方",
+    "access_conditions": "Hospice general（オスピス・ジェネラル）またはOCE経由で登録"
+  },
+  "r_0059": {
+    "description": "難民・移民への支援。フランス語講座、社会統合支援、庇護法に関する法律相談、社会的サポートを行います。",
+    "target_audience": "難民および移民",
+    "access_conditions": "難民および移民対象、登録が必要"
+  },
+  "r_0060": {
+    "description": "Jonction（ジョンクション）地区のコミュニティセンター。あらゆる年齢層を対象とした社会・市民・文化活動。9歳から99歳まで、自由に参加できるワークショップを開催。",
+    "target_audience": "ジョンクション地区の住民",
+    "access_conditions": "どなたでも利用可能"
+  },
+  "r_0061": {
+    "description": "Cornavin（コルナヴァン）駅東棟1階の衛生スペース（トイレ/シャワー）。CFF（スイス連邦鉄道）が運営。有料（2スイスフラン）、SwissPass一般定期券をお持ちの方は無料。駅前広場地下にはより安いトイレ（1スイスフラン）もあります。",
+    "target_audience": "どなたでも",
+    "access_conditions": "有料（2スイスフラン）、SwissPass一般定期券をお持ちの方は無料"
+  },
+  "r_0062": {
+    "description": "Parc des Bastions（バスティオン公園）内、宗教改革記念碑近くの無料公衆トイレ。車椅子対応。",
+    "target_audience": "どなたでも",
+    "access_conditions": "無料で自由にアクセス可能"
+  },
+  "r_0063": {
+    "description": "Plaine de Plainpalais（プランパレ広場）の蚤の市近くの無料公衆トイレ。市の定期的な清掃あり。",
+    "target_audience": "どなたでも",
+    "access_conditions": "無料で自由にアクセス可能"
+  },
+  "r_0064": {
+    "description": "Jardin Anglais（イギリス庭園）のHorloge Fleurie（花時計）近くの無料公共飲料水噴水。年間を通じて新鮮な水を提供。",
+    "target_audience": "どなたでも",
+    "access_conditions": "24時間自由にアクセス可能"
+  },
+  "r_0065": {
+    "description": "ジュネーヴ最古の広場にある無料公共飲料水噴水。常時、無料の飲料水を提供しています。",
+    "target_audience": "どなたでも",
+    "access_conditions": "24時間自由にアクセス可能"
+  },
+  "r_0066": {
+    "description": "Parc des Eaux-Vives（オー・ヴィーヴ公園）内、湖畔の無料公共飲料水噴水。散歩の際の水分補給に最適。",
+    "target_audience": "どなたでも",
+    "access_conditions": "24時間自由にアクセス可能"
+  },
+  "r_0067": {
+    "description": "Servette（セルヴェット）地区中心にある無料の市立図書館。大人用・子ども用の独立したスペース、書籍・メディアの貸し出し、無料WiFi、文化活動を提供。",
+    "target_audience": "どなたでも",
+    "access_conditions": "自由にアクセス可能、貸出には無料カードが必要"
+  },
+  "r_0068": {
+    "description": "Eaux-Vives（オー・ヴィーヴ）地区の無料市立図書館。大人用・子ども用スペース、書籍・メディアの貸し出し、無料WiFi。",
+    "target_audience": "どなたでも",
+    "access_conditions": "自由にアクセス可能、貸出には無料カードが必要"
+  },
+  "r_0069": {
+    "description": "Jonction（ジョンクション）地区の無料市立図書館。豊富な書籍コレクション、子ども向けスペース、イベント、無料WiFi。",
+    "target_audience": "どなたでも",
+    "access_conditions": "自由にアクセス可能、貸出には無料カードが必要"
+  },
+  "r_0070": {
+    "description": "国際色豊かなPaquis（パキ）地区にある無料市立図書館。多言語の書籍の貸し出し、無料WiFi、イベントを提供。",
+    "target_audience": "どなたでも",
+    "access_conditions": "自由にアクセス可能、貸出には無料カードが必要"
+  },
+  "r_0071": {
+    "description": "子どもと家族向けのボードゲーム、知育ゲーム、おもちゃの無料貸し出し。館内での遊びスペースあり。付き添いのある子どもなら誰でも利用可能。",
+    "target_audience": "子ども、家族、どなたでも",
+    "access_conditions": "登録・貸出ともに無料"
+  },
+  "r_0072": {
+    "description": "地域のおもちゃ図書館。ボードゲーム、おもちゃ、知育ゲームの無料貸し出し。楽しい遊びのスペースと遊びのワークショップ。",
+    "target_audience": "子ども、家族、どなたでも",
+    "access_conditions": "登録・貸出ともに無料"
+  },
+  "r_0073": {
+    "description": "Grottes（グロット）地区のコミュニティ菜園。共有区画、集団コンポスト、無料のガーデニングワークショップ。",
+    "target_audience": "地区住民、ガーデニング愛好家",
+    "access_conditions": "自由にアクセス可能、ワークショップは事前登録制"
+  },
+  "r_0074": {
+    "description": "Les Artichauts（レ・アルティショー）協会が運営するParc Beaulieu（ボーリュー公園）の参加型都市菜園。毎週土曜午後に初心者からベテランまで参加できる無料ガーデニングワークショップを開催。有機苗の生産も行っています。",
+    "target_audience": "地区住民、どなたでも",
+    "access_conditions": "自由にアクセス可能、無料ガーデニングワークショップは土曜14時～17時（2月中旬～10月末）"
+  },
+  "r_0075": {
+    "description": "労働者のための労働組合相談窓口。労働法に関するアドバイス、権利擁護、解雇や職場紛争時の支援。",
+    "target_audience": "全業種の労働者",
+    "access_conditions": "すべての労働者が対象、法律サービスには組合加入が必要"
+  },
+  "r_0076": {
+    "description": "業種横断型労働組合。法律相談窓口、労働権の擁護、団体交渉を行っています。",
+    "target_audience": "全セクターの労働者",
+    "access_conditions": "すべての労働者が対象、法律サービスには組合加入が必要"
+  },
+  "r_0077": {
+    "description": "刑事犯罪の被害者のための無料・機密の相談センター。心理的、法的、社会的サポート。緊急時の経済援助。",
+    "target_audience": "刑事犯罪の被害者とその家族",
+    "access_conditions": "無料・秘密厳守、予約制"
+  },
+  "r_0078": {
+    "description": "困難、不安、孤独を感じるすべての方のための24時間対応電話相談サービス。匿名、秘密厳守、無料で傾聴します。",
+    "target_audience": "苦痛、孤独、不安を感じるすべての方",
+    "access_conditions": "143番に電話、無料、匿名、秘密厳守、24時間対応"
+  },
+  "r_0079": {
+    "description": "子どもと若者のための24時間対応のヘルプライン。個人的、家庭、学校の問題について傾聴、助言、案内を行います。",
+    "target_audience": "25歳までの子どもと若者",
+    "access_conditions": "147番に電話、無料、匿名、秘密厳守、24時間対応"
+  },
+  "r_0080": {
+    "description": "性と生殖に関する健康の無料・秘密厳守の相談。避妊、妊娠、性感染症、カップルカウンセリング、性教育。緊急避妊は予約不要。",
+    "target_audience": "すべての方、特に若者と女性",
+    "access_conditions": "無料、秘密厳守、予約制（緊急避妊は予約不要）"
+  },
+  "r_0081": {
+    "description": "HUG（ジュネーヴ大学病院）での匿名・秘密厳守のHIV・性感染症検査。HIV迅速検査（55スイスフラン）、HIV/性感染症の総合検査（155スイスフラン）。陽性者向けのフォローアップ診療と治療。",
+    "target_audience": "HIV/性感染症の検査を希望するすべての方",
+    "access_conditions": "匿名検査は予約制（www.testvih.ch または電話にて）、HIV迅速検査は55スイスフランから"
+  },
+  "r_0082": {
+    "description": "Cite Generations（シテ・ジェネラション）健康センター（Onex（オネ）のクリニック・常設診療所）内の薬局。医薬品相談、治療フォローアップ、成人・小児の救急との連携。",
+    "target_audience": "どなたでも、シテ・ジェネラション健康センターの患者",
+    "access_conditions": "どなたでも利用可能、条件なし"
+  },
+  "r_0083": {
+    "description": "ホームレスの方のための緊急宿泊所の集中配置サービス。電話で宿泊場所を確保できます（Chatelaine（シャトレーヌ）防災シェルター、Richemont（リッシュモン）、各種団体のホームなど）。合計184床。",
+    "target_audience": "ホームレスの方、緊急時",
+    "access_conditions": "無料番号 0800 22 22 10 に電話して場所を確保、無条件受け入れ"
+  },
+  "r_0084": {
+    "description": "Servette（セルヴェット）寺院にある困窮状態の方のための無条件デイケアセンター。連帯食事、温かい飲み物、文書作成支援（履歴書、手紙）、フランス語・英語・情報技術のワークショップ、無料法律相談。",
+    "target_audience": "困窮状態の方、移民、ホームレスの方",
+    "access_conditions": "条件なし、無条件受け入れ"
+  },
+  "r_0085": {
+    "description": "レマン湖畔の象徴的な公衆浴場。砂浜、プール、飛び込み台（3～10m）、サウナ・ハマム、人気のバー。非常にお手頃な入場料（夏2スイスフラン、冬1スイスフラン）。",
+    "target_audience": "どなたでも",
+    "access_conditions": "公共スペースは無料、入場料は夏2スイスフラン、冬1スイスフラン"
+  },
+  "r_0086": {
+    "description": "家族連れに最適な湖畔の無料公共ビーチ。遊具、幼児用プール、緑地、スポーツコート。",
+    "target_audience": "家族、子ども、どなたでも",
+    "access_conditions": "無料で自由にアクセス可能"
+  },
+  "r_0087": {
+    "description": "Parc des Bastions（バスティオン公園）の無料公共スポーツ施設。巨大チェス、卓球台、ペタンク、屋外フィットネスコーナー。",
+    "target_audience": "どなたでも",
+    "access_conditions": "無料で自由にアクセス可能"
+  },
+  "r_0088": {
+    "description": "家族、社会、近隣、職場の紛争を解決するための無料調停サービス。刑事・民事・医療に関する調停。",
+    "target_audience": "ジュネーヴ市住民",
+    "access_conditions": "無料、予約制"
+  },
+  "r_0089": {
+    "description": "高齢者のための受け入れ・情報・活動スペース。無料のサービス案内、行政手続き支援、講座、ワークショップ、講演会、健康相談、世代間交流。",
+    "target_audience": "高齢者、退職者とそのご家族",
+    "access_conditions": "すべての高齢者とそのご家族が対象、自由に無料で利用可能"
+  },
+  "r_0090": {
+    "description": "Bibliotheque de la Cite（シテ図書館）内の無料コワーキングスペース。WiFi、電源コンセント、作業テーブル、静かな環境で仕事や勉強ができます。",
+    "target_audience": "学生、フリーランス、求職者、どなたでも",
+    "access_conditions": "無料で自由にアクセス可能、WiFi利用可能"
+  },
+  "r_0091": {
+    "description": "FRCジュネーヴが主催する無料の移動型修理ワークショップ。ボランティアの専門家が電子機器、衣類、自転車を修理します。定期開催（日時と場所はウェブサイトを確認）。",
+    "target_audience": "どなたでも",
+    "access_conditions": "無料で自由に参加可能、月1回土曜日（ウェブサイトを確認）"
+  },
+  "r_0092": {
+    "description": "Carouge（カルージュ）の無料修理ワークショップ。ボランティアが壊れた物の修理をお手伝い：小型家電、裁縫、情報機器、自転車。",
+    "target_audience": "どなたでも",
+    "access_conditions": "無料で自由に参加可能、月1回土曜日（ウェブサイトを確認）"
+  },
+  "r_0093": {
+    "description": "移民のための民族心理学的相談・研究センター。出身文化に合わせた心理療法、亡命や社会統合に伴うトラウマへの支援。",
+    "target_audience": "移民の方、異文化カップル、異文化間の状況にある家族",
+    "access_conditions": "予約制、移民および異文化間の方を対象とした相談"
+  },
+  "r_0094": {
+    "description": "Place de Neuve（ヌーヴ広場）の無料公衆トイレ。Grand Theatre（グラン・テアトル）およびMusee Rath（ラス美術館）付近。車椅子対応。",
+    "target_audience": "どなたでも",
+    "access_conditions": "無料で自由にアクセス可能"
+  },
+  "r_0095": {
+    "description": "ジュネーヴ最大の湖畔公園、Parc de la Grange（ラ・グランジュ公園）の無料飲料水噴水。年間を通じて新鮮な水を利用可能。",
+    "target_audience": "どなたでも",
+    "access_conditions": "24時間自由にアクセス可能"
+  },
+  "r_0096": {
+    "description": "Quai du Mont-Blanc（モンブラン通り）、Jet d'eau（大噴水）付近の無料公衆トイレ。年中利用可能。",
+    "target_audience": "どなたでも",
+    "access_conditions": "無料で自由にアクセス可能"
+  },
+  "r_0097": {
+    "description": "アルヴ川とローヌ川の合流点にある共有型都市菜園。パーマカルチャーワークショップ、集団コンポスト、参加型ガーデニング。",
+    "target_audience": "地区住民、どなたでも",
+    "access_conditions": "自由にアクセス可能、参加は申請により"
+  },
+  "r_0098": {
+    "description": "Cornavin（コルナヴァン）駅前の無料公共飲料水噴水。ジュネーヴ中心部で新鮮な水を無料で補給できるポイント。",
+    "target_audience": "どなたでも",
+    "access_conditions": "24時間自由にアクセス可能"
+  },
+  "r_0099": {
+    "description": "地域のおもちゃ図書館。全年齢向けのボードゲーム、パズル、おもちゃの無料貸し出し。家族向けの午後の遊び会を開催。",
+    "target_audience": "子ども、家族、どなたでも",
+    "access_conditions": "館内利用は無料、貸出は年間30スイスフランの会費が必要"
+  },
+  "r_0100": {
+    "description": "ジュネーヴ市提供のParc de la Grange（ラ・グランジュ公園）の無料WiFi。ジュネーヴで最も美しい公園のひとつで自由に接続可能。",
+    "target_audience": "どなたでも",
+    "access_conditions": "自由にアクセス可能"
+  },
+  "r_0101": {
+    "description": "LGBTIQ+コミュニティ支援協会。Checkpoint Geneve（チェックポイント・ジュネーヴ、HIV/性感染症検査と心理サポートのあるコミュニティ健康センター）、Le Refuge（若者LGBTIQ+の宿泊施設）、語り合いグループ、社会活動。",
+    "target_audience": "LGBTIQ+コミュニティおよび関係者",
+    "access_conditions": "どなたでも利用可能、無料・匿名の検査あり"
+  },
+  "r_0102": {
+    "description": "Saint-Jean（サン・ジャン）地区のコミュニティセンター。全年齢向けの各種活動、ワークショップ、語学講座、学習支援、文化イベントを開催。",
+    "target_audience": "サン・ジャン地区の住民、子ども、青少年、成人",
+    "access_conditions": "地区住民であればどなたでも利用可能"
+  },
+  "r_0103": {
+    "description": "がん患者とそのご家族向けの無料サポートと情報提供。心理腫瘍学的カウンセリング、語り合いグループ、社会的サポート。",
+    "target_audience": "がん患者とそのご家族",
+    "access_conditions": "無料、予約制"
+  },
+  "r_0104": {
+    "description": "精神的危機にある成人向けの危機的精神科相談および無料外来フォローアップ。HUG（ジュネーヴ大学病院）附属のサービス。",
+    "target_audience": "精神的危機にある成人",
+    "access_conditions": "無料、緊急度に応じて予約あり・なし"
+  },
+  "r_0105": {
+    "description": "糖尿病の方とそのご家族向けの無料サポート。栄養指導、交流グループ、疾患に関する情報提供。",
+    "target_audience": "糖尿病の方とそのご家族",
+    "access_conditions": "無料、予約制または電話相談窓口"
+  },
+  "r_0106": {
+    "description": "健康保険未加入者や困窮状態にある方向けのプライマリケア。一般診療と専門機関への案内。",
+    "target_audience": "健康保険未加入者または困窮状態にある方",
+    "access_conditions": "健康保険未加入者が利用可能、予約制"
+  },
+  "r_0107": {
+    "description": "ジュネーヴの在宅ケア機関。高齢者、病気の方、療養中の方への訪問看護、在宅支援、付き添いサービス。",
+    "target_audience": "在宅ケアが必要な高齢者、病気の方、療養中の方",
+    "access_conditions": "医師の処方箋または直接申請により"
+  },
+  "r_0108": {
+    "description": "アルツハイマー病患者のご家族・介護者向けの無料サポート。語り合いグループ、相談、専門サービスへの案内。",
+    "target_audience": "アルツハイマー病または認知症患者のご家族・介護者",
+    "access_conditions": "無料、予約制"
+  },
+  "r_0109": {
+    "description": "州立児童保護サービス。危険な状況の評価、保護措置、困難な状況にある家族のサポート。",
+    "target_audience": "危険な状態または困難な状況にある子どもと家族",
+    "access_conditions": "州のサービス、通報または申請によりアクセス"
+  },
+  "r_0110": {
+    "description": "困難を抱える若者への教育的サポートと学習支援。ワークショップ、教育的住居、社会復帰プログラム。",
+    "target_audience": "学習上、社会的、家庭的な困難を抱える若者",
+    "access_conditions": "SPMi（未成年者保護局）からの紹介または直接申請"
+  },
+  "r_0111": {
+    "description": "Parc de la Perle du Lac（ペルル・デュ・ラック公園）内にある0歳から6歳の子どもと付き添いの大人のための無料アートスペース。絵画、造形、音楽のワークショップ。",
+    "target_audience": "大人に付き添われた0歳から6歳の子ども",
+    "access_conditions": "無料、登録不要、大人の付き添いが必要"
+  },
+  "r_0112": {
+    "description": "0歳から4歳の親子のための受け入れスペース。自由遊びの場、親同士の交流、温かい雰囲気の中での子育て支援。",
+    "target_audience": "0歳から4歳の親子",
+    "access_conditions": "無料、登録不要、保護者の付き添いが必要"
+  },
+  "r_0113": {
+    "description": "子どもと家族向けのゲーム・おもちゃの無料貸し出し。全年齢向けのボードゲーム、知育ゲーム、おもちゃの豊富なコレクション。",
+    "target_audience": "子どもと家族",
+    "access_conditions": "登録無料、Carouge（カルージュ）住民はゲーム貸出無料"
+  },
+  "r_0114": {
+    "description": "ジュネーヴの無料自転車シェアリングサービス。日常の市内移動に利用できる通常自転車と電動自転車。",
+    "target_audience": "どなたでも",
+    "access_conditions": "無料、身分証明書とデポジットが必要"
+  },
+  "r_0115": {
+    "description": "低所得者向けのジュネーヴ公共交通機関の定期券割引。月間・年間定期券が最大50%割引。",
+    "target_audience": "ジュネーヴ州在住の低所得者",
+    "access_conditions": "収入条件あり、証明書が必要"
+  },
+  "r_0116": {
+    "description": "生活保護受給者の公共交通費の負担。TPG（ジュネーヴ公共交通）定期券が経済援助の一部として含まれます。",
+    "target_audience": "生活保護受給者",
+    "access_conditions": "Hospice general（オスピス・ジェネラル）の生活保護受給者限定"
+  },
+  "r_0117": {
+    "description": "Cornavin（コルナヴァン）駅で利用できるSBB-FREE無料WiFi。駅全体およびホームで無制限接続が可能。",
+    "target_audience": "どなたでも",
+    "access_conditions": "無料、SBB-FREEネットワーク、パスワード不要"
+  },
+  "r_0118": {
+    "description": "Jardin Anglais（イギリス庭園）で利用できるジュネーヴ市の無料WiFi。Jet d'eau（大噴水）と湖を望む屋外アクセスポイント。",
+    "target_audience": "どなたでも",
+    "access_conditions": "無料、ジュネーヴ市WiFiネットワーク"
+  },
+  "r_0119": {
+    "description": "Plaine de Plainpalais（プランパレ広場）で利用できるジュネーヴ市の無料WiFi。この大きな都市広場全体をカバー。",
+    "target_audience": "どなたでも",
+    "access_conditions": "無料、ジュネーヴ市WiFiネットワーク"
+  },
+  "r_0120": {
+    "description": "無料WiFiと一般開放の学習スペースを備えた大学施設。図書室、作業室、カフェテリアを利用可能。",
+    "target_audience": "学生およびワークスペースを求めるすべての方",
+    "access_conditions": "無料、施設内の公共スペースに自由にアクセス可能"
+  },
+  "r_0121": {
+    "description": "健康上の問題や障害を持つ方の職業復帰支援。個人的・職業的・社会的スキルの向上、キャリアプランの策定、企業研修、就職斡旋。",
+    "target_audience": "就職を希望する障害者や健康上の問題を持つ方",
+    "access_conditions": "無料、AI（障害保険）、失業保険、生活保護からの紹介により"
+  },
+  "r_0122": {
+    "description": "就職に困難を抱える未熟練・低熟練の女性のための研修スペース。フランス語、情報技術、基礎スキルの講座、自立と職業復帰に向けた支援。",
+    "target_audience": "困窮状態にある未熟練・低熟練の女性",
+    "access_conditions": "ほとんどの研修は無料、事務局での登録が必要"
+  },
+  "r_0123": {
+    "description": "25歳未満の若者のデュアルシステム見習い成功に向けた就職支援、および50歳以上の方の再就職支援。個別・グループのコーチング。",
+    "target_audience": "資格のない25歳未満の若者および求職中の50歳以上の方",
+    "access_conditions": "ジュネーヴ在住の25歳未満の若者および50歳以上の方は無料"
+  },
+  "r_0124": {
+    "description": "80以上の国内外の団体が集う、交流・情報・研修の場。イベント、会議、団体活動のための13の部屋を貸し出し。",
+    "target_audience": "団体および地区住民",
+    "access_conditions": "共有スペースは自由にアクセス可能、部屋は予約制"
+  },
+  "r_0125": {
+    "description": "全年齢向けの社会文化活動を提供する地域の生活拠点。創作ワークショップ、語学講座、地域イベント、カフェスペース。",
+    "target_audience": "Carouge（カルージュ）とその周辺の住民、全年齢",
+    "access_conditions": "自由にアクセス可能、一部の活動は事前登録制"
+  },
+  "r_0126": {
+    "description": "子ども、青少年、成人向けの活動を提供するVernier（ヴェルニエ）のコミュニティスペース。学習支援、ワークショップ、外出イベント、異文化交流イベント。",
+    "target_audience": "ヴェルニエ住民、全年齢",
+    "access_conditions": "自由にアクセス可能、一部の活動は事前登録制"
+  },
+  "r_0127": {
+    "description": "性暴力被害者のための相談・サポートライン。秘密厳守の環境での心理的、法的、社会的支援。",
+    "target_audience": "性暴力の被害者、主に女性およびLGBTIQ+の方",
+    "access_conditions": "無料・秘密厳守、予約あり・なしどちらでも"
+  },
+  "r_0128": {
+    "description": "移民女性の支援・自立促進協会。フランス語講座、社会統合ワークショップ、心理カウンセリング、コミュニティサポート。",
+    "target_audience": "移民・難民の女性",
+    "access_conditions": "無料または象徴的な費用、講座は事前登録が必要"
+  },
+  "r_0129": {
+    "description": "困難な状況にある妊婦への支援とサポート。傾聴、物資支援（ベビー服、ベビーカー）、助言、社会福祉サービスへの案内。",
+    "target_audience": "困難な状況にある妊婦と若い母親",
+    "access_conditions": "無料、予約制または電話相談窓口"
+  },
+  "r_0130": {
+    "description": "自立度が低下した高齢者のためのデイケア。適切な活動、食事、ケアを提供し、介護者の休息をサポート。",
+    "target_audience": "自立度が低下した高齢者とその介護者",
+    "access_conditions": "医師の処方箋が必要、収入に応じた自己負担あり"
+  },
+  "r_0131": {
+    "description": "ジュネーヴ州の介護者向けのサポートと案内。傾聴、助言、語り合いグループ、既存リソースとのネットワーク構築。",
+    "target_audience": "高齢者、病気の方、障害者の介護をするご家族",
+    "access_conditions": "無料、予約あり・なしどちらでも"
+  },
+  "r_0132": {
+    "description": "語学、情報技術、文化、自己啓発など多分野にわたる成人向け無料または低料金の講座。学歴不問でどなたでも参加可能。",
+    "target_audience": "学歴不問、あらゆる背景の成人",
+    "access_conditions": "無料または低料金、学期ごとに登録"
+  },
+  "r_0133": {
+    "description": "国際機関・団体向けのリソースセンター。会議室、コワーキングスペース、事務支援サービスを提供。",
+    "target_audience": "団体、NGO、国際機関",
+    "access_conditions": "共有スペースは自由にアクセス可能、会議室は予約制"
+  },
+  "r_0134": {
+    "description": "外国人向けの無料法律相談。外国人法、庇護、家族呼び寄せ、滞在許可に関する問題を取り扱います。",
+    "target_audience": "ジュネーヴ州在住の外国人",
+    "access_conditions": "無料、予約不要、先着順"
+  },
+  "r_0135": {
+    "description": "庇護法・外国人法を専門とする無料の法律相談窓口。助言、手続き支援、不服申し立ての作成。",
+    "target_audience": "庇護申請者、難民、申請却下者",
+    "access_conditions": "無料、詳細な相談は予約制"
+  },
+  "r_0136": {
+    "description": "障害者とそのご家族向けの無料の相談・支援。行政手続き支援、職業指導、社会的サポート。",
+    "target_audience": "障害者とそのご家族",
+    "access_conditions": "無料、予約制"
+  },
+  "r_0137": {
+    "description": "入場無料の自然史博物館。動物学、鉱物学、古生物学のコレクション。企画展と子ども向け活動も開催。",
+    "target_audience": "どなたでも、家族、学校団体",
+    "access_conditions": "常設展は入場無料"
+  },
+  "r_0138": {
+    "description": "常設展が無料のジュネーヴ最大の博物館。先史時代から現代アートまでの美術、工芸、考古学。",
+    "target_audience": "どなたでも、美術・歴史愛好家",
+    "access_conditions": "常設展は無料、企画展は有料"
+  },
+  "r_0139": {
+    "description": "入場無料のスイス陶磁器・ガラス博物館。Palais des Nations（国連欧州本部）の向かい、ネオバロック様式の建物に収められた優れたコレクション。",
+    "target_audience": "どなたでも、装飾美術愛好家",
+    "access_conditions": "常設展は入場無料"
+  },
+  "r_0140": {
+    "description": "人道支援活動をテーマとした博物館。水曜午後は入場無料。人道支援の歴史と現在の課題に関するインタラクティブな展示。",
+    "target_audience": "どなたでも、人道支援の歴史に興味のある方",
+    "access_conditions": "水曜午後（16時～18時）入場無料、割引料金あり"
+  },
+  "r_0141": {
+    "description": "低所得住民向けの割引料金がある市営水泳プール。オリンピックサイズのプール、初心者用プール、ウェルネスエリア。",
+    "target_audience": "どなたでも、低所得住民は割引料金",
+    "access_conditions": "Cite Seniors（シテ・シニア）カードまたは健康保険の助成により割引料金"
+  },
+  "r_0142": {
+    "description": "書籍、DVD、CD、無料インターネットを提供する自由に利用できる市立メディアテーク。文化イベント、おはなし会、快適な読書スペース。",
+    "target_audience": "どなたでも、地区の読書家・家族",
+    "access_conditions": "自由に無料でアクセス可能、貸出には無料登録が必要"
+  },
+  "r_0143": {
+    "description": "困窮状態にある方に無料の夕食を提供する連帯レストラン。回収された余剰食材を使った美食料理。Food for Soulとの提携でMater Fondazioneが運営。",
+    "target_audience": "食料困窮状態にある方",
+    "access_conditions": "無料の夕食、パートナー団体からの紹介"
+  },
+  "r_0144": {
+    "description": "資源のない方に無料の昼食を提供する炊き出し。さまざまな慈善団体が1日250食以上を提供。Cornavin（コルナヴァン）駅裏の交流の場。",
+    "target_audience": "資源のない方、ホームレスの方",
+    "access_conditions": "条件なし、困窮するすべての方に開放"
+  },
+  "r_0145": {
+    "description": "無料の温かい食事、シャワー、傾聴、案内を提供する緊急デイケアセンター。孤立、排除、社会的周縁化に直面する方への無条件受け入れ。CARE = Caritas Accueil Rencontre Echange。",
+    "target_audience": "困窮、排除、孤立状態にある方",
+    "access_conditions": "条件なし、成人の方への無条件受け入れ"
+  },
+  "r_0146": {
+    "description": "ホームレスの方に避難所を提供する緊急宿泊施設。無料の朝食と夕食。滞在期間の制限なし。冬季は日中も滞在可能。女性専用スペースあり。",
+    "target_audience": "ホームレスの方、単身女性または子ども連れの女性",
+    "access_conditions": "申請による宿泊、10～20床、期間制限なし"
+  },
+  "r_0147": {
+    "description": "ジュネーヴ市の緊急夜間シェルター。ベッド、夕食、荷物預かり、シャワーを無料で提供。滞在期間は30日まで。",
+    "target_audience": "ホームレスの方",
+    "access_conditions": "緊急宿泊集中管理センター 0800 22 22 10（無料）に電話。滞在期間は30日まで。"
+  },
+  "r_0148": {
+    "description": "健康保険未加入者や在留資格のない方のための無料・秘密厳守の診療。初期診療、医師・看護師による診察、専門サービスへの紹介。年間4,500人以上の患者を受け入れ。",
+    "target_audience": "健康保険未加入者、在留資格のない方、ホームレスの方",
+    "access_conditions": "16歳以上、在留資格不問、保険なしでも可、無料・秘密厳守"
+  },
+  "r_0149": {
+    "description": "性の健康を専門とするLGBTIQ+コミュニティ健康センター。HIV/性感染症の無料・匿名検査、治療、ワクチン接種、心理カウンセリング。Dialogaiが運営。",
+    "target_audience": "LGBTIQ+コミュニティおよび性の健康に関心のあるすべての方",
+    "access_conditions": "月曜・木曜は予約不要で無料・匿名の検査が可能"
+  },
+  "r_0150": {
+    "description": "低所得者向けに格安の基本的歯科治療を提供する歯科診療所。歯科医の診察40スイスフラン、歯科衛生士20スイスフラン。ボランティアの歯科医師・歯科衛生士が対応。",
+    "target_audience": "生活保護を受けていない低所得労働者および低所得者",
+    "access_conditions": "社会福祉相談窓口を通じて予約。低所得者限定。"
+  },
+  "r_0151": {
+    "description": "HIV、肝炎、性感染症対策に取り組む協会。初回無料の心理カウンセリング、秘密厳守の検査、HIV陽性者への法的・社会的相談。",
+    "target_audience": "HIV、性感染症、肝炎に関係する方",
+    "access_conditions": "初回心理カウンセリングは無料。秘密厳守の検査。"
+  },
+  "r_0152": {
+    "description": "社会的排除にある女性への社会的・職業的支援。行政手続き支援、権利に関する情報、職業再指導。電話相談と支援を提供。",
+    "target_audience": "社会的または職業的に排除されている女性",
+    "access_conditions": "無料、指定の時間帯に電話相談窓口あり"
+  },
+  "r_0153": {
+    "description": "暴力や人身売買の被害を受けた女性のためのシェルター（子ども連れも可）。約30名の女性を受け入れる心理社会的フォローアップ付きの居住型施設。フランス語講座と職業訓練も実施。",
+    "target_audience": "暴力や人身売買の被害を受けた女性（子ども連れも可）",
+    "access_conditions": "電話受付 8時30分～12時。緊急宿泊は24時間対応。"
+  },
+  "r_0154": {
+    "description": "セックスワーカーの権利を擁護する連帯協会。受け入れ、傾聴、心理社会的サポート、法的サービス、行政支援、性感染症予防、予防用品の提供。",
+    "target_audience": "セックスワーカー",
+    "access_conditions": "指定の時間帯に予約不要。偏見のない受け入れ。"
+  },
+  "r_0155": {
+    "description": "進路指導、研修、就職に関する無料の情報・相談スペース。予約不要で相談員が対応。テーマ別ワークショップ：スキル評価、履歴書、面接練習、転職。",
+    "target_audience": "進路指導、研修、就職を探している若者と成人",
+    "access_conditions": "無料、予約不要、自由にアクセス可能"
+  },
+  "r_0156": {
+    "description": "15歳から25歳の若者の社会・職業的統合を支援する協会。短期の仕事、個別サポート、職業準備研修、就職・進学に向けた支援。",
+    "target_audience": "就職または進学を目指す15歳から25歳の若者",
+    "access_conditions": "無料、ウェブサイトまたは来所で登録"
+  },
+  "r_0157": {
+    "description": "1986年から庇護権を擁護する独立協会。難民への無料法律支援と代理人活動。月曜日に予約不要の相談あり。庇護手続き全体を通じた支援。",
+    "target_audience": "庇護申請者と難民",
+    "access_conditions": "無料、月曜日に予約不要の相談あり"
+  },
+  "r_0158": {
+    "description": "すべての女性（シスジェンダー、トランスジェンダー、バイセクシュアル、クィア）に開かれたレズビアン・フェミニスト協会。受け入れ、傾聴、情報、連帯。活動：映画クラブ、パーティー、講演会、スポーツ。",
+    "target_audience": "レズビアン、バイセクシュアル、トランスジェンダー、クィアの女性",
+    "access_conditions": "すべての女性が条件なしで参加可能"
+  },
+  "r_0159": {
+    "description": "困難を抱えるLGBTIQ+の若者のための受け入れ、傾聴、サポートスペース。個別カウンセリング、サポートグループ、匿名オンラインチャット、18歳以上は3～6ヶ月の宿泊施設あり。",
+    "target_audience": "LGBTIQ+の若者とその周囲の方",
+    "access_conditions": "予約あり・なしどちらでも、匿名オンラインチャットあり"
+  },
+  "r_0160": {
+    "description": "性的多様性とジェンダーの多様性を支援する協会。LGBTIQ+の方への受け入れ、情報、傾聴、案内。スイス・ロマンド唯一の法律サービス。グループ：Trans*、ホモペアレント、Bi、Tamalou（シニア）。",
+    "target_audience": "LGBTIQ+の方とそのご家族",
+    "access_conditions": "予約不要で自由に利用可能"
+  },
+  "r_0161": {
+    "description": "アルコール依存の方とそのご家族への予防・支援協会。専門カウンセリング、外来治療、サポートグループ、週末プログラム。",
+    "target_audience": "アルコール依存に関係する方とそのご家族",
+    "access_conditions": "自由に利用可能、無料"
+  },
+  "r_0162": {
+    "description": "薬物依存者のためのデイセンター。受け入れ、傾聴、食事、活動、治療への導入支援。ARGOS協会は社会復帰のための居住型センターも運営。",
+    "target_audience": "薬物依存者",
+    "access_conditions": "自由に利用可能、予約不要"
+  },
+  "r_0163": {
+    "description": "FEGPA（アルコール・大麻）、CIPRET（タバコ）、RNVP（ゲーム・スクリーン）を統合した予防センター。依存症に関係するすべての方とそのご家族に、無料・秘密厳守の相談を提供。",
+    "target_audience": "依存症に関係するすべての方、若者、ご家族",
+    "access_conditions": "無料・秘密厳守の相談、予約制"
+  },
+  "r_0164": {
+    "description": "知的障害者の親・友人の会。情報、助言、家族へのサポート。レジャー活動、介護者休息のための週末、バケーション。権利擁護活動。",
+    "target_audience": "知的障害者とそのご家族",
+    "access_conditions": "電話またはメールでお問い合わせ"
+  },
+  "r_0165": {
+    "description": "スイス最大の障害者支援団体。社会保険（AI、APG）に関する無料法律相談。障害のある子どもたちの交流活動。",
+    "target_audience": "障害者",
+    "access_conditions": "会員は法律相談無料"
+  },
+  "r_0166": {
+    "description": "高齢者の活動的で自立した生活を促進する協会。講座、ワークショップ、外出、講演会、スポーツなど多彩な活動。「ここの先輩、あちらの先輩」プログラムで社会統合を支援。",
+    "target_audience": "50歳以上の方",
+    "access_conditions": "50歳以上の方が対象"
+  },
+  "r_0167": {
+    "description": "庇護申請者と難民に寄り添い、傾聴、支援を提供するエキュメニカルチャプレンシー。フランス語講座、情報技術講座、交流食事会、スポーツ・文化活動。",
+    "target_audience": "ジュネーヴの庇護申請者と難民",
+    "access_conditions": "すべての庇護申請者と難民が対象"
+  },
+  "r_0168": {
+    "description": "LGBTIQ+の難民の受け入れとサポート。elisa-asileとの協力による法律相談窓口、支援、啓発活動。",
+    "target_audience": "LGBTIQ+の難民・庇護申請者",
+    "access_conditions": "LGBTIQ+の難民または庇護申請者であればどなたでも"
+  },
+  "r_0169": {
+    "description": "無料の市立おもちゃ図書館（現地プレイ可）。2階建てでクラシックおよび協力型ボードゲームあり。年間ファミリー会員（30 CHF）でゲームの貸出可能。スタッフがアドバイスに対応。",
+    "target_audience": "子ども、家族、地域の施設",
+    "access_conditions": "現地プレイ無料。貸出は年間ファミリー会員（30 CHF）が必要。6歳未満の子どもは大人の同伴が必要。"
+  },
+  "r_0170": {
+    "description": "Manège en Ville内にある無料の市立おもちゃ図書館（現地プレイ可）。約1000種のボードゲーム、ビデオゲーム、全年齢向けおもちゃ。ファミリー会員（30 CHF/年）で貸出可能。トーナメントやイベントを開催。",
+    "target_audience": "子ども、家族、全年齢（乳児から大人まで）",
+    "access_conditions": "現地プレイ無料。貸出は年間ファミリー会員（30 CHF）が必要。6歳未満の子どもは大人の同伴が必要。"
+  },
+  "r_0171": {
+    "description": "困難な状況にある女性、ホームレスの女性、子どもを持つ難民女性のための緊急シェルター。無条件受入30名分、社会扶助を受ける女性21名分。個室またはツインルーム、1日3食、洗濯設備、社会的支援。",
+    "target_audience": "ホームレスの女性、困難な状況にある女性、子どもを持つ難民女性",
+    "access_conditions": "ジュネーブ緊急シェルターホットライン（0800 22 22 10、月〜金 10:30〜20:00、土日 15:00〜20:00）に連絡。直接の予約は不可。"
+  },
+  "tag": {
+    "143": "143",
+    "147": "147",
+    "15-25 ans": "15〜25歳",
+    "24h": "24時間",
+    "50+": "50歳以上",
+    "AI": "AI（障害保険）",
+    "AVS": "AVS（老齢年金）",
+    "Belle-Idée": "Belle-Idee",
+    "CFF": "CFF（スイス鉄道）",
+    "CV": "履歴書",
+    "Carouge": "Carouge",
+    "Cité Générations": "Cite Generations",
+    "Cornavin": "Cornavin",
+    "Croix-Rouge": "赤十字",
+    "FLE": "FLE（外国語フランス語）",
+    "FRC": "FRC",
+    "HUG": "HUG（大学病院）",
+    "Hospice général": "Hospice general",
+    "IST": "性感染症",
+    "LAVI": "LAVI（被害者支援）",
+    "LGBT": "LGBT",
+    "LGBTIQ+": "LGBTIQ+",
+    "Onex": "Onex",
+    "Plainpalais": "Plainpalais",
+    "SBB": "SBB",
+    "SIT": "SIT",
+    "SOS": "SOS",
+    "TPAE": "TPAE",
+    "TPG": "TPG（公共交通）",
+    "UNIA": "UNIA",
+    "VIH": "HIV",
+    "Vernier": "Vernier",
+    "abri": "シェルター",
+    "accessibilité": "アクセシビリティ",
+    "accompagnement": "支援",
+    "accueil": "受け入れ",
+    "accueil de jour": "デイケア",
+    "activités": "活動",
+    "addiction": "依存症",
+    "administratif": "行政手続き",
+    "administration": "行政",
+    "adolescents": "青少年",
+    "adultes": "成人",
+    "aide": "援助",
+    "aide financière": "経済的支援",
+    "aide matérielle": "物資支援",
+    "aide sociale": "生活保護",
+    "aide à domicile": "在宅支援",
+    "alcool": "アルコール",
+    "alimentaire": "食料",
+    "allaitement": "授乳",
+    "alzheimer": "アルツハイマー",
+    "anonyme": "匿名",
+    "anti-gaspillage": "食品ロス削減",
+    "antigaspillage": "食品ロス削減",
+    "apprentissage": "見習い",
+    "archéologie": "考古学",
+    "armée du salut": "救世軍",
+    "art": "芸術",
+    "artichauts": "Artichauts",
+    "arts": "芸術",
+    "asile": "庇護",
+    "associations": "団体",
+    "assurance": "保険",
+    "assurances sociales": "社会保険",
+    "ateliers": "ワークショップ",
+    "autonomie": "自立",
+    "autonomisation": "自立支援",
+    "avocats": "弁護士",
+    "bail": "賃貸契約",
+    "bains": "浴場",
+    "banque": "銀行",
+    "bas prix": "低価格",
+    "bas seuil": "低閾値",
+    "bateau": "船",
+    "beaulieu": "Beaulieu",
+    "bibliothèque": "図書館",
+    "bien-être": "ウェルビーイング",
+    "bébé": "赤ちゃん",
+    "bénévoles": "ボランティア",
+    "café": "カフェ",
+    "cancer": "がん",
+    "cannabis": "大麻",
+    "cantonal": "州",
+    "caritas": "カリタス",
+    "carouge": "Carouge",
+    "carrière": "キャリア",
+    "centrale": "集中管理",
+    "centre-ville": "市中心部",
+    "chômage": "失業",
+    "citoyenneté": "市民権",
+    "coaching": "コーチング",
+    "colis": "食料パック",
+    "collecte": "回収",
+    "communautaire": "コミュニティ",
+    "communauté": "コミュニティ",
+    "compétences": "スキル",
+    "confidentiel": "秘密厳守",
+    "conflits": "紛争",
+    "conférences": "講演会",
+    "conseil": "相談",
+    "conseils": "アドバイス",
+    "consultation": "診察",
+    "contraception": "避妊",
+    "cornavin": "Cornavin",
+    "cours": "講座",
+    "coworking": "コワーキング",
+    "crise": "危機",
+    "croix-rouge": "赤十字",
+    "crèche": "託児所",
+    "créativité": "創造性",
+    "culture": "文化",
+    "curatelle": "後見",
+    "céramique": "陶磁器",
+    "dentaire": "歯科",
+    "diabète": "糖尿病",
+    "distribution": "配布",
+    "diversité": "多様性",
+    "divorce": "離婚",
+    "diététique": "栄養指導",
+    "domicile": "自宅",
+    "douche": "シャワー",
+    "douches": "シャワー",
+    "drogue": "薬物",
+    "drogues": "薬物",
+    "droit": "法律",
+    "droit des étrangers": "外国人法",
+    "droits": "権利",
+    "démence": "認知症",
+    "dépendance": "依存",
+    "dépistage": "検査",
+    "détresse": "苦痛",
+    "eau potable": "飲料水",
+    "eaux-vives": "Eaux-Vives",
+    "emploi": "就職",
+    "enfance": "幼児期",
+    "enfants": "子ども",
+    "espace partagé": "共有スペース",
+    "espace travail": "ワークスペース",
+    "ethnopsychologie": "民族心理学",
+    "extérieur": "屋外",
+    "factures": "請求書",
+    "famille": "家族",
+    "familles": "家族",
+    "femmes": "女性",
+    "femmes migrantes": "移民女性",
+    "financière": "経済的",
+    "fitness": "フィットネス",
+    "fontaine": "噴水",
+    "formation": "研修",
+    "fr": "仏語",
+    "français": "フランス語",
+    "français professionnel": "ビジネスフランス語",
+    "frigo": "冷蔵庫",
+    "féministe": "フェミニスト",
+    "garderie": "託児",
+    "gare": "駅",
+    "gastronomique": "美食",
+    "grange": "Grange",
+    "gratuit": "無料",
+    "grossesse": "妊娠",
+    "groupe": "グループ",
+    "handicap": "障害",
+    "handicap mental": "知的障害",
+    "histoire": "歴史",
+    "hiver": "冬",
+    "humanitaire": "人道支援",
+    "hydratation": "水分補給",
+    "hygiène": "衛生",
+    "hébergement": "宿泊",
+    "infirmiers": "看護師",
+    "information": "情報",
+    "informatique": "情報技術",
+    "infractions": "犯罪",
+    "insertion": "社会復帰",
+    "interactif": "インタラクティブ",
+    "interculturel": "異文化間",
+    "international": "国際",
+    "internet": "インターネット",
+    "intégration": "社会統合",
+    "invendus": "売れ残り品",
+    "jardin": "庭園",
+    "jeu": "ゲーム",
+    "jeunes": "若者",
+    "jeunesse": "青少年",
+    "jeux": "ゲーム",
+    "jonction": "Jonction",
+    "jouets": "おもちゃ",
+    "jour": "日中",
+    "juridique": "法律",
+    "lac": "湖",
+    "langues": "語学",
+    "laverie": "洗濯",
+    "lesbienne": "レズビアン",
+    "libre-service": "セルフサービス",
+    "licenciement": "解雇",
+    "livres": "書籍",
+    "locataires": "賃借人",
+    "logement": "住居",
+    "loisirs": "レジャー",
+    "loyer": "家賃",
+    "ludothèque": "おもちゃ図書館",
+    "maintien à domicile": "在宅ケア",
+    "maladie chronique": "慢性疾患",
+    "maraude": "巡回",
+    "maternité": "母性",
+    "meubles": "家具",
+    "midi": "昼",
+    "migrantes": "移民女性",
+    "migrants": "移民",
+    "migration": "移住",
+    "mineurs": "未成年者",
+    "mobile": "移動型",
+    "mobilité": "移動支援",
+    "molard": "Molard",
+    "multilingue": "多言語",
+    "musée": "博物館",
+    "médecin": "医師",
+    "médecine générale": "一般診療",
+    "médiathèque": "メディアテーク",
+    "médiation": "調停",
+    "médicaments": "医薬品",
+    "natation": "水泳",
+    "nature": "自然",
+    "nuit": "夜間",
+    "offres": "求人",
+    "orientation": "案内",
+    "parc": "公園",
+    "parc de la grange": "ラ・グランジュ公園",
+    "parentalité": "子育て",
+    "parents": "親",
+    "parents-enfants": "親子",
+    "partage": "共有",
+    "permaculture": "パーマカルチャー",
+    "permanence": "相談窓口",
+    "permis": "許可証",
+    "personnes âgées": "高齢者",
+    "petite enfance": "乳幼児期",
+    "petits boulots": "短期の仕事",
+    "petits-déjeuners": "朝食",
+    "pharmacie": "薬局",
+    "piscine": "プール",
+    "place de neuve": "Place de Neuve",
+    "plage": "ビーチ",
+    "plaine": "広場",
+    "plainpalais": "Plainpalais",
+    "planning familial": "家族計画",
+    "plein air": "屋外",
+    "ponctuel": "一時的",
+    "potager": "菜園",
+    "prestations": "給付",
+    "prix réduits": "割引価格",
+    "pro juventute": "Pro Juventute",
+    "proches aidants": "家族介護者",
+    "protection": "保護",
+    "précarité": "困窮",
+    "prévention": "予防",
+    "prêt": "貸出",
+    "psychiatrie": "精神科",
+    "psycho-oncologie": "心理腫瘍学",
+    "psychologie": "心理学",
+    "psychologique": "心理的",
+    "psychologue": "心理士",
+    "psychopédagogique": "心理教育",
+    "public": "公共",
+    "pâquis": "Paquis",
+    "quai": "河岸通り",
+    "quartier": "地区",
+    "reconversion": "転職",
+    "recours": "不服申立",
+    "redistribution": "再配布",
+    "refuge": "避難所",
+    "repair café": "リペアカフェ",
+    "repas": "食事",
+    "repos": "休憩",
+    "ressources": "リソース",
+    "restaurant": "レストラン",
+    "récupération": "回収",
+    "réduction": "削減",
+    "réduction des risques": "ハームリダクション",
+    "réfugiés": "難民",
+    "réinsertion": "社会復帰",
+    "réorientation": "再指導",
+    "réparation": "修理",
+    "répit": "介護休息",
+    "réseau": "ネットワーク",
+    "résolution": "解決",
+    "réunions": "会合",
+    "sages-femmes": "助産師",
+    "saint-jean": "Saint-Jean",
+    "sans assurance": "保険なし",
+    "sans rendez-vous": "予約不要",
+    "sans-abri": "ホームレス",
+    "sans-papiers": "非正規滞在者",
+    "santé": "健康",
+    "santé mentale": "メンタルヘルス",
+    "santé sexuelle": "性の健康",
+    "sauna": "サウナ",
+    "sciences": "科学",
+    "seconde main": "中古",
+    "seniors": "高齢者",
+    "servette": "Servette",
+    "social": "社会的",
+    "socioculturel": "社会文化",
+    "soins": "ケア",
+    "soins à domicile": "在宅ケア",
+    "solidaire": "連帯",
+    "soupe": "スープ",
+    "soupe populaire": "炊き出し",
+    "soutien": "サポート",
+    "soutien scolaire": "学習支援",
+    "sport": "スポーツ",
+    "stages": "研修",
+    "substitution": "代替療法",
+    "suicide": "自殺",
+    "syndicat": "労働組合",
+    "sécheron": "Secheron",
+    "tabac": "タバコ",
+    "tarif réduit": "割引料金",
+    "tarif social": "社会料金",
+    "toilettes": "トイレ",
+    "toxicodépendance": "薬物依存",
+    "traite": "人身売買",
+    "traitement": "治療",
+    "trans": "トランスジェンダー",
+    "transport": "交通",
+    "travail": "労働",
+    "travail du sexe": "セックスワーク",
+    "travailleurs pauvres": "ワーキングプア",
+    "tutelle": "保佐",
+    "téléphone": "電話",
+    "université": "大学",
+    "urbain": "都市",
+    "urgence": "緊急",
+    "verre": "ガラス",
+    "vestiaire": "衣類配布",
+    "victimes": "被害者",
+    "vie associative": "団体活動",
+    "vieille ville": "旧市街",
+    "ville": "市",
+    "violence": "暴力",
+    "violence conjugale": "家庭内暴力",
+    "violences": "暴力",
+    "violences sexuelles": "性暴力",
+    "vélos": "自転車",
+    "vêtements": "衣類",
+    "wifi": "WiFi",
+    "écologie": "エコロジー",
+    "écologique": "環境配慮",
+    "écoute": "傾聴",
+    "éducation": "教育",
+    "épicerie": "食料品店",
+    "étrangers": "外国人",
+    "étude": "学習",
+    "étudier": "勉強"
+  }
+}

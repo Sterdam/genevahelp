@@ -90,10 +90,10 @@ export function ResourceDetail({ resource, onClose }: ResourceDetailProps) {
       {/* Mobile: Bottom sheet */}
       <div className="sm:hidden fixed inset-0 z-40 pointer-events-none">
         <div
-          className="absolute inset-0 bg-black/30 pointer-events-auto animate-fade-in"
+          className="absolute inset-0 bg-black/30 backdrop-blur-sm pointer-events-auto animate-fade-in"
           onClick={onClose}
         />
-        <div className="absolute bottom-0 left-0 right-0 bg-white rounded-t-2xl shadow-2xl pointer-events-auto animate-slide-up max-h-[90vh] flex flex-col">
+        <div className="absolute bottom-0 left-0 right-0 bg-white rounded-t-2xl shadow-2xl ring-1 ring-black/5 pointer-events-auto animate-slide-up flex flex-col" style={{ maxHeight: 'min(85dvh, calc(100vh - env(safe-area-inset-top, 20px) - 20px))' }}>
           <div className="flex justify-center pt-2 pb-1">
             <div className="w-10 h-1 bg-gray-300 rounded-full" />
           </div>
@@ -134,7 +134,7 @@ function DetailHeader({ resource, config, Icon, t, onClose, mobile }: DetailHead
           {resource.name}
         </h2>
         <div className="flex items-center gap-2 mt-1 flex-wrap">
-          <Badge color={config.color}>{config.label}</Badge>
+          <Badge color={config.color}>{t(`categories.${resource.category}`)}</Badge>
           {resource.verified && (
             <Badge className="bg-green-100 text-green-700">
               <CheckCircle size={iconSize} />
@@ -270,7 +270,7 @@ function DetailContent({ resource, config, t, openDirections }: DetailContentPro
 
           {/* No contact at all */}
           {!hasContact && (
-            <p className="text-xs text-gray-400 italic">Pas de contact disponible</p>
+            <p className="text-xs text-gray-400 italic">{t('adminExtra.noContact')}</p>
           )}
         </div>
       </div>

@@ -1,0 +1,1214 @@
+{
+  "r_0001": {
+    "description": "Ugawaji wa chakula bila malipo kwa watu walio katika hali ngumu. Milo ya moto hutolewa wakati wa mchana na jioni. Mapokezi bila masharti.",
+    "target_audience": "Mtu yeyote aliye katika hali ngumu",
+    "access_conditions": "Bila masharti, wazi kwa wote"
+  },
+  "r_0002": {
+    "description": "Ushauri wa kisheria bila malipo unaotolewa na Chama cha Mawakili cha Geneva. Ushauri wa kwanza wa kisheria bila miadi kwa swali lolote la kisheria.",
+    "target_audience": "Mtu yeyote anayehitaji ushauri wa kisheria",
+    "access_conditions": "Bila miadi, wa kwanza kufika ndiye wa kwanza kuhudumiwa"
+  },
+  "r_0003": {
+    "description": "Jokofu la kujihudumia ambapo mtu yeyote anaweza kuweka au kuchukua chakula bila malipo. Kupambana na upotevu wa chakula.",
+    "target_audience": "Umma wote",
+    "access_conditions": "Upatikanaji wa bure masaa 24/7"
+  },
+  "r_0004": {
+    "description": "Duka la mshikamano na ugawaji wa nguo. Msaada wa kijamii kwa watu walio katika matatizo ya kifedha. Msaada wa chakula na nguo.",
+    "target_audience": "Watu wenye mapato ya chini",
+    "access_conditions": "Kwa kuonyesha uthibitisho wa mapato ya chini"
+  },
+  "r_0005": {
+    "description": "Ushauri wa kisheria na kijamii bila malipo. Msaada wa kiutawala, ushauri kuhusu sheria ya wageni, sheria ya kazi na bima za kijamii.",
+    "target_audience": "Mtu yeyote aliye katika matatizo ya kisheria au kiutawala",
+    "access_conditions": "Kwa miadi, ushauri wa kwanza bila malipo"
+  },
+  "r_0006": {
+    "description": "Huduma za afya, msaada wa kijamii na usaidizi kwa watu walio hatarini. Programu za msaada kwa wahamiaji na wakimbizi.",
+    "target_audience": "Watu walio hatarini, wahamiaji, wakimbizi",
+    "access_conditions": "Kulingana na programu, baadhi kwa miadi"
+  },
+  "r_0007": {
+    "description": "Ugawaji wa vifurushi vya chakula kwa wiki kwa familia na watu walio katika hali ngumu. Bidhaa safi na za msingi.",
+    "target_audience": "Familia na watu wenye mapato ya chini",
+    "access_conditions": "Kwa usajili, na uthibitisho wa hali ya kifedha"
+  },
+  "r_0008": {
+    "description": "Taasisi ya kantoni ya msaada wa kijamii. Msaada wa kifedha, usaidizi wa kijamii, msaada wa makazi na ujumuishaji wa kitaaluma.",
+    "target_audience": "Wakaazi wa Geneva walio katika matatizo ya kifedha",
+    "access_conditions": "Kwa miadi, wakaazi wa kantoni ya Geneva"
+  },
+  "r_0009": {
+    "description": "Upatikanaji wa bure wa kuoga, mashine za kufulia na kukausha. Eneo la usafi kwa watu wasio na makazi au walio katika hali ngumu.",
+    "target_audience": "Watu wasio na makazi, watu walio katika hali ngumu",
+    "access_conditions": "Bila masharti, upatikanaji wa bure"
+  },
+  "r_0010": {
+    "description": "Mashauriano ya matibabu bila malipo kwa watu wasio na bima ya afya. Matibabu ya awali, mwelekeo na usaidizi wa afya.",
+    "target_audience": "Watu wasio na bima ya afya, wahamiaji haramu",
+    "access_conditions": "Bila bima ya afya, bila miadi"
+  },
+  "r_0011": {
+    "description": "Masomo ya Kifaransa bila malipo kwa wanawake wahamiaji. Kituo cha watoto wakati wa masomo. Warsha za ujumuishaji na uhusiano wa kijamii.",
+    "target_audience": "Wanawake wahamiaji na watoto wao",
+    "access_conditions": "Wanawake wahamiaji, usajili mwanzoni mwa muhula"
+  },
+  "r_0012": {
+    "description": "Masomo ya jioni bila malipo au bei nafuu: Kifaransa, kompyuta, uhasibu, lugha. Elimu ya kuendelea kwa watu wazima.",
+    "target_audience": "Watu wazima wanaotaka kusoma",
+    "access_conditions": "Usajili mwanzoni mwa muhula, punguzo kulingana na mapato"
+  },
+  "r_0013": {
+    "description": "Malazi ya dharura kwa usiku. Mapokezi bila masharti ya watu wasio na makazi. Chakula cha jioni na kifungua kinywa vinajumuishwa.",
+    "target_audience": "Watu wasio na makazi",
+    "access_conditions": "Bila masharti, mapokezi bila masharti jioni"
+  },
+  "r_0014": {
+    "description": "Mapokezi, kusikiliza na malazi ya dharura kwa wanawake waathiriwa na unyanyasaji. Msaada wa kisaikolojia na usaidizi wa kisheria.",
+    "target_audience": "Wanawake waathiriwa na unyanyasaji wa nyumbani",
+    "access_conditions": "Simu masaa 24/7, malazi kwa tathmini"
+  },
+  "r_0015": {
+    "description": "Duka la mshikamano la nguo, samani na vitu kwa bei nafuu sana. Ukusanyaji na ugawaji wa vitu vya mkono wa pili.",
+    "target_audience": "Umma wote, watu wenye mapato ya chini",
+    "access_conditions": "Wazi kwa wote, bei za mshikamano"
+  },
+  "r_0016": {
+    "description": "Habari na mwelekeo kwa wageni. Masomo ya Kifaransa yaliyofadhiliwa, msaada wa ujumuishaji, kuzuia ubaguzi wa rangi na ubaguzi.",
+    "target_audience": "Wageni wanaoishi Geneva",
+    "access_conditions": "Wakaazi wageni wa kantoni ya Geneva"
+  },
+  "r_0017": {
+    "description": "WiFi ya bure katika Parc des Bastions, inatolewa na Mji wa Geneva. Muunganisho wa bure na usio na kikomo.",
+    "target_audience": "Umma wote",
+    "access_conditions": "Upatikanaji wa bure"
+  },
+  "r_0018": {
+    "description": "Eneo la jamii linalotoa shughuli za kijamii, kitamaduni na kielimu. Masomo, warsha na matukio bila malipo au bei nafuu.",
+    "target_audience": "Wakaazi wa mtaa wa Plainpalais",
+    "access_conditions": "Wazi kwa wakaazi wote wa mtaa"
+  },
+  "r_0019": {
+    "description": "Ukusanyaji wa chakula kisichouza kutoka madukani na ugawaji bila malipo kwa wahitaji. Kupambana na upotevu.",
+    "target_audience": "Watu walio katika uhaba wa chakula",
+    "access_conditions": "Kwa usajili, uthibitisho wa hali ya kifedha"
+  },
+  "r_0020": {
+    "description": "Msaada wa dharura wa kifedha, usaidizi wa kijamii, mwelekeo kwa huduma zinazofaa. Msaada kwa wakaazi wa Mji wa Geneva.",
+    "target_audience": "Wakaazi wa Mji wa Geneva walio katika matatizo",
+    "access_conditions": "Wakaazi wa Mji wa Geneva"
+  },
+  "r_0021": {
+    "description": "Mashauriano ya matibabu ya awali kwa waomba hifadhi na wahamiaji. Mshirika wa mtandao wa afya ya hifadhi, na mbinu ya kitamaduni na kisaikolojia-kijamii. Mashauriano na watafsiri yanapatikana.",
+    "target_audience": "Waomba hifadhi, wakimbizi, wahamiaji",
+    "access_conditions": "Kwa miadi, Jumatatu hadi Ijumaa 9:00-11:30 na 13:30-17:00"
+  },
+  "r_0022": {
+    "description": "Programu ya ujumuishaji wa kitaaluma kwa watafuta kazi. Warsha, mafunzo ya vitendo na usaidizi wa kibinafsi.",
+    "target_audience": "Watafuta kazi walio katika matatizo ya ujumuishaji",
+    "access_conditions": "Usajili kupitia Ofisi ya Kantoni ya Ajira au Hospice général"
+  },
+  "r_0023": {
+    "description": "Usaidizi wa kielimu na kijamii kwa watoto na vijana. Makazi, warsha za kielimu, msaada wa masomo na shughuli za burudani.",
+    "target_audience": "Watoto na vijana wenye umri wa miaka 4 hadi 18",
+    "access_conditions": "Kupitia mwelekeo wa Huduma ya Ulinzi wa Watoto"
+  },
+  "r_0024": {
+    "description": "Kitengo cha dharura cha kisaikolojia-kijamii kinachohusishwa na imad. Kuingilia kati katika hali za hatari, unyanyasaji wa nyumbani, vijana katika msongo na matatizo ya kisaikolojia-kijamii. Timu ya muuguzi na wafanyakazi wa kijamii.",
+    "target_audience": "Watu wasio na makazi",
+    "access_conditions": "Bila masharti, timu ya rununu mitaani"
+  },
+  "r_0025": {
+    "description": "Usaidizi kwa watu wenye uraibu. Mashauriano, programu ya kubadilisha, kuacha na ujumuishaji upya. Kituo cha matibabu ya nje.",
+    "target_audience": "Watu wenye uraibu",
+    "access_conditions": "Bila miadi kwa mapokezi, kwa miadi kwa mashauriano"
+  },
+  "r_0026": {
+    "description": "Huduma kwa wazee: msaada nyumbani, shughuli za kijamii, ushauri wa kisheria na kifedha, masomo na warsha.",
+    "target_audience": "Wazee wenye umri wa miaka 60 na zaidi",
+    "access_conditions": "Watu wenye umri wa miaka 60 na zaidi"
+  },
+  "r_0027": {
+    "description": "WiFi ya bure katika Bains des Pâquis. Muunganisho wa bure wa intaneti.",
+    "target_audience": "Umma wote",
+    "access_conditions": "Upatikanaji wa bure"
+  },
+  "r_0028": {
+    "description": "Huduma ya madaktari nyumbani masaa 24/7. Mashauriano ya matibabu ya dharura nyumbani au kliniki, siku 7 kwa wiki.",
+    "target_audience": "Mtu yeyote anayehitaji mashauriano ya matibabu ya dharura",
+    "access_conditions": "Kwa simu, gharama za matibabu kwa mgonjwa"
+  },
+  "r_0029": {
+    "description": "Mapokezi ya mchana kwa watu walio katika hali ngumu. Eneo la joto, kahawa, kuoga, kufulia, intaneti na shughuli.",
+    "target_audience": "Watu walio katika hali ngumu",
+    "access_conditions": "Bila masharti, mapokezi ya bure"
+  },
+  "r_0030": {
+    "description": "Mashauriano ya kisaikolojia bila malipo au bei nafuu kwa wahamiaji. Msaada wa kisaikolojia kwa lugha kadhaa.",
+    "target_audience": "Wahamiaji walio katika matatizo ya kisaikolojia",
+    "access_conditions": "Kwa miadi, bei kulingana na mapato"
+  },
+  "r_0031": {
+    "description": "Maktaba ya manispaa yenye upatikanaji wa bure. Ukopaji wa vitabu, DVD, CD. Eneo la kazi, WiFi ya bure, magazeti na majarida. Warsha za kitamaduni.",
+    "target_audience": "Umma wote",
+    "access_conditions": "Upatikanaji wa bure, kadi ya bure kwa ukopaji"
+  },
+  "r_0032": {
+    "description": "Huduma ya umma ya msaada wa kutafuta kazi. Usajili wa ukosefu wa ajira, nafasi za kazi, ushauri wa mwelekeo wa kitaaluma, hatua za ujumuishaji.",
+    "target_audience": "Watafuta kazi wanaoishi Geneva",
+    "access_conditions": "Wakaazi wa kantoni ya Geneva, usajili wa lazima"
+  },
+  "r_0033": {
+    "description": "Ushauri wa kudumu wa kisheria na kijamii kwa wahamiaji. Msaada wa kiutawala, sheria ya wageni, kuunganisha familia.",
+    "target_audience": "Wahamiaji, wahamiaji haramu",
+    "access_conditions": "Kwa miadi au bila miadi huduma ya kudumu"
+  },
+  "r_0034": {
+    "description": "Eneo la mapokezi la kiwango cha chini kwa watumiaji wa dawa za kulevya. Vifaa safi, mashauriano, eneo la kupumzika na usaidizi.",
+    "target_audience": "Watumiaji wa dawa za kulevya",
+    "access_conditions": "Bila masharti, mapokezi bila kutambulishwa"
+  },
+  "r_0035": {
+    "description": "Kituo cha jamii cha mtaa wa Pâquis. Shughuli za kitamaduni, masomo ya lugha, warsha za ubunifu, eneo la watoto na msaada wa masomo.",
+    "target_audience": "Wakaazi wa mtaa wa Pâquis",
+    "access_conditions": "Wazi kwa wote"
+  },
+  "r_0036": {
+    "description": "Ugawaji wa nguo bila malipo kwa watu walio katika hali ngumu. Nguo kwa wanaume, wanawake na watoto, kulingana na msimu.",
+    "target_audience": "Watu walio katika hali ngumu",
+    "access_conditions": "Kwa kuonyesha uthibitisho kutoka huduma ya kijamii"
+  },
+  "r_0037": {
+    "description": "Masomo ya Kifaransa kama lugha ya kigeni kwa watu wazima wahamiaji. Viwango vya mwanzo hadi juu. Masomo ya mchana na jioni.",
+    "target_audience": "Watu wazima wahamiaji wanaotaka kujifunza Kifaransa",
+    "access_conditions": "Usajili na mtihani wa kiwango, punguzo linaweza kupatikana"
+  },
+  "r_0038": {
+    "description": "Ugawaji wa milo ya moto (supu na mkate) kwa watu walio katika hali ngumu. Huduma ya bure na bila masharti.",
+    "target_audience": "Umma wote",
+    "access_conditions": "Bila masharti, wa kwanza kufika ndiye wa kwanza kuhudumiwa"
+  },
+  "r_0039": {
+    "description": "Kituo cha habari na mashauriano kwa wanawake. Ushauri wa kisheria, kijamii na kitaaluma. Msaada wakati wa unyanyasaji.",
+    "target_audience": "Wanawake wa umri na hali yoyote",
+    "access_conditions": "Wazi kwa wanawake wote, baadhi ya mashauriano kwa miadi"
+  },
+  "r_0040": {
+    "description": "Tawi la Hospice général huko Plainpalais. Msaada wa kifedha, usaidizi wa kijamii, msaada wa makazi na ujumuishaji wa kitaaluma.",
+    "target_audience": "Wakaazi wa mtaa wa Plainpalais walio katika matatizo",
+    "access_conditions": "Kwa miadi, wakaazi wa kantoni ya Geneva"
+  },
+  "r_0041": {
+    "description": "Chama cha wakunga wanaoendeleza afya ya uzazi. Simu ya kudumu siku 7/7, maeneo ya mapokezi ya bure na wakunga, ushauri kuhusu ujauzito, kunyonyesha, ufuatiliaji baada ya kuzaa.",
+    "target_audience": "Wanawake wajawazito na wazazi wachanga",
+    "access_conditions": "Bila miadi kwa huduma za kudumu, bure. Jumatatu-Ijumaa 8:00-20:00, Jumamosi-Jumapili 9:00-12:00 na 17:00-20:00"
+  },
+  "r_0042": {
+    "description": "Mapokezi ya mchana kwa watu walio katika hali ngumu. Kifungua kinywa, kahawa, eneo la kupumzika, shughuli na mwelekeo wa kijamii.",
+    "target_audience": "Watu wasio na makazi",
+    "access_conditions": "Bila masharti, mapokezi bila masharti"
+  },
+  "r_0043": {
+    "description": "Ulinzi wa kisheria wa watu wazima walio hatarini na watoto. Ulezi, udhamini na hatua za ulinzi.",
+    "target_audience": "Watu wazima walio hatarini na watoto wanaohitaji ulinzi wa kisheria",
+    "access_conditions": "Kwa taarifa au ombi la moja kwa moja"
+  },
+  "r_0044": {
+    "description": "Kituo cha WiFi ya bure katika Place du Molard, katikati ya mji wa kale wa Geneva. Mtandao wa Mji wa Geneva.",
+    "target_audience": "Umma wote",
+    "access_conditions": "Upatikanaji wa bure"
+  },
+  "r_0045": {
+    "description": "Malazi kwa wanawake wenye watoto walio katika matatizo, hasa waathiriwa wa unyanyasaji wa nyumbani. Msaada wa kisaikolojia-kijamii, msaada wa ujumuishaji wa kijamii na kitaaluma, kuimarisha uhusiano wa mama/mtoto. Kuna kituo cha watoto.",
+    "target_audience": "Wanawake peke yao au wenye watoto walio katika hali ngumu",
+    "access_conditions": "Kwa mwelekeo wa huduma ya kijamii, tathmini ya hali"
+  },
+  "r_0046": {
+    "description": "Eneo la mapokezi la bure, bila kutambulishwa na bila usajili kwa watoto hadi miaka 5 wakiambatana na mtu mzima. Mahali pa kusikiliza na msaada kwa watoto na wazazi.",
+    "target_audience": "Watoto wa miaka 0 hadi 5 na wazazi au wasindikizi wao",
+    "access_conditions": "Bure, bila kutambulishwa, bila usajili, watoto wakiambatana na mtu mzima"
+  },
+  "r_0047": {
+    "description": "Ushauri wa kisheria kwa wapangaji. Msaada katika migogoro na mmiliki, ongezeko la kodi, kusitishwa kwa mkataba.",
+    "target_audience": "Wapangaji wa kantoni ya Geneva",
+    "access_conditions": "Uanachama wa chama (michango ndogo)"
+  },
+  "r_0048": {
+    "description": "Ukusanyaji na ugawaji wa bidhaa za chakula kwa mashirika ya hisani ya Geneva. Kupambana na uhaba wa chakula na upotevu.",
+    "target_audience": "Mashirika ya hisani na watu walio katika uhaba wa chakula",
+    "access_conditions": "Kupatikana kupitia mashirika washirika"
+  },
+  "r_0049": {
+    "description": "Kliniki ya meno ya chuo kikuu. Mapokezi bila miadi Jumatatu hadi Ijumaa 8:00-15:30. Matibabu ya dharura ya meno na huduma za kawaida.",
+    "target_audience": "Umma wote, watu wasio na bima ya meno au wenye mapato ya chini",
+    "access_conditions": "Mapokezi bila miadi Jumatatu hadi Ijumaa 8:00-15:30"
+  },
+  "r_0050": {
+    "description": "Mahali pa mapokezi, msaada na ujumuishaji upya wa kijamii-kitaaluma kwa watu walio katika hali ngumu. Kifungua kinywa bila malipo (150-200 kwa wiki), shughuli za kijamii na mafunzo ya ujumuishaji.",
+    "target_audience": "Watu walio katika hali ngumu",
+    "access_conditions": "Bila masharti, mapokezi ya bure"
+  },
+  "r_0051": {
+    "description": "Mahali pa mapokezi, burudani, mikutano na kupumzika kwa umri wote, tamaduni zote na mazingira yote ya kijamii. Shughuli za kitamaduni na kijamii.",
+    "target_audience": "Wakaazi wa mtaa wa Eaux-Vives na umma wote",
+    "access_conditions": "Wazi kwa wote, mapokezi ya bure"
+  },
+  "r_0052": {
+    "description": "Eneo la mapokezi na mwelekeo kwa wanawake na familia. Ushauri wa kisheria (sheria ya familia, talaka, unyanyasaji wa nyumbani, kibali cha kuishi), mwelekeo wa kitaaluma na msaada wa kisaikolojia-kijamii.",
+    "target_audience": "Wanawake na familia",
+    "access_conditions": "Simu ya huduma ya kisheria: Jumanne 11:00-13:00, Jumatano 14:00-16:00, Alhamisi 12:00-14:00. Mashauriano kwa miadi."
+  },
+  "r_0053": {
+    "description": "Chama cha kuzuia kujiua miongoni mwa vijana katika Uswisi ya Kifaransa. Uelewa, warsha, moduli za kuzuia na mwelekeo kwa huduma za msaada. Dharura, piga 143.",
+    "target_audience": "Vijana wa miaka 15 hadi 29, kuzuia kujiua",
+    "access_conditions": "Ofisi wazi siku za kazi. Dharura, piga 143 (masaa 24/7)"
+  },
+  "r_0054": {
+    "description": "Idara ya afya ya akili na tiba ya akili ya HUG. Mashauriano ya kisaikolojia na tiba ya akili, matibabu ya wasiwasi, unyogovu, mishtuko.",
+    "target_audience": "Watu wenye matatizo ya akili",
+    "access_conditions": "Kwa miadi, na agizo la daktari"
+  },
+  "r_0055": {
+    "description": "Msaada wa kifedha wa ziada kwa wanufaika wa AVS/AI. Msaada wa kulipa bima ya afya na kodi ya nyumba.",
+    "target_audience": "Wanufaika wa AVS/AI wenye mapato ya chini",
+    "access_conditions": "Wanufaika wa AVS/AI, wakaazi wa kantoni ya Geneva"
+  },
+  "r_0056": {
+    "description": "Msaada wa vitu na kulipa ankara za dharura kwa watu wenye mapato ya chini sana au kidogo zaidi.",
+    "target_audience": "Watu walio katika matatizo ya kifedha ya muda",
+    "access_conditions": "Maombi kwa barua pepe geneve@secours-d-hiver.ch. Simu Ijumaa pekee."
+  },
+  "r_0057": {
+    "description": "Chama cha Geneva kwa watoto na vijana. Kituo cha kisaikolojia-kielimu (miaka 13-18), Café ya Vijana, msaada kwa watoto wasio na msindikizi, shughuli za kuzuia.",
+    "target_audience": "Watoto na vijana wa miaka 12 hadi 18",
+    "access_conditions": "Kwa usajili au mwelekeo"
+  },
+  "r_0058": {
+    "description": "Programu za ujumuishaji wa kitaaluma kwa watu walio mbali na soko la ajira. Tathmini ya ujuzi, mafunzo ya kazi, mafunzo ya vitendo.",
+    "target_audience": "Watu walio mbali na soko la ajira",
+    "access_conditions": "Usajili kupitia Hospice général au OCE"
+  },
+  "r_0059": {
+    "description": "Msaada kwa wakimbizi na wahamiaji. Masomo ya Kifaransa, msaada wa ujumuishaji, ushauri wa kisheria kuhusu hifadhi na usaidizi wa kijamii.",
+    "target_audience": "Wakimbizi na wahamiaji",
+    "access_conditions": "Wakimbizi na wahamiaji, usajili unahitajika"
+  },
+  "r_0060": {
+    "description": "Kituo cha jamii cha la Jonction. Shughuli za kijamii, kiraia na kitamaduni kwa umri wote. Mapokezi ya bure, warsha wazi kwa wakaazi wa miaka 9 hadi 99.",
+    "target_audience": "Wakaazi wa mtaa wa la Jonction",
+    "access_conditions": "Wazi kwa wote"
+  },
+  "r_0061": {
+    "description": "Eneo la usafi (choo/kuoga) katika ghorofa ya kwanza ya bawa la mashariki la stesheni ya Cornavin. Huduma ya CFF. Kwa malipo (CHF 2), bure kwa wamiliki wa SwissPass.",
+    "target_audience": "Umma wote",
+    "access_conditions": "Kwa malipo (CHF 2), bure na SwissPass"
+  },
+  "r_0062": {
+    "description": "Vyoo vya umma bila malipo katika Parc des Bastions, karibu na Ukuta wa Marekebisho. Vinapatikana kwa watu wenye ulemavu.",
+    "target_audience": "Umma wote",
+    "access_conditions": "Upatikanaji wa bure"
+  },
+  "r_0063": {
+    "description": "Vyoo vya umma bila malipo katika Plaine de Plainpalais, karibu na soko la vitu vya zamani. Matengenezo ya mara kwa mara na huduma za Mji.",
+    "target_audience": "Umma wote",
+    "access_conditions": "Upatikanaji wa bure"
+  },
+  "r_0064": {
+    "description": "Chemchemi ya maji safi ya kunywa ya umma na bure katika Jardin Anglais, karibu na Saa la Maua. Maji safi mwaka mzima.",
+    "target_audience": "Umma wote",
+    "access_conditions": "Upatikanaji wa bure masaa 24/24"
+  },
+  "r_0065": {
+    "description": "Chemchemi ya umma ya maji safi ya kunywa katika uwanja wa kale zaidi wa Geneva. Maji ya bure na safi kwa kudumu.",
+    "target_audience": "Umma wote",
+    "access_conditions": "Upatikanaji wa bure masaa 24/24"
+  },
+  "r_0066": {
+    "description": "Chemchemi ya maji safi ya kunywa ya umma katika Parc des Eaux-Vives, kando ya ziwa. Bora kwa kuburudisha wakati wa matembezi.",
+    "target_audience": "Umma wote",
+    "access_conditions": "Upatikanaji wa bure masaa 24/24"
+  },
+  "r_0067": {
+    "description": "Maktaba ya manispaa ya bure katikati ya mtaa wa Servette. Sehemu za watu wazima na vijana tofauti, ukopaji wa vitabu na vyombo vya habari, WiFi ya bure na shughuli za kitamaduni.",
+    "target_audience": "Umma wote",
+    "access_conditions": "Upatikanaji wa bure, kadi ya bure kwa ukopaji"
+  },
+  "r_0068": {
+    "description": "Maktaba ya manispaa ya bure katika mtaa wa Eaux-Vives. Sehemu za watu wazima na vijana, ukopaji wa vitabu na vyombo vya habari, WiFi ya bure.",
+    "target_audience": "Umma wote",
+    "access_conditions": "Upatikanaji wa bure, kadi ya bure kwa ukopaji"
+  },
+  "r_0069": {
+    "description": "Maktaba ya manispaa ya bure katika mtaa wa la Jonction. Uchaguzi mkubwa wa vitabu, eneo la vijana, matukio na WiFi ya bure.",
+    "target_audience": "Umma wote",
+    "access_conditions": "Upatikanaji wa bure, kadi ya bure kwa ukopaji"
+  },
+  "r_0070": {
+    "description": "Maktaba ya manispaa ya bure katikati ya mtaa wa kimataifa wa Pâquis. Ukopaji wa vitabu kwa lugha nyingi, WiFi ya bure na matukio.",
+    "target_audience": "Umma wote",
+    "access_conditions": "Upatikanaji wa bure, kadi ya bure kwa ukopaji"
+  },
+  "r_0071": {
+    "description": "Ukopaji wa bure wa michezo ya ubao, michezo ya kielimu na vinyago kwa watoto na familia. Eneo la kucheza mahali hapo. Wazi kwa watoto wote wenye msindikizi.",
+    "target_audience": "Watoto, familia, umma wote",
+    "access_conditions": "Usajili wa bure, ukopaji wa bure"
+  },
+  "r_0072": {
+    "description": "Maktaba ya michezo ya mtaa yenye ukopaji wa bure wa michezo ya ubao, vinyago na michezo ya kielimu. Eneo la kucheza la kirafiki na warsha za michezo.",
+    "target_audience": "Watoto, familia, umma wote",
+    "access_conditions": "Usajili wa bure, ukopaji wa bure"
+  },
+  "r_0073": {
+    "description": "Bustani ya jamii ya mijini katika mtaa wa Grottes. Viwanja vya pamoja, kutengeneza mboji kwa pamoja na warsha za bustani bila malipo.",
+    "target_audience": "Wakaazi wa mtaa, wapenda bustani",
+    "access_conditions": "Upatikanaji wa bure, warsha kwa usajili"
+  },
+  "r_0074": {
+    "description": "Bustani ya mijini shirikishi katika Parc Beaulieu, inayosimamiwa na chama cha Les Artichauts. Warsha za bustani bila malipo kila Jumamosi alasiri. Uzalishaji wa miche ya kikaboni.",
+    "target_audience": "Wakaazi wa mtaa, umma wote",
+    "access_conditions": "Upatikanaji wa bure, warsha za bustani bila malipo Jumamosi 14:00-17:00 (katikati ya Februari hadi mwisho wa Oktoba)"
+  },
+  "r_0075": {
+    "description": "Huduma ya kudumu ya chama cha wafanyakazi. Ushauri wa sheria ya kazi, ulinzi wa haki, msaada wakati wa kufukuzwa kazi au migogoro.",
+    "target_audience": "Wafanyakazi, sekta zote",
+    "access_conditions": "Wazi kwa wafanyakazi wote, uanachama kwa huduma za kisheria"
+  },
+  "r_0076": {
+    "description": "Chama cha wafanyakazi cha sekta nyingi. Ushauri wa kudumu wa kisheria, ulinzi wa haki za kazi, mazungumzo ya pamoja.",
+    "target_audience": "Wafanyakazi wa sekta zote",
+    "access_conditions": "Wazi kwa wafanyakazi wote, uanachama kwa huduma za kisheria"
+  },
+  "r_0077": {
+    "description": "Kituo cha ushauri wa bure na wa siri kwa waathiriwa wa makosa ya jinai. Msaada wa kisaikolojia, kisheria na kijamii. Msaada wa dharura wa kifedha.",
+    "target_audience": "Waathiriwa wa makosa ya jinai na watu wao wa karibu",
+    "access_conditions": "Bure na wa siri, mashauriano kwa miadi"
+  },
+  "r_0078": {
+    "description": "Huduma ya kusikiliza kwa simu masaa 24/7 kwa mtu yeyote aliye katika matatizo, wasiwasi au upweke. Kusikiliza bila kutambulishwa, siri na bure.",
+    "target_audience": "Mtu yeyote aliye katika msongo, upweke au wasiwasi",
+    "access_conditions": "Piga 143, bure, bila kutambulishwa na siri masaa 24/7"
+  },
+  "r_0079": {
+    "description": "Simu ya msaada kwa watoto na vijana, inapatikana masaa 24/7. Kusikiliza, ushauri na mwelekeo kwa matatizo ya kibinafsi, ya kifamilia au ya shule.",
+    "target_audience": "Watoto na vijana hadi miaka 25",
+    "access_conditions": "Piga 147, bure, bila kutambulishwa na siri masaa 24/7"
+  },
+  "r_0080": {
+    "description": "Mashauriano ya bure na siri kuhusu afya ya uzazi na ngono. Uzazi wa mpango, ujauzito, magonjwa ya ngono, ushauri wa ndoa na elimu ya ngono. Uzazi wa mpango wa dharura bila miadi.",
+    "target_audience": "Mtu yeyote, hasa vijana na wanawake",
+    "access_conditions": "Bure, siri, kwa miadi (bila miadi kwa uzazi wa mpango wa dharura)"
+  },
+  "r_0081": {
+    "description": "Uchunguzi wa VVU na magonjwa ya ngono bila kutambulishwa na wa siri katika HUG. Uchunguzi wa haraka wa VVU (CHF 55), uchunguzi kamili wa VVU/magonjwa ya ngono (CHF 155). Ufuatiliaji na matibabu.",
+    "target_audience": "Mtu yeyote anayetaka uchunguzi wa VVU/magonjwa ya ngono",
+    "access_conditions": "Uchunguzi bila kutambulishwa kwa miadi (kupitia www.testvih.ch au kwa simu), uchunguzi wa haraka wa VVU kuanzia CHF 55"
+  },
+  "r_0082": {
+    "description": "Duka la dawa lililounganishwa katika kituo cha afya cha Cité Générations. Ushauri wa dawa, ufuatiliaji wa matibabu na ukaribu na huduma za dharura.",
+    "target_audience": "Umma wote, wagonjwa wa Cité Générations",
+    "access_conditions": "Wazi kwa wote, bila masharti"
+  },
+  "r_0083": {
+    "description": "Huduma kuu ya ugawaji wa nafasi za malazi ya dharura kwa watu wasio na makazi. Piga simu ya kituo kuu kupata nafasi. Jumla ya nafasi 184.",
+    "target_audience": "Watu wasio na makazi, katika hali ya dharura",
+    "access_conditions": "Piga nambari ya bure 0800 22 22 10, mapokezi bila masharti"
+  },
+  "r_0084": {
+    "description": "Mahali pa mapokezi ya mchana bila masharti katika Temple de la Servette kwa watu walio katika hali ngumu. Milo ya mshikamano, vinywaji vya moto, mwandishi wa umma (CV, barua), warsha za Kifaransa, Kiingereza na kompyuta, ushauri wa kisheria wa bure.",
+    "target_audience": "Watu walio katika hali ngumu, wahamiaji, wasio na makazi",
+    "access_conditions": "Bila masharti, mapokezi bila masharti"
+  },
+  "r_0085": {
+    "description": "Maeneo ya kuogelea ya umma maarufu kando ya Ziwa Léman. Ufukwe wa mchanga, mabwawa, kuruka (mita 3-10), sauna na hamamu. Bei nafuu sana (CHF 2 wakati wa kiangazi, CHF 1 wakati wa baridi).",
+    "target_audience": "Umma wote",
+    "access_conditions": "Bure kwa maeneo ya umma, kiingilio CHF 2 wakati wa kiangazi na CHF 1 wakati wa baridi"
+  },
+  "r_0086": {
+    "description": "Ufukwe wa umma wa bure kando ya ziwa, bora kwa familia zenye watoto. Eneo la kucheza, bwawa la watoto, maeneo ya kijani na viwanja vya michezo.",
+    "target_audience": "Familia, watoto, umma wote",
+    "access_conditions": "Upatikanaji wa bure"
+  },
+  "r_0087": {
+    "description": "Viwanja vya michezo ya umma na bure katika Parc des Bastions. Sataranji kubwa, meza za pingu-pongi, pétanque na eneo la mazoezi ya nje.",
+    "target_audience": "Umma wote",
+    "access_conditions": "Upatikanaji wa bure"
+  },
+  "r_0088": {
+    "description": "Huduma ya bure ya upatanishi kutatua migogoro ya kifamilia, kijamii, ya ujirani au ya kazi. Upatanishi wa jinai, kiraia na wa afya.",
+    "target_audience": "Wakaazi wa Mji wa Geneva",
+    "access_conditions": "Bure, kwa miadi"
+  },
+  "r_0089": {
+    "description": "Eneo la mapokezi, habari na shughuli kwa wazee. Kituo cha habari cha bure, msaada wa kiutawala, masomo, warsha, mikutano, ushauri wa afya na mikutano ya vizazi.",
+    "target_audience": "Wazee, wastaafu na watu wao wa karibu",
+    "access_conditions": "Wazi kwa wazee wote na watu wao wa karibu, bure"
+  },
+  "r_0090": {
+    "description": "Eneo la kazi la pamoja la bure katika Maktaba ya Cité. WiFi, soketi za umeme, meza za kazi na mazingira ya utulivu kwa kufanya kazi au kusoma.",
+    "target_audience": "Wanafunzi, wafanyakazi huru, watafuta kazi, umma wote",
+    "access_conditions": "Upatikanaji wa bure, WiFi inapatikana"
+  },
+  "r_0091": {
+    "description": "Warsha za kurekebisha za bure na zinazotembea zinazopangwa na FRC Geneva. Watu wa kujitolea wataalam wanarekebisha vifaa vya elektroniki, nguo na baiskeli. (Angalia tovuti kwa tarehe na mahali).",
+    "target_audience": "Umma wote",
+    "access_conditions": "Upatikanaji wa bure, Jumamosi moja kwa mwezi (angalia tovuti)"
+  },
+  "r_0092": {
+    "description": "Warsha ya kurekebisha ya bure huko Carouge. Watu wa kujitolea wanasaidia kurekebisha vitu vilivyovunjika: vifaa vidogo, kushona, kompyuta, baiskeli.",
+    "target_audience": "Umma wote",
+    "access_conditions": "Upatikanaji wa bure, Jumamosi moja kwa mwezi (angalia tovuti)"
+  },
+  "r_0093": {
+    "description": "Kituo cha mashauriano na masomo ya kisaikolojia ya kikabila kwa wahamiaji. Tiba ya kisaikolojia inayofaa kitamaduni, msaada kwa matatizo yanayohusiana na uhamishaji na ujumuishaji.",
+    "target_audience": "Wahamiaji, wanandoa wa tamaduni mbili, familia katika hali za kitamaduni",
+    "access_conditions": "Kwa miadi, mashauriano kwa wahamiaji na watu wa tamaduni mbili"
+  },
+  "r_0094": {
+    "description": "Vyoo vya umma bila malipo katika Place de Neuve, karibu na Grand Théâtre na Musée Rath. Vinapatikana kwa watu wenye ulemavu.",
+    "target_audience": "Umma wote",
+    "access_conditions": "Upatikanaji wa bure"
+  },
+  "r_0095": {
+    "description": "Chemchemi ya maji safi ya kunywa ya bure katika Parc de la Grange, bustani kubwa zaidi kando ya ziwa huko Geneva. Maji safi mwaka mzima.",
+    "target_audience": "Umma wote",
+    "access_conditions": "Upatikanaji wa bure masaa 24/24"
+  },
+  "r_0096": {
+    "description": "Vyoo vya umma bila malipo vilivyo katika Quai du Mont-Blanc, karibu na Jet d'eau. Wazi mwaka mzima.",
+    "target_audience": "Umma wote",
+    "access_conditions": "Upatikanaji wa bure"
+  },
+  "r_0097": {
+    "description": "Bustani ya pamoja ya mijini kwenye makutano ya Arve na Rhône. Warsha za permaculture, kutengeneza mboji kwa pamoja na bustani shirikishi.",
+    "target_audience": "Wakaazi wa mtaa, umma wote",
+    "access_conditions": "Upatikanaji wa bure, ushiriki kwa ombi"
+  },
+  "r_0098": {
+    "description": "Chemchemi ya umma ya maji safi ya kunywa mbele ya Stesheni ya Cornavin. Mahali pa kupata maji safi ya bure katikati ya Geneva.",
+    "target_audience": "Umma wote",
+    "access_conditions": "Upatikanaji wa bure masaa 24/24"
+  },
+  "r_0099": {
+    "description": "Maktaba ya michezo ya mtaa yenye ukopaji wa bure wa michezo ya ubao, puzzles na vinyago kwa umri wote. Michezo ya alasiri wazi kwa familia.",
+    "target_audience": "Watoto, familia, umma wote",
+    "access_conditions": "Kucheza mahali hapo bure, usajili wa mwaka wa CHF 30 kwa ukopaji"
+  },
+  "r_0100": {
+    "description": "WiFi ya bure katika Parc de la Grange inayotolewa na Mji wa Geneva. Muunganisho wa bure katika mojawapo ya bustani nzuri zaidi za Geneva.",
+    "target_audience": "Umma wote",
+    "access_conditions": "Upatikanaji wa bure"
+  },
+  "r_0101": {
+    "description": "Chama cha msaada kwa jamii ya LGBTIQ+. Checkpoint Genève (kituo cha afya ya jamii chenye uchunguzi wa VVU/magonjwa ya ngono na msaada wa kisaikolojia), Le Refuge (malazi kwa vijana LGBTIQ+), vikundi vya mazungumzo na shughuli za kijamii.",
+    "target_audience": "Jamii ya LGBT+ na mtu yeyote",
+    "access_conditions": "Wazi kwa wote, uchunguzi wa bure na bila kutambulishwa"
+  },
+  "r_0102": {
+    "description": "Kituo cha jamii cha Saint-Jean kinachotoa shughuli kwa umri wote. Warsha, masomo ya lugha, msaada wa masomo na matukio ya kitamaduni.",
+    "target_audience": "Wakaazi wa mtaa wa Saint-Jean, watoto, vijana na watu wazima",
+    "access_conditions": "Wazi kwa wakaazi wote wa mtaa"
+  },
+  "r_0103": {
+    "description": "Msaada wa bure na habari kwa watu walioathiriwa na kansa. Mashauriano ya kisaikolojia-kansa, vikundi vya mazungumzo na usaidizi wa kijamii.",
+    "target_audience": "Watu wenye kansa na watu wao wa karibu",
+    "access_conditions": "Bure, kwa miadi"
+  },
+  "r_0104": {
+    "description": "Mashauriano ya tiba ya akili ya dharura na ufuatiliaji wa nje wa bure kwa watu wazima katika msongo wa kiakili. Huduma inayohusishwa na HUG.",
+    "target_audience": "Watu wazima katika msongo wa kiakili",
+    "access_conditions": "Bure, kwa miadi au bila miadi kulingana na dharura"
+  },
+  "r_0105": {
+    "description": "Msaada wa bure kwa watu wenye ugonjwa wa kisukari na watu wao wa karibu. Ushauri wa lishe, vikundi vya kubadilishana na habari kuhusu ugonjwa.",
+    "target_audience": "Watu wenye ugonjwa wa kisukari na watu wao wa karibu",
+    "access_conditions": "Bure, kwa miadi au simu ya kudumu"
+  },
+  "r_0106": {
+    "description": "Matibabu ya awali kwa watu wasio na bima ya afya au walio katika hali ngumu. Mashauriano ya jumla na mwelekeo.",
+    "target_audience": "Watu wasio na bima ya afya au walio katika hali ngumu",
+    "access_conditions": "Kupatikana kwa watu wasio na bima ya afya, kwa miadi"
+  },
+  "r_0107": {
+    "description": "Taasisi ya Geneva ya utunzaji nyumbani. Huduma za uuguzi, msaada nyumbani na usaidizi kwa wazee, wagonjwa au wanaopona.",
+    "target_audience": "Wazee, wagonjwa au wanaopona wanaohitaji utunzaji nyumbani",
+    "access_conditions": "Kwa agizo la daktari au ombi la moja kwa moja"
+  },
+  "r_0108": {
+    "description": "Msaada wa bure kwa familia na watu wa karibu wa watu wenye Alzheimer. Vikundi vya mazungumzo, mashauriano na mwelekeo kwa huduma maalum.",
+    "target_audience": "Familia na watu wa karibu wa watu wenye Alzheimer au shida ya akili",
+    "access_conditions": "Bure, kwa miadi"
+  },
+  "r_0109": {
+    "description": "Huduma ya kantoni ya ulinzi wa watoto. Tathmini ya hali za hatari, hatua za ulinzi na usaidizi kwa familia zilizo katika matatizo.",
+    "target_audience": "Watoto na familia zilizo katika hatari au matatizo",
+    "access_conditions": "Huduma ya kantoni, kwa taarifa au ombi"
+  },
+  "r_0110": {
+    "description": "Usaidizi wa kielimu na msaada wa masomo kwa vijana walio katika matatizo. Warsha, malazi ya kielimu na programu za ujumuishaji upya.",
+    "target_audience": "Vijana walio katika matatizo ya kielimu, kijamii au kifamilia",
+    "access_conditions": "Kwa mwelekeo wa SPMi au ombi la moja kwa moja"
+  },
+  "r_0111": {
+    "description": "Eneo la kisanaa la bure kwa watoto wa miaka 0 hadi 6 na wasindikizi wao. Warsha za uchoraji, ufinyanzi, muziki katika Parc de la Perle du Lac.",
+    "target_audience": "Watoto wa miaka 0 hadi 6 wakiambatana na mtu mzima",
+    "access_conditions": "Bure, bila usajili, watoto wakiambatana na msindikizi"
+  },
+  "r_0112": {
+    "description": "Mahali pa mapokezi ya wazazi-watoto wa miaka 0 hadi 4. Eneo la kucheza bure, kubadilishana kati ya wazazi na msaada wa uzazi katika mazingira ya joto.",
+    "target_audience": "Wazazi na watoto wa miaka 0 hadi 4",
+    "access_conditions": "Bure, bila usajili, mtoto akiambatana na mzazi"
+  },
+  "r_0113": {
+    "description": "Ukopaji wa bure wa michezo na vinyago kwa watoto na familia. Mkusanyiko mkubwa wa michezo ya ubao, michezo ya kielimu na vinyago kwa umri wote.",
+    "target_audience": "Watoto na familia",
+    "access_conditions": "Usajili wa bure, ukopaji wa michezo bure kwa wakaazi wa Carouge"
+  },
+  "r_0114": {
+    "description": "Huduma ya bure ya ukopaji wa baiskeli katika Geneva. Baiskeli za kawaida na za umeme zinapatikana kwa safari za kila siku za mjini.",
+    "target_audience": "Umma wote",
+    "access_conditions": "Bure, kitambulisho na amana inahitajika"
+  },
+  "r_0115": {
+    "description": "Bei ya punguzo kwenye usajili wa usafiri wa umma wa Geneva kwa watu wenye mapato ya chini. Punguzo la hadi 50% kwenye usajili wa kila mwezi na wa mwaka.",
+    "target_audience": "Watu wenye mapato ya chini wanaoishi katika kantoni ya Geneva",
+    "access_conditions": "Kulingana na mapato, uthibitisho unahitajika"
+  },
+  "r_0116": {
+    "description": "Kugharamia usafiri wa umma kwa wanufaika wa msaada wa kijamii. Usajili wa TPG umejumuishwa katika msaada wa kifedha.",
+    "target_audience": "Wanufaika wa msaada wa kijamii",
+    "access_conditions": "Kwa wanufaika wa msaada wa kijamii wa Hospice général pekee"
+  },
+  "r_0117": {
+    "description": "WiFi ya bure ya SBB-FREE katika stesheni ya Cornavin. Muunganisho usio na kikomo unapatikana katika stesheni nzima na kwenye jukwaa.",
+    "target_audience": "Umma wote",
+    "access_conditions": "Bure, mtandao wa SBB-FREE, bila nywila"
+  },
+  "r_0118": {
+    "description": "WiFi ya bure ya Mji wa Geneva katika Jardin Anglais. Kituo cha nje na mtazamo wa Jet d'eau na ziwa.",
+    "target_audience": "Umma wote",
+    "access_conditions": "Bure, mtandao wa Ville de Genève WiFi"
+  },
+  "r_0119": {
+    "description": "WiFi ya bure ya Mji wa Geneva katika Plaine de Plainpalais. Eneo pana la muunganisho katika uwanja huu mkubwa wa mji.",
+    "target_audience": "Umma wote",
+    "access_conditions": "Bure, mtandao wa Ville de Genève WiFi"
+  },
+  "r_0120": {
+    "description": "Jengo la chuo kikuu linalotoa WiFi ya bure na maeneo ya kusoma yaliyo wazi kwa umma. Maktaba, vyumba vya kazi na mkahawa vinapatikana.",
+    "target_audience": "Wanafunzi na mtu yeyote anayetaka eneo la kazi",
+    "access_conditions": "Bure, upatikanaji wa bure kwa maeneo ya umma ya jengo"
+  },
+  "r_0121": {
+    "description": "Ujumuishaji upya wa kitaaluma kwa watu wenye matatizo ya afya au ulemavu. Maendeleo ya ujuzi wa kibinafsi, kitaaluma na kijamii, mradi wa kitaaluma, mafunzo ya vitendo na uwekaji.",
+    "target_audience": "Watu wenye ulemavu au matatizo ya afya wanaotafuta kazi",
+    "access_conditions": "Bure, kwa mwelekeo wa AI, ukosefu wa ajira au msaada wa kijamii"
+  },
+  "r_0122": {
+    "description": "Eneo la mafunzo kwa wanawake wasio na sifa au sifa ndogo wanaopata matatizo kupata kazi. Masomo ya Kifaransa, kompyuta, ujuzi wa msingi na usaidizi kuelekea uhuru na ujumuishaji wa kitaaluma.",
+    "target_audience": "Wanawake wasio na sifa walio katika hali ngumu",
+    "access_conditions": "Bure kwa mafunzo mengi, usajili katika ofisi unahitajika"
+  },
+  "r_0123": {
+    "description": "Usaidizi wa kitaaluma kwa vijana chini ya miaka 25 kuelekea mafanikio ya mafunzo ya pande mbili na kwa watu wa miaka 50 na zaidi kuelekea kurejea kazini. Mafunzo ya kibinafsi na ya kikundi.",
+    "target_audience": "Vijana chini ya miaka 25 wasio na mafunzo na watu wa miaka 50+ wanaotafuta kazi",
+    "access_conditions": "Bure kwa vijana chini ya miaka 25 na watu wa miaka 50+ wanaoishi Geneva"
+  },
+  "r_0124": {
+    "description": "Mahali pa kubadilishana, habari na mafunzo ya vyama vinavyopokea zaidi ya mashirika 80 ya ndani na kimataifa. Kumbi 13 zinapatikana kwa kukodisha.",
+    "target_audience": "Vyama na wakaazi wa mtaa",
+    "access_conditions": "Upatikanaji wa bure kwa maeneo ya pamoja, kuhifadhi kwa kumbi"
+  },
+  "r_0125": {
+    "description": "Kituo cha mtaa wa Carouge kinachotoa shughuli za kijamii-kitamaduni kwa umri wote. Warsha za ubunifu, masomo ya lugha, matukio ya jamii na eneo la kahawa.",
+    "target_audience": "Wakaazi wa Carouge na jirani, umri wote",
+    "access_conditions": "Upatikanaji wa bure, baadhi ya shughuli kwa usajili"
+  },
+  "r_0126": {
+    "description": "Eneo la jamii la Vernier linalotoa shughuli kwa watoto, vijana na watu wazima. Msaada wa masomo, warsha, safari na matukio ya kitamaduni.",
+    "target_audience": "Wakaazi wa Vernier, umri wote",
+    "access_conditions": "Upatikanaji wa bure, baadhi ya shughuli kwa usajili"
+  },
+  "r_0127": {
+    "description": "Simu ya kusikiliza na msaada kwa waathiriwa wa unyanyasaji wa kijinsia. Usaidizi wa kisaikolojia, kisheria na kijamii kwa siri.",
+    "target_audience": "Waathiriwa wa unyanyasaji wa kijinsia, hasa wanawake na watu wa LGBTIQ+",
+    "access_conditions": "Bure na wa siri, kwa miadi au bila miadi"
+  },
+  "r_0128": {
+    "description": "Chama cha usaidizi na uwezeshaji wa wanawake wahamiaji. Masomo ya Kifaransa, warsha za ujumuishaji, mashauriano ya kisaikolojia na msaada wa jamii.",
+    "target_audience": "Wanawake wahamiaji na wakimbizi",
+    "access_conditions": "Bure au bei ya ishara, usajili unahitajika kwa masomo"
+  },
+  "r_0129": {
+    "description": "Msaada na usaidizi kwa wanawake wajawazito walio katika matatizo. Kusikiliza, msaada wa vitu (nguo za mtoto, mikokoteni), ushauri na mwelekeo kwa huduma za kijamii.",
+    "target_audience": "Wanawake wajawazito walio katika matatizo na mama wachanga",
+    "access_conditions": "Bure, kwa miadi au simu ya kudumu"
+  },
+  "r_0130": {
+    "description": "Mapokezi ya mchana kwa wazee wanaopoteza uhuru. Shughuli zinazofaa, milo na huduma za afya kuruhusu watu wa karibu kupumzika.",
+    "target_audience": "Wazee wanaopoteza uhuru na walezi wao wa karibu",
+    "access_conditions": "Kwa agizo la daktari, mchango wa kifedha kulingana na mapato"
+  },
+  "r_0131": {
+    "description": "Msaada na mwelekeo kwa walezi wa karibu wa kantoni ya Geneva. Kusikiliza, ushauri, vikundi vya mazungumzo na kuunganishwa na rasilimali zilizopo.",
+    "target_audience": "Walezi wa karibu wa wazee, wagonjwa au watu wenye ulemavu",
+    "access_conditions": "Bure, kwa miadi au bila miadi"
+  },
+  "r_0132": {
+    "description": "Masomo ya bure au bei nafuu kwa watu wazima katika nyanja nyingi: lugha, kompyuta, utamaduni, maendeleo ya kibinafsi. Wazi kwa wote bila masharti ya diploma.",
+    "target_audience": "Watu wazima wa asili yoyote bila masharti ya diploma",
+    "access_conditions": "Bure au bei nafuu, usajili kwa muhula"
+  },
+  "r_0133": {
+    "description": "Kituo cha rasilimali kwa mashirika ya kimataifa na vyama. Kumbi za mkutano, maeneo ya kazi ya pamoja na huduma za msaada wa kiutawala.",
+    "target_audience": "Vyama, NGO na mashirika ya kimataifa",
+    "access_conditions": "Upatikanaji wa bure kwa maeneo ya pamoja, kuhifadhi kwa kumbi za mkutano"
+  },
+  "r_0134": {
+    "description": "Ushauri wa kisheria wa bure kwa wageni kuhusu sheria ya wageni, hifadhi, kuunganisha familia na kibali cha kuishi.",
+    "target_audience": "Wageni wanaoishi katika kantoni ya Geneva",
+    "access_conditions": "Bure, bila miadi, wa kwanza kufika ndiye wa kwanza kuhudumiwa"
+  },
+  "r_0135": {
+    "description": "Huduma ya kudumu ya kisheria ya bure maalum katika sheria ya hifadhi na wageni. Ushauri, usaidizi katika taratibu na kuandika rufaa.",
+    "target_audience": "Waomba hifadhi, wakimbizi na watu waliokataliwa",
+    "access_conditions": "Bure, kwa miadi kwa mashauriano ya kina"
+  },
+  "r_0136": {
+    "description": "Ushauri na usaidizi wa bure kwa watu wenye ulemavu na watu wao wa karibu. Msaada wa kiutawala, mwelekeo wa kitaaluma na msaada wa kijamii.",
+    "target_audience": "Watu wenye ulemavu na watu wao wa karibu",
+    "access_conditions": "Bure, kwa miadi"
+  },
+  "r_0137": {
+    "description": "Makumbusho ya historia ya asili yenye kiingilio cha bure. Mkusanyiko wa kudumu wa wanyama, madini na visukuku. Maonyesho ya muda na shughuli kwa watoto.",
+    "target_audience": "Umma wote, familia na shule",
+    "access_conditions": "Kiingilio cha bure kwa mkusanyiko wa kudumu"
+  },
+  "r_0138": {
+    "description": "Makumbusho makubwa zaidi ya Geneva yenye mkusanyiko wa kudumu wa bure. Sanaa nzuri, sanaa za matumizi na akiolojia, kutoka kabla ya historia hadi sanaa ya kisasa.",
+    "target_audience": "Umma wote, wapenda sanaa na historia",
+    "access_conditions": "Mkusanyiko wa kudumu bure, maonyesho ya muda kwa malipo"
+  },
+  "r_0139": {
+    "description": "Makumbusho ya Uswisi ya keramiki na kioo yenye kiingilio cha bure. Mkusanyiko wa kipekee katika jengo la neo-baroque mbele ya Palais des Nations.",
+    "target_audience": "Umma wote, wapenda sanaa za mapambo",
+    "access_conditions": "Kiingilio cha bure kwa mkusanyiko wa kudumu"
+  },
+  "r_0140": {
+    "description": "Makumbusho yanayojitolea kwa hatua za kibinadamu yenye kiingilio cha bure Jumatano alasiri. Maonyesho shirikishi kuhusu historia na changamoto za kibinadamu za sasa.",
+    "target_audience": "Umma wote, wapenda historia ya kibinadamu",
+    "access_conditions": "Kiingilio cha bure Jumatano alasiri (16:00-18:00), bei ya punguzo inapatikana"
+  },
+  "r_0141": {
+    "description": "Kituo cha kuogelea cha manispaa chenye bei ya punguzo kwa wakaazi wenye mapato ya chini. Bwawa la Olimpiki, bwawa la kujifunza na eneo la ustawi.",
+    "target_audience": "Umma wote, bei ya punguzo kwa wakaazi wenye mapato ya chini",
+    "access_conditions": "Bei ya punguzo na kadi ya Cité Seniors au ruzuku ya bima ya afya"
+  },
+  "r_0142": {
+    "description": "Maktaba ya media ya bure inayotoa vitabu, DVD, CD na intaneti ya bure. Matukio ya kitamaduni, saa ya hadithi na eneo la kusoma lenye starehe.",
+    "target_audience": "Umma wote, wasomaji na familia za mtaa",
+    "access_conditions": "Upatikanaji wa bure, usajili wa bure kwa ukopaji"
+  },
+  "r_0143": {
+    "description": "Mkahawa wa mshikamano unaotoa milo ya bure jioni kwa watu walio katika hali ngumu. Upishi wa hali ya juu kutoka chakula cha ziada kilichopatikana. Unasimamiwa na Mater Fondazione kwa ushirikiano na Food for Soul.",
+    "target_audience": "Watu walio katika uhaba wa chakula",
+    "access_conditions": "Milo ya jioni ya bure, mwelekeo kupitia mashirika washirika"
+  },
+  "r_0144": {
+    "description": "Supu ya umma inayotoa milo ya bure wakati wa mchana kwa watu wasio na rasilimali. Zaidi ya milo 250 kwa siku hutolewa na mashirika mbalimbali ya hisani. Mahali pa kukutana nyuma ya stesheni ya Cornavin.",
+    "target_audience": "Watu wasio na rasilimali, wasio na makazi",
+    "access_conditions": "Bila masharti, wazi kwa mtu yeyote anayehitaji"
+  },
+  "r_0145": {
+    "description": "Kituo cha mapokezi ya mchana cha dharura kinachotoa milo ya moto ya bure, kuoga, kusikiliza na mwelekeo. Mapokezi bila masharti kwa watu wanaokabiliwa na upweke, kutengwa na kutokuwa na jamii.",
+    "target_audience": "Watu walio katika hali ngumu, kutengwa, upweke",
+    "access_conditions": "Bila masharti, mapokezi bila masharti kwa watu wazima"
+  },
+  "r_0146": {
+    "description": "Nyumba ya malazi ya dharura inayotoa hifadhi kwa watu wasio na makazi. Kifungua kinywa na chakula cha jioni cha bure. Muda wa kukaa usio na kikomo. Uwezekano wa kukaa mchana wakati wa baridi. Eneo maalum kwa Wanawake.",
+    "target_audience": "Watu wasio na makazi, wanawake peke yao au wenye watoto",
+    "access_conditions": "Malazi kwa ombi, nafasi 10-20, muda usio na kikomo"
+  },
+  "r_0147": {
+    "description": "Kimbilio la usiku la dharura la Mji wa Geneva. Kitanda, chakula cha jioni, uhifadhi wa mzigo na kuoga hutolewa bure. Muda wa siku 30.",
+    "target_audience": "Watu wasio na makazi",
+    "access_conditions": "Piga kituo cha malazi ya dharura 0800 22 22 10 (bure). Muda wa siku 30."
+  },
+  "r_0148": {
+    "description": "Mashauriano ya matibabu ya bure na ya siri kwa watu wasio na bima ya afya au hali ya kisheria. Matibabu ya awali, mashauriano ya matibabu na uuguzi, mwelekeo kwa huduma maalum. Zaidi ya wagonjwa 4500 kwa mwaka.",
+    "target_audience": "Watu wasio na bima ya afya, wasio na hali ya kisheria, wasio na makazi",
+    "access_conditions": "Kuanzia miaka 16, bila masharti ya hali ya kisheria, bila bima inakubaliwa, bure na siri"
+  },
+  "r_0149": {
+    "description": "Kituo cha afya ya jamii ya LGBTIQ+ maalum katika afya ya ngono. Uchunguzi wa bure na bila kutambulishwa wa VVU/magonjwa ya ngono, matibabu, chanjo, mashauriano ya kisaikolojia. Huduma ya Dialogai.",
+    "target_audience": "Jamii ya LGBTIQ+ na mtu yeyote anayeshughulika na afya ya ngono",
+    "access_conditions": "Uchunguzi wa bure na bila kutambulishwa bila miadi Jumatatu na Alhamisi"
+  },
+  "r_0150": {
+    "description": "Kliniki ya meno inayotoa huduma za msingi kwa bei nafuu sana kwa watu wenye mapato ya chini. Mashauriano ya daktari wa meno CHF 40, mtaalamu wa usafi CHF 20. Madaktari wa meno wa kujitolea.",
+    "target_audience": "Wafanyakazi maskini na watu wenye mapato ya chini wasio na msaada wa kijamii",
+    "access_conditions": "Kwa miadi kupitia Huduma ya Mapokezi ya Kijamii. Kwa watu wenye mapato ya chini pekee."
+  },
+  "r_0151": {
+    "description": "Chama kinachofanya kazi kupambana na VVU, hepatitis na magonjwa ya ngono. Ushauri wa kwanza wa kisaikolojia bure, uchunguzi wa siri, ushauri wa kisheria na kijamii kwa watu wanaoishi na VVU.",
+    "target_audience": "Watu wanaoshughulika na VVU, magonjwa ya ngono, hepatitis",
+    "access_conditions": "Ushauri wa kwanza wa kisaikolojia bure. Uchunguzi wa siri."
+  },
+  "r_0152": {
+    "description": "Usaidizi wa kijamii na kitaaluma kwa wanawake walio katika kutengwa. Msaada wa taratibu za kiutawala, ujuzi wa haki, mwelekeo mpya wa kitaaluma. Kusikiliza kwa simu na msaada.",
+    "target_audience": "Wanawake walio katika kutengwa kwa kijamii au kitaaluma",
+    "access_conditions": "Bure, simu ya kudumu katika masaa yaliyoonyeshwa"
+  },
+  "r_0153": {
+    "description": "Kimbilio kwa wanawake waathiriwa wa unyanyasaji na biashara ya binadamu, wenye au wasio na watoto. Malazi ya makazi yenye ufuatiliaji wa kisaikolojia-kijamii kwa wanawake 30 hivi. Masomo ya Kifaransa na mafunzo ya kitaaluma.",
+    "target_audience": "Wanawake waathiriwa wa unyanyasaji na biashara ya binadamu, wenye au wasio na watoto",
+    "access_conditions": "Mapokezi ya simu 8:30-12:00. Malazi ya dharura masaa 24/7."
+  },
+  "r_0154": {
+    "description": "Chama cha mshikamano kinacholinda haki za wafanyakazi wa ngono. Mapokezi, kusikiliza, msaada wa kisaikolojia-kijamii, huduma za kisheria, msaada wa kiutawala, kuzuia magonjwa ya ngono na vifaa vya kuzuia.",
+    "target_audience": "Watu wanaofanya kazi ya ngono",
+    "access_conditions": "Bila miadi katika masaa yaliyoonyeshwa. Mapokezi bila hukumu."
+  },
+  "r_0155": {
+    "description": "Eneo la bure la habari na ushauri kuhusu mwelekeo, mafunzo na ajira. Washauri wanapatikana bila miadi. Warsha za mada: tathmini ya ujuzi, CV, mahojiano, mabadiliko ya kazi.",
+    "target_audience": "Vijana na watu wazima wanaotafuta mwelekeo, mafunzo au kazi",
+    "access_conditions": "Bure, bila miadi, upatikanaji wa bure"
+  },
+  "r_0156": {
+    "description": "Chama cha ujumuishaji wa kijamii-kitaaluma kwa vijana wa miaka 15 hadi 25. Kazi ndogo za muda, msaada wa kibinafsi, mafunzo ya awali na usaidizi katika kutafuta kazi au mafunzo.",
+    "target_audience": "Vijana wa miaka 15 hadi 25 wanaotafuta kazi au mafunzo",
+    "access_conditions": "Bure, usajili kwenye tovuti au mahali hapo"
+  },
+  "r_0157": {
+    "description": "Chama huru kinacholinda haki ya hifadhi tangu 1986. Msaada wa kisheria wa bure na uwakilishi wa wakimbizi. Mashauriano bila miadi Jumatatu. Usaidizi katika taratibu zote za hifadhi.",
+    "target_audience": "Waomba hifadhi na wakimbizi",
+    "access_conditions": "Bure, mashauriano bila miadi Jumatatu"
+  },
+  "r_0158": {
+    "description": "Chama cha lesbi na ufeministi wazi kwa wanawake wote (cis, trans, bisexual, queer). Mapokezi, kusikiliza, habari na mshikamano. Shughuli: klabu ya sinema, sherehe, mikutano, michezo.",
+    "target_audience": "Wanawake wa lesbi, bisexual, trans, queer",
+    "access_conditions": "Wazi kwa wanawake wote bila masharti"
+  },
+  "r_0159": {
+    "description": "Eneo la mapokezi, kusikiliza na msaada kwa vijana wa LGBTIQ+ walio katika matatizo. Usaidizi wa kibinafsi, vikundi vya msaada, mazungumzo ya siri mtandaoni, malazi ya miezi 3 hadi 6 kuanzia miaka 18.",
+    "target_audience": "Vijana wa LGBTIQ+ na mazingira yao",
+    "access_conditions": "Kwa miadi au bila miadi, mazungumzo ya siri mtandaoni yanapatikana"
+  },
+  "r_0160": {
+    "description": "Chama kinachohudumia uanuwai wa kijinsia na jinsi. Mapokezi, habari, kusikiliza na mwelekeo kwa watu wa LGBTIQ+. Huduma ya kisheria ya pekee katika Uswisi ya Kifaransa. Vikundi: Trans*, Homoparents, Bi, Tamalou (wazee).",
+    "target_audience": "Watu wa LGBTIQ+ na watu wao wa karibu",
+    "access_conditions": "Mapokezi ya bure bila miadi"
+  },
+  "r_0161": {
+    "description": "Chama cha kuzuia na usaidizi kwa watu wanaotegemea pombe na familia zao. Ushauri wa kitaaluma, tiba ya nje, vikundi vya msaada, wikendi.",
+    "target_audience": "Watu wanaohusika na uraibu wa pombe na watu wao wa karibu",
+    "access_conditions": "Mapokezi ya bure"
+  },
+  "r_0162": {
+    "description": "Kituo cha mchana kwa watu wanaotegemea dawa za kulevya. Mapokezi, kusikiliza, milo, shughuli na usaidizi kuelekea matibabu. Chama cha ARGOS pia kinatoa vituo vya makazi vya ujumuishaji upya.",
+    "target_audience": "Watu wanaotegemea dawa za kulevya",
+    "access_conditions": "Mapokezi ya bure, bila miadi"
+  },
+  "r_0163": {
+    "description": "Kituo cha kuzuia kinachojumuisha FEGPA (pombe na bangi), CIPRET (tumbaku) na RNVP (michezo/skrini). Ushauri wa bure na wa siri kwa mtu yeyote anayeshughulika na uraibu au watu wao wa karibu.",
+    "target_audience": "Mtu yeyote anayeshughulika na uraibu, vijana na watu wa karibu",
+    "access_conditions": "Mashauriano ya bure na ya siri, kwa miadi"
+  },
+  "r_0164": {
+    "description": "Chama cha wazazi na marafiki wa watu wenye ulemavu wa kiakili. Habari, ushauri, msaada kwa familia. Shughuli za burudani, wikendi za kupumzika, likizo. Utetezi wa haki.",
+    "target_audience": "Watu wenye ulemavu wa kiakili na familia zao",
+    "access_conditions": "Wasiliana kwa simu au barua pepe"
+  },
+  "r_0165": {
+    "description": "Shirika kubwa zaidi la msaada wa pamoja kwa watu wenye ulemavu nchini Uswisi. Ushauri wa kisheria wa bure kuhusu bima za kijamii (AI, APG). Shughuli za kukutana kwa watoto wenye ulemavu.",
+    "target_audience": "Watu wenye ulemavu",
+    "access_conditions": "Ushauri wa kisheria wa bure kwa wanachama"
+  },
+  "r_0166": {
+    "description": "Chama kinachowahimiza wazee kubaki hai na huru. Shughuli mbalimbali: masomo, warsha, safari, mikutano, michezo. Programu ya \"Seniors d'ici et d'ailleurs\" kwa ujumuishaji.",
+    "target_audience": "Wazee wa miaka 50 na zaidi",
+    "access_conditions": "Wazi kwa watu wa miaka 50 na zaidi"
+  },
+  "r_0167": {
+    "description": "Huduma ya ekumeni inayotoa uwepo, kusikiliza na msaada kwa waomba hifadhi na wakimbizi. Masomo ya Kifaransa, kompyuta, milo ya pamoja, shughuli za michezo na kitamaduni.",
+    "target_audience": "Waomba hifadhi na wakimbizi huko Geneva",
+    "access_conditions": "Wazi kwa waomba hifadhi na wakimbizi wote"
+  },
+  "r_0168": {
+    "description": "Mapokezi na usaidizi kwa wakimbizi wa LGBTIQ+. Huduma ya kudumu ya kisheria kwa ushirikiano na elisa-asile, msaada na shughuli za uelewa.",
+    "target_audience": "Wakimbizi na waomba hifadhi wa LGBTIQ+",
+    "access_conditions": "Wazi kwa mtu yeyote wa LGBTIQ+ aliye mkimbizi au anayeomba hifadhi"
+  },
+  "r_0169": {
+    "description": "Maktaba ya michezo ya manispaa bure ya kucheza mahali. Michezo ya bodi ya kawaida na ya ushirikiano katika sakafu mbili. Kukopa michezo kwa usajili wa familia wa kila mwaka (30 CHF). Wafanyakazi wanapatikana kwa ushauri.",
+    "target_audience": "Watoto, familia, taasisi za mtaa",
+    "access_conditions": "Kucheza mahali ni bure. Kukopa kwa usajili wa familia wa kila mwaka (30 CHF). Watoto chini ya miaka 6 waandamane na mtu mzima."
+  },
+  "r_0170": {
+    "description": "Maktaba ya michezo ya manispaa bure ya kucheza mahali, ndani ya Manège en Ville. Takriban michezo 1000 ya bodi, michezo ya video na vinyago kwa umri wote. Kukopa kwa usajili wa familia (30 CHF/mwaka). Mashindano na matukio yanaandaliwa.",
+    "target_audience": "Watoto, familia, umri wote (watoto wachanga hadi watu wazima)",
+    "access_conditions": "Kucheza mahali ni bure. Kukopa kwa usajili wa familia wa kila mwaka (30 CHF). Watoto chini ya miaka 6 waandamane na mtu mzima."
+  },
+  "r_0171": {
+    "description": "Makazi ya dharura kwa wanawake walio katika hali ngumu, wasio na makazi au wakimbizi wenye watoto. Nafasi 30 za mapokezi bila masharti na nafasi 21 kwa wanawake wanaopata msaada wa kijamii. Vyumba vya mtu mmoja au wawili, milo mitatu kwa siku, kufulia, msaada wa kijamii.",
+    "target_audience": "Wanawake wasio na makazi, wanawake walio katika hali ngumu, wakimbizi wenye watoto",
+    "access_conditions": "Wasiliana na simu ya dharura ya makazi ya Geneva: 0800 22 22 10 (Jumatatu-Ijumaa 10:30-20:00, Jumamosi-Jumapili 15:00-20:00). Hakuna uhifadhi wa moja kwa moja."
+  },
+  "tag": {
+    "143": "143",
+    "147": "147",
+    "15-25 ans": "miaka 15-25",
+    "24h": "masaa 24",
+    "50+": "50+",
+    "AI": "AI",
+    "AVS": "AVS",
+    "Belle-Idée": "Belle-Idée",
+    "CFF": "CFF",
+    "CV": "CV",
+    "Carouge": "Carouge",
+    "Cité Générations": "Cité Générations",
+    "Cornavin": "Cornavin",
+    "Croix-Rouge": "Msalaba Mwekundu",
+    "FLE": "FLE",
+    "FRC": "FRC",
+    "HUG": "HUG",
+    "Hospice général": "Hospice général",
+    "IST": "magonjwa ya ngono",
+    "LAVI": "LAVI",
+    "LGBT": "LGBT",
+    "LGBTIQ+": "LGBTIQ+",
+    "Onex": "Onex",
+    "Plainpalais": "Plainpalais",
+    "SBB": "SBB",
+    "SIT": "SIT",
+    "SOS": "SOS",
+    "TPAE": "TPAE",
+    "TPG": "TPG",
+    "UNIA": "UNIA",
+    "VIH": "VVU",
+    "Vernier": "Vernier",
+    "abri": "kimbilio",
+    "accessibilité": "ufikiaji",
+    "accompagnement": "usaidizi",
+    "accueil": "mapokezi",
+    "accueil de jour": "mapokezi ya mchana",
+    "activités": "shughuli",
+    "addiction": "uraibu",
+    "administratif": "kiutawala",
+    "administration": "utawala",
+    "adolescents": "vijana",
+    "adultes": "watu wazima",
+    "aide": "msaada",
+    "aide financière": "msaada wa kifedha",
+    "aide matérielle": "msaada wa vitu",
+    "aide sociale": "msaada wa kijamii",
+    "aide à domicile": "msaada nyumbani",
+    "alcool": "pombe",
+    "alimentaire": "chakula",
+    "allaitement": "kunyonyesha",
+    "alzheimer": "Alzheimer",
+    "anonyme": "bila kutambulishwa",
+    "anti-gaspillage": "kupinga upotevu",
+    "antigaspillage": "kupinga upotevu",
+    "apprentissage": "mafunzo",
+    "archéologie": "akiolojia",
+    "armée du salut": "Jeshi la Wokovu",
+    "art": "sanaa",
+    "artichauts": "Artichauts",
+    "arts": "sanaa",
+    "asile": "hifadhi",
+    "associations": "vyama",
+    "assurance": "bima",
+    "assurances sociales": "bima za kijamii",
+    "ateliers": "warsha",
+    "autonomie": "uhuru",
+    "autonomisation": "uwezeshaji",
+    "avocats": "mawakili",
+    "bail": "mkataba",
+    "bains": "kuogelea",
+    "banque": "benki",
+    "bas prix": "bei nafuu",
+    "bas seuil": "kiwango cha chini",
+    "bateau": "mashua",
+    "beaulieu": "Beaulieu",
+    "bibliothèque": "maktaba",
+    "bien-être": "ustawi",
+    "bébé": "mtoto",
+    "bénévoles": "watu wa kujitolea",
+    "café": "kahawa",
+    "cancer": "kansa",
+    "cannabis": "bangi",
+    "cantonal": "kantoni",
+    "caritas": "Caritas",
+    "carouge": "Carouge",
+    "carrière": "kazi",
+    "centrale": "kituo",
+    "centre-ville": "katikati ya mji",
+    "chômage": "ukosefu wa ajira",
+    "citoyenneté": "uraia",
+    "coaching": "mafunzo",
+    "colis": "kifurushi",
+    "collecte": "ukusanyaji",
+    "communautaire": "jamii",
+    "communauté": "jamii",
+    "compétences": "ujuzi",
+    "confidentiel": "siri",
+    "conflits": "migogoro",
+    "conférences": "mikutano",
+    "conseil": "ushauri",
+    "conseils": "mashauri",
+    "consultation": "mashauriano",
+    "contraception": "uzazi wa mpango",
+    "cornavin": "Cornavin",
+    "cours": "masomo",
+    "coworking": "eneo la kazi la pamoja",
+    "crise": "msongo",
+    "croix-rouge": "Msalaba Mwekundu",
+    "crèche": "kituo cha watoto",
+    "créativité": "ubunifu",
+    "culture": "utamaduni",
+    "curatelle": "ulezi",
+    "céramique": "keramiki",
+    "dentaire": "meno",
+    "diabète": "kisukari",
+    "distribution": "ugawaji",
+    "diversité": "uanuwai",
+    "divorce": "talaka",
+    "diététique": "lishe",
+    "domicile": "nyumbani",
+    "douche": "kuoga",
+    "douches": "kuoga",
+    "drogue": "dawa za kulevya",
+    "drogues": "dawa za kulevya",
+    "droit": "sheria",
+    "droit des étrangers": "sheria ya wageni",
+    "droits": "haki",
+    "démence": "shida ya akili",
+    "dépendance": "utegemezi",
+    "dépistage": "uchunguzi",
+    "détresse": "msongo",
+    "eau potable": "maji ya kunywa",
+    "eaux-vives": "Eaux-Vives",
+    "emploi": "ajira",
+    "enfance": "utoto",
+    "enfants": "watoto",
+    "espace partagé": "eneo la pamoja",
+    "espace travail": "eneo la kazi",
+    "ethnopsychologie": "saikolojia ya kikabila",
+    "extérieur": "nje",
+    "factures": "ankara",
+    "famille": "familia",
+    "familles": "familia",
+    "femmes": "wanawake",
+    "femmes migrantes": "wanawake wahamiaji",
+    "financière": "fedha",
+    "fitness": "mazoezi",
+    "fontaine": "chemchemi",
+    "formation": "mafunzo",
+    "fr": "Kif.",
+    "français": "Kifaransa",
+    "français professionnel": "Kifaransa cha kitaaluma",
+    "frigo": "jokofu",
+    "féministe": "ufeministi",
+    "garderie": "kituo cha watoto",
+    "gare": "stesheni",
+    "gastronomique": "upishi wa hali ya juu",
+    "grange": "Grange",
+    "gratuit": "bure",
+    "grossesse": "ujauzito",
+    "groupe": "kikundi",
+    "handicap": "ulemavu",
+    "handicap mental": "ulemavu wa kiakili",
+    "histoire": "historia",
+    "hiver": "baridi",
+    "humanitaire": "kibinadamu",
+    "hydratation": "maji",
+    "hygiène": "usafi",
+    "hébergement": "malazi",
+    "infirmiers": "wauguzi",
+    "information": "habari",
+    "informatique": "kompyuta",
+    "infractions": "makosa",
+    "insertion": "ujumuishaji",
+    "interactif": "shirikishi",
+    "interculturel": "kitamaduni",
+    "international": "kimataifa",
+    "internet": "intaneti",
+    "intégration": "ujumuishaji",
+    "invendus": "visivyouzwa",
+    "jardin": "bustani",
+    "jeu": "mchezo",
+    "jeunes": "vijana",
+    "jeunesse": "ujana",
+    "jeux": "michezo",
+    "jonction": "Jonction",
+    "jouets": "vinyago",
+    "jour": "mchana",
+    "juridique": "kisheria",
+    "lac": "ziwa",
+    "langues": "lugha",
+    "laverie": "dobi",
+    "lesbienne": "lesbi",
+    "libre-service": "kujihudumia",
+    "licenciement": "kufukuzwa kazi",
+    "livres": "vitabu",
+    "locataires": "wapangaji",
+    "logement": "makazi",
+    "loisirs": "burudani",
+    "loyer": "kodi",
+    "ludothèque": "maktaba ya michezo",
+    "maintien à domicile": "utunzaji nyumbani",
+    "maladie chronique": "ugonjwa sugu",
+    "maraude": "doria ya mtaani",
+    "maternité": "uzazi",
+    "meubles": "samani",
+    "midi": "mchana",
+    "migrantes": "wanawake wahamiaji",
+    "migrants": "wahamiaji",
+    "migration": "uhamiaji",
+    "mineurs": "watoto",
+    "mobile": "rununu",
+    "mobilité": "usafiri",
+    "molard": "Molard",
+    "multilingue": "lugha nyingi",
+    "musée": "makumbusho",
+    "médecin": "daktari",
+    "médecine générale": "dawa ya jumla",
+    "médiathèque": "maktaba ya media",
+    "médiation": "upatanishi",
+    "médicaments": "dawa",
+    "natation": "kuogelea",
+    "nature": "asili",
+    "nuit": "usiku",
+    "offres": "nafasi",
+    "orientation": "mwelekeo",
+    "parc": "bustani",
+    "parc de la grange": "Parc de la Grange",
+    "parentalité": "uzazi",
+    "parents": "wazazi",
+    "parents-enfants": "wazazi-watoto",
+    "partage": "kushiriki",
+    "permaculture": "permaculture",
+    "permanence": "huduma ya kudumu",
+    "permis": "kibali",
+    "personnes âgées": "wazee",
+    "petite enfance": "utoto wa mapema",
+    "petits boulots": "kazi ndogo",
+    "petits-déjeuners": "kifungua kinywa",
+    "pharmacie": "duka la dawa",
+    "piscine": "bwawa la kuogelea",
+    "place de neuve": "Place de Neuve",
+    "plage": "ufukwe",
+    "plaine": "uwanda",
+    "plainpalais": "Plainpalais",
+    "planning familial": "uzazi wa mpango",
+    "plein air": "nje",
+    "ponctuel": "mara moja",
+    "potager": "bustani",
+    "prestations": "huduma",
+    "prix réduits": "bei ya punguzo",
+    "pro juventute": "Pro Juventute",
+    "proches aidants": "walezi wa karibu",
+    "protection": "ulinzi",
+    "précarité": "hali ngumu",
+    "prévention": "kuzuia",
+    "prêt": "ukopaji",
+    "psychiatrie": "tiba ya akili",
+    "psycho-oncologie": "saikolojia-kansa",
+    "psychologie": "saikolojia",
+    "psychologique": "kisaikolojia",
+    "psychologue": "mtaalamu wa saikolojia",
+    "psychopédagogique": "kisaikolojia-kielimu",
+    "public": "umma",
+    "pâquis": "Pâquis",
+    "quai": "gati",
+    "quartier": "mtaa",
+    "reconversion": "mabadiliko ya kazi",
+    "recours": "rufaa",
+    "redistribution": "ugawaji",
+    "refuge": "kimbilio",
+    "repair café": "kahawa ya kurekebisha",
+    "repas": "mlo",
+    "repos": "kupumzika",
+    "ressources": "rasilimali",
+    "restaurant": "mkahawa",
+    "récupération": "ukusanyaji",
+    "réduction": "punguzo",
+    "réduction des risques": "kupunguza madhara",
+    "réfugiés": "wakimbizi",
+    "réinsertion": "ujumuishaji upya",
+    "réorientation": "mwelekeo mpya",
+    "réparation": "kurekebisha",
+    "répit": "kupumzika",
+    "réseau": "mtandao",
+    "résolution": "ufumbuzi",
+    "réunions": "mikutano",
+    "sages-femmes": "wakunga",
+    "saint-jean": "Saint-Jean",
+    "sans assurance": "bila bima",
+    "sans rendez-vous": "bila miadi",
+    "sans-abri": "wasio na makazi",
+    "sans-papiers": "wahamiaji haramu",
+    "santé": "afya",
+    "santé mentale": "afya ya akili",
+    "santé sexuelle": "afya ya ngono",
+    "sauna": "sauna",
+    "sciences": "sayansi",
+    "seconde main": "mkono wa pili",
+    "seniors": "wazee",
+    "servette": "Servette",
+    "social": "kijamii",
+    "socioculturel": "kijamii-kitamaduni",
+    "soins": "huduma za afya",
+    "soins à domicile": "huduma za afya nyumbani",
+    "solidaire": "mshikamano",
+    "soupe": "supu",
+    "soupe populaire": "supu ya umma",
+    "soutien": "msaada",
+    "soutien scolaire": "msaada wa masomo",
+    "sport": "michezo",
+    "stages": "mafunzo ya vitendo",
+    "substitution": "kubadilisha",
+    "suicide": "kujiua",
+    "syndicat": "chama cha wafanyakazi",
+    "sécheron": "Sécheron",
+    "tabac": "tumbaku",
+    "tarif réduit": "bei ya punguzo",
+    "tarif social": "bei ya kijamii",
+    "toilettes": "vyoo",
+    "toxicodépendance": "uraibu wa dawa",
+    "traite": "biashara ya binadamu",
+    "traitement": "matibabu",
+    "trans": "trans",
+    "transport": "usafiri",
+    "travail": "kazi",
+    "travail du sexe": "kazi ya ngono",
+    "travailleurs pauvres": "wafanyakazi maskini",
+    "tutelle": "udhamini",
+    "téléphone": "simu",
+    "université": "chuo kikuu",
+    "urbain": "mjini",
+    "urgence": "dharura",
+    "verre": "kioo",
+    "vestiaire": "chumba cha nguo",
+    "victimes": "waathiriwa",
+    "vie associative": "maisha ya vyama",
+    "vieille ville": "mji wa kale",
+    "ville": "mji",
+    "violence": "unyanyasaji",
+    "violence conjugale": "unyanyasaji wa nyumbani",
+    "violences": "unyanyasaji",
+    "violences sexuelles": "unyanyasaji wa kijinsia",
+    "vélos": "baiskeli",
+    "vêtements": "nguo",
+    "wifi": "wifi",
+    "écologie": "ikolojia",
+    "écologique": "ya ikolojia",
+    "écoute": "kusikiliza",
+    "éducation": "elimu",
+    "épicerie": "duka",
+    "étrangers": "wageni",
+    "étude": "masomo",
+    "étudier": "kusoma"
+  }
+}

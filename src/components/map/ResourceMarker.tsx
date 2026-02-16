@@ -32,7 +32,8 @@ function getCategoryIcon(category: Resource['category'], isSelected: boolean) {
     align-items: center;
     justify-content: center;
     transition: transform 0.15s;
-    ${isSelected ? 'transform: scale(1.15); box-shadow: 0 4px 12px rgba(0,0,0,0.4); z-index: 1000;' : ''}
+    animation: fade-in 0.3s ease-out;
+    ${isSelected ? 'transform: scale(1.15); animation: marker-pulse 1.5s ease-out infinite; z-index: 1000;' : ''}
   "><span style="font-size: ${emojiSize}px; line-height: 1;">${emoji}</span></div>`
 
   const icon = L.divIcon({

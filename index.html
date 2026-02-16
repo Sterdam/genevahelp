@@ -2,14 +2,131 @@
 <html lang="fr">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <meta name="description" content="Carte interactive des ressources gratuites à Genève — aide alimentaire, juridique, santé, logement et plus." />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+
+    <!-- Primary Meta Tags -->
+    <title>GenevaHelp — Ressources gratuites à Genève | Free resources in Geneva</title>
+    <meta name="description" content="Carte interactive des ressources gratuites à Genève — aide alimentaire, juridique, santé, logement, cours de langue et plus. Interactive map of all free resources in Geneva." />
+    <meta name="keywords" content="Geneva, Genève, free resources, ressources gratuites, aide, help, food, health, housing, legal, language, map, carte, associations, migrants, refugees" />
+    <meta name="author" content="GenevaHelp" />
+    <link rel="canonical" href="https://genevahelp.ch/" />
+
+    <!-- Open Graph / Facebook / WhatsApp / Telegram -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://genevahelp.ch/" />
+    <meta property="og:title" content="GenevaHelp — Ressources gratuites à Genève" />
+    <meta property="og:description" content="Carte interactive de toutes les ressources gratuites à Genève : aide alimentaire, juridique, médicale, logement, cours de langue et bien plus." />
+    <meta property="og:image" content="https://genevahelp.ch/og-image.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:locale" content="fr_CH" />
+    <meta property="og:locale:alternate" content="en_GB" />
+    <meta property="og:locale:alternate" content="de_CH" />
+    <meta property="og:locale:alternate" content="it_CH" />
+    <meta property="og:locale:alternate" content="pt_PT" />
+    <meta property="og:locale:alternate" content="es_ES" />
+    <meta property="og:locale:alternate" content="ar_SA" />
+    <meta property="og:locale:alternate" content="tr_TR" />
+    <meta property="og:site_name" content="GenevaHelp" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content="https://genevahelp.ch/" />
+    <meta name="twitter:title" content="GenevaHelp — Free resources in Geneva" />
+    <meta name="twitter:description" content="Interactive map of all free resources in Geneva: food, health, housing, legal aid, language courses and more." />
+    <meta name="twitter:image" content="https://genevahelp.ch/og-image.png" />
+
+    <!-- PWA -->
+    <link rel="manifest" href="/manifest.json" />
     <meta name="theme-color" content="#2563EB" />
-    <title>GenevaMap — Ressources gratuites à Genève</title>
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="GenevaHelp" />
+    <link rel="apple-touch-icon" href="/icons/icon-192.png" />
+
+    <!-- Google Fonts: Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/icons/icon-32.png" />
+
+    <!-- Geo Meta -->
+    <meta name="geo.region" content="CH-GE" />
+    <meta name="geo.placename" content="Geneva" />
+    <meta name="geo.position" content="46.2044;6.1432" />
+    <meta name="ICBM" content="46.2044, 6.1432" />
+
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "GenevaHelp",
+      "alternateName": "GenevaHelp - Ressources gratuites à Genève",
+      "url": "https://genevahelp.ch",
+      "description": "Interactive map of all free resources in Geneva: food aid, health, housing, legal help, language courses and more.",
+      "applicationCategory": "LifestyleApplication",
+      "operatingSystem": "Any",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "CHF"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "GenevaHelp",
+        "url": "https://genevahelp.ch"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "Geneva",
+        "alternateName": "Genève",
+        "containedInPlace": {
+          "@type": "Country",
+          "name": "Switzerland"
+        }
+      },
+      "inLanguage": ["fr", "en", "de", "es", "it", "pt", "ar", "tr", "ru", "uk", "fa", "hi", "am", "ti", "so", "sq", "sr", "hr", "bg", "ro", "pl", "bn", "ur", "ta", "ne", "sw", "ku", "ja", "ko", "zh", "vi", "th"],
+      "isAccessibleForFree": true
+    }
+    </script>
   </head>
+
+  <!-- Pre-rendered SEO content for crawlers (hidden when JS loads) -->
   <body>
-    <div id="root"></div>
+    <div id="root">
+      <div id="seo-fallback" style="max-width:800px;margin:0 auto;padding:40px 20px;font-family:system-ui,sans-serif">
+        <h1>GenevaHelp — Ressources gratuites à Genève</h1>
+        <p>Carte interactive de toutes les ressources gratuites à Genève : aide alimentaire, juridique, médicale, hébergement, cours de langue, wifi public et bien plus.</p>
+        <h2>Free resources in Geneva</h2>
+        <p>Interactive map of all free resources in Geneva: food aid, legal help, healthcare, housing, language courses, public wifi, and much more.</p>
+        <h2>Categories</h2>
+        <ul>
+          <li>Aide alimentaire / Food aid</li>
+          <li>Santé / Health</li>
+          <li>Hébergement / Housing</li>
+          <li>Aide juridique / Legal aid</li>
+          <li>Cours de langue / Language courses</li>
+          <li>Emploi / Employment</li>
+          <li>Vêtements / Clothing</li>
+          <li>Hygiène / Hygiene</li>
+          <li>WiFi public / Public WiFi</li>
+          <li>Aide financière / Financial aid</li>
+          <li>Enfants / Children</li>
+          <li>Personnes âgées / Elderly</li>
+          <li>Femmes / Women</li>
+          <li>Addictions / Addiction support</li>
+          <li>Aide sociale / Social support</li>
+          <li>Démarches administratives / Administrative help</li>
+          <li>Urgences / Emergency</li>
+        </ul>
+        <p>171 ressources vérifiées. Disponible en 32 langues.</p>
+        <p>171 verified resources. Available in 32 languages.</p>
+      </div>
+    </div>
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>

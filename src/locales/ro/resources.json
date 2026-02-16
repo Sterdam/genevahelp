@@ -1,0 +1,1214 @@
+{
+  "r_0001": {
+    "description": "Distribuire gratuita de alimente pentru persoanele aflate in situatie de precaritate. Mese calde servite la pranz si seara. Primire neconditionata.",
+    "target_audience": "Orice persoana aflata in situatie de precaritate",
+    "access_conditions": "Fara conditii, deschis tuturor"
+  },
+  "r_0002": {
+    "description": "Consultatii juridice gratuite oferite de Ordinul Avocatilor din Geneva. Primele sfaturi juridice fara programare pentru orice intrebare de drept.",
+    "target_audience": "Orice persoana care are nevoie de sfaturi juridice",
+    "access_conditions": "Fara programare, primul venit primul servit"
+  },
+  "r_0003": {
+    "description": "Frigider cu acces liber unde oricine poate depune sau lua alimente gratuit. Lupta impotriva risipei alimentare.",
+    "target_audience": "Public larg",
+    "access_conditions": "Acces liber 24h/24"
+  },
+  "r_0004": {
+    "description": "Magazin solidar si distribuire de imbracaminte. Insotire sociala pentru persoanele in dificultate financiara. Ajutor alimentar si vestimentar.",
+    "target_audience": "Persoane cu venituri mici",
+    "access_conditions": "La prezentarea unei adeverinte de venituri modeste"
+  },
+  "r_0005": {
+    "description": "Consultatii juridice si sociale gratuite. Ajutor administrativ, consiliere in dreptul strainilor, dreptul muncii si asigurarile sociale.",
+    "target_audience": "Orice persoana in dificultate juridica sau administrativa",
+    "access_conditions": "Cu programare, prima consultatie gratuita"
+  },
+  "r_0006": {
+    "description": "Servicii de sanatate, ajutor social si insotire pentru persoanele vulnerabile. Programe de sprijin pentru migranti si refugiati.",
+    "target_audience": "Persoane vulnerabile, migranti, refugiati",
+    "access_conditions": "In functie de programe, unele cu programare"
+  },
+  "r_0007": {
+    "description": "Distribuire saptamanala de pachete alimentare pentru familiile si persoanele aflate in situatie de precaritate. Produse proaspete si de baza.",
+    "target_audience": "Familii si persoane cu venituri mici",
+    "access_conditions": "Cu inscriere, cu justificativ al situatiei financiare"
+  },
+  "r_0008": {
+    "description": "Institutie cantonala de ajutor social. Prestatii financiare, insotire sociala, ajutor pentru locuinta si insertie profesionala.",
+    "target_audience": "Rezidenti genovezi in dificultate financiara",
+    "access_conditions": "Cu programare, rezidenti ai cantonului Geneva"
+  },
+  "r_0009": {
+    "description": "Acces gratuit la dusuri, masini de spalat si uscatoare. Spatiu de igiena pentru persoanele fara adapost sau in situatie precara.",
+    "target_audience": "Persoane fara adapost, persoane in situatie precara",
+    "access_conditions": "Fara conditii, acces liber"
+  },
+  "r_0010": {
+    "description": "Consultatii medicale gratuite pentru persoanele fara asigurare de sanatate. Ingrijiri de prim ajutor, orientare si insotire medicala.",
+    "target_audience": "Persoane fara asigurare de sanatate, persoane fara acte",
+    "access_conditions": "Fara asigurare de sanatate, fara programare"
+  },
+  "r_0011": {
+    "description": "Cursuri gratuite de franceza pentru femei migrante. Cresa pentru copii in timpul cursurilor. Ateliere de integrare si socializare.",
+    "target_audience": "Femei migrante si copiii lor",
+    "access_conditions": "Femei migrante, inscriere la inceputul semestrului"
+  },
+  "r_0012": {
+    "description": "Cursuri serale gratuite sau la preturi modice: franceza, informatica, contabilitate, limbi straine. Formare continua pentru adulti.",
+    "target_audience": "Adulti care doresc sa se formeze",
+    "access_conditions": "Inscriere la inceputul semestrului, tarife reduse in functie de venituri"
+  },
+  "r_0013": {
+    "description": "Adapost de urgenta pentru noapte. Primire neconditionata a persoanelor fara adapost. Cina si micul dejun incluse.",
+    "target_audience": "Persoane fara adapost",
+    "access_conditions": "Fara conditii, primire neconditionata seara"
+  },
+  "r_0014": {
+    "description": "Primire, ascultare si adapost de urgenta pentru femeile victime ale violentei. Sprijin psihologic si insotire juridica.",
+    "target_audience": "Femei victime ale violentei domestice",
+    "access_conditions": "Linie telefonica 24h/24, adapost dupa evaluare"
+  },
+  "r_0015": {
+    "description": "Magazin solidar de imbracaminte, mobila si obiecte la preturi foarte reduse. Recuperare si redistribuire de obiecte second-hand.",
+    "target_audience": "Public larg, persoane cu venituri mici",
+    "access_conditions": "Deschis tuturor, preturi solidare"
+  },
+  "r_0016": {
+    "description": "Informare si orientare pentru persoanele straine. Cursuri de franceza subventionate, ajutor pentru integrare, prevenirea rasismului si discriminarilor.",
+    "target_audience": "Persoane straine rezidente la Geneva",
+    "access_conditions": "Rezidenti straini ai cantonului Geneva"
+  },
+  "r_0017": {
+    "description": "Acces WiFi gratuit in Parc des Bastions, oferit de Ville de Genève. Conexiune libera si nelimitata.",
+    "target_audience": "Public larg",
+    "access_conditions": "Acces liber"
+  },
+  "r_0018": {
+    "description": "Spatiu comunitar care ofera activitati sociale, culturale si educative. Cursuri, ateliere si evenimente gratuite sau la preturi modice.",
+    "target_audience": "Locuitori ai cartierului Plainpalais",
+    "access_conditions": "Deschis tuturor locuitorilor cartierului"
+  },
+  "r_0019": {
+    "description": "Recuperarea alimentelor nevandute de la magazine si redistribuirea gratuita catre persoanele aflate in nevoie. Lupta impotriva risipei.",
+    "target_audience": "Persoane in situatie de precaritate alimentara",
+    "access_conditions": "Cu inscriere, justificativ al situatiei financiare"
+  },
+  "r_0020": {
+    "description": "Ajutor financiar de urgenta, insotire sociala, orientare catre serviciile adecvate. Sprijin pentru locuitorii Ville de Genève.",
+    "target_audience": "Locuitori ai Ville de Genève in dificultate",
+    "access_conditions": "Rezidenti ai Ville de Genève"
+  },
+  "r_0021": {
+    "description": "Consultatii de medicina de prim ajutor pentru solicitantii de azil si persoanele migrante. Partener al retelei de sanatate pentru azil, cu abordare interculturala si psihosociala. Consultatii cu interpreti disponibili.",
+    "target_audience": "Solicitanti de azil, refugiati, persoane migrante",
+    "access_conditions": "Cu programare, programari de luni pana vineri 9h-11h30 si 13h30-17h"
+  },
+  "r_0022": {
+    "description": "Program de insertie profesionala pentru persoanele in cautarea unui loc de munca. Ateliere, formare practica si insotire personalizata.",
+    "target_audience": "Persoane in cautarea unui loc de munca cu dificultati de insertie",
+    "access_conditions": "Inscriere prin Oficiul Cantonal al Muncii sau Hospice général"
+  },
+  "r_0023": {
+    "description": "Insotire educativa si sociala pentru copii si adolescenti. Camine, ateliere educative, sprijin scolar si activitati de timp liber.",
+    "target_audience": "Copii si adolescenti de la 4 la 18 ani",
+    "access_conditions": "Orientare de catre Serviciul de protectie a minorilor"
+  },
+  "r_0024": {
+    "description": "Unitate de urgenta psihosociala afiliat imad. Intervine in situatii de precaritate, violenta domestica, minori in criza si suferinta psihosociala. Echipa formata dintr-un asistent medical si lucratori sociali.",
+    "target_audience": "Persoane fara adapost",
+    "access_conditions": "Fara conditii, echipa mobila pe strazi"
+  },
+  "r_0025": {
+    "description": "Insotirea persoanelor care sufera de dependente. Consultatii, program de substitutie, dezintoxicare si reinsertion. Centru de tratament ambulator.",
+    "target_audience": "Persoane care sufera de dependente",
+    "access_conditions": "Fara programare pentru primire, cu programare pentru consultatii"
+  },
+  "r_0026": {
+    "description": "Servicii pentru persoanele varstnice: ajutor la domiciliu, activitati sociale, consiliere juridica si financiara, cursuri si ateliere.",
+    "target_audience": "Persoane varstnice de 60 de ani si peste",
+    "access_conditions": "Persoane de 60 de ani si peste"
+  },
+  "r_0027": {
+    "description": "Acces WiFi gratuit la Bains des Pâquis. Zona de conexiune cu acces liber pe amplasament.",
+    "target_audience": "Public larg",
+    "access_conditions": "Acces liber"
+  },
+  "r_0028": {
+    "description": "Serviciu de medici la domiciliu disponibil 24h/24. Consultatii medicale de urgenta la domiciliu sau la cabinet, 7 zile din 7.",
+    "target_audience": "Orice persoana care necesita o consultatie medicala urgenta",
+    "access_conditions": "Apel telefonic, cheltuielile medicale in sarcina pacientului"
+  },
+  "r_0029": {
+    "description": "Centru de primire de zi pentru persoanele in situatie de precaritate. Spatiu primitor, cafea, dusuri, spalatorie, acces internet si activitati.",
+    "target_audience": "Persoane in situatie de precaritate",
+    "access_conditions": "Fara conditii, primire libera"
+  },
+  "r_0030": {
+    "description": "Consultatii psihologice gratuite sau la tarife reduse pentru persoanele migrante. Sprijin psihologic in mai multe limbi.",
+    "target_audience": "Persoane migrante in dificultate psihologica",
+    "access_conditions": "Cu programare, tarife in functie de venituri"
+  },
+  "r_0031": {
+    "description": "Biblioteca municipala cu acces gratuit. Imprumut de carti, DVD-uri, CD-uri. Spatiu de lucru, WiFi gratuit, ziare si reviste. Ateliere culturale.",
+    "target_audience": "Public larg",
+    "access_conditions": "Acces liber, card gratuit pentru imprumut"
+  },
+  "r_0032": {
+    "description": "Serviciu public de ajutor in cautarea unui loc de munca. Inscriere la somaj, oferte de munca, consiliere in orientare profesionala, masuri de insertie.",
+    "target_audience": "Persoane in cautarea unui loc de munca rezidente la Geneva",
+    "access_conditions": "Rezidenti ai cantonului Geneva, inscriere obligatorie"
+  },
+  "r_0033": {
+    "description": "Permanente juridice si sociale pentru persoanele migrante. Ajutor administrativ, dreptul strainilor, reunificarea familiei.",
+    "target_audience": "Persoane migrante, persoane fara acte",
+    "access_conditions": "Cu programare sau permanenta fara programare"
+  },
+  "r_0034": {
+    "description": "Spatiu de primire cu prag scazut pentru persoanele consumatoare de droguri. Material steril, consultatii, spatiu de odihna si insotire.",
+    "target_audience": "Persoane consumatoare de droguri",
+    "access_conditions": "Fara conditii, primire anonima"
+  },
+  "r_0035": {
+    "description": "Centru comunitar al cartierului Pâquis. Activitati culturale, cursuri de limbi, ateliere creative, spatiu pentru copii si ajutor la teme.",
+    "target_audience": "Locuitori ai cartierului Pâquis",
+    "access_conditions": "Deschis tuturor"
+  },
+  "r_0036": {
+    "description": "Distribuire gratuita de imbracaminte pentru persoanele in situatie de precaritate. Imbracaminte pentru barbati, femei si copii, in functie de sezon.",
+    "target_audience": "Persoane in situatie de precaritate",
+    "access_conditions": "La prezentarea unei adeverinte de la un serviciu social"
+  },
+  "r_0037": {
+    "description": "Cursuri de franceza limba straina pentru adulti migranti. Niveluri de la incepator la avansat. Cursuri de zi si de seara.",
+    "target_audience": "Adulti migranti care doresc sa invete franceza",
+    "access_conditions": "Inscriere si test de nivel, tarife reduse posibile"
+  },
+  "r_0038": {
+    "description": "Distribuire de mese calde (supa si paine) pentru persoanele in situatie de precaritate. Serviciu gratuit si fara conditii.",
+    "target_audience": "Public larg",
+    "access_conditions": "Fara conditii, primul venit primul servit"
+  },
+  "r_0039": {
+    "description": "Centru de informare si consultatie pentru femei. Consiliere juridica, sociala si profesionala. Sprijin in caz de violenta.",
+    "target_audience": "Femei de toate varstele si din toate situatiile",
+    "access_conditions": "Deschis tuturor femeilor, unele consultatii cu programare"
+  },
+  "r_0040": {
+    "description": "Filiala Hospice général la Plainpalais. Ajutor financiar, insotire sociala, ajutor pentru locuinta si insertie profesionala.",
+    "target_audience": "Rezidenti ai cartierului Plainpalais in dificultate",
+    "access_conditions": "Cu programare, rezidenti ai cantonului Geneva"
+  },
+  "r_0041": {
+    "description": "Asociatie de moase independente care promoveaza sanatatea perinatala. Permanenta telefonica 7z/7, spatii de primire gratuite cu moase, sfaturi sarcina, alaptare, urmarire postnatala.",
+    "target_audience": "Femei insarcinate si parinti tineri",
+    "access_conditions": "Fara programare pentru permanente, gratuit. Permanenta telefonica lun-vin 8h-20h, sam-dum 9h-12h si 17h-20h"
+  },
+  "r_0042": {
+    "description": "Spatiu de primire de zi pentru persoanele in situatie de precaritate. Mic dejun, cafea, spatiu de odihna, activitati si orientare sociala.",
+    "target_audience": "Persoane fara adapost",
+    "access_conditions": "Fara conditii, primire neconditionata"
+  },
+  "r_0043": {
+    "description": "Protectie juridica a adultilor vulnerabili si a minorilor. Curatele, tutele si masuri de protectie.",
+    "target_audience": "Adulti vulnerabili si minori care necesita protectie juridica",
+    "access_conditions": "La semnalare sau cerere directa"
+  },
+  "r_0044": {
+    "description": "Punct de acces WiFi gratuit pe Place du Molard, in inima orasului vechi din Geneva. Retea Ville de Genève.",
+    "target_audience": "Public larg",
+    "access_conditions": "Acces liber"
+  },
+  "r_0045": {
+    "description": "Adapost pentru femei cu copii in dificultate, majoritari victime ale violentei conjugale. Sprijin psihosocial, ajutor pentru integrarea sociala si profesionala, consolidarea legaturilor mama/copil. Dispune de o cresa.",
+    "target_audience": "Femei singure sau cu copii in situatie de precaritate",
+    "access_conditions": "Cu orientare de la un serviciu social, evaluarea situatiei"
+  },
+  "r_0046": {
+    "description": "Spatiu de primire gratuit, anonim si fara inscriere pentru copiii pana la 5 ani insotiti de un adult. Loc de ascultare si sprijin pentru copii si parinti.",
+    "target_audience": "Copii de la 0 la 5 ani si parintii sau insotitorii lor",
+    "access_conditions": "Gratuit, anonim, fara inscriere, copii insotiti de un adult"
+  },
+  "r_0047": {
+    "description": "Consiliere juridica pentru chiriasi. Ajutor in caz de litigiu cu proprietarul, crestere de chirie, reziliere de contract de inchiriere.",
+    "target_audience": "Chiriasi din cantonul Geneva",
+    "access_conditions": "Aderare la asociatie (cotizatie modica)"
+  },
+  "r_0048": {
+    "description": "Colectare si redistribuire de alimente catre asociatiile caritabile din Geneva. Lupta impotriva precaritatii alimentare si a risipei.",
+    "target_audience": "Asociatii caritabile si persoane in precaritate alimentara",
+    "access_conditions": "Accesibil prin asociatiile partenere"
+  },
+  "r_0049": {
+    "description": "Clinica dentara universitara care ofera ingrijiri dentare. Primire fara programare de luni pana vineri de la 8h la 15h30. Urgente dentare si ingrijiri curente.",
+    "target_audience": "Public larg, persoane fara asigurare dentara sau cu venituri mici",
+    "access_conditions": "Primire fara programare de luni pana vineri de la 8h la 15h30"
+  },
+  "r_0050": {
+    "description": "Loc de primire, sprijin si reinsertie socio-profesionala pentru persoanele in situatie de precaritate. Micuri dejunuri gratuite (150-200/saptamana), activitati sociale si stagii de reinsertie.",
+    "target_audience": "Persoane in situatie de precaritate",
+    "access_conditions": "Fara conditii, primire libera"
+  },
+  "r_0051": {
+    "description": "Loc de primire, timp liber, intalniri si relaxare pentru toate varstele, toate culturile si toate mediile sociale. Activitati culturale si sociale.",
+    "target_audience": "Locuitori ai cartierului Eaux-Vives si public larg",
+    "access_conditions": "Deschis tuturor, primire libera"
+  },
+  "r_0052": {
+    "description": "Spatiu de primire si orientare pentru femei si familii. Consultatii juridice (dreptul familiei, divort, violenta conjugala, permise de sedere), orientare profesionala si sprijin psihosocial.",
+    "target_audience": "Femei si familii",
+    "access_conditions": "Permanenta juridica telefonica: mar 11h-13h, mie 14h-16h, joi 12h-14h la 022 740 31 11. Consultatii cu programare."
+  },
+  "r_0053": {
+    "description": "Asociatie de prevenire a suicidului in randul tinerilor din Elvetia francofona. Sensibilizare, ateliere, module de preventie si orientare catre structuri de ajutor. In caz de urgenta, sunati la 143.",
+    "target_audience": "Tineri de la 15 la 29 de ani, prevenirea suicidului",
+    "access_conditions": "Birou deschis in timpul saptamanii. In caz de urgenta, sunati la 143 (24h/24)"
+  },
+  "r_0054": {
+    "description": "Departament de sanatate mintala si psihiatrie al HUG. Consultatii psihiatrice si psihologice, ingrijirea tulburarilor anxioase, depresie, traumatisme.",
+    "target_audience": "Persoane care sufera de tulburari psihice",
+    "access_conditions": "Cu programare, cu prescriptie medicala"
+  },
+  "r_0055": {
+    "description": "Prestatii financiare complementare pentru beneficiarii AVS/AI. Ajutor pentru plata primelor de asigurare de sanatate si a chiriei.",
+    "target_audience": "Beneficiari AVS/AI cu venituri mici",
+    "access_conditions": "Beneficiari AVS/AI, rezidenti ai cantonului Geneva"
+  },
+  "r_0056": {
+    "description": "Ajutor in natura si achitarea facturilor urgente pentru persoanele al caror venit se situeaza la minimul vital sau putin deasupra.",
+    "target_audience": "Persoane in dificultate financiara punctuala",
+    "access_conditions": "Cereri prin email la geneve@secours-d-hiver.ch. Telefon doar vineri."
+  },
+  "r_0057": {
+    "description": "Asociatie din Geneva orientata catre copii si adolescenti. Centru psihopedagogic (13-18 ani), Café Ados, sprijin pentru minorii neinsotiti, actiuni de preventie.",
+    "target_audience": "Copii si adolescenti de la 12 la 18 ani",
+    "access_conditions": "Cu inscriere sau orientare"
+  },
+  "r_0058": {
+    "description": "Programe de insertie profesionala pentru persoanele indepartate de piata muncii. Bilant de competente, coaching pentru angajare, stagii.",
+    "target_audience": "Persoane indepartate de piata muncii",
+    "access_conditions": "Inscriere prin Hospice général sau OCE"
+  },
+  "r_0059": {
+    "description": "Ajutor pentru refugiati si migranti. Cursuri de franceza, ajutor pentru integrare, consiliere juridica in dreptul azilului si insotire sociala.",
+    "target_audience": "Refugiati si persoane migrante",
+    "access_conditions": "Refugiati si migranti, inscriere necesara"
+  },
+  "r_0060": {
+    "description": "Centru comunitar din Jonction. Activitati sociale, civice si culturale pentru toate varstele. Primire libera, ateliere deschise locuitorilor de la 9 la 99 de ani.",
+    "target_audience": "Locuitori ai cartierului Jonction",
+    "access_conditions": "Deschis tuturor"
+  },
+  "r_0061": {
+    "description": "Spatiu de igiena (WC/dusuri) la etajul 1 al aripii de est a garii Cornavin. Gestionat de CFF. Acces contra cost (CHF 2), gratuit pentru detinatorii de abonament general SwissPass. WC-uri mai ieftine (CHF 1) se gasesc la subsolul pietei garii.",
+    "target_audience": "Public larg",
+    "access_conditions": "Acces contra cost (CHF 2), gratuit cu abonament general SwissPass"
+  },
+  "r_0062": {
+    "description": "Toalete publice gratuite situate in Parc des Bastions, in apropierea Mur des Réformateurs. Accesibile persoanelor cu mobilitate redusa.",
+    "target_audience": "Public larg",
+    "access_conditions": "Acces liber si gratuit"
+  },
+  "r_0063": {
+    "description": "Toalete publice gratuite pe Plaine de Plainpalais, aproape de targul de vechituri. Intretinere regulata de catre serviciile orasului.",
+    "target_audience": "Public larg",
+    "access_conditions": "Acces liber si gratuit"
+  },
+  "r_0064": {
+    "description": "Fantana de apa potabila publica si gratuita la Jardin Anglais, langa Horloge Fleurie. Apa proaspata tot anul.",
+    "target_audience": "Public larg",
+    "access_conditions": "Acces liber 24h/24"
+  },
+  "r_0065": {
+    "description": "Fantana publica de apa potabila pe cea mai veche piata din Geneva. Apa gratuita si potabila in mod continuu.",
+    "target_audience": "Public larg",
+    "access_conditions": "Acces liber 24h/24"
+  },
+  "r_0066": {
+    "description": "Fantana de apa potabila publica in Parc des Eaux-Vives, pe malul lacului. Ideala pentru a va racori in timpul plimbarilor.",
+    "target_audience": "Public larg",
+    "access_conditions": "Acces liber 24h/24"
+  },
+  "r_0067": {
+    "description": "Biblioteca municipala gratuita in inima cartierului Servette. Spatii separate pentru adulti si tineret, imprumut de carti si media, WiFi gratuit si activitati culturale.",
+    "target_audience": "Public larg",
+    "access_conditions": "Acces liber, card gratuit pentru imprumut"
+  },
+  "r_0068": {
+    "description": "Biblioteca municipala gratuita in cartierul Eaux-Vives. Spatii pentru adulti si tineret, imprumut de carti si media, WiFi gratuit.",
+    "target_audience": "Public larg",
+    "access_conditions": "Acces liber, card gratuit pentru imprumut"
+  },
+  "r_0069": {
+    "description": "Biblioteca municipala gratuita in cartierul Jonction. Selectie larga de carti, spatiu pentru tineret, animatii si WiFi gratuit.",
+    "target_audience": "Public larg",
+    "access_conditions": "Acces liber, card gratuit pentru imprumut"
+  },
+  "r_0070": {
+    "description": "Biblioteca municipala gratuita in inima cartierului cosmopolit Pâquis. Imprumut de carti in numeroase limbi, WiFi gratuit si animatii.",
+    "target_audience": "Public larg",
+    "access_conditions": "Acces liber, card gratuit pentru imprumut"
+  },
+  "r_0071": {
+    "description": "Imprumut gratuit de jocuri de societate, jocuri educative si jucarii pentru copii si familii. Spatiu de joc pe loc. Deschisa tuturor copiilor insotiti.",
+    "target_audience": "Copii, familii, public larg",
+    "access_conditions": "Inscriere gratuita, imprumut gratuit"
+  },
+  "r_0072": {
+    "description": "Ludoteca de cartier cu imprumut gratuit de jocuri de societate, jucarii si jocuri educative. Spatiu de joc prietenos si ateliere ludice.",
+    "target_audience": "Copii, familii, public larg",
+    "access_conditions": "Inscriere gratuita, imprumut gratuit"
+  },
+  "r_0073": {
+    "description": "Gradina urbana comunitara in cartierul Grottes. Parcele comune, compostare colectiva si ateliere gratuite de gradinarit.",
+    "target_audience": "Locuitori ai cartierului, pasionati de gradinarit",
+    "access_conditions": "Acces liber, participare la ateliere cu inscriere"
+  },
+  "r_0074": {
+    "description": "Gradina urbana participativa in Parc Beaulieu, gestionata de asociatia Les Artichauts. Ateliere gratuite de gradinarit in fiecare sambata dupa-amiaza, deschise tuturor nivelurilor. Productie de rasaduri bio.",
+    "target_audience": "Locuitori ai cartierului, public larg",
+    "access_conditions": "Acces liber, ateliere gratuite de gradinarit sambata 14h-17h (de la jumatatea lui februarie pana la sfarsitul lui octombrie)"
+  },
+  "r_0075": {
+    "description": "Permanenta sindicala pentru lucratori si lucratoare. Consiliere in dreptul muncii, apararea drepturilor, ajutor in caz de concediere sau conflict la locul de munca.",
+    "target_audience": "Lucratori si lucratoare, toate ramurile",
+    "access_conditions": "Deschis tuturor lucratorilor, aderare pentru serviciile juridice"
+  },
+  "r_0076": {
+    "description": "Sindicat interprofesional al lucratorilor si lucratoarelor. Permanente juridice, apararea drepturilor la locul de munca, negocieri colective.",
+    "target_audience": "Lucratori si lucratoare din toate sectoarele",
+    "access_conditions": "Deschis tuturor lucratorilor, aderare pentru serviciile juridice"
+  },
+  "r_0077": {
+    "description": "Centru gratuit si confidential de consultatie pentru victimele infractiunilor penale. Sprijin psihologic, juridic si social. Ajutor financiar de urgenta.",
+    "target_audience": "Victime ale infractiunilor penale si apropiati lor",
+    "access_conditions": "Gratuit si confidential, consultatii cu programare"
+  },
+  "r_0078": {
+    "description": "Serviciu de ascultare telefonica 24h/24 pentru orice persoana in dificultate, anxietate sau singuritate. Ascultare anonima, confidentiala si gratuita.",
+    "target_audience": "Orice persoana in suferinta, singuritate sau anxietate",
+    "access_conditions": "Sunati la 143, gratuit, anonim si confidential 24h/24"
+  },
+  "r_0079": {
+    "description": "Linie de ajutor pentru copii si tineri, disponibila 24h/24. Ascultare, sfaturi si orientare pentru problemele personale, familiale sau scolare.",
+    "target_audience": "Copii si tineri pana la 25 de ani",
+    "access_conditions": "Sunati la 147, gratuit, anonim si confidential 24h/24"
+  },
+  "r_0080": {
+    "description": "Consultatii gratuite si confidentiale in sanatate sexuala si reproductiva. Contraceptie, sarcina, ITS, consiliere conjugala si educatie sexuala. Contraceptie de urgenta fara programare.",
+    "target_audience": "Orice persoana, in special tinerii si femeile",
+    "access_conditions": "Gratuit, confidential, cu programare (fara programare pentru contraceptie de urgenta)"
+  },
+  "r_0081": {
+    "description": "Depistare HIV si ITS anonima si confidentiala la Hôpitaux Universitaires de Genève. Test rapid HIV (55 CHF), depistare completa HIV/ITS (155 CHF). Consultatii de urmarire si tratament pentru persoanele seropozitive.",
+    "target_audience": "Orice persoana care doreste o depistare HIV/ITS",
+    "access_conditions": "Depistare anonima cu programare (prin www.testvih.ch sau telefonic), test rapid HIV de la 55 CHF"
+  },
+  "r_0082": {
+    "description": "Farmacie integrata in centrul de sanatate Cité Générations (Clinica si Permanenta din Onex). Consiliere farmaceutica, urmarire terapeutica si apropierea de urgentele pentru adulti si copii.",
+    "target_audience": "Public larg, pacienti ai centrului de sanatate Cité Générations",
+    "access_conditions": "Deschis tuturor, fara conditii"
+  },
+  "r_0083": {
+    "description": "Serviciu centralizat de atribuire a locurilor de adapost de urgenta pentru persoanele fara adapost. Sunati la centrala pentru a obtine un loc in retea (adaposturi PC Châtelaine, Richemont, camine asociative). Capacitate totala de 184 locuri.",
+    "target_audience": "Persoane fara adapost, in situatie de urgenta",
+    "access_conditions": "Sunati la numarul gratuit 0800 22 22 10 pentru a obtine un loc, primire neconditionata"
+  },
+  "r_0084": {
+    "description": "Loc de primire de zi neconditionat la Temple de la Servette pentru persoanele in situatie de precaritate. Mese solidare, bauturi calde, scriptor public (CV, scrisori), ateliere de franceza, engleza si informatica, consultatii juridice gratuite.",
+    "target_audience": "Persoane in situatie de precaritate, migranti, persoane fara adapost",
+    "access_conditions": "Fara conditii, primire neconditionata"
+  },
+  "r_0085": {
+    "description": "Bai publice emblematice pe malul lacului Léman. Plaja cu nisip, bazine, trambulina (3-10m), sauna si hammam, bufet popular. Intrare foarte accesibila (2 CHF vara, 1 CHF iarna).",
+    "target_audience": "Public larg",
+    "access_conditions": "Acces gratuit la spatiile publice, intrare 2 CHF vara si 1 CHF iarna"
+  },
+  "r_0086": {
+    "description": "Plaja publica gratuita pe malul lacului, ideala pentru familii cu copii. Loc de joaca, bazin pentru copii, spatii verzi si terenuri de sport.",
+    "target_audience": "Familii, copii, public larg",
+    "access_conditions": "Acces liber si gratuit"
+  },
+  "r_0087": {
+    "description": "Terenuri sportive publice si gratuite in Parc des Bastions. Sah gigant, mese de ping-pong, petanque si spatiu de fitness in aer liber.",
+    "target_audience": "Public larg",
+    "access_conditions": "Acces liber si gratuit"
+  },
+  "r_0088": {
+    "description": "Serviciu gratuit de mediere pentru rezolvarea conflictelor familiale, sociale, de vecinatate sau de munca. Mediere penala, civila si de sanatate.",
+    "target_audience": "Locuitori ai Ville de Genève",
+    "access_conditions": "Gratuit, cu programare"
+  },
+  "r_0089": {
+    "description": "Spatiu de primire, informare si activitati pentru seniori. Punct de informare gratuit, ajutor administrativ, cursuri, ateliere, conferinte, sfaturi de sanatate si intalniri intergenerationale.",
+    "target_audience": "Seniori, persoane pensionate si apropiati lor",
+    "access_conditions": "Deschis tuturor seniorilor si apropiatilor lor, acces liber si gratuit"
+  },
+  "r_0090": {
+    "description": "Spatiu de lucru partajat gratuit in cadrul Bibliothèque de la Cité. WiFi, prize electrice, mese de lucru si atmosfera calma pentru a lucra sau studia.",
+    "target_audience": "Studenti, lucratori independenti, persoane in cautarea unui loc de munca, public larg",
+    "access_conditions": "Acces liber si gratuit, WiFi disponibil"
+  },
+  "r_0091": {
+    "description": "Ateliere gratuite si itinerante de reparatii organizate de FRC Genève. Voluntarii experti repara aparate electronice, imbracaminte si biciclete. Evenimente periodice (consultati site-ul pentru date si locuri).",
+    "target_audience": "Public larg",
+    "access_conditions": "Acces liber si gratuit, o sambata pe luna (consultati site-ul)"
+  },
+  "r_0092": {
+    "description": "Atelier de reparatii gratuit la Carouge. Voluntarii va ajuta sa va reparati obiectele stricate: aparate mici, cusut, informatica, biciclete.",
+    "target_audience": "Public larg",
+    "access_conditions": "Acces liber si gratuit, o sambata pe luna (consultati site-ul)"
+  },
+  "r_0093": {
+    "description": "Centru de consultatii si studii etnopsihologice pentru persoanele migrante. Sprijin psihoterapeutic adaptat culturii de origine, ajutor pentru traumatismele legate de exil si integrare.",
+    "target_audience": "Persoane migrante, cupluri biculturale, familii in situatie interculturala",
+    "access_conditions": "Cu programare, consultatii pentru persoane migrante si biculturale"
+  },
+  "r_0094": {
+    "description": "Toalete publice gratuite pe Place de Neuve, in apropierea Grand Théâtre si Musée Rath. Accesibile persoanelor cu mobilitate redusa.",
+    "target_audience": "Public larg",
+    "access_conditions": "Acces liber si gratuit"
+  },
+  "r_0095": {
+    "description": "Fantana de apa potabila gratuita in Parc de la Grange, cel mai mare parc riveran din Geneva. Apa proaspata accesibila tot anul.",
+    "target_audience": "Public larg",
+    "access_conditions": "Acces liber 24h/24"
+  },
+  "r_0096": {
+    "description": "Toalete publice gratuite situate pe Quai du Mont-Blanc, langa Jet d'eau. Deschise tot anul.",
+    "target_audience": "Public larg",
+    "access_conditions": "Acces liber si gratuit"
+  },
+  "r_0097": {
+    "description": "Gradina urbana partajata la confluenta Arve si Rhône. Ateliere de permacultura, compostare colectiva si gradinarit participativ.",
+    "target_audience": "Locuitori ai cartierului, public larg",
+    "access_conditions": "Acces liber, participare la cerere"
+  },
+  "r_0098": {
+    "description": "Fantana publica de apa potabila in fata Gare de Cornavin. Punct de aprovizionare cu apa proaspata si gratuita in centrul Genevei.",
+    "target_audience": "Public larg",
+    "access_conditions": "Acces liber 24h/24"
+  },
+  "r_0099": {
+    "description": "Ludoteca de cartier cu imprumut gratuit de jocuri de societate, puzzle-uri si jucarii pentru toate varstele. Dupa-amiezi de joc deschise familiilor.",
+    "target_audience": "Copii, familii, public larg",
+    "access_conditions": "Joc pe loc gratuit, abonament anual 30 CHF pentru imprumut"
+  },
+  "r_0100": {
+    "description": "Acces WiFi gratuit in Parc de la Grange oferit de Ville de Genève. Conexiune libera intr-unul dintre cele mai frumoase parcuri din Geneva.",
+    "target_audience": "Public larg",
+    "access_conditions": "Acces liber"
+  },
+  "r_0101": {
+    "description": "Asociatie de sprijin pentru comunitatea LGBTIQ+. Checkpoint Genève (centru de sanatate comunitara cu depistare HIV/ITS si sprijin psihologic), Le Refuge (adapost pentru tineri LGBTIQ+), grupuri de discutii si activitati sociale.",
+    "target_audience": "Comunitatea LGBT+ si orice persoana interesata",
+    "access_conditions": "Deschis tuturor, depistare gratuita si anonima"
+  },
+  "r_0102": {
+    "description": "Centru comunitar din Saint-Jean care ofera activitati pentru toate varstele. Ateliere, cursuri de limbi, sprijin scolar si evenimente culturale.",
+    "target_audience": "Locuitori ai cartierului Saint-Jean, copii, adolescenti si adulti",
+    "access_conditions": "Deschis tuturor locuitorilor cartierului"
+  },
+  "r_0103": {
+    "description": "Sprijin gratuit si informatii pentru persoanele afectate de cancer. Consultatii psiho-oncologice, grupuri de discutii si insotire sociala.",
+    "target_audience": "Persoane afectate de cancer si apropiati lor",
+    "access_conditions": "Gratuit, cu programare"
+  },
+  "r_0104": {
+    "description": "Consultatii psihiatrice de criza si urmarire ambulatorie gratuita pentru adultii in situatie de suferinta psihica. Serviciu afiliat HUG.",
+    "target_audience": "Adulti in situatie de criza psihica",
+    "access_conditions": "Gratuit, cu sau fara programare in functie de urgenta"
+  },
+  "r_0105": {
+    "description": "Sprijin gratuit pentru persoanele diabetice si apropiati lor. Sfaturi dietetice, grupuri de schimb de experienta si informatii despre boala.",
+    "target_audience": "Persoane diabetice si apropiati lor",
+    "access_conditions": "Gratuit, cu programare sau permanenta telefonica"
+  },
+  "r_0106": {
+    "description": "Ingrijiri medicale de prim ajutor pentru persoanele fara asigurare de sanatate sau in situatie de precaritate. Consultatii generale si orientare.",
+    "target_audience": "Persoane fara asigurare de sanatate sau in situatie precara",
+    "access_conditions": "Accesibil persoanelor fara asigurare de sanatate, cu programare"
+  },
+  "r_0107": {
+    "description": "Institutie din Geneva de mentinere la domiciliu. Ingrijiri de asistenta medicala, ajutor la domiciliu si insotire pentru persoanele varstnice, bolnave sau in convalescenta.",
+    "target_audience": "Persoane varstnice, bolnave sau in convalescenta care necesita ingrijiri la domiciliu",
+    "access_conditions": "Cu prescriptie medicala sau cerere directa"
+  },
+  "r_0108": {
+    "description": "Sprijin gratuit pentru familiile si apropiati persoanelor afectate de Alzheimer. Grupuri de discutii, consultatii si orientare catre servicii specializate.",
+    "target_audience": "Familii si apropiati ai persoanelor afectate de Alzheimer sau dementa",
+    "access_conditions": "Gratuit, cu programare"
+  },
+  "r_0109": {
+    "description": "Serviciu cantonal de protectie a copilului. Evaluarea situatiilor de pericol, masuri de protectie si insotirea familiilor in dificultate.",
+    "target_audience": "Copii si familii in situatie de pericol sau dificultate",
+    "access_conditions": "Serviciu cantonal, acces la semnalare sau cerere"
+  },
+  "r_0110": {
+    "description": "Insotire educativa si sprijin scolar pentru tinerii in dificultate. Ateliere, adapost educativ si programe de reinsertie.",
+    "target_audience": "Tineri in dificultate scolara, sociala sau familiala",
+    "access_conditions": "Cu orientare din partea SPMi sau cerere directa"
+  },
+  "r_0111": {
+    "description": "Spatiu artistic gratuit pentru copiii de la 0 la 6 ani si insotitorii lor. Ateliere de pictura, modelare, muzica in cadrul Parc de la Perle du Lac.",
+    "target_audience": "Copii de la 0 la 6 ani insotiti de un adult",
+    "access_conditions": "Gratuit, fara inscriere, copii insotiti"
+  },
+  "r_0112": {
+    "description": "Loc de primire parinti-copii de la 0 la 4 ani. Spatiu de joc liber, schimburi intre parinti si sprijin pentru parentalitate intr-un cadru primitor.",
+    "target_audience": "Parinti si copii de la 0 la 4 ani",
+    "access_conditions": "Gratuit, fara inscriere, copilul insotit de un parinte"
+  },
+  "r_0113": {
+    "description": "Imprumut gratuit de jocuri si jucarii pentru copii si familii. Colectie larga de jocuri de societate, jocuri educative si jucarii pentru toate varstele.",
+    "target_audience": "Copii si familii",
+    "access_conditions": "Inscriere gratuita, imprumut gratuit de jocuri pentru rezidentii din Carouge"
+  },
+  "r_0114": {
+    "description": "Serviciu de imprumut gratuit de biciclete cu autoservire la Geneva. Biciclete clasice si electrice disponibile pentru deplasari urbane zilnice.",
+    "target_audience": "Public larg",
+    "access_conditions": "Gratuit, act de identitate si cautiune necesare"
+  },
+  "r_0115": {
+    "description": "Tarif redus la abonamentele de transport public din Geneva pentru persoanele cu venituri modeste. Reducere de pana la 50% la abonamentele lunare si anuale.",
+    "target_audience": "Persoane cu venituri modeste rezidente in cantonul Geneva",
+    "access_conditions": "Sub conditii de venituri, justificativ necesar"
+  },
+  "r_0116": {
+    "description": "Acoperirea cheltuielilor de transport public pentru beneficiarii ajutorului social. Abonament TPG inclus in prestatiile de ajutor financiar.",
+    "target_audience": "Beneficiari ai ajutorului social",
+    "access_conditions": "Rezervat beneficiarilor ajutorului social al Hospice général"
+  },
+  "r_0117": {
+    "description": "Acces WiFi gratuit SBB-FREE in gara Cornavin. Conexiune nelimitata disponibila in intreaga gara si pe peroane.",
+    "target_audience": "Public larg",
+    "access_conditions": "Gratuit, retea SBB-FREE, fara parola"
+  },
+  "r_0118": {
+    "description": "Acces WiFi gratuit al Ville de Genève la Jardin Anglais. Punct de acces in aer liber cu vedere la Jet d'eau si lac.",
+    "target_audience": "Public larg",
+    "access_conditions": "Gratuit, retea Ville de Genève WiFi"
+  },
+  "r_0119": {
+    "description": "Acces WiFi gratuit al Ville de Genève pe Plaine de Plainpalais. Zona de acoperire extinsa pe aceasta mare esplanada urbana.",
+    "target_audience": "Public larg",
+    "access_conditions": "Gratuit, retea Ville de Genève WiFi"
+  },
+  "r_0120": {
+    "description": "Cladire universitara care ofera acces WiFi gratuit si spatii de studiu deschise publicului. Biblioteca, sali de lucru si cafenea accesibile.",
+    "target_audience": "Studenti si orice persoana care doreste un spatiu de lucru",
+    "access_conditions": "Gratuit, acces liber la spatiile publice ale cladirii"
+  },
+  "r_0121": {
+    "description": "Reinsertie profesionala pentru persoanele afectate in sanatate sau in situatie de handicap. Dezvoltarea competentelor personale, profesionale si sociale, definirea proiectului profesional, stagii in intreprinderi si plasare.",
+    "target_audience": "Persoane in situatie de handicap sau cu probleme de sanatate care cauta un loc de munca",
+    "access_conditions": "Gratuit, cu orientare AI, somaj sau ajutor social"
+  },
+  "r_0122": {
+    "description": "Spatiu de formare pentru femeile putin sau deloc calificate care intampina dificultati in gasirea unui loc de munca. Cursuri de franceza, informatica, competente de baza si insotire catre autonomie si insertie profesionala.",
+    "target_audience": "Femei putin sau deloc calificate in situatie de precaritate",
+    "access_conditions": "Gratuit pentru majoritatea formarilor, inscriere la secretariat necesara"
+  },
+  "r_0123": {
+    "description": "Insotire profesionala pentru tinerii adulti sub 25 de ani catre reusita unui ucenicie duale si pentru persoanele de 50 de ani si peste catre reintoarcerea la munca. Coaching individual si colectiv.",
+    "target_audience": "Tineri sub 25 de ani fara formare si persoane de 50 de ani si peste in cautarea unui loc de munca",
+    "access_conditions": "Gratuit pentru tinerii sub 25 de ani si persoanele de 50 de ani si peste domiciliate la Geneva"
+  },
+  "r_0124": {
+    "description": "Loc de schimb, informare si formare asociativa care gazduieste peste 80 de asociatii locale si internationale. 13 sali disponibile pentru inchiriere pentru evenimente, congrese si activitati asociative.",
+    "target_audience": "Asociatii si locuitori ai cartierului",
+    "access_conditions": "Acces liber la spatiile comune, rezervare pentru sali"
+  },
+  "r_0125": {
+    "description": "Centru de viata de cartier care propune activitati socioculturale pentru toate varstele. Ateliere creative, cursuri de limbi, evenimente comunitare si spatiu cafenea.",
+    "target_audience": "Locuitori din Carouge si imprejurimi, toate varstele",
+    "access_conditions": "Acces liber, unele activitati cu inscriere"
+  },
+  "r_0126": {
+    "description": "Spatiu comunitar din Vernier care ofera activitati pentru copii, adolescenti si adulti. Sprijin scolar, ateliere, excursii si evenimente interculturale.",
+    "target_audience": "Locuitori din Vernier, toate varstele",
+    "access_conditions": "Acces liber, unele activitati cu inscriere"
+  },
+  "r_0127": {
+    "description": "Linie de ascultare si sprijin pentru victimele violentelor sexuale. Insotire psihologica, juridica si sociala intr-un cadru confidential.",
+    "target_audience": "Victime ale violentelor sexuale, in principal femei si persoane LGBTIQ+",
+    "access_conditions": "Gratuit si confidential, cu sau fara programare"
+  },
+  "r_0128": {
+    "description": "Asociatie de insotire si autonomizare a femeilor migrante. Cursuri de franceza, ateliere de integrare, consultatii psihologice si sprijin comunitar.",
+    "target_audience": "Femei migrante si refugiate",
+    "access_conditions": "Gratuit sau la cost simbolic, inscriere necesara pentru cursuri"
+  },
+  "r_0129": {
+    "description": "Sprijin si insotire pentru femeile insarcinate in dificultate. Ascultare, ajutor material (imbracaminte de bebelus, carucioare), sfaturi si orientare catre serviciile sociale.",
+    "target_audience": "Femei insarcinate in dificultate si mame tinere",
+    "access_conditions": "Gratuit, cu programare sau permanenta telefonica"
+  },
+  "r_0130": {
+    "description": "Centru de zi pentru persoane varstnice in pierdere de autonomie. Activitati adaptate, mese si ingrijiri care permit un ragaz pentru apropiati ingrijitori.",
+    "target_audience": "Persoane varstnice in pierdere de autonomie si apropiati lor ingrijitori",
+    "access_conditions": "Cu prescriptie medicala, participare financiara in functie de venituri"
+  },
+  "r_0131": {
+    "description": "Sprijin si orientare pentru apropiati ingrijitori din cantonul Geneva. Ascultare, consiliere, grupuri de discutii si punerea in legatura cu resursele existente.",
+    "target_audience": "Apropiati ingrijitori ai persoanelor varstnice, bolnave sau in situatie de handicap",
+    "access_conditions": "Gratuit, cu sau fara programare"
+  },
+  "r_0132": {
+    "description": "Cursuri gratuite sau la preturi modice pentru adulti in numeroase domenii: limbi, informatica, cultura, dezvoltare personala. Deschis tuturor fara conditii de diploma.",
+    "target_audience": "Adulti din toate mediile fara conditii de diploma",
+    "access_conditions": "Gratuit sau la preturi modice, inscriere pe semestru"
+  },
+  "r_0133": {
+    "description": "Centru de resurse pentru organizatiile internationale si asociatii. Sali de conferinte, spatii de coworking si servicii de sprijin administrativ.",
+    "target_audience": "Asociatii, ONG-uri si organizatii internationale",
+    "access_conditions": "Acces liber la spatiile comune, rezervare pentru salile de conferinte"
+  },
+  "r_0134": {
+    "description": "Consultatii juridice gratuite pentru persoanele straine pe teme de dreptul strainilor, azil, reunificarea familiei si permise de sedere.",
+    "target_audience": "Persoane straine rezidente in cantonul Geneva",
+    "access_conditions": "Gratuit, fara programare, primii veniti primii serviti"
+  },
+  "r_0135": {
+    "description": "Permanenta juridica gratuita specializata in dreptul azilului si dreptul strainilor. Consiliere, insotire in proceduri si redactare de apeluri.",
+    "target_audience": "Solicitanti de azil, refugiati si persoane respinse",
+    "access_conditions": "Gratuit, cu programare pentru consultatiile aprofundate"
+  },
+  "r_0136": {
+    "description": "Consiliere si insotire gratuita pentru persoanele in situatie de handicap si apropiati lor. Ajutor administrativ, orientare profesionala si sprijin social.",
+    "target_audience": "Persoane in situatie de handicap si apropiati lor",
+    "access_conditions": "Gratuit, cu programare"
+  },
+  "r_0137": {
+    "description": "Muzeu de istorie naturala cu intrare gratuita. Colectii permanente de zoologie, mineralogie si paleontologie. Expozitii temporare si activitati pentru copii.",
+    "target_audience": "Public larg, familii si scoli",
+    "access_conditions": "Intrare gratuita la colectiile permanente"
+  },
+  "r_0138": {
+    "description": "Cel mai mare muzeu din Geneva cu o colectie permanenta gratuita. Arte frumoase, arte aplicate si arheologie, de la preistorie la arta contemporana.",
+    "target_audience": "Public larg, iubitori de arta si istorie",
+    "access_conditions": "Colectia permanenta gratuita, expozitii temporare cu plata"
+  },
+  "r_0139": {
+    "description": "Muzeu elvetian al ceramicii si sticlei cu intrare gratuita. Colectii exceptionale intr-o cladire neo-baroca in fata Palais des Nations.",
+    "target_audience": "Public larg, iubitori de arte decorative",
+    "access_conditions": "Intrare gratuita la colectiile permanente"
+  },
+  "r_0140": {
+    "description": "Muzeu dedicat actiunii umanitare cu intrare gratuita miercuri dupa-amiaza. Expozitii interactive despre istoria si provocarile umanitare actuale.",
+    "target_audience": "Public larg, pasionati de istorie umanitara",
+    "access_conditions": "Intrare gratuita miercuri dupa-amiaza (16:00-18:00), tarif redus disponibil"
+  },
+  "r_0141": {
+    "description": "Centru acvatic municipal cu tarif redus pentru rezidentii cu venituri mici. Bazin olimpic, bazin de invatare si spatiu de bunastare.",
+    "target_audience": "Public larg, tarif redus pentru rezidentii cu venituri mici",
+    "access_conditions": "Tarif redus cu card Cité Seniors sau subventie de asigurare de sanatate"
+  },
+  "r_0142": {
+    "description": "Mediateca municipala cu acces liber oferind carti, DVD-uri, CD-uri si acces la internet gratuit. Animatii culturale, ora povestilor si spatiu confortabil de lectura.",
+    "target_audience": "Public larg, cititori si familii din cartier",
+    "access_conditions": "Acces liber si gratuit, inscriere gratuita pentru imprumut"
+  },
+  "r_0143": {
+    "description": "Restaurant solidar care propune mese gratuite seara pentru persoanele in situatie de precaritate. Bucatarie gastronomica pe baza de surplus alimentare recuperate. Gestionat de Mater Fondazione in parteneriat cu Food for Soul.",
+    "target_audience": "Persoane in situatie de precaritate alimentara",
+    "access_conditions": "Mese de seara gratuite, orientare de catre asociatiile partenere"
+  },
+  "r_0144": {
+    "description": "Cantina populara care serveste mese gratuite la pranz pentru persoanele fara resurse. Peste 250 de mese servite pe zi de diferite asociatii caritabile. Loc de intalnire in spatele garii Cornavin.",
+    "target_audience": "Persoane fara resurse, persoane fara adapost",
+    "access_conditions": "Fara conditii, deschis oricarei persoane aflate in nevoie"
+  },
+  "r_0145": {
+    "description": "Centru de primire de zi de urgenta oferind mese calde gratuite, dusuri, ascultare si orientare. Primire neconditionata pentru persoanele confruntate cu singuritatea, excluderea si marginalizarea. CARÉ = Caritas Accueil Rencontre Échange.",
+    "target_audience": "Persoane in situatie de precaritate, excludere, izolare",
+    "access_conditions": "Fara conditii, primire neconditionata pentru adulti"
+  },
+  "r_0146": {
+    "description": "Camin de adapost de urgenta oferind refugiu persoanelor fara adapost. Mic dejun si cina gratuite. Durata de sedere nelimitata. Posibilitate de a ramane in timpul zilei pe parcursul iernii. Spatiu dedicat femeilor.",
+    "target_audience": "Persoane fara adapost, femei singure sau cu copii",
+    "access_conditions": "Adapost la cerere, 10 pana la 20 de locuri, durata nelimitata"
+  },
+  "r_0147": {
+    "description": "Adapost de noapte de urgenta al Ville de Genève. Pat, cina, bagajerie si acces la dusuri furnizate gratuit. Durata limitata la 30 de zile.",
+    "target_audience": "Persoane fara adapost",
+    "access_conditions": "Sunati la centrala de adapost de urgenta la 0800 22 22 10 (gratuit). Durata limitata la 30 de zile."
+  },
+  "r_0148": {
+    "description": "Consultatie medicala gratuita si confidentiala pentru persoanele fara asigurare de sanatate sau fara statut legal. Ingrijiri de prima linie, consultatii medicale si de asistenta medicala, orientare catre servicii specializate. Peste 4500 de pacienti pe an.",
+    "target_audience": "Persoane fara asigurare de sanatate, fara statut legal, fara adapost",
+    "access_conditions": "De la 16 ani, fara conditii de statut legal, fara asigurare acceptat, gratuit si confidential"
+  },
+  "r_0149": {
+    "description": "Centru de sanatate comunitara LGBTIQ+ specializat in sanatate sexuala. Depistare HIV/ITS gratuita si anonima, tratamente, vaccinari, consultatii psihologice. Serviciu al Dialogai.",
+    "target_audience": "Comunitatea LGBTIQ+ si orice persoana interesata de sanatatea sexuala",
+    "access_conditions": "Depistare gratuita si anonima fara programare luni si joi"
+  },
+  "r_0150": {
+    "description": "Cabinet dentar care propune ingrijiri de baza la preturi foarte reduse pentru persoanele cu venituri mici. Consultatie dentist la 40 CHF, igienist la 20 CHF. Dentisti si igienisti voluntari.",
+    "target_audience": "Lucratori saraci si persoane cu venituri mici fara ajutor social",
+    "access_conditions": "Cu programare prin Permanenta de primire sociala. Rezervat persoanelor cu venituri mici."
+  },
+  "r_0151": {
+    "description": "Asociatie activa in lupta impotriva HIV, hepatitelor si ITS. Consultatie psihologica gratuita (prima sedinta), depistare confidentiala, consiliere juridica si sociala pentru persoanele care traiesc cu HIV.",
+    "target_audience": "Persoane vizate de HIV, ITS, hepatite",
+    "access_conditions": "Prima consultatie psihologica gratuita. Depistari confidentiale."
+  },
+  "r_0152": {
+    "description": "Insotire sociala si profesionala pentru femeile in situatie de excludere. Ajutor in demersurile administrative, cunoasterea drepturilor, reorientare profesionala. Ascultare telefonica si sprijin.",
+    "target_audience": "Femei in situatie de excludere sociala sau profesionala",
+    "access_conditions": "Gratuit, permanenta telefonica la orele indicate"
+  },
+  "r_0153": {
+    "description": "Refugiu pentru femeile victime ale violentei si ale traficului de persoane, cu sau fara copii. Adapost rezidential cu urmarire psihosociala pentru aproximativ 30 de femei. Cursuri de franceza si formare profesionala.",
+    "target_audience": "Femei victime ale violentei si ale traficului, cu sau fara copii",
+    "access_conditions": "Primire telefonica 8h30-12h. Adapost de urgenta 24h/24."
+  },
+  "r_0154": {
+    "description": "Asociatie de solidaritate care apara drepturile lucratorilor si lucratoarelor din domeniul sexului. Primire, ascultare, sprijin psihosocial, servicii juridice, ajutor administrativ, prevenire ITS si material de prevenire.",
+    "target_audience": "Persoane care practica munca sexuala",
+    "access_conditions": "Fara programare la orele indicate. Primire fara judecata."
+  },
+  "r_0155": {
+    "description": "Spatiu gratuit de informare si consiliere in orientare, formare si angajare. Consilieri disponibili fara programare. Ateliere tematice: bilant de competente, CV, interviuri de angajare, reconversie.",
+    "target_audience": "Tineri si adulti in cautare de orientare, formare sau loc de munca",
+    "access_conditions": "Gratuit, fara programare, acces liber"
+  },
+  "r_0156": {
+    "description": "Asociatie de insertie socio-profesionala pentru tinerii de 15 la 25 de ani. Joburi temporare, sprijin personalizat, stagii de pre-calificare si insotire in cautarea unui loc de munca sau formare.",
+    "target_audience": "Tineri de la 15 la 25 de ani in cautarea unui loc de munca sau formare",
+    "access_conditions": "Gratuit, inscriere pe site sau pe loc"
+  },
+  "r_0157": {
+    "description": "Asociatie independenta care apara dreptul de azil din 1986. Ajutor juridic gratuit si reprezentarea refugiatilor. Consultatii fara programare lunea. Insotire pe tot parcursul procedurii de azil.",
+    "target_audience": "Solicitanti de azil si refugiati",
+    "access_conditions": "Gratuit, consultatii fara programare lunea"
+  },
+  "r_0158": {
+    "description": "Asociatie lesbiana si feminista deschisa tuturor femeilor (cis, trans, bisexuale, queer). Primire, ascultare, informare si solidaritate. Activitati: club cinema, seri, conferinte, sport.",
+    "target_audience": "Femei lesbiene, bisexuale, trans, queer",
+    "access_conditions": "Deschis tuturor femeilor fara conditii"
+  },
+  "r_0159": {
+    "description": "Spatiu de primire, ascultare si sprijin pentru tinerii LGBTIQ+ in dificultate. Insotire individuala, grupuri de sprijin, chat anonim online, adapost de la 3 la 6 luni de la 18 ani.",
+    "target_audience": "Tineri LGBTIQ+ si anturajul lor",
+    "access_conditions": "Cu sau fara programare, chat anonim disponibil online"
+  },
+  "r_0160": {
+    "description": "Asociatie in serviciul diversitatii sexuale si de gen. Primire, informare, ascultare si orientare pentru persoanele LGBTIQ+. Serviciu juridic unic in Elvetia francofona. Grupuri: Trans*, Homoparinti, Bi, Tamalou (seniori).",
+    "target_audience": "Persoane LGBTIQ+ si apropiati lor",
+    "access_conditions": "Primire libera fara programare"
+  },
+  "r_0161": {
+    "description": "Asociatie de preventie si insotire pentru persoanele dependente de alcool si familiile lor. Consiliere profesionala, terapie ambulatorie, grupuri de sprijin, weekend-uri.",
+    "target_audience": "Persoane vizate de alcoolism si apropiati lor",
+    "access_conditions": "Primire libera, gratuit"
+  },
+  "r_0162": {
+    "description": "Centru de zi pentru persoane toxicodependente. Primire, ascultare, mese, activitati si insotire catre ingrijire. Asociatia ARGOS propune de asemenea centre rezidentiale de reinsertie.",
+    "target_audience": "Persoane toxicodependente",
+    "access_conditions": "Primire libera, fara programare"
+  },
+  "r_0163": {
+    "description": "Centru de preventie care reuneste FEGPA (alcool si canabis), CIPRET (tutun) si RNVP (jocuri/ecrane). Sfaturi gratuite si confidentiale pentru orice persoana vizata de o dependenta sau apropiati sai.",
+    "target_audience": "Orice persoana vizata de o dependenta, tineri si apropiati",
+    "access_conditions": "Consultatii gratuite si confidentiale, cu programare"
+  },
+  "r_0164": {
+    "description": "Asociatie de parinti si prieteni ai persoanelor in situatie de handicap mintal. Informare, consiliere, sprijin pentru familii. Activitati de timp liber, weekend-uri de ragaz, sejururi de vacanta. Apararea drepturilor.",
+    "target_audience": "Persoane in situatie de handicap mintal si familiile lor",
+    "access_conditions": "Contact telefonic sau prin email"
+  },
+  "r_0165": {
+    "description": "Cea mai mare organizatie de intrajutorare pentru persoane cu handicap din Elvetia. Consiliere juridica gratuita in asigurari sociale (AI, APG). Activitati de intalnire pentru copii in situatie de handicap.",
+    "target_audience": "Persoane in situatie de handicap",
+    "access_conditions": "Consiliere juridica gratuita pentru membri"
+  },
+  "r_0166": {
+    "description": "Asociatie care incurajeaza seniorii sa ramana activi si autonomi. Activitati variate: cursuri, ateliere, excursii, conferinte, sport. Program \"Seniors d'ici et d'ailleurs\" pentru integrare.",
+    "target_audience": "Seniori de 50 de ani si peste",
+    "access_conditions": "Deschis persoanelor de 50 de ani si peste"
+  },
+  "r_0167": {
+    "description": "Capelanie ecumenica oferind prezenta, ascultare si sprijin solicitantilor de azil si refugiatilor. Cursuri de franceza, informatica, mese conviviale, activitati sportive si culturale.",
+    "target_audience": "Solicitanti de azil si refugiati la Geneva",
+    "access_conditions": "Deschis tuturor solicitantilor de azil si refugiatilor"
+  },
+  "r_0168": {
+    "description": "Primire si insotire a refugiatilor LGBTIQ+. Permanenta juridica in colaborare cu elisa-asile, sprijin si activitati de sensibilizare.",
+    "target_audience": "Refugiati si solicitanti de azil LGBTIQ+",
+    "access_conditions": "Deschis oricarei persoane LGBTIQ+ refugiate sau in cerere de azil"
+  },
+  "r_0169": {
+    "description": "Ludoteca municipala gratuita pentru joc la fata locului. Jocuri de societate clasice si cooperative pe doua etaje. Imprumut de jocuri cu abonament anual de familie (30 CHF). Personal disponibil pentru consiliere.",
+    "target_audience": "Copii, familii, institutii din cartier",
+    "access_conditions": "Joc la fata locului gratuit. Imprumut cu abonament familial anual (30 CHF). Copiii sub 6 ani insotiti de un adult."
+  },
+  "r_0170": {
+    "description": "Ludoteca municipala gratuita pentru joc la fata locului, in cadrul Manège en Ville. Aproximativ 1000 de jocuri de societate, jocuri video si jucarii pentru toate varstele. Imprumut cu abonament familial (30 CHF/an). Turnee si evenimente organizate.",
+    "target_audience": "Copii, familii, toate varstele (sugari pana la adulti)",
+    "access_conditions": "Joc la fata locului gratuit. Imprumut cu abonament familial anual (30 CHF). Copiii sub 6 ani insotiti de un adult."
+  },
+  "r_0171": {
+    "description": "Adapost de urgenta pentru femei in situatie de precaritate, fara adapost sau refugiate cu copii. 30 de locuri de primire neconditionata si 21 de locuri pentru femei cu asistenta sociala. Camere individuale sau duble, trei mese pe zi, spalatorie, insotire sociala.",
+    "target_audience": "Femei fara adapost, femei in situatie de precaritate, refugiate cu copii",
+    "access_conditions": "Contactati linia de adapost de urgenta din Geneva: 0800 22 22 10 (lun-vin 10:30-20:00, sam-dum 15:00-20:00). Fara rezervare directa."
+  },
+  "tag": {
+    "143": "143",
+    "147": "147",
+    "15-25 ans": "15-25 ani",
+    "24h": "24h",
+    "50+": "50+",
+    "AI": "AI",
+    "AVS": "AVS",
+    "Belle-Idée": "Belle-Idée",
+    "CFF": "CFF",
+    "CV": "CV",
+    "Carouge": "Carouge",
+    "Cité Générations": "Cité Générations",
+    "Cornavin": "Cornavin",
+    "Croix-Rouge": "Croix-Rouge",
+    "FLE": "FLE",
+    "FRC": "FRC",
+    "HUG": "HUG",
+    "Hospice général": "Hospice général",
+    "IST": "ITS",
+    "LAVI": "LAVI",
+    "LGBT": "LGBT",
+    "LGBTIQ+": "LGBTIQ+",
+    "Onex": "Onex",
+    "Plainpalais": "Plainpalais",
+    "SBB": "SBB",
+    "SIT": "SIT",
+    "SOS": "SOS",
+    "TPAE": "TPAE",
+    "TPG": "TPG",
+    "UNIA": "UNIA",
+    "VIH": "HIV",
+    "Vernier": "Vernier",
+    "abri": "adapost",
+    "accessibilité": "accesibilitate",
+    "accompagnement": "insotire",
+    "accueil": "primire",
+    "accueil de jour": "primire de zi",
+    "activités": "activitati",
+    "addiction": "dependenta",
+    "administratif": "administrativ",
+    "administration": "administratie",
+    "adolescents": "adolescenti",
+    "adultes": "adulti",
+    "aide": "ajutor",
+    "aide financière": "ajutor financiar",
+    "aide matérielle": "ajutor material",
+    "aide sociale": "ajutor social",
+    "aide à domicile": "ajutor la domiciliu",
+    "alcool": "alcool",
+    "alimentaire": "alimentar",
+    "allaitement": "alaptare",
+    "alzheimer": "alzheimer",
+    "anonyme": "anonim",
+    "anti-gaspillage": "anti-risipa",
+    "antigaspillage": "anti-risipa",
+    "apprentissage": "ucenicie",
+    "archéologie": "arheologie",
+    "armée du salut": "armata salvarii",
+    "art": "arta",
+    "artichauts": "artichauts",
+    "arts": "arte",
+    "asile": "azil",
+    "associations": "asociatii",
+    "assurance": "asigurare",
+    "assurances sociales": "asigurari sociale",
+    "ateliers": "ateliere",
+    "autonomie": "autonomie",
+    "autonomisation": "autonomizare",
+    "avocats": "avocati",
+    "bail": "contract de inchiriere",
+    "bains": "bai",
+    "banque": "banca",
+    "bas prix": "pret mic",
+    "bas seuil": "prag scazut",
+    "bateau": "barca",
+    "beaulieu": "beaulieu",
+    "bibliothèque": "biblioteca",
+    "bien-être": "bunastare",
+    "bébé": "bebelus",
+    "bénévoles": "voluntari",
+    "café": "cafea",
+    "cancer": "cancer",
+    "cannabis": "canabis",
+    "cantonal": "cantonal",
+    "caritas": "caritas",
+    "carouge": "carouge",
+    "carrière": "cariera",
+    "centrale": "centrala",
+    "centre-ville": "centrul orasului",
+    "chômage": "somaj",
+    "citoyenneté": "cetatenie",
+    "coaching": "coaching",
+    "colis": "pachete",
+    "collecte": "colectare",
+    "communautaire": "comunitar",
+    "communauté": "comunitate",
+    "compétences": "competente",
+    "confidentiel": "confidential",
+    "conflits": "conflicte",
+    "conférences": "conferinte",
+    "conseil": "consiliere",
+    "conseils": "sfaturi",
+    "consultation": "consultatie",
+    "contraception": "contraceptie",
+    "cornavin": "cornavin",
+    "cours": "cursuri",
+    "coworking": "coworking",
+    "crise": "criza",
+    "croix-rouge": "crucea rosie",
+    "crèche": "cresa",
+    "créativité": "creativitate",
+    "culture": "cultura",
+    "curatelle": "curatela",
+    "céramique": "ceramica",
+    "dentaire": "dentar",
+    "diabète": "diabet",
+    "distribution": "distribuire",
+    "diversité": "diversitate",
+    "divorce": "divort",
+    "diététique": "dietetica",
+    "domicile": "domiciliu",
+    "douche": "dus",
+    "douches": "dusuri",
+    "drogue": "drog",
+    "drogues": "droguri",
+    "droit": "drept",
+    "droit des étrangers": "dreptul strainilor",
+    "droits": "drepturi",
+    "démence": "dementa",
+    "dépendance": "dependenta",
+    "dépistage": "depistare",
+    "détresse": "suferinta",
+    "eau potable": "apa potabila",
+    "eaux-vives": "eaux-vives",
+    "emploi": "loc de munca",
+    "enfance": "copilarie",
+    "enfants": "copii",
+    "espace partagé": "spatiu partajat",
+    "espace travail": "spatiu de lucru",
+    "ethnopsychologie": "etnopsihologie",
+    "extérieur": "exterior",
+    "factures": "facturi",
+    "famille": "familie",
+    "familles": "familii",
+    "femmes": "femei",
+    "femmes migrantes": "femei migrante",
+    "financière": "financiar",
+    "fitness": "fitness",
+    "fontaine": "fantana",
+    "formation": "formare",
+    "fr": "fr",
+    "français": "franceza",
+    "français professionnel": "franceza profesionala",
+    "frigo": "frigider",
+    "féministe": "feminista",
+    "garderie": "cresa",
+    "gare": "gara",
+    "gastronomique": "gastronomic",
+    "grange": "grange",
+    "gratuit": "gratuit",
+    "grossesse": "sarcina",
+    "groupe": "grup",
+    "handicap": "handicap",
+    "handicap mental": "handicap mintal",
+    "histoire": "istorie",
+    "hiver": "iarna",
+    "humanitaire": "umanitar",
+    "hydratation": "hidratare",
+    "hygiène": "igiena",
+    "hébergement": "adapost",
+    "infirmiers": "asistenti medicali",
+    "information": "informare",
+    "informatique": "informatica",
+    "infractions": "infractiuni",
+    "insertion": "insertie",
+    "interactif": "interactiv",
+    "interculturel": "intercultural",
+    "international": "international",
+    "internet": "internet",
+    "intégration": "integrare",
+    "invendus": "nevandute",
+    "jardin": "gradina",
+    "jeu": "joc",
+    "jeunes": "tineri",
+    "jeunesse": "tineret",
+    "jeux": "jocuri",
+    "jonction": "jonction",
+    "jouets": "jucarii",
+    "jour": "zi",
+    "juridique": "juridic",
+    "lac": "lac",
+    "langues": "limbi",
+    "laverie": "spalatorie",
+    "lesbienne": "lesbiana",
+    "libre-service": "autoservire",
+    "licenciement": "concediere",
+    "livres": "carti",
+    "locataires": "chiriasi",
+    "logement": "locuinta",
+    "loisirs": "timp liber",
+    "loyer": "chirie",
+    "ludothèque": "ludoteca",
+    "maintien à domicile": "mentinere la domiciliu",
+    "maladie chronique": "boala cronica",
+    "maraude": "patrulare sociala",
+    "maternité": "maternitate",
+    "meubles": "mobila",
+    "midi": "pranz",
+    "migrantes": "migrante",
+    "migrants": "migranti",
+    "migration": "migratie",
+    "mineurs": "minori",
+    "mobile": "mobil",
+    "mobilité": "mobilitate",
+    "molard": "molard",
+    "multilingue": "multilingv",
+    "musée": "muzeu",
+    "médecin": "medic",
+    "médecine générale": "medicina generala",
+    "médiathèque": "mediateca",
+    "médiation": "mediere",
+    "médicaments": "medicamente",
+    "natation": "natatie",
+    "nature": "natura",
+    "nuit": "noapte",
+    "offres": "oferte",
+    "orientation": "orientare",
+    "parc": "parc",
+    "parc de la grange": "parc de la grange",
+    "parentalité": "parentalitate",
+    "parents": "parinti",
+    "parents-enfants": "parinti-copii",
+    "partage": "impartire",
+    "permaculture": "permacultura",
+    "permanence": "permanenta",
+    "permis": "permis",
+    "personnes âgées": "persoane varstnice",
+    "petite enfance": "prima copilarie",
+    "petits boulots": "joburi mici",
+    "petits-déjeuners": "micuri dejunuri",
+    "pharmacie": "farmacie",
+    "piscine": "piscina",
+    "place de neuve": "place de neuve",
+    "plage": "plaja",
+    "plaine": "plaine",
+    "plainpalais": "plainpalais",
+    "planning familial": "planificare familiala",
+    "plein air": "aer liber",
+    "ponctuel": "punctual",
+    "potager": "gradina de legume",
+    "prestations": "prestatii",
+    "prix réduits": "preturi reduse",
+    "pro juventute": "pro juventute",
+    "proches aidants": "apropiati ingrijitori",
+    "protection": "protectie",
+    "précarité": "precaritate",
+    "prévention": "preventie",
+    "prêt": "imprumut",
+    "psychiatrie": "psihiatrie",
+    "psycho-oncologie": "psiho-oncologie",
+    "psychologie": "psihologie",
+    "psychologique": "psihologic",
+    "psychologue": "psiholog",
+    "psychopédagogique": "psihopedagogic",
+    "public": "public",
+    "pâquis": "pâquis",
+    "quai": "chei",
+    "quartier": "cartier",
+    "reconversion": "reconversie",
+    "recours": "apel",
+    "redistribution": "redistribuire",
+    "refuge": "refugiu",
+    "repair café": "repair café",
+    "repas": "mese",
+    "repos": "odihna",
+    "ressources": "resurse",
+    "restaurant": "restaurant",
+    "récupération": "recuperare",
+    "réduction": "reducere",
+    "réduction des risques": "reducerea riscurilor",
+    "réfugiés": "refugiati",
+    "réinsertion": "reinsertie",
+    "réorientation": "reorientare",
+    "réparation": "reparatie",
+    "répit": "ragaz",
+    "réseau": "retea",
+    "résolution": "rezolvare",
+    "réunions": "intruniri",
+    "sages-femmes": "moase",
+    "saint-jean": "saint-jean",
+    "sans assurance": "fara asigurare",
+    "sans rendez-vous": "fara programare",
+    "sans-abri": "fara adapost",
+    "sans-papiers": "fara acte",
+    "santé": "sanatate",
+    "santé mentale": "sanatate mintala",
+    "santé sexuelle": "sanatate sexuala",
+    "sauna": "sauna",
+    "sciences": "stiinte",
+    "seconde main": "second-hand",
+    "seniors": "seniori",
+    "servette": "servette",
+    "social": "social",
+    "socioculturel": "sociocultural",
+    "soins": "ingrijiri",
+    "soins à domicile": "ingrijiri la domiciliu",
+    "solidaire": "solidar",
+    "soupe": "supa",
+    "soupe populaire": "cantina populara",
+    "soutien": "sprijin",
+    "soutien scolaire": "sprijin scolar",
+    "sport": "sport",
+    "stages": "stagii",
+    "substitution": "substitutie",
+    "suicide": "suicid",
+    "syndicat": "sindicat",
+    "sécheron": "sécheron",
+    "tabac": "tutun",
+    "tarif réduit": "tarif redus",
+    "tarif social": "tarif social",
+    "toilettes": "toalete",
+    "toxicodépendance": "toxicodependenta",
+    "traite": "trafic",
+    "traitement": "tratament",
+    "trans": "trans",
+    "transport": "transport",
+    "travail": "munca",
+    "travail du sexe": "munca sexuala",
+    "travailleurs pauvres": "lucratori saraci",
+    "tutelle": "tutela",
+    "téléphone": "telefon",
+    "université": "universitate",
+    "urbain": "urban",
+    "urgence": "urgenta",
+    "verre": "sticla",
+    "vestiaire": "vestiar",
+    "victimes": "victime",
+    "vie associative": "viata asociativa",
+    "vieille ville": "orasul vechi",
+    "ville": "oras",
+    "violence": "violenta",
+    "violence conjugale": "violenta conjugala",
+    "violences": "violente",
+    "violences sexuelles": "violente sexuale",
+    "vélos": "biciclete",
+    "vêtements": "imbracaminte",
+    "wifi": "wifi",
+    "écologie": "ecologie",
+    "écologique": "ecologic",
+    "écoute": "ascultare",
+    "éducation": "educatie",
+    "épicerie": "bacanie",
+    "étrangers": "straini",
+    "étude": "studiu",
+    "étudier": "a studia"
+  }
+}

@@ -1,0 +1,1214 @@
+{
+  "r_0001": {
+    "description": "Distribución alimentaria gratuita para personas en situación de precariedad. Comidas calientes servidas al mediodía y por la noche. Acogida incondicional.",
+    "target_audience": "Toda persona en situación de precariedad",
+    "access_conditions": "Sin condiciones, abierto a todos"
+  },
+  "r_0002": {
+    "description": "Consultas jurídicas gratuitas ofrecidas por el Ordre des Avocats de Genève. Primeros consejos jurídicos sin cita previa para cualquier cuestión legal.",
+    "target_audience": "Toda persona que necesite asesoramiento jurídico",
+    "access_conditions": "Sin cita previa, por orden de llegada"
+  },
+  "r_0003": {
+    "description": "Refrigerador de libre servicio donde cualquier persona puede dejar o tomar alimentos gratuitamente. Lucha contra el desperdicio alimentario.",
+    "target_audience": "Público general",
+    "access_conditions": "Acceso libre 24h/24"
+  },
+  "r_0004": {
+    "description": "Tienda solidaria y distribución de ropa. Acompañamiento social para personas con dificultades económicas. Ayuda alimentaria y de vestimenta.",
+    "target_audience": "Personas con bajos ingresos",
+    "access_conditions": "Con presentación de un certificado de ingresos modestos"
+  },
+  "r_0005": {
+    "description": "Consultas jurídicas y sociales gratuitas. Ayuda administrativa, asesoramiento en derecho de extranjería, derecho laboral y seguros sociales.",
+    "target_audience": "Toda persona con dificultades jurídicas o administrativas",
+    "access_conditions": "Con cita previa, primera consulta gratuita"
+  },
+  "r_0006": {
+    "description": "Servicios de salud, ayuda social y acompañamiento para personas vulnerables. Programas de apoyo a migrantes y refugiados.",
+    "target_audience": "Personas vulnerables, migrantes, refugiados",
+    "access_conditions": "Según los programas, algunos con cita previa"
+  },
+  "r_0007": {
+    "description": "Distribución semanal de paquetes alimentarios para familias y personas en situación de precariedad. Productos frescos y básicos.",
+    "target_audience": "Familias y personas con bajos ingresos",
+    "access_conditions": "Con inscripción previa y justificante de situación económica"
+  },
+  "r_0008": {
+    "description": "Institución cantonal de ayuda social. Prestaciones económicas, acompañamiento social, ayuda para vivienda e inserción profesional.",
+    "target_audience": "Residentes ginebrinos con dificultades económicas",
+    "access_conditions": "Con cita previa, residentes del cantón de Genève"
+  },
+  "r_0009": {
+    "description": "Acceso gratuito a duchas, lavadoras y secadoras. Espacio de higiene para personas sin hogar o en situación precaria.",
+    "target_audience": "Personas sin domicilio fijo, personas en situación precaria",
+    "access_conditions": "Sin condiciones, acceso libre"
+  },
+  "r_0010": {
+    "description": "Consultas médicas gratuitas para personas sin seguro de enfermedad. Atención primaria, orientación y acompañamiento sanitario.",
+    "target_audience": "Personas sin seguro de enfermedad, indocumentados",
+    "access_conditions": "Sin seguro de enfermedad, sin cita previa"
+  },
+  "r_0011": {
+    "description": "Cursos de francés gratuitos para mujeres migrantes. Guardería para los niños durante los cursos. Talleres de integración y socialización.",
+    "target_audience": "Mujeres migrantes y sus hijos",
+    "access_conditions": "Mujeres migrantes, inscripción al inicio del semestre"
+  },
+  "r_0012": {
+    "description": "Cursos nocturnos gratuitos o a precio reducido: francés, informática, contabilidad, idiomas. Formación continua para adultos.",
+    "target_audience": "Adultos que deseen formarse",
+    "access_conditions": "Inscripción al inicio del semestre, tarifas reducidas según ingresos"
+  },
+  "r_0013": {
+    "description": "Alojamiento de emergencia para la noche. Acogida incondicional de personas sin techo. Cena y desayuno incluidos.",
+    "target_audience": "Personas sin domicilio fijo",
+    "access_conditions": "Sin condiciones, acogida incondicional por la noche"
+  },
+  "r_0014": {
+    "description": "Acogida, escucha y alojamiento de emergencia para mujeres víctimas de violencia. Apoyo psicológico y acompañamiento jurídico.",
+    "target_audience": "Mujeres víctimas de violencia doméstica",
+    "access_conditions": "Línea telefónica 24h/24, alojamiento según evaluación"
+  },
+  "r_0015": {
+    "description": "Tienda solidaria de ropa, muebles y objetos a precios muy reducidos. Recuperación y redistribución de objetos de segunda mano.",
+    "target_audience": "Público general, personas con bajos ingresos",
+    "access_conditions": "Abierto a todos, precios solidarios"
+  },
+  "r_0016": {
+    "description": "Información y orientación para personas extranjeras. Cursos de francés subvencionados, ayuda a la integración, prevención del racismo y las discriminaciones.",
+    "target_audience": "Personas extranjeras residentes en Genève",
+    "access_conditions": "Residentes extranjeros del cantón de Genève"
+  },
+  "r_0017": {
+    "description": "Acceso WiFi gratuito en el Parc des Bastions, ofrecido por la Ville de Genève. Conexión libre e ilimitada.",
+    "target_audience": "Público general",
+    "access_conditions": "Acceso libre"
+  },
+  "r_0018": {
+    "description": "Espacio comunitario que ofrece actividades sociales, culturales y educativas. Cursos, talleres y eventos gratuitos o a precio reducido.",
+    "target_audience": "Habitantes del barrio de Plainpalais",
+    "access_conditions": "Abierto a todos los habitantes del barrio"
+  },
+  "r_0019": {
+    "description": "Recuperación de productos alimentarios no vendidos en comercios y redistribución gratuita a personas necesitadas. Lucha contra el desperdicio.",
+    "target_audience": "Personas en situación de precariedad alimentaria",
+    "access_conditions": "Con inscripción previa, justificante de situación económica"
+  },
+  "r_0020": {
+    "description": "Ayuda económica de emergencia, acompañamiento social, orientación hacia los servicios adecuados. Apoyo a los habitantes de la Ville de Genève.",
+    "target_audience": "Habitantes de la Ville de Genève con dificultades",
+    "access_conditions": "Residentes de la Ville de Genève"
+  },
+  "r_0021": {
+    "description": "Consultas de medicina de atención primaria para solicitantes de asilo y personas migrantes. Socio de la red de salud para el asilo, con enfoque intercultural y psicosocial. Consultas con intérpretes disponibles.",
+    "target_audience": "Solicitantes de asilo, refugiados, personas migrantes",
+    "access_conditions": "Con cita previa, solicitud de cita de lunes a viernes 9h-11h30 y 13h30-17h"
+  },
+  "r_0022": {
+    "description": "Programa de inserción profesional para personas en búsqueda de empleo. Talleres, formaciones prácticas y acompañamiento personalizado.",
+    "target_audience": "Demandantes de empleo con dificultades de inserción",
+    "access_conditions": "Inscripción a través del Office cantonal de l'emploi o el Hospice général"
+  },
+  "r_0023": {
+    "description": "Acompañamiento educativo y social para niños y adolescentes. Hogares, talleres educativos, apoyo escolar y actividades de ocio.",
+    "target_audience": "Niños y adolescentes de 4 a 18 años",
+    "access_conditions": "Orientación por el Service de protection des mineurs"
+  },
+  "r_0024": {
+    "description": "Unidad de emergencia psicosocial vinculada al imad. Interviene en situaciones de precariedad, violencia doméstica, menores en crisis y angustia psicosocial. Equipo compuesto por un enfermero y trabajadores sociales.",
+    "target_audience": "Personas sin techo",
+    "access_conditions": "Sin condiciones, equipo móvil en las calles"
+  },
+  "r_0025": {
+    "description": "Acompañamiento de personas con adicciones. Consultas, programa de sustitución, desintoxicación y reinserción. Centro de tratamiento ambulatorio.",
+    "target_audience": "Personas con adicciones",
+    "access_conditions": "Sin cita previa para la acogida, con cita previa para las consultas"
+  },
+  "r_0026": {
+    "description": "Servicios para personas mayores: ayuda a domicilio, actividades sociales, asesoramiento jurídico y financiero, cursos y talleres.",
+    "target_audience": "Personas mayores de 60 años",
+    "access_conditions": "Personas de 60 años o más"
+  },
+  "r_0027": {
+    "description": "Acceso WiFi gratuito en los Bains des Pâquis. Zona de conexión de acceso libre en el recinto.",
+    "target_audience": "Público general",
+    "access_conditions": "Acceso libre"
+  },
+  "r_0028": {
+    "description": "Servicio de médicos a domicilio disponible 24h/24. Consultas médicas de urgencia a domicilio o en consultorio, 7 días a la semana.",
+    "target_audience": "Toda persona que necesite una consulta médica urgente",
+    "access_conditions": "Llamada telefónica, gastos médicos a cargo del paciente"
+  },
+  "r_0029": {
+    "description": "Centro de acogida diurno para personas en situación de precariedad. Espacio acogedor, café, duchas, lavandería, acceso a internet y actividades.",
+    "target_audience": "Personas en situación de precariedad",
+    "access_conditions": "Sin condiciones, acogida libre"
+  },
+  "r_0030": {
+    "description": "Consultas psicológicas gratuitas o a tarifas reducidas para personas migrantes. Apoyo psicológico en varios idiomas.",
+    "target_audience": "Personas migrantes con dificultades psicológicas",
+    "access_conditions": "Con cita previa, tarifas según ingresos"
+  },
+  "r_0031": {
+    "description": "Biblioteca municipal con acceso gratuito. Préstamo de libros, DVD, CD. Espacio de trabajo, WiFi gratuito, periódicos y revistas. Talleres culturales.",
+    "target_audience": "Público general",
+    "access_conditions": "Acceso libre, tarjeta gratuita para el préstamo"
+  },
+  "r_0032": {
+    "description": "Servicio público de ayuda a la búsqueda de empleo. Inscripción al desempleo, ofertas de empleo, orientación profesional, medidas de inserción.",
+    "target_audience": "Demandantes de empleo residentes en Genève",
+    "access_conditions": "Residentes del cantón de Genève, inscripción obligatoria"
+  },
+  "r_0033": {
+    "description": "Permanencias jurídicas y sociales para personas migrantes. Ayuda administrativa, derecho de extranjería, reagrupación familiar.",
+    "target_audience": "Personas migrantes, indocumentados",
+    "access_conditions": "Con cita previa o permanencia sin cita"
+  },
+  "r_0034": {
+    "description": "Espacio de acogida de bajo umbral para personas consumidoras de drogas. Material estéril, consultas, espacio de descanso y acompañamiento.",
+    "target_audience": "Personas consumidoras de drogas",
+    "access_conditions": "Sin condiciones, acogida anónima"
+  },
+  "r_0035": {
+    "description": "Centro comunitario del barrio de Pâquis. Actividades culturales, cursos de idiomas, talleres creativos, espacio infantil y ayuda con los deberes.",
+    "target_audience": "Habitantes del barrio de Pâquis",
+    "access_conditions": "Abierto a todos"
+  },
+  "r_0036": {
+    "description": "Distribución gratuita de ropa para personas en situación de precariedad. Ropa para hombres, mujeres y niños, según las estaciones.",
+    "target_audience": "Personas en situación de precariedad",
+    "access_conditions": "Con presentación de un certificado de un servicio social"
+  },
+  "r_0037": {
+    "description": "Cursos de francés como lengua extranjera para adultos migrantes. Niveles de principiante a avanzado. Cursos diurnos y nocturnos.",
+    "target_audience": "Adultos migrantes que deseen aprender francés",
+    "access_conditions": "Inscripción y test de nivel, tarifas reducidas posibles"
+  },
+  "r_0038": {
+    "description": "Distribución de comidas calientes (sopa y pan) para personas en situación de precariedad. Servicio gratuito y sin condiciones.",
+    "target_audience": "Público general",
+    "access_conditions": "Sin condiciones, por orden de llegada"
+  },
+  "r_0039": {
+    "description": "Centro de información y consulta para mujeres. Asesoramiento jurídico, social y profesional. Apoyo en caso de violencia.",
+    "target_audience": "Mujeres de toda edad y situación",
+    "access_conditions": "Abierto a todas las mujeres, algunas consultas con cita previa"
+  },
+  "r_0040": {
+    "description": "Sede del Hospice général en Plainpalais. Ayuda económica, acompañamiento social, ayuda para vivienda e inserción profesional.",
+    "target_audience": "Residentes del barrio de Plainpalais con dificultades",
+    "access_conditions": "Con cita previa, residentes del cantón de Genève"
+  },
+  "r_0041": {
+    "description": "Asociación de matronas independientes que promueve la salud perinatal. Permanencia telefónica 7 días/semana, espacios de acogida gratuitos con matronas, consejos sobre embarazo, lactancia, seguimiento postnatal.",
+    "target_audience": "Mujeres embarazadas y padres jóvenes",
+    "access_conditions": "Sin cita previa para las permanencias, gratuito. Permanencia telefónica lun-vie 8h-20h, sáb-dom 9h-12h y 17h-20h"
+  },
+  "r_0042": {
+    "description": "Espacio de acogida diurno para personas en situación de precariedad. Desayuno, café, espacio de descanso, actividades y orientación social.",
+    "target_audience": "Personas sin domicilio fijo",
+    "access_conditions": "Sin condiciones, acogida incondicional"
+  },
+  "r_0043": {
+    "description": "Protección jurídica de adultos vulnerables y menores. Curatelas, tutelas y medidas de protección.",
+    "target_audience": "Adultos vulnerables y menores que necesiten protección jurídica",
+    "access_conditions": "Por denuncia o solicitud directa"
+  },
+  "r_0044": {
+    "description": "Punto de acceso WiFi gratuito en la Place du Molard, en el corazón del casco antiguo de Genève. Red Ville de Genève.",
+    "target_audience": "Público general",
+    "access_conditions": "Acceso libre"
+  },
+  "r_0045": {
+    "description": "Alojamiento para mujeres con hijos en dificultad, mayoritariamente víctimas de violencia conyugal. Apoyo psicosocial, ayuda a la integración social y profesional, consolidación de los vínculos madre/hijo. Dispone de guardería.",
+    "target_audience": "Mujeres solas o con hijos en situación de precariedad",
+    "access_conditions": "Por orientación de un servicio social, evaluación de la situación"
+  },
+  "r_0046": {
+    "description": "Espacio de acogida gratuito, anónimo y sin inscripción para niños de hasta 5 años acompañados de un adulto. Lugar de escucha y apoyo para niños y padres.",
+    "target_audience": "Niños de 0 a 5 años y sus padres o acompañantes",
+    "access_conditions": "Gratuito, anónimo, sin inscripción, niños acompañados de un adulto"
+  },
+  "r_0047": {
+    "description": "Asesoramiento jurídico para inquilinos. Ayuda en caso de litigio con el propietario, aumento de alquiler, rescisión de contrato de alquiler.",
+    "target_audience": "Inquilinos del cantón de Genève",
+    "access_conditions": "Adhesión a la asociación (cuota módica)"
+  },
+  "r_0048": {
+    "description": "Recolección y redistribución de alimentos a asociaciones benéficas ginebrinas. Lucha contra la precariedad alimentaria y el desperdicio.",
+    "target_audience": "Asociaciones benéficas y personas en precariedad alimentaria",
+    "access_conditions": "Accesible a través de las asociaciones colaboradoras"
+  },
+  "r_0049": {
+    "description": "Clínica dental universitaria que ofrece atención dental. Acogida sin cita previa de lunes a viernes de 8h a 15h30. Urgencias dentales y atención corriente.",
+    "target_audience": "Público general, personas sin seguro dental o con bajos ingresos",
+    "access_conditions": "Acogida sin cita previa de lunes a viernes de 8h a 15h30"
+  },
+  "r_0050": {
+    "description": "Lugar de acogida, apoyo y reinserción socioprofesional para personas en situación de precariedad. Desayunos gratuitos (150-200/semana), actividades sociales y prácticas de reinserción.",
+    "target_audience": "Personas en situación de precariedad",
+    "access_conditions": "Sin condiciones, acogida libre"
+  },
+  "r_0051": {
+    "description": "Lugar de acogida, ocio, encuentros y descanso para todas las edades, culturas y entornos sociales. Actividades culturales y sociales.",
+    "target_audience": "Habitantes del barrio de Eaux-Vives y público general",
+    "access_conditions": "Abierto a todos, acogida libre"
+  },
+  "r_0052": {
+    "description": "Espacio de acogida y orientación para mujeres y familias. Consultas jurídicas (derecho de familia, divorcio, violencia conyugal, permiso de residencia), orientación profesional y apoyo psicosocial.",
+    "target_audience": "Mujeres y familias",
+    "access_conditions": "Permanencia jurídica telefónica: mar 11h-13h, mié 14h-16h, jue 12h-14h al 022 740 31 11. Consultas con cita previa."
+  },
+  "r_0053": {
+    "description": "Asociación de prevención del suicidio en jóvenes en la Suiza francófona. Sensibilización, talleres, módulos de prevención y orientación hacia las estructuras de ayuda. En caso de emergencia, llamar al 143.",
+    "target_audience": "Jóvenes de 15 a 29 años, prevención del suicidio",
+    "access_conditions": "Oficina abierta en días laborables. En caso de emergencia, llamar al 143 (24h/24)"
+  },
+  "r_0054": {
+    "description": "Departamento de salud mental y psiquiatría de los HUG. Consultas psiquiátricas y psicológicas, atención de trastornos de ansiedad, depresión, traumas.",
+    "target_audience": "Personas con trastornos psíquicos",
+    "access_conditions": "Con cita previa, con receta médica"
+  },
+  "r_0055": {
+    "description": "Prestaciones económicas complementarias para beneficiarios AVS/AI. Ayuda para el pago de primas de seguro de enfermedad y del alquiler.",
+    "target_audience": "Beneficiarios AVS/AI con bajos ingresos",
+    "access_conditions": "Beneficiarios AVS/AI, residentes del cantón de Genève"
+  },
+  "r_0056": {
+    "description": "Ayuda en especie y pago de facturas urgentes para personas cuyo ingreso se sitúa en el mínimo vital o justo por encima.",
+    "target_audience": "Personas con dificultades económicas puntuales",
+    "access_conditions": "Solicitudes por email a geneve@secours-d-hiver.ch. Teléfono solo los viernes."
+  },
+  "r_0057": {
+    "description": "Asociación ginebrina orientada a niños y adolescentes. Centro psicopedagógico (13-18 años), Café Ados, apoyo a menores no acompañados, acciones de prevención.",
+    "target_audience": "Niños y adolescentes de 12 a 18 años",
+    "access_conditions": "Con inscripción u orientación"
+  },
+  "r_0058": {
+    "description": "Programas de inserción profesional para personas alejadas del mercado laboral. Balance de competencias, coaching laboral, prácticas.",
+    "target_audience": "Personas alejadas del mercado laboral",
+    "access_conditions": "Inscripción a través del Hospice général o la OCE"
+  },
+  "r_0059": {
+    "description": "Ayuda a refugiados y migrantes. Cursos de francés, ayuda a la integración, asesoramiento jurídico en derecho de asilo y acompañamiento social.",
+    "target_audience": "Refugiados y personas migrantes",
+    "access_conditions": "Refugiados y migrantes, inscripción necesaria"
+  },
+  "r_0060": {
+    "description": "Centro comunitario de la Jonction. Actividades sociales, cívicas y culturales para todas las edades. Acogida libre, talleres abiertos a los habitantes de 9 a 99 años.",
+    "target_audience": "Habitantes del barrio de la Jonction",
+    "access_conditions": "Abierto a todos"
+  },
+  "r_0061": {
+    "description": "Espacio de higiene (WC/duchas) en el 1er piso del ala Este de la estación de Cornavin. Gestionado por los CFF. Acceso de pago (CHF 2), gratuito para los titulares de un abono general SwissPass. WC más baratos (CHF 1) se encuentran en el sótano de la plaza de la estación.",
+    "target_audience": "Público general",
+    "access_conditions": "Acceso de pago (CHF 2), gratuito con abono general SwissPass"
+  },
+  "r_0062": {
+    "description": "Baños públicos gratuitos situados en el Parc des Bastions, cerca del Mur des Réformateurs. Accesibles para personas con movilidad reducida.",
+    "target_audience": "Público general",
+    "access_conditions": "Acceso libre y gratuito"
+  },
+  "r_0063": {
+    "description": "Baños públicos gratuitos en la Plaine de Plainpalais, cerca del mercado de pulgas. Mantenimiento regular por los servicios de la Ville.",
+    "target_audience": "Público general",
+    "access_conditions": "Acceso libre y gratuito"
+  },
+  "r_0064": {
+    "description": "Fuente de agua potable pública y gratuita en el Jardin Anglais, cerca del Horloge Fleurie. Agua fresca todo el año.",
+    "target_audience": "Público general",
+    "access_conditions": "Acceso libre 24h/24"
+  },
+  "r_0065": {
+    "description": "Fuente pública de agua potable en la plaza más antigua de Genève. Agua gratuita y potable de forma continua.",
+    "target_audience": "Público general",
+    "access_conditions": "Acceso libre 24h/24"
+  },
+  "r_0066": {
+    "description": "Fuente de agua potable pública en el Parc des Eaux-Vives, a orillas del lago. Ideal para refrescarse durante los paseos.",
+    "target_audience": "Público general",
+    "access_conditions": "Acceso libre 24h/24"
+  },
+  "r_0067": {
+    "description": "Biblioteca municipal gratuita en el corazón del barrio de la Servette. Espacios para adultos y jóvenes separados, préstamo de libros y medios, WiFi gratuito y actividades culturales.",
+    "target_audience": "Público general",
+    "access_conditions": "Acceso libre, tarjeta gratuita para el préstamo"
+  },
+  "r_0068": {
+    "description": "Biblioteca municipal gratuita en el barrio de Eaux-Vives. Espacios para adultos y jóvenes, préstamo de libros y medios, WiFi gratuito.",
+    "target_audience": "Público general",
+    "access_conditions": "Acceso libre, tarjeta gratuita para el préstamo"
+  },
+  "r_0069": {
+    "description": "Biblioteca municipal gratuita en el barrio de la Jonction. Amplia selección de libros, espacio juvenil, animaciones y WiFi gratuito.",
+    "target_audience": "Público general",
+    "access_conditions": "Acceso libre, tarjeta gratuita para el préstamo"
+  },
+  "r_0070": {
+    "description": "Biblioteca municipal gratuita en el corazón del barrio cosmopolita de Pâquis. Préstamo de libros en numerosos idiomas, WiFi gratuito y animaciones.",
+    "target_audience": "Público general",
+    "access_conditions": "Acceso libre, tarjeta gratuita para el préstamo"
+  },
+  "r_0071": {
+    "description": "Préstamo gratuito de juegos de mesa, juegos educativos y juguetes para niños y familias. Espacio de juego en el lugar. Abierta a todos los niños acompañados.",
+    "target_audience": "Niños, familias, público general",
+    "access_conditions": "Inscripción gratuita, préstamo gratuito"
+  },
+  "r_0072": {
+    "description": "Ludoteca de barrio con préstamo gratuito de juegos de mesa, juguetes y juegos educativos. Espacio de juego convivial y talleres lúdicos.",
+    "target_audience": "Niños, familias, público general",
+    "access_conditions": "Inscripción gratuita, préstamo gratuito"
+  },
+  "r_0073": {
+    "description": "Huerto urbano comunitario en el barrio de Grottes. Parcelas compartidas, compostaje colectivo y talleres de jardinería gratuitos.",
+    "target_audience": "Habitantes del barrio, aficionados a la jardinería",
+    "access_conditions": "Acceso libre, participación en los talleres con inscripción"
+  },
+  "r_0074": {
+    "description": "Huerto urbano participativo en el Parc Beaulieu, gestionado por la asociación Les Artichauts. Talleres de jardinería gratuitos cada sábado por la tarde, abiertos a todos los niveles. Producción de plantones ecológicos.",
+    "target_audience": "Habitantes del barrio, público general",
+    "access_conditions": "Acceso libre, talleres de jardinería gratuitos los sábados 14h-17h (mediados de febrero a finales de octubre)"
+  },
+  "r_0075": {
+    "description": "Permanencia sindical para trabajadores y trabajadoras. Asesoramiento en derecho laboral, defensa de derechos, ayuda en caso de despido o conflicto laboral.",
+    "target_audience": "Trabajadores y trabajadoras, todos los sectores",
+    "access_conditions": "Abierto a todos los trabajadores, afiliación para los servicios jurídicos"
+  },
+  "r_0076": {
+    "description": "Sindicato interprofesional de trabajadores y trabajadoras. Permanencias jurídicas, defensa de los derechos laborales, negociaciones colectivas.",
+    "target_audience": "Trabajadores y trabajadoras de todos los sectores",
+    "access_conditions": "Abierto a todos los trabajadores, afiliación para los servicios jurídicos"
+  },
+  "r_0077": {
+    "description": "Centro de consulta gratuito y confidencial para víctimas de infracciones penales. Apoyo psicológico, jurídico y social. Ayuda económica de emergencia.",
+    "target_audience": "Víctimas de infracciones penales y sus allegados",
+    "access_conditions": "Gratuito y confidencial, consultas con cita previa"
+  },
+  "r_0078": {
+    "description": "Servicio de escucha telefónica 24h/24 para toda persona en dificultad, angustia o soledad. Escucha anónima, confidencial y gratuita.",
+    "target_audience": "Toda persona en situación de angustia, soledad o ansiedad",
+    "access_conditions": "Llamar al 143, gratuito, anónimo y confidencial 24h/24"
+  },
+  "r_0079": {
+    "description": "Línea de ayuda para niños y jóvenes, disponible 24h/24. Escucha, consejos y orientación para problemas personales, familiares o escolares.",
+    "target_audience": "Niños y jóvenes hasta 25 años",
+    "access_conditions": "Llamar al 147, gratuito, anónimo y confidencial 24h/24"
+  },
+  "r_0080": {
+    "description": "Consultas gratuitas y confidenciales en salud sexual y reproductiva. Anticoncepción, embarazo, ITS, consejo de pareja y educación sexual. Anticoncepción de emergencia sin cita previa.",
+    "target_audience": "Toda persona, en particular jóvenes y mujeres",
+    "access_conditions": "Gratuito, confidencial, con cita previa (sin cita para anticoncepción de emergencia)"
+  },
+  "r_0081": {
+    "description": "Detección de VIH e ITS anónima y confidencial en los Hôpitaux Universitaires de Genève. Test rápido VIH (55 CHF), detección completa VIH/ITS (155 CHF). Consultas de seguimiento y tratamiento para personas seropositivas.",
+    "target_audience": "Toda persona que desee una prueba de VIH/ITS",
+    "access_conditions": "Detección anónima con cita previa (vía www.testvih.ch o por teléfono), test rápido VIH desde 55 CHF"
+  },
+  "r_0082": {
+    "description": "Farmacia integrada en el centro de salud Cité Générations (Clínica y Permanencia de Onex). Asesoramiento farmacéutico, seguimiento terapéutico y proximidad con las urgencias para adultos y pediátricas.",
+    "target_audience": "Público general, pacientes del centro de salud Cité Générations",
+    "access_conditions": "Abierto a todos, sin condiciones"
+  },
+  "r_0083": {
+    "description": "Servicio centralizado de asignación de plazas de alojamiento de emergencia para personas sin techo. Llamar a la central para obtener una plaza en la red (refugios PC Châtelaine, Richemont, hogares asociativos). Capacidad total de 184 plazas.",
+    "target_audience": "Personas sin techo, en situación de emergencia",
+    "access_conditions": "Llamar al número gratuito 0800 22 22 10 para obtener una plaza, acogida incondicional"
+  },
+  "r_0084": {
+    "description": "Lugar de acogida diurna incondicional en el Temple de la Servette para personas en situación de precariedad. Comidas solidarias, bebidas calientes, escritor público (CV, cartas), talleres de francés, inglés e informática, consultas jurídicas gratuitas.",
+    "target_audience": "Personas en situación de precariedad, migrantes, sin techo",
+    "access_conditions": "Sin condiciones, acogida incondicional"
+  },
+  "r_0085": {
+    "description": "Baños públicos emblemáticos a orillas del lago Léman. Playa de arena, piscinas, trampolines (3-10m), sauna y hammam, bar popular. Entrada muy asequible (2 CHF en verano, 1 CHF en invierno).",
+    "target_audience": "Público general",
+    "access_conditions": "Acceso gratuito a los espacios públicos, entrada 2 CHF en verano y 1 CHF en invierno"
+  },
+  "r_0086": {
+    "description": "Playa pública gratuita a orillas del lago, ideal para familias con niños. Zona de juegos, piscina infantil, espacios verdes y canchas deportivas.",
+    "target_audience": "Familias, niños, público general",
+    "access_conditions": "Acceso libre y gratuito"
+  },
+  "r_0087": {
+    "description": "Instalaciones deportivas públicas y gratuitas en el Parc des Bastions. Ajedrez gigante, mesas de ping-pong, petanca y espacio de fitness al aire libre.",
+    "target_audience": "Público general",
+    "access_conditions": "Acceso libre y gratuito"
+  },
+  "r_0088": {
+    "description": "Servicio gratuito de mediación para resolver conflictos familiares, sociales, de vecindad o laborales. Mediación penal, civil y sanitaria.",
+    "target_audience": "Habitantes de la Ville de Genève",
+    "access_conditions": "Gratuito, con cita previa"
+  },
+  "r_0089": {
+    "description": "Espacio de acogida, información y actividades para personas mayores. Punto de información gratuito, ayuda administrativa, cursos, talleres, conferencias, consejos de salud y encuentros intergeneracionales.",
+    "target_audience": "Personas mayores, jubilados y sus allegados",
+    "access_conditions": "Abierto a todas las personas mayores y sus allegados, acceso libre y gratuito"
+  },
+  "r_0090": {
+    "description": "Espacio de trabajo compartido gratuito en la Bibliothèque de la Cité. WiFi, enchufes eléctricos, mesas de trabajo y ambiente tranquilo para trabajar o estudiar.",
+    "target_audience": "Estudiantes, trabajadores independientes, buscadores de empleo, público general",
+    "access_conditions": "Acceso libre y gratuito, WiFi disponible"
+  },
+  "r_0091": {
+    "description": "Talleres de reparación gratuitos e itinerantes organizados por la FRC Genève. Voluntarios expertos reparan aparatos electrónicos, ropa y bicicletas. Eventos periódicos (consultar el sitio web para fechas y lugares).",
+    "target_audience": "Público general",
+    "access_conditions": "Acceso libre y gratuito, un sábado al mes (consultar el sitio web)"
+  },
+  "r_0092": {
+    "description": "Taller de reparación gratuito en Carouge. Voluntarios ayudan a reparar sus objetos rotos: pequeños electrodomésticos, costura, informática, bicicletas.",
+    "target_audience": "Público general",
+    "access_conditions": "Acceso libre y gratuito, un sábado al mes (consultar el sitio web)"
+  },
+  "r_0093": {
+    "description": "Centro de consultas y estudios etnopsicológicos para personas migrantes. Apoyo psicoterapéutico adaptado a la cultura de origen, ayuda para traumas relacionados con el exilio y la integración.",
+    "target_audience": "Personas migrantes, parejas biculturales, familias en situación intercultural",
+    "access_conditions": "Con cita previa, consultas para personas migrantes y biculturales"
+  },
+  "r_0094": {
+    "description": "Baños públicos gratuitos en la Place de Neuve, cerca del Grand Théâtre y del Musée Rath. Accesibles para personas con movilidad reducida.",
+    "target_audience": "Público general",
+    "access_conditions": "Acceso libre y gratuito"
+  },
+  "r_0095": {
+    "description": "Fuente de agua potable gratuita en el Parc de la Grange, el parque ribereño más grande de Genève. Agua fresca accesible todo el año.",
+    "target_audience": "Público general",
+    "access_conditions": "Acceso libre 24h/24"
+  },
+  "r_0096": {
+    "description": "Baños públicos gratuitos situados en el Quai du Mont-Blanc, cerca del Jet d'eau. Abiertos todo el año.",
+    "target_audience": "Público general",
+    "access_conditions": "Acceso libre y gratuito"
+  },
+  "r_0097": {
+    "description": "Huerto urbano compartido en la confluencia del Arve y del Rhône. Talleres de permacultura, compostaje colectivo y jardinería participativa.",
+    "target_audience": "Habitantes del barrio, público general",
+    "access_conditions": "Acceso libre, participación bajo solicitud"
+  },
+  "r_0098": {
+    "description": "Fuente pública de agua potable frente a la Gare de Cornavin. Punto de abastecimiento de agua fresca y gratuita en el centro de Genève.",
+    "target_audience": "Público general",
+    "access_conditions": "Acceso libre 24h/24"
+  },
+  "r_0099": {
+    "description": "Ludoteca de barrio con préstamo gratuito de juegos de mesa, rompecabezas y juguetes para todas las edades. Tardes de juegos abiertas a las familias.",
+    "target_audience": "Niños, familias, público general",
+    "access_conditions": "Juego en el lugar gratuito, abono anual 30 CHF para el préstamo"
+  },
+  "r_0100": {
+    "description": "Acceso WiFi gratuito en el Parc de la Grange ofrecido por la Ville de Genève. Conexión libre en uno de los parques más bonitos de Genève.",
+    "target_audience": "Público general",
+    "access_conditions": "Acceso libre"
+  },
+  "r_0101": {
+    "description": "Asociación de apoyo a la comunidad LGBTIQ+. Checkpoint Genève (centro de salud comunitario con detección de VIH/ITS y apoyo psicológico), Le Refuge (alojamiento para jóvenes LGBTIQ+), grupos de conversación y actividades sociales.",
+    "target_audience": "Comunidad LGBT+ y toda persona interesada",
+    "access_conditions": "Abierto a todas y todos, detección gratuita y anónima"
+  },
+  "r_0102": {
+    "description": "Centro comunitario de Saint-Jean que ofrece actividades para todas las edades. Talleres, cursos de idiomas, apoyo escolar y eventos culturales.",
+    "target_audience": "Habitantes del barrio de Saint-Jean, niños, adolescentes y adultos",
+    "access_conditions": "Abierto a todos los habitantes del barrio"
+  },
+  "r_0103": {
+    "description": "Apoyo gratuito e información para las personas afectadas por el cáncer. Consultas psico-oncológicas, grupos de conversación y acompañamiento social.",
+    "target_audience": "Personas con cáncer y sus allegados",
+    "access_conditions": "Gratuito, con cita previa"
+  },
+  "r_0104": {
+    "description": "Consultas psiquiátricas de crisis y seguimiento ambulatorio gratuito para adultos en situación de angustia psíquica. Servicio vinculado a los HUG.",
+    "target_audience": "Adultos en situación de crisis psíquica",
+    "access_conditions": "Gratuito, con o sin cita previa según urgencia"
+  },
+  "r_0105": {
+    "description": "Apoyo gratuito para personas diabéticas y sus allegados. Consejos dietéticos, grupos de intercambio e información sobre la enfermedad.",
+    "target_audience": "Personas diabéticas y sus allegados",
+    "access_conditions": "Gratuito, con cita previa o permanencia telefónica"
+  },
+  "r_0106": {
+    "description": "Atención médica primaria para personas sin seguro de enfermedad o en situación de precariedad. Consultas generales y orientación.",
+    "target_audience": "Personas sin seguro de enfermedad o en situación precaria",
+    "access_conditions": "Accesible para personas sin seguro de enfermedad, con cita previa"
+  },
+  "r_0107": {
+    "description": "Institución ginebrina de atención a domicilio. Cuidados de enfermería, ayuda a domicilio y acompañamiento para personas mayores, enfermas o en convalecencia.",
+    "target_audience": "Personas mayores, enfermas o en convalecencia que necesiten atención a domicilio",
+    "access_conditions": "Con receta médica o solicitud directa"
+  },
+  "r_0108": {
+    "description": "Apoyo gratuito para familias y allegados de personas con Alzheimer. Grupos de conversación, consultas y orientación hacia los servicios especializados.",
+    "target_audience": "Familias y allegados de personas con Alzheimer o demencia",
+    "access_conditions": "Gratuito, con cita previa"
+  },
+  "r_0109": {
+    "description": "Servicio cantonal de protección de la infancia. Evaluación de situaciones de peligro, medidas de protección y acompañamiento de familias en dificultad.",
+    "target_audience": "Niños y familias en situación de peligro o dificultad",
+    "access_conditions": "Servicio cantonal, acceso por denuncia o solicitud"
+  },
+  "r_0110": {
+    "description": "Acompañamiento educativo y apoyo escolar para jóvenes en dificultad. Talleres, alojamiento educativo y programas de reinserción.",
+    "target_audience": "Jóvenes con dificultades escolares, sociales o familiares",
+    "access_conditions": "Por orientación del SPMi o solicitud directa"
+  },
+  "r_0111": {
+    "description": "Espacio artístico gratuito para niños de 0 a 6 años y sus acompañantes. Talleres de pintura, modelado, música en el marco del Parc de la Perle du Lac.",
+    "target_audience": "Niños de 0 a 6 años acompañados de un adulto",
+    "access_conditions": "Gratuito, sin inscripción, niños acompañados"
+  },
+  "r_0112": {
+    "description": "Lugar de acogida para padres e hijos de 0 a 4 años. Espacio de juego libre, intercambios entre padres y apoyo a la parentalidad en un entorno acogedor.",
+    "target_audience": "Padres y niños de 0 a 4 años",
+    "access_conditions": "Gratuito, sin inscripción, niño acompañado de un padre"
+  },
+  "r_0113": {
+    "description": "Préstamo gratuito de juegos y juguetes para niños y familias. Amplia colección de juegos de mesa, juegos educativos y juguetes para todas las edades.",
+    "target_audience": "Niños y familias",
+    "access_conditions": "Inscripción gratuita, préstamo de juegos gratuito para los residentes de Carouge"
+  },
+  "r_0114": {
+    "description": "Servicio gratuito de préstamo de bicicletas en libre servicio en Genève. Bicicletas clásicas y eléctricas disponibles para trayectos urbanos diarios.",
+    "target_audience": "Público general",
+    "access_conditions": "Gratuito, documento de identidad y depósito requeridos"
+  },
+  "r_0115": {
+    "description": "Tarifa reducida en los abonos de transporte público ginebrino para personas con ingresos modestos. Reducción de hasta el 50% en los abonos mensuales y anuales.",
+    "target_audience": "Personas con ingresos modestos residentes en el cantón de Genève",
+    "access_conditions": "Bajo condiciones de ingresos, justificante requerido"
+  },
+  "r_0116": {
+    "description": "Cobertura de los gastos de transporte público para beneficiarios de la ayuda social. Abono TPG incluido en las prestaciones de ayuda económica.",
+    "target_audience": "Beneficiarios de la ayuda social",
+    "access_conditions": "Reservado a los beneficiarios de la ayuda social del Hospice général"
+  },
+  "r_0117": {
+    "description": "Acceso WiFi gratuito SBB-FREE en la estación de Cornavin. Conexión ilimitada disponible en toda la estación y en los andenes.",
+    "target_audience": "Público general",
+    "access_conditions": "Gratuito, red SBB-FREE, sin contraseña"
+  },
+  "r_0118": {
+    "description": "Acceso WiFi gratuito de la Ville de Genève en el Jardin Anglais. Punto de acceso al aire libre con vista al Jet d'eau y al lago.",
+    "target_audience": "Público general",
+    "access_conditions": "Gratuito, red Ville de Genève WiFi"
+  },
+  "r_0119": {
+    "description": "Acceso WiFi gratuito de la Ville de Genève en la Plaine de Plainpalais. Zona de cobertura amplia en esta gran explanada urbana.",
+    "target_audience": "Público general",
+    "access_conditions": "Gratuito, red Ville de Genève WiFi"
+  },
+  "r_0120": {
+    "description": "Edificio universitario que ofrece acceso WiFi gratuito y espacios de estudio abiertos al público. Biblioteca, salas de trabajo y cafetería accesibles.",
+    "target_audience": "Estudiantes y público general que busque un espacio de trabajo",
+    "access_conditions": "Gratuito, acceso libre a los espacios públicos del edificio"
+  },
+  "r_0121": {
+    "description": "Reinserción profesional para personas con problemas de salud o en situación de discapacidad. Desarrollo de competencias personales, profesionales y sociales, definición de proyecto profesional, prácticas en empresa y colocación.",
+    "target_audience": "Personas en situación de discapacidad o con problemas de salud que buscan empleo",
+    "access_conditions": "Gratuito, por orientación AI, desempleo o ayuda social"
+  },
+  "r_0122": {
+    "description": "Espacio de formación para mujeres poco o no cualificadas con dificultades para encontrar trabajo. Cursos de francés, informática, competencias básicas y acompañamiento hacia la autonomía e inserción profesional.",
+    "target_audience": "Mujeres poco o no cualificadas en situación de precariedad",
+    "access_conditions": "Gratuito para la mayoría de las formaciones, inscripción en secretaría requerida"
+  },
+  "r_0123": {
+    "description": "Acompañamiento profesional para jóvenes adultos menores de 25 años hacia la consecución de un aprendizaje dual y para personas de 50 años o más hacia un retorno al empleo. Coaching individual y colectivo.",
+    "target_audience": "Jóvenes menores de 25 años sin formación y personas de 50 años o más en búsqueda de empleo",
+    "access_conditions": "Gratuito para jóvenes menores de 25 años y personas de 50 años o más domiciliadas en Genève"
+  },
+  "r_0124": {
+    "description": "Lugar de intercambio, información y formación asociativa que acoge a más de 80 asociaciones locales e internacionales. 13 salas disponibles para alquiler para eventos, congresos y actividades asociativas.",
+    "target_audience": "Asociaciones y habitantes del barrio",
+    "access_conditions": "Acceso libre a los espacios comunes, reserva para las salas"
+  },
+  "r_0125": {
+    "description": "Centro de vida de barrio que ofrece actividades socioculturales para todas las edades. Talleres creativos, cursos de idiomas, eventos comunitarios y espacio café.",
+    "target_audience": "Habitantes de Carouge y alrededores, todas las edades",
+    "access_conditions": "Acceso libre, algunas actividades con inscripción"
+  },
+  "r_0126": {
+    "description": "Espacio comunitario de Vernier que ofrece actividades para niños, adolescentes y adultos. Apoyo escolar, talleres, salidas y eventos interculturales.",
+    "target_audience": "Habitantes de Vernier, todas las edades",
+    "access_conditions": "Acceso libre, algunas actividades con inscripción"
+  },
+  "r_0127": {
+    "description": "Línea de escucha y apoyo para víctimas de violencia sexual. Acompañamiento psicológico, jurídico y social en un marco confidencial.",
+    "target_audience": "Víctimas de violencia sexual, principalmente mujeres y personas LGBTIQ+",
+    "access_conditions": "Gratuito y confidencial, con o sin cita previa"
+  },
+  "r_0128": {
+    "description": "Asociación de acompañamiento y empoderamiento de mujeres migrantes. Cursos de francés, talleres de integración, consultas psicológicas y apoyo comunitario.",
+    "target_audience": "Mujeres migrantes y refugiadas",
+    "access_conditions": "Gratuito o a costo simbólico, inscripción requerida para los cursos"
+  },
+  "r_0129": {
+    "description": "Apoyo y acompañamiento para mujeres embarazadas en dificultad. Escucha, ayuda material (ropa de bebé, cochecitos), consejos y orientación hacia los servicios sociales.",
+    "target_audience": "Mujeres embarazadas en dificultad y madres jóvenes",
+    "access_conditions": "Gratuito, con cita previa o permanencia telefónica"
+  },
+  "r_0130": {
+    "description": "Acogida diurna para personas mayores con pérdida de autonomía. Actividades adaptadas, comidas y cuidados que permiten un respiro para los cuidadores familiares.",
+    "target_audience": "Personas mayores con pérdida de autonomía y sus cuidadores familiares",
+    "access_conditions": "Con receta médica, participación económica según ingresos"
+  },
+  "r_0131": {
+    "description": "Apoyo y orientación para los cuidadores familiares del cantón de Genève. Escucha, consejo, grupos de conversación y conexión con los recursos existentes.",
+    "target_audience": "Cuidadores familiares de personas mayores, enfermas o en situación de discapacidad",
+    "access_conditions": "Gratuito, con o sin cita previa"
+  },
+  "r_0132": {
+    "description": "Cursos gratuitos o a precio reducido para adultos en numerosos ámbitos: idiomas, informática, cultura, desarrollo personal. Abierto a todos sin condiciones de diploma.",
+    "target_audience": "Adultos de todos los horizontes sin condiciones de diploma",
+    "access_conditions": "Gratuito o a precio reducido, inscripción por semestre"
+  },
+  "r_0133": {
+    "description": "Centro de recursos para organizaciones internacionales y asociaciones. Salas de conferencias, espacios de coworking y servicios de apoyo administrativo.",
+    "target_audience": "Asociaciones, ONG y organizaciones internacionales",
+    "access_conditions": "Acceso libre a los espacios comunes, reserva para las salas de conferencias"
+  },
+  "r_0134": {
+    "description": "Consultas jurídicas gratuitas para personas extranjeras sobre cuestiones de derecho de extranjería, asilo, reagrupación familiar y permiso de residencia.",
+    "target_audience": "Personas extranjeras residentes en el cantón de Genève",
+    "access_conditions": "Gratuito, sin cita previa, por orden de llegada"
+  },
+  "r_0135": {
+    "description": "Permanencia jurídica gratuita especializada en derecho de asilo y derecho de extranjería. Asesoramiento, acompañamiento en los procedimientos y redacción de recursos.",
+    "target_audience": "Solicitantes de asilo, refugiados y personas denegadas",
+    "access_conditions": "Gratuito, con cita previa para consultas en profundidad"
+  },
+  "r_0136": {
+    "description": "Asesoramiento y acompañamiento gratuitos para personas en situación de discapacidad y sus allegados. Ayuda administrativa, orientación profesional y apoyo social.",
+    "target_audience": "Personas en situación de discapacidad y sus allegados",
+    "access_conditions": "Gratuito, con cita previa"
+  },
+  "r_0137": {
+    "description": "Museo de historia natural con entrada gratuita. Colecciones permanentes de zoología, mineralogía y paleontología. Exposiciones temporales y actividades para niños.",
+    "target_audience": "Público general, familias y escolares",
+    "access_conditions": "Entrada gratuita para las colecciones permanentes"
+  },
+  "r_0138": {
+    "description": "El museo más grande de Genève con una colección permanente gratuita. Bellas artes, artes aplicadas y arqueología, desde la prehistoria hasta el arte contemporáneo.",
+    "target_audience": "Público general, aficionados al arte y a la historia",
+    "access_conditions": "Colección permanente gratuita, exposiciones temporales de pago"
+  },
+  "r_0139": {
+    "description": "Museo suizo de la cerámica y del vidrio con entrada gratuita. Colecciones excepcionales en un edificio neobarroco frente al Palais des Nations.",
+    "target_audience": "Público general, aficionados a las artes decorativas",
+    "access_conditions": "Entrada gratuita para las colecciones permanentes"
+  },
+  "r_0140": {
+    "description": "Museo dedicado a la acción humanitaria con entrada gratuita los miércoles por la tarde. Exposiciones interactivas sobre la historia y los desafíos humanitarios actuales.",
+    "target_audience": "Público general, apasionados por la historia humanitaria",
+    "access_conditions": "Entrada gratuita los miércoles por la tarde (16:00-18:00), tarifa reducida disponible"
+  },
+  "r_0141": {
+    "description": "Centro acuático municipal con tarifa reducida para residentes con bajos ingresos. Piscina olímpica, piscina de aprendizaje y espacio de bienestar.",
+    "target_audience": "Público general, tarifa reducida para residentes con bajos ingresos",
+    "access_conditions": "Tarifa reducida con tarjeta Cité Seniors o subsidio de seguro de enfermedad"
+  },
+  "r_0142": {
+    "description": "Mediateca municipal de libre acceso que ofrece libros, DVD, CD y acceso a internet gratuito. Animaciones culturales, hora del cuento y espacio de lectura confortable.",
+    "target_audience": "Público general, lectores y familias del barrio",
+    "access_conditions": "Acceso libre y gratuito, inscripción gratuita para el préstamo"
+  },
+  "r_0143": {
+    "description": "Restaurante solidario que ofrece comidas gratuitas por la noche para personas en situación de precariedad. Cocina gastronómica a base de excedentes alimentarios recuperados. Gestionado por Mater Fondazione en colaboración con Food for Soul.",
+    "target_audience": "Personas en situación de precariedad alimentaria",
+    "access_conditions": "Cenas gratuitas, orientación por asociaciones colaboradoras"
+  },
+  "r_0144": {
+    "description": "Comedor popular que sirve comidas gratuitas al mediodía para personas sin recursos. Más de 250 comidas servidas al día por diferentes asociaciones benéficas. Lugar de encuentro detrás de la estación Cornavin.",
+    "target_audience": "Personas sin recursos, sin domicilio fijo",
+    "access_conditions": "Sin condiciones, abierto a toda persona necesitada"
+  },
+  "r_0145": {
+    "description": "Centro de acogida diurno de emergencia que ofrece comidas calientes gratuitas, duchas, escucha y orientación. Acogida incondicional para personas que enfrentan soledad, exclusión y marginación. CARÉ = Caritas Accueil Rencontre Échange.",
+    "target_audience": "Personas en situación de precariedad, exclusión, aislamiento",
+    "access_conditions": "Sin condiciones, acogida incondicional para adultos"
+  },
+  "r_0146": {
+    "description": "Hogar de alojamiento de emergencia que ofrece refugio a personas sin techo. Desayuno y cena gratuitos. Duración de estancia ilimitada. Posibilidad de permanecer durante el día en invierno. Espacio Mujeres dedicado.",
+    "target_audience": "Personas sin techo, mujeres solas o con hijos",
+    "access_conditions": "Alojamiento bajo solicitud, 10 a 20 plazas, duración ilimitada"
+  },
+  "r_0147": {
+    "description": "Refugio nocturno de emergencia de la Ville de Genève. Cama, cena, consigna y acceso a duchas proporcionados gratuitamente. Duración limitada a 30 días.",
+    "target_audience": "Personas sin techo",
+    "access_conditions": "Llamar a la central de alojamiento de emergencia al 0800 22 22 10 (gratuito). Duración limitada a 30 días."
+  },
+  "r_0148": {
+    "description": "Consulta médica gratuita y confidencial para personas sin seguro de enfermedad o sin estatus legal. Atención de primera línea, consultas médicas y de enfermería, orientación hacia los servicios especializados. Más de 4500 pacientes al año.",
+    "target_audience": "Personas sin seguro de enfermedad, sin estatus legal, sin domicilio fijo",
+    "access_conditions": "A partir de 16 años, sin condiciones de estatus legal, sin seguro aceptado, gratuito y confidencial"
+  },
+  "r_0149": {
+    "description": "Centro de salud comunitario LGBTIQ+ especializado en salud sexual. Detección de VIH/ITS gratuita y anónima, tratamientos, vacunaciones, consultas psicológicas. Servicio de Dialogai.",
+    "target_audience": "Comunidad LGBTIQ+ y toda persona interesada en la salud sexual",
+    "access_conditions": "Detección gratuita y anónima sin cita previa lunes y jueves"
+  },
+  "r_0150": {
+    "description": "Consultorio dental que ofrece atención básica a precios muy reducidos para personas con bajos ingresos. Consulta de dentista a 40 CHF, higienista a 20 CHF. Dentistas e higienistas voluntarios.",
+    "target_audience": "Trabajadores pobres y personas con bajos ingresos sin ayuda social",
+    "access_conditions": "Con cita previa a través de la Permanence d'accueil social. Reservado a personas con bajos ingresos."
+  },
+  "r_0151": {
+    "description": "Asociación activa en la lucha contra el VIH, las hepatitis y las ITS. Consulta psicológica gratuita (1ra sesión), detección confidencial, asesoramiento jurídico y social para personas que viven con VIH.",
+    "target_audience": "Personas afectadas por el VIH, las ITS, las hepatitis",
+    "access_conditions": "Primera consulta psicológica gratuita. Detecciones confidenciales."
+  },
+  "r_0152": {
+    "description": "Acompañamiento social y profesional para mujeres en situación de exclusión. Ayuda en trámites administrativos, conocimiento de derechos, reorientación profesional. Escucha telefónica y apoyo.",
+    "target_audience": "Mujeres en situación de exclusión social o profesional",
+    "access_conditions": "Gratuito, permanencia telefónica en los horarios indicados"
+  },
+  "r_0153": {
+    "description": "Refugio para mujeres víctimas de violencia y de trata de seres humanos, con o sin hijos. Alojamiento residencial con seguimiento psicosocial para unas 30 mujeres. Cursos de francés y formación profesional.",
+    "target_audience": "Mujeres víctimas de violencia y de trata, con o sin hijos",
+    "access_conditions": "Acogida telefónica 8h30-12h. Alojamiento de emergencia 24h/24."
+  },
+  "r_0154": {
+    "description": "Asociación de solidaridad que defiende los derechos de los y las trabajadoras del sexo. Acogida, escucha, apoyo psicosocial, servicios jurídicos, ayuda administrativa, prevención de ITS y material de prevención.",
+    "target_audience": "Personas que ejercen el trabajo sexual",
+    "access_conditions": "Sin cita previa en los horarios indicados. Acogida sin juicio."
+  },
+  "r_0155": {
+    "description": "Espacio gratuito de información y asesoramiento en orientación, formación y empleo. Consejeros disponibles sin cita previa. Talleres temáticos: balance de competencias, CV, entrevistas de trabajo, reconversión.",
+    "target_audience": "Jóvenes y adultos en búsqueda de orientación, formación o empleo",
+    "access_conditions": "Gratuito, sin cita previa, libre acceso"
+  },
+  "r_0156": {
+    "description": "Asociación de inserción socioprofesional para jóvenes de 15 a 25 años. Trabajos temporales, apoyo personalizado, prácticas de precualificación y acompañamiento en la búsqueda de empleo o formación.",
+    "target_audience": "Jóvenes de 15 a 25 años en búsqueda de empleo o formación",
+    "access_conditions": "Gratuito, inscripción en el sitio web o presencialmente"
+  },
+  "r_0157": {
+    "description": "Asociación independiente que defiende el derecho de asilo desde 1986. Ayuda jurídica gratuita y representación de refugiados. Consultas sin cita previa los lunes. Acompañamiento durante todo el procedimiento de asilo.",
+    "target_audience": "Solicitantes de asilo y refugiados",
+    "access_conditions": "Gratuito, consultas sin cita previa los lunes"
+  },
+  "r_0158": {
+    "description": "Asociación lesbiana y feminista abierta a todas las mujeres (cis, trans, bisexuales, queer). Acogida, escucha, información y solidaridad. Actividades: cine club, veladas, conferencias, deporte.",
+    "target_audience": "Mujeres lesbianas, bisexuales, trans, queer",
+    "access_conditions": "Abierto a todas las mujeres sin condiciones"
+  },
+  "r_0159": {
+    "description": "Espacio de acogida, escucha y apoyo para jóvenes LGBTIQ+ en dificultad. Acompañamiento individual, grupos de apoyo, chat anónimo en línea, alojamiento de 3 a 6 meses desde los 18 años.",
+    "target_audience": "Jóvenes LGBTIQ+ y su entorno",
+    "access_conditions": "Con o sin cita previa, chat anónimo disponible en línea"
+  },
+  "r_0160": {
+    "description": "Asociación al servicio de la diversidad sexual y de género. Acogida, información, escucha y orientación para personas LGBTIQ+. Servicio jurídico único en la Suiza francófona. Grupos: Trans*, Homoparents, Bi, Tamalou (mayores).",
+    "target_audience": "Personas LGBTIQ+ y sus allegados",
+    "access_conditions": "Acogida libre sin cita previa"
+  },
+  "r_0161": {
+    "description": "Asociación de prevención y acompañamiento para personas dependientes del alcohol y sus familias. Asesoramiento profesional, terapia ambulatoria, grupos de apoyo, fines de semana.",
+    "target_audience": "Personas afectadas por el alcoholismo y sus allegados",
+    "access_conditions": "Acogida libre, gratuito"
+  },
+  "r_0162": {
+    "description": "Centro de día para personas toxicodependientes. Acogida, escucha, comidas, actividades y acompañamiento hacia el tratamiento. La asociación ARGOS también ofrece centros residenciales de reinserción.",
+    "target_audience": "Personas toxicodependientes",
+    "access_conditions": "Acogida libre, sin cita previa"
+  },
+  "r_0163": {
+    "description": "Centro de prevención que agrupa FEGPA (alcohol y cannabis), CIPRET (tabaco) y RNVP (juegos/pantallas). Asesoramiento gratuito y confidencial para toda persona afectada por una adicción o sus allegados.",
+    "target_audience": "Toda persona afectada por una adicción, jóvenes y allegados",
+    "access_conditions": "Consultas gratuitas y confidenciales, con cita previa"
+  },
+  "r_0164": {
+    "description": "Asociación de padres y amigos de personas en situación de discapacidad intelectual. Información, asesoramiento, apoyo a las familias. Actividades de ocio, fines de semana de respiro, estancias vacacionales. Defensa de derechos.",
+    "target_audience": "Personas en situación de discapacidad intelectual y sus familias",
+    "access_conditions": "Contacto por teléfono o email"
+  },
+  "r_0165": {
+    "description": "La mayor organización de ayuda mutua para personas con discapacidad en Suiza. Asesoramiento jurídico gratuito en seguros sociales (AI, APG). Actividades de encuentro para niños en situación de discapacidad.",
+    "target_audience": "Personas en situación de discapacidad",
+    "access_conditions": "Asesoramiento jurídico gratuito para miembros"
+  },
+  "r_0166": {
+    "description": "Asociación que anima a las personas mayores a mantenerse activas y autónomas. Actividades variadas: cursos, talleres, salidas, conferencias, deporte. Programa \"Seniors d'ici et d'ailleurs\" para la integración.",
+    "target_audience": "Personas mayores de 50 años",
+    "access_conditions": "Abierto a personas de 50 años o más"
+  },
+  "r_0167": {
+    "description": "Capellanía ecuménica que ofrece presencia, escucha y apoyo a solicitantes de asilo y refugiados. Cursos de francés, informática, comidas conviviales, actividades deportivas y culturales.",
+    "target_audience": "Solicitantes de asilo y refugiados en Genève",
+    "access_conditions": "Abierto a todos los solicitantes de asilo y refugiados"
+  },
+  "r_0168": {
+    "description": "Acogida y acompañamiento de refugiados/as LGBTIQ+. Permanencia jurídica en colaboración con elisa-asile, apoyo y actividades de sensibilización.",
+    "target_audience": "Refugiados/as y solicitantes de asilo LGBTIQ+",
+    "access_conditions": "Abierto a toda persona LGBTIQ+ refugiada o solicitante de asilo"
+  },
+  "r_0169": {
+    "description": "Ludoteca municipal gratuita para juego en el lugar. Juegos de mesa clásicos y cooperativos en dos plantas. Préstamo de juegos con abono anual familiar (30 CHF). Personal disponible para asesorar.",
+    "target_audience": "Niños, familias, instituciones del barrio",
+    "access_conditions": "Juego en el lugar gratuito. Préstamo con abono familiar anual (30 CHF). Niños menores de 6 años acompañados de un adulto."
+  },
+  "r_0170": {
+    "description": "Ludoteca municipal gratuita para juego en el lugar, dentro del Manège en Ville. Cerca de 1000 juegos de mesa, videojuegos y juguetes para todas las edades. Préstamo con abono familiar (30 CHF/año). Torneos y eventos organizados.",
+    "target_audience": "Niños, familias, todas las edades (bebés a adultos)",
+    "access_conditions": "Juego en el lugar gratuito. Préstamo con abono familiar anual (30 CHF). Niños menores de 6 años acompañados de un adulto."
+  },
+  "r_0171": {
+    "description": "Alojamiento de urgencia para mujeres en situación de precariedad, sin hogar o refugiadas con hijos. 30 plazas de acogida incondicional y 21 plazas para mujeres con asistencia social. Habitaciones individuales o dobles, tres comidas al día, lavandería, acompañamiento social.",
+    "target_audience": "Mujeres sin hogar, mujeres en situación de precariedad, refugiadas con hijos",
+    "access_conditions": "Contactar la línea de alojamiento de urgencia de Ginebra: 0800 22 22 10 (lun-vie 10:30-20h, sáb-dom 15-20h). Sin reserva directa."
+  },
+  "tag": {
+    "143": "143",
+    "147": "147",
+    "15-25 ans": "15-25 años",
+    "24h": "24h",
+    "50+": "50+",
+    "AI": "AI",
+    "AVS": "AVS",
+    "Belle-Idée": "Belle-Idée",
+    "CFF": "CFF",
+    "CV": "CV",
+    "Carouge": "Carouge",
+    "Cité Générations": "Cité Générations",
+    "Cornavin": "Cornavin",
+    "Croix-Rouge": "Croix-Rouge",
+    "FLE": "FLE",
+    "FRC": "FRC",
+    "HUG": "HUG",
+    "Hospice général": "Hospice général",
+    "IST": "ITS",
+    "LAVI": "LAVI",
+    "LGBT": "LGBT",
+    "LGBTIQ+": "LGBTIQ+",
+    "Onex": "Onex",
+    "Plainpalais": "Plainpalais",
+    "SBB": "SBB",
+    "SIT": "SIT",
+    "SOS": "SOS",
+    "TPAE": "TPAE",
+    "TPG": "TPG",
+    "UNIA": "UNIA",
+    "VIH": "VIH",
+    "Vernier": "Vernier",
+    "abri": "refugio",
+    "accessibilité": "accesibilidad",
+    "accompagnement": "acompañamiento",
+    "accueil": "acogida",
+    "accueil de jour": "acogida diurna",
+    "activités": "actividades",
+    "addiction": "adicción",
+    "administratif": "administrativo",
+    "administration": "administración",
+    "adolescents": "adolescentes",
+    "adultes": "adultos",
+    "aide": "ayuda",
+    "aide financière": "ayuda económica",
+    "aide matérielle": "ayuda material",
+    "aide sociale": "ayuda social",
+    "aide à domicile": "ayuda a domicilio",
+    "alcool": "alcohol",
+    "alimentaire": "alimentario",
+    "allaitement": "lactancia",
+    "alzheimer": "alzheimer",
+    "anonyme": "anónimo",
+    "anti-gaspillage": "anti-desperdicio",
+    "antigaspillage": "antidesperdicio",
+    "apprentissage": "aprendizaje",
+    "archéologie": "arqueología",
+    "armée du salut": "ejército de salvación",
+    "art": "arte",
+    "artichauts": "artichauts",
+    "arts": "artes",
+    "asile": "asilo",
+    "associations": "asociaciones",
+    "assurance": "seguro",
+    "assurances sociales": "seguros sociales",
+    "ateliers": "talleres",
+    "autonomie": "autonomía",
+    "autonomisation": "empoderamiento",
+    "avocats": "abogados",
+    "bail": "alquiler",
+    "bains": "baños",
+    "banque": "banco",
+    "bas prix": "bajo precio",
+    "bas seuil": "bajo umbral",
+    "bateau": "barco",
+    "beaulieu": "beaulieu",
+    "bibliothèque": "biblioteca",
+    "bien-être": "bienestar",
+    "bébé": "bebé",
+    "bénévoles": "voluntarios",
+    "café": "café",
+    "cancer": "cáncer",
+    "cannabis": "cannabis",
+    "cantonal": "cantonal",
+    "caritas": "caritas",
+    "carouge": "carouge",
+    "carrière": "carrera",
+    "centrale": "central",
+    "centre-ville": "centro ciudad",
+    "chômage": "desempleo",
+    "citoyenneté": "ciudadanía",
+    "coaching": "coaching",
+    "colis": "paquetes",
+    "collecte": "recolección",
+    "communautaire": "comunitario",
+    "communauté": "comunidad",
+    "compétences": "competencias",
+    "confidentiel": "confidencial",
+    "conflits": "conflictos",
+    "conférences": "conferencias",
+    "conseil": "asesoramiento",
+    "conseils": "consejos",
+    "consultation": "consulta",
+    "contraception": "anticoncepción",
+    "cornavin": "cornavin",
+    "cours": "cursos",
+    "coworking": "coworking",
+    "crise": "crisis",
+    "croix-rouge": "cruz roja",
+    "crèche": "guardería",
+    "créativité": "creatividad",
+    "culture": "cultura",
+    "curatelle": "curatela",
+    "céramique": "cerámica",
+    "dentaire": "dental",
+    "diabète": "diabetes",
+    "distribution": "distribución",
+    "diversité": "diversidad",
+    "divorce": "divorcio",
+    "diététique": "dietética",
+    "domicile": "domicilio",
+    "douche": "ducha",
+    "douches": "duchas",
+    "drogue": "droga",
+    "drogues": "drogas",
+    "droit": "derecho",
+    "droit des étrangers": "derecho de extranjería",
+    "droits": "derechos",
+    "démence": "demencia",
+    "dépendance": "dependencia",
+    "dépistage": "detección",
+    "détresse": "angustia",
+    "eau potable": "agua potable",
+    "eaux-vives": "eaux-vives",
+    "emploi": "empleo",
+    "enfance": "infancia",
+    "enfants": "niños",
+    "espace partagé": "espacio compartido",
+    "espace travail": "espacio de trabajo",
+    "ethnopsychologie": "etnopsicología",
+    "extérieur": "exterior",
+    "factures": "facturas",
+    "famille": "familia",
+    "familles": "familias",
+    "femmes": "mujeres",
+    "femmes migrantes": "mujeres migrantes",
+    "financière": "económica",
+    "fitness": "fitness",
+    "fontaine": "fuente",
+    "formation": "formación",
+    "fr": "fr",
+    "français": "francés",
+    "français professionnel": "francés profesional",
+    "frigo": "nevera",
+    "féministe": "feminista",
+    "garderie": "guardería",
+    "gare": "estación",
+    "gastronomique": "gastronómico",
+    "grange": "grange",
+    "gratuit": "gratuito",
+    "grossesse": "embarazo",
+    "groupe": "grupo",
+    "handicap": "discapacidad",
+    "handicap mental": "discapacidad intelectual",
+    "histoire": "historia",
+    "hiver": "invierno",
+    "humanitaire": "humanitario",
+    "hydratation": "hidratación",
+    "hygiène": "higiene",
+    "hébergement": "alojamiento",
+    "infirmiers": "enfermeros",
+    "information": "información",
+    "informatique": "informática",
+    "infractions": "infracciones",
+    "insertion": "inserción",
+    "interactif": "interactivo",
+    "interculturel": "intercultural",
+    "international": "internacional",
+    "internet": "internet",
+    "intégration": "integración",
+    "invendus": "productos no vendidos",
+    "jardin": "jardín",
+    "jeu": "juego",
+    "jeunes": "jóvenes",
+    "jeunesse": "juventud",
+    "jeux": "juegos",
+    "jonction": "jonction",
+    "jouets": "juguetes",
+    "jour": "día",
+    "juridique": "jurídico",
+    "lac": "lago",
+    "langues": "idiomas",
+    "laverie": "lavandería",
+    "lesbienne": "lesbiana",
+    "libre-service": "libre servicio",
+    "licenciement": "despido",
+    "livres": "libros",
+    "locataires": "inquilinos",
+    "logement": "vivienda",
+    "loisirs": "ocio",
+    "loyer": "alquiler",
+    "ludothèque": "ludoteca",
+    "maintien à domicile": "atención a domicilio",
+    "maladie chronique": "enfermedad crónica",
+    "maraude": "ronda social",
+    "maternité": "maternidad",
+    "meubles": "muebles",
+    "midi": "mediodía",
+    "migrantes": "migrantes",
+    "migrants": "migrantes",
+    "migration": "migración",
+    "mineurs": "menores",
+    "mobile": "móvil",
+    "mobilité": "movilidad",
+    "molard": "molard",
+    "multilingue": "multilingüe",
+    "musée": "museo",
+    "médecin": "médico",
+    "médecine générale": "medicina general",
+    "médiathèque": "mediateca",
+    "médiation": "mediación",
+    "médicaments": "medicamentos",
+    "natation": "natación",
+    "nature": "naturaleza",
+    "nuit": "noche",
+    "offres": "ofertas",
+    "orientation": "orientación",
+    "parc": "parque",
+    "parc de la grange": "parc de la grange",
+    "parentalité": "parentalidad",
+    "parents": "padres",
+    "parents-enfants": "padres-hijos",
+    "partage": "compartir",
+    "permaculture": "permacultura",
+    "permanence": "permanencia",
+    "permis": "permiso",
+    "personnes âgées": "personas mayores",
+    "petite enfance": "primera infancia",
+    "petits boulots": "trabajos temporales",
+    "petits-déjeuners": "desayunos",
+    "pharmacie": "farmacia",
+    "piscine": "piscina",
+    "place de neuve": "place de neuve",
+    "plage": "playa",
+    "plaine": "explanada",
+    "plainpalais": "plainpalais",
+    "planning familial": "planificación familiar",
+    "plein air": "aire libre",
+    "ponctuel": "puntual",
+    "potager": "huerto",
+    "prestations": "prestaciones",
+    "prix réduits": "precios reducidos",
+    "pro juventute": "pro juventute",
+    "proches aidants": "cuidadores familiares",
+    "protection": "protección",
+    "précarité": "precariedad",
+    "prévention": "prevención",
+    "prêt": "préstamo",
+    "psychiatrie": "psiquiatría",
+    "psycho-oncologie": "psicooncología",
+    "psychologie": "psicología",
+    "psychologique": "psicológico",
+    "psychologue": "psicólogo",
+    "psychopédagogique": "psicopedagógico",
+    "public": "público",
+    "pâquis": "pâquis",
+    "quai": "muelle",
+    "quartier": "barrio",
+    "reconversion": "reconversión",
+    "recours": "recurso",
+    "redistribution": "redistribución",
+    "refuge": "refugio",
+    "repair café": "repair café",
+    "repas": "comidas",
+    "repos": "descanso",
+    "ressources": "recursos",
+    "restaurant": "restaurante",
+    "récupération": "recuperación",
+    "réduction": "reducción",
+    "réduction des risques": "reducción de riesgos",
+    "réfugiés": "refugiados",
+    "réinsertion": "reinserción",
+    "réorientation": "reorientación",
+    "réparation": "reparación",
+    "répit": "respiro",
+    "réseau": "red",
+    "résolution": "resolución",
+    "réunions": "reuniones",
+    "sages-femmes": "matronas",
+    "saint-jean": "saint-jean",
+    "sans assurance": "sin seguro",
+    "sans rendez-vous": "sin cita previa",
+    "sans-abri": "sin techo",
+    "sans-papiers": "indocumentados",
+    "santé": "salud",
+    "santé mentale": "salud mental",
+    "santé sexuelle": "salud sexual",
+    "sauna": "sauna",
+    "sciences": "ciencias",
+    "seconde main": "segunda mano",
+    "seniors": "mayores",
+    "servette": "servette",
+    "social": "social",
+    "socioculturel": "sociocultural",
+    "soins": "cuidados",
+    "soins à domicile": "cuidados a domicilio",
+    "solidaire": "solidario",
+    "soupe": "sopa",
+    "soupe populaire": "comedor popular",
+    "soutien": "apoyo",
+    "soutien scolaire": "apoyo escolar",
+    "sport": "deporte",
+    "stages": "prácticas",
+    "substitution": "sustitución",
+    "suicide": "suicidio",
+    "syndicat": "sindicato",
+    "sécheron": "sécheron",
+    "tabac": "tabaco",
+    "tarif réduit": "tarifa reducida",
+    "tarif social": "tarifa social",
+    "toilettes": "baños",
+    "toxicodépendance": "toxicodependencia",
+    "traite": "trata",
+    "traitement": "tratamiento",
+    "trans": "trans",
+    "transport": "transporte",
+    "travail": "trabajo",
+    "travail du sexe": "trabajo sexual",
+    "travailleurs pauvres": "trabajadores pobres",
+    "tutelle": "tutela",
+    "téléphone": "teléfono",
+    "université": "universidad",
+    "urbain": "urbano",
+    "urgence": "emergencia",
+    "verre": "vidrio",
+    "vestiaire": "ropero",
+    "victimes": "víctimas",
+    "vie associative": "vida asociativa",
+    "vieille ville": "casco antiguo",
+    "ville": "ciudad",
+    "violence": "violencia",
+    "violence conjugale": "violencia conyugal",
+    "violences": "violencias",
+    "violences sexuelles": "violencia sexual",
+    "vélos": "bicicletas",
+    "vêtements": "ropa",
+    "wifi": "wifi",
+    "écologie": "ecología",
+    "écologique": "ecológico",
+    "écoute": "escucha",
+    "éducation": "educación",
+    "épicerie": "tienda solidaria",
+    "étrangers": "extranjeros",
+    "étude": "estudio",
+    "étudier": "estudiar"
+  }
+}

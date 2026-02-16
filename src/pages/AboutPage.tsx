@@ -1,11 +1,13 @@
 import { useTranslation } from 'react-i18next'
-import { Heart, MapPin, Github, Users } from 'lucide-react'
+import { Heart, MapPin, Github, Users, Eye } from 'lucide-react'
+import { useVisitCounter } from '../hooks/useVisitCounter'
 
 export function AboutPage() {
   const { t } = useTranslation()
+  const visitCount = useVisitCounter()
 
   return (
-    <div className="flex-1 overflow-y-auto bg-gray-50">
+    <div className="flex-1 overflow-y-auto bg-gray-50 animate-fade-in">
       <div className="max-w-2xl mx-auto px-4 py-8">
         <div className="text-center mb-8">
           <div className="w-16 h-16 bg-blue-600 rounded-2xl flex items-center justify-center mx-auto mb-4">
@@ -48,10 +50,16 @@ export function AboutPage() {
             </p>
           </div>
 
-          <div className="text-center text-sm text-gray-400 py-4">
+          <div className="text-center text-sm text-gray-400 py-4 space-y-1">
             <p className="flex items-center justify-center gap-1">
               Made with <Heart size={14} className="text-red-500" /> for Geneva
             </p>
+            {visitCount != null && (
+              <p className="flex items-center justify-center gap-1.5 text-xs text-gray-300">
+                <Eye size={12} />
+                {visitCount.toLocaleString()} {t('stats.visits')}
+              </p>
+            )}
           </div>
         </div>
       </div>

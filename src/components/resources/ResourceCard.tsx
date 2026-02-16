@@ -11,19 +11,19 @@ interface ResourceCardProps {
 }
 
 export function ResourceCard({ resource, isSelected, onClick }: ResourceCardProps) {
-  const { i18n } = useTranslation()
+  const { t } = useTranslation()
   const config = CATEGORY_CONFIG[resource.category]
   const Icon = config.icon
-  const label = i18n.language === 'en' ? config.labelEn : config.label
 
   return (
     <button
       onClick={onClick}
-      className={`w-full text-left p-3 rounded-xl border transition-all ${
+      className={`w-full text-left p-3 rounded-xl border border-l-[3px] transition-all duration-150 active:scale-[0.98] active:bg-gray-50 ${
         isSelected
           ? 'border-blue-500 bg-blue-50 shadow-sm'
           : 'border-gray-200 bg-white hover:border-gray-300 hover:shadow-sm'
       }`}
+      style={{ borderLeftColor: config.color }}
     >
       <div className="flex items-start gap-3">
         <div
@@ -40,6 +40,11 @@ export function ResourceCard({ resource, isSelected, onClick }: ResourceCardProp
             </h3>
             {resource.verified && (
               <CheckCircle size={14} className="text-green-500 shrink-0" />
+            )}
+            {resource._distance != null && (
+              <span className="shrink-0 text-[10px] font-medium text-blue-600 bg-blue-50 px-1.5 py-0.5 rounded-full">
+                {formatDistance(resource._distance)}
+              </span>
             )}
           </div>
 
@@ -60,15 +65,15 @@ export function ResourceCard({ resource, isSelected, onClick }: ResourceCardProp
               className="inline-flex items-center gap-1 px-1.5 py-0.5 rounded"
               style={{ backgroundColor: `${config.color}10`, color: config.color }}
             >
-              {label}
+              {t(`categories.${resource.category}`)}
             </span>
 
-            <span className="inline-flex items-center gap-1">
-              <MapPin size={12} />
-              {resource._distance != null
-                ? formatDistance(resource._distance)
-                : resource.address.split(',')[0]}
-            </span>
+            {resource._distance == null && (
+              <span className="inline-flex items-center gap-1">
+                <MapPin size={12} />
+                {resource.address.split(',')[0]}
+              </span>
+            )}
           </div>
         </div>
       </div>

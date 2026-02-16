@@ -2,7 +2,7 @@ import { useEffect, useRef } from 'react'
 import type { Resource } from '../../lib/types'
 import { ResourceCard } from './ResourceCard'
 import { EmptyState } from '../ui/EmptyState'
-import { Spinner } from '../ui/Spinner'
+import { SkeletonCard } from '../ui/SkeletonCard'
 
 interface ResourceListProps {
   resources: Resource[]
@@ -28,8 +28,10 @@ export function ResourceList({
 
   if (loading) {
     return (
-      <div className="flex items-center justify-center py-12">
-        <Spinner />
+      <div className="flex flex-col gap-2 p-3">
+        {Array.from({ length: 5 }).map((_, i) => (
+          <SkeletonCard key={i} />
+        ))}
       </div>
     )
   }
@@ -40,10 +42,12 @@ export function ResourceList({
 
   return (
     <div className="flex flex-col gap-2 p-3">
-      {resources.map((resource) => (
+      {resources.map((resource, index) => (
         <div
           key={resource.id}
           ref={resource.id === selectedId ? selectedRef : undefined}
+          className="animate-card-enter"
+          style={{ animationDelay: `${Math.min(index * 50, 300)}ms` }}
         >
           <ResourceCard
             resource={resource}
