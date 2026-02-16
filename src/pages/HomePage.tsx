@@ -1,5 +1,5 @@
 import { useState, useCallback, useMemo } from 'react'
-import { Eye } from 'lucide-react'
+import { Eye, Coffee } from 'lucide-react'
 import { MapView } from '../components/map/MapView'
 import { ResourceList } from '../components/resources/ResourceList'
 import { ResourceDetail } from '../components/resources/ResourceDetail'
@@ -11,6 +11,7 @@ import { useSearch } from '../hooks/useSearch'
 import { useVisitCounter } from '../hooks/useVisitCounter'
 import { useTranslatedResources, useTranslatedResource } from '../hooks/useTranslatedResource'
 import { useTranslation } from 'react-i18next'
+import { STRIPE_DONATION_LINK } from '../lib/constants'
 import type { Resource, ResourceCategory } from '../lib/types'
 
 interface HomePageProps {
@@ -123,6 +124,17 @@ export function HomePage({ mobileView }: HomePageProps) {
 
       {/* Resource Detail */}
       <ResourceDetail resource={translatedSelected} onClose={handleCloseDetail} />
+
+      {/* Coffee FAB */}
+      <a
+        href={STRIPE_DONATION_LINK}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="fixed bottom-20 sm:bottom-4 left-4 z-30 bg-amber-500 hover:bg-amber-600 text-white p-3 rounded-full shadow-lg transition-colors"
+        title={t('about.coffeeTitle')}
+      >
+        <Coffee size={20} />
+      </a>
     </div>
   )
 }
