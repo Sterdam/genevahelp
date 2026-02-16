@@ -136,7 +136,11 @@
     "howItWorksText": "Tüm kaynaklar doğrulanmış ve düzenli olarak güncellenmektedir. Yeni kaynaklar önererek veya hatalı bilgileri bildirerek katkıda bulunabilirsiniz.",
     "openSource": "Açık kaynak proje",
     "openSourceText": "GenevaHelp, Cenevre için oluşturulmuş açık kaynaklı bir projedir.",
-    "contact": "İletişim"
+    "contact": "İletişim",
+    "coffeeTitle": "Bana bir kahve ısmarla",
+    "coffeeText": "GenevaHelp işine yaradıysa ve takdirini göstermek istiyorsan, bana bir kahve ısmarlayabilirsin. Küçük bir kişisel jest, zorunluluk değil.",
+    "coffeeButton": "Bir kahve ısmarla ☕",
+    "coffeeDisclaimer": "Bu, kişisel bir teşekkür olarak doğrudan geliştiriciye gider, projeye değil."
   },
   "days": {
     "monday": "Pazartesi",

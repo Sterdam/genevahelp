@@ -83,3 +83,7 @@ export const GENEVA_BOUNDS = {
   east: 6.22,
   west: 6.05,
 }
+
+// Replace with your Stripe Payment Link URL
+// Stripe Dashboard → Products → "Buy me a coffee" → Payment Link
+export const STRIPE_DONATION_LINK = 'https://buy.stripe.com/dRm3cu36F7kgeJW6ex0VO00'

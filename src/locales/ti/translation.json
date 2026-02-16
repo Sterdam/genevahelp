@@ -136,7 +136,11 @@
     "howItWorksText": "ኩሎም ጸጋታት ተረጋጊጾም ብቐጻሊ ይሕደሱ። ሓደስቲ ጸጋታት ብምጥቃስ ወይ ጌጋ ሓበሬታ ብምሕባር ክትሳተፉ ትኽእሉ።",
     "openSource": "ክፉት ምንጪ ፕሮጀክት",
     "openSourceText": "GenevaHelp ንጀነቫ ዝተፈጥረ ክፉት ምንጪ ፕሮጀክት እዩ።",
-    "contact": "ርክብ"
+    "contact": "ርክብ",
+    "coffeeTitle": "ቡን ግዘኣለይ",
+    "coffeeText": "GenevaHelp ጠቒሙካ ኾይኑ ኣድናቖትካ ክትገልጽ እንተደሊኻ ቡን ክትገዝኣለይ ትኽእል ኢኻ። ንእሽቶ ውልቃዊ ምልክት እዩ፣ ግዴታ ኣይኮነን።",
+    "coffeeButton": "ቡን ግዛ ☕",
+    "coffeeDisclaimer": "እዚ ብቐጥታ ንኣማዕበሊ ከም ውልቃዊ ምስጋና ይኸይድ፣ ንፕሮጀክት ኣይኮነን።"
   },
   "days": {
     "monday": "ሰኑይ",

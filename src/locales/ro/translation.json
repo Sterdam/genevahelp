@@ -136,7 +136,11 @@
     "howItWorksText": "Toate resursele sunt verificate și actualizate în mod regulat. Puteți contribui sugerând resurse noi sau raportând informații incorecte.",
     "openSource": "Proiect open source",
     "openSourceText": "GenevaHelp este un proiect open source creat pentru Geneva.",
-    "contact": "Contact"
+    "contact": "Contact",
+    "coffeeTitle": "Cumpără-mi o cafea",
+    "coffeeText": "Dacă GenevaHelp ți-a fost util și vrei să îți arăți aprecierea, poți să îmi cumperi o cafea. Este un mic gest personal, nu o obligație.",
+    "coffeeButton": "Cumpără o cafea ☕",
+    "coffeeDisclaimer": "Aceasta merge direct la dezvoltator ca mulțumire personală, nu la proiect."
   },
   "days": {
     "monday": "Luni",

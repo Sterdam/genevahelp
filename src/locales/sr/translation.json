@@ -136,7 +136,11 @@
     "howItWorksText": "Svi resursi su verifikovani i redovno ažurirani. Možete doprineti predlaganjem novih resursa ili prijavljivanjem netačnih informacija.",
     "openSource": "Projekat otvorenog koda",
     "openSourceText": "GenevaHelp je projekat otvorenog koda kreiran za Ženevu.",
-    "contact": "Kontakt"
+    "contact": "Kontakt",
+    "coffeeTitle": "Купи ми кафу",
+    "coffeeText": "Ако вам је GenevaHelp био користан и желите да покажете захвалност, можете ми купити кафу. То је мали лични гест, није обавеза.",
+    "coffeeButton": "Купи кафу ☕",
+    "coffeeDisclaimer": "Ово иде директно програмеру као лично захваљивање, не пројекту."
   },
   "days": {
     "monday": "Ponedeljak",

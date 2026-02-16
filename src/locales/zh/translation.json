@@ -136,7 +136,11 @@
     "howItWorksText": "所有资源均经过定期验证和更新。您可以通过建议新资源或举报错误信息来做出贡献。",
     "openSource": "开源项目",
     "openSourceText": "GenevaHelp 是一个为日内瓦打造的开源项目。",
-    "contact": "联系我们"
+    "contact": "联系我们",
+    "coffeeTitle": "请我喝杯咖啡",
+    "coffeeText": "如果 GenevaHelp 对你有帮助，你想表达感谢，可以请我喝杯咖啡。这是一个小小的个人心意，没有任何义务。",
+    "coffeeButton": "请喝咖啡 ☕",
+    "coffeeDisclaimer": "这直接给开发者作为个人感谢，不是给项目的。"
   },
   "days": {
     "monday": "星期一",

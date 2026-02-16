@@ -136,7 +136,11 @@
     "howItWorksText": "Todos os recursos são verificados e atualizados regularmente. Pode contribuir sugerindo novos recursos ou reportando informações incorretas.",
     "openSource": "Projeto open-source",
     "openSourceText": "O GenevaHelp é um projeto open-source criado para Genebra.",
-    "contact": "Contacto"
+    "contact": "Contacto",
+    "coffeeTitle": "Pague-me um café",
+    "coffeeText": "Se o GenevaHelp foi útil para si e gostaria de mostrar o seu apreço, pode pagar-me um café. É um pequeno gesto pessoal, sem obrigação.",
+    "coffeeButton": "Pagar um café ☕",
+    "coffeeDisclaimer": "Isto vai diretamente para o desenvolvedor como agradecimento pessoal, não para o projeto."
   },
   "days": {
     "monday": "Segunda-feira",

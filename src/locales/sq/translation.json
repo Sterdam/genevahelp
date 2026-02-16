@@ -136,7 +136,11 @@
     "howItWorksText": "Të gjitha burimet janë të verifikuara dhe përditësohen rregullisht. Mund të kontribuoni duke sugjeruar burime të reja ose duke raportuar informacione të pasakta.",
     "openSource": "Projekt me burim të hapur",
     "openSourceText": "GenevaHelp është një projekt me burim të hapur i krijuar për Gjenevën.",
-    "contact": "Kontakti"
+    "contact": "Kontakti",
+    "coffeeTitle": "Më bli një kafe",
+    "coffeeText": "Nëse GenevaHelp të ka qenë i dobishëm dhe dëshiron të tregosh vlerësimin tënd, mund të më blesh një kafe. Është një gjest i vogël personal, jo detyrim.",
+    "coffeeButton": "Bli një kafe ☕",
+    "coffeeDisclaimer": "Kjo shkon drejtpërdrejt te zhvilluesi si falënderim personal, jo te projekti."
   },
   "days": {
     "monday": "E hënë",

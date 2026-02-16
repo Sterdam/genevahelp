@@ -115,7 +115,11 @@
     "howItWorksText": "All resources are verified and regularly updated. You can contribute by suggesting new resources or reporting incorrect information.",
     "openSource": "Open-source project",
     "openSourceText": "GenevaHelp is an open-source project created for Geneva.",
-    "contact": "Contact"
+    "contact": "Contact",
+    "coffeeTitle": "Buy me a coffee",
+    "coffeeText": "If GenevaHelp has been useful to you and you'd like to show appreciation, you can buy me a coffee. It's a small personal gesture, not an obligation.",
+    "coffeeButton": "Buy me a coffee ☕",
+    "coffeeDisclaimer": "This goes directly to the developer as a personal thank-you, not to the project."
   },
   "days": {
     "monday": "Monday",

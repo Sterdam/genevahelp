@@ -1,6 +1,7 @@
 import { useTranslation } from 'react-i18next'
-import { Heart, MapPin, Github, Users, Eye } from 'lucide-react'
+import { Heart, MapPin, Github, Users, Eye, Coffee } from 'lucide-react'
 import { useVisitCounter } from '../hooks/useVisitCounter'
+import { STRIPE_DONATION_LINK } from '../lib/constants'
 
 export function AboutPage() {
   const { t } = useTranslation()
@@ -47,6 +48,31 @@ export function AboutPage() {
             </div>
             <p className="text-gray-600 text-sm leading-relaxed">
               {t('about.openSourceText')}
+            </p>
+          </div>
+
+          <div className="bg-white rounded-xl p-6 border border-amber-200">
+            <div className="flex items-center gap-3 mb-3">
+              <div className="w-10 h-10 bg-amber-50 rounded-lg flex items-center justify-center">
+                <Coffee size={20} className="text-amber-600" />
+              </div>
+              <h2 className="text-lg font-semibold text-gray-900">
+                {t('about.coffeeTitle')}
+              </h2>
+            </div>
+            <p className="text-gray-600 text-sm leading-relaxed mb-4">
+              {t('about.coffeeText')}
+            </p>
+            <a
+              href={STRIPE_DONATION_LINK}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block bg-amber-500 hover:bg-amber-600 text-white font-medium px-5 py-2.5 rounded-lg transition-colors"
+            >
+              {t('about.coffeeButton')}
+            </a>
+            <p className="text-xs text-gray-400 mt-3">
+              {t('about.coffeeDisclaimer')}
             </p>
           </div>
 

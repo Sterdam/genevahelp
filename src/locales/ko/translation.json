@@ -136,7 +136,11 @@
     "howItWorksText": "모든 자원은 정기적으로 확인 및 업데이트됩니다. 새로운 자원을 제안하거나 잘못된 정보를 신고하여 기여할 수 있습니다.",
     "openSource": "오픈소스 프로젝트",
     "openSourceText": "GenevaHelp은 제네바를 위해 만들어진 오픈소스 프로젝트입니다.",
-    "contact": "문의하기"
+    "contact": "문의하기",
+    "coffeeTitle": "커피 한 잔 사주세요",
+    "coffeeText": "GenevaHelp이 도움이 되었고 감사를 표하고 싶다면 커피 한 잔 사주실 수 있어요. 작은 개인적인 마음이며 의무는 아닙니다.",
+    "coffeeButton": "커피 사주기 ☕",
+    "coffeeDisclaimer": "이것은 프로젝트가 아닌 개발자에게 개인적인 감사로 직접 전달됩니다."
   },
   "days": {
     "monday": "월요일",

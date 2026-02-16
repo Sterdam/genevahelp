@@ -136,7 +136,11 @@
     "howItWorksText": "Rasilimali zote zimethibitishwa na zinasasishwa mara kwa mara. Unaweza kushiriki kwa kupendekeza rasilimali mpya au kuripoti taarifa zisizo sahihi.",
     "openSource": "Mradi wa chanzo huria",
     "openSourceText": "GenevaHelp ni mradi wa chanzo huria uliobuniwa kwa Geneva.",
-    "contact": "Mawasiliano"
+    "contact": "Mawasiliano",
+    "coffeeTitle": "Nunulie kahawa",
+    "coffeeText": "Ikiwa GenevaHelp imekusaidia na ungependa kuonyesha shukrani yako, unaweza kununulia kahawa. Ni ishara ndogo ya kibinafsi, si wajibu.",
+    "coffeeButton": "Nunua kahawa ☕",
+    "coffeeDisclaimer": "Hii inaenda moja kwa moja kwa msanidi programu kama shukrani ya kibinafsi, si kwa mradi."
   },
   "days": {
     "monday": "Jumatatu",

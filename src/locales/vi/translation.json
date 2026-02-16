@@ -136,7 +136,11 @@
     "howItWorksText": "Tất cả nguồn lực đều được xác minh và cập nhật thường xuyên. Bạn có thể đóng góp bằng cách đề xuất nguồn lực mới hoặc báo cáo thông tin không chính xác.",
     "openSource": "Dự án mã nguồn mở",
     "openSourceText": "GenevaHelp là dự án mã nguồn mở được tạo cho Geneva.",
-    "contact": "Liên hệ"
+    "contact": "Liên hệ",
+    "coffeeTitle": "Mua cho tôi một ly cà phê",
+    "coffeeText": "Nếu GenevaHelp hữu ích với bạn và bạn muốn bày tỏ lòng biết ơn, bạn có thể mua cho tôi một ly cà phê. Đó là một cử chỉ cá nhân nhỏ, không phải nghĩa vụ.",
+    "coffeeButton": "Mua cà phê ☕",
+    "coffeeDisclaimer": "Khoản này đi trực tiếp đến nhà phát triển như lời cảm ơn cá nhân, không phải cho dự án."
   },
   "days": {
     "monday": "Thứ Hai",

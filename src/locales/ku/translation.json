@@ -136,7 +136,11 @@
     "howItWorksText": "Hemû çavkanî hatine piştrastkirin û bi rêkûpêk têne rojane kirin. Tu dikarî bi pêşniyarkirina çavkaniyên nû an ragihandina agahiyên nerast beşdariyê bikî.",
     "openSource": "Projeya çavkaniya vekirî",
     "openSourceText": "GenevaHelp projeyek çavkaniya vekirî ye ku ji bo Cenêvê hatiye afirandin.",
-    "contact": "Têkilî"
+    "contact": "Têkilî",
+    "coffeeTitle": "Qehweyekê ji min re bikire",
+    "coffeeText": "Heke GenevaHelp ji te re bikêr bû û tu dixwazî spasiya xwe nîşan bidî, tu dikarî ji min re qehweyekê bikirî. Ew îşaretek piçûk a kesane ye, ne mecbûrî ye.",
+    "coffeeButton": "Qehwe bikire ☕",
+    "coffeeDisclaimer": "Ev rasterast diçe ber pêşvebir wekî spasiya kesane, ne bo projeyê."
   },
   "days": {
     "monday": "Duşem",

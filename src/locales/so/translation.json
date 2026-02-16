@@ -136,7 +136,11 @@
     "howItWorksText": "Dhammaan adeegyadu waa la xaqiijiyay oo si joogto ah ayaa loo cusbooneysiin. Waxaad ku biiri kartaa adoo soo jeedindaya adeegyo cusub ama soo sheegdaya macluumaad khaldan.",
     "openSource": "Mashruuc il furan",
     "openSourceText": "GenevaHelp waa mashruuc il furan oo loo sameeyay Geneva.",
-    "contact": "Xiriir"
+    "contact": "Xiriir",
+    "coffeeTitle": "Ii gad qaxwe",
+    "coffeeText": "Haddii GenevaHelp kuu faa'iidaysay oo aad rabto inaad muujiso mahadnaqaaga, waxaad ii gadi kartaa qaxwe. Waa calaamad yar oo shaqsi ah, maaha waajib.",
+    "coffeeButton": "Qaxwe ii gad ☕",
+    "coffeeDisclaimer": "Tan waxay si toos ah ugu tagtaa horumariyaha mahadnaq shaqsi ahaan, ma ahan mashruuca."
   },
   "days": {
     "monday": "Isniin",
