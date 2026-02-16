@@ -1,8 +1,9 @@
 import { useState, useRef, useEffect } from 'react'
 import { useTranslation } from 'react-i18next'
-import { MapPin, Plus, Info, ChevronDown } from 'lucide-react'
+import { MapPin, Plus, Info, Coffee, ChevronDown } from 'lucide-react'
 import { Link } from 'react-router-dom'
 import { languages } from '../../lib/i18n'
+import { STRIPE_DONATION_LINK } from '../../lib/constants'
 
 export function Header() {
   const { t, i18n } = useTranslation()
@@ -90,6 +91,16 @@ export function Header() {
         >
           <Info size={20} />
         </Link>
+
+        <a
+          href={STRIPE_DONATION_LINK}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="hidden sm:inline-flex p-1.5 text-amber-400 hover:text-amber-600 hover:bg-amber-50 rounded-lg transition-colors"
+          aria-label={t('about.coffeeTitle')}
+        >
+          <Coffee size={20} />
+        </a>
       </div>
     </header>
   )
