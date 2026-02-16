@@ -355,9 +355,9 @@
     "access_conditions": "Inscription gratuite, prêt gratuit"
   },
   "r_0072": {
-    "description": "Ludothèque de quartier avec prêt gratuit de jeux de société, jouets et jeux éducatifs. Espace de jeu convivial et ateliers ludiques.",
-    "target_audience": "Enfants, familles, tout public",
-    "access_conditions": "Inscription gratuite, prêt gratuit"
+    "description": "محلے کی کھلونوں کی لائبریری جس میں مفت جگہ پر کھیل اور بورڈ گیمز، کھلونے اور تعلیمی گیمز ادھار دیے جاتے ہیں۔ خاندانی رکنیت (30 CHF/سال) سے ادھار۔ دوستانہ کھیل کی جگہ۔",
+    "target_audience": "بچے، خاندان، سب کے لیے",
+    "access_conditions": "جگہ پر مفت کھیل۔ سالانہ خاندانی رکنیت (30 CHF) سے ادھار۔"
   },
   "r_0073": {
     "description": "Potager urbain communautaire dans le quartier des Grottes. Parcelles partagées, compostage collectif et ateliers de jardinage gratuits.",
@@ -560,9 +560,9 @@
     "access_conditions": "Gratuit, sans inscription, enfant accompagné d'un parent"
   },
   "r_0113": {
-    "description": "Prêt gratuit de jeux et jouets pour enfants et familles. Large collection de jeux de société, jeux éducatifs et jouets pour tous les âges.",
-    "target_audience": "Enfants et familles",
-    "access_conditions": "Inscription gratuite, prêt de jeux gratuit pour les résidents de Carouge"
+    "description": "بچوں، خاندانوں اور بالغوں کے لیے کھلونوں اور بورڈ گیمز کی کھیل کی جگہ اور ادھار کی خدمت۔ تقریبات اور پروگراموں کے لیے بڑے اور باہری گیمز دستیاب۔",
+    "target_audience": "بچے اور خاندان",
+    "access_conditions": "جگہ پر کھیل اور رجسٹریشن پر گیم ادھار۔"
   },
   "r_0114": {
     "description": "Service de prêt gratuit de vélos en libre-service à Genève. Vélos classiques et électriques disponibles pour des trajets urbains quotidiens.",
@@ -853,6 +853,41 @@
     "description": "مشکل حالات میں خواتین، بے گھر یا بچوں والی پناہ گزین خواتین کے لیے ہنگامی پناہ گاہ۔ 30 بلاشرط قبولیت کی جگہیں اور سماجی امداد پر خواتین کے لیے 21 جگہیں۔ سنگل یا ڈبل کمرے، روزانہ تین کھانے، لانڈری، سماجی مدد۔",
     "target_audience": "بے گھر خواتین، مشکل حالات میں خواتین، بچوں والی پناہ گزین خواتین",
     "access_conditions": "جنیوا ہنگامی پناہ گاہ ہاٹ لائن سے رابطہ کریں: 0800 22 22 10 (پیر-جمعہ 10:30-20:00، ہفتہ-اتوار 15:00-20:00)۔ براہ راست ریزرویشن نہیں۔"
+  },
+  "r_0172": {
+    "description": "محلے کی کھلونوں کی لائبریری، مفت جگہ پر کھیل اور بورڈ گیمز اور کھلونے ادھار۔ خاندانی رکنیت (30 CHF/سال) سے ادھار۔ مہینے میں ایک جمعہ کھیل اور ناشتا۔",
+    "target_audience": "بچے، خاندان، سب کے لیے",
+    "access_conditions": "جگہ پر مفت کھیل۔ سالانہ خاندانی رکنیت (30 CHF) سے ادھار۔"
+  },
+  "r_0173": {
+    "description": "محلے کی کھلونوں کی لائبریری، مفت جگہ پر کھیل اور بورڈ گیمز اور کھلونے ادھار۔ خاندانی رکنیت (30 CHF/سال) سے ادھار۔",
+    "target_audience": "بچے، خاندان، سب کے لیے",
+    "access_conditions": "جگہ پر مفت کھیل۔ سالانہ خاندانی رکنیت (30 CHF) سے ادھار۔"
+  },
+  "r_0174": {
+    "description": "بچوں، نوجوانوں اور بالغوں کے لیے کھیل اور ملاقات کی جگہ فراہم کرنے والی محلے کی کھلونوں کی لائبریری۔ مفت جگہ پر کھیل، خاندانی رکنیت (30 CHF/سال) سے ادھار۔",
+    "target_audience": "بچے، خاندان، سب کے لیے",
+    "access_conditions": "جگہ پر مفت کھیل۔ سالانہ خاندانی رکنیت (30 CHF) سے ادھار۔"
+  },
+  "r_0175": {
+    "description": "کولونی میں Pré-Picot اسکول میں واقع کھلونوں کی لائبریری، 1995 سے فعال۔ گیم اور کھلونے ادھار، جگہ پر کھیل۔ خاندانی رکنیت (30 CHF/سال) سے ادھار۔",
+    "target_audience": "بچے، خاندان، سب کے لیے",
+    "access_conditions": "جگہ پر مفت کھیل۔ سالانہ خاندانی رکنیت (30 CHF) سے ادھار۔"
+  },
+  "r_0176": {
+    "description": "1500 سے زیادہ گیمز والی محلے کی کھلونوں کی لائبریری۔ مفت جگہ پر کھیل، خاندانی رکنیت (30 CHF/سال) سے ادھار۔ مخصوص دنوں میں 0-4 سال کے لیے خصوصی استقبال۔",
+    "target_audience": "بچے، خاندان، سب کے لیے",
+    "access_conditions": "جگہ پر مفت کھیل۔ سالانہ خاندانی رکنیت (30 CHF) سے ادھار۔ منگل اور جمعرات صبح 0-4 سال۔"
+  },
+  "r_0177": {
+    "description": "محلے کی کھلونوں کی لائبریری، مفت جگہ پر کھیل اور گیم ادھار۔ خاندانی رکنیت (30 CHF/سال) سے ادھار۔ مہینے کے پہلے جمعہ گیم شام۔",
+    "target_audience": "بچے، خاندان، سب کے لیے",
+    "access_conditions": "جگہ پر مفت کھیل۔ سالانہ خاندانی رکنیت (30 CHF) سے ادھار۔"
+  },
+  "r_0178": {
+    "description": "بچوں، والدین اور اداروں کو جگہ پر کھیل اور گیم ادھار کے لیے خوش آمدید کہنے والی محلے کی کھلونوں کی لائبریری۔ خاندانی رکنیت (30 CHF/سال) سے ادھار۔",
+    "target_audience": "بچے، خاندان، سب کے لیے",
+    "access_conditions": "جگہ پر مفت کھیل۔ سالانہ خاندانی رکنیت (30 CHF) سے ادھار۔"
   },
   "tag": {
     "143": "143",

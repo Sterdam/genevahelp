@@ -355,9 +355,9 @@
     "access_conditions": "Besplatna prijava, besplatna posudba"
   },
   "r_0072": {
-    "description": "Četvrtna ludoteka s besplatnom posudbom društvenih igara, igračaka i edukativnih igara. Ugodna igraonica i ludičke radionice.",
+    "description": "Kvartovska igraonica s besplatnim igranjem na licu mjesta i posudbom društvenih igara, igračaka i edukativnih igara. Posudba s obiteljskom pretplatom (30 CHF/godina). Ugodan prostor za igru.",
     "target_audience": "Djeca, obitelji, svi",
-    "access_conditions": "Besplatna prijava, besplatna posudba"
+    "access_conditions": "Besplatno igranje na licu mjesta. Posudba s godišnjom obiteljskom pretplatom (30 CHF)."
   },
   "r_0073": {
     "description": "Urbani zajednički vrt u četvrti Grottes. Zajedničke parcele, kolektivno kompostiranje i besplatne vrtlarske radionice.",
@@ -560,9 +560,9 @@
     "access_conditions": "Besplatno, bez prijave, dijete u pratnji roditelja"
   },
   "r_0113": {
-    "description": "Besplatna posudba igara i igračaka za djecu i obitelji. Bogata zbirka društvenih igara, edukativnih igara i igračaka za sve dobi.",
+    "description": "Prostor za igru i usluga posudbe igračaka i društvenih igara za djecu, obitelji i odrasle. Velike igre i igre na otvorenom dostupne za zabave i događanja.",
     "target_audience": "Djeca i obitelji",
-    "access_conditions": "Besplatna prijava, besplatna posudba igara za stanovnike Carougea"
+    "access_conditions": "Igranje na licu mjesta i posudba igara uz registraciju."
   },
   "r_0114": {
     "description": "Besplatna služba za posudbu bicikala na slobodno korištenje u Genevi. Klasični i električni bicikli dostupni za svakodnevna gradska putovanja.",
@@ -853,6 +853,41 @@
     "description": "Hitni smještaj za žene u teškoj situaciji, beskućnice ili izbjeglice s djecom. 30 bezuvjetnih mjesta za prihvat i 21 mjesto za žene na socijalnoj pomoći. Jednokrevetne ili dvokrevetne sobe, tri obroka dnevno, praonica rublja, socijalna podrška.",
     "target_audience": "Beskućnice, žene u teškoj situaciji, izbjeglice s djecom",
     "access_conditions": "Kontaktirajte ženevsku liniju za hitni smještaj: 0800 22 22 10 (pon-pet 10:30-20:00, sub-ned 15:00-20:00). Bez izravne rezervacije."
+  },
+  "r_0172": {
+    "description": "Kvartovska igraonica s besplatnim igranjem na licu mjesta i posudbom društvenih igara i igračaka. Posudba s obiteljskom pretplatom (30 CHF/godina). Igre i užina jedan petak mjesečno.",
+    "target_audience": "Djeca, obitelji, svi",
+    "access_conditions": "Besplatno igranje na licu mjesta. Posudba s godišnjom obiteljskom pretplatom (30 CHF)."
+  },
+  "r_0173": {
+    "description": "Kvartovska igraonica s besplatnim igranjem na licu mjesta i posudbom društvenih igara i igračaka. Posudba s obiteljskom pretplatom (30 CHF/godina).",
+    "target_audience": "Djeca, obitelji, svi",
+    "access_conditions": "Besplatno igranje na licu mjesta. Posudba s godišnjom obiteljskom pretplatom (30 CHF)."
+  },
+  "r_0174": {
+    "description": "Kvartovska igraonica s prostorom za igru i druženje za djecu, tinejdžere i odrasle. Besplatno igranje na licu mjesta, posudba s obiteljskom pretplatom (30 CHF/godina).",
+    "target_audience": "Djeca, obitelji, svi",
+    "access_conditions": "Besplatno igranje na licu mjesta. Posudba s godišnjom obiteljskom pretplatom (30 CHF)."
+  },
+  "r_0175": {
+    "description": "Igraonica u školi Pré-Picot u Colognyju, aktivna od 1995. Posudba igara i igračaka, igranje na licu mjesta. Posudba s obiteljskom pretplatom (30 CHF/godina).",
+    "target_audience": "Djeca, obitelji, svi",
+    "access_conditions": "Besplatno igranje na licu mjesta. Posudba s godišnjom obiteljskom pretplatom (30 CHF)."
+  },
+  "r_0176": {
+    "description": "Kvartovska igraonica s više od 1500 igara. Besplatno igranje na licu mjesta, posudba s obiteljskom pretplatom (30 CHF/godina). Poseban prijem za dob 0-4 godine određenih dana.",
+    "target_audience": "Djeca, obitelji, svi",
+    "access_conditions": "Besplatno igranje na licu mjesta. Posudba s godišnjom obiteljskom pretplatom (30 CHF). Prijem 0-4 godine utorkom i četvrtkom ujutro."
+  },
+  "r_0177": {
+    "description": "Kvartovska igraonica s besplatnim igranjem na licu mjesta i posudbom igara. Posudba s obiteljskom pretplatom (30 CHF/godina). Večeri igara prvog petka u mjesecu.",
+    "target_audience": "Djeca, obitelji, svi",
+    "access_conditions": "Besplatno igranje na licu mjesta. Posudba s godišnjom obiteljskom pretplatom (30 CHF)."
+  },
+  "r_0178": {
+    "description": "Kvartovska igraonica koja prima djecu, roditelje i institucije za igranje na licu mjesta i posudbu igara. Posudba s obiteljskom pretplatom (30 CHF/godina).",
+    "target_audience": "Djeca, obitelji, svi",
+    "access_conditions": "Besplatno igranje na licu mjesta. Posudba s godišnjom obiteljskom pretplatom (30 CHF)."
   },
   "tag": {
     "143": "143",

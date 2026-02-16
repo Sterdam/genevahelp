@@ -355,9 +355,9 @@
     "access_conditions": "Regjistrim falas, huazim falas"
   },
   "r_0072": {
-    "description": "Ludotekë lagjeje me huazim falas të lojërave shoqërore, lodrave dhe lojërave edukative. Hapësirë loje miqësore dhe punëtori ludike.",
-    "target_audience": "Fëmijë, familje, i gjithë publiku",
-    "access_conditions": "Regjistrim falas, huazim falas"
+    "description": "Lojëtekë lagjeje me lojë falas në vend dhe huazim lojërash tavoline, lodra dhe lojëra edukative. Huazim me abonim familjar (30 CHF/vit). Hapësirë loje miqësore.",
+    "target_audience": "Fëmijë, familje, të gjithë",
+    "access_conditions": "Lojë falas në vend. Huazim me abonim familjar vjetor (30 CHF)."
   },
   "r_0073": {
     "description": "Kopsht urban komunitar në lagjen Grottes. Parcela të përbashkëta, kompostim kolektiv dhe punëtori kopshtarie falas.",
@@ -560,9 +560,9 @@
     "access_conditions": "Falas, pa regjistrim, fëmijë i shoqëruar nga një prind"
   },
   "r_0113": {
-    "description": "Huazim falas i lojërave dhe lodrave për fëmijë dhe familje. Koleksion i gjerë lojërash shoqërore, lojëra edukative dhe lodra për të gjitha moshat.",
+    "description": "Hapësirë lojërash dhe shërbim huazimi lodrash dhe lojërash tavoline për fëmijë, familje dhe të rritur. Lojëra gjigante dhe të jashtme të disponueshme për festa dhe ngjarje.",
     "target_audience": "Fëmijë dhe familje",
-    "access_conditions": "Regjistrim falas, huazim lojërash falas për banorët e Carouge"
+    "access_conditions": "Lojë në vend dhe huazim lojërash me regjistrim."
   },
   "r_0114": {
     "description": "Shërbim falas huazimi biçikletash me vetëshërbim në Gjenevë. Biçikleta klasike dhe elektrike të disponueshme për udhëtime ditore urbane.",
@@ -853,6 +853,41 @@
     "description": "Strehim emergjence për gratë në situatë të vështirë, të pastrehë ose refugjate me fëmijë. 30 vende pranimi pa kushte dhe 21 vende për gratë me ndihmë sociale. Dhoma individuale ose dyshe, tre vakte ushqimi në ditë, lavanteri, mbështetje sociale.",
     "target_audience": "Gra të pastrehë, gra në situatë të vështirë, refugjate me fëmijë",
     "access_conditions": "Kontaktoni linjën e strehimit të emergjencës së Gjenevës: 0800 22 22 10 (Hën-Pre 10:30-20:00, Sht-Diel 15:00-20:00). Pa rezervim të drejtpërdrejtë."
+  },
+  "r_0172": {
+    "description": "Lojëtekë lagjeje me lojë falas në vend dhe huazim lojërash tavoline dhe lodrash. Huazim me abonim familjar (30 CHF/vit). Lojëra dhe mëngjes një të premte në muaj.",
+    "target_audience": "Fëmijë, familje, të gjithë",
+    "access_conditions": "Lojë falas në vend. Huazim me abonim familjar vjetor (30 CHF)."
+  },
+  "r_0173": {
+    "description": "Lojëtekë lagjeje me lojë falas në vend dhe huazim lojërash tavoline dhe lodrash. Huazim me abonim familjar (30 CHF/vit).",
+    "target_audience": "Fëmijë, familje, të gjithë",
+    "access_conditions": "Lojë falas në vend. Huazim me abonim familjar vjetor (30 CHF)."
+  },
+  "r_0174": {
+    "description": "Lojëtekë lagjeje që ofron hapësirë loje dhe takimi për fëmijë, adoleshentë dhe të rritur. Lojë falas në vend, huazim me abonim familjar (30 CHF/vit).",
+    "target_audience": "Fëmijë, familje, të gjithë",
+    "access_conditions": "Lojë falas në vend. Huazim me abonim familjar vjetor (30 CHF)."
+  },
+  "r_0175": {
+    "description": "Lojëtekë në shkollën Pré-Picot në Cologny, aktive që nga 1995. Huazim lojërash dhe lodrash, lojë në vend. Huazim me abonim familjar (30 CHF/vit).",
+    "target_audience": "Fëmijë, familje, të gjithë",
+    "access_conditions": "Lojë falas në vend. Huazim me abonim familjar vjetor (30 CHF)."
+  },
+  "r_0176": {
+    "description": "Lojëtekë lagjeje me mbi 1500 lojëra. Lojë falas në vend, huazim me abonim familjar (30 CHF/vit). Mirëpritje speciale për moshën 0-4 vjeç në ditë të caktuara.",
+    "target_audience": "Fëmijë, familje, të gjithë",
+    "access_conditions": "Lojë falas në vend. Huazim me abonim familjar vjetor (30 CHF). Mirëpritje 0-4 vjeç të martën dhe të enjten në mëngjes."
+  },
+  "r_0177": {
+    "description": "Lojëtekë lagjeje me lojë falas në vend dhe huazim lojërash. Huazim me abonim familjar (30 CHF/vit). Mbrëmje lojërash të premten e parë të muajit.",
+    "target_audience": "Fëmijë, familje, të gjithë",
+    "access_conditions": "Lojë falas në vend. Huazim me abonim familjar vjetor (30 CHF)."
+  },
+  "r_0178": {
+    "description": "Lojëtekë lagjeje që mirëpret fëmijë, prindër dhe institucione për lojë në vend dhe huazim lojërash. Huazim me abonim familjar (30 CHF/vit).",
+    "target_audience": "Fëmijë, familje, të gjithë",
+    "access_conditions": "Lojë falas në vend. Huazim me abonim familjar vjetor (30 CHF)."
   },
   "tag": {
     "143": "143",

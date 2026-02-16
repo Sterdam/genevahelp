@@ -355,9 +355,9 @@
     "access_conditions": "Ücretsiz kayıt, ücretsiz ödünç verme"
   },
   "r_0072": {
-    "description": "Ücretsiz masa oyunu, oyuncak ve eğitici oyun ödünç veren semt oyuncak kütüphanesi. Samimi oyun alanı ve oyun atölyeleri.",
-    "target_audience": "Çocuklar, aileler, herkese açık",
-    "access_conditions": "Ücretsiz kayıt, ücretsiz ödünç verme"
+    "description": "Mahalle oyuncak kütüphanesi, ücretsiz yerinde oyun ve masa oyunları, oyuncaklar ve eğitici oyunlar ödünç alma. Aile aboneliği (30 CHF/yıl) ile ödünç alma. Samimi oyun alanı.",
+    "target_audience": "Çocuklar, aileler, herkes",
+    "access_conditions": "Yerinde ücretsiz oyun. Yıllık aile aboneliği (30 CHF) ile ödünç alma."
   },
   "r_0073": {
     "description": "Grottes semtinde kentsel topluluk bostanı. Paylaşımlı parseller, toplu kompost ve ücretsiz bahçecilik atölyeleri.",
@@ -560,9 +560,9 @@
     "access_conditions": "Ücretsiz, kayıtsız, çocuk bir ebeveyni eşliğinde"
   },
   "r_0113": {
-    "description": "Çocuklar ve aileler için ücretsiz oyun ve oyuncak ödünç verme. Geniş masa oyunu, eğitici oyun ve her yaş için oyuncak koleksiyonu.",
+    "description": "Çocuklar, aileler ve yetişkinler için oyuncak ve masa oyunları oyun alanı ve ödünç verme hizmeti. Parti ve etkinlikler için dev ve açık hava oyunları mevcut.",
     "target_audience": "Çocuklar ve aileler",
-    "access_conditions": "Ücretsiz kayıt, Carouge sakinleri için ücretsiz oyun ödünç verme"
+    "access_conditions": "Yerinde oyun ve kayıt ile oyun ödünç alma."
   },
   "r_0114": {
     "description": "Genève'de serbest kullanımlı ücretsiz bisiklet ödünç verme hizmeti. Günlük şehir içi ulaşım için klasik ve elektrikli bisikletler.",
@@ -853,6 +853,41 @@
     "description": "Zor durumda olan kadınlar, evsiz veya çocuklu mülteci kadınlar için acil barınma. 30 koşulsuz kabul yeri ve sosyal yardım alan kadınlar için 21 yer. Tek veya çift kişilik odalar, günde üç öğün yemek, çamaşırhane, sosyal destek.",
     "target_audience": "Evsiz kadınlar, zor durumda olan kadınlar, çocuklu mülteci kadınlar",
     "access_conditions": "Cenevre acil barınma hattını arayın: 0800 22 22 10 (Pzt-Cum 10:30-20:00, Cts-Paz 15:00-20:00). Doğrudan rezervasyon yapılamaz."
+  },
+  "r_0172": {
+    "description": "Mahalle oyuncak kütüphanesi, ücretsiz yerinde oyun ve masa oyunları ve oyuncaklar ödünç alma. Aile aboneliği (30 CHF/yıl) ile ödünç alma. Ayda bir Cuma oyun ve atıştırmalık.",
+    "target_audience": "Çocuklar, aileler, herkes",
+    "access_conditions": "Yerinde ücretsiz oyun. Yıllık aile aboneliği (30 CHF) ile ödünç alma."
+  },
+  "r_0173": {
+    "description": "Mahalle oyuncak kütüphanesi, ücretsiz yerinde oyun ve masa oyunları ve oyuncaklar ödünç alma. Aile aboneliği (30 CHF/yıl) ile ödünç alma.",
+    "target_audience": "Çocuklar, aileler, herkes",
+    "access_conditions": "Yerinde ücretsiz oyun. Yıllık aile aboneliği (30 CHF) ile ödünç alma."
+  },
+  "r_0174": {
+    "description": "Çocuklar, gençler ve yetişkinler için oyun ve buluşma alanı sunan mahalle oyuncak kütüphanesi. Ücretsiz yerinde oyun, aile aboneliği (30 CHF/yıl) ile ödünç alma.",
+    "target_audience": "Çocuklar, aileler, herkes",
+    "access_conditions": "Yerinde ücretsiz oyun. Yıllık aile aboneliği (30 CHF) ile ödünç alma."
+  },
+  "r_0175": {
+    "description": "Cologny'de Pré-Picot okulunda bulunan oyuncak kütüphanesi, 1995'ten beri aktif. Oyun ve oyuncak ödünç verme, yerinde oyun. Aile aboneliği (30 CHF/yıl) ile ödünç alma.",
+    "target_audience": "Çocuklar, aileler, herkes",
+    "access_conditions": "Yerinde ücretsiz oyun. Yıllık aile aboneliği (30 CHF) ile ödünç alma."
+  },
+  "r_0176": {
+    "description": "1500'den fazla oyun bulunan mahalle oyuncak kütüphanesi. Ücretsiz yerinde oyun, aile aboneliği (30 CHF/yıl) ile ödünç alma. Belirli günlerde 0-4 yaş için özel karşılama.",
+    "target_audience": "Çocuklar, aileler, herkes",
+    "access_conditions": "Yerinde ücretsiz oyun. Yıllık aile aboneliği (30 CHF) ile ödünç alma. Salı ve Perşembe sabahları 0-4 yaş."
+  },
+  "r_0177": {
+    "description": "Mahalle oyuncak kütüphanesi, ücretsiz yerinde oyun ve oyun ödünç alma. Aile aboneliği (30 CHF/yıl) ile ödünç alma. Ayın ilk Cuması oyun akşamları.",
+    "target_audience": "Çocuklar, aileler, herkes",
+    "access_conditions": "Yerinde ücretsiz oyun. Yıllık aile aboneliği (30 CHF) ile ödünç alma."
+  },
+  "r_0178": {
+    "description": "Çocukları, ebeveynleri ve kurumları yerinde oyun ve oyun ödünç alma için karşılayan mahalle oyuncak kütüphanesi. Aile aboneliği (30 CHF/yıl) ile ödünç alma.",
+    "target_audience": "Çocuklar, aileler, herkes",
+    "access_conditions": "Yerinde ücretsiz oyun. Yıllık aile aboneliği (30 CHF) ile ödünç alma."
   },
   "tag": {
     "143": "143",

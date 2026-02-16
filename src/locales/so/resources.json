@@ -355,9 +355,9 @@
     "access_conditions": "Diiwaangelinta bilaash ah, amaahinta bilaash ah"
   },
   "r_0072": {
-    "description": "Maktabadda ciyaaraha ee xaafadda oo leh amaahinta bilaashka ah ee ciyaaraha miiska, ciyaaraha iyo ciyaaraha waxbarashada. Goob ciyaaro oo saaxiibtinimo leh iyo casharro ciyaareedyo.",
-    "target_audience": "Carruurta, qoysaska, dadweynaha oo dhan",
-    "access_conditions": "Diiwaangelinta bilaash ah, amaahinta bilaash ah"
+    "description": "Maktabada ciyaaraha xaafadda oo leh ciyaar bilaash ah goobta iyo amaahinta ciyaaraha miiska, ciyaaraha waxbarashada iyo baabuurta. Amaahinta xiriirinta qoysaska (30 CHF/sannadkii). Goob ciyaar saaxiibtinimo.",
+    "target_audience": "Carruurta, qoysaska, dhammaan",
+    "access_conditions": "Ciyaar bilaash ah goobta. Amaahinta xiriirinta qoyska ee sannadlaha ah (30 CHF)."
   },
   "r_0073": {
     "description": "Beerta magaalada ee wadaaga ee xaafadda Grottes. Qeybo wadaag, bacrin wadaag iyo casharro beer-abuur oo bilaash ah.",
@@ -560,9 +560,9 @@
     "access_conditions": "Bilaash, diiwaangelinta la'aan, ilmuhu waa inuu waalidkiisa la joogaa"
   },
   "r_0113": {
-    "description": "Amaahinta bilaashka ah ee ciyaaraha iyo ciyaaraha carruurta iyo qoysaska. Ururinta ballaaran ee ciyaaraha miiska, ciyaaraha waxbarashada iyo ciyaaraha da' kasta.",
+    "description": "Goob ciyaar iyo adeeg amaahinta baabuurta iyo ciyaaraha miiska ee carruurta, qoysaska iyo dadka waaweyn. Ciyaaro waaweyn iyo bannaanka oo diyaar ah xafladaha iyo dhacdooyinka.",
     "target_audience": "Carruurta iyo qoysaska",
-    "access_conditions": "Diiwaangelinta bilaash ah, amaahinta ciyaaraha bilaash ah dadka deggan Carouge"
+    "access_conditions": "Ciyaar goobta iyo amaahinta ciyaaraha iyada oo la diiwaangelinayo."
   },
   "r_0114": {
     "description": "Adeegga amaahinta bilaashka ah ee baaskiilladda iskaa-wax-u-qabso Genève. Baaskiillad caadi ah iyo kuwo korantada ah oo diyaar u ah socdaalka magaalada maalinlaha ah.",
@@ -853,6 +853,41 @@
     "description": "Hoy degdeg ah oo loogu tala galay haweenka xaalad adag ku jira, guriyaleyda ama qaxootiyada carruurta haysta. 30 boos oo qaabilaad ah oo shuruud la'aan ah iyo 21 boos oo loogu tala galay haweenka kaalmada bulshada heysta. Qolal keli ah ama laba qof, saddex cunto maalin kasta, dharka dhaqid, caawimaad bulsho.",
     "target_audience": "Haweenka guriyaleyda ah, haweenka xaalad adag ku jira, qaxootiyada carruurta haysta",
     "access_conditions": "La xiriir khadka hoyga degdegga ee Geneva: 0800 22 22 10 (Isn-Jim 10:30-20:00, Sab-Axad 15:00-20:00). Bukin toos ah ma jiro."
+  },
+  "r_0172": {
+    "description": "Maktabada ciyaaraha xaafadda oo leh ciyaar bilaash ah goobta iyo amaahinta ciyaaraha miiska iyo baabuurta. Amaahinta xiriirinta qoysaska (30 CHF/sannadkii). Ciyaar iyo cunto fudud Jimce kasta bishii.",
+    "target_audience": "Carruurta, qoysaska, dhammaan",
+    "access_conditions": "Ciyaar bilaash ah goobta. Amaahinta xiriirinta qoyska ee sannadlaha ah (30 CHF)."
+  },
+  "r_0173": {
+    "description": "Maktabada ciyaaraha xaafadda oo leh ciyaar bilaash ah goobta iyo amaahinta ciyaaraha miiska iyo baabuurta. Amaahinta xiriirinta qoysaska (30 CHF/sannadkii).",
+    "target_audience": "Carruurta, qoysaska, dhammaan",
+    "access_conditions": "Ciyaar bilaash ah goobta. Amaahinta xiriirinta qoyska ee sannadlaha ah (30 CHF)."
+  },
+  "r_0174": {
+    "description": "Maktabada ciyaaraha xaafadda oo bixisa goob ciyaar iyo kulan carruurta, dhallinyarada iyo dadka waaweyn. Ciyaar bilaash ah goobta, amaahinta xiriirinta qoysaska (30 CHF/sannadkii).",
+    "target_audience": "Carruurta, qoysaska, dhammaan",
+    "access_conditions": "Ciyaar bilaash ah goobta. Amaahinta xiriirinta qoyska ee sannadlaha ah (30 CHF)."
+  },
+  "r_0175": {
+    "description": "Maktabada ciyaaraha ee dugsiga Pré-Picot ee Cologny, firfircoon tan iyo 1995. Amaahinta ciyaaraha iyo baabuurta, ciyaar goobta. Amaahinta xiriirinta qoysaska (30 CHF/sannadkii).",
+    "target_audience": "Carruurta, qoysaska, dhammaan",
+    "access_conditions": "Ciyaar bilaash ah goobta. Amaahinta xiriirinta qoyska ee sannadlaha ah (30 CHF)."
+  },
+  "r_0176": {
+    "description": "Maktabada ciyaaraha xaafadda oo leh in ka badan 1500 ciyaarood. Ciyaar bilaash ah goobta, amaahinta xiriirinta qoysaska (30 CHF/sannadkii). Soo dhaweyn gaar ah 0-4 sano maalmo cayiman.",
+    "target_audience": "Carruurta, qoysaska, dhammaan",
+    "access_conditions": "Ciyaar bilaash ah goobta. Amaahinta xiriirinta qoyska ee sannadlaha ah (30 CHF). Soo dhaweynta 0-4 sano Talaado iyo Khamiis subaxnimo."
+  },
+  "r_0177": {
+    "description": "Maktabada ciyaaraha xaafadda oo leh ciyaar bilaash ah goobta iyo amaahinta ciyaaraha. Amaahinta xiriirinta qoysaska (30 CHF/sannadkii). Habeennada ciyaaraha Jimcaha ugu horreeya bishii.",
+    "target_audience": "Carruurta, qoysaska, dhammaan",
+    "access_conditions": "Ciyaar bilaash ah goobta. Amaahinta xiriirinta qoyska ee sannadlaha ah (30 CHF)."
+  },
+  "r_0178": {
+    "description": "Maktabada ciyaaraha xaafadda oo soo dhaweynaysa carruurta, waalidiinta iyo hay'adaha si ay goobta ugu ciyaaraan oo ay ciyaaro amaahiyaan. Amaahinta xiriirinta qoysaska (30 CHF/sannadkii).",
+    "target_audience": "Carruurta, qoysaska, dhammaan",
+    "access_conditions": "Ciyaar bilaash ah goobta. Amaahinta xiriirinta qoyska ee sannadlaha ah (30 CHF)."
   },
   "tag": {
     "143": "143",

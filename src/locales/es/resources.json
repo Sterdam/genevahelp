@@ -355,9 +355,9 @@
     "access_conditions": "Inscripción gratuita, préstamo gratuito"
   },
   "r_0072": {
-    "description": "Ludoteca de barrio con préstamo gratuito de juegos de mesa, juguetes y juegos educativos. Espacio de juego convivial y talleres lúdicos.",
+    "description": "Ludoteca de barrio con juego gratuito en el lugar y préstamo de juegos de mesa, juguetes y juegos educativos. Préstamo con suscripción familiar (30 CHF/año). Espacio de juego acogedor.",
     "target_audience": "Niños, familias, público general",
-    "access_conditions": "Inscripción gratuita, préstamo gratuito"
+    "access_conditions": "Juego gratuito en el lugar. Préstamo con suscripción familiar anual (30 CHF)."
   },
   "r_0073": {
     "description": "Huerto urbano comunitario en el barrio de Grottes. Parcelas compartidas, compostaje colectivo y talleres de jardinería gratuitos.",
@@ -560,9 +560,9 @@
     "access_conditions": "Gratuito, sin inscripción, niño acompañado de un padre"
   },
   "r_0113": {
-    "description": "Préstamo gratuito de juegos y juguetes para niños y familias. Amplia colección de juegos de mesa, juegos educativos y juguetes para todas las edades.",
+    "description": "Espacio de juegos y servicio de préstamo de juguetes y juegos de mesa para niños, familias y adultos. Juegos gigantes y de exterior disponibles para fiestas y eventos.",
     "target_audience": "Niños y familias",
-    "access_conditions": "Inscripción gratuita, préstamo de juegos gratuito para los residentes de Carouge"
+    "access_conditions": "Juego en el lugar y préstamo de juegos con inscripción."
   },
   "r_0114": {
     "description": "Servicio gratuito de préstamo de bicicletas en libre servicio en Genève. Bicicletas clásicas y eléctricas disponibles para trayectos urbanos diarios.",
@@ -853,6 +853,41 @@
     "description": "Alojamiento de urgencia para mujeres en situación de precariedad, sin hogar o refugiadas con hijos. 30 plazas de acogida incondicional y 21 plazas para mujeres con asistencia social. Habitaciones individuales o dobles, tres comidas al día, lavandería, acompañamiento social.",
     "target_audience": "Mujeres sin hogar, mujeres en situación de precariedad, refugiadas con hijos",
     "access_conditions": "Contactar la línea de alojamiento de urgencia de Ginebra: 0800 22 22 10 (lun-vie 10:30-20h, sáb-dom 15-20h). Sin reserva directa."
+  },
+  "r_0172": {
+    "description": "Ludoteca de barrio con juego gratuito en el lugar y préstamo de juegos de mesa y juguetes. Préstamo con suscripción familiar (30 CHF/año). Tarde de juegos y merienda un viernes al mes.",
+    "target_audience": "Niños, familias, público general",
+    "access_conditions": "Juego gratuito en el lugar. Préstamo con suscripción familiar anual (30 CHF)."
+  },
+  "r_0173": {
+    "description": "Ludoteca de barrio con juego gratuito en el lugar y préstamo de juegos de mesa y juguetes. Préstamo con suscripción familiar (30 CHF/año).",
+    "target_audience": "Niños, familias, público general",
+    "access_conditions": "Juego gratuito en el lugar. Préstamo con suscripción familiar anual (30 CHF)."
+  },
+  "r_0174": {
+    "description": "Ludoteca de barrio que ofrece un espacio de juegos y encuentro para niños, adolescentes y adultos. Juego gratuito en el lugar, préstamo con suscripción familiar (30 CHF/año).",
+    "target_audience": "Niños, familias, público general",
+    "access_conditions": "Juego gratuito en el lugar. Préstamo con suscripción familiar anual (30 CHF)."
+  },
+  "r_0175": {
+    "description": "Ludoteca ubicada en la escuela Pré-Picot en Cologny, activa desde 1995. Préstamo de juegos y juguetes, juego en el lugar. Préstamo con suscripción familiar (30 CHF/año).",
+    "target_audience": "Niños, familias, público general",
+    "access_conditions": "Juego gratuito en el lugar. Préstamo con suscripción familiar anual (30 CHF)."
+  },
+  "r_0176": {
+    "description": "Ludoteca de barrio con más de 1500 juegos. Juego gratuito en el lugar, préstamo con suscripción familiar (30 CHF/año). Acogida especial para 0-4 años ciertos días.",
+    "target_audience": "Niños, familias, público general",
+    "access_conditions": "Juego gratuito en el lugar. Préstamo con suscripción familiar anual (30 CHF). Acogida 0-4 años martes y jueves por la mañana."
+  },
+  "r_0177": {
+    "description": "Ludoteca de barrio con juego gratuito en el lugar y préstamo de juegos. Préstamo con suscripción familiar (30 CHF/año). Noches de juegos el primer viernes del mes.",
+    "target_audience": "Niños, familias, público general",
+    "access_conditions": "Juego gratuito en el lugar. Préstamo con suscripción familiar anual (30 CHF)."
+  },
+  "r_0178": {
+    "description": "Ludoteca de barrio que acoge a niños, padres e instituciones para jugar en el lugar y tomar juegos prestados. Préstamo con suscripción familiar (30 CHF/año).",
+    "target_audience": "Niños, familias, público general",
+    "access_conditions": "Juego gratuito en el lugar. Préstamo con suscripción familiar anual (30 CHF)."
   },
   "tag": {
     "143": "143",

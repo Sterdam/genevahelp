@@ -355,9 +355,9 @@
     "access_conditions": "Iscrizione gratuita, prestito gratuito"
   },
   "r_0072": {
-    "description": "Ludoteca di quartiere con prestito gratuito di giochi da tavolo, giocattoli e giochi educativi. Spazio gioco conviviale e laboratori ludici.",
+    "description": "Ludoteca di quartiere con gioco gratuito sul posto e prestito di giochi da tavolo, giocattoli e giochi educativi. Prestito con abbonamento familiare (30 CHF/anno). Spazio di gioco accogliente.",
     "target_audience": "Bambini, famiglie, tutti",
-    "access_conditions": "Iscrizione gratuita, prestito gratuito"
+    "access_conditions": "Gioco gratuito sul posto. Prestito con abbonamento familiare annuale (30 CHF)."
   },
   "r_0073": {
     "description": "Orto urbano comunitario nel quartiere des Grottes. Parcelle condivise, compostaggio collettivo e laboratori di giardinaggio gratuiti.",
@@ -560,9 +560,9 @@
     "access_conditions": "Gratuito, senza iscrizione, bambino accompagnato da un genitore"
   },
   "r_0113": {
-    "description": "Prestito gratuito di giochi e giocattoli per bambini e famiglie. Ampia collezione di giochi da tavolo, giochi educativi e giocattoli per tutte le età.",
+    "description": "Spazio di gioco e servizio di prestito di giocattoli e giochi da tavolo per bambini, famiglie e adulti. Giochi giganti e da esterno disponibili per feste ed eventi.",
     "target_audience": "Bambini e famiglie",
-    "access_conditions": "Iscrizione gratuita, prestito di giochi gratuito per i residenti di Carouge"
+    "access_conditions": "Gioco sul posto e prestito di giochi su iscrizione."
   },
   "r_0114": {
     "description": "Servizio di prestito gratuito di biciclette in libero servizio a Ginevra. Biciclette classiche ed elettriche disponibili per spostamenti urbani quotidiani.",
@@ -853,6 +853,41 @@
     "description": "Alloggio d'emergenza per donne in situazione di precarietà, senza fissa dimora o rifugiate con bambini. 30 posti di accoglienza incondizionata e 21 posti per donne con assistenza sociale. Camere singole o doppie, tre pasti al giorno, lavanderia, accompagnamento sociale.",
     "target_audience": "Donne senza fissa dimora, donne in situazione di precarietà, rifugiate con bambini",
     "access_conditions": "Contattare la linea di alloggio d'emergenza di Ginevra: 0800 22 22 10 (lun-ven 10:30-20:00, sab-dom 15:00-20:00). Nessuna prenotazione diretta."
+  },
+  "r_0172": {
+    "description": "Ludoteca di quartiere con gioco gratuito sul posto e prestito di giochi da tavolo e giocattoli. Prestito con abbonamento familiare (30 CHF/anno). Giochi e merenda un venerdì al mese.",
+    "target_audience": "Bambini, famiglie, tutti",
+    "access_conditions": "Gioco gratuito sul posto. Prestito con abbonamento familiare annuale (30 CHF)."
+  },
+  "r_0173": {
+    "description": "Ludoteca di quartiere con gioco gratuito sul posto e prestito di giochi da tavolo e giocattoli. Prestito con abbonamento familiare (30 CHF/anno).",
+    "target_audience": "Bambini, famiglie, tutti",
+    "access_conditions": "Gioco gratuito sul posto. Prestito con abbonamento familiare annuale (30 CHF)."
+  },
+  "r_0174": {
+    "description": "Ludoteca di quartiere con spazio di gioco e incontro per bambini, adolescenti e adulti. Gioco gratuito sul posto, prestito con abbonamento familiare (30 CHF/anno).",
+    "target_audience": "Bambini, famiglie, tutti",
+    "access_conditions": "Gioco gratuito sul posto. Prestito con abbonamento familiare annuale (30 CHF)."
+  },
+  "r_0175": {
+    "description": "Ludoteca nella scuola Pré-Picot a Cologny, attiva dal 1995. Prestito di giochi e giocattoli, gioco sul posto. Prestito con abbonamento familiare (30 CHF/anno).",
+    "target_audience": "Bambini, famiglie, tutti",
+    "access_conditions": "Gioco gratuito sul posto. Prestito con abbonamento familiare annuale (30 CHF)."
+  },
+  "r_0176": {
+    "description": "Ludoteca di quartiere con oltre 1500 giochi. Gioco gratuito sul posto, prestito con abbonamento familiare (30 CHF/anno). Accoglienza speciale per 0-4 anni in certi giorni.",
+    "target_audience": "Bambini, famiglie, tutti",
+    "access_conditions": "Gioco gratuito sul posto. Prestito con abbonamento familiare annuale (30 CHF). Accoglienza 0-4 anni martedì e giovedì mattina."
+  },
+  "r_0177": {
+    "description": "Ludoteca di quartiere con gioco gratuito sul posto e prestito di giochi. Prestito con abbonamento familiare (30 CHF/anno). Serate di gioco il primo venerdì del mese.",
+    "target_audience": "Bambini, famiglie, tutti",
+    "access_conditions": "Gioco gratuito sul posto. Prestito con abbonamento familiare annuale (30 CHF)."
+  },
+  "r_0178": {
+    "description": "Ludoteca di quartiere che accoglie bambini, genitori e istituzioni per giocare sul posto e prendere in prestito giochi. Prestito con abbonamento familiare (30 CHF/anno).",
+    "target_audience": "Bambini, famiglie, tutti",
+    "access_conditions": "Gioco gratuito sul posto. Prestito con abbonamento familiare annuale (30 CHF)."
   },
   "tag": {
     "143": "143",

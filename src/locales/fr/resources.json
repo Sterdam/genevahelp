@@ -355,9 +355,9 @@
     "access_conditions": "Inscription gratuite, prêt gratuit"
   },
   "r_0072": {
-    "description": "Ludothèque de quartier avec prêt gratuit de jeux de société, jouets et jeux éducatifs. Espace de jeu convivial et ateliers ludiques.",
+    "description": "Ludothèque de quartier avec jeu sur place gratuit et prêt de jeux de société, jouets et jeux éducatifs. Emprunt avec abonnement famille (30 CHF/an). Espace de jeu convivial.",
     "target_audience": "Enfants, familles, tout public",
-    "access_conditions": "Inscription gratuite, prêt gratuit"
+    "access_conditions": "Jeu sur place gratuit. Emprunt avec abonnement famille annuel (30 CHF)."
   },
   "r_0073": {
     "description": "Potager urbain communautaire dans le quartier des Grottes. Parcelles partagées, compostage collectif et ateliers de jardinage gratuits.",
@@ -560,9 +560,9 @@
     "access_conditions": "Gratuit, sans inscription, enfant accompagné d'un parent"
   },
   "r_0113": {
-    "description": "Prêt gratuit de jeux et jouets pour enfants et familles. Large collection de jeux de société, jeux éducatifs et jouets pour tous les âges.",
+    "description": "Espace de jeux et de prêt de jouets et jeux de société pour enfants, familles et adultes. Jeux géants et d'extérieur disponibles pour les fêtes et animations.",
     "target_audience": "Enfants et familles",
-    "access_conditions": "Inscription gratuite, prêt de jeux gratuit pour les résidents de Carouge"
+    "access_conditions": "Jeu sur place et emprunt de jeux sur inscription."
   },
   "r_0114": {
     "description": "Service de prêt gratuit de vélos en libre-service à Genève. Vélos classiques et électriques disponibles pour des trajets urbains quotidiens.",
@@ -853,6 +853,41 @@
     "description": "Hébergement d'urgence pour femmes en situation de précarité, sans-abri ou réfugiées avec enfants. 30 places d'accueil inconditionnel et 21 places pour femmes à l'aide sociale. Chambres individuelles ou doubles, trois repas par jour, buanderie, accompagnement social.",
     "target_audience": "Femmes sans abri, femmes en situation de précarité, réfugiées avec enfants",
     "access_conditions": "Contacter la ligne d'hébergement d'urgence de Genève : 0800 22 22 10 (lun-ven 10h30-20h, sam-dim 15h-20h). Pas de réservation directe."
+  },
+  "r_0172": {
+    "description": "Ludothèque de quartier avec jeu sur place gratuit et prêt de jeux de société et jouets. Emprunt avec abonnement famille (30 CHF/an). Accueil jeux et goûter un vendredi par mois.",
+    "target_audience": "Enfants, familles, tout public",
+    "access_conditions": "Jeu sur place gratuit. Emprunt avec abonnement famille annuel (30 CHF)."
+  },
+  "r_0173": {
+    "description": "Ludothèque de quartier avec jeu sur place gratuit et prêt de jeux de société et jouets. Emprunt avec abonnement famille (30 CHF/an).",
+    "target_audience": "Enfants, familles, tout public",
+    "access_conditions": "Jeu sur place gratuit. Emprunt avec abonnement famille annuel (30 CHF)."
+  },
+  "r_0174": {
+    "description": "Ludothèque de quartier offrant un espace de jeux et de rencontre pour enfants, adolescents et adultes. Jeu sur place gratuit, emprunt avec abonnement famille (30 CHF/an).",
+    "target_audience": "Enfants, familles, tout public",
+    "access_conditions": "Jeu sur place gratuit. Emprunt avec abonnement famille annuel (30 CHF)."
+  },
+  "r_0175": {
+    "description": "Ludothèque située à l'école Pré-Picot à Cologny, active depuis 1995. Prêt de jeux et jouets, jeu sur place. Emprunt avec abonnement famille (30 CHF/an).",
+    "target_audience": "Enfants, familles, tout public",
+    "access_conditions": "Jeu sur place gratuit. Emprunt avec abonnement famille annuel (30 CHF)."
+  },
+  "r_0176": {
+    "description": "Ludothèque de quartier avec plus de 1500 jeux. Jeu sur place gratuit, emprunt avec abonnement famille (30 CHF/an). Accueil spécial 0-4 ans certains jours.",
+    "target_audience": "Enfants, familles, tout public",
+    "access_conditions": "Jeu sur place gratuit. Emprunt avec abonnement famille annuel (30 CHF). Accueil 0-4 ans mardi et jeudi matin."
+  },
+  "r_0177": {
+    "description": "Ludothèque de quartier avec jeu sur place gratuit et prêt de jeux. Emprunt avec abonnement famille (30 CHF/an). Soirées jeux le premier vendredi du mois.",
+    "target_audience": "Enfants, familles, tout public",
+    "access_conditions": "Jeu sur place gratuit. Emprunt avec abonnement famille annuel (30 CHF)."
+  },
+  "r_0178": {
+    "description": "Ludothèque de quartier accueillant enfants, parents et institutions pour jouer sur place et emprunter des jeux. Emprunt avec abonnement famille (30 CHF/an).",
+    "target_audience": "Enfants, familles, tout public",
+    "access_conditions": "Jeu sur place gratuit. Emprunt avec abonnement famille annuel (30 CHF)."
   },
   "tag": {
     "143": "143",

@@ -355,9 +355,9 @@
     "access_conditions": "Kostenlose Anmeldung, kostenlose Ausleihe"
   },
   "r_0072": {
-    "description": "Quartier-Spielothek mit kostenloser Ausleihe von Gesellschaftsspielen, Spielzeug und Lernspielen. Gemütlicher Spielbereich und spielerische Workshops.",
+    "description": "Quartier-Spielothek mit kostenlosem Spielen vor Ort und Ausleihe von Gesellschaftsspielen, Spielzeug und Lernspielen. Ausleihe mit Familienabonnement (30 CHF/Jahr). Gemütlicher Spielraum.",
     "target_audience": "Kinder, Familien, alle",
-    "access_conditions": "Kostenlose Anmeldung, kostenlose Ausleihe"
+    "access_conditions": "Kostenloses Spielen vor Ort. Ausleihe mit jährlichem Familienabonnement (30 CHF)."
   },
   "r_0073": {
     "description": "Gemeinschaftlicher Stadtgarten im Quartier Grottes. Geteilte Parzellen, gemeinschaftliche Kompostierung und kostenlose Gartenworkshops.",
@@ -560,9 +560,9 @@
     "access_conditions": "Kostenlos, ohne Anmeldung, Kind in Begleitung eines Elternteils"
   },
   "r_0113": {
-    "description": "Kostenlose Ausleihe von Spielen und Spielzeug für Kinder und Familien. Grosse Sammlung von Gesellschaftsspielen, Lernspielen und Spielzeug für alle Altersgruppen.",
+    "description": "Spielraum und Ausleihservice für Spielzeug und Gesellschaftsspiele für Kinder, Familien und Erwachsene. Riesen- und Outdoor-Spiele für Feste und Veranstaltungen verfügbar.",
     "target_audience": "Kinder und Familien",
-    "access_conditions": "Kostenlose Anmeldung, kostenlose Spielausleihe für Einwohner von Carouge"
+    "access_conditions": "Spielen vor Ort und Spielausleihe bei Anmeldung."
   },
   "r_0114": {
     "description": "Kostenloser Veloverleih als Selbstbedienungssystem in Genf. Klassische und elektrische Velos für tägliche Stadtfahrten verfügbar.",
@@ -853,6 +853,41 @@
     "description": "Notunterkunft für Frauen in prekären Situationen, obdachlose oder geflüchtete Frauen mit Kindern. 30 bedingungslose Aufnahmeplätze und 21 Plätze für Frauen in der Sozialhilfe. Einzel- oder Doppelzimmer, drei Mahlzeiten pro Tag, Waschküche, soziale Begleitung.",
     "target_audience": "Obdachlose Frauen, Frauen in prekären Situationen, Geflüchtete mit Kindern",
     "access_conditions": "Kontaktieren Sie die Genfer Notunterkunft-Hotline: 0800 22 22 10 (Mo-Fr 10:30-20:00, Sa-So 15:00-20:00). Keine direkte Reservierung."
+  },
+  "r_0172": {
+    "description": "Quartier-Spielothek mit kostenlosem Spielen vor Ort und Ausleihe von Gesellschaftsspielen und Spielzeug. Ausleihe mit Familienabonnement (30 CHF/Jahr). Spiel- und Znüni-Nachmittag ein Freitag pro Monat.",
+    "target_audience": "Kinder, Familien, alle",
+    "access_conditions": "Kostenloses Spielen vor Ort. Ausleihe mit jährlichem Familienabonnement (30 CHF)."
+  },
+  "r_0173": {
+    "description": "Quartier-Spielothek mit kostenlosem Spielen vor Ort und Ausleihe von Gesellschaftsspielen und Spielzeug. Ausleihe mit Familienabonnement (30 CHF/Jahr).",
+    "target_audience": "Kinder, Familien, alle",
+    "access_conditions": "Kostenloses Spielen vor Ort. Ausleihe mit jährlichem Familienabonnement (30 CHF)."
+  },
+  "r_0174": {
+    "description": "Quartier-Spielothek mit Spiel- und Begegnungsraum für Kinder, Jugendliche und Erwachsene. Kostenloses Spielen vor Ort, Ausleihe mit Familienabonnement (30 CHF/Jahr).",
+    "target_audience": "Kinder, Familien, alle",
+    "access_conditions": "Kostenloses Spielen vor Ort. Ausleihe mit jährlichem Familienabonnement (30 CHF)."
+  },
+  "r_0175": {
+    "description": "Spielothek in der Schule Pré-Picot in Cologny, aktiv seit 1995. Spiel- und Spielzeugausleihe, Spielen vor Ort. Ausleihe mit Familienabonnement (30 CHF/Jahr).",
+    "target_audience": "Kinder, Familien, alle",
+    "access_conditions": "Kostenloses Spielen vor Ort. Ausleihe mit jährlichem Familienabonnement (30 CHF)."
+  },
+  "r_0176": {
+    "description": "Quartier-Spielothek mit über 1500 Spielen. Kostenloses Spielen vor Ort, Ausleihe mit Familienabonnement (30 CHF/Jahr). Spezieller Empfang für 0-4 Jahre an bestimmten Tagen.",
+    "target_audience": "Kinder, Familien, alle",
+    "access_conditions": "Kostenloses Spielen vor Ort. Ausleihe mit jährlichem Familienabonnement (30 CHF). Empfang 0-4 Jahre Dienstag und Donnerstag Vormittag."
+  },
+  "r_0177": {
+    "description": "Quartier-Spielothek mit kostenlosem Spielen vor Ort und Spielausleihe. Ausleihe mit Familienabonnement (30 CHF/Jahr). Spieleabende am ersten Freitag des Monats.",
+    "target_audience": "Kinder, Familien, alle",
+    "access_conditions": "Kostenloses Spielen vor Ort. Ausleihe mit jährlichem Familienabonnement (30 CHF)."
+  },
+  "r_0178": {
+    "description": "Quartier-Spielothek für Kinder, Eltern und Institutionen zum Spielen vor Ort und Ausleihen von Spielen. Ausleihe mit Familienabonnement (30 CHF/Jahr).",
+    "target_audience": "Kinder, Familien, alle",
+    "access_conditions": "Kostenloses Spielen vor Ort. Ausleihe mit jährlichem Familienabonnement (30 CHF)."
   },
   "tag": {
     "143": "143",

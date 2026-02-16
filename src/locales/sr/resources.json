@@ -355,9 +355,9 @@
     "access_conditions": "Besplatan upis, besplatna pozajmica"
   },
   "r_0072": {
-    "description": "Kvartovska ludoteka sa besplatnom pozajmicom drustvenih igara, igracaka i edukativnih igara. Prijatan prostor za igru i ludaike radionice.",
-    "target_audience": "Deca, porodice, svi",
-    "access_conditions": "Besplatan upis, besplatna pozajmica"
+    "description": "Квартовска играотека са бесплатним играњем на лицу места и позајмицом друштвених игара, играчака и едукативних игара. Позајмица са породичном претплатом (30 CHF/годишње). Пријатан простор за игру.",
+    "target_audience": "Деца, породице, сви",
+    "access_conditions": "Бесплатно играње на лицу места. Позајмица са годишњом породичном претплатом (30 CHF)."
   },
   "r_0073": {
     "description": "Zajednicki urbani vrt u kvartu Grottes. Zajednicke parcele, kolektivno kompostiranje i besplatne radionice bastarstva.",
@@ -560,9 +560,9 @@
     "access_conditions": "Besplatno, bez upisa, dete u pratnji roditelja"
   },
   "r_0113": {
-    "description": "Besplatna pozajmica igara i igracaka za decu i porodice. Velika kolekcija drustvenih igara, edukativnih igara i igracaka za sve uzraste.",
-    "target_audience": "Deca i porodice",
-    "access_conditions": "Besplatan upis, besplatna pozajmica igara za stanovnike Carouge-a"
+    "description": "Простор за игру и услуга позајмице играчака и друштвених игара за децу, породице и одрасле. Велике игре и игре на отвореном доступне за прославе и догађаје.",
+    "target_audience": "Деца и породице",
+    "access_conditions": "Играње на лицу места и позајмица игара уз регистрацију."
   },
   "r_0114": {
     "description": "Besplatan servis za pozajmicu bicikala na slobodno koriscenje u Zenevi. Klasicni i elektricni bicikli dostupni za svakodnevne gradske voznje.",
@@ -853,6 +853,41 @@
     "description": "Hitni smestaj za zene u teskoj situaciji, beskucnice ili izbeglice sa decom. 30 mesta bezuslovnog prijema i 21 mesto za zene na socijalnoj pomoci. Jednokrevetne ili dvokrevetne sobe, tri obroka dnevno, perionica vesa, socijalna podrska.",
     "target_audience": "Beskucnice, zene u teskoj situaciji, izbeglice sa decom",
     "access_conditions": "Kontaktirajte zenevsku liniju za hitni smestaj: 0800 22 22 10 (pon-pet 10:30-20:00, sub-ned 15:00-20:00). Bez direktne rezervacije."
+  },
+  "r_0172": {
+    "description": "Квартовска играотека са бесплатним играњем на лицу места и позајмицом друштвених игара и играчака. Позајмица са породичном претплатом (30 CHF/годишње). Игре и ужина један петак месечно.",
+    "target_audience": "Деца, породице, сви",
+    "access_conditions": "Бесплатно играње на лицу места. Позајмица са годишњом породичном претплатом (30 CHF)."
+  },
+  "r_0173": {
+    "description": "Квартовска играотека са бесплатним играњем на лицу места и позајмицом друштвених игара и играчака. Позајмица са породичном претплатом (30 CHF/годишње).",
+    "target_audience": "Деца, породице, сви",
+    "access_conditions": "Бесплатно играње на лицу места. Позајмица са годишњом породичном претплатом (30 CHF)."
+  },
+  "r_0174": {
+    "description": "Квартовска играотека са простором за игру и дружење за децу, тинејџере и одрасле. Бесплатно играње на лицу места, позајмица са породичном претплатом (30 CHF/годишње).",
+    "target_audience": "Деца, породице, сви",
+    "access_conditions": "Бесплатно играње на лицу места. Позајмица са годишњом породичном претплатом (30 CHF)."
+  },
+  "r_0175": {
+    "description": "Играотека у школи Pré-Picot у Колоњију, активна од 1995. Позајмица игара и играчака, играње на лицу места. Позајмица са породичном претплатом (30 CHF/годишње).",
+    "target_audience": "Деца, породице, сви",
+    "access_conditions": "Бесплатно играње на лицу места. Позајмица са годишњом породичном претплатом (30 CHF)."
+  },
+  "r_0176": {
+    "description": "Квартовска играотека са преко 1500 игара. Бесплатно играње на лицу места, позајмица са породичном претплатом (30 CHF/годишње). Посебан пријем за узраст 0-4 године одређених дана.",
+    "target_audience": "Деца, породице, сви",
+    "access_conditions": "Бесплатно играње на лицу места. Позајмица са годишњом породичном претплатом (30 CHF). Пријем 0-4 године уторком и четвртком ујутру."
+  },
+  "r_0177": {
+    "description": "Квартовска играотека са бесплатним играњем на лицу места и позајмицом игара. Позајмица са породичном претплатом (30 CHF/годишње). Вечери игара првог петка у месецу.",
+    "target_audience": "Деца, породице, сви",
+    "access_conditions": "Бесплатно играње на лицу места. Позајмица са годишњом породичном претплатом (30 CHF)."
+  },
+  "r_0178": {
+    "description": "Квартовска играотека која прима децу, родитеље и институције за играње на лицу места и позајмицу игара. Позајмица са породичном претплатом (30 CHF/годишње).",
+    "target_audience": "Деца, породице, сви",
+    "access_conditions": "Бесплатно играње на лицу места. Позајмица са годишњом породичном претплатом (30 CHF)."
   },
   "tag": {
     "143": "143",

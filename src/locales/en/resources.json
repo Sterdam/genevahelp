@@ -355,9 +355,9 @@
     "access_conditions": "Free registration, free lending"
   },
   "r_0072": {
-    "description": "Neighborhood toy library with free lending of board games, toys, and educational games. Friendly play area and game workshops.",
+    "description": "Neighborhood toy library with free on-site play and lending of board games, toys, and educational games. Borrowing with family subscription (30 CHF/year). Friendly play area.",
     "target_audience": "Children, families, general public",
-    "access_conditions": "Free registration, free lending"
+    "access_conditions": "Free on-site play. Borrowing with annual family subscription (30 CHF)."
   },
   "r_0073": {
     "description": "Community urban garden in the Grottes neighborhood. Shared plots, collective composting, and free gardening workshops.",
@@ -560,9 +560,9 @@
     "access_conditions": "Free, no registration, child must be accompanied by a parent"
   },
   "r_0113": {
-    "description": "Free lending of games and toys for children and families. Large collection of board games, educational games, and toys for all ages.",
+    "description": "Play area and lending service for toys and board games for children, families, and adults. Giant and outdoor games available for parties and events.",
     "target_audience": "Children and families",
-    "access_conditions": "Free registration, free game lending for Carouge residents"
+    "access_conditions": "On-site play and game borrowing upon registration."
   },
   "r_0114": {
     "description": "Free self-service bicycle lending in Geneva. Classic and electric bicycles available for daily urban commuting.",
@@ -853,6 +853,41 @@
     "description": "Emergency shelter for women in precarious situations, homeless or refugees with children. 30 unconditional reception places and 21 places for women on social assistance. Single or double rooms, three meals a day, laundry facilities, social support.",
     "target_audience": "Homeless women, women in precarious situations, refugees with children",
     "access_conditions": "Contact the Geneva emergency shelter line: 0800 22 22 10 (Mon-Fri 10:30am-8pm, Sat-Sun 3pm-8pm). No direct reservation."
+  },
+  "r_0172": {
+    "description": "Neighborhood toy library with free on-site play and lending of board games and toys. Borrowing with family subscription (30 CHF/year). Games and snack afternoon one Friday per month.",
+    "target_audience": "Children, families, general public",
+    "access_conditions": "Free on-site play. Borrowing with annual family subscription (30 CHF)."
+  },
+  "r_0173": {
+    "description": "Neighborhood toy library with free on-site play and lending of board games and toys. Borrowing with family subscription (30 CHF/year).",
+    "target_audience": "Children, families, general public",
+    "access_conditions": "Free on-site play. Borrowing with annual family subscription (30 CHF)."
+  },
+  "r_0174": {
+    "description": "Neighborhood toy library offering a play and meeting space for children, teenagers, and adults. Free on-site play, borrowing with family subscription (30 CHF/year).",
+    "target_audience": "Children, families, general public",
+    "access_conditions": "Free on-site play. Borrowing with annual family subscription (30 CHF)."
+  },
+  "r_0175": {
+    "description": "Toy library located at the Pré-Picot school in Cologny, active since 1995. Game and toy lending, on-site play. Borrowing with family subscription (30 CHF/year).",
+    "target_audience": "Children, families, general public",
+    "access_conditions": "Free on-site play. Borrowing with annual family subscription (30 CHF)."
+  },
+  "r_0176": {
+    "description": "Neighborhood toy library with over 1500 games. Free on-site play, borrowing with family subscription (30 CHF/year). Special welcome for ages 0-4 on certain days.",
+    "target_audience": "Children, families, general public",
+    "access_conditions": "Free on-site play. Borrowing with annual family subscription (30 CHF). Ages 0-4 welcome Tuesday and Thursday mornings."
+  },
+  "r_0177": {
+    "description": "Neighborhood toy library with free on-site play and game lending. Borrowing with family subscription (30 CHF/year). Game evenings on the first Friday of the month.",
+    "target_audience": "Children, families, general public",
+    "access_conditions": "Free on-site play. Borrowing with annual family subscription (30 CHF)."
+  },
+  "r_0178": {
+    "description": "Neighborhood toy library welcoming children, parents, and institutions for on-site play and game borrowing. Borrowing with family subscription (30 CHF/year).",
+    "target_audience": "Children, families, general public",
+    "access_conditions": "Free on-site play. Borrowing with annual family subscription (30 CHF)."
   },
   "tag": {
     "143": "143",

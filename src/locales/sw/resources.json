@@ -355,9 +355,9 @@
     "access_conditions": "Usajili wa bure, ukopaji wa bure"
   },
   "r_0072": {
-    "description": "Maktaba ya michezo ya mtaa yenye ukopaji wa bure wa michezo ya ubao, vinyago na michezo ya kielimu. Eneo la kucheza la kirafiki na warsha za michezo.",
-    "target_audience": "Watoto, familia, umma wote",
-    "access_conditions": "Usajili wa bure, ukopaji wa bure"
+    "description": "Maktaba ya michezo ya mtaa yenye kucheza bure mahali na kukopesha michezo ya bodi, vifaa vya kucheza na michezo ya kielimu. Kukopa kwa usajili wa familia (30 CHF/mwaka). Eneo la kucheza la kirafiki.",
+    "target_audience": "Watoto, familia, wote",
+    "access_conditions": "Kucheza bure mahali. Kukopa kwa usajili wa familia wa kila mwaka (30 CHF)."
   },
   "r_0073": {
     "description": "Bustani ya jamii ya mijini katika mtaa wa Grottes. Viwanja vya pamoja, kutengeneza mboji kwa pamoja na warsha za bustani bila malipo.",
@@ -560,9 +560,9 @@
     "access_conditions": "Bure, bila usajili, mtoto akiambatana na mzazi"
   },
   "r_0113": {
-    "description": "Ukopaji wa bure wa michezo na vinyago kwa watoto na familia. Mkusanyiko mkubwa wa michezo ya ubao, michezo ya kielimu na vinyago kwa umri wote.",
+    "description": "Eneo la kucheza na huduma ya kukopesha vifaa vya kucheza na michezo ya bodi kwa watoto, familia na watu wazima. Michezo mikubwa na ya nje inapatikana kwa sherehe na matukio.",
     "target_audience": "Watoto na familia",
-    "access_conditions": "Usajili wa bure, ukopaji wa michezo bure kwa wakaazi wa Carouge"
+    "access_conditions": "Kucheza mahali na kukopesha michezo kwa usajili."
   },
   "r_0114": {
     "description": "Huduma ya bure ya ukopaji wa baiskeli katika Geneva. Baiskeli za kawaida na za umeme zinapatikana kwa safari za kila siku za mjini.",
@@ -853,6 +853,41 @@
     "description": "Makazi ya dharura kwa wanawake walio katika hali ngumu, wasio na makazi au wakimbizi wenye watoto. Nafasi 30 za mapokezi bila masharti na nafasi 21 kwa wanawake wanaopata msaada wa kijamii. Vyumba vya mtu mmoja au wawili, milo mitatu kwa siku, kufulia, msaada wa kijamii.",
     "target_audience": "Wanawake wasio na makazi, wanawake walio katika hali ngumu, wakimbizi wenye watoto",
     "access_conditions": "Wasiliana na simu ya dharura ya makazi ya Geneva: 0800 22 22 10 (Jumatatu-Ijumaa 10:30-20:00, Jumamosi-Jumapili 15:00-20:00). Hakuna uhifadhi wa moja kwa moja."
+  },
+  "r_0172": {
+    "description": "Maktaba ya michezo ya mtaa yenye kucheza bure mahali na kukopesha michezo ya bodi na vifaa vya kucheza. Kukopa kwa usajili wa familia (30 CHF/mwaka). Michezo na vitafunio Ijumaa moja kwa mwezi.",
+    "target_audience": "Watoto, familia, wote",
+    "access_conditions": "Kucheza bure mahali. Kukopa kwa usajili wa familia wa kila mwaka (30 CHF)."
+  },
+  "r_0173": {
+    "description": "Maktaba ya michezo ya mtaa yenye kucheza bure mahali na kukopesha michezo ya bodi na vifaa vya kucheza. Kukopa kwa usajili wa familia (30 CHF/mwaka).",
+    "target_audience": "Watoto, familia, wote",
+    "access_conditions": "Kucheza bure mahali. Kukopa kwa usajili wa familia wa kila mwaka (30 CHF)."
+  },
+  "r_0174": {
+    "description": "Maktaba ya michezo ya mtaa inayotoa eneo la kucheza na kukutana kwa watoto, vijana na watu wazima. Kucheza bure mahali, kukopa kwa usajili wa familia (30 CHF/mwaka).",
+    "target_audience": "Watoto, familia, wote",
+    "access_conditions": "Kucheza bure mahali. Kukopa kwa usajili wa familia wa kila mwaka (30 CHF)."
+  },
+  "r_0175": {
+    "description": "Maktaba ya michezo katika shule ya Pré-Picot huko Cologny, inafanya kazi tangu 1995. Kukopesha michezo na vifaa, kucheza mahali. Kukopa kwa usajili wa familia (30 CHF/mwaka).",
+    "target_audience": "Watoto, familia, wote",
+    "access_conditions": "Kucheza bure mahali. Kukopa kwa usajili wa familia wa kila mwaka (30 CHF)."
+  },
+  "r_0176": {
+    "description": "Maktaba ya michezo ya mtaa yenye michezo zaidi ya 1500. Kucheza bure mahali, kukopa kwa usajili wa familia (30 CHF/mwaka). Mapokezi maalum kwa umri wa miaka 0-4 siku fulani.",
+    "target_audience": "Watoto, familia, wote",
+    "access_conditions": "Kucheza bure mahali. Kukopa kwa usajili wa familia wa kila mwaka (30 CHF). Mapokezi miaka 0-4 Jumanne na Alhamisi asubuhi."
+  },
+  "r_0177": {
+    "description": "Maktaba ya michezo ya mtaa yenye kucheza bure mahali na kukopesha michezo. Kukopa kwa usajili wa familia (30 CHF/mwaka). Jioni za michezo Ijumaa ya kwanza ya mwezi.",
+    "target_audience": "Watoto, familia, wote",
+    "access_conditions": "Kucheza bure mahali. Kukopa kwa usajili wa familia wa kila mwaka (30 CHF)."
+  },
+  "r_0178": {
+    "description": "Maktaba ya michezo ya mtaa inayokaribisha watoto, wazazi na taasisi kwa kucheza mahali na kukopesha michezo. Kukopa kwa usajili wa familia (30 CHF/mwaka).",
+    "target_audience": "Watoto, familia, wote",
+    "access_conditions": "Kucheza bure mahali. Kukopa kwa usajili wa familia wa kila mwaka (30 CHF)."
   },
   "tag": {
     "143": "143",

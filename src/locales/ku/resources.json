@@ -355,9 +355,9 @@
     "access_conditions": "Qeydkirina belaş, deynkirina belaş"
   },
   "r_0072": {
-    "description": "Lîstikxaneya taxê bi deynkirina belaş a lîstikên mêzê, pêlîstok û lîstikên perwerdehiyê. Qada lîstikê ya heval û atolyeyên lîstikê.",
-    "target_audience": "Zarok, malbat, hemû gel",
-    "access_conditions": "Qeydkirina belaş, deynkirina belaş"
+    "description": "Pirtûkxaneya lîstikên taxê bi lîstina belaş li cih û deynkirina lîstikên masê, pêlîstokan û lîstikên perwerdehiyê. Deynkirin bi abonetiya malbatî (30 CHF/sal). Cihê lîstinê yê heval.",
+    "target_audience": "Zarok, malbat, hemû kes",
+    "access_conditions": "Lîstina belaş li cih. Deynkirin bi abonetiya malbatî ya salane (30 CHF)."
   },
   "r_0073": {
     "description": "Bexçeya bajarî ya civakî li taxa Grottes. Parceyên hevpar, kompostkirina hevpar û atolyeyên bexçevaniyê yên belaş.",
@@ -560,9 +560,9 @@
     "access_conditions": "Belaş, bê qeydkirin, zarok bi dêûbavek re"
   },
   "r_0113": {
-    "description": "Deynkirina belaş a lîstik û pêlîstokan ji bo zarok û malbatan. Koleksiyona fireh a lîstikên mêzê, lîstikên perwerdehiyê û pêlîstokan ji bo her temenî.",
+    "description": "Cihê lîstinê û karûbarê deynkirina pêlîstokan û lîstikên masê ji bo zarokan, malbatan û mezinan. Lîstikên mezin û derve ji bo şahî û çalakiyan hene.",
     "target_audience": "Zarok û malbat",
-    "access_conditions": "Qeydkirina belaş, deynkirina lîstikan belaş ji bo niştecihên Carouge"
+    "access_conditions": "Lîstina li cih û deynkirina lîstikan bi qeydkirinê."
   },
   "r_0114": {
     "description": "Xizmeta deynkirina belaş a bisîkletan bi xwe-xizmetî li Genève. Bisîkletên asayî û elektrîkî ji bo rêwîtiyên rojane yên bajarî peyda dibin.",
@@ -853,6 +853,41 @@
     "description": "Bicîhkirina acîl ji bo jinên di rewşa dijwar de, bêmal an penaberên bi zarokan. 30 cihên pêşwaziya bê mercî û 21 cih ji bo jinên di alîkariya civakî de. Odeyên yek an du kesî, sê xwarinên rojane, cihê cilşûştinê, alîkariya civakî.",
     "target_audience": "Jinên bêmal, jinên di rewşa dijwar de, penaberên bi zarokan",
     "access_conditions": "Bi xeta bicîhkirina acîl a Cenêvê re têkilî daynin: 0800 22 22 10 (Duş-Înî 10:30-20:00, Şem-Yekş 15:00-20:00). Bê rezervasyona rasterast."
+  },
+  "r_0172": {
+    "description": "Pirtûkxaneya lîstikên taxê bi lîstina belaş li cih û deynkirina lîstikên masê û pêlîstokan. Deynkirin bi abonetiya malbatî (30 CHF/sal). Lîstik û xwarin rojeke Înê di mehê de.",
+    "target_audience": "Zarok, malbat, hemû kes",
+    "access_conditions": "Lîstina belaş li cih. Deynkirin bi abonetiya malbatî ya salane (30 CHF)."
+  },
+  "r_0173": {
+    "description": "Pirtûkxaneya lîstikên taxê bi lîstina belaş li cih û deynkirina lîstikên masê û pêlîstokan. Deynkirin bi abonetiya malbatî (30 CHF/sal).",
+    "target_audience": "Zarok, malbat, hemû kes",
+    "access_conditions": "Lîstina belaş li cih. Deynkirin bi abonetiya malbatî ya salane (30 CHF)."
+  },
+  "r_0174": {
+    "description": "Pirtûkxaneya lîstikên taxê ku cihê lîstinê û hevdîtinê ji bo zarokan, ciwanan û mezinan pêşkêş dike. Lîstina belaş li cih, deynkirin bi abonetiya malbatî (30 CHF/sal).",
+    "target_audience": "Zarok, malbat, hemû kes",
+    "access_conditions": "Lîstina belaş li cih. Deynkirin bi abonetiya malbatî ya salane (30 CHF)."
+  },
+  "r_0175": {
+    "description": "Pirtûkxaneya lîstikan li dibistana Pré-Picot li Cologny, ji 1995-an ve çalak e. Deynkirina lîstik û pêlîstokan, lîstina li cih. Deynkirin bi abonetiya malbatî (30 CHF/sal).",
+    "target_audience": "Zarok, malbat, hemû kes",
+    "access_conditions": "Lîstina belaş li cih. Deynkirin bi abonetiya malbatî ya salane (30 CHF)."
+  },
+  "r_0176": {
+    "description": "Pirtûkxaneya lîstikên taxê bi zêdetirî 1500 lîstikan. Lîstina belaş li cih, deynkirin bi abonetiya malbatî (30 CHF/sal). Pêşwaziya taybet ji bo 0-4 salî di rojên diyar de.",
+    "target_audience": "Zarok, malbat, hemû kes",
+    "access_conditions": "Lîstina belaş li cih. Deynkirin bi abonetiya malbatî ya salane (30 CHF). Pêşwaziya 0-4 salî sêşem û pêncşem sibehê."
+  },
+  "r_0177": {
+    "description": "Pirtûkxaneya lîstikên taxê bi lîstina belaş li cih û deynkirina lîstikan. Deynkirin bi abonetiya malbatî (30 CHF/sal). Êvarên lîstikê Îniya yekem a mehê.",
+    "target_audience": "Zarok, malbat, hemû kes",
+    "access_conditions": "Lîstina belaş li cih. Deynkirin bi abonetiya malbatî ya salane (30 CHF)."
+  },
+  "r_0178": {
+    "description": "Pirtûkxaneya lîstikên taxê ku zarok, dêûbav û sazîyan ji bo lîstina li cih û deynkirina lîstikan pêşwazî dike. Deynkirin bi abonetiya malbatî (30 CHF/sal).",
+    "target_audience": "Zarok, malbat, hemû kes",
+    "access_conditions": "Lîstina belaş li cih. Deynkirin bi abonetiya malbatî ya salane (30 CHF)."
   },
   "tag": {
     "143": "143",

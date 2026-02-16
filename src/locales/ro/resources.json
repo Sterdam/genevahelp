@@ -355,9 +355,9 @@
     "access_conditions": "Inscriere gratuita, imprumut gratuit"
   },
   "r_0072": {
-    "description": "Ludoteca de cartier cu imprumut gratuit de jocuri de societate, jucarii si jocuri educative. Spatiu de joc prietenos si ateliere ludice.",
-    "target_audience": "Copii, familii, public larg",
-    "access_conditions": "Inscriere gratuita, imprumut gratuit"
+    "description": "Ludotecă de cartier cu joc gratuit la fața locului și împrumut de jocuri de societate, jucării și jocuri educative. Împrumut cu abonament familial (30 CHF/an). Spațiu de joc prietenos.",
+    "target_audience": "Copii, familii, toți",
+    "access_conditions": "Joc gratuit la fața locului. Împrumut cu abonament familial anual (30 CHF)."
   },
   "r_0073": {
     "description": "Gradina urbana comunitara in cartierul Grottes. Parcele comune, compostare colectiva si ateliere gratuite de gradinarit.",
@@ -560,9 +560,9 @@
     "access_conditions": "Gratuit, fara inscriere, copilul insotit de un parinte"
   },
   "r_0113": {
-    "description": "Imprumut gratuit de jocuri si jucarii pentru copii si familii. Colectie larga de jocuri de societate, jocuri educative si jucarii pentru toate varstele.",
-    "target_audience": "Copii si familii",
-    "access_conditions": "Inscriere gratuita, imprumut gratuit de jocuri pentru rezidentii din Carouge"
+    "description": "Spațiu de joc și serviciu de împrumut de jucării și jocuri de societate pentru copii, familii și adulți. Jocuri mari și de exterior disponibile pentru petreceri și evenimente.",
+    "target_audience": "Copii și familii",
+    "access_conditions": "Joc la fața locului și împrumut de jocuri la înscriere."
   },
   "r_0114": {
     "description": "Serviciu de imprumut gratuit de biciclete cu autoservire la Geneva. Biciclete clasice si electrice disponibile pentru deplasari urbane zilnice.",
@@ -853,6 +853,41 @@
     "description": "Adapost de urgenta pentru femei in situatie de precaritate, fara adapost sau refugiate cu copii. 30 de locuri de primire neconditionata si 21 de locuri pentru femei cu asistenta sociala. Camere individuale sau duble, trei mese pe zi, spalatorie, insotire sociala.",
     "target_audience": "Femei fara adapost, femei in situatie de precaritate, refugiate cu copii",
     "access_conditions": "Contactati linia de adapost de urgenta din Geneva: 0800 22 22 10 (lun-vin 10:30-20:00, sam-dum 15:00-20:00). Fara rezervare directa."
+  },
+  "r_0172": {
+    "description": "Ludotecă de cartier cu joc gratuit la fața locului și împrumut de jocuri de societate și jucării. Împrumut cu abonament familial (30 CHF/an). Jocuri și gustare o vineri pe lună.",
+    "target_audience": "Copii, familii, toți",
+    "access_conditions": "Joc gratuit la fața locului. Împrumut cu abonament familial anual (30 CHF)."
+  },
+  "r_0173": {
+    "description": "Ludotecă de cartier cu joc gratuit la fața locului și împrumut de jocuri de societate și jucării. Împrumut cu abonament familial (30 CHF/an).",
+    "target_audience": "Copii, familii, toți",
+    "access_conditions": "Joc gratuit la fața locului. Împrumut cu abonament familial anual (30 CHF)."
+  },
+  "r_0174": {
+    "description": "Ludotecă de cartier cu spațiu de joc și întâlnire pentru copii, adolescenți și adulți. Joc gratuit la fața locului, împrumut cu abonament familial (30 CHF/an).",
+    "target_audience": "Copii, familii, toți",
+    "access_conditions": "Joc gratuit la fața locului. Împrumut cu abonament familial anual (30 CHF)."
+  },
+  "r_0175": {
+    "description": "Ludotecă la școala Pré-Picot din Cologny, activă din 1995. Împrumut de jocuri și jucării, joc la fața locului. Împrumut cu abonament familial (30 CHF/an).",
+    "target_audience": "Copii, familii, toți",
+    "access_conditions": "Joc gratuit la fața locului. Împrumut cu abonament familial anual (30 CHF)."
+  },
+  "r_0176": {
+    "description": "Ludotecă de cartier cu peste 1500 de jocuri. Joc gratuit la fața locului, împrumut cu abonament familial (30 CHF/an). Primire specială pentru 0-4 ani în anumite zile.",
+    "target_audience": "Copii, familii, toți",
+    "access_conditions": "Joc gratuit la fața locului. Împrumut cu abonament familial anual (30 CHF). Primire 0-4 ani marți și joi dimineața."
+  },
+  "r_0177": {
+    "description": "Ludotecă de cartier cu joc gratuit la fața locului și împrumut de jocuri. Împrumut cu abonament familial (30 CHF/an). Seri de jocuri în prima vineri a lunii.",
+    "target_audience": "Copii, familii, toți",
+    "access_conditions": "Joc gratuit la fața locului. Împrumut cu abonament familial anual (30 CHF)."
+  },
+  "r_0178": {
+    "description": "Ludotecă de cartier care primește copii, părinți și instituții pentru joc la fața locului și împrumut de jocuri. Împrumut cu abonament familial (30 CHF/an).",
+    "target_audience": "Copii, familii, toți",
+    "access_conditions": "Joc gratuit la fața locului. Împrumut cu abonament familial anual (30 CHF)."
   },
   "tag": {
     "143": "143",

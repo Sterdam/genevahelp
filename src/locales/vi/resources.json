@@ -355,9 +355,9 @@
     "access_conditions": "Đăng ký miễn phí, mượn miễn phí"
   },
   "r_0072": {
-    "description": "Thư viện đồ chơi khu phố với dịch vụ mượn miễn phí board game, đồ chơi và trò chơi giáo dục. Không gian chơi thân thiện và hội thảo vui chơi.",
-    "target_audience": "Trẻ em, gia đình, mọi đối tượng",
-    "access_conditions": "Đăng ký miễn phí, mượn miễn phí"
+    "description": "Thư viện đồ chơi khu phố với chơi miễn phí tại chỗ và cho mượn trò chơi bàn, đồ chơi và trò chơi giáo dục. Mượn với thẻ thành viên gia đình (30 CHF/năm). Không gian chơi thân thiện.",
+    "target_audience": "Trẻ em, gia đình, tất cả mọi người",
+    "access_conditions": "Chơi miễn phí tại chỗ. Mượn với thẻ thành viên gia đình hàng năm (30 CHF)."
   },
   "r_0073": {
     "description": "Vườn rau đô thị cộng đồng tại khu Grottes. Ô đất chia sẻ, ủ phân tập thể và hội thảo làm vườn miễn phí.",
@@ -560,9 +560,9 @@
     "access_conditions": "Miễn phí, không cần đăng ký, trẻ em có phụ huynh đi cùng"
   },
   "r_0113": {
-    "description": "Cho mượn miễn phí trò chơi và đồ chơi cho trẻ em và gia đình. Bộ sưu tập lớn board game, trò chơi giáo dục và đồ chơi cho mọi lứa tuổi.",
+    "description": "Không gian chơi và dịch vụ cho mượn đồ chơi và trò chơi bàn cho trẻ em, gia đình và người lớn. Trò chơi khổng lồ và ngoài trời có sẵn cho tiệc và sự kiện.",
     "target_audience": "Trẻ em và gia đình",
-    "access_conditions": "Đăng ký miễn phí, mượn trò chơi miễn phí cho cư dân Carouge"
+    "access_conditions": "Chơi tại chỗ và mượn trò chơi khi đăng ký."
   },
   "r_0114": {
     "description": "Dịch vụ cho mượn xe đạp tự phục vụ miễn phí tại Geneva. Xe đạp thường và xe đạp điện cho các chuyến đi đô thị hàng ngày.",
@@ -853,6 +853,41 @@
     "description": "Nơi trú ẩn khẩn cấp cho phụ nữ trong tình trạng khó khăn, vô gia cư hoặc phụ nữ tị nạn có con. 30 chỗ tiếp nhận vô điều kiện và 21 chỗ cho phụ nữ được hỗ trợ xã hội. Phòng đơn hoặc đôi, ba bữa ăn mỗi ngày, phòng giặt, hỗ trợ xã hội.",
     "target_audience": "Phụ nữ vô gia cư, phụ nữ trong tình trạng khó khăn, phụ nữ tị nạn có con",
     "access_conditions": "Liên hệ đường dây trú ẩn khẩn cấp Geneva: 0800 22 22 10 (Thứ Hai-Thứ Sáu 10:30-20:00, Thứ Bảy-Chủ nhật 15:00-20:00). Không đặt chỗ trực tiếp."
+  },
+  "r_0172": {
+    "description": "Thư viện đồ chơi khu phố với chơi miễn phí tại chỗ và cho mượn trò chơi bàn và đồ chơi. Mượn với thẻ thành viên gia đình (30 CHF/năm). Trò chơi và bữa ăn nhẹ một thứ Sáu mỗi tháng.",
+    "target_audience": "Trẻ em, gia đình, tất cả mọi người",
+    "access_conditions": "Chơi miễn phí tại chỗ. Mượn với thẻ thành viên gia đình hàng năm (30 CHF)."
+  },
+  "r_0173": {
+    "description": "Thư viện đồ chơi khu phố với chơi miễn phí tại chỗ và cho mượn trò chơi bàn và đồ chơi. Mượn với thẻ thành viên gia đình (30 CHF/năm).",
+    "target_audience": "Trẻ em, gia đình, tất cả mọi người",
+    "access_conditions": "Chơi miễn phí tại chỗ. Mượn với thẻ thành viên gia đình hàng năm (30 CHF)."
+  },
+  "r_0174": {
+    "description": "Thư viện đồ chơi khu phố cung cấp không gian chơi và gặp gỡ cho trẻ em, thanh thiếu niên và người lớn. Chơi miễn phí tại chỗ, mượn với thẻ thành viên gia đình (30 CHF/năm).",
+    "target_audience": "Trẻ em, gia đình, tất cả mọi người",
+    "access_conditions": "Chơi miễn phí tại chỗ. Mượn với thẻ thành viên gia đình hàng năm (30 CHF)."
+  },
+  "r_0175": {
+    "description": "Thư viện đồ chơi tại trường Pré-Picot ở Cologny, hoạt động từ năm 1995. Cho mượn trò chơi và đồ chơi, chơi tại chỗ. Mượn với thẻ thành viên gia đình (30 CHF/năm).",
+    "target_audience": "Trẻ em, gia đình, tất cả mọi người",
+    "access_conditions": "Chơi miễn phí tại chỗ. Mượn với thẻ thành viên gia đình hàng năm (30 CHF)."
+  },
+  "r_0176": {
+    "description": "Thư viện đồ chơi khu phố với hơn 1500 trò chơi. Chơi miễn phí tại chỗ, mượn với thẻ thành viên gia đình (30 CHF/năm). Chào đón đặc biệt cho lứa tuổi 0-4 vào một số ngày.",
+    "target_audience": "Trẻ em, gia đình, tất cả mọi người",
+    "access_conditions": "Chơi miễn phí tại chỗ. Mượn với thẻ thành viên gia đình hàng năm (30 CHF). Chào đón 0-4 tuổi thứ Ba và thứ Năm buổi sáng."
+  },
+  "r_0177": {
+    "description": "Thư viện đồ chơi khu phố với chơi miễn phí tại chỗ và cho mượn trò chơi. Mượn với thẻ thành viên gia đình (30 CHF/năm). Đêm trò chơi vào thứ Sáu đầu tiên của tháng.",
+    "target_audience": "Trẻ em, gia đình, tất cả mọi người",
+    "access_conditions": "Chơi miễn phí tại chỗ. Mượn với thẻ thành viên gia đình hàng năm (30 CHF)."
+  },
+  "r_0178": {
+    "description": "Thư viện đồ chơi khu phố chào đón trẻ em, phụ huynh và các tổ chức để chơi tại chỗ và mượn trò chơi. Mượn với thẻ thành viên gia đình (30 CHF/năm).",
+    "target_audience": "Trẻ em, gia đình, tất cả mọi người",
+    "access_conditions": "Chơi miễn phí tại chỗ. Mượn với thẻ thành viên gia đình hàng năm (30 CHF)."
   },
   "tag": {
     "143": "143",

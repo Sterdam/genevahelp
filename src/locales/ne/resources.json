@@ -355,9 +355,9 @@
     "access_conditions": "Inscription gratuite, prêt gratuit"
   },
   "r_0072": {
-    "description": "Ludothèque de quartier avec prêt gratuit de jeux de société, jouets et jeux éducatifs. Espace de jeu convivial et ateliers ludiques.",
-    "target_audience": "Enfants, familles, tout public",
-    "access_conditions": "Inscription gratuite, prêt gratuit"
+    "description": "छिमेकको खेलौना पुस्तकालय जसमा निःशुल्क स्थानीय खेल र बोर्ड गेम, खेलौना र शैक्षिक खेलहरू उधारो दिइन्छ। पारिवारिक सदस्यता (30 CHF/वर्ष) मा उधारो। मैत्रीपूर्ण खेल क्षेत्र।",
+    "target_audience": "बालबालिका, परिवार, सबैका लागि",
+    "access_conditions": "स्थानीय निःशुल्क खेल। वार्षिक पारिवारिक सदस्यता (30 CHF) मा उधारो।"
   },
   "r_0073": {
     "description": "Potager urbain communautaire dans le quartier des Grottes. Parcelles partagées, compostage collectif et ateliers de jardinage gratuits.",
@@ -560,9 +560,9 @@
     "access_conditions": "Gratuit, sans inscription, enfant accompagné d'un parent"
   },
   "r_0113": {
-    "description": "Prêt gratuit de jeux et jouets pour enfants et familles. Large collection de jeux de société, jeux éducatifs et jouets pour tous les âges.",
-    "target_audience": "Enfants et familles",
-    "access_conditions": "Inscription gratuite, prêt de jeux gratuit pour les résidents de Carouge"
+    "description": "बालबालिका, परिवार र वयस्कहरूको लागि खेलौना र बोर्ड गेमको खेल क्षेत्र र उधारो सेवा। पार्टी र कार्यक्रमहरूको लागि ठूला र बाहिरी खेलहरू उपलब्ध।",
+    "target_audience": "बालबालिका र परिवार",
+    "access_conditions": "स्थानीय खेल र दर्ता गरेपछि खेल उधारो।"
   },
   "r_0114": {
     "description": "Service de prêt gratuit de vélos en libre-service à Genève. Vélos classiques et électriques disponibles pour des trajets urbains quotidiens.",
@@ -853,6 +853,41 @@
     "description": "कठिन परिस्थितिमा रहेका महिला, बेघर वा बच्चासहित शरणार्थी महिलाहरूको लागि आपतकालीन आश्रय। ३० शर्तरहित स्वागत स्थान र सामाजिक सहायतामा रहेका महिलाहरूको लागि २१ स्थान। एकल वा दोहोरो कोठा, दिनमा तीन खाना, कपडा धुने, सामाजिक सहायता।",
     "target_audience": "बेघर महिला, कठिन परिस्थितिमा रहेका महिला, बच्चासहित शरणार्थी महिला",
     "access_conditions": "जेनेभा आपतकालीन आश्रय हटलाइनमा सम्पर्क गर्नुहोस्: 0800 22 22 10 (सोम-शुक्र १०:३०-२०:००, शनि-आइत १५:००-२०:००)। सिधा आरक्षण छैन।"
+  },
+  "r_0172": {
+    "description": "छिमेकको खेलौना पुस्तकालय, निःशुल्क स्थानीय खेल र बोर्ड गेम व खेलौना उधारो। पारिवारिक सदस्यता (30 CHF/वर्ष) मा उधारो। महिनामा एक शुक्रबार खेल र खाजा।",
+    "target_audience": "बालबालिका, परिवार, सबैका लागि",
+    "access_conditions": "स्थानीय निःशुल्क खेल। वार्षिक पारिवारिक सदस्यता (30 CHF) मा उधारो।"
+  },
+  "r_0173": {
+    "description": "छिमेकको खेलौना पुस्तकालय, निःशुल्क स्थानीय खेल र बोर्ड गेम व खेलौना उधारो। पारिवारिक सदस्यता (30 CHF/वर्ष) मा उधारो।",
+    "target_audience": "बालबालिका, परिवार, सबैका लागि",
+    "access_conditions": "स्थानीय निःशुल्क खेल। वार्षिक पारिवारिक सदस्यता (30 CHF) मा उधारो।"
+  },
+  "r_0174": {
+    "description": "बालबालिका, किशोर र वयस्कहरूको लागि खेल र भेट्ने ठाउँ प्रदान गर्ने छिमेकको खेलौना पुस्तकालय। निःशुल्क स्थानीय खेल, पारिवारिक सदस्यता (30 CHF/वर्ष) मा उधारो।",
+    "target_audience": "बालबालिका, परिवार, सबैका लागि",
+    "access_conditions": "स्थानीय निःशुल्क खेल। वार्षिक पारिवारिक सदस्यता (30 CHF) मा उधारो।"
+  },
+  "r_0175": {
+    "description": "कोलोनीमा Pré-Picot विद्यालयमा रहेको खेलौना पुस्तकालय, 1995 देखि सक्रिय। खेल र खेलौना उधारो, स्थानीय खेल। पारिवारिक सदस्यता (30 CHF/वर्ष) मा उधारो।",
+    "target_audience": "बालबालिका, परिवार, सबैका लागि",
+    "access_conditions": "स्थानीय निःशुल्क खेल। वार्षिक पारिवारिक सदस्यता (30 CHF) मा उधारो।"
+  },
+  "r_0176": {
+    "description": "1500 भन्दा बढी खेलहरू भएको छिमेकको खेलौना पुस्तकालय। निःशुल्क स्थानीय खेल, पारिवारिक सदस्यता (30 CHF/वर्ष) मा उधारो। केही दिनमा 0-4 वर्षको लागि विशेष स्वागत।",
+    "target_audience": "बालबालिका, परिवार, सबैका लागि",
+    "access_conditions": "स्थानीय निःशुल्क खेल। वार्षिक पारिवारिक सदस्यता (30 CHF) मा उधारो। मंगलबार र बिहीबार बिहान 0-4 वर्ष।"
+  },
+  "r_0177": {
+    "description": "छिमेकको खेलौना पुस्तकालय, निःशुल्क स्थानीय खेल र खेल उधारो। पारिवारिक सदस्यता (30 CHF/वर्ष) मा उधारो। महिनाको पहिलो शुक्रबार खेल साँझ।",
+    "target_audience": "बालबालिका, परिवार, सबैका लागि",
+    "access_conditions": "स्थानीय निःशुल्क खेल। वार्षिक पारिवारिक सदस्यता (30 CHF) मा उधारो।"
+  },
+  "r_0178": {
+    "description": "बालबालिका, अभिभावक र संस्थाहरूलाई स्थानीय खेल र खेल उधारोको लागि स्वागत गर्ने छिमेकको खेलौना पुस्तकालय। पारिवारिक सदस्यता (30 CHF/वर्ष) मा उधारो।",
+    "target_audience": "बालबालिका, परिवार, सबैका लागि",
+    "access_conditions": "स्थानीय निःशुल्क खेल। वार्षिक पारिवारिक सदस्यता (30 CHF) मा उधारो।"
   },
   "tag": {
     "143": "143",

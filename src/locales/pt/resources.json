@@ -355,9 +355,9 @@
     "access_conditions": "Inscricao gratuita, emprestimo gratuito"
   },
   "r_0072": {
-    "description": "Brinquedoteca de bairro com emprestimo gratuito de jogos de tabuleiro, brinquedos e jogos educativos. Espaco de jogos acolhedor e oficinas ludicas.",
-    "target_audience": "Criancas, familias, publico em geral",
-    "access_conditions": "Inscricao gratuita, emprestimo gratuito"
+    "description": "Brinquedoteca de bairro com brincadeira gratuita no local e empréstimo de jogos de tabuleiro, brinquedos e jogos educativos. Empréstimo com assinatura familiar (30 CHF/ano). Espaço de brincadeira acolhedor.",
+    "target_audience": "Crianças, famílias, público geral",
+    "access_conditions": "Brincadeira gratuita no local. Empréstimo com assinatura familiar anual (30 CHF)."
   },
   "r_0073": {
     "description": "Horta urbana comunitaria no bairro des Grottes. Parcelas compartilhadas, compostagem coletiva e oficinas de jardinagem gratuitas.",
@@ -560,9 +560,9 @@
     "access_conditions": "Gratuito, sem inscricao, crianca acompanhada de um dos pais"
   },
   "r_0113": {
-    "description": "Emprestimo gratuito de jogos e brinquedos para criancas e familias. Grande colecao de jogos de tabuleiro, jogos educativos e brinquedos para todas as idades.",
-    "target_audience": "Criancas e familias",
-    "access_conditions": "Inscricao gratuita, emprestimo de jogos gratuito para moradores de Carouge"
+    "description": "Espaço de brincadeiras e serviço de empréstimo de brinquedos e jogos de tabuleiro para crianças, famílias e adultos. Jogos gigantes e ao ar livre disponíveis para festas e eventos.",
+    "target_audience": "Crianças e famílias",
+    "access_conditions": "Brincadeira no local e empréstimo de jogos mediante inscrição."
   },
   "r_0114": {
     "description": "Servico de emprestimo gratuito de bicicletas em livre servico em Genebra. Bicicletas classicas e eletricas disponiveis para deslocamentos urbanos diarios.",
@@ -853,6 +853,41 @@
     "description": "Alojamento de emergência para mulheres em situação de precariedade, sem-abrigo ou refugiadas com crianças. 30 lugares de acolhimento incondicional e 21 lugares para mulheres com assistência social. Quartos individuais ou duplos, três refeições por dia, lavandaria, acompanhamento social.",
     "target_audience": "Mulheres sem-abrigo, mulheres em situação de precariedade, refugiadas com crianças",
     "access_conditions": "Contactar a linha de alojamento de emergência de Genebra: 0800 22 22 10 (seg-sex 10:30-20h, sáb-dom 15-20h). Sem reserva direta."
+  },
+  "r_0172": {
+    "description": "Brinquedoteca de bairro com brincadeira gratuita no local e empréstimo de jogos de tabuleiro e brinquedos. Empréstimo com assinatura familiar (30 CHF/ano). Jogos e lanche uma sexta-feira por mês.",
+    "target_audience": "Crianças, famílias, público geral",
+    "access_conditions": "Brincadeira gratuita no local. Empréstimo com assinatura familiar anual (30 CHF)."
+  },
+  "r_0173": {
+    "description": "Brinquedoteca de bairro com brincadeira gratuita no local e empréstimo de jogos de tabuleiro e brinquedos. Empréstimo com assinatura familiar (30 CHF/ano).",
+    "target_audience": "Crianças, famílias, público geral",
+    "access_conditions": "Brincadeira gratuita no local. Empréstimo com assinatura familiar anual (30 CHF)."
+  },
+  "r_0174": {
+    "description": "Brinquedoteca de bairro com espaço de brincadeira e encontro para crianças, adolescentes e adultos. Brincadeira gratuita no local, empréstimo com assinatura familiar (30 CHF/ano).",
+    "target_audience": "Crianças, famílias, público geral",
+    "access_conditions": "Brincadeira gratuita no local. Empréstimo com assinatura familiar anual (30 CHF)."
+  },
+  "r_0175": {
+    "description": "Brinquedoteca na escola Pré-Picot em Cologny, ativa desde 1995. Empréstimo de jogos e brinquedos, brincadeira no local. Empréstimo com assinatura familiar (30 CHF/ano).",
+    "target_audience": "Crianças, famílias, público geral",
+    "access_conditions": "Brincadeira gratuita no local. Empréstimo com assinatura familiar anual (30 CHF)."
+  },
+  "r_0176": {
+    "description": "Brinquedoteca de bairro com mais de 1500 jogos. Brincadeira gratuita no local, empréstimo com assinatura familiar (30 CHF/ano). Acolhimento especial para 0-4 anos em certos dias.",
+    "target_audience": "Crianças, famílias, público geral",
+    "access_conditions": "Brincadeira gratuita no local. Empréstimo com assinatura familiar anual (30 CHF). Acolhimento 0-4 anos terça e quinta de manhã."
+  },
+  "r_0177": {
+    "description": "Brinquedoteca de bairro com brincadeira gratuita no local e empréstimo de jogos. Empréstimo com assinatura familiar (30 CHF/ano). Noites de jogos na primeira sexta-feira do mês.",
+    "target_audience": "Crianças, famílias, público geral",
+    "access_conditions": "Brincadeira gratuita no local. Empréstimo com assinatura familiar anual (30 CHF)."
+  },
+  "r_0178": {
+    "description": "Brinquedoteca de bairro que acolhe crianças, pais e instituições para brincar no local e emprestar jogos. Empréstimo com assinatura familiar (30 CHF/ano).",
+    "target_audience": "Crianças, famílias, público geral",
+    "access_conditions": "Brincadeira gratuita no local. Empréstimo com assinatura familiar anual (30 CHF)."
   },
   "tag": {
     "143": "143",
