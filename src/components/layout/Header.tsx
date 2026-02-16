@@ -76,6 +76,16 @@ export function Header() {
           )}
         </div>
 
+        <a
+          href={STRIPE_DONATION_LINK}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="p-1.5 text-amber-400 hover:text-amber-600 hover:bg-amber-50 rounded-lg transition-colors"
+          aria-label={t('about.coffeeTitle')}
+        >
+          <Coffee size={20} />
+        </a>
+
         <Link
           to="/suggest"
           className="hidden sm:inline-flex items-center gap-1.5 px-3 py-1.5 text-sm font-medium text-white bg-blue-600 rounded-lg hover:bg-blue-700 transition-colors"
@@ -91,16 +101,6 @@ export function Header() {
         >
           <Info size={20} />
         </Link>
-
-        <a
-          href={STRIPE_DONATION_LINK}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="hidden sm:inline-flex p-1.5 text-amber-400 hover:text-amber-600 hover:bg-amber-50 rounded-lg transition-colors"
-          aria-label={t('about.coffeeTitle')}
-        >
-          <Coffee size={20} />
-        </a>
       </div>
     </header>
   )

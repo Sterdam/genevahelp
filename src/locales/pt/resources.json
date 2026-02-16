@@ -5,9 +5,9 @@
     "access_conditions": "Sem condicoes, aberto a todos"
   },
   "r_0002": {
-    "description": "Consultas juridicas gratuitas oferecidas pela Ordem dos Advogados de Genebra. Primeiros aconselhamentos juridicos sem agendamento para qualquer questao de direito.",
-    "target_audience": "Qualquer pessoa que precise de aconselhamento juridico",
-    "access_conditions": "Sem agendamento, por ordem de chegada"
+    "description": "Escritório permanente de consultas jurídicas criado em 1975 pela Ordem dos Advogados de Genebra. Consultas prestadas por advogados voluntários. Todas as áreas do direito: família, divórcio, trabalho, seguros, estrangeiros, cobranças, penal, contratos, arrendamento, etc. Consulta de 45 minutos por CHF 60.",
+    "target_audience": "Qualquer pessoa que necessite de aconselhamento jurídico",
+    "access_conditions": "Com marcação seg-sex 9:30-18:30 (presencial ou telefónica). Sem marcação segunda 10:00-13:00. Online em www.permanenceoda.ch. Consulta CHF 60 (até 45 min)."
   },
   "r_0003": {
     "description": "Geladeira comunitaria de livre acesso onde qualquer pessoa pode deixar ou pegar alimentos gratuitamente. Combate ao desperdicio de alimentos.",
