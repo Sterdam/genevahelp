@@ -7,6 +7,9 @@ import { ToastProvider } from './components/ui/Toast'
 import { HomePage } from './pages/HomePage'
 import { AboutPage } from './pages/AboutPage'
 import { SuggestPage } from './pages/SuggestPage'
+import { ResourcePage } from './pages/ResourcePage'
+import { CategoryPage } from './pages/CategoryPage'
+import { EmergencyPage } from './pages/EmergencyPage'
 import { AdminPage } from './pages/AdminPage'
 
 function AppContent() {
@@ -32,6 +35,9 @@ function AppContent() {
       <Header />
       <Routes>
         <Route path="/" element={<HomePage mobileView={mobileView} />} />
+        <Route path="/resource/:slug" element={<ResourcePage />} />
+        <Route path="/category/:slug" element={<CategoryPage />} />
+        <Route path="/emergency" element={<EmergencyPage />} />
         <Route path="/about" element={<AboutPage />} />
         <Route path="/suggest" element={<SuggestPage />} />
       </Routes>

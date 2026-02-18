@@ -1,5 +1,7 @@
 import { useTranslation } from 'react-i18next'
 import { Heart, MapPin, Github, Users, Eye, Coffee } from 'lucide-react'
+import { SEOHead } from '../components/seo/SEOHead'
+import { canonicalUrl } from '../lib/seo-utils'
 import { useVisitCounter } from '../hooks/useVisitCounter'
 import { STRIPE_DONATION_LINK } from '../lib/constants'
 
@@ -9,6 +11,11 @@ export function AboutPage() {
 
   return (
     <div className="flex-1 overflow-y-auto bg-gray-50 animate-fade-in">
+      <SEOHead
+        title="About GenevaHelp — Free Resources in Geneva"
+        description="GenevaHelp is a free, open-source interactive map of all free resources in Geneva. Food, health, housing, legal aid, language courses and more."
+        canonical={canonicalUrl('/about')}
+      />
       <div className="max-w-2xl mx-auto px-4 py-8">
         <div className="text-center mb-8">
           <div className="w-16 h-16 bg-blue-600 rounded-2xl flex items-center justify-center mx-auto mb-4">

@@ -1,5 +1,8 @@
 import { useState, useCallback, useMemo } from 'react'
-import { Eye } from 'lucide-react'
+import { Link } from 'react-router-dom'
+import { Eye, Siren } from 'lucide-react'
+import { SEOHead } from '../components/seo/SEOHead'
+import { canonicalUrl } from '../lib/seo-utils'
 import { MapView } from '../components/map/MapView'
 import { ResourceList } from '../components/resources/ResourceList'
 import { ResourceDetail } from '../components/resources/ResourceDetail'
@@ -56,11 +59,23 @@ export function HomePage({ mobileView }: HomePageProps) {
 
   return (
     <div className="flex flex-col flex-1 overflow-hidden">
+      <SEOHead
+        title="GenevaHelp — Free Resources in Geneva | Interactive Map"
+        description="Interactive map of all free resources in Geneva: food aid, health, housing, legal help, language courses and more. 178 verified resources in 32 languages."
+        canonical={canonicalUrl('/')}
+      />
       {/* Search & Filters */}
       <div className="px-4 py-3 bg-white border-b border-gray-100 space-y-2.5 z-20 relative">
         <SearchBar onSearch={setSearchQuery} />
         <div className="flex items-center gap-2">
           <CategoryFilter selected={categories} onChange={setCategories} counts={categoryCounts} />
+          <Link
+            to="/emergency"
+            className="shrink-0 flex items-center gap-1 px-2.5 py-1.5 text-xs font-medium text-red-600 bg-red-50 border border-red-200 rounded-lg hover:bg-red-100 transition-colors"
+          >
+            <Siren size={13} />
+            {t('categories.emergency')}
+          </Link>
         </div>
         {/* Results count */}
         {!loading && (

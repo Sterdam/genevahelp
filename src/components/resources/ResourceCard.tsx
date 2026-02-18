@@ -1,6 +1,8 @@
 import { useTranslation } from 'react-i18next'
-import { MapPin, CheckCircle, Users } from 'lucide-react'
+import { Link } from 'react-router-dom'
+import { MapPin, CheckCircle, Users, ExternalLink } from 'lucide-react'
 import { CATEGORY_CONFIG } from '../../lib/constants'
+import { resourceSlug } from '../../lib/seo-utils'
 import type { Resource } from '../../lib/types'
 import { formatDistance } from '../../hooks/useGeolocation'
 
@@ -74,6 +76,15 @@ export function ResourceCard({ resource, isSelected, onClick }: ResourceCardProp
                 {resource.address.split(',')[0]}
               </span>
             )}
+
+            <Link
+              to={`/resource/${resourceSlug(resource)}`}
+              onClick={(e) => e.stopPropagation()}
+              className="ml-auto inline-flex items-center gap-1 text-gray-300 hover:text-blue-500 transition-colors"
+              title={t('resource.viewPage')}
+            >
+              <ExternalLink size={12} />
+            </Link>
           </div>
         </div>
       </div>

@@ -2,4 +2,27 @@ User-agent: *
 Allow: /
 Disallow: /admin
 
+# AI/LLM Crawlers — welcome
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
 Sitemap: https://genevahelp.ch/sitemap.xml
+
+# LLM-readable content
+# See https://genevahelp.ch/llms.txt for a summary
+# See https://genevahelp.ch/llms-full.txt for the complete resource directory

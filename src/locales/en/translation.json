@@ -52,7 +52,10 @@
     "call": "Call",
     "distance": "{{distance}} m",
     "distanceKm": "{{distance}} km",
-    "source": "Source"
+    "source": "Source",
+    "notFound": "Resource not found",
+    "notFoundText": "This resource doesn't exist or has been removed.",
+    "viewPage": "View page"
   },
   "suggest": {
     "title": "Suggest a resource",
@@ -180,7 +183,8 @@
     "save": "Save",
     "cancel": "Cancel",
     "yes": "Yes",
-    "no": "No"
+    "no": "No",
+    "backToMap": "Back to map"
   },
   "welcome": {
     "title": "Welcome to GenevaHelp",
@@ -230,6 +234,14 @@
     "hideDetails": "Hide details",
     "submittedBy": "Submitted by",
     "noContact": "No contact available"
+  },
+  "emergency": {
+    "title": "Emergency Help",
+    "subtitle": "Find immediate help in Geneva",
+    "crisisResources": "Crisis Resources",
+    "shelters": "Shelters",
+    "food": "Food Aid",
+    "callNow": "Call now"
   },
   "stats": {
     "visits": "visits"

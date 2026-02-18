@@ -52,7 +52,10 @@
     "call": "Appeler",
     "distance": "{{distance}} m",
     "distanceKm": "{{distance}} km",
-    "source": "Source"
+    "source": "Source",
+    "notFound": "Ressource introuvable",
+    "notFoundText": "Cette ressource n'existe pas ou a été supprimée.",
+    "viewPage": "Voir la page"
   },
   "suggest": {
     "title": "Suggérer une ressource",
@@ -180,7 +183,8 @@
     "save": "Enregistrer",
     "cancel": "Annuler",
     "yes": "Oui",
-    "no": "Non"
+    "no": "Non",
+    "backToMap": "Retour à la carte"
   },
   "welcome": {
     "title": "Bienvenue sur GenevaHelp",
@@ -230,6 +234,14 @@
     "hideDetails": "Masquer les détails",
     "submittedBy": "Soumis par",
     "noContact": "Pas de contact disponible"
+  },
+  "emergency": {
+    "title": "Aide d'urgence",
+    "subtitle": "Trouvez une aide immédiate à Genève",
+    "crisisResources": "Ressources de crise",
+    "shelters": "Hébergements",
+    "food": "Alimentation",
+    "callNow": "Appeler maintenant"
   },
   "stats": {
     "visits": "visites"

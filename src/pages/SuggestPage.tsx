@@ -1,5 +1,7 @@
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
+import { SEOHead } from '../components/seo/SEOHead'
+import { canonicalUrl } from '../lib/seo-utils'
 import {
   Send,
   CheckCircle,
@@ -120,6 +122,12 @@ export function SuggestPage() {
 
   return (
     <div className="flex-1 overflow-y-auto bg-gray-50 animate-fade-in">
+      <SEOHead
+        title="Suggest a Resource — GenevaHelp"
+        description="Suggest a new free resource in Geneva to add to the GenevaHelp interactive map."
+        canonical={canonicalUrl('/suggest')}
+        noindex
+      />
       <div className="max-w-lg mx-auto px-4 py-6 pb-24">
         {/* Header */}
         <div className="mb-6">

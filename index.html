@@ -59,7 +59,12 @@
     <meta name="geo.position" content="46.2044;6.1432" />
     <meta name="ICBM" content="46.2044, 6.1432" />
 
-    <!-- Structured Data -->
+    <!-- Hreflang -->
+    <link rel="alternate" hreflang="fr" href="https://genevahelp.ch/" />
+    <link rel="alternate" hreflang="en" href="https://genevahelp.ch/" />
+    <link rel="alternate" hreflang="x-default" href="https://genevahelp.ch/" />
+
+    <!-- Structured Data: WebApplication -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -93,6 +98,25 @@
       "isAccessibleForFree": true
     }
     </script>
+
+    <!-- Structured Data: WebSite with SearchAction (enables sitelinks search box) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "GenevaHelp",
+      "url": "https://genevahelp.ch",
+      "description": "Interactive map of all free resources in Geneva",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://genevahelp.ch/?q={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
   </head>
 
   <!-- Pre-rendered SEO content for crawlers (hidden when JS loads) -->
@@ -105,26 +129,33 @@
         <p>Interactive map of all free resources in Geneva: food aid, legal help, healthcare, housing, language courses, public wifi, and much more.</p>
         <h2>Categories</h2>
         <ul>
-          <li>Aide alimentaire / Food aid</li>
-          <li>Santé / Health</li>
-          <li>Hébergement / Housing</li>
-          <li>Aide juridique / Legal aid</li>
-          <li>Cours de langue / Language courses</li>
-          <li>Emploi / Employment</li>
-          <li>Vêtements / Clothing</li>
-          <li>Hygiène / Hygiene</li>
-          <li>WiFi public / Public WiFi</li>
-          <li>Aide financière / Financial aid</li>
-          <li>Enfants / Children</li>
-          <li>Personnes âgées / Elderly</li>
-          <li>Femmes / Women</li>
-          <li>Addictions / Addiction support</li>
-          <li>Aide sociale / Social support</li>
-          <li>Démarches administratives / Administrative help</li>
-          <li>Urgences / Emergency</li>
+          <li><a href="/category/food">Aide alimentaire / Food aid</a></li>
+          <li><a href="/category/health">Santé / Health</a></li>
+          <li><a href="/category/housing">Hébergement / Housing</a></li>
+          <li><a href="/category/legal">Aide juridique / Legal aid</a></li>
+          <li><a href="/category/language">Cours de langue / Language courses</a></li>
+          <li><a href="/category/education">Formation / Education</a></li>
+          <li><a href="/category/employment">Emploi / Employment</a></li>
+          <li><a href="/category/clothing">Vêtements / Clothing</a></li>
+          <li><a href="/category/hygiene">Hygiène / Hygiene</a></li>
+          <li><a href="/category/wifi">WiFi public / Public WiFi</a></li>
+          <li><a href="/category/finance">Aide financière / Financial aid</a></li>
+          <li><a href="/category/children">Enfants / Children</a></li>
+          <li><a href="/category/elderly">Personnes âgées / Elderly</a></li>
+          <li><a href="/category/women">Femmes / Women</a></li>
+          <li><a href="/category/addiction">Addictions / Addiction support</a></li>
+          <li><a href="/category/social">Aide sociale / Social support</a></li>
+          <li><a href="/category/admin">Démarches administratives / Administrative help</a></li>
+          <li><a href="/category/emergency">Urgences / Emergency</a></li>
         </ul>
-        <p>171 ressources vérifiées. Disponible en 32 langues.</p>
-        <p>171 verified resources. Available in 32 languages.</p>
+        <h2>Quick Links</h2>
+        <ul>
+          <li><a href="/emergency">Emergency Help / Aide d'urgence</a></li>
+          <li><a href="/about">About GenevaHelp / À propos</a></li>
+          <li><a href="/suggest">Suggest a resource / Proposer un lieu</a></li>
+        </ul>
+        <p>178 ressources vérifiées. Disponible en 32 langues.</p>
+        <p>178 verified resources. Available in 32 languages.</p>
       </div>
     </div>
     <script type="module" src="/src/main.tsx"></script>
