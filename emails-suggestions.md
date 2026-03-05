@@ -391,9 +391,67 @@ L'équipe GenevaHelp
 
 ---
 
+### #24 — Junior Entreprise Genève (permanence juridique)
+**À :** nam.nguyen@jeg.ch
+**Objet :** Votre suggestion sur GenevaHelp — Junior Entreprise Genève ✓
+
+Bonjour Nam,
+
+Merci pour votre suggestion de la Junior Entreprise Genève sur GenevaHelp !
+
+Après vérification, nous avons ajouté la **permanence juridique gratuite** de la JEG à notre carte, avec les informations vérifiées : adresse (Uni-Mail, salle 5295), horaires (lundi 16h30-18h sur RDV, mercredi 12h15-14h sans RDV) et les domaines de droit couverts.
+
+Note : les services de consulting payants (management, IT, marketing) ne correspondent pas au périmètre de GenevaHelp (ressources gratuites uniquement), mais la permanence juridique gratuite est une excellente ressource !
+
+Merci pour votre contribution !
+
+Cordialement,
+L'équipe GenevaHelp
+
+---
+
+### #32 + #33 — PJE Jonction et PJE Charmilles
+**À :** xab.buendia@gmail.com
+**Objet :** Vos suggestions sur GenevaHelp — PJE Jonction + Charmilles ✓
+
+Bonjour Alex,
+
+Merci pour vos deux suggestions de la Permanence Juridique des Étudiants (PJE) sur GenevaHelp !
+
+Les deux antennes ont été ajoutées à notre carte :
+- **PJE Jonction** (Av. de Sainte-Clotilde 18bis) — lun, mar, jeu, ven 12h15-16h
+- **PJE Charmilles** (Rue de Lyon 99, Le 99) — mercredi 12h15-19h
+
+Merci pour ces contributions précieuses qui rendent l'aide juridique gratuite plus visible à Genève !
+
+Cordialement,
+L'équipe GenevaHelp
+
+---
+
 ## À VÉRIFIER (en attente)
 
-- **#14 — Swiss Pallia Confort** (Fatima BAK — info@swisspalliaconfort.ch) — À vérifier si gratuit
-- **#24 — Junior Entreprise Genève** (Nam Nguyen — nam.nguyen@jeg.ch) — À vérifier si gratuit
-- **#32 — PJE Jonction** (Alex — xab.buendia@gmail.com) — Nouvelle suggestion non traitée
-- **#33 — PJE Charmilles** (Alex — xab.buendia@gmail.com) — Nouvelle suggestion non traitée
+- **#14 — Swiss Pallia Confort** (Fatima BAK — info@swisspalliaconfort.ch) — Service potentiellement gratuit pour personnes à faibles revenus, à confirmer par email
+- **#34 — Bibliothèque de Genthod** — Nouvelle suggestion non traitée
+- **#35 — Vestiaire Social** (doublon ?) — Nouvelle suggestion non traitée
+
+### Email à envoyer pour #14 :
+**À :** info@swisspalliaconfort.ch
+**Objet :** Question concernant Swiss Pallia Confort — GenevaHelp
+
+Bonjour Fatima,
+
+Merci pour votre suggestion de Swiss Pallia Confort sur GenevaHelp, notre carte des ressources gratuites à Genève.
+
+Avant de pouvoir ajouter votre association, nous aurions besoin de quelques précisions :
+
+1. **Vos services sont-ils gratuits** pour les personnes à faibles revenus ? Nous avons compris que vous vous adressiez en priorité aux personnes dont les moyens ne permettent pas de s'offrir un accompagnement à domicile.
+2. Pourriez-vous nous confirmer votre **adresse complète** et un **numéro de téléphone** de contact ?
+3. Quels sont vos **horaires** de disponibilité ?
+
+GenevaHelp recense exclusivement les ressources gratuites. Si vos services sont gratuits (ou sur prix libre) pour les personnes en difficulté financière, nous serions ravis de vous ajouter.
+
+Merci d'avance pour votre retour !
+
+Cordialement,
+L'équipe GenevaHelp

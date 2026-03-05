@@ -964,6 +964,21 @@
     "target_audience": "Kinder von 0 bis 5 Jahren in Begleitung eines nahen Erwachsenen (Elternteil, Großelternteil, Tagesmutter)",
     "access_conditions": "Kostenlos, anonym, ohne Anmeldung. Das Kind bleibt unter der Verantwortung des begleitenden Erwachsenen."
   },
+  "r_0194": {
+    "description": "Kostenlose Rechtsberatung durch fortgeschrittene Jurastudenten der Universität Genf (UNIGE). 30-minütige Beratungen zu Arbeitsrecht, Mietrecht, Familienrecht, Sozialversicherung, Strafrecht und Ausländerrecht. Erste Schweizer Junior Entreprise mit diesem Angebot (seit 2015).",
+    "target_audience": "Jede Person, die Rechtsberatung benötigt",
+    "access_conditions": "Kostenlos, offen für alle. Montag mit Termin, Mittwoch ohne Termin (Reihenfolge des Eintreffens)."
+  },
+  "r_0195": {
+    "description": "Kostenlose und vertrauliche Rechtsberatung durch fortgeschrittene Jurastudenten der Universität Genf. 30-minütige Beratungen durch Gruppen von 3 bis 5 Studenten. Arbeitsrecht, Mietrecht, Familienrecht, Sozialversicherung, Strafrecht und Ausländerrecht.",
+    "target_audience": "Jede Person, die Rechtsberatung benötigt",
+    "access_conditions": "Kostenlos, vertraulich, offen für alle. Terminvereinbarung über pje-ge.ch."
+  },
+  "r_0196": {
+    "description": "Kostenlose und vertrauliche Rechtsberatung durch Jurastudenten der Universität Genf. 45-minütige Beratungen. Neben Rechtsberatung auch Hilfe beim Verfassen von Korrespondenz (in Zusammenarbeit mit Europe Charmilles).",
+    "target_audience": "Jede Person, die Rechtsberatung oder Hilfe beim Briefschreiben benötigt",
+    "access_conditions": "Kostenlos, vertraulich, offen für alle. Terminvereinbarung über pje-ge.ch. Hilfe beim Verfassen von Korrespondenz verfügbar."
+  },
   "tag": {
     "143": "143",
     "147": "147",

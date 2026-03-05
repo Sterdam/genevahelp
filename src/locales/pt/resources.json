@@ -964,6 +964,21 @@
     "target_audience": "Crianças de 0 a 5 anos acompanhadas de um adulto próximo (pai, avó, ama)",
     "access_conditions": "Gratuito, anónimo, sem inscrição. A criança fica sob a responsabilidade do adulto acompanhante."
   },
+  "r_0194": {
+    "description": "Consulta jurídica gratuita oferecida por estudantes avançados de direito da Universidade de Genebra (UNIGE). Consultas de 30 minutos sobre direito do trabalho, arrendamento, família, seguros sociais, penal e de estrangeiros. Primeira Junior Entreprise suíça a oferecer este serviço (desde 2015).",
+    "target_audience": "Qualquer pessoa que necessite de aconselhamento jurídico",
+    "access_conditions": "Gratuito, aberto a todos. Segunda com marcação, quarta sem marcação (por ordem de chegada)."
+  },
+  "r_0195": {
+    "description": "Consultas jurídicas gratuitas e confidenciais por estudantes avançados de direito da Universidade de Genebra. Consultas de 30 minutos por grupos de 3 a 5 estudantes. Direito do trabalho, arrendamento, família, seguros sociais, penal e de estrangeiros.",
+    "target_audience": "Qualquer pessoa que necessite de aconselhamento jurídico",
+    "access_conditions": "Gratuito, confidencial, aberto a todos. Marcação via pje-ge.ch."
+  },
+  "r_0196": {
+    "description": "Consultas jurídicas gratuitas e confidenciais por estudantes de direito da Universidade de Genebra. Consultas de 45 minutos. Além do aconselhamento jurídico, ajuda na redação de correspondência (em colaboração com Europe Charmilles).",
+    "target_audience": "Qualquer pessoa que necessite de aconselhamento jurídico ou ajuda na redação de correspondência",
+    "access_conditions": "Gratuito, confidencial, aberto a todos. Marcação via pje-ge.ch. Ajuda na redação de correspondência disponível."
+  },
   "tag": {
     "143": "143",
     "147": "147",

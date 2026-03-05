@@ -964,6 +964,21 @@
     "target_audience": "Children aged 0-5 accompanied by a close adult (parent, grandparent, childminder)",
     "access_conditions": "Free, anonymous, no registration. Child remains under the responsibility of the accompanying adult."
   },
+  "r_0194": {
+    "description": "Free legal consultation offered by advanced law students from the University of Geneva (UNIGE). 30-minute consultations covering labour law, tenancy law, family law, social insurance, criminal law and immigration law. First Swiss Junior Enterprise to offer this service (since 2015).",
+    "target_audience": "Anyone seeking legal advice",
+    "access_conditions": "Free, open to all. Monday by appointment, Wednesday without appointment (first come, first served)."
+  },
+  "r_0195": {
+    "description": "Free and confidential legal consultations by advanced law students from the University of Geneva. 30-minute consultations by groups of 3 to 5 students. Covers labour law, tenancy law, family law, social insurance, criminal law and immigration law.",
+    "target_audience": "Anyone seeking legal advice",
+    "access_conditions": "Free, confidential, open to all. Appointment via pje-ge.ch website."
+  },
+  "r_0196": {
+    "description": "Free and confidential legal consultations by law students from the University of Geneva. 45-minute consultations. In addition to legal advice, help with writing correspondence (in collaboration with Europe Charmilles).",
+    "target_audience": "Anyone seeking legal advice or help with writing correspondence",
+    "access_conditions": "Free, confidential, open to all. Appointment via pje-ge.ch website. Help with writing correspondence available."
+  },
   "tag": {
     "143": "۱۴۳",
     "147": "۱۴۷",

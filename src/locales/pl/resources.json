@@ -964,6 +964,21 @@
     "target_audience": "Dzieci w wieku 0-5 lat w towarzystwie bliskiej osoby dorosłej (rodzic, dziadek, opiekunka)",
     "access_conditions": "Bezpłatne, anonimowe, bez rejestracji. Dziecko pozostaje pod odpowiedzialnością towarzyszącej osoby dorosłej."
   },
+  "r_0194": {
+    "description": "Bezpłatna porada prawna od zaawansowanych studentów prawa Uniwersytetu Genewskiego (UNIGE). 30-minutowe konsultacje z prawa pracy, najmu, rodzinnego, ubezpieczeń społecznych, karnego i cudzoziemców. Pierwsza Junior Entreprise w Szwajcarii oferująca tę usługę (od 2015).",
+    "target_audience": "Każda osoba potrzebująca porady prawnej",
+    "access_conditions": "Bezpłatne, otwarte dla wszystkich. Poniedziałek na wizytę, środa bez rezerwacji (kolejność zgłoszeń)."
+  },
+  "r_0195": {
+    "description": "Bezpłatne i poufne porady prawne od zaawansowanych studentów prawa Uniwersytetu Genewskiego. 30-minutowe konsultacje w grupach 3-5 studentów. Prawo pracy, najmu, rodzinne, ubezpieczeń społecznych, karne i cudzoziemców.",
+    "target_audience": "Każda osoba potrzebująca porady prawnej",
+    "access_conditions": "Bezpłatne, poufne, otwarte dla wszystkich. Umówienie wizyty przez pje-ge.ch."
+  },
+  "r_0196": {
+    "description": "Bezpłatne i poufne porady prawne od studentów prawa Uniwersytetu Genewskiego. 45-minutowe konsultacje. Oprócz porad prawnych, pomoc w redagowaniu korespondencji (we współpracy z Europe Charmilles).",
+    "target_audience": "Każda osoba potrzebująca porady prawnej lub pomocy w pisaniu korespondencji",
+    "access_conditions": "Bezpłatne, poufne, otwarte dla wszystkich. Umówienie wizyty przez pje-ge.ch. Pomoc w redagowaniu korespondencji."
+  },
   "tag": {
     "143": "143",
     "147": "147",

@@ -964,6 +964,21 @@
     "target_audience": "0-5 yaş arası yakın bir yetişkin eşliğinde çocuklar (ebeveyn, büyükanne/baba, bakıcı)",
     "access_conditions": "Ücretsiz, anonim, kayıtsız. Çocuk eşlik eden yetişkinin sorumluluğundadır."
   },
+  "r_0194": {
+    "description": "Cenevre Üniversitesi (UNIGE) ileri düzey hukuk öğrencileri tarafından sunulan ücretsiz hukuki danışmanlık. İş hukuku, kira hukuku, aile hukuku, sosyal sigorta, ceza hukuku ve yabancılar hukuku konularında 30 dakikalık danışmanlık. Bu hizmeti sunan ilk İsviçre Junior Entreprise (2015'ten beri).",
+    "target_audience": "Hukuki danışmanlığa ihtiyaç duyan herkes",
+    "access_conditions": "Ücretsiz, herkese açık. Pazartesi randevulu, Çarşamba randevusuz (sıra ile)."
+  },
+  "r_0195": {
+    "description": "Cenevre Üniversitesi ileri düzey hukuk öğrencileri tarafından ücretsiz ve gizli hukuki danışmanlık. 3-5 öğrenci grubuyla 30 dakikalık danışmanlık. İş, kira, aile hukuku, sosyal sigorta, ceza ve yabancılar hukuku.",
+    "target_audience": "Hukuki danışmanlığa ihtiyaç duyan herkes",
+    "access_conditions": "Ücretsiz, gizli, herkese açık. pje-ge.ch üzerinden randevu."
+  },
+  "r_0196": {
+    "description": "Cenevre Üniversitesi hukuk öğrencileri tarafından ücretsiz ve gizli hukuki danışmanlık. 45 dakikalık danışmanlık. Hukuki danışmanlığın yanı sıra yazışma yazımında yardım (Europe Charmilles ile işbirliği).",
+    "target_audience": "Hukuki danışmanlığa veya yazışma yazımında yardıma ihtiyaç duyan herkes",
+    "access_conditions": "Ücretsiz, gizli, herkese açık. pje-ge.ch üzerinden randevu. Yazışma yazımında yardım mevcut."
+  },
   "tag": {
     "143": "143",
     "147": "147",
