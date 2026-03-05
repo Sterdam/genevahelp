@@ -8,7 +8,6 @@ import {
   Flag,
   Search,
   CheckCircle,
-  Clock,
   AlertTriangle,
   X,
   Trash2,
@@ -23,11 +22,13 @@ import {
   EyeOff,
   Eye,
   Save,
+  MessageCircle,
 } from 'lucide-react'
 import { login, logout, isAuthenticated } from '../lib/auth'
 import { getReports, resolveReport, dismissReport, deleteReport, REPORT_REASONS } from '../lib/reports'
-import { verifyResource, getAllVerifications, getFreshness } from '../lib/verification'
+import { verifyResource, getFreshness } from '../lib/verification'
 import { getSuggestions, approveSuggestion, rejectSuggestion, deleteSuggestion, type ResourceSuggestion } from '../lib/suggestions'
+import { getAllComments, approveComment, rejectComment, deleteComment, type Comment as GuestComment } from '../lib/comments'
 import {
   getAllAdminResources,
   getHiddenIds,
@@ -40,7 +41,7 @@ import {
 import { CATEGORY_CONFIG } from '../lib/constants'
 import type { Resource, ResourceCategory, Report } from '../lib/types'
 
-type Tab = 'dashboard' | 'resources' | 'reports' | 'suggestions'
+type Tab = 'dashboard' | 'resources' | 'reports' | 'suggestions' | 'comments'
 
 export function AdminPage() {
   const [authed, setAuthed] = useState(isAuthenticated())
@@ -128,21 +129,26 @@ function AdminDashboard({ onLogout }: { onLogout: () => void }) {
   const [tab, setTab] = useState<Tab>('dashboard')
   const [reports, setReports] = useState<Report[]>(getReports())
   const [suggestions, setSuggestions] = useState<ResourceSuggestion[]>([])
+  const [comments, setComments] = useState<GuestComment[]>([])
 
   useEffect(() => {
     getSuggestions().then(setSuggestions)
+    getAllComments().then(setComments)
   }, [])
 
   const refreshReports = () => setReports(getReports())
   const refreshSuggestions = () => { getSuggestions().then(setSuggestions) }
+  const refreshComments = () => { getAllComments().then(setComments) }
 
   const pendingReports = reports.filter((r) => r.status === 'pending')
   const pendingSuggestions = suggestions.filter((s) => s.status === 'pending')
+  const pendingComments = comments.filter((c) => c.status === 'pending')
 
   const tabs: { id: Tab; label: string; icon: typeof LayoutDashboard; count?: number }[] = [
     { id: 'dashboard', label: t('admin.dashboard'), icon: LayoutDashboard },
     { id: 'resources', label: t('admin.resources'), icon: Database },
     { id: 'suggestions', label: t('admin.suggestions'), icon: Plus, count: pendingSuggestions.length },
+    { id: 'comments', label: t('admin.comments'), icon: MessageCircle, count: pendingComments.length },
     { id: 'reports', label: t('admin.reports'), icon: Flag, count: pendingReports.length },
   ]
 
@@ -192,6 +198,7 @@ function AdminDashboard({ onLogout }: { onLogout: () => void }) {
           <DashboardView
             pendingCount={pendingReports.length}
             pendingSuggestionsCount={pendingSuggestions.length}
+            pendingCommentsCount={pendingComments.length}
           />
         )}
         {tab === 'resources' && <ResourcesView />}
@@ -201,6 +208,14 @@ function AdminDashboard({ onLogout }: { onLogout: () => void }) {
             onApprove={async (id) => { await approveSuggestion(id); refreshSuggestions() }}
             onReject={async (id) => { await rejectSuggestion(id); refreshSuggestions() }}
             onDelete={async (id) => { await deleteSuggestion(id); refreshSuggestions() }}
+          />
+        )}
+        {tab === 'comments' && (
+          <CommentsView
+            comments={comments}
+            onApprove={async (id) => { await approveComment(id); refreshComments() }}
+            onReject={async (id) => { await rejectComment(id); refreshComments() }}
+            onDelete={async (id) => { await deleteComment(id); refreshComments() }}
           />
         )}
         {tab === 'reports' && (
@@ -219,22 +234,20 @@ function AdminDashboard({ onLogout }: { onLogout: () => void }) {
 function DashboardView({
   pendingCount,
   pendingSuggestionsCount,
+  pendingCommentsCount,
 }: {
   pendingCount: number
   pendingSuggestionsCount: number
+  pendingCommentsCount: number
 }) {
   const { t } = useTranslation()
   const allResources = getAllAdminResources()
   const totalResources = allResources.length
-  const verifications = getAllVerifications()
-  const verifiedCount = allResources.filter((r) => verifications[r.id]).length
-  const unverifiedCount = totalResources - verifiedCount
-
   const stats = [
     { label: t('admin.totalResources'), value: totalResources, icon: Database, color: 'bg-blue-50 text-blue-600' },
     { label: t('admin.pendingSuggestions'), value: pendingSuggestionsCount, icon: Plus, color: 'bg-purple-50 text-purple-600' },
+    { label: t('admin.pendingComments'), value: pendingCommentsCount, icon: MessageCircle, color: 'bg-purple-50 text-purple-600' },
     { label: t('admin.pendingReports'), value: pendingCount, icon: Flag, color: 'bg-red-50 text-red-600' },
-    { label: t('admin.needsVerification'), value: unverifiedCount, icon: Clock, color: 'bg-amber-50 text-amber-600' },
   ]
 
   return (
@@ -989,6 +1002,129 @@ function SuggestionCard({
                 </p>
               )}
             </div>
+          </div>
+        </div>
+      )}
+    </div>
+  )
+}
+
+/* ========== Comments View (Guestbook) ========== */
+
+function CommentsView({
+  comments,
+  onApprove,
+  onReject,
+  onDelete,
+}: {
+  comments: GuestComment[]
+  onApprove: (id: string) => void
+  onReject: (id: string) => void
+  onDelete: (id: string) => void
+}) {
+  const { t, i18n } = useTranslation()
+  const pending = comments.filter((c) => c.status === 'pending')
+  const approved = comments.filter((c) => c.status === 'approved')
+  const rejected = comments.filter((c) => c.status === 'rejected')
+
+  if (comments.length === 0) {
+    return (
+      <div className="max-w-4xl mx-auto text-center py-12">
+        <MessageCircle size={40} className="text-gray-300 mx-auto mb-3" />
+        <p className="text-gray-500">{t('admin.noComments')}</p>
+      </div>
+    )
+  }
+
+  const CommentCard = ({ comment: c }: { comment: GuestComment }) => {
+    const isPending = c.status === 'pending'
+    return (
+      <div className="bg-white rounded-lg border border-gray-200 p-3">
+        <div className="flex items-start justify-between gap-3">
+          <div className="min-w-0 flex-1">
+            <div className="flex items-center gap-2 mb-1">
+              <p className="text-xs font-medium text-gray-500">
+                {c.author_name || t('guestbook.anonymous')}
+              </p>
+              <span className="text-gray-300">·</span>
+              <span className="text-xs text-gray-400">
+                {new Date(c.created_at).toLocaleDateString(i18n.language)}
+              </span>
+              <span className={`text-xs px-2 py-0.5 rounded-full font-medium ${
+                c.status === 'approved' ? 'bg-green-100 text-green-700' :
+                c.status === 'rejected' ? 'bg-red-100 text-red-700' :
+                'bg-purple-100 text-purple-700'
+              }`}>
+                {c.status === 'approved' ? t('adminExtra.approved') :
+                 c.status === 'rejected' ? t('adminExtra.rejected') :
+                 t('adminExtra.pending')}
+              </span>
+            </div>
+            <p className="text-sm text-gray-700 leading-relaxed">{c.message}</p>
+          </div>
+
+          {isPending ? (
+            <div className="flex items-center gap-1 shrink-0">
+              <button
+                onClick={() => onApprove(c.id)}
+                className="px-2.5 py-1 text-xs font-medium text-green-700 bg-green-50 hover:bg-green-100 rounded-lg transition-colors"
+              >
+                {t('adminExtra.approve')}
+              </button>
+              <button
+                onClick={() => onReject(c.id)}
+                className="px-2.5 py-1 text-xs font-medium text-red-600 bg-red-50 hover:bg-red-100 rounded-lg transition-colors"
+              >
+                {t('adminExtra.reject')}
+              </button>
+            </div>
+          ) : (
+            <button
+              onClick={() => onDelete(c.id)}
+              className="p-1.5 text-gray-400 hover:text-red-500 hover:bg-red-50 rounded-lg transition-colors shrink-0"
+            >
+              <Trash2 size={14} />
+            </button>
+          )}
+        </div>
+      </div>
+    )
+  }
+
+  return (
+    <div className="max-w-4xl mx-auto space-y-6">
+      {pending.length > 0 && (
+        <div>
+          <h3 className="text-sm font-semibold text-gray-900 mb-2 flex items-center gap-2">
+            <MessageCircle size={14} className="text-purple-500" />
+            {t('admin.pendingComments')} ({pending.length})
+          </h3>
+          <div className="space-y-2">
+            {pending.map((c) => <CommentCard key={c.id} comment={c} />)}
+          </div>
+        </div>
+      )}
+
+      {approved.length > 0 && (
+        <div>
+          <h3 className="text-sm font-semibold text-gray-500 mb-2 flex items-center gap-2">
+            <CheckCircle size={14} />
+            {t('admin.approvedComments')} ({approved.length})
+          </h3>
+          <div className="space-y-2 opacity-60">
+            {approved.map((c) => <CommentCard key={c.id} comment={c} />)}
+          </div>
+        </div>
+      )}
+
+      {rejected.length > 0 && (
+        <div>
+          <h3 className="text-sm font-semibold text-gray-400 mb-2 flex items-center gap-2">
+            <X size={14} />
+            {t('admin.rejectedComments')} ({rejected.length})
+          </h3>
+          <div className="space-y-2 opacity-40">
+            {rejected.map((c) => <CommentCard key={c.id} comment={c} />)}
           </div>
         </div>
       )}

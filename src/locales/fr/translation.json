@@ -172,6 +172,11 @@
     "pendingSuggestions": "Suggestions en attente",
     "reviewedSuggestions": "Suggestions traitées",
     "noSuggestions": "Aucune suggestion",
+    "comments": "Commentaires",
+    "pendingComments": "Commentaires en attente",
+    "approvedComments": "Commentaires approuves",
+    "rejectedComments": "Commentaires rejetes",
+    "noComments": "Aucun commentaire",
     "allResources": "Toutes les ressources",
     "searchResources": "Rechercher une ressource..."
   },
@@ -242,6 +247,18 @@
     "shelters": "Hébergements",
     "food": "Alimentation",
     "callNow": "Appeler maintenant"
+  },
+  "guestbook": {
+    "title": "Livre d'or",
+    "subtitle": "Votre avis compte ! Laissez un message, une experience ou un remerciement.",
+    "namePlaceholder": "Votre nom ou pseudo (optionnel)",
+    "messagePlaceholder": "Votre message...",
+    "submit": "Envoyer",
+    "thankYou": "Merci pour votre message !",
+    "willReview": "Il sera visible apres validation par un administrateur.",
+    "writeAnother": "Ecrire un autre message",
+    "moderationNotice": "Les messages sont publies apres validation",
+    "anonymous": "Anonyme"
   },
   "stats": {
     "visits": "visites"

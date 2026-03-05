@@ -172,6 +172,11 @@
     "pendingSuggestions": "Pending suggestions",
     "reviewedSuggestions": "Reviewed suggestions",
     "noSuggestions": "No suggestions",
+    "comments": "Comments",
+    "pendingComments": "Pending comments",
+    "approvedComments": "Approved comments",
+    "rejectedComments": "Rejected comments",
+    "noComments": "No comments yet",
     "allResources": "All resources",
     "searchResources": "Search resources..."
   },
@@ -242,6 +247,18 @@
     "shelters": "Shelters",
     "food": "Food Aid",
     "callNow": "Call now"
+  },
+  "guestbook": {
+    "title": "Guestbook",
+    "subtitle": "Your opinion matters! Leave a message, share an experience or say thanks.",
+    "namePlaceholder": "Your name or alias (optional)",
+    "messagePlaceholder": "Your message...",
+    "submit": "Send",
+    "thankYou": "Thank you for your message!",
+    "willReview": "It will be visible after admin review.",
+    "writeAnother": "Write another message",
+    "moderationNotice": "Messages are published after review",
+    "anonymous": "Anonymous"
   },
   "stats": {
     "visits": "visits"

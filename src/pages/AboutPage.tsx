@@ -1,5 +1,6 @@
 import { useTranslation } from 'react-i18next'
 import { Heart, MapPin, Github, Users, Eye, Coffee } from 'lucide-react'
+import { Guestbook } from '../components/Guestbook'
 import { SEOHead } from '../components/seo/SEOHead'
 import { canonicalUrl } from '../lib/seo-utils'
 import { useVisitCounter } from '../hooks/useVisitCounter'
@@ -81,6 +82,10 @@ export function AboutPage() {
             <p className="text-xs text-gray-400 mt-3">
               {t('about.coffeeDisclaimer')}
             </p>
+          </div>
+
+          <div className="bg-white rounded-xl p-6 border border-gray-200">
+            <Guestbook />
           </div>
 
           <div className="text-center text-sm text-gray-400 py-4 space-y-1">
