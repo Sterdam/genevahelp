@@ -175,9 +175,9 @@
     "access_conditions": "Otwarte dla wszystkich"
   },
   "r_0036": {
-    "description": "Bezpłatna dystrybucja odzieży dla osób w trudnej sytuacji życiowej. Odzież dla mężczyzn, kobiet i dzieci, stosownie do pory roku.",
-    "target_audience": "Osoby w trudnej sytuacji życiowej",
-    "access_conditions": "Za okazaniem zaświadczenia z ośrodka pomocy społecznej"
+    "description": "Bezpłatna dystrybucja odzieży, obuwia i bielizny domowej dla osób w trudnej sytuacji. Zarządzane wspólnie przez Protestanckie Centrum Społeczne (CSP), Caritas Genewa i Genewski Czerwony Krzyż.",
+    "target_audience": "Osoby w trudnej sytuacji",
+    "access_conditions": "Za okazaniem kuponu z ośrodka pomocy społecznej, CSP, Caritas lub Czerwonego Krzyża"
   },
   "r_0037": {
     "description": "Kursy francuskiego jako języka obcego dla dorosłych migrantów. Poziomy od początkującego do zaawansowanego. Kursy dzienne i wieczorowe.",
@@ -245,9 +245,9 @@
     "access_conditions": "Przyjęcie bez umawiania się od poniedziałku do piątku od 8:00 do 15:30"
   },
   "r_0050": {
-    "description": "Miejsce przyjęcia, wsparcia i reintegracji zawodowej dla osób w trudnej sytuacji życiowej. Bezpłatne śniadania (150-200/tydzień), zajęcia socjalne i staże reintegracyjne.",
-    "target_audience": "Osoby w trudnej sytuacji życiowej",
-    "access_conditions": "Bez warunków, wolny dostęp"
+    "description": "Centrum przyjęć, wsparcia i reintegracji społeczno-zawodowej dla osób w trudnej sytuacji. Bezpłatne śniadania (150-200/tydzień), ciepłe posiłki w poniedziałki i czwartki o 10:00, pasta party co drugą niedzielę (17:00-19:30).",
+    "target_audience": "Osoby w trudnej sytuacji",
+    "access_conditions": "Bez warunków, wolny dostęp. Ciepłe posiłki pn i czw o 10:00. Pasta party co drugą niedz. 17:00-19:30."
   },
   "r_0051": {
     "description": "Miejsce przyjęcia, rekreacji, spotkań i wypoczynku dla wszystkich grup wiekowych, wszystkich kultur i środowisk społecznych. Zajęcia kulturalne i socjalne.",
@@ -415,9 +415,9 @@
     "access_conditions": "Zadzwoń pod bezpłatny numer 0800 22 22 10 aby uzyskać miejsce, przyjęcie bezwarunkowe"
   },
   "r_0084": {
-    "description": "Bezwarunkowy dzienny ośrodek przyjęć w Temple de la Servette dla osób w trudnej sytuacji życiowej. Posiłki solidarnościowe, ciepłe napoje, pisarz publiczny (CV, listy), warsztaty francuskiego, angielskiego i informatyki, bezpłatne konsultacje prawne.",
-    "target_audience": "Osoby w trudnej sytuacji życiowej, migranci, bezdomni",
-    "access_conditions": "Bez warunków, przyjęcie bezwarunkowe"
+    "description": "Bezwarunkowe dzienne przyjęcie w Świątyni Servette dla osób w trudnej sytuacji. Solidarne posiłki, ciepłe napoje, publiczny pisarz (CV, listy), warsztaty z francuskiego, angielskiego i informatyki. Bezpłatna pomoc prawna przy Rue de Berne 48 (pon 10-12, śr 17:30-19:30, czw 10-12).",
+    "target_audience": "Osoby w trudnej sytuacji, migranci, bezdomni",
+    "access_conditions": "Bez warunków, bezwarunkowe przyjęcie"
   },
   "r_0085": {
     "description": "Kultowe kąpielisko publiczne nad brzegiem Jeziora Genewskiego. Plaża piaszczysta, baseny, skocznia (3-10 m), sauna i hammam, popularna kawiarnia. Bardzo przystępna cena wstępu (2 CHF latem, 1 CHF zimą).",
@@ -555,9 +555,9 @@
     "access_conditions": "Bezpłatnie, bez zapisów, dzieci z opiekunem"
   },
   "r_0112": {
-    "description": "Miejsce spotkań rodziców z dziećmi od 0 do 4 lat. Przestrzeń do swobodnej zabawy, wymiana między rodzicami i wsparcie rodzicielstwa w ciepłej atmosferze.",
-    "target_audience": "Rodzice i dzieci od 0 do 4 lat",
-    "access_conditions": "Bezpłatnie, bez zapisów, dziecko w towarzystwie rodzica"
+    "description": "Profesjonalna opieka nad dziećmi w domu od Genewskiego Czerwonego Krzyża. Przeszkolona opiekunka przybywa w ciągu 4 godzin. Zlecenia 3-10 godzin, 7 dni w tygodniu. Usługa płatna: 5 CHF/h (z dofinansowaniem) lub 10 CHF/h (bez dofinansowania).",
+    "target_audience": "Rodziny potrzebujące opieki nad dziećmi w domu",
+    "access_conditions": "Płatne: 5 CHF/h (z dofinansowaniem), 10 CHF/h (bez dofinansowania). +2 CHF za dodatkowe dziecko."
   },
   "r_0113": {
     "description": "Przestrzeń do zabawy i usługa wypożyczania zabawek i gier planszowych dla dzieci, rodzin i dorosłych. Duże gry i gry na świeżym powietrzu dostępne na imprezy i wydarzenia.",
@@ -888,6 +888,81 @@
     "description": "Osiedlowa wypożyczalnia zabawek przyjmująca dzieci, rodziców i instytucje do gry na miejscu i wypożyczania gier. Wypożyczanie z abonamentem rodzinnym (30 CHF/rok).",
     "target_audience": "Dzieci, rodziny, wszyscy",
     "access_conditions": "Bezpłatna gra na miejscu. Wypożyczanie z rocznym abonamentem rodzinnym (30 CHF)."
+  },
+  "r_0179": {
+    "description": "Feministyczne i samorządne stowarzyszenie oferujące przestrzeń dla rodziców i niemowląt (Marmotricité) dla dzieci w wieku 0-1 lat. Wsparcie psychomotoryczne w przyjaznym otoczeniu, ze szczególną uwagą dla rodzin w trudnej sytuacji.",
+    "target_audience": "Rodzice i niemowlęta w wieku 0-1 lat",
+    "access_conditions": "Wolna cena, szczególna uwaga dla rodzin w trudnej sytuacji"
+  },
+  "r_0180": {
+    "description": "Wielokulturowe miejsce spotkań otwarte dla wszystkich. Bezpłatne posiłki (zupa, ciasta, ciepłe posiłki, śniadanie), dystrybucja toreb z żywnością, bezpłatne wsparcie socjalne i kursy francuskiego.",
+    "target_audience": "Każda osoba potrzebująca",
+    "access_conditions": "Bezpłatne przyjęcie, otwarte dla wszystkich, bez warunków. Torby z żywnością po zapisaniu."
+  },
+  "r_0181": {
+    "description": "Stowarzyszenie przyjmujące kobiety w skrajnie trudnej sytuacji. Ciepłe posiłki, kawa, usługi higieniczne (prysznice, pralnia, fryzjer), artykuły pierwszej potrzeby, wsparcie socjalne, przestrzeń do wysłuchania i miesięczne wyjścia kulturalne.",
+    "target_audience": "Kobiety w skrajnie trudnej sytuacji, bezdomne kobiety, kobiety bez dokumentów",
+    "access_conditions": "Niskoprogowe przyjęcie, bez warunków, bez rezerwacji."
+  },
+  "r_0182": {
+    "description": "Historyczna biblioteka publiczna z ponad 200 miejscami pracy, bezpłatnym WiFi, komputerami o wolnym dostępie i czytelnią otwartą wieczorem. Bezpłatna rejestracja do wypożyczania.",
+    "target_audience": "Ogół społeczeństwa: studenci, badacze, czytelnicy",
+    "access_conditions": "Bezpłatne wejście. Bezpłatna rejestracja z dowodem tożsamości do wypożyczania."
+  },
+  "r_0183": {
+    "description": "Restauracja socjalna Miasta Genewy z bezpłatnymi posiłkami (śniadanie i ciepłe posiłki) i podstawowym wsparciem socjalnym.",
+    "target_audience": "Osoby w trudnej sytuacji",
+    "access_conditions": "Otwarte cały rok bez rejestracji. Bezpłatne i poufne. Bilet na posiłek od godz. 8."
+  },
+  "r_0184": {
+    "description": "Biuro Informacji Społecznej (BIS) przyjmuje, informuje i kieruje każdą osobę poszukującą informacji o dostępie do świadczeń socjalnych. Porady w sprawach finansowych, zadłużenia, mieszkania i zdrowia.",
+    "target_audience": "Każda osoba mieszkająca w Genewie, niezależnie od statusu prawnego",
+    "access_conditions": "Bezpłatne, anonimowe, bez rezerwacji, otwarte dla wszystkich. Gwarantowana poufność."
+  },
+  "r_0185": {
+    "description": "Wielojęzyczna przestrzeń przyjęć i porad dla rodziców przed i po porodzie. Ważenie dziecka, fotel do karmienia, masaż niemowlęcy, noszenie, psychomotoryka. W ludotece Versoix.",
+    "target_audience": "Kobiety w ciąży, rodzice z niemowlętami i małymi dziećmi, rodziny obcojęzyczne",
+    "access_conditions": "Bezpłatne, bez rejestracji, wolny dostęp. Zamknięte w czasie ferii szkolnych."
+  },
+  "r_0186": {
+    "description": "Przestrzeń przyjęć i wsparcia dla kobiet w ciąży i rodziców z dzieckiem do 1 roku. Wolne sesje z położnymi, psychomotoryczka w poniedziałki, warsztaty z francuskiego dla matek i kursy przygotowania do porodu z tłumaczami.",
+    "target_audience": "Kobiety w ciąży, rodzice z dzieckiem do 1 roku, rodziny migranckie",
+    "access_conditions": "Bezpłatne, wolne sesje bez rejestracji. Rejestracja wymagana na warsztaty z francuskiego."
+  },
+  "r_0187": {
+    "description": "Co drugą środę położna przyjmuje rodziców w ludotece Belle-Terre, aby porozmawiać, zadać pytania, zważyć dziecko i pobawić się. Przekąska od ludoteki.",
+    "target_audience": "Kobiety w ciąży, rodzice z niemowlętami i małymi dziećmi",
+    "access_conditions": "Bezpłatne, bez rejestracji. Co drugą środę, poza feriami szkolnymi."
+  },
+  "r_0188": {
+    "description": "Wyspecjalizowane centrum wysłuchania, poradnictwa i wsparcia w zakresie rasizmu anty-czarnego i dyskryminacji, zarządzane przez UPAF we współpracy z CRAN i związkiem SYNA. W przestrzeni AfrikaLAB.",
+    "target_audience": "Ofiary rasizmu anty-czarnego i dyskryminacji rasowej",
+    "access_conditions": "Bezpłatna usługa wysłuchania i poradnictwa dla ofiar rasizmu anty-czarnego"
+  },
+  "r_0189": {
+    "description": "Stowarzyszenie założone przez rodziców w 2007 r., ponad 1200 członków. Usługi towarzyszenia, grupy umiejętności społecznych, spotkania rodziców, szkolenia, konferencje, grupa rodzeństwa, coaching zawodowy i Centrum CASA.",
+    "target_audience": "Osoby z autyzmem (z diagnozą lub bez), rodziny, rodzeństwo, profesjonaliści",
+    "access_conditions": "Otwarte dla osób z autyzmem, rodzin i profesjonalistów. Możliwość członkostwa."
+  },
+  "r_0190": {
+    "description": "Bezpłatne toalety publiczne na Place du Bourg-de-Four w starym mieście Genewy. Kabiny dla osób z niepełnosprawnością dostępne z kluczem Eurokey (dostępny w Pro Infirmis Genewa).",
+    "target_audience": "Ogół społeczeństwa",
+    "access_conditions": "Bezpłatny wolny dostęp. Kabiny dla niepełnosprawnych z kluczem Eurokey (Pro Infirmis: 058 775 31 08)."
+  },
+  "r_0191": {
+    "description": "Biblioteka miejska Miasta Genewy z kolekcjami dla dorosłych i młodzieży, nasionoteka, bezpłatne WiFi, komputery i wydarzenia kulturalne.",
+    "target_audience": "Ogół społeczeństwa (dorośli i młodzież)",
+    "access_conditions": "Bezpłatny wolny dostęp. Bezpłatna rejestracja do wypożyczania."
+  },
+  "r_0192": {
+    "description": "Przestrzeń przyjęć, odpoczynku i spotkań dla uchodźców. Wsparcie w procedurach administracyjnych, informacje o pozwoleniach, mieszkaniu i edukacji, przestrzeń komputerowa i działania społeczno-kulturalne.",
+    "target_audience": "Uchodźcy w Genewie",
+    "access_conditions": "Otwarte dla uchodźców w Genewie. Wolny dostęp bez rejestracji."
+  },
+  "r_0193": {
+    "description": "Bezpłatna, anonimowa przestrzeń bez rejestracji dla dzieci w wieku 0-5 lat w towarzystwie bliskiej osoby dorosłej. Wysłuchanie i wsparcie dla dziecka i towarzyszącej osoby dorosłej. Pojemność: 20 osób.",
+    "target_audience": "Dzieci w wieku 0-5 lat w towarzystwie bliskiej osoby dorosłej (rodzic, dziadek, opiekunka)",
+    "access_conditions": "Bezpłatne, anonimowe, bez rejestracji. Dziecko pozostaje pod odpowiedzialnością towarzyszącej osoby dorosłej."
   },
   "tag": {
     "143": "143",

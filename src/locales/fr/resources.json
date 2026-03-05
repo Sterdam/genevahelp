@@ -175,9 +175,9 @@
     "access_conditions": "Ouvert à tous"
   },
   "r_0036": {
-    "description": "Distribution gratuite de vêtements pour les personnes en situation de précarité. Vêtements pour hommes, femmes et enfants, selon les saisons.",
+    "description": "Distribution gratuite de vêtements, chaussures et linge de maison pour les personnes en situation de précarité. Géré conjointement par le Centre social protestant (CSP), Caritas Genève et la Croix-Rouge genevoise.",
     "target_audience": "Personnes en situation de précarité",
-    "access_conditions": "Sur présentation d'une attestation d'un service social"
+    "access_conditions": "Sur présentation d'un bon délivré par un service social, le CSP, Caritas Genève ou la Croix-Rouge genevoise"
   },
   "r_0037": {
     "description": "Cours de français langue étrangère pour adultes migrants. Niveaux débutant à avancé. Cours en journée et en soirée.",
@@ -245,9 +245,9 @@
     "access_conditions": "Accueil sans rendez-vous du lundi au vendredi de 8h à 15h30"
   },
   "r_0050": {
-    "description": "Lieu d'accueil, de soutien et de réinsertion socioprofessionnelle pour personnes en situation de précarité. Petits-déjeuners gratuits (150-200/semaine), activités sociales et stages de réinsertion.",
+    "description": "Lieu d'accueil, de soutien et de réinsertion socioprofessionnelle pour personnes en situation de précarité. Petits-déjeuners gratuits (150-200/semaine), repas chauds le lundi et jeudi à 10h, pasta party un dimanche sur deux (17h-19h30), activités sociales et stages de réinsertion.",
     "target_audience": "Personnes en situation de précarité",
-    "access_conditions": "Sans conditions, accueil libre"
+    "access_conditions": "Sans conditions, accueil libre. Repas chauds lundi et jeudi à 10h. Pasta party un dimanche sur deux 17h-19h30."
   },
   "r_0051": {
     "description": "Lieu d'accueil, de loisirs, de rencontres et de détente pour tous les âges, toutes les cultures et tous les milieux sociaux. Activités culturelles et sociales.",
@@ -415,7 +415,7 @@
     "access_conditions": "Appeler le numéro gratuit 0800 22 22 10 pour obtenir une place, accueil inconditionnel"
   },
   "r_0084": {
-    "description": "Lieu d'accueil de jour inconditionnel au Temple de la Servette pour les personnes en situation de précarité. Repas solidaires, boissons chaudes, écrivain public (CV, lettres), ateliers de français, anglais et informatique, consultations juridiques gratuites.",
+    "description": "Lieu d'accueil de jour inconditionnel au Temple de la Servette pour les personnes en situation de précarité. Repas solidaires, boissons chaudes, écrivain public (CV, lettres), ateliers de français, anglais et informatique. Permanence juridique gratuite au 48 rue de Berne (lun 10h-12h, mer 17h30-19h30, jeu 10h-12h) : droit des étrangers, famille, travail, assurances sociales, pénal.",
     "target_audience": "Personnes en situation de précarité, migrants, sans-abri",
     "access_conditions": "Sans conditions, accueil inconditionnel"
   },
@@ -555,9 +555,9 @@
     "access_conditions": "Gratuit, sans inscription, enfants accompagnés"
   },
   "r_0112": {
-    "description": "Lieu d'accueil parents-enfants de 0 à 4 ans. Espace de jeu libre, échanges entre parents et soutien à la parentalité dans un cadre chaleureux.",
-    "target_audience": "Parents et enfants de 0 à 4 ans",
-    "access_conditions": "Gratuit, sans inscription, enfant accompagné d'un parent"
+    "description": "Service professionnel de garde d'enfants à domicile et babysitting de la Croix-Rouge genevoise. Une intervenante formée se déplace au domicile de la famille sous 4 heures. Missions de 3 à 10 heures, 7j/7. Service payant : 5 CHF/h (avec subside) ou 10 CHF/h (sans subside). Propose aussi des « bons de respiration » (4h de garde pour 10 CHF).",
+    "target_audience": "Familles avec enfants ayant besoin de garde à domicile",
+    "access_conditions": "Service payant : 5 CHF/h (avec subside), 10 CHF/h (sans subside). +2 CHF par enfant supplémentaire. Réservation par téléphone."
   },
   "r_0113": {
     "description": "Espace de jeux et de prêt de jouets et jeux de société pour enfants, familles et adultes. Jeux géants et d'extérieur disponibles pour les fêtes et animations.",
@@ -888,6 +888,81 @@
     "description": "Ludothèque de quartier accueillant enfants, parents et institutions pour jouer sur place et emprunter des jeux. Emprunt avec abonnement famille (30 CHF/an).",
     "target_audience": "Enfants, familles, tout public",
     "access_conditions": "Jeu sur place gratuit. Emprunt avec abonnement famille annuel (30 CHF)."
+  },
+  "r_0179": {
+    "description": "Association féministe et autogérée proposant un espace d'accueil parent-bébé (Marmotricité) pour les enfants de 0 à 1 an et leurs parents. Accompagnement psychomoteur des bébés dans un cadre collectif et convivial, avec une attention particulière aux populations en situation de précarité.",
+    "target_audience": "Parents et bébés de 0 à 1 an",
+    "access_conditions": "Prix libre, accueil avec attention particulière aux familles en situation de précarité"
+  },
+  "r_0180": {
+    "description": "Lieu d'accueil et de rencontre multiculturel ouvert à tous. Repas gratuits (soupe, pâtisseries, repas chauds, petit-déjeuner), distribution de sacs de nourriture, accompagnement social gratuit et cours de français.",
+    "target_audience": "Toute personne dans le besoin",
+    "access_conditions": "Accueil gratuit, ouvert à tous, sans conditions. Distribution de sacs de nourriture sur inscription."
+  },
+  "r_0181": {
+    "description": "Association d'utilité publique accueillant les femmes en situation de grande précarité. Repas chauds, café, prestations d'hygiène (douches, buanderie, coiffure), produits de première nécessité, accompagnement social par des travailleuses sociales, espace d'écoute et sorties culturelles mensuelles.",
+    "target_audience": "Femmes en situation de grande précarité, femmes sans-abri, femmes sans-papiers",
+    "access_conditions": "Accueil bas-seuil, sans conditions, sans rendez-vous. Ouvert à toute femme en situation de précarité."
+  },
+  "r_0182": {
+    "description": "Bibliothèque publique historique avec plus de 200 places de travail, WiFi gratuit, postes informatiques en libre accès et salle de lecture ouverte en soirée. Inscription gratuite pour l'emprunt. Accès à plus de 30 millions de documents.",
+    "target_audience": "Tout public : étudiants, chercheurs, lecteurs",
+    "access_conditions": "Entrée libre et gratuite, ouverte à tous. Inscription gratuite avec pièce d'identité pour l'emprunt."
+  },
+  "r_0183": {
+    "description": "Restaurant social de la Ville de Genève offrant des repas gratuits (petit-déjeuner et repas chauds) et un accompagnement social de première ligne. Accueil de jour avec écoute, soutien social et orientation vers d'autres partenaires sociaux. Gratuit et confidentiel.",
+    "target_audience": "Personnes en situation de précarité",
+    "access_conditions": "Ouvert toute l'année sans inscription. Gratuit et confidentiel. Ticket pour repas chauds dès 08h00."
+  },
+  "r_0184": {
+    "description": "Le BIS accueille, informe et oriente toute personne souhaitant des renseignements sur l'accès aux prestations sociales. Informations et conseils sur les problèmes financiers, d'endettement, de logement et de santé. Accès à des travailleurs sociaux, psychologues et juristes.",
+    "target_audience": "Toute personne résidant à Genève, quel que soit son statut légal",
+    "access_conditions": "Gratuit, anonyme, sans rendez-vous, ouvert à toute la population quel que soit le statut légal. Confidentialité assurée."
+  },
+  "r_0185": {
+    "description": "Espace d'accueil et de conseil multilingue pour les parents avant et après la naissance. Pesée de bébé, chaise d'allaitement, massage bébé, portage, psychomotricité. Situé dans les locaux de la ludothèque de Versoix.",
+    "target_audience": "Femmes enceintes, parents avec bébés et jeunes enfants, familles allophones",
+    "access_conditions": "Gratuit, sans inscription, libre accès. Fermé pendant les vacances scolaires genevoises."
+  },
+  "r_0186": {
+    "description": "Espace d'accueil et de soutien pour femmes enceintes et parents avec bébé jusqu'à 1 an. Accueils libres animés par des sages-femmes, psychomotricienne le lundi, atelier de français maternité et cours de préparation à la naissance avec interprètes communautaires.",
+    "target_audience": "Femmes enceintes, parents avec bébé jusqu'à 1 an, familles en situation de migration",
+    "access_conditions": "Gratuit, sans inscription pour les accueils libres. Inscription nécessaire pour l'atelier de français maternité."
+  },
+  "r_0187": {
+    "description": "Un mercredi sur deux, une sage-femme accueille les parents à la ludothèque Belle-Terre pour échanger, poser des questions, peser bébé et jouer. Goûter offert par la ludothèque.",
+    "target_audience": "Femmes enceintes, parents avec bébés et jeunes enfants",
+    "access_conditions": "Gratuit, sans inscription, libre accès. Un mercredi sur deux, hors vacances scolaires."
+  },
+  "r_0188": {
+    "description": "Centre spécialisé d'écoute, de conseil et d'accompagnement en matière de discriminations et de racisme anti-Noir, géré par l'UPAF (Université Populaire Africaine) en collaboration avec le CRAN et le syndicat SYNA. Situé dans l'espace AfrikaLAB.",
+    "target_audience": "Personnes victimes de racisme anti-Noir et de discriminations raciales",
+    "access_conditions": "Service d'écoute et de conseil gratuit pour les personnes victimes de racisme anti-Noir et de discriminations"
+  },
+  "r_0189": {
+    "description": "Association créée par des parents en 2007, regroupant plus de 1200 membres. Services d'accompagnement, groupes de compétences sociales, rencontres parents, formations, conférences, groupe fratrie, job coaching et Centre d'accueil et de soutien en autisme (CASA).",
+    "target_audience": "Personnes autistes (avec ou sans diagnostic), familles, frères et sœurs, professionnels",
+    "access_conditions": "Ouvert aux personnes autistes, familles et professionnels. Adhésion à l'association possible."
+  },
+  "r_0190": {
+    "description": "Toilettes publiques gratuites situées sur la Place du Bourg-de-Four dans la vieille ville de Genève. Cabines pour personnes à mobilité réduite accessibles avec clé Eurokey (disponible auprès de Pro Infirmis Genève).",
+    "target_audience": "Tout public",
+    "access_conditions": "Accès libre et gratuit. Cabines PMR avec clé Eurokey (Pro Infirmis : 058 775 31 08)."
+  },
+  "r_0191": {
+    "description": "Bibliothèque municipale de la Ville de Genève proposant des collections pour adultes et jeunes, une grainothèque, du WiFi gratuit, des postes informatiques et des animations culturelles. Inscription et emprunt gratuits.",
+    "target_audience": "Tout public (adultes et jeunes)",
+    "access_conditions": "Accès libre et gratuit. Inscription gratuite pour l'emprunt."
+  },
+  "r_0192": {
+    "description": "Espace d'accueil, de répit et de rencontre pour personnes réfugiées. Accompagnement pour les démarches administratives, informations sur les permis, logement et scolarisation, espace informatique et activités socioculturelles. Interprètes bénévoles présents quotidiennement.",
+    "target_audience": "Personnes réfugiées à Genève",
+    "access_conditions": "Ouvert aux personnes réfugiées à Genève. Accès libre sans inscription."
+  },
+  "r_0193": {
+    "description": "Lieu d'accueil gratuit, anonyme et sans inscription pour enfants de 0 à 5 ans accompagnés d'un adulte proche. Écoute et soutien à l'enfant et à l'adulte accompagnant. Capacité de 20 personnes.",
+    "target_audience": "Enfants de 0 à 5 ans accompagnés d'un adulte proche (parent, grand-parent, maman de jour)",
+    "access_conditions": "Gratuit, anonyme, sans inscription. L'enfant reste sous la responsabilité de l'adulte accompagnant."
   },
   "tag": {
     "143": "143",

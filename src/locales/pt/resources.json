@@ -175,9 +175,9 @@
     "access_conditions": "Aberto a todos"
   },
   "r_0036": {
-    "description": "Distribuicao gratuita de roupas para pessoas em situacao de vulnerabilidade. Roupas para homens, mulheres e criancas, conforme as estacoes.",
-    "target_audience": "Pessoas em situacao de vulnerabilidade",
-    "access_conditions": "Mediante apresentacao de atestado de um servico social"
+    "description": "Distribuição gratuita de roupas, sapatos e roupa de casa para pessoas em situação de precariedade. Gerido conjuntamente pelo Centro Social Protestante (CSP), Cáritas Genebra e Cruz Vermelha de Genebra.",
+    "target_audience": "Pessoas em situação de precariedade",
+    "access_conditions": "Mediante apresentação de um vale emitido pelos serviços sociais, CSP, Cáritas ou Cruz Vermelha de Genebra"
   },
   "r_0037": {
     "description": "Aulas de frances como lingua estrangeira para adultos migrantes. Niveis iniciante a avancado. Aulas diurnas e noturnas.",
@@ -245,9 +245,9 @@
     "access_conditions": "Atendimento sem agendamento de segunda a sexta das 8h as 15h30"
   },
   "r_0050": {
-    "description": "Local de acolhimento, apoio e reinsercao socioprofissional para pessoas em situacao de vulnerabilidade. Cafes da manha gratuitos (150-200 por semana), atividades sociais e estagios de reinsercao.",
-    "target_audience": "Pessoas em situacao de vulnerabilidade",
-    "access_conditions": "Sem condicoes, acolhimento livre"
+    "description": "Centro de acolhimento, apoio e reinserção socioprofissional para pessoas em precariedade. Pequenos-almoços gratuitos (150-200/semana), refeições quentes segunda e quinta às 10h, pasta party de dois em dois domingos (17h-19h30).",
+    "target_audience": "Pessoas em situação de precariedade",
+    "access_conditions": "Sem condições, acesso livre. Refeições quentes segunda e quinta às 10h. Pasta party de dois em dois domingos 17h-19h30."
   },
   "r_0051": {
     "description": "Local de acolhimento, lazer, encontros e descontracoes para todas as idades, culturas e meios sociais. Atividades culturais e sociais.",
@@ -415,9 +415,9 @@
     "access_conditions": "Ligar para o numero gratuito 0800 22 22 10 para obter uma vaga, acolhimento incondicional"
   },
   "r_0084": {
-    "description": "Local de acolhimento diurno incondicional no Temple de la Servette para pessoas em situacao de vulnerabilidade. Refeicoes solidarias, bebidas quentes, escritor publico (curriculos, cartas), oficinas de frances, ingles e informatica, consultas juridicas gratuitas.",
-    "target_audience": "Pessoas em situacao de vulnerabilidade, migrantes, pessoas em situacao de rua",
-    "access_conditions": "Sem condicoes, acolhimento incondicional"
+    "description": "Acolhimento diurno incondicional no Temple de la Servette. Refeições solidárias, bebidas quentes, escritor público (CV, cartas), oficinas de francês, inglês e informática. Permanência jurídica gratuita na Rue de Berne 48 (seg 10h-12h, qua 17h30-19h30, qui 10h-12h).",
+    "target_audience": "Pessoas em precariedade, migrantes, sem-abrigo",
+    "access_conditions": "Sem condições, acolhimento incondicional"
   },
   "r_0085": {
     "description": "Banhos publicos emblematicos a beira do lago Leman. Praia de areia, piscinas, trampolins (3-10m), sauna e hammam, bar popular. Entrada muito acessivel (2 CHF no verao, 1 CHF no inverno).",
@@ -555,9 +555,9 @@
     "access_conditions": "Gratuito, sem inscricao, criancas acompanhadas"
   },
   "r_0112": {
-    "description": "Espaco de acolhimento pais-filhos de 0 a 4 anos. Espaco de brincadeiras livres, trocas entre pais e apoio a parentalidade em um ambiente acolhedor.",
-    "target_audience": "Pais e criancas de 0 a 4 anos",
-    "access_conditions": "Gratuito, sem inscricao, crianca acompanhada de um dos pais"
+    "description": "Serviço profissional de cuidados infantis ao domicílio pela Cruz Vermelha de Genebra. Uma cuidadora formada desloca-se ao domicílio em 4 horas. Missões de 3-10 horas, 7 dias por semana. Serviço pago: CHF 5/h (com subsídio) ou CHF 10/h (sem subsídio).",
+    "target_audience": "Famílias com crianças que necessitam de cuidados ao domicílio",
+    "access_conditions": "Serviço pago: CHF 5/h (com subsídio), CHF 10/h (sem subsídio). +CHF 2 por criança adicional."
   },
   "r_0113": {
     "description": "Espaço de brincadeiras e serviço de empréstimo de brinquedos e jogos de tabuleiro para crianças, famílias e adultos. Jogos gigantes e ao ar livre disponíveis para festas e eventos.",
@@ -888,6 +888,81 @@
     "description": "Brinquedoteca de bairro que acolhe crianças, pais e instituições para brincar no local e emprestar jogos. Empréstimo com assinatura familiar (30 CHF/ano).",
     "target_audience": "Crianças, famílias, público geral",
     "access_conditions": "Brincadeira gratuita no local. Empréstimo com assinatura familiar anual (30 CHF)."
+  },
+  "r_0179": {
+    "description": "Associação feminista e autogerida que oferece um espaço de acolhimento pais-bebé (Marmotricité) para crianças de 0 a 1 ano. Acompanhamento psicomotor num ambiente coletivo, com atenção especial às famílias em precariedade.",
+    "target_audience": "Pais e bebés de 0 a 1 ano",
+    "access_conditions": "Preço livre, com atenção especial às famílias em situação de precariedade"
+  },
+  "r_0180": {
+    "description": "Local de acolhimento e encontro multicultural aberto a todos. Refeições gratuitas (sopa, pastelaria, refeições quentes, pequeno-almoço), distribuição de sacos de comida, acompanhamento social gratuito e cursos de francês.",
+    "target_audience": "Qualquer pessoa necessitada",
+    "access_conditions": "Acolhimento gratuito, aberto a todos, sem condições. Distribuição de sacos de comida mediante inscrição."
+  },
+  "r_0181": {
+    "description": "Associação que acolhe mulheres em grande precariedade. Refeições quentes, café, serviços de higiene (duches, lavandaria, cabeleireiro), bens de primeira necessidade, acompanhamento social, espaço de escuta e saídas culturais mensais.",
+    "target_audience": "Mulheres em grande precariedade, mulheres sem-abrigo, mulheres sem documentos",
+    "access_conditions": "Acolhimento de baixo limiar, sem condições, sem marcação."
+  },
+  "r_0182": {
+    "description": "Biblioteca pública histórica com mais de 200 lugares de trabalho, WiFi gratuito, computadores de acesso livre e sala de leitura aberta à noite. Inscrição gratuita para empréstimos.",
+    "target_audience": "Público geral: estudantes, investigadores, leitores",
+    "access_conditions": "Entrada livre e gratuita. Inscrição gratuita com documento de identidade para empréstimos."
+  },
+  "r_0183": {
+    "description": "Restaurante social da Cidade de Genebra com refeições gratuitas (pequeno-almoço e refeições quentes) e acompanhamento social de primeira linha.",
+    "target_audience": "Pessoas em situação de precariedade",
+    "access_conditions": "Aberto todo o ano sem inscrição. Gratuito e confidencial. Bilhete de refeição a partir das 8h."
+  },
+  "r_0184": {
+    "description": "O BIS acolhe, informa e orienta qualquer pessoa que procure informações sobre acesso a prestações sociais. Conselhos sobre problemas financeiros, endividamento, habitação e saúde.",
+    "target_audience": "Qualquer pessoa residente em Genebra, independentemente do estatuto legal",
+    "access_conditions": "Gratuito, anónimo, sem marcação, aberto a toda a população. Confidencialidade garantida."
+  },
+  "r_0185": {
+    "description": "Espaço de acolhimento e aconselhamento multilingue para pais antes e após o nascimento. Pesagem do bebé, cadeira de amamentação, massagem bebé, portagem, psicomotricidade. Na ludoteca de Versoix.",
+    "target_audience": "Grávidas, pais com bebés e crianças pequenas, famílias alófonas",
+    "access_conditions": "Gratuito, sem inscrição, acesso livre. Encerrado durante as férias escolares de Genebra."
+  },
+  "r_0186": {
+    "description": "Espaço de acolhimento e apoio para grávidas e pais com bebé até 1 ano. Sessões livres com parteiras, psicomotricista às segundas, oficina de francês maternidade e cursos de preparação para o parto com intérpretes.",
+    "target_audience": "Grávidas, pais com bebé até 1 ano, famílias em situação migratória",
+    "access_conditions": "Gratuito, sem inscrição para sessões livres. Inscrição necessária para oficina de francês maternidade."
+  },
+  "r_0187": {
+    "description": "De duas em duas quartas-feiras, uma parteira recebe os pais na ludoteca Belle-Terre para trocar ideias, fazer perguntas, pesar o bebé e brincar. Lanche oferecido pela ludoteca.",
+    "target_audience": "Grávidas, pais com bebés e crianças pequenas",
+    "access_conditions": "Gratuito, sem inscrição. De duas em duas quartas-feiras, fora das férias escolares."
+  },
+  "r_0188": {
+    "description": "Centro especializado de escuta, aconselhamento e acompanhamento em racismo anti-negro e discriminação, gerido pela UPAF em colaboração com o CRAN e o sindicato SYNA. No espaço AfrikaLAB.",
+    "target_audience": "Vítimas de racismo anti-negro e discriminação racial",
+    "access_conditions": "Serviço gratuito de escuta e aconselhamento para vítimas de racismo anti-negro"
+  },
+  "r_0189": {
+    "description": "Associação criada por pais em 2007, com mais de 1200 membros. Serviços de acompanhamento, grupos de competências sociais, encontros de pais, formações, conferências, grupo de irmãos, coaching profissional e Centro CASA.",
+    "target_audience": "Pessoas autistas (com ou sem diagnóstico), famílias, irmãos, profissionais",
+    "access_conditions": "Aberto a pessoas autistas, famílias e profissionais. Adesão à associação disponível."
+  },
+  "r_0190": {
+    "description": "WC públicos gratuitos na Place du Bourg-de-Four na cidade velha de Genebra. Cabines para pessoas com mobilidade reduzida acessíveis com Eurokey (disponível na Pro Infirmis Genebra).",
+    "target_audience": "Público geral",
+    "access_conditions": "Acesso livre e gratuito. Cabines PMR com Eurokey (Pro Infirmis: 058 775 31 08)."
+  },
+  "r_0191": {
+    "description": "Biblioteca municipal da Cidade de Genebra com coleções para adultos e jovens, sementeca, WiFi gratuito, computadores e atividades culturais.",
+    "target_audience": "Público geral (adultos e jovens)",
+    "access_conditions": "Acesso livre e gratuito. Inscrição gratuita para empréstimos."
+  },
+  "r_0192": {
+    "description": "Espaço de acolhimento, descanso e encontro para refugiados. Acompanhamento em procedimentos administrativos, informações sobre autorizações, habitação e escolarização, espaço informático e atividades socioculturais.",
+    "target_audience": "Refugiados em Genebra",
+    "access_conditions": "Aberto a refugiados em Genebra. Acesso livre sem inscrição."
+  },
+  "r_0193": {
+    "description": "Espaço de acolhimento gratuito, anónimo e sem inscrição para crianças de 0 a 5 anos acompanhadas de um adulto próximo. Escuta e apoio à criança e ao adulto acompanhante. Capacidade: 20 pessoas.",
+    "target_audience": "Crianças de 0 a 5 anos acompanhadas de um adulto próximo (pai, avó, ama)",
+    "access_conditions": "Gratuito, anónimo, sem inscrição. A criança fica sob a responsabilidade do adulto acompanhante."
   },
   "tag": {
     "143": "143",

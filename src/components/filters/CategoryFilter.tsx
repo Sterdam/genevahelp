@@ -11,7 +11,7 @@ interface CategoryFilterProps {
 const VISIBLE_CATEGORIES: ResourceCategory[] = [
   'food', 'health', 'legal', 'housing', 'language', 'clothing',
   'hygiene', 'wifi', 'education', 'employment', 'finance',
-  'children', 'women', 'elderly', 'addiction', 'social', 'emergency', 'admin',
+  'children', 'women', 'elderly', 'addiction', 'social', 'disability', 'emergency', 'admin',
 ]
 
 export function CategoryFilter({ selected, onChange, counts }: CategoryFilterProps) {

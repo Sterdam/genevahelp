@@ -222,6 +222,7 @@
     "social": "Social",
     "admin": "Admin",
     "emergency": "Emergency",
+    "disability": "Disability",
     "other": "Other"
   },
   "adminExtra": {

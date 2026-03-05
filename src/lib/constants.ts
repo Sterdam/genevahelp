@@ -17,6 +17,7 @@ import {
   Users,
   FileText,
   Siren,
+  Accessibility,
   MapPin,
 } from 'lucide-react'
 import type { ResourceCategory } from './types'
@@ -45,6 +46,7 @@ export const CATEGORY_CONFIG: Record<ResourceCategory, CategoryConfig> = {
   social: { color: '#10B981', icon: Users },
   admin: { color: '#64748B', icon: FileText },
   emergency: { color: '#FF0000', icon: Siren },
+  disability: { color: '#0EA5E9', icon: Accessibility },
   other: { color: '#9CA3AF', icon: MapPin },
 }
 
@@ -67,6 +69,7 @@ export const CATEGORY_EMOJI: Record<ResourceCategory, string> = {
   social: '👥',
   admin: '📋',
   emergency: '🚨',
+  disability: '♿',
   other: '📍',
 }
 

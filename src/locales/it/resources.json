@@ -175,9 +175,9 @@
     "access_conditions": "Aperto a tutti"
   },
   "r_0036": {
-    "description": "Distribuzione gratuita di vestiti per le persone in situazione di precarietà. Vestiti per uomini, donne e bambini, secondo le stagioni.",
+    "description": "Distribuzione gratuita di abbigliamento, scarpe e biancheria per persone in situazione di precarietà. Gestito congiuntamente dal Centro Sociale Protestante (CSP), Caritas Ginevra e la Croce Rossa di Ginevra.",
     "target_audience": "Persone in situazione di precarietà",
-    "access_conditions": "Su presentazione di un attestato di un servizio sociale"
+    "access_conditions": "Su presentazione di un buono rilasciato dai servizi sociali, CSP, Caritas Ginevra o la Croce Rossa di Ginevra"
   },
   "r_0037": {
     "description": "Corsi di francese come lingua straniera per adulti migranti. Livelli da principiante ad avanzato. Corsi diurni e serali.",
@@ -245,9 +245,9 @@
     "access_conditions": "Accoglienza senza appuntamento dal lunedì al venerdì dalle 8h alle 15h30"
   },
   "r_0050": {
-    "description": "Luogo di accoglienza, sostegno e reinserimento socioprofessionale per persone in situazione di precarietà. Colazioni gratuite (150-200/settimana), attività sociali e tirocini di reinserimento.",
+    "description": "Centro di accoglienza, sostegno e reinserimento socioprofessionale per persone in precarietà. Colazioni gratuite (150-200/settimana), pasti caldi lunedì e giovedì alle 10, pasta party a domeniche alterne (17-19:30), attività sociali e stage di reinserimento.",
     "target_audience": "Persone in situazione di precarietà",
-    "access_conditions": "Senza condizioni, accoglienza libera"
+    "access_conditions": "Senza condizioni, accesso libero. Pasti caldi lunedì e giovedì alle 10. Pasta party a domeniche alterne 17-19:30."
   },
   "r_0051": {
     "description": "Luogo di accoglienza, svago, incontri e relax per tutte le età, tutte le culture e tutti gli ambienti sociali. Attività culturali e sociali.",
@@ -415,8 +415,8 @@
     "access_conditions": "Chiamare il numero gratuito 0800 22 22 10 per ottenere un posto, accoglienza incondizionata"
   },
   "r_0084": {
-    "description": "Luogo di accoglienza diurna incondizionata al Temple de la Servette per le persone in situazione di precarietà. Pasti solidali, bevande calde, scrivano pubblico (CV, lettere), laboratori di francese, inglese e informatica, consulenze legali gratuite.",
-    "target_audience": "Persone in situazione di precarietà, migranti, senzatetto",
+    "description": "Accoglienza diurna incondizionata al Temple de la Servette per persone in precarietà. Pasti solidali, bevande calde, scrittore pubblico (CV, lettere), laboratori di francese, inglese e informatica. Permanenza giuridica gratuita in Rue de Berne 48 (lun 10-12, mer 17:30-19:30, gio 10-12).",
+    "target_audience": "Persone in precarietà, migranti, senzatetto",
     "access_conditions": "Senza condizioni, accoglienza incondizionata"
   },
   "r_0085": {
@@ -555,9 +555,9 @@
     "access_conditions": "Gratuito, senza iscrizione, bambini accompagnati"
   },
   "r_0112": {
-    "description": "Luogo di accoglienza genitori-bambini da 0 a 4 anni. Spazio di gioco libero, scambi tra genitori e supporto alla genitorialità in un ambiente accogliente.",
-    "target_audience": "Genitori e bambini da 0 a 4 anni",
-    "access_conditions": "Gratuito, senza iscrizione, bambino accompagnato da un genitore"
+    "description": "Servizio professionale di custodia e babysitting a domicilio della Croce Rossa di Ginevra. Un'assistente formata si reca a casa entro 4 ore. Missioni da 3-10 ore, 7 giorni su 7. Servizio a pagamento: CHF 5/h (con sussidio) o CHF 10/h (senza sussidio).",
+    "target_audience": "Famiglie con bambini che necessitano di custodia a domicilio",
+    "access_conditions": "Servizio a pagamento: CHF 5/h (con sussidio), CHF 10/h (senza sussidio). +CHF 2 per bambino aggiuntivo."
   },
   "r_0113": {
     "description": "Spazio di gioco e servizio di prestito di giocattoli e giochi da tavolo per bambini, famiglie e adulti. Giochi giganti e da esterno disponibili per feste ed eventi.",
@@ -888,6 +888,81 @@
     "description": "Ludoteca di quartiere che accoglie bambini, genitori e istituzioni per giocare sul posto e prendere in prestito giochi. Prestito con abbonamento familiare (30 CHF/anno).",
     "target_audience": "Bambini, famiglie, tutti",
     "access_conditions": "Gioco gratuito sul posto. Prestito con abbonamento familiare annuale (30 CHF)."
+  },
+  "r_0179": {
+    "description": "Associazione femminista e autogestita che offre uno spazio di accoglienza genitore-bebè (Marmotricité) per bambini da 0 a 1 anno. Accompagnamento psicomotorio in un contesto collettivo, con attenzione particolare alle famiglie in precarietà.",
+    "target_audience": "Genitori e bebè da 0 a 1 anno",
+    "access_conditions": "Prezzo libero, con attenzione particolare alle famiglie in situazione di precarietà"
+  },
+  "r_0180": {
+    "description": "Luogo di accoglienza e incontro multiculturale aperto a tutti. Pasti gratuiti (zuppa, pasticceria, pasti caldi, colazione), distribuzione di sacchetti di cibo, accompagnamento sociale gratuito e corsi di francese.",
+    "target_audience": "Chiunque sia in difficoltà",
+    "access_conditions": "Accoglienza gratuita, aperta a tutti, senza condizioni. Distribuzione sacchetti di cibo su iscrizione."
+  },
+  "r_0181": {
+    "description": "Associazione che accoglie donne in grande precarietà. Pasti caldi, caffè, servizi igienici (docce, lavanderia, parrucchiere), beni di prima necessità, accompagnamento sociale, spazio d'ascolto e uscite culturali mensili.",
+    "target_audience": "Donne in grande precarietà, donne senzatetto, donne senza documenti",
+    "access_conditions": "Accoglienza a bassa soglia, senza condizioni, senza appuntamento."
+  },
+  "r_0182": {
+    "description": "Biblioteca pubblica storica con oltre 200 posti di lavoro, WiFi gratuito, postazioni informatiche ad accesso libero e sala di lettura aperta la sera. Iscrizione gratuita per il prestito.",
+    "target_audience": "Pubblico generale: studenti, ricercatori, lettori",
+    "access_conditions": "Ingresso libero e gratuito. Iscrizione gratuita con documento d'identità per il prestito."
+  },
+  "r_0183": {
+    "description": "Ristorante sociale della Città di Ginevra con pasti gratuiti (colazione e pasti caldi) e accompagnamento sociale di prima linea. Accoglienza diurna con ascolto, supporto sociale e orientamento.",
+    "target_audience": "Persone in situazione di precarietà",
+    "access_conditions": "Aperto tutto l'anno senza iscrizione. Gratuito e confidenziale. Biglietto pasto dalle ore 8."
+  },
+  "r_0184": {
+    "description": "Il BIS accoglie, informa e orienta chiunque cerchi informazioni sull'accesso alle prestazioni sociali. Consigli su problemi finanziari, indebitamento, alloggio e salute.",
+    "target_audience": "Chiunque risieda a Ginevra, indipendentemente dallo status legale",
+    "access_conditions": "Gratuito, anonimo, senza appuntamento, aperto a tutta la popolazione. Riservatezza garantita."
+  },
+  "r_0185": {
+    "description": "Spazio di accoglienza e consulenza multilingue per genitori prima e dopo la nascita. Pesatura del bebè, poltrona per l'allattamento, massaggio neonati, portage, psicomotricità. Presso la ludoteca di Versoix.",
+    "target_audience": "Donne incinte, genitori con neonati e bambini piccoli, famiglie allofone",
+    "access_conditions": "Gratuito, senza iscrizione, accesso libero. Chiuso durante le vacanze scolastiche ginevrine."
+  },
+  "r_0186": {
+    "description": "Spazio di accoglienza e sostegno per donne incinte e genitori con neonato fino a 1 anno. Sessioni libere con ostetriche, psicomotricista il lunedì, laboratorio di francese maternità e corsi preparto con interpreti.",
+    "target_audience": "Donne incinte, genitori con neonato fino a 1 anno, famiglie in situazione migratoria",
+    "access_conditions": "Gratuito, senza iscrizione per le sessioni libere. Iscrizione necessaria per il laboratorio di francese maternità."
+  },
+  "r_0187": {
+    "description": "Un mercoledì su due, un'ostetrica accoglie i genitori alla ludoteca Belle-Terre per scambiare, fare domande, pesare il bebè e giocare. Merenda offerta dalla ludoteca.",
+    "target_audience": "Donne incinte, genitori con neonati e bambini piccoli",
+    "access_conditions": "Gratuito, senza iscrizione. Un mercoledì su due, al di fuori delle vacanze scolastiche."
+  },
+  "r_0188": {
+    "description": "Centro specializzato di ascolto, consulenza e accompagnamento per razzismo anti-nero e discriminazione, gestito dall'UPAF in collaborazione con CRAN e il sindacato SYNA. Nello spazio AfrikaLAB.",
+    "target_audience": "Vittime di razzismo anti-nero e discriminazione razziale",
+    "access_conditions": "Servizio gratuito di ascolto e consulenza per vittime di razzismo anti-nero"
+  },
+  "r_0189": {
+    "description": "Associazione creata da genitori nel 2007, con oltre 1200 membri. Servizi di accompagnamento, gruppi di competenze sociali, incontri genitori, formazioni, conferenze, gruppo fratelli, coaching lavorativo e Centro CASA.",
+    "target_audience": "Persone autistiche (con o senza diagnosi), famiglie, fratelli, professionisti",
+    "access_conditions": "Aperto a persone autistiche, famiglie e professionisti. Adesione all'associazione disponibile."
+  },
+  "r_0190": {
+    "description": "Servizi igienici pubblici gratuiti in Place du Bourg-de-Four nella città vecchia di Ginevra. Cabine per persone a mobilità ridotta accessibili con Eurokey (disponibile presso Pro Infirmis Ginevra).",
+    "target_audience": "Pubblico generale",
+    "access_conditions": "Accesso libero e gratuito. Cabine PMR con Eurokey (Pro Infirmis: 058 775 31 08)."
+  },
+  "r_0191": {
+    "description": "Biblioteca municipale della Città di Ginevra con collezioni per adulti e giovani, semenzoteca, WiFi gratuito, postazioni informatiche e attività culturali.",
+    "target_audience": "Pubblico generale (adulti e giovani)",
+    "access_conditions": "Accesso libero e gratuito. Iscrizione gratuita per il prestito."
+  },
+  "r_0192": {
+    "description": "Spazio di accoglienza, riposo e incontro per rifugiati. Accompagnamento nelle procedure amministrative, informazioni su permessi, alloggio e scolarizzazione, spazio informatico e attività socioculturali.",
+    "target_audience": "Rifugiati a Ginevra",
+    "access_conditions": "Aperto ai rifugiati a Ginevra. Accesso libero senza iscrizione."
+  },
+  "r_0193": {
+    "description": "Spazio di accoglienza gratuito, anonimo e senza iscrizione per bambini da 0 a 5 anni accompagnati da un adulto vicino. Ascolto e sostegno al bambino e all'adulto accompagnante. Capacità: 20 persone.",
+    "target_audience": "Bambini da 0 a 5 anni accompagnati da un adulto vicino (genitore, nonno, baby-sitter)",
+    "access_conditions": "Gratuito, anonimo, senza iscrizione. Il bambino resta sotto la responsabilità dell'adulto accompagnante."
   },
   "tag": {
     "143": "143",

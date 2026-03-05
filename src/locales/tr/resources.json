@@ -175,9 +175,9 @@
     "access_conditions": "Herkese açık"
   },
   "r_0036": {
-    "description": "Zor durumda olan kişiler için ücretsiz giysi dağıtımı. Mevsime göre erkek, kadın ve çocuk giysileri.",
-    "target_audience": "Zor durumda olan kişiler",
-    "access_conditions": "Sosyal hizmet kurumundan alınan belge ibrazı ile"
+    "description": "Dezavantajlı durumda olan kişilere ücretsiz giysi, ayakkabı ve ev tekstili dağıtımı. Protestan Sosyal Merkezi (CSP), Caritas Cenevre ve Cenevre Kızılhaç tarafından ortaklaşa yönetilir.",
+    "target_audience": "Dezavantajlı durumda olan kişiler",
+    "access_conditions": "Sosyal hizmetler, CSP, Caritas veya Cenevre Kızılhaç tarafından verilen kupon ile"
   },
   "r_0037": {
     "description": "Yetişkin göçmenler için yabancı dil olarak Fransızca kursları. Başlangıçtan ileri düzeye. Gündüz ve akşam kursları.",
@@ -245,9 +245,9 @@
     "access_conditions": "Pazartesiden cumaya 8:00-15:30 arası randevusuz kabul"
   },
   "r_0050": {
-    "description": "Zor durumda olan kişiler için kabul, destek ve sosyo-mesleki yeniden entegrasyon merkezi. Ücretsiz kahvaltılar (haftada 150-200), sosyal etkinlikler ve yeniden entegrasyon stajları.",
-    "target_audience": "Zor durumda olan kişiler",
-    "access_conditions": "Koşulsuz, serbest kabul"
+    "description": "Dezavantajlı kişiler için karşılama, destek ve sosyo-profesyonel yeniden entegrasyon merkezi. Ücretsiz kahvaltılar (haftalık 150-200), Pazartesi ve Perşembe saat 10'da sıcak yemek, iki haftada bir Pazar makarna partisi (17:00-19:30).",
+    "target_audience": "Dezavantajlı durumda olan kişiler",
+    "access_conditions": "Koşulsuz, serbest erişim. Pzt ve Per saat 10'da sıcak yemek. İki haftada bir Paz 17:00-19:30 makarna partisi."
   },
   "r_0051": {
     "description": "Her yaş, her kültür ve her sosyal kesimden kişiler için kabul, eğlence, buluşma ve dinlenme alanı. Kültürel ve sosyal etkinlikler.",
@@ -415,9 +415,9 @@
     "access_conditions": "Yer almak için ücretsiz 0800 22 22 10 numarasını arayın, koşulsuz kabul"
   },
   "r_0084": {
-    "description": "Temple de la Servette'de zor durumda olan kişiler için koşulsuz gündüz kabul merkezi. Dayanışma yemekleri, sıcak içecekler, yazıcılık hizmeti (CV, mektuplar), Fransızca, İngilizce ve bilgisayar atölyeleri, ücretsiz hukuki danışmanlık.",
-    "target_audience": "Zor durumda olan kişiler, göçmenler, evsizler",
-    "access_conditions": "Koşulsuz, koşulsuz kabul"
+    "description": "Servette Tapınağı'nda dezavantajlı kişiler için koşulsuz gündüz karşılama. Dayanışma yemekleri, sıcak içecekler, kamu yazıcısı (CV, mektup), Fransızca, İngilizce ve bilişim atölyeleri. Berne Sokağı 48'de ücretsiz hukuki danışmanlık (Pzt 10-12, Çar 17:30-19:30, Per 10-12).",
+    "target_audience": "Dezavantajlı kişiler, göçmenler, evsizler",
+    "access_conditions": "Koşulsuz karşılama"
   },
   "r_0085": {
     "description": "Léman gölü kıyısında simge halka açık hamam. Kumsal, havuzlar, atlama kuleleri (3-10m), sauna ve hamam, halk büfesi. Çok uygun fiyatlı giriş (yazın 2 CHF, kışın 1 CHF).",
@@ -555,9 +555,9 @@
     "access_conditions": "Ücretsiz, kayıtsız, çocuklar refakatli"
   },
   "r_0112": {
-    "description": "0-4 yaş arası çocuklar için ebeveyn-çocuk kabul alanı. Serbest oyun alanı, ebeveynler arası paylaşım ve sıcak bir ortamda ebeveynlik desteği.",
-    "target_audience": "Ebeveynler ve 0-4 yaş arası çocuklar",
-    "access_conditions": "Ücretsiz, kayıtsız, çocuk bir ebeveyni eşliğinde"
+    "description": "Cenevre Kızılhaç'ın profesyonel evde çocuk bakım hizmeti. Eğitimli bakıcı 4 saat içinde eve gelir. 3-10 saatlik görevler, haftanın 7 günü. Ücretli hizmet: 5 CHF/saat (sübvansiyonlu) veya 10 CHF/saat (sübvansiyonsuz).",
+    "target_audience": "Evde çocuk bakımına ihtiyaç duyan aileler",
+    "access_conditions": "Ücretli: 5 CHF/saat (sübvansiyonlu), 10 CHF/saat (sübvansiyonsuz). Her ek çocuk için +2 CHF."
   },
   "r_0113": {
     "description": "Çocuklar, aileler ve yetişkinler için oyuncak ve masa oyunları oyun alanı ve ödünç verme hizmeti. Parti ve etkinlikler için dev ve açık hava oyunları mevcut.",
@@ -888,6 +888,81 @@
     "description": "Çocukları, ebeveynleri ve kurumları yerinde oyun ve oyun ödünç alma için karşılayan mahalle oyuncak kütüphanesi. Aile aboneliği (30 CHF/yıl) ile ödünç alma.",
     "target_audience": "Çocuklar, aileler, herkes",
     "access_conditions": "Yerinde ücretsiz oyun. Yıllık aile aboneliği (30 CHF) ile ödünç alma."
+  },
+  "r_0179": {
+    "description": "0-1 yaş arası çocuklar ve ebeveynleri için ebeveyn-bebek karşılama alanı (Marmotricité) sunan feminist dernek. Toplumsal ortamda psikomotor gelişim desteği, dezavantajlı ailelere özel ilgi.",
+    "target_audience": "Ebeveynler ve 0-1 yaş arası bebekler",
+    "access_conditions": "Serbest fiyat, dezavantajlı ailelere özel ilgi"
+  },
+  "r_0180": {
+    "description": "Herkese açık çok kültürlü buluşma ve karşılama yeri. Ücretsiz yemekler (çorba, hamur işi, sıcak yemek, kahvaltı), gıda torbası dağıtımı, ücretsiz sosyal destek ve Fransızca kursları.",
+    "target_audience": "İhtiyaç sahibi herkes",
+    "access_conditions": "Ücretsiz karşılama, herkese açık, koşulsuz. Gıda torbası dağıtımı kayıt ile."
+  },
+  "r_0181": {
+    "description": "Büyük zorluk içindeki kadınları kabul eden dernek. Sıcak yemek, kahve, hijyen hizmetleri (duş, çamaşırhane, kuaför), temel ihtiyaçlar, sosyal destek, dinleme alanı ve aylık kültürel geziler.",
+    "target_audience": "Büyük zorluk içindeki kadınlar, evsiz kadınlar, belgesiz kadınlar",
+    "access_conditions": "Düşük eşikli karşılama, koşulsuz, randevusuz."
+  },
+  "r_0182": {
+    "description": "200'den fazla çalışma alanı, ücretsiz WiFi, serbest erişimli bilgisayarlar ve akşam açık okuma salonu olan tarihi halk kütüphanesi. Ödünç alma için ücretsiz kayıt.",
+    "target_audience": "Genel halk: öğrenciler, araştırmacılar, okuyucular",
+    "access_conditions": "Ücretsiz giriş. Kimlik ile ücretsiz kayıt."
+  },
+  "r_0183": {
+    "description": "Cenevre Belediyesi'nin ücretsiz yemek (kahvaltı ve sıcak yemek) ve birinci hat sosyal destek sunan sosyal restoranı.",
+    "target_audience": "Dezavantajlı durumda olan kişiler",
+    "access_conditions": "Kayıtsız yıl boyunca açık. Ücretsiz ve gizli. Saat 8'den yemek bileti."
+  },
+  "r_0184": {
+    "description": "BIS, sosyal yardımlara erişim hakkında bilgi arayan herkesi karşılar, bilgilendirir ve yönlendirir. Mali sorunlar, borç, konut ve sağlık konularında danışmanlık.",
+    "target_audience": "Yasal statüsü ne olursa olsun Cenevre'de yaşayan herkes",
+    "access_conditions": "Ücretsiz, anonim, randevusuz, herkese açık. Gizlilik garantili."
+  },
+  "r_0185": {
+    "description": "Doğum öncesi ve sonrası ebeveynler için çok dilli karşılama ve danışma alanı. Bebek tartma, emzirme koltuğu, bebek masajı, taşıma, psikomotrisite. Versoix oyuncak kütüphanesinde.",
+    "target_audience": "Hamileler, bebekli ve küçük çocuklu ebeveynler, yabancı dilli aileler",
+    "access_conditions": "Ücretsiz, kayıtsız, serbest erişim. Cenevre okul tatillerinde kapalı."
+  },
+  "r_0186": {
+    "description": "Hamileler ve 1 yaşına kadar bebekli ebeveynler için karşılama ve destek alanı. Ebelerle serbest oturumlar, Pazartesi psikomotrisyen, Fransızca annelik atölyesi ve tercümanlı doğum hazırlık kursları.",
+    "target_audience": "Hamileler, 1 yaşına kadar bebekli ebeveynler, göçmen aileler",
+    "access_conditions": "Ücretsiz, serbest oturumlar için kayıtsız. Fransızca annelik atölyesi için kayıt gerekli."
+  },
+  "r_0187": {
+    "description": "İki haftada bir Çarşamba, bir ebe Belle-Terre oyuncak kütüphanesinde ebeveynleri sohbet, soru sorma, bebek tartma ve oyun için karşılar. Atıştırmalık ikram edilir.",
+    "target_audience": "Hamileler, bebekli ve küçük çocuklu ebeveynler",
+    "access_conditions": "Ücretsiz, kayıtsız. İki haftada bir Çarşamba, okul tatilleri dışında."
+  },
+  "r_0188": {
+    "description": "UPAF tarafından CRAN ve SYNA sendikası ile işbirliği içinde yönetilen, siyahlara yönelik ırkçılık ve ayrımcılık konusunda uzmanlaşmış dinleme, danışma ve eşlik merkezi. AfrikaLAB alanında.",
+    "target_audience": "Siyahlara yönelik ırkçılık ve ırk ayrımcılığı mağdurları",
+    "access_conditions": "Siyahlara yönelik ırkçılık mağdurları için ücretsiz dinleme ve danışma hizmeti"
+  },
+  "r_0189": {
+    "description": "2007'de ebeveynler tarafından kurulan, 1200'den fazla üyeli dernek. Eşlik hizmetleri, sosyal beceri grupları, ebeveyn buluşmaları, eğitimler, konferanslar, kardeş grubu, iş koçluğu ve CASA Merkezi.",
+    "target_audience": "Otizmli kişiler (tanılı veya tanısız), aileler, kardeşler, profesyoneller",
+    "access_conditions": "Otizmli kişilere, ailelere ve profesyonellere açık. Dernek üyeliği mümkün."
+  },
+  "r_0190": {
+    "description": "Cenevre eski şehirdeki Bourg-de-Four Meydanı'nda ücretsiz halka açık tuvaletler. Engelli kabinleri Eurokey ile erişilebilir (Pro Infirmis Cenevre'den temin edilebilir).",
+    "target_audience": "Genel halk",
+    "access_conditions": "Ücretsiz serbest erişim. Engelli kabinleri Eurokey ile (Pro Infirmis: 058 775 31 08)."
+  },
+  "r_0191": {
+    "description": "Cenevre Belediyesi kütüphanesi. Yetişkin ve gençler için koleksiyonlar, tohum kütüphanesi, ücretsiz WiFi, bilgisayarlar ve kültürel etkinlikler.",
+    "target_audience": "Genel halk (yetişkinler ve gençler)",
+    "access_conditions": "Ücretsiz serbest erişim. Ödünç alma için ücretsiz kayıt."
+  },
+  "r_0192": {
+    "description": "Mülteciler için karşılama, dinlenme ve buluşma alanı. İdari işlemlerde eşlik, izinler, konut ve okul hakkında bilgi, bilgisayar alanı ve sosyokültürel etkinlikler.",
+    "target_audience": "Cenevre'deki mülteciler",
+    "access_conditions": "Cenevre'deki mültecilere açık. Kayıtsız serbest erişim."
+  },
+  "r_0193": {
+    "description": "0-5 yaş arası çocuklar için yakın bir yetişkin eşliğinde ücretsiz, anonim, kayıtsız karşılama alanı. Çocuk ve eşlik eden yetişkin için dinleme ve destek. Kapasite: 20 kişi.",
+    "target_audience": "0-5 yaş arası yakın bir yetişkin eşliğinde çocuklar (ebeveyn, büyükanne/baba, bakıcı)",
+    "access_conditions": "Ücretsiz, anonim, kayıtsız. Çocuk eşlik eden yetişkinin sorumluluğundadır."
   },
   "tag": {
     "143": "143",

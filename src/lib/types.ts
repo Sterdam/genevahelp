@@ -17,6 +17,7 @@ export type ResourceCategory =
   | 'social'
   | 'admin'
   | 'emergency'
+  | 'disability'
   | 'other'
 
 export interface Resource {

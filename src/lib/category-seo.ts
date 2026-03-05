@@ -179,6 +179,16 @@ export const CATEGORY_SEO: Record<ResourceCategory, CategorySEO> = {
       { question: 'What number should I call in an emergency in Geneva?', answer: 'Call 144 for medical emergencies, 117 for police, 118 for fire. For non-life-threatening situations, check the resources listed here for crisis support services.' },
     ],
   },
+  disability: {
+    titleFr: 'Handicap',
+    titleEn: 'Disability Support',
+    descriptionFr: 'Services gratuits pour personnes en situation de handicap à Genève : associations, soutien, groupes de parole et accompagnement.',
+    descriptionEn: 'Free services for people with disabilities in Geneva: associations, support, peer groups and guidance.',
+    faqs: [
+      { question: 'Where can people with disabilities find support in Geneva?', answer: 'Geneva has several organizations offering free support, counseling, and advocacy for people with disabilities and their families. Check the resources listed here.' },
+      { question: 'Are disability support services free in Geneva?', answer: 'Yes, many disability support organizations in Geneva offer free services including counseling, peer support groups, and information about rights and benefits.' },
+    ],
+  },
   other: {
     titleFr: 'Autres ressources',
     titleEn: 'Other Resources',
