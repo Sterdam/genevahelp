@@ -73,7 +73,9 @@ export function SuggestPage() {
     if (field === 'submitter_contact') setContactError(false)
   }
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const [submitting, setSubmitting] = useState(false)
+
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
 
     if (!form.submitter_contact.trim()) {
@@ -81,7 +83,9 @@ export function SuggestPage() {
       return
     }
 
-    addSuggestion(form)
+    setSubmitting(true)
+    await addSuggestion(form)
+    setSubmitting(false)
     setSubmitted(true)
   }
 
@@ -468,10 +472,11 @@ export function SuggestPage() {
           {/* Submit */}
           <button
             type="submit"
-            className="w-full py-3 bg-gray-900 text-white rounded-xl text-sm font-semibold hover:bg-gray-800 transition-colors flex items-center justify-center gap-2 shadow-sm"
+            disabled={submitting}
+            className="w-full py-3 bg-gray-900 text-white rounded-xl text-sm font-semibold hover:bg-gray-800 transition-colors flex items-center justify-center gap-2 shadow-sm disabled:opacity-50 disabled:cursor-not-allowed"
           >
             <Send size={16} />
-            {t('suggest.submitButton')}
+            {submitting ? '...' : t('suggest.submitButton')}
           </button>
         </form>
       </div>

@@ -1,4 +1,4 @@
-import { useState, useMemo } from 'react'
+import { useState, useMemo, useEffect } from 'react'
 import { useTranslation } from 'react-i18next'
 import {
   LogIn,
@@ -127,10 +127,14 @@ function AdminDashboard({ onLogout }: { onLogout: () => void }) {
   const { t } = useTranslation()
   const [tab, setTab] = useState<Tab>('dashboard')
   const [reports, setReports] = useState<Report[]>(getReports())
-  const [suggestions, setSuggestions] = useState<ResourceSuggestion[]>(getSuggestions())
+  const [suggestions, setSuggestions] = useState<ResourceSuggestion[]>([])
+
+  useEffect(() => {
+    getSuggestions().then(setSuggestions)
+  }, [])
 
   const refreshReports = () => setReports(getReports())
-  const refreshSuggestions = () => setSuggestions(getSuggestions())
+  const refreshSuggestions = () => { getSuggestions().then(setSuggestions) }
 
   const pendingReports = reports.filter((r) => r.status === 'pending')
   const pendingSuggestions = suggestions.filter((s) => s.status === 'pending')
@@ -194,9 +198,9 @@ function AdminDashboard({ onLogout }: { onLogout: () => void }) {
         {tab === 'suggestions' && (
           <SuggestionsView
             suggestions={suggestions}
-            onApprove={(id) => { approveSuggestion(id); refreshSuggestions() }}
-            onReject={(id) => { rejectSuggestion(id); refreshSuggestions() }}
-            onDelete={(id) => { deleteSuggestion(id); refreshSuggestions() }}
+            onApprove={async (id) => { await approveSuggestion(id); refreshSuggestions() }}
+            onReject={async (id) => { await rejectSuggestion(id); refreshSuggestions() }}
+            onDelete={async (id) => { await deleteSuggestion(id); refreshSuggestions() }}
           />
         )}
         {tab === 'reports' && (
