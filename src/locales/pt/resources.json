@@ -979,6 +979,41 @@
     "target_audience": "Qualquer pessoa que necessite de aconselhamento jurídico ou ajuda na redação de correspondência",
     "access_conditions": "Gratuito, confidencial, aberto a todos. Marcação via pje-ge.ch. Ajuda na redação de correspondência disponível."
   },
+  "r_0197": {
+    "description": "Biblioteca municipal gratuita com mais de 14.000 documentos: romances, documentários, banda desenhada, revistas, livros em letra grande e audiolivros. Inscrição e empréstimo gratuitos.",
+    "target_audience": "Todo o público",
+    "access_conditions": "Inscrição gratuita, aberto a todos"
+  },
+  "r_0198": {
+    "description": "Distribuição gratuita de roupas (homens, mulheres, crianças) e roupa de casa para pessoas em situação de precariedade. Programa da Fundação Carrefour-Rue & Coulou.",
+    "target_audience": "Pessoas em situação de precariedade",
+    "access_conditions": "Gratuito, aberto a qualquer pessoa necessitada"
+  },
+  "r_0199": {
+    "description": "Espaço de acolhimento livre para jovens dos 7 aos 25 anos, gerido por trabalhadores sociais da FASe (equipa BUPP). Jogos de tabuleiro, bricolagem, matraquilhos. Saídas mensais. 7-11 anos às quartas, 12-25 anos de quarta a sexta.",
+    "target_audience": "Jovens dos 7 aos 25 anos",
+    "access_conditions": "Gratuito, acesso livre sem inscrição"
+  },
+  "r_0200": {
+    "description": "Espaço de atividades para jovens dos 11 aos 25 anos, gerido por trabalhadores sociais da FASe (equipa BUPP). Estúdio de música (Stud) às quintas com inscrição, festas Boums às sextas (10-14 anos), desporto para todos às quartas (novembro a abril).",
+    "target_audience": "Jovens dos 11 aos 25 anos",
+    "access_conditions": "Gratuito, inscrição necessária conforme a atividade"
+  },
+  "r_0201": {
+    "description": "Coletivo de 15 associações femininas e feministas subvencionado pelo Cantão e pela Cidade de Genebra. O Espaço Saúde Mulheres oferece gratuitamente conselhos e informação em saúde (menopausa, sexualidade, gravidez, envelhecimento). Apoio administrativo e social, workshops de bem-estar.",
+    "target_audience": "Mulheres, pessoas trans, não-binárias e/ou intersexuais",
+    "access_conditions": "Gratuito, aberto a mulheres e minorias de género"
+  },
+  "r_0202": {
+    "description": "Centro de ação social de proximidade do Hospice général para os bairros de Servette, Petit-Saconnex e Vieusseux. Ajuda financeira, acompanhamento social personalizado, ajuda ao alojamento, inserção profissional e apoio administrativo.",
+    "target_audience": "Residentes dos bairros Servette, Petit-Saconnex, Vieusseux em dificuldade",
+    "access_conditions": "Com marcação, residentes do Cantão de Genebra"
+  },
+  "r_0203": {
+    "description": "Festival de cinema ao ar livre gratuito no Parc de la Perle du Lac, todos os verões desde 2009. Mais de 50 filmes em versão original com legendas em francês. Animações a partir das 19h, sessão ao pôr do sol. Evento sazonal: apenas julho-agosto.",
+    "target_audience": "Todo o público",
+    "access_conditions": "Gratuito, sem reserva. Sazonal: apenas julho-agosto."
+  },
   "tag": {
     "143": "143",
     "147": "147",

@@ -979,6 +979,41 @@
     "target_audience": "法律相談や文書作成の支援が必要なすべての人",
     "access_conditions": "無料、秘密厳守、すべての人に開放。pje-ge.chで予約。文書作成支援あり。"
   },
+  "r_0197": {
+    "description": "14,000点以上の蔵書を持つ無料の市立図書館：小説、ノンフィクション、漫画、雑誌、大活字本、オーディオブック。登録・貸出無料。",
+    "target_audience": "すべての方",
+    "access_conditions": "無料登録、どなたでも利用可能"
+  },
+  "r_0198": {
+    "description": "困窮者向けの衣類（男性用・女性用・子供用）およびリネンの無料配布。Carrefour-Rue & Coulou財団が運営。",
+    "target_audience": "困窮者",
+    "access_conditions": "無料、困窮者であればどなたでも"
+  },
+  "r_0199": {
+    "description": "7〜25歳の青少年向け無料オープンスペース。FASeソーシャルワーカー（BUPPチーム）が運営。ボードゲーム、工作、テーブルサッカー。月1回の外出。7〜11歳は水曜、12〜25歳は水〜金曜。",
+    "target_audience": "7〜25歳の青少年",
+    "access_conditions": "無料、登録不要のオープンアクセス"
+  },
+  "r_0200": {
+    "description": "11〜25歳の青少年向けアクティビティスペース。FASeソーシャルワーカー（BUPPチーム）が運営。木曜の音楽スタジオ（Stud、要予約）、金曜のBoumsパーティー（10〜14歳）、水曜のスポーツ（11月〜4月）。",
+    "target_audience": "11〜25歳の青少年",
+    "access_conditions": "無料、活動により予約が必要"
+  },
+  "r_0201": {
+    "description": "ジュネーブ州・市の助成を受ける15の女性・フェミニスト団体の連合体。女性健康スペースでは無料で健康相談・情報提供（更年期、性、妊娠、加齢）。行政・社会的支援、ウェルネスワークショップ。",
+    "target_audience": "女性、トランスジェンダー、ノンバイナリー、インターセックスの方",
+    "access_conditions": "無料、女性およびジェンダーマイノリティに開放"
+  },
+  "r_0202": {
+    "description": "Hospice généralによるServetteおよびPetit-Saconnex、Vieusseux地区の社会福祉センター。経済的援助、個別の社会的支援、住居支援、職業統合、行政サポート。",
+    "target_audience": "Servette、Petit-Saconnex、Vieusseux地区の困難を抱える住民",
+    "access_conditions": "予約制、ジュネーブ州在住者対象"
+  },
+  "r_0203": {
+    "description": "Perle du Lac公園で2009年から毎夏開催される無料野外映画祭。50本以上の映画をフランス語字幕付きオリジナル版で上映。19時からイベント、日没時上映。季節限定：7〜8月のみ。",
+    "target_audience": "すべての方",
+    "access_conditions": "無料、予約不要。季節限定：7〜8月のみ。"
+  },
   "tag": {
     "143": "143",
     "147": "147",

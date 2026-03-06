@@ -979,6 +979,41 @@
     "target_audience": "Chiunque necessiti di consulenza giuridica o aiuto nella redazione di corrispondenza",
     "access_conditions": "Gratuito, confidenziale, aperto a tutti. Appuntamento tramite pje-ge.ch. Aiuto nella redazione di corrispondenza disponibile."
   },
+  "r_0197": {
+    "description": "Biblioteca comunale gratuita con oltre 14.000 documenti: romanzi, saggistica, fumetti, riviste, libri a caratteri grandi e audiolibri. Iscrizione e prestito gratuiti.",
+    "target_audience": "Tutti",
+    "access_conditions": "Iscrizione gratuita, aperto a tutti"
+  },
+  "r_0198": {
+    "description": "Distribuzione gratuita di abbigliamento (uomo, donna, bambino) e biancheria per la casa per persone in difficoltà. Programma della Fondazione Carrefour-Rue & Coulou.",
+    "target_audience": "Persone in difficoltà",
+    "access_conditions": "Gratuito, aperto a chiunque ne abbia bisogno"
+  },
+  "r_0199": {
+    "description": "Spazio di accoglienza libero per giovani dai 7 ai 25 anni, gestito da educatori sociali della FASe (team BUPP). Giochi da tavolo, bricolage, biliardino. Uscite mensili. 7-11 anni il mercoledì, 12-25 anni da mercoledì a venerdì.",
+    "target_audience": "Giovani dai 7 ai 25 anni",
+    "access_conditions": "Gratuito, accesso libero senza iscrizione"
+  },
+  "r_0200": {
+    "description": "Spazio di attività per giovani dagli 11 ai 25 anni, gestito da educatori sociali della FASe (team BUPP). Studio musicale (Stud) il giovedì su iscrizione, serate Boums il venerdì (10-14 anni), sport per tutti il mercoledì (novembre-aprile).",
+    "target_audience": "Giovani dagli 11 ai 25 anni",
+    "access_conditions": "Gratuito, iscrizione necessaria per alcune attività"
+  },
+  "r_0201": {
+    "description": "Collettivo di 15 associazioni femminili e femministe sovvenzionato dal Cantone e dalla Città di Ginevra. Lo Spazio Salute Donne offre gratuitamente consulenze e informazioni sanitarie (menopausa, sessualità, gravidanza, invecchiamento). Supporto amministrativo e sociale, laboratori di benessere.",
+    "target_audience": "Donne, persone trans, non binarie e/o intersessuali",
+    "access_conditions": "Gratuito, aperto a donne e minoranze di genere"
+  },
+  "r_0202": {
+    "description": "Centro d'azione sociale di prossimità dell'Hospice général per i quartieri di Servette, Petit-Saconnex e Vieusseux. Aiuto finanziario, accompagnamento sociale personalizzato, aiuto all'alloggio, inserimento professionale e supporto amministrativo.",
+    "target_audience": "Residenti dei quartieri Servette, Petit-Saconnex, Vieusseux in difficoltà",
+    "access_conditions": "Su appuntamento, residenti del Cantone di Ginevra"
+  },
+  "r_0203": {
+    "description": "Festival di cinema all'aperto gratuito al Parc de la Perle du Lac, ogni estate dal 2009. Oltre 50 film in versione originale con sottotitoli in francese. Animazioni dalle 19, proiezione al tramonto. Evento stagionale: solo luglio-agosto.",
+    "target_audience": "Tutti",
+    "access_conditions": "Gratuito, senza prenotazione. Stagionale: solo luglio-agosto."
+  },
   "tag": {
     "143": "143",
     "147": "147",

@@ -979,6 +979,41 @@
     "target_audience": "Każda osoba potrzebująca porady prawnej lub pomocy w pisaniu korespondencji",
     "access_conditions": "Bezpłatne, poufne, otwarte dla wszystkich. Umówienie wizyty przez pje-ge.ch. Pomoc w redagowaniu korespondencji."
   },
+  "r_0197": {
+    "description": "Bezpłatna biblioteka gminna z ponad 14 000 dokumentów: powieści, literatura faktu, komiksy, czasopisma, książki dużym drukiem i audiobooki. Bezpłatna rejestracja i wypożyczanie.",
+    "target_audience": "Wszyscy",
+    "access_conditions": "Bezpłatna rejestracja, otwarta dla wszystkich"
+  },
+  "r_0198": {
+    "description": "Bezpłatna dystrybucja odzieży (męskiej, damskiej, dziecięcej) i pościeli dla osób w potrzebie. Program Fundacji Carrefour-Rue & Coulou.",
+    "target_audience": "Osoby w potrzebie",
+    "access_conditions": "Bezpłatne, otwarte dla wszystkich potrzebujących"
+  },
+  "r_0199": {
+    "description": "Otwarta przestrzeń dla młodzieży w wieku 7-25 lat, prowadzona przez pracowników socjalnych FASe (zespół BUPP). Gry planszowe, rękodzieło, piłkarzyki. Miesięczne wycieczki. 7-11 lat w środy, 12-25 lat od środy do piątku.",
+    "target_audience": "Młodzież w wieku 7-25 lat",
+    "access_conditions": "Bezpłatne, otwarty dostęp bez rejestracji"
+  },
+  "r_0200": {
+    "description": "Przestrzeń aktywności dla młodzieży w wieku 11-25 lat, prowadzona przez pracowników socjalnych FASe (zespół BUPP). Studio muzyczne (Stud) w czwartki po zapisach, imprezy Boums w piątki (10-14 lat), sport dla wszystkich w środy (listopad-kwiecień).",
+    "target_audience": "Młodzież w wieku 11-25 lat",
+    "access_conditions": "Bezpłatne, zapisy wymagane dla niektórych zajęć"
+  },
+  "r_0201": {
+    "description": "Kolektyw 15 stowarzyszeń kobiecych i feministycznych dotowany przez Kanton i Miasto Genewa. Przestrzeń Zdrowia Kobiet oferuje bezpłatne porady i informacje zdrowotne (menopauza, seksualność, ciąża, starzenie się). Wsparcie administracyjne i społeczne, warsztaty wellnessu.",
+    "target_audience": "Kobiety, osoby transpłciowe, niebinarne i/lub interpłciowe",
+    "access_conditions": "Bezpłatne, otwarte dla kobiet i mniejszości płciowych"
+  },
+  "r_0202": {
+    "description": "Lokalny ośrodek pomocy społecznej Hospice général dla dzielnic Servette, Petit-Saconnex i Vieusseux. Pomoc finansowa, spersonalizowane wsparcie społeczne, pomoc mieszkaniowa, integracja zawodowa i wsparcie administracyjne.",
+    "target_audience": "Mieszkańcy dzielnic Servette, Petit-Saconnex, Vieusseux w trudnej sytuacji",
+    "access_conditions": "Na umówione spotkanie, mieszkańcy kantonu Genewa"
+  },
+  "r_0203": {
+    "description": "Bezpłatny festiwal kina plenerowego w Parc de la Perle du Lac, co lato od 2009 roku. Ponad 50 filmów w wersji oryginalnej z francuskimi napisami. Atrakcje od 19:00, seans o zachodzie słońca. Wydarzenie sezonowe: tylko lipiec-sierpień.",
+    "target_audience": "Wszyscy",
+    "access_conditions": "Bezpłatne, bez rezerwacji. Sezonowe: tylko lipiec-sierpień."
+  },
   "tag": {
     "143": "143",
     "147": "147",

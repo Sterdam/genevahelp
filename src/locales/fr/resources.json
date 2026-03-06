@@ -979,6 +979,41 @@
     "target_audience": "Toute personne ayant besoin de conseils juridiques ou d'aide à la rédaction de courrier",
     "access_conditions": "Gratuit, confidentiel, ouvert à tous. Rendez-vous via le site pje-ge.ch. Aide à la rédaction de courrier disponible."
   },
+  "r_0197": {
+    "description": "Bibliothèque municipale gratuite proposant plus de 14'000 documents : romans, documentaires, bandes dessinées, revues, livres en gros caractères et livres audio. Inscription et emprunt gratuits.",
+    "target_audience": "Tout public",
+    "access_conditions": "Inscription gratuite, ouvert à tous"
+  },
+  "r_0198": {
+    "description": "Distribution gratuite de vêtements (hommes, femmes, enfants) et de linge de maison pour les personnes en situation de précarité. Programme géré par la Fondation Carrefour-Rue & Coulou.",
+    "target_audience": "Personnes en situation de précarité",
+    "access_conditions": "Gratuit, ouvert à toute personne dans le besoin"
+  },
+  "r_0199": {
+    "description": "Espace d'accueil libre pour les jeunes de 7 à 25 ans, géré par les TSHM de la FASe (équipe BUPP). Jeux de société, bricolage, baby-foot, TV-DVD. Sorties mensuelles (culture, sport, découverte). Accueil 7-11 ans le mercredi, accueil libre 12-25 ans mercredi à vendredi.",
+    "target_audience": "Jeunes de 7 à 25 ans",
+    "access_conditions": "Gratuit, accueil libre sans inscription"
+  },
+  "r_0200": {
+    "description": "Espace d'activités pour les jeunes de 11 à 25 ans, géré par les TSHM de la FASe (équipe BUPP). Studio de musique (Stud) le jeudi sur inscription, soirées Boums le vendredi (10-14 ans), sport pour tous le mercredi (novembre à avril).",
+    "target_audience": "Jeunes de 11 à 25 ans",
+    "access_conditions": "Gratuit, sur inscription selon les activités"
+  },
+  "r_0201": {
+    "description": "Collectif de 15 associations féminines et féministes subventionné par le Canton et la Ville de Genève. L'Espace Santé Femmes offre gratuitement conseils, information et orientation en santé (ménopause, sexualité, grossesse, vieillissement). Soutien administratif et social, ateliers bien-être.",
+    "target_audience": "Femmes, personnes trans, non-binaires et/ou intersexes",
+    "access_conditions": "Gratuit, ouvert aux femmes et minorités de genre"
+  },
+  "r_0202": {
+    "description": "Centre d'action sociale de proximité de l'Hospice général pour les quartiers de la Servette, du Petit-Saconnex et de Vieusseux. Aide financière, accompagnement social personnalisé, aide au logement, insertion professionnelle et soutien administratif.",
+    "target_audience": "Résidents des quartiers Servette, Petit-Saconnex, Vieusseux en difficulté",
+    "access_conditions": "Sur rendez-vous, résidents du canton de Genève"
+  },
+  "r_0203": {
+    "description": "Festival de cinéma en plein air gratuit au Parc de la Perle du Lac, chaque été depuis 2009. Plus de 50 films en version originale sous-titrée français. Animations dès 19h, séance au coucher du soleil. Événement saisonnier : juillet-août uniquement.",
+    "target_audience": "Tout public",
+    "access_conditions": "Gratuit, sans réservation. Saisonnier : juillet-août uniquement."
+  },
   "tag": {
     "143": "143",
     "147": "147",

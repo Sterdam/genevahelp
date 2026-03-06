@@ -979,6 +979,41 @@
     "target_audience": "任何需要法律咨询或信函撰写帮助的人",
     "access_conditions": "免费、保密、向所有人开放。通过pje-ge.ch预约。提供信函撰写帮助。"
   },
+  "r_0197": {
+    "description": "免费市立图书馆，藏书超过14,000册：小说、纪实文学、漫画、杂志、大字印刷书籍和有声读物。免费注册和借阅。",
+    "target_audience": "所有人",
+    "access_conditions": "免费注册，向所有人开放"
+  },
+  "r_0198": {
+    "description": "为困难人群免费分发服装（男装、女装、童装）和家用布料。由Carrefour-Rue & Coulou基金会运营。",
+    "target_audience": "困难人群",
+    "access_conditions": "免费，面向所有有需要的人"
+  },
+  "r_0199": {
+    "description": "面向7至25岁青少年的免费开放接待空间，由FASe社会工作者（BUPP团队）管理。桌游、手工、桌上足球。每月外出活动。7-11岁周三，12-25岁周三至周五。",
+    "target_audience": "7至25岁青少年",
+    "access_conditions": "免费，无需注册的开放接待"
+  },
+  "r_0200": {
+    "description": "面向11至25岁青少年的活动空间，由FASe社会工作者（BUPP团队）管理。周四音乐工作室（Stud，需注册），周五Boums派对（10-14岁），周三全民运动（11月至4月）。",
+    "target_audience": "11至25岁青少年",
+    "access_conditions": "免费，部分活动需注册"
+  },
+  "r_0201": {
+    "description": "由日内瓦州和市资助的15个女性和女权主义协会联盟。女性健康空间免费提供健康咨询和信息（更年期、性健康、怀孕、衰老）。行政和社会支持、健康工作坊。",
+    "target_audience": "女性、跨性别者、非二元和/或间性人士",
+    "access_conditions": "免费，面向女性和性别少数群体开放"
+  },
+  "r_0202": {
+    "description": "Hospice général在Servette、Petit-Saconnex和Vieusseux社区的社会行动中心。提供经济援助、个性化社会陪伴、住房帮助、职业融入和行政支持。",
+    "target_audience": "Servette、Petit-Saconnex、Vieusseux社区有困难的居民",
+    "access_conditions": "需预约，面向日内瓦州居民"
+  },
+  "r_0203": {
+    "description": "Perle du Lac公园免费露天电影节，自2009年起每年夏季举办。50多部原版电影配法语字幕。19时起活动，日落时放映。季节性活动：仅限7-8月。",
+    "target_audience": "所有人",
+    "access_conditions": "免费，无需预约。季节性：仅限7-8月。"
+  },
   "tag": {
     "143": "143",
     "147": "147",

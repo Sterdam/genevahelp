@@ -979,6 +979,41 @@
     "target_audience": "Jede Person, die Rechtsberatung oder Hilfe beim Briefschreiben benötigt",
     "access_conditions": "Kostenlos, vertraulich, offen für alle. Terminvereinbarung über pje-ge.ch. Hilfe beim Verfassen von Korrespondenz verfügbar."
   },
+  "r_0197": {
+    "description": "Kostenlose Gemeindebibliothek mit über 14.000 Medien: Romane, Sachbücher, Comics, Zeitschriften, Großdruckbücher und Hörbücher. Anmeldung und Ausleihe kostenlos.",
+    "target_audience": "Alle",
+    "access_conditions": "Kostenlose Anmeldung, offen für alle"
+  },
+  "r_0198": {
+    "description": "Kostenlose Verteilung von Kleidung (Herren, Damen, Kinder) und Haushaltswäsche für bedürftige Menschen. Programm der Stiftung Carrefour-Rue & Coulou.",
+    "target_audience": "Bedürftige Personen",
+    "access_conditions": "Kostenlos, offen für alle Bedürftigen"
+  },
+  "r_0199": {
+    "description": "Offener Treffpunkt für Jugendliche von 7 bis 25 Jahren, betrieben von FASe-Sozialarbeitern (BUPP-Team). Gesellschaftsspiele, Basteln, Tischfußball. Monatliche Ausflüge. Altersgruppe 7-11 mittwochs, 12-25 Mittwoch bis Freitag.",
+    "target_audience": "Jugendliche von 7 bis 25 Jahren",
+    "access_conditions": "Kostenlos, offener Zugang ohne Anmeldung"
+  },
+  "r_0200": {
+    "description": "Aktivitätenraum für Jugendliche von 11 bis 25 Jahren, betrieben von FASe-Sozialarbeitern (BUPP-Team). Musikstudio (Stud) donnerstags mit Anmeldung, Boums-Partys freitags (10-14 Jahre), Sport für alle mittwochs (November bis April).",
+    "target_audience": "Jugendliche von 11 bis 25 Jahren",
+    "access_conditions": "Kostenlos, Anmeldung je nach Aktivität erforderlich"
+  },
+  "r_0201": {
+    "description": "Kollektiv von 15 Frauenvereinigungen, subventioniert von Kanton und Stadt Genf. Der Gesundheitsraum für Frauen bietet kostenlose Beratung und Information zu Gesundheitsthemen (Menopause, Sexualität, Schwangerschaft, Alter). Administrative und soziale Unterstützung, Wellness-Workshops.",
+    "target_audience": "Frauen, trans, nicht-binäre und/oder intersexuelle Personen",
+    "access_conditions": "Kostenlos, offen für Frauen und Geschlechterminderheiten"
+  },
+  "r_0202": {
+    "description": "Lokales Sozialzentrum des Hospice général für die Quartiere Servette, Petit-Saconnex und Vieusseux. Finanzielle Hilfe, persönliche Sozialbegleitung, Wohnungsunterstützung, berufliche Eingliederung und administrative Unterstützung.",
+    "target_audience": "Bewohner der Quartiere Servette, Petit-Saconnex, Vieusseux in Schwierigkeiten",
+    "access_conditions": "Auf Termin, Bewohner des Kantons Genf"
+  },
+  "r_0203": {
+    "description": "Kostenloses Open-Air-Kinofestival im Parc de la Perle du Lac, jeden Sommer seit 2009. Über 50 Filme in Originalversion mit französischen Untertiteln. Unterhaltung ab 19 Uhr, Vorführung bei Sonnenuntergang. Saisonveranstaltung: nur Juli-August.",
+    "target_audience": "Alle",
+    "access_conditions": "Kostenlos, ohne Reservierung. Saisonal: nur Juli-August."
+  },
   "tag": {
     "143": "143",
     "147": "147",

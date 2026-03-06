@@ -979,6 +979,41 @@
     "target_audience": "법률 상담이나 서신 작성 도움이 필요한 모든 사람",
     "access_conditions": "무료, 비밀 보장, 모든 사람에게 개방. pje-ge.ch에서 예약. 서신 작성 도움 가능."
   },
+  "r_0197": {
+    "description": "14,000점 이상의 자료를 보유한 무료 시립 도서관: 소설, 논픽션, 만화, 잡지, 큰 글씨 책, 오디오북. 무료 등록 및 대출.",
+    "target_audience": "모든 분",
+    "access_conditions": "무료 등록, 누구나 이용 가능"
+  },
+  "r_0198": {
+    "description": "어려운 처지의 사람들을 위한 의류(남성, 여성, 아동)와 가정용 직물의 무료 배포. Carrefour-Rue & Coulou 재단 운영.",
+    "target_audience": "어려운 처지의 사람들",
+    "access_conditions": "무료, 도움이 필요한 모든 분에게 개방"
+  },
+  "r_0199": {
+    "description": "7~25세 청소년을 위한 무료 개방형 공간. FASe 사회복지사(BUPP 팀) 운영. 보드게임, 공예, 테이블 축구. 월간 외출 활동. 7-11세 수요일, 12-25세 수~금요일.",
+    "target_audience": "7~25세 청소년",
+    "access_conditions": "무료, 등록 없이 자유 이용"
+  },
+  "r_0200": {
+    "description": "11~25세 청소년을 위한 활동 공간. FASe 사회복지사(BUPP 팀) 운영. 목요일 음악 스튜디오(Stud, 등록 필요), 금요일 Boums 파티(10-14세), 수요일 모두를 위한 스포츠(11월~4월).",
+    "target_audience": "11~25세 청소년",
+    "access_conditions": "무료, 활동에 따라 등록 필요"
+  },
+  "r_0201": {
+    "description": "제네바 주와 시의 보조금을 받는 15개 여성 및 페미니스트 단체의 연합. 여성건강공간에서 무료 건강 상담 및 정보 제공(갱년기, 성건강, 임신, 노화). 행정 및 사회적 지원, 웰빙 워크숍.",
+    "target_audience": "여성, 트랜스젠더, 논바이너리, 인터섹스",
+    "access_conditions": "무료, 여성 및 성소수자에게 개방"
+  },
+  "r_0202": {
+    "description": "Servette, Petit-Saconnex, Vieusseux 지역을 위한 Hospice général 사회복지센터. 재정 지원, 맞춤형 사회 동행, 주거 지원, 직업 통합, 행정 지원.",
+    "target_audience": "Servette, Petit-Saconnex, Vieusseux 지역의 어려움을 겪는 주민",
+    "access_conditions": "예약제, 제네바 주 거주자 대상"
+  },
+  "r_0203": {
+    "description": "Perle du Lac 공원에서 2009년부터 매년 여름 열리는 무료 야외 영화제. 프랑스어 자막이 있는 원어 영화 50편 이상. 19시부터 행사, 일몰 시 상영. 계절 행사: 7-8월만.",
+    "target_audience": "모든 분",
+    "access_conditions": "무료, 예약 불필요. 계절 행사: 7-8월만."
+  },
   "tag": {
     "143": "143",
     "147": "147",

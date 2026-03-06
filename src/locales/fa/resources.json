@@ -979,6 +979,41 @@
     "target_audience": "Anyone seeking legal advice or help with writing correspondence",
     "access_conditions": "Free, confidential, open to all. Appointment via pje-ge.ch website. Help with writing correspondence available."
   },
+  "r_0197": {
+    "description": "Free municipal library with over 14,000 items: novels, non-fiction, comics, magazines, large print and audiobooks. Free registration and borrowing.",
+    "target_audience": "Everyone",
+    "access_conditions": "Free registration, open to all"
+  },
+  "r_0198": {
+    "description": "Free distribution of clothing (men, women, children) and household linen for people in need. Program run by the Carrefour-Rue & Coulou Foundation.",
+    "target_audience": "People in need",
+    "access_conditions": "Free, open to anyone in need"
+  },
+  "r_0199": {
+    "description": "Free drop-in center for young people aged 7 to 25, run by FASe social workers (BUPP team). Board games, crafts, table football, TV-DVD. Monthly outings (culture, sports, discovery). Ages 7-11 on Wednesdays, ages 12-25 Wednesday to Friday.",
+    "target_audience": "Young people aged 7 to 25",
+    "access_conditions": "Free, open drop-in, no registration needed"
+  },
+  "r_0200": {
+    "description": "Activity space for young people aged 11 to 25, run by FASe social workers (BUPP team). Music studio (Stud) on Thursdays by registration, Boums parties on Fridays (ages 10-14), sports for all on Wednesdays (November to April).",
+    "target_audience": "Young people aged 11 to 25",
+    "access_conditions": "Free, registration required for some activities"
+  },
+  "r_0201": {
+    "description": "Collective of 15 women's and feminist associations subsidized by the Canton and City of Geneva. The Women's Health Space offers free advice, information and health guidance (menopause, sexuality, pregnancy, aging). Administrative and social support, wellness workshops.",
+    "target_audience": "Women, trans, non-binary and/or intersex people",
+    "access_conditions": "Free, open to women and gender minorities"
+  },
+  "r_0202": {
+    "description": "Local social action center of the Hospice général for the Servette, Petit-Saconnex and Vieusseux neighborhoods. Financial aid, personalized social support, housing assistance, professional integration and administrative support.",
+    "target_audience": "Residents of Servette, Petit-Saconnex, Vieusseux neighborhoods in difficulty",
+    "access_conditions": "By appointment, residents of the Canton of Geneva"
+  },
+  "r_0203": {
+    "description": "Free open-air cinema festival at Parc de la Perle du Lac, every summer since 2009. Over 50 films in original version with French subtitles. Entertainment from 7pm, screening at sunset. Seasonal event: July-August only.",
+    "target_audience": "Everyone",
+    "access_conditions": "Free, no reservation needed. Seasonal: July-August only."
+  },
   "tag": {
     "143": "۱۴۳",
     "147": "۱۴۷",

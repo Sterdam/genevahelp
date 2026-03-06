@@ -979,6 +979,41 @@
     "target_audience": "Hukuki danışmanlığa veya yazışma yazımında yardıma ihtiyaç duyan herkes",
     "access_conditions": "Ücretsiz, gizli, herkese açık. pje-ge.ch üzerinden randevu. Yazışma yazımında yardım mevcut."
   },
+  "r_0197": {
+    "description": "14.000'den fazla belgeye sahip ücretsiz belediye kütüphanesi: romanlar, belgeseller, çizgi romanlar, dergiler, büyük baskılı kitaplar ve sesli kitaplar. Kayıt ve ödünç alma ücretsizdir.",
+    "target_audience": "Herkes",
+    "access_conditions": "Ücretsiz kayıt, herkese açık"
+  },
+  "r_0198": {
+    "description": "İhtiyaç sahibi kişilere ücretsiz giysi (erkek, kadın, çocuk) ve ev tekstili dağıtımı. Carrefour-Rue & Coulou Vakfı programı.",
+    "target_audience": "İhtiyaç sahibi kişiler",
+    "access_conditions": "Ücretsiz, ihtiyacı olan herkese açık"
+  },
+  "r_0199": {
+    "description": "7-25 yaş arası gençler için ücretsiz açık kabul alanı, FASe sosyal çalışanları (BUPP ekibi) tarafından yönetilmektedir. Masa oyunları, el işleri, langırt. Aylık geziler. 7-11 yaş çarşamba, 12-25 yaş çarşamba-cuma.",
+    "target_audience": "7-25 yaş arası gençler",
+    "access_conditions": "Ücretsiz, kayıt gerektirmeyen açık erişim"
+  },
+  "r_0200": {
+    "description": "11-25 yaş arası gençler için etkinlik alanı, FASe sosyal çalışanları (BUPP ekibi) tarafından yönetilmektedir. Perşembe müzik stüdyosu (Stud, kayıtla), cuma Boums partileri (10-14 yaş), çarşamba herkes için spor (kasım-nisan).",
+    "target_audience": "11-25 yaş arası gençler",
+    "access_conditions": "Ücretsiz, bazı etkinlikler için kayıt gerekli"
+  },
+  "r_0201": {
+    "description": "Cenevre Kantonu ve Şehri tarafından sübvanse edilen 15 kadın ve feminist derneğin kolektifi. Kadın Sağlık Alanı ücretsiz sağlık danışmanlığı ve bilgi sunmaktadır (menopoz, cinsellik, hamilelik, yaşlanma). İdari ve sosyal destek, sağlıklı yaşam atölyeleri.",
+    "target_audience": "Kadınlar, trans, non-binary ve/veya interseks bireyler",
+    "access_conditions": "Ücretsiz, kadınlara ve cinsiyet azınlıklarına açık"
+  },
+  "r_0202": {
+    "description": "Hospice général'in Servette, Petit-Saconnex ve Vieusseux mahalleleri için yerel sosyal eylem merkezi. Mali yardım, kişiselleştirilmiş sosyal destek, konut yardımı, mesleki entegrasyon ve idari destek.",
+    "target_audience": "Servette, Petit-Saconnex, Vieusseux mahallelerindeki zorluk yaşayan sakinler",
+    "access_conditions": "Randevu ile, Cenevre Kantonu sakinleri"
+  },
+  "r_0203": {
+    "description": "Perle du Lac Parkı'nda 2009'dan beri her yaz düzenlenen ücretsiz açık hava sinema festivali. Fransızca altyazılı orijinal versiyonda 50'den fazla film. 19:00'dan itibaren etkinlikler, gün batımında gösterim. Mevsimsel etkinlik: yalnızca temmuz-ağustos.",
+    "target_audience": "Herkes",
+    "access_conditions": "Ücretsiz, rezervasyon gerektirmez. Mevsimsel: yalnızca temmuz-ağustos."
+  },
   "tag": {
     "143": "143",
     "147": "147",
