@@ -56,7 +56,14 @@ export function getAllAdminResources(): Resource[] {
   })) as (Resource & { _hidden?: boolean })[]
 }
 
-/** Resources visible to the public (not hidden, not deleted) */
+/** Check if a seasonal resource is currently visible */
+function isSeasonallyVisible(resource: Resource): boolean {
+  if (!resource.seasonal) return true
+  const month = new Date().getMonth() + 1
+  return month >= resource.seasonal.start_month && month <= resource.seasonal.end_month
+}
+
+/** Resources visible to the public (not hidden, not deleted, seasonal filter) */
 export function getPublicResources(): Resource[] {
   const hidden = getHiddenIds()
   const deleted = getDeletedIds()
@@ -64,7 +71,7 @@ export function getPublicResources(): Resource[] {
   const manual = getManualResources()
 
   return [...DEMO_RESOURCES, ...manual]
-    .filter((r) => !deleted.has(r.id) && !hidden.has(r.id))
+    .filter((r) => !deleted.has(r.id) && !hidden.has(r.id) && isSeasonallyVisible(r))
     .map((r) => edits[r.id] ? { ...r, ...edits[r.id] } : r)
 }
 

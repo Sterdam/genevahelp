@@ -41,6 +41,7 @@ export interface Resource {
   verified: boolean
   featured: boolean
   upvotes: number
+  seasonal?: { start_month: number; end_month: number }
   created_at: string
   updated_at: string
 }

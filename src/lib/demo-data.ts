@@ -6045,6 +6045,7 @@ export const DEMO_RESOURCES: Resource[] = [
     description: 'Festival de cinéma en plein air gratuit au Parc de la Perle du Lac, chaque été depuis 2009. Plus de 50 films en version originale sous-titrée français. Animations dès 19h, buvette, séance au coucher du soleil (~21h15). Événement saisonnier : juillet-août uniquement (jeudi à dimanche). Chaises longues en location (5 CHF) ou apporter sa couverture.',
     category: 'other',
     tags: ['cinéma', 'gratuit', 'plein air', 'été', 'culture', 'loisirs', 'saisonnier'],
+    seasonal: { start_month: 7, end_month: 8 },
     address: 'Parc de la Perle du Lac, Rue de Lausanne, 1202 Genève',
     latitude: 46.2165,
     longitude: 6.1485,
