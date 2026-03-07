@@ -1014,6 +1014,21 @@
     "target_audience": "Herkes",
     "access_conditions": "Ücretsiz, rezervasyon gerektirmez. Mevsimsel: yalnızca temmuz-ağustos."
   },
+  "r_0204": {
+    "description": "Bir yetişkin eşliğindeki çocuklar için ücretsiz, anonim ve kayıt gerektirmeyen karşılama alanı. Sıcak ve kapsayıcı bir ortamda etkinlikler, oyunlar, eğitim desteği. İçecekler ve atıştırmalıklar ücretsiz.",
+    "target_audience": "Bir yetişkin eşliğindeki çocuklar",
+    "access_conditions": "Ücretsiz, anonim, kayıt gerektirmez"
+  },
+  "r_0205": {
+    "description": "Maison Verte konseptinden ilham alan, 0-4 yaş arası çocuklar ve ebeveynleri için karşılama alanı. Oyun, konuşma ve sosyalleşme yeri. Serbest mali katkı (ücretsiz mümkün).",
+    "target_audience": "0-4 yaş arası çocuklar ve ebeveynleri",
+    "access_conditions": "Serbest katkı (ücretsiz mümkün). Kayıt gerektirmez, anonim."
+  },
+  "r_0206": {
+    "description": "Cenevre Üniversitesi'nin kalbinde herkese açık ücretsiz buluşma alanı. Üniversite topluluğu ile göçmenler arasında bağ kurma, Fransızca pratik yapma ve Cenevre'deki yaşamı keşfetme. Kahve, çay ve kruvasan ikram edilir.",
+    "target_audience": "Herkes, özellikle göçmenler ve üniversite topluluğu",
+    "access_conditions": "Ücretsiz, taahhütsüz, herkese açık. Üniversite dönemleri boyunca."
+  },
   "tag": {
     "143": "143",
     "147": "147",

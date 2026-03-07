@@ -175,9 +175,9 @@
     "access_conditions": "Ouvert à tous"
   },
   "r_0036": {
-    "description": "Free distribution of clothing, shoes and household linen for people in precarious situations. Jointly managed by the Protestant Social Centre (CSP), Caritas Geneva and the Geneva Red Cross.",
-    "target_audience": "People in precarious situations",
-    "access_conditions": "Upon presentation of a voucher issued by social services, CSP, Caritas Geneva or the Geneva Red Cross"
+    "description": "Distribution gratuite de vêtements, chaussures et linge de maison pour les personnes en situation de précarité. Géré conjointement par le Centre social protestant (CSP), Caritas Genève et la Croix-Rouge genevoise.",
+    "target_audience": "Personnes en situation de précarité",
+    "access_conditions": "Sur présentation d'un bon délivré par un service social, le CSP, Caritas Genève ou la Croix-Rouge genevoise"
   },
   "r_0037": {
     "description": "Cours de français langue étrangère pour adultes migrants. Niveaux débutant à avancé. Cours en journée et en soirée.",
@@ -245,9 +245,9 @@
     "access_conditions": "Accueil sans rendez-vous du lundi au vendredi de 8h à 15h30"
   },
   "r_0050": {
-    "description": "Reception, support and socio-professional reintegration center for people in precarious situations. Free breakfasts (150-200/week), hot meals on Monday and Thursday at 10am, pasta party every other Sunday (5pm-7:30pm), social activities and reintegration internships.",
-    "target_audience": "People in precarious situations",
-    "access_conditions": "No conditions, open access. Hot meals Monday and Thursday at 10am. Pasta party every other Sunday 5pm-7:30pm."
+    "description": "Lieu d'accueil, de soutien et de réinsertion socioprofessionnelle pour personnes en situation de précarité. Petits-déjeuners gratuits (150-200/semaine), repas chauds le lundi et jeudi à 10h, pasta party un dimanche sur deux (17h-19h30), activités sociales et stages de réinsertion.",
+    "target_audience": "Personnes en situation de précarité",
+    "access_conditions": "Sans conditions, accueil libre. Repas chauds lundi et jeudi à 10h. Pasta party un dimanche sur deux 17h-19h30."
   },
   "r_0051": {
     "description": "Lieu d'accueil, de loisirs, de rencontres et de détente pour tous les âges, toutes les cultures et tous les milieux sociaux. Activités culturelles et sociales.",
@@ -415,9 +415,9 @@
     "access_conditions": "Appeler le numéro gratuit 0800 22 22 10 pour obtenir une place, accueil inconditionnel"
   },
   "r_0084": {
-    "description": "Unconditional daytime reception center at the Temple de la Servette for people in precarious situations. Solidarity meals, hot drinks, public writer (CVs, letters), French, English and IT workshops. Free legal permanence at 48 Rue de Berne (Mon 10am-12pm, Wed 5:30pm-7:30pm, Thu 10am-12pm): immigration law, family, employment, social insurance, criminal law.",
-    "target_audience": "People in precarious situations, migrants, homeless",
-    "access_conditions": "No conditions, unconditional welcome"
+    "description": "Lieu d'accueil de jour inconditionnel au Temple de la Servette pour les personnes en situation de précarité. Repas solidaires, boissons chaudes, écrivain public (CV, lettres), ateliers de français, anglais et informatique. Permanence juridique gratuite au 48 rue de Berne (lun 10h-12h, mer 17h30-19h30, jeu 10h-12h) : droit des étrangers, famille, travail, assurances sociales, pénal.",
+    "target_audience": "Personnes en situation de précarité, migrants, sans-abri",
+    "access_conditions": "Sans conditions, accueil inconditionnel"
   },
   "r_0085": {
     "description": "Bains publics emblématiques au bord du lac Léman. Plage de sable, bassins, plongeoirs (3-10m), sauna et hammam, buvette populaire. Entrée très abordable (2 CHF en été, 1 CHF en hiver).",
@@ -555,9 +555,9 @@
     "access_conditions": "Gratuit, sans inscription, enfants accompagnés"
   },
   "r_0112": {
-    "description": "Professional home childcare and babysitting service by the Geneva Red Cross. A trained caregiver comes to the family's home within 4 hours. Missions of 3-10 hours, 7 days a week. Paid service: CHF 5/h (with subsidy) or CHF 10/h (without subsidy). Also offers 'respiration vouchers' (4h of childcare for CHF 10).",
-    "target_audience": "Families with children needing home childcare",
-    "access_conditions": "Paid service: CHF 5/h (with subsidy), CHF 10/h (without subsidy). +CHF 2 per additional child. Book by phone."
+    "description": "Service professionnel de garde d'enfants à domicile et babysitting de la Croix-Rouge genevoise. Une intervenante formée se déplace au domicile de la famille sous 4 heures. Missions de 3 à 10 heures, 7j/7. Service payant : 5 CHF/h (avec subside) ou 10 CHF/h (sans subside). Propose aussi des « bons de respiration » (4h de garde pour 10 CHF).",
+    "target_audience": "Familles avec enfants ayant besoin de garde à domicile",
+    "access_conditions": "Service payant : 5 CHF/h (avec subside), 10 CHF/h (sans subside). +2 CHF par enfant supplémentaire. Réservation par téléphone."
   },
   "r_0113": {
     "description": "बालबालिका, परिवार र वयस्कहरूको लागि खेलौना र बोर्ड गेमको खेल क्षेत्र र उधारो सेवा। पार्टी र कार्यक्रमहरूको लागि ठूला र बाहिरी खेलहरू उपलब्ध।",
@@ -890,129 +890,144 @@
     "access_conditions": "स्थानीय निःशुल्क खेल। वार्षिक पारिवारिक सदस्यता (30 CHF) मा उधारो।"
   },
   "r_0179": {
-    "description": "Feminist and self-managed association offering a parent-baby welcome space (Marmotricité) for children aged 0-1 year and their parents. Psychomotor development support for babies in a collective and friendly setting, with special attention to families in precarious situations.",
-    "target_audience": "Parents and babies aged 0 to 1 year",
-    "access_conditions": "Free pricing, with special attention to families in precarious situations"
+    "description": "Association féministe et autogérée proposant un espace d'accueil parent-bébé (Marmotricité) pour les enfants de 0 à 1 an et leurs parents. Accompagnement psychomoteur des bébés dans un cadre collectif et convivial, avec une attention particulière aux populations en situation de précarité.",
+    "target_audience": "Parents et bébés de 0 à 1 an",
+    "access_conditions": "Prix libre, accueil avec attention particulière aux familles en situation de précarité"
   },
   "r_0180": {
-    "description": "Multicultural meeting and reception place open to all. Free meals (soup, pastries, hot meals, breakfast), food bag distribution, free social support and French language courses.",
-    "target_audience": "Anyone in need",
-    "access_conditions": "Free welcome, open to all, no conditions. Food bag distribution by registration only."
+    "description": "Lieu d'accueil et de rencontre multiculturel ouvert à tous. Repas gratuits (soupe, pâtisseries, repas chauds, petit-déjeuner), distribution de sacs de nourriture, accompagnement social gratuit et cours de français.",
+    "target_audience": "Toute personne dans le besoin",
+    "access_conditions": "Accueil gratuit, ouvert à tous, sans conditions. Distribution de sacs de nourriture sur inscription."
   },
   "r_0181": {
-    "description": "Public utility association welcoming women in great precarity. Hot meals, coffee, hygiene services (showers, laundry, hairdressing), essential necessities, social support by social workers, listening space and monthly cultural outings.",
-    "target_audience": "Women in great precarity, homeless women, undocumented women",
-    "access_conditions": "Low-threshold reception, no conditions, no appointment. Open to any woman in a precarious situation."
+    "description": "Association d'utilité publique accueillant les femmes en situation de grande précarité. Repas chauds, café, prestations d'hygiène (douches, buanderie, coiffure), produits de première nécessité, accompagnement social par des travailleuses sociales, espace d'écoute et sorties culturelles mensuelles.",
+    "target_audience": "Femmes en situation de grande précarité, femmes sans-abri, femmes sans-papiers",
+    "access_conditions": "Accueil bas-seuil, sans conditions, sans rendez-vous. Ouvert à toute femme en situation de précarité."
   },
   "r_0182": {
-    "description": "Historic public library with over 200 workspaces, free WiFi, free-access computer stations and reading room open in the evening. Free registration for borrowing. Access to over 30 million documents.",
-    "target_audience": "General public: students, researchers, readers",
-    "access_conditions": "Free entry, open to all. Free registration with ID for borrowing."
+    "description": "Bibliothèque publique historique avec plus de 200 places de travail, WiFi gratuit, postes informatiques en libre accès et salle de lecture ouverte en soirée. Inscription gratuite pour l'emprunt. Accès à plus de 30 millions de documents.",
+    "target_audience": "Tout public : étudiants, chercheurs, lecteurs",
+    "access_conditions": "Entrée libre et gratuite, ouverte à tous. Inscription gratuite avec pièce d'identité pour l'emprunt."
   },
   "r_0183": {
-    "description": "Social restaurant run by the City of Geneva offering free meals (breakfast and hot meals) and first-line social support. Daytime reception with listening, social support and referral to other social partners. Free and confidential.",
-    "target_audience": "People in precarious situations",
-    "access_conditions": "Open year-round without registration. Free and confidential. Meal ticket from 8am."
+    "description": "Restaurant social de la Ville de Genève offrant des repas gratuits (petit-déjeuner et repas chauds) et un accompagnement social de première ligne. Accueil de jour avec écoute, soutien social et orientation vers d'autres partenaires sociaux. Gratuit et confidentiel.",
+    "target_audience": "Personnes en situation de précarité",
+    "access_conditions": "Ouvert toute l'année sans inscription. Gratuit et confidentiel. Ticket pour repas chauds dès 08h00."
   },
   "r_0184": {
-    "description": "The BIS welcomes, informs and guides anyone seeking information about access to social benefits. Information and advice on financial problems, debt, housing and health. Access to social workers, psychologists and lawyers.",
-    "target_audience": "Anyone residing in Geneva, regardless of legal status",
-    "access_conditions": "Free, anonymous, no appointment needed, open to entire population regardless of legal status. Confidentiality guaranteed."
+    "description": "Le BIS accueille, informe et oriente toute personne souhaitant des renseignements sur l'accès aux prestations sociales. Informations et conseils sur les problèmes financiers, d'endettement, de logement et de santé. Accès à des travailleurs sociaux, psychologues et juristes.",
+    "target_audience": "Toute personne résidant à Genève, quel que soit son statut légal",
+    "access_conditions": "Gratuit, anonyme, sans rendez-vous, ouvert à toute la population quel que soit le statut légal. Confidentialité assurée."
   },
   "r_0185": {
-    "description": "Multilingual reception and advice space for parents before and after birth. Baby weighing, nursing chair, baby massage, babywearing, psychomotor development. Located in the Versoix toy library.",
-    "target_audience": "Pregnant women, parents with babies and young children, allophone families",
-    "access_conditions": "Free, no registration, open access. Closed during Geneva school holidays."
+    "description": "Espace d'accueil et de conseil multilingue pour les parents avant et après la naissance. Pesée de bébé, chaise d'allaitement, massage bébé, portage, psychomotricité. Situé dans les locaux de la ludothèque de Versoix.",
+    "target_audience": "Femmes enceintes, parents avec bébés et jeunes enfants, familles allophones",
+    "access_conditions": "Gratuit, sans inscription, libre accès. Fermé pendant les vacances scolaires genevoises."
   },
   "r_0186": {
-    "description": "Reception and support space for pregnant women and parents with baby up to 1 year. Free drop-in sessions led by midwives, psychomotor specialist on Mondays, French maternity workshop and birth preparation courses with community interpreters.",
-    "target_audience": "Pregnant women, parents with baby up to 1 year, families in migration situations",
-    "access_conditions": "Free, no registration for drop-in sessions. Registration required for French maternity workshop."
+    "description": "Espace d'accueil et de soutien pour femmes enceintes et parents avec bébé jusqu'à 1 an. Accueils libres animés par des sages-femmes, psychomotricienne le lundi, atelier de français maternité et cours de préparation à la naissance avec interprètes communautaires.",
+    "target_audience": "Femmes enceintes, parents avec bébé jusqu'à 1 an, familles en situation de migration",
+    "access_conditions": "Gratuit, sans inscription pour les accueils libres. Inscription nécessaire pour l'atelier de français maternité."
   },
   "r_0187": {
-    "description": "Every other Wednesday, a midwife welcomes parents at the Belle-Terre toy library to discuss topics, ask questions, weigh baby and play. Snack offered by the toy library.",
-    "target_audience": "Pregnant women, parents with babies and young children",
-    "access_conditions": "Free, no registration, open access. Every other Wednesday, outside school holidays."
+    "description": "Un mercredi sur deux, une sage-femme accueille les parents à la ludothèque Belle-Terre pour échanger, poser des questions, peser bébé et jouer. Goûter offert par la ludothèque.",
+    "target_audience": "Femmes enceintes, parents avec bébés et jeunes enfants",
+    "access_conditions": "Gratuit, sans inscription, libre accès. Un mercredi sur deux, hors vacances scolaires."
   },
   "r_0188": {
-    "description": "Specialized listening, advice and support center for anti-Black racism and discrimination, managed by UPAF (Université Populaire Africaine) in collaboration with CRAN and SYNA union. Located in the AfrikaLAB space.",
-    "target_audience": "Victims of anti-Black racism and racial discrimination",
-    "access_conditions": "Free listening and advice service for victims of anti-Black racism and discrimination"
+    "description": "Centre spécialisé d'écoute, de conseil et d'accompagnement en matière de discriminations et de racisme anti-Noir, géré par l'UPAF (Université Populaire Africaine) en collaboration avec le CRAN et le syndicat SYNA. Situé dans l'espace AfrikaLAB.",
+    "target_audience": "Personnes victimes de racisme anti-Noir et de discriminations raciales",
+    "access_conditions": "Service d'écoute et de conseil gratuit pour les personnes victimes de racisme anti-Noir et de discriminations"
   },
   "r_0189": {
-    "description": "Association created by parents in 2007, with over 1,200 members. Support services, social skills groups, parent meetings, training, conferences, sibling groups, job coaching and Centre for Reception and Support in Autism (CASA).",
-    "target_audience": "Autistic people (with or without diagnosis), families, siblings, professionals",
-    "access_conditions": "Open to autistic people, families and professionals. Association membership available."
+    "description": "Association créée par des parents en 2007, regroupant plus de 1200 membres. Services d'accompagnement, groupes de compétences sociales, rencontres parents, formations, conférences, groupe fratrie, job coaching et Centre d'accueil et de soutien en autisme (CASA).",
+    "target_audience": "Personnes autistes (avec ou sans diagnostic), familles, frères et sœurs, professionnels",
+    "access_conditions": "Ouvert aux personnes autistes, familles et professionnels. Adhésion à l'association possible."
   },
   "r_0190": {
-    "description": "Free public toilets located on Place du Bourg-de-Four in Geneva's Old Town. Cabins for people with reduced mobility accessible with Eurokey (available from Pro Infirmis Geneva).",
-    "target_audience": "General public",
-    "access_conditions": "Free and open access. Disability cabins with Eurokey (Pro Infirmis: 058 775 31 08)."
+    "description": "Toilettes publiques gratuites situées sur la Place du Bourg-de-Four dans la vieille ville de Genève. Cabines pour personnes à mobilité réduite accessibles avec clé Eurokey (disponible auprès de Pro Infirmis Genève).",
+    "target_audience": "Tout public",
+    "access_conditions": "Accès libre et gratuit. Cabines PMR avec clé Eurokey (Pro Infirmis : 058 775 31 08)."
   },
   "r_0191": {
-    "description": "Municipal library of the City of Geneva offering collections for adults and youth, a seed library, free WiFi, computer stations and cultural events. Free registration and borrowing.",
-    "target_audience": "General public (adults and youth)",
-    "access_conditions": "Free and open access. Free registration for borrowing."
+    "description": "Bibliothèque municipale de la Ville de Genève proposant des collections pour adultes et jeunes, une grainothèque, du WiFi gratuit, des postes informatiques et des animations culturelles. Inscription et emprunt gratuits.",
+    "target_audience": "Tout public (adultes et jeunes)",
+    "access_conditions": "Accès libre et gratuit. Inscription gratuite pour l'emprunt."
   },
   "r_0192": {
-    "description": "Reception, respite and meeting space for refugees. Support with administrative procedures, information on permits, housing and schooling, computer space and socio-cultural activities. Volunteer interpreters present daily.",
-    "target_audience": "Refugees in Geneva",
-    "access_conditions": "Open to refugees in Geneva. Free access without registration."
+    "description": "Espace d'accueil, de répit et de rencontre pour personnes réfugiées. Accompagnement pour les démarches administratives, informations sur les permis, logement et scolarisation, espace informatique et activités socioculturelles. Interprètes bénévoles présents quotidiennement.",
+    "target_audience": "Personnes réfugiées à Genève",
+    "access_conditions": "Ouvert aux personnes réfugiées à Genève. Accès libre sans inscription."
   },
   "r_0193": {
-    "description": "Free, anonymous drop-in space for children aged 0-5 accompanied by a close adult. Listening and support for both child and accompanying adult. Capacity of 20 people.",
-    "target_audience": "Children aged 0-5 accompanied by a close adult (parent, grandparent, childminder)",
-    "access_conditions": "Free, anonymous, no registration. Child remains under the responsibility of the accompanying adult."
+    "description": "Lieu d'accueil gratuit, anonyme et sans inscription pour enfants de 0 à 5 ans accompagnés d'un adulte proche. Écoute et soutien à l'enfant et à l'adulte accompagnant. Capacité de 20 personnes.",
+    "target_audience": "Enfants de 0 à 5 ans accompagnés d'un adulte proche (parent, grand-parent, maman de jour)",
+    "access_conditions": "Gratuit, anonyme, sans inscription. L'enfant reste sous la responsabilité de l'adulte accompagnant."
   },
   "r_0194": {
-    "description": "Free legal consultation offered by advanced law students from the University of Geneva (UNIGE). 30-minute consultations covering labour law, tenancy law, family law, social insurance, criminal law and immigration law. First Swiss Junior Enterprise to offer this service (since 2015).",
-    "target_audience": "Anyone seeking legal advice",
-    "access_conditions": "Free, open to all. Monday by appointment, Wednesday without appointment (first come, first served)."
+    "description": "Permanence juridique gratuite proposée par des étudiants en droit confirmés de l'Université de Genève (UNIGE). Consultations de 30 minutes couvrant le droit du travail, du bail, de la famille, des assurances sociales, pénal et des étrangers. Première Junior Entreprise suisse à offrir ce service (depuis 2015).",
+    "target_audience": "Toute personne ayant besoin de conseils juridiques",
+    "access_conditions": "Gratuit, ouvert à tous. Lundi sur rendez-vous, mercredi sans rendez-vous (premier arrivé, premier servi)."
   },
   "r_0195": {
-    "description": "Free and confidential legal consultations by advanced law students from the University of Geneva. 30-minute consultations by groups of 3 to 5 students. Covers labour law, tenancy law, family law, social insurance, criminal law and immigration law.",
-    "target_audience": "Anyone seeking legal advice",
-    "access_conditions": "Free, confidential, open to all. Appointment via pje-ge.ch website."
+    "description": "Consultations juridiques gratuites et confidentielles par des étudiants en droit confirmés de l'Université de Genève. Consultations de 30 minutes par groupes de 3 à 5 étudiants. Couvre le droit du travail, du bail, de la famille, des assurances sociales, pénal et des étrangers.",
+    "target_audience": "Toute personne ayant besoin de conseils juridiques",
+    "access_conditions": "Gratuit, confidentiel, ouvert à tous. Rendez-vous via le site pje-ge.ch."
   },
   "r_0196": {
-    "description": "Free and confidential legal consultations by law students from the University of Geneva. 45-minute consultations. In addition to legal advice, help with writing correspondence (in collaboration with Europe Charmilles).",
-    "target_audience": "Anyone seeking legal advice or help with writing correspondence",
-    "access_conditions": "Free, confidential, open to all. Appointment via pje-ge.ch website. Help with writing correspondence available."
+    "description": "Consultations juridiques gratuites et confidentielles par des étudiants en droit de l'Université de Genève. Consultations de 45 minutes. En plus des conseils juridiques, aide à la rédaction de courrier (en collaboration avec Europe Charmilles).",
+    "target_audience": "Toute personne ayant besoin de conseils juridiques ou d'aide à la rédaction de courrier",
+    "access_conditions": "Gratuit, confidentiel, ouvert à tous. Rendez-vous via le site pje-ge.ch. Aide à la rédaction de courrier disponible."
   },
   "r_0197": {
-    "description": "Free municipal library with over 14,000 items: novels, non-fiction, comics, magazines, large print and audiobooks. Free registration and borrowing.",
-    "target_audience": "Everyone",
-    "access_conditions": "Free registration, open to all"
+    "description": "Bibliothèque municipale gratuite proposant plus de 14'000 documents : romans, documentaires, bandes dessinées, revues, livres en gros caractères et livres audio. Inscription et emprunt gratuits.",
+    "target_audience": "Tout public",
+    "access_conditions": "Inscription gratuite, ouvert à tous"
   },
   "r_0198": {
-    "description": "Free distribution of clothing (men, women, children) and household linen for people in need. Program run by the Carrefour-Rue & Coulou Foundation.",
-    "target_audience": "People in need",
-    "access_conditions": "Free, open to anyone in need"
+    "description": "Distribution gratuite de vêtements (hommes, femmes, enfants) et de linge de maison pour les personnes en situation de précarité. Programme géré par la Fondation Carrefour-Rue & Coulou.",
+    "target_audience": "Personnes en situation de précarité",
+    "access_conditions": "Gratuit, ouvert à toute personne dans le besoin"
   },
   "r_0199": {
-    "description": "Free drop-in center for young people aged 7 to 25, run by FASe social workers (BUPP team). Board games, crafts, table football, TV-DVD. Monthly outings (culture, sports, discovery). Ages 7-11 on Wednesdays, ages 12-25 Wednesday to Friday.",
-    "target_audience": "Young people aged 7 to 25",
-    "access_conditions": "Free, open drop-in, no registration needed"
+    "description": "Espace d'accueil libre pour les jeunes de 7 à 25 ans, géré par les TSHM de la FASe (équipe BUPP). Jeux de société, bricolage, baby-foot, TV-DVD. Sorties mensuelles (culture, sport, découverte). Accueil 7-11 ans le mercredi, accueil libre 12-25 ans mercredi à vendredi.",
+    "target_audience": "Jeunes de 7 à 25 ans",
+    "access_conditions": "Gratuit, accueil libre sans inscription"
   },
   "r_0200": {
-    "description": "Activity space for young people aged 11 to 25, run by FASe social workers (BUPP team). Music studio (Stud) on Thursdays by registration, Boums parties on Fridays (ages 10-14), sports for all on Wednesdays (November to April).",
-    "target_audience": "Young people aged 11 to 25",
-    "access_conditions": "Free, registration required for some activities"
+    "description": "Espace d'activités pour les jeunes de 11 à 25 ans, géré par les TSHM de la FASe (équipe BUPP). Studio de musique (Stud) le jeudi sur inscription, soirées Boums le vendredi (10-14 ans), sport pour tous le mercredi (novembre à avril).",
+    "target_audience": "Jeunes de 11 à 25 ans",
+    "access_conditions": "Gratuit, sur inscription selon les activités"
   },
   "r_0201": {
-    "description": "Collective of 15 women's and feminist associations subsidized by the Canton and City of Geneva. The Women's Health Space offers free advice, information and health guidance (menopause, sexuality, pregnancy, aging). Administrative and social support, wellness workshops.",
-    "target_audience": "Women, trans, non-binary and/or intersex people",
-    "access_conditions": "Free, open to women and gender minorities"
+    "description": "Collectif de 15 associations féminines et féministes subventionné par le Canton et la Ville de Genève. L'Espace Santé Femmes offre gratuitement conseils, information et orientation en santé (ménopause, sexualité, grossesse, vieillissement). Soutien administratif et social, ateliers bien-être.",
+    "target_audience": "Femmes, personnes trans, non-binaires et/ou intersexes",
+    "access_conditions": "Gratuit, ouvert aux femmes et minorités de genre"
   },
   "r_0202": {
-    "description": "Local social action center of the Hospice général for the Servette, Petit-Saconnex and Vieusseux neighborhoods. Financial aid, personalized social support, housing assistance, professional integration and administrative support.",
-    "target_audience": "Residents of Servette, Petit-Saconnex, Vieusseux neighborhoods in difficulty",
-    "access_conditions": "By appointment, residents of the Canton of Geneva"
+    "description": "Centre d'action sociale de proximité de l'Hospice général pour les quartiers de la Servette, du Petit-Saconnex et de Vieusseux. Aide financière, accompagnement social personnalisé, aide au logement, insertion professionnelle et soutien administratif.",
+    "target_audience": "Résidents des quartiers Servette, Petit-Saconnex, Vieusseux en difficulté",
+    "access_conditions": "Sur rendez-vous, résidents du canton de Genève"
   },
   "r_0203": {
-    "description": "Free open-air cinema festival at Parc de la Perle du Lac, every summer since 2009. Over 50 films in original version with French subtitles. Entertainment from 7pm, screening at sunset. Seasonal event: July-August only.",
-    "target_audience": "Everyone",
-    "access_conditions": "Free, no reservation needed. Seasonal: July-August only."
+    "description": "Festival de cinéma en plein air gratuit au Parc de la Perle du Lac, chaque été depuis 2009. Plus de 50 films en version originale sous-titrée français. Animations dès 19h, séance au coucher du soleil. Événement saisonnier : juillet-août uniquement.",
+    "target_audience": "Tout public",
+    "access_conditions": "Gratuit, sans réservation. Saisonnier : juillet-août uniquement."
+  },
+  "r_0204": {
+    "description": "Lieu d'accueil gratuit, anonyme et sans inscription pour les enfants accompagnés d'un adulte. Activités, jeux, soutien éducatif dans un cadre chaleureux et inclusif. Boissons et collations offertes.",
+    "target_audience": "Enfants accompagnés d'un adulte (parents, grands-parents, mamans de jour)",
+    "access_conditions": "Gratuit, anonyme, sans inscription. Enfants sous la responsabilité de l'adulte accompagnant."
+  },
+  "r_0205": {
+    "description": "Espace d'accueil pour les enfants de 0 à 4 ans accompagnés d'un parent ou adulte proche, inspiré du concept de la Maison Verte. Lieu de jeu, de parole et de socialisation. Contribution financière libre (gratuit possible).",
+    "target_audience": "Enfants de 0 à 4 ans accompagnés d'un parent ou adulte proche",
+    "access_conditions": "Contribution financière libre (gratuit possible). Sans inscription, anonyme."
+  },
+  "r_0206": {
+    "description": "Lieu d'échange gratuit ouvert à tous, au cœur de l'Université de Genève. Rencontres entre la communauté universitaire et les personnes migrantes pour tisser des liens, pratiquer le français et découvrir la vie à Genève. Café, thé et croissants offerts.",
+    "target_audience": "Tout le monde, en particulier personnes migrantes et communauté universitaire",
+    "access_conditions": "Gratuit, sans engagement, ouvert à tous. Pendant les semestres universitaires."
   },
   "tag": {
     "143": "143",

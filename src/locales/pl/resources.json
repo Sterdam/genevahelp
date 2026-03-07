@@ -1014,6 +1014,21 @@
     "target_audience": "Wszyscy",
     "access_conditions": "Bezpłatne, bez rezerwacji. Sezonowe: tylko lipiec-sierpień."
   },
+  "r_0204": {
+    "description": "Bezpłatna, anonimowa przestrzeń bez rejestracji dla dzieci w towarzystwie dorosłego. Zajęcia, zabawy, wsparcie edukacyjne w ciepłej i inkluzywnej atmosferze. Napoje i przekąski za darmo.",
+    "target_audience": "Dzieci w towarzystwie dorosłego",
+    "access_conditions": "Bezpłatne, anonimowe, bez rejestracji"
+  },
+  "r_0205": {
+    "description": "Przestrzeń dla dzieci od 0 do 4 lat z rodzicem, inspirowana konceptem Maison Verte. Miejsce zabawy, rozmowy i socjalizacji. Dobrowolna składka finansowa (bezpłatnie możliwe).",
+    "target_audience": "Dzieci od 0 do 4 lat z opiekunem",
+    "access_conditions": "Dobrowolna składka (bezpłatnie możliwe). Bez rejestracji, anonimowo."
+  },
+  "r_0206": {
+    "description": "Bezpłatne miejsce spotkań otwarte dla wszystkich, w sercu Uniwersytetu Genewskiego. Spotkania społeczności uniwersyteckiej z migrantami — nawiązywanie kontaktów, praktyka francuskiego i odkrywanie życia w Genewie. Kawa, herbata i croissanty za darmo.",
+    "target_audience": "Wszyscy, szczególnie migranci i społeczność uniwersytecka",
+    "access_conditions": "Bezpłatne, bez zobowiązań, otwarte dla wszystkich. W trakcie semestrów uniwersyteckich."
+  },
   "tag": {
     "143": "143",
     "147": "147",

@@ -1014,6 +1014,21 @@
     "target_audience": "Alle",
     "access_conditions": "Kostenlos, ohne Reservierung. Saisonal: nur Juli-August."
   },
+  "r_0204": {
+    "description": "Kostenloser, anonymer Treffpunkt ohne Anmeldung für Kinder in Begleitung eines Erwachsenen. Aktivitäten, Spiele, pädagogische Unterstützung in einem warmen und inklusiven Rahmen. Getränke und Snacks kostenlos.",
+    "target_audience": "Kinder in Begleitung eines Erwachsenen",
+    "access_conditions": "Kostenlos, anonym, ohne Anmeldung"
+  },
+  "r_0205": {
+    "description": "Empfangsraum für Kinder von 0 bis 4 Jahren in Begleitung eines Elternteils, inspiriert vom Maison-Verte-Konzept. Ort zum Spielen, Sprechen und Sozialisieren. Freiwilliger finanzieller Beitrag (kostenlos möglich).",
+    "target_audience": "Kinder von 0 bis 4 Jahren mit Begleitperson",
+    "access_conditions": "Freiwilliger Beitrag (kostenlos möglich). Ohne Anmeldung, anonym."
+  },
+  "r_0206": {
+    "description": "Kostenloser Begegnungsort für alle, im Herzen der Universität Genf. Austausch zwischen Universitätsgemeinschaft und Migranten zum Knüpfen von Kontakten, Französisch üben und das Leben in Genf entdecken. Kaffee, Tee und Croissants angeboten.",
+    "target_audience": "Alle, insbesondere Migranten und Universitätsgemeinschaft",
+    "access_conditions": "Kostenlos, unverbindlich, offen für alle. Während der Universitätssemester."
+  },
   "tag": {
     "143": "143",
     "147": "147",

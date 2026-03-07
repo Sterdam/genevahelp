@@ -1014,6 +1014,21 @@
     "target_audience": "Todo o público",
     "access_conditions": "Gratuito, sem reserva. Sazonal: apenas julho-agosto."
   },
+  "r_0204": {
+    "description": "Espaço de acolhimento gratuito, anónimo e sem inscrição para crianças acompanhadas de um adulto. Atividades, jogos, apoio educativo num ambiente acolhedor e inclusivo. Bebidas e lanches oferecidos.",
+    "target_audience": "Crianças acompanhadas de um adulto",
+    "access_conditions": "Gratuito, anónimo, sem inscrição"
+  },
+  "r_0205": {
+    "description": "Espaço de acolhimento para crianças dos 0 aos 4 anos acompanhadas de um pai ou adulto próximo, inspirado no conceito Maison Verte. Lugar de brincadeira, conversa e socialização. Contribuição financeira livre (gratuito possível).",
+    "target_audience": "Crianças dos 0 aos 4 anos acompanhadas de um adulto",
+    "access_conditions": "Contribuição livre (gratuito possível). Sem inscrição, anónimo."
+  },
+  "r_0206": {
+    "description": "Espaço de encontro gratuito aberto a todos, no coração da Universidade de Genebra. Encontros entre a comunidade universitária e pessoas migrantes para criar laços, praticar francês e descobrir a vida em Genebra. Café, chá e croissants oferecidos.",
+    "target_audience": "Todos, especialmente pessoas migrantes e comunidade universitária",
+    "access_conditions": "Gratuito, sem compromisso, aberto a todos. Durante os semestres universitários."
+  },
   "tag": {
     "143": "143",
     "147": "147",

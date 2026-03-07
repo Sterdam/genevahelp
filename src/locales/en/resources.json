@@ -1014,6 +1014,21 @@
     "target_audience": "Everyone",
     "access_conditions": "Free, no reservation needed. Seasonal: July-August only."
   },
+  "r_0204": {
+    "description": "Free, anonymous drop-in space for children accompanied by an adult. Activities, games, educational support in a warm and inclusive setting. Drinks and snacks provided free of charge.",
+    "target_audience": "Children accompanied by an adult (parents, grandparents, childminders)",
+    "access_conditions": "Free, anonymous, no registration. Children under the responsibility of the accompanying adult."
+  },
+  "r_0205": {
+    "description": "Welcoming space for children aged 0 to 4 accompanied by a parent or close adult, inspired by the Maison Verte concept. A place for play, conversation and socialization. Pay-what-you-can (free possible).",
+    "target_audience": "Children aged 0 to 4 accompanied by a parent or close adult",
+    "access_conditions": "Pay-what-you-can (free possible). No registration, anonymous."
+  },
+  "r_0206": {
+    "description": "Free meeting space open to all, at the heart of the University of Geneva. Encounters between the university community and migrants to build connections, practice French and discover life in Geneva. Coffee, tea and croissants offered.",
+    "target_audience": "Everyone, especially migrants and the university community",
+    "access_conditions": "Free, no commitment, open to all. During university semesters."
+  },
   "tag": {
     "143": "143",
     "147": "147",

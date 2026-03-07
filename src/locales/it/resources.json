@@ -1014,6 +1014,21 @@
     "target_audience": "Tutti",
     "access_conditions": "Gratuito, senza prenotazione. Stagionale: solo luglio-agosto."
   },
+  "r_0204": {
+    "description": "Spazio di accoglienza gratuito, anonimo e senza iscrizione per bambini accompagnati da un adulto. Attività, giochi, supporto educativo in un ambiente accogliente e inclusivo. Bevande e spuntini offerti.",
+    "target_audience": "Bambini accompagnati da un adulto",
+    "access_conditions": "Gratuito, anonimo, senza iscrizione"
+  },
+  "r_0205": {
+    "description": "Spazio di accoglienza per bambini da 0 a 4 anni accompagnati da un genitore o adulto vicino, ispirato al concetto Maison Verte. Luogo di gioco, parola e socializzazione. Contributo finanziario libero (gratuito possibile).",
+    "target_audience": "Bambini da 0 a 4 anni accompagnati da un adulto",
+    "access_conditions": "Contributo libero (gratuito possibile). Senza iscrizione, anonimo."
+  },
+  "r_0206": {
+    "description": "Spazio di incontro gratuito aperto a tutti, nel cuore dell'Università di Ginevra. Incontri tra la comunità universitaria e persone migranti per creare legami, praticare il francese e scoprire la vita a Ginevra. Caffè, tè e croissant offerti.",
+    "target_audience": "Tutti, in particolare persone migranti e comunità universitaria",
+    "access_conditions": "Gratuito, senza impegno, aperto a tutti. Durante i semestri universitari."
+  },
   "tag": {
     "143": "143",
     "147": "147",
