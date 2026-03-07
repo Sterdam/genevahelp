@@ -175,9 +175,9 @@
     "access_conditions": "Mở cửa cho tất cả"
   },
   "r_0036": {
-    "description": "Distribution gratuite de vêtements, chaussures et linge de maison pour les personnes en situation de précarité. Géré conjointement par le Centre social protestant (CSP), Caritas Genève et la Croix-Rouge genevoise.",
-    "target_audience": "Personnes en situation de précarité",
-    "access_conditions": "Sur présentation d'un bon délivré par un service social, le CSP, Caritas Genève ou la Croix-Rouge genevoise"
+    "description": "Phát miễn phí quần áo, giày dép và đồ vải gia dụng cho người khó khăn. Được điều hành bởi CSP, Caritas và Hội Chữ thập đỏ Geneva.",
+    "target_audience": "Người có hoàn cảnh khó khăn",
+    "access_conditions": "Cần phiếu từ dịch vụ xã hội, CSP, Caritas hoặc Hội Chữ thập đỏ Geneva"
   },
   "r_0037": {
     "description": "Lớp tiếng Pháp như ngoại ngữ cho người lớn di cư. Từ trình độ sơ cấp đến nâng cao. Lớp ban ngày và buổi tối.",
@@ -245,9 +245,9 @@
     "access_conditions": "Tiếp nhận không cần hẹn từ thứ Hai đến thứ Sáu 8h-15h30"
   },
   "r_0050": {
-    "description": "Lieu d'accueil, de soutien et de réinsertion socioprofessionnelle pour personnes en situation de précarité. Petits-déjeuners gratuits (150-200/semaine), repas chauds le lundi et jeudi à 10h, pasta party un dimanche sur deux (17h-19h30), activités sociales et stages de réinsertion.",
-    "target_audience": "Personnes en situation de précarité",
-    "access_conditions": "Sans conditions, accueil libre. Repas chauds lundi et jeudi à 10h. Pasta party un dimanche sur deux 17h-19h30."
+    "description": "Trung tâm tiếp nhận, hỗ trợ và tái hòa nhập xã hội-nghề nghiệp cho người khó khăn. Bữa sáng miễn phí (150-200/tuần), bữa ăn nóng thứ Hai và thứ Năm lúc 10h, pasta party một Chủ nhật/hai tuần (17h-19h30), hoạt động xã hội và thực tập tái hòa nhập.",
+    "target_audience": "Người có hoàn cảnh khó khăn",
+    "access_conditions": "Không điều kiện, tiếp nhận tự do. Bữa ăn nóng thứ Hai và thứ Năm lúc 10h. Pasta party một Chủ nhật/hai tuần 17h-19h30."
   },
   "r_0051": {
     "description": "Nơi tiếp đón, giải trí, gặp gỡ và thư giãn cho mọi lứa tuổi, mọi nền văn hóa và mọi tầng lớp xã hội. Hoạt động văn hóa và xã hội.",
@@ -415,9 +415,9 @@
     "access_conditions": "Gọi số miễn phí 0800 22 22 10 để có chỗ, tiếp nhận không điều kiện"
   },
   "r_0084": {
-    "description": "Lieu d'accueil de jour inconditionnel au Temple de la Servette pour les personnes en situation de précarité. Repas solidaires, boissons chaudes, écrivain public (CV, lettres), ateliers de français, anglais et informatique. Permanence juridique gratuite au 48 rue de Berne (lun 10h-12h, mer 17h30-19h30, jeu 10h-12h) : droit des étrangers, famille, travail, assurances sociales, pénal.",
-    "target_audience": "Personnes en situation de précarité, migrants, sans-abri",
-    "access_conditions": "Sans conditions, accueil inconditionnel"
+    "description": "Trung tâm tiếp nhận ban ngày không điều kiện tại Đền Servette dành cho người khó khăn. Bữa ăn liên đới, đồ uống nóng, dịch vụ viết hộ (CV, thư), lớp tiếng Pháp, tiếng Anh và tin học. Tư vấn pháp lý miễn phí tại 48 rue de Berne (thứ Hai 10h-12h, thứ Tư 17h30-19h30, thứ Năm 10h-12h): luật người nước ngoài, gia đình, lao động, bảo hiểm xã hội, hình sự.",
+    "target_audience": "Người khó khăn, người di cư, người vô gia cư",
+    "access_conditions": "Không điều kiện, tiếp nhận vô điều kiện"
   },
   "r_0085": {
     "description": "Bể tắm công cộng biểu tượng bên bờ hồ Léman. Bãi cát, hồ bơi, ván nhảy (3-10m), sauna và hammam, quán bình dân. Giá vào rất phải chăng (2 CHF mùa hè, 1 CHF mùa đông).",
@@ -555,9 +555,9 @@
     "access_conditions": "Miễn phí, không cần đăng ký, trẻ em có người đi cùng"
   },
   "r_0112": {
-    "description": "Service professionnel de garde d'enfants à domicile et babysitting de la Croix-Rouge genevoise. Une intervenante formée se déplace au domicile de la famille sous 4 heures. Missions de 3 à 10 heures, 7j/7. Service payant : 5 CHF/h (avec subside) ou 10 CHF/h (sans subside). Propose aussi des « bons de respiration » (4h de garde pour 10 CHF).",
-    "target_audience": "Familles avec enfants ayant besoin de garde à domicile",
-    "access_conditions": "Service payant : 5 CHF/h (avec subside), 10 CHF/h (sans subside). +2 CHF par enfant supplémentaire. Réservation par téléphone."
+    "description": "Dịch vụ trông trẻ tại nhà và giữ trẻ chuyên nghiệp của Hội Chữ thập đỏ Geneva. Nhân viên được đào tạo đến nhà trong vòng 4 giờ. Nhiệm vụ từ 3 đến 10 giờ, 7 ngày/tuần. Có phí: 5 CHF/giờ (có trợ cấp) hoặc 10 CHF/giờ (không trợ cấp). Cung cấp phiếu nghỉ ngơi (4 giờ trông trẻ giá 10 CHF).",
+    "target_audience": "Gia đình có trẻ cần trông giữ tại nhà",
+    "access_conditions": "Có phí: 5 CHF/giờ (có trợ cấp), 10 CHF/giờ (không trợ cấp). +2 CHF cho mỗi trẻ thêm. Đặt chỗ qua điện thoại."
   },
   "r_0113": {
     "description": "Không gian chơi và dịch vụ cho mượn đồ chơi và trò chơi bàn cho trẻ em, gia đình và người lớn. Trò chơi khổng lồ và ngoài trời có sẵn cho tiệc và sự kiện.",
@@ -890,144 +890,144 @@
     "access_conditions": "Chơi miễn phí tại chỗ. Mượn với thẻ thành viên gia đình hàng năm (30 CHF)."
   },
   "r_0179": {
-    "description": "Association féministe et autogérée proposant un espace d'accueil parent-bébé (Marmotricité) pour les enfants de 0 à 1 an et leurs parents. Accompagnement psychomoteur des bébés dans un cadre collectif et convivial, avec une attention particulière aux populations en situation de précarité.",
-    "target_audience": "Parents et bébés de 0 à 1 an",
-    "access_conditions": "Prix libre, accueil avec attention particulière aux familles en situation de précarité"
+    "description": "Hiệp hội nữ quyền tự quản cung cấp không gian đón tiếp cha mẹ-em bé (Marmotricité) cho trẻ từ 0 đến 1 tuổi và cha mẹ. Hỗ trợ vận động tâm lý cho trẻ trong môi trường tập thể thân thiện, đặc biệt quan tâm đến các gia đình khó khăn.",
+    "target_audience": "Cha mẹ và trẻ từ 0 đến 1 tuổi",
+    "access_conditions": "Giá tự do, tiếp nhận ưu tiên các gia đình khó khăn"
   },
   "r_0180": {
-    "description": "Lieu d'accueil et de rencontre multiculturel ouvert à tous. Repas gratuits (soupe, pâtisseries, repas chauds, petit-déjeuner), distribution de sacs de nourriture, accompagnement social gratuit et cours de français.",
-    "target_audience": "Toute personne dans le besoin",
-    "access_conditions": "Accueil gratuit, ouvert à tous, sans conditions. Distribution de sacs de nourriture sur inscription."
+    "description": "Không gian đón tiếp và giao lưu đa văn hóa mở cho tất cả. Bữa ăn miễn phí (súp, bánh, bữa ăn nóng, bữa sáng), phát túi thực phẩm, hỗ trợ xã hội miễn phí và lớp tiếng Pháp.",
+    "target_audience": "Mọi người có nhu cầu",
+    "access_conditions": "Tiếp nhận miễn phí, mở cho tất cả, không điều kiện. Phát túi thực phẩm cần đăng ký."
   },
   "r_0181": {
-    "description": "Association d'utilité publique accueillant les femmes en situation de grande précarité. Repas chauds, café, prestations d'hygiène (douches, buanderie, coiffure), produits de première nécessité, accompagnement social par des travailleuses sociales, espace d'écoute et sorties culturelles mensuelles.",
-    "target_audience": "Femmes en situation de grande précarité, femmes sans-abri, femmes sans-papiers",
-    "access_conditions": "Accueil bas-seuil, sans conditions, sans rendez-vous. Ouvert à toute femme en situation de précarité."
+    "description": "Hiệp hội công ích tiếp nhận phụ nữ trong hoàn cảnh rất khó khăn. Bữa ăn nóng, cà phê, dịch vụ vệ sinh (tắm, giặt, cắt tóc), nhu yếu phẩm, hỗ trợ xã hội bởi nhân viên xã hội, không gian lắng nghe và các chuyến đi văn hóa hàng tháng.",
+    "target_audience": "Phụ nữ trong hoàn cảnh rất khó khăn, phụ nữ vô gia cư, phụ nữ không giấy tờ",
+    "access_conditions": "Tiếp nhận ngưỡng thấp, không điều kiện, không cần hẹn. Mở cho mọi phụ nữ khó khăn."
   },
   "r_0182": {
-    "description": "Bibliothèque publique historique avec plus de 200 places de travail, WiFi gratuit, postes informatiques en libre accès et salle de lecture ouverte en soirée. Inscription gratuite pour l'emprunt. Accès à plus de 30 millions de documents.",
-    "target_audience": "Tout public : étudiants, chercheurs, lecteurs",
-    "access_conditions": "Entrée libre et gratuite, ouverte à tous. Inscription gratuite avec pièce d'identité pour l'emprunt."
+    "description": "Thư viện công cộng lịch sử với hơn 200 chỗ làm việc, WiFi miễn phí, máy tính công cộng và phòng đọc mở buổi tối. Đăng ký mượn miễn phí. Truy cập hơn 30 triệu tài liệu.",
+    "target_audience": "Mọi người: sinh viên, nhà nghiên cứu, độc giả",
+    "access_conditions": "Vào cửa tự do và miễn phí, mở cho tất cả. Đăng ký miễn phí với giấy tờ tùy thân để mượn."
   },
   "r_0183": {
-    "description": "Restaurant social de la Ville de Genève offrant des repas gratuits (petit-déjeuner et repas chauds) et un accompagnement social de première ligne. Accueil de jour avec écoute, soutien social et orientation vers d'autres partenaires sociaux. Gratuit et confidentiel.",
-    "target_audience": "Personnes en situation de précarité",
-    "access_conditions": "Ouvert toute l'année sans inscription. Gratuit et confidentiel. Ticket pour repas chauds dès 08h00."
+    "description": "Nhà hàng xã hội của Thành phố Geneva cung cấp bữa ăn miễn phí (bữa sáng và bữa ăn nóng) và hỗ trợ xã hội tuyến đầu. Tiếp nhận ban ngày với lắng nghe, hỗ trợ xã hội và hướng dẫn đến các đối tác xã hội khác. Miễn phí và bảo mật.",
+    "target_audience": "Người có hoàn cảnh khó khăn",
+    "access_conditions": "Mở cả năm không cần đăng ký. Miễn phí và bảo mật. Phiếu ăn nóng từ 08h00."
   },
   "r_0184": {
-    "description": "Le BIS accueille, informe et oriente toute personne souhaitant des renseignements sur l'accès aux prestations sociales. Informations et conseils sur les problèmes financiers, d'endettement, de logement et de santé. Accès à des travailleurs sociaux, psychologues et juristes.",
-    "target_audience": "Toute personne résidant à Genève, quel que soit son statut légal",
-    "access_conditions": "Gratuit, anonyme, sans rendez-vous, ouvert à toute la population quel que soit le statut légal. Confidentialité assurée."
+    "description": "BIS tiếp nhận, thông tin và hướng dẫn mọi người cần tìm hiểu về tiếp cận các dịch vụ xã hội. Thông tin và tư vấn về vấn đề tài chính, nợ, nhà ở và sức khỏe. Tiếp cận nhân viên xã hội, nhà tâm lý và luật sư.",
+    "target_audience": "Mọi người sống tại Geneva, bất kể tình trạng pháp lý",
+    "access_conditions": "Miễn phí, ẩn danh, không cần hẹn, mở cho mọi người bất kể tình trạng pháp lý. Đảm bảo bảo mật."
   },
   "r_0185": {
-    "description": "Espace d'accueil et de conseil multilingue pour les parents avant et après la naissance. Pesée de bébé, chaise d'allaitement, massage bébé, portage, psychomotricité. Situé dans les locaux de la ludothèque de Versoix.",
-    "target_audience": "Femmes enceintes, parents avec bébés et jeunes enfants, familles allophones",
-    "access_conditions": "Gratuit, sans inscription, libre accès. Fermé pendant les vacances scolaires genevoises."
+    "description": "Không gian tiếp nhận và tư vấn đa ngôn ngữ cho cha mẹ trước và sau sinh. Cân em bé, ghế cho con bú, mát-xa em bé, địu, vận động tâm lý. Đặt tại cơ sở thư viện đồ chơi Versoix.",
+    "target_audience": "Phụ nữ mang thai, cha mẹ có trẻ sơ sinh và trẻ nhỏ, gia đình ngoại ngữ",
+    "access_conditions": "Miễn phí, không cần đăng ký, vào tự do. Đóng cửa trong kỳ nghỉ học Geneva."
   },
   "r_0186": {
-    "description": "Espace d'accueil et de soutien pour femmes enceintes et parents avec bébé jusqu'à 1 an. Accueils libres animés par des sages-femmes, psychomotricienne le lundi, atelier de français maternité et cours de préparation à la naissance avec interprètes communautaires.",
-    "target_audience": "Femmes enceintes, parents avec bébé jusqu'à 1 an, familles en situation de migration",
-    "access_conditions": "Gratuit, sans inscription pour les accueils libres. Inscription nécessaire pour l'atelier de français maternité."
+    "description": "Không gian tiếp nhận và hỗ trợ cho phụ nữ mang thai và cha mẹ có trẻ đến 1 tuổi. Tiếp nhận tự do với nữ hộ sinh, chuyên gia vận động tâm lý thứ Hai, xưởng tiếng Pháp thai sản và lớp chuẩn bị sinh với phiên dịch cộng đồng.",
+    "target_audience": "Phụ nữ mang thai, cha mẹ có trẻ đến 1 tuổi, gia đình di cư",
+    "access_conditions": "Miễn phí, không cần đăng ký cho tiếp nhận tự do. Cần đăng ký cho xưởng tiếng Pháp thai sản."
   },
   "r_0187": {
-    "description": "Un mercredi sur deux, une sage-femme accueille les parents à la ludothèque Belle-Terre pour échanger, poser des questions, peser bébé et jouer. Goûter offert par la ludothèque.",
-    "target_audience": "Femmes enceintes, parents avec bébés et jeunes enfants",
-    "access_conditions": "Gratuit, sans inscription, libre accès. Un mercredi sur deux, hors vacances scolaires."
+    "description": "Mỗi hai tuần vào thứ Tư, một nữ hộ sinh tiếp đón cha mẹ tại thư viện đồ chơi Belle-Terre để trao đổi, đặt câu hỏi, cân em bé và chơi. Bữa phụ do thư viện đồ chơi cung cấp.",
+    "target_audience": "Phụ nữ mang thai, cha mẹ có trẻ sơ sinh và trẻ nhỏ",
+    "access_conditions": "Miễn phí, không cần đăng ký, vào tự do. Mỗi hai tuần vào thứ Tư, ngoài kỳ nghỉ học."
   },
   "r_0188": {
-    "description": "Centre spécialisé d'écoute, de conseil et d'accompagnement en matière de discriminations et de racisme anti-Noir, géré par l'UPAF (Université Populaire Africaine) en collaboration avec le CRAN et le syndicat SYNA. Situé dans l'espace AfrikaLAB.",
-    "target_audience": "Personnes victimes de racisme anti-Noir et de discriminations raciales",
-    "access_conditions": "Service d'écoute et de conseil gratuit pour les personnes victimes de racisme anti-Noir et de discriminations"
+    "description": "Trung tâm chuyên biệt lắng nghe, tư vấn và hỗ trợ về phân biệt đối xử và phân biệt chủng tộc chống người da đen, do UPAF (Đại học Nhân dân Châu Phi) quản lý cùng CRAN và nghiệp đoàn SYNA. Đặt tại không gian AfrikaLAB.",
+    "target_audience": "Nạn nhân của phân biệt chủng tộc chống người da đen và phân biệt đối xử chủng tộc",
+    "access_conditions": "Dịch vụ lắng nghe và tư vấn miễn phí cho nạn nhân phân biệt chủng tộc chống người da đen và phân biệt đối xử"
   },
   "r_0189": {
-    "description": "Association créée par des parents en 2007, regroupant plus de 1200 membres. Services d'accompagnement, groupes de compétences sociales, rencontres parents, formations, conférences, groupe fratrie, job coaching et Centre d'accueil et de soutien en autisme (CASA).",
-    "target_audience": "Personnes autistes (avec ou sans diagnostic), familles, frères et sœurs, professionnels",
-    "access_conditions": "Ouvert aux personnes autistes, familles et professionnels. Adhésion à l'association possible."
+    "description": "Hiệp hội được thành lập bởi phụ huynh năm 2007, có hơn 1200 thành viên. Dịch vụ hỗ trợ, nhóm kỹ năng xã hội, gặp gỡ phụ huynh, đào tạo, hội thảo, nhóm anh chị em, hướng dẫn việc làm và Trung tâm Tiếp nhận và Hỗ trợ Tự kỷ (CASA).",
+    "target_audience": "Người tự kỷ (có hoặc chưa chẩn đoán), gia đình, anh chị em, chuyên gia",
+    "access_conditions": "Mở cho người tự kỷ, gia đình và chuyên gia. Có thể đăng ký thành viên hiệp hội."
   },
   "r_0190": {
-    "description": "Toilettes publiques gratuites situées sur la Place du Bourg-de-Four dans la vieille ville de Genève. Cabines pour personnes à mobilité réduite accessibles avec clé Eurokey (disponible auprès de Pro Infirmis Genève).",
-    "target_audience": "Tout public",
-    "access_conditions": "Accès libre et gratuit. Cabines PMR avec clé Eurokey (Pro Infirmis : 058 775 31 08)."
+    "description": "Nhà vệ sinh công cộng miễn phí tại Quảng trường Bourg-de-Four trong khu phố cổ Geneva. Cabin cho người khuyết tật vận động mở bằng chìa khóa Eurokey (có tại Pro Infirmis Geneva).",
+    "target_audience": "Mọi người",
+    "access_conditions": "Vào tự do và miễn phí. Cabin PMR với chìa khóa Eurokey (Pro Infirmis: 058 775 31 08)."
   },
   "r_0191": {
-    "description": "Bibliothèque municipale de la Ville de Genève proposant des collections pour adultes et jeunes, une grainothèque, du WiFi gratuit, des postes informatiques et des animations culturelles. Inscription et emprunt gratuits.",
-    "target_audience": "Tout public (adultes et jeunes)",
-    "access_conditions": "Accès libre et gratuit. Inscription gratuite pour l'emprunt."
+    "description": "Thư viện thành phố Geneva cung cấp bộ sưu tập cho người lớn và thanh thiếu niên, ngân hàng hạt giống, WiFi miễn phí, máy tính công cộng và các hoạt động văn hóa. Đăng ký và mượn miễn phí.",
+    "target_audience": "Mọi người (người lớn và thanh thiếu niên)",
+    "access_conditions": "Vào tự do và miễn phí. Đăng ký mượn miễn phí."
   },
   "r_0192": {
-    "description": "Espace d'accueil, de répit et de rencontre pour personnes réfugiées. Accompagnement pour les démarches administratives, informations sur les permis, logement et scolarisation, espace informatique et activités socioculturelles. Interprètes bénévoles présents quotidiennement.",
-    "target_audience": "Personnes réfugiées à Genève",
-    "access_conditions": "Ouvert aux personnes réfugiées à Genève. Accès libre sans inscription."
+    "description": "Không gian tiếp nhận, nghỉ ngơi và giao lưu cho người tị nạn. Hỗ trợ thủ tục hành chính, thông tin về giấy phép, nhà ở và nhập học, không gian máy tính và hoạt động văn hóa-xã hội. Tình nguyện viên phiên dịch có mặt hàng ngày.",
+    "target_audience": "Người tị nạn tại Geneva",
+    "access_conditions": "Mở cho người tị nạn tại Geneva. Vào tự do không cần đăng ký."
   },
   "r_0193": {
-    "description": "Lieu d'accueil gratuit, anonyme et sans inscription pour enfants de 0 à 5 ans accompagnés d'un adulte proche. Écoute et soutien à l'enfant et à l'adulte accompagnant. Capacité de 20 personnes.",
-    "target_audience": "Enfants de 0 à 5 ans accompagnés d'un adulte proche (parent, grand-parent, maman de jour)",
-    "access_conditions": "Gratuit, anonyme, sans inscription. L'enfant reste sous la responsabilité de l'adulte accompagnant."
+    "description": "Không gian tiếp nhận miễn phí, ẩn danh và không cần đăng ký cho trẻ từ 0 đến 5 tuổi có người lớn đi cùng. Lắng nghe và hỗ trợ trẻ và người lớn đi kèm. Sức chứa 20 người.",
+    "target_audience": "Trẻ từ 0 đến 5 tuổi có người lớn đi cùng (cha mẹ, ông bà, người giữ trẻ)",
+    "access_conditions": "Miễn phí, ẩn danh, không cần đăng ký. Trẻ dưới trách nhiệm của người lớn đi kèm."
   },
   "r_0194": {
-    "description": "Permanence juridique gratuite proposée par des étudiants en droit confirmés de l'Université de Genève (UNIGE). Consultations de 30 minutes couvrant le droit du travail, du bail, de la famille, des assurances sociales, pénal et des étrangers. Première Junior Entreprise suisse à offrir ce service (depuis 2015).",
-    "target_audience": "Toute personne ayant besoin de conseils juridiques",
-    "access_conditions": "Gratuit, ouvert à tous. Lundi sur rendez-vous, mercredi sans rendez-vous (premier arrivé, premier servi)."
+    "description": "Tư vấn pháp lý miễn phí do sinh viên luật cao cấp Đại học Geneva (UNIGE) cung cấp. Tư vấn 30 phút về luật lao động, thuê nhà, gia đình, bảo hiểm xã hội, hình sự và người nước ngoài. Doanh nghiệp trẻ đầu tiên ở Thụy Sĩ cung cấp dịch vụ này (từ 2015).",
+    "target_audience": "Mọi người cần tư vấn pháp lý",
+    "access_conditions": "Miễn phí, mở cho tất cả. Thứ Hai có hẹn, thứ Tư không cần hẹn (ai đến trước phục vụ trước)."
   },
   "r_0195": {
-    "description": "Consultations juridiques gratuites et confidentielles par des étudiants en droit confirmés de l'Université de Genève. Consultations de 30 minutes par groupes de 3 à 5 étudiants. Couvre le droit du travail, du bail, de la famille, des assurances sociales, pénal et des étrangers.",
-    "target_audience": "Toute personne ayant besoin de conseils juridiques",
-    "access_conditions": "Gratuit, confidentiel, ouvert à tous. Rendez-vous via le site pje-ge.ch."
+    "description": "Tư vấn pháp lý miễn phí và bảo mật do sinh viên luật cao cấp Đại học Geneva cung cấp. Tư vấn 30 phút theo nhóm 3 đến 5 sinh viên. Bao gồm luật lao động, thuê nhà, gia đình, bảo hiểm xã hội, hình sự và người nước ngoài.",
+    "target_audience": "Mọi người cần tư vấn pháp lý",
+    "access_conditions": "Miễn phí, bảo mật, mở cho tất cả. Đặt hẹn qua trang pje-ge.ch."
   },
   "r_0196": {
-    "description": "Consultations juridiques gratuites et confidentielles par des étudiants en droit de l'Université de Genève. Consultations de 45 minutes. En plus des conseils juridiques, aide à la rédaction de courrier (en collaboration avec Europe Charmilles).",
-    "target_audience": "Toute personne ayant besoin de conseils juridiques ou d'aide à la rédaction de courrier",
-    "access_conditions": "Gratuit, confidentiel, ouvert à tous. Rendez-vous via le site pje-ge.ch. Aide à la rédaction de courrier disponible."
+    "description": "Tư vấn pháp lý miễn phí và bảo mật do sinh viên luật Đại học Geneva cung cấp. Tư vấn 45 phút. Ngoài tư vấn pháp lý, hỗ trợ soạn thư (hợp tác với Europe Charmilles).",
+    "target_audience": "Mọi người cần tư vấn pháp lý hoặc hỗ trợ soạn thư",
+    "access_conditions": "Miễn phí, bảo mật, mở cho tất cả. Đặt hẹn qua trang pje-ge.ch. Có hỗ trợ soạn thư."
   },
   "r_0197": {
-    "description": "Bibliothèque municipale gratuite proposant plus de 14'000 documents : romans, documentaires, bandes dessinées, revues, livres en gros caractères et livres audio. Inscription et emprunt gratuits.",
-    "target_audience": "Tout public",
-    "access_conditions": "Inscription gratuite, ouvert à tous"
+    "description": "Thư viện thành phố miễn phí với hơn 14.000 tài liệu: tiểu thuyết, sách tư liệu, truyện tranh, tạp chí, sách chữ lớn và sách nói. Đăng ký và mượn miễn phí.",
+    "target_audience": "Mọi người",
+    "access_conditions": "Đăng ký miễn phí, mở cho tất cả"
   },
   "r_0198": {
-    "description": "Distribution gratuite de vêtements (hommes, femmes, enfants) et de linge de maison pour les personnes en situation de précarité. Programme géré par la Fondation Carrefour-Rue & Coulou.",
-    "target_audience": "Personnes en situation de précarité",
-    "access_conditions": "Gratuit, ouvert à toute personne dans le besoin"
+    "description": "Phát miễn phí quần áo (nam, nữ, trẻ em) và đồ vải gia dụng cho người khó khăn. Chương trình do Quỹ Carrefour-Rue & Coulou quản lý.",
+    "target_audience": "Người có hoàn cảnh khó khăn",
+    "access_conditions": "Miễn phí, mở cho mọi người có nhu cầu"
   },
   "r_0199": {
-    "description": "Espace d'accueil libre pour les jeunes de 7 à 25 ans, géré par les TSHM de la FASe (équipe BUPP). Jeux de société, bricolage, baby-foot, TV-DVD. Sorties mensuelles (culture, sport, découverte). Accueil 7-11 ans le mercredi, accueil libre 12-25 ans mercredi à vendredi.",
-    "target_audience": "Jeunes de 7 à 25 ans",
-    "access_conditions": "Gratuit, accueil libre sans inscription"
+    "description": "Không gian tiếp nhận tự do cho thanh thiếu niên từ 7 đến 25 tuổi, do TSHM của FASe (đội BUPP) quản lý. Trò chơi bàn, thủ công, banh bàn, TV-DVD. Các chuyến đi hàng tháng (văn hóa, thể thao, khám phá). Tiếp nhận 7-11 tuổi thứ Tư, tiếp nhận tự do 12-25 tuổi thứ Tư đến thứ Sáu.",
+    "target_audience": "Thanh thiếu niên từ 7 đến 25 tuổi",
+    "access_conditions": "Miễn phí, tiếp nhận tự do không cần đăng ký"
   },
   "r_0200": {
-    "description": "Espace d'activités pour les jeunes de 11 à 25 ans, géré par les TSHM de la FASe (équipe BUPP). Studio de musique (Stud) le jeudi sur inscription, soirées Boums le vendredi (10-14 ans), sport pour tous le mercredi (novembre à avril).",
-    "target_audience": "Jeunes de 11 à 25 ans",
-    "access_conditions": "Gratuit, sur inscription selon les activités"
+    "description": "Không gian hoạt động cho thanh thiếu niên từ 11 đến 25 tuổi, do TSHM của FASe (đội BUPP) quản lý. Phòng thu âm nhạc (Stud) thứ Năm cần đăng ký, tối tiệc Boums thứ Sáu (10-14 tuổi), thể thao cho tất cả thứ Tư (tháng 11 đến tháng 4).",
+    "target_audience": "Thanh thiếu niên từ 11 đến 25 tuổi",
+    "access_conditions": "Miễn phí, cần đăng ký tùy hoạt động"
   },
   "r_0201": {
-    "description": "Collectif de 15 associations féminines et féministes subventionné par le Canton et la Ville de Genève. L'Espace Santé Femmes offre gratuitement conseils, information et orientation en santé (ménopause, sexualité, grossesse, vieillissement). Soutien administratif et social, ateliers bien-être.",
-    "target_audience": "Femmes, personnes trans, non-binaires et/ou intersexes",
-    "access_conditions": "Gratuit, ouvert aux femmes et minorités de genre"
+    "description": "Tập thể 15 hiệp hội nữ quyền được Canton và Thành phố Geneva tài trợ. Espace Santé Femmes cung cấp miễn phí tư vấn, thông tin và hướng dẫn về sức khỏe (mãn kinh, tình dục, thai kỳ, lão hóa). Hỗ trợ hành chính và xã hội, xưởng sức khỏe.",
+    "target_audience": "Phụ nữ, người chuyển giới, phi nhị nguyên giới và/hoặc liên giới tính",
+    "access_conditions": "Miễn phí, mở cho phụ nữ và thiểu số giới"
   },
   "r_0202": {
-    "description": "Centre d'action sociale de proximité de l'Hospice général pour les quartiers de la Servette, du Petit-Saconnex et de Vieusseux. Aide financière, accompagnement social personnalisé, aide au logement, insertion professionnelle et soutien administratif.",
-    "target_audience": "Résidents des quartiers Servette, Petit-Saconnex, Vieusseux en difficulté",
-    "access_conditions": "Sur rendez-vous, résidents du canton de Genève"
+    "description": "Trung tâm hành động xã hội gần nhà của Hospice général cho các khu Servette, Petit-Saconnex và Vieusseux. Hỗ trợ tài chính, đồng hành xã hội cá nhân hóa, hỗ trợ nhà ở, hòa nhập nghề nghiệp và hỗ trợ hành chính.",
+    "target_audience": "Cư dân khu Servette, Petit-Saconnex, Vieusseux gặp khó khăn",
+    "access_conditions": "Cần hẹn trước, cư dân canton Geneva"
   },
   "r_0203": {
-    "description": "Festival de cinéma en plein air gratuit au Parc de la Perle du Lac, chaque été depuis 2009. Plus de 50 films en version originale sous-titrée français. Animations dès 19h, séance au coucher du soleil. Événement saisonnier : juillet-août uniquement.",
-    "target_audience": "Tout public",
-    "access_conditions": "Gratuit, sans réservation. Saisonnier : juillet-août uniquement."
+    "description": "Liên hoan phim ngoài trời miễn phí tại Công viên Perle du Lac, mỗi mùa hè từ 2009. Hơn 50 phim bản gốc phụ đề tiếng Pháp. Hoạt động từ 19h, chiếu phim lúc hoàng hôn. Sự kiện mùa vụ: chỉ tháng 7-8.",
+    "target_audience": "Mọi người",
+    "access_conditions": "Miễn phí, không cần đặt chỗ. Theo mùa: chỉ tháng 7-8."
   },
   "r_0204": {
-    "description": "Lieu d'accueil gratuit, anonyme et sans inscription pour les enfants accompagnés d'un adulte. Activités, jeux, soutien éducatif dans un cadre chaleureux et inclusif. Boissons et collations offertes.",
-    "target_audience": "Enfants accompagnés d'un adulte (parents, grands-parents, mamans de jour)",
-    "access_conditions": "Gratuit, anonyme, sans inscription. Enfants sous la responsabilité de l'adulte accompagnant."
+    "description": "Không gian tiếp nhận miễn phí, ẩn danh và không cần đăng ký cho trẻ có người lớn đi cùng. Hoạt động, trò chơi, hỗ trợ giáo dục trong không gian ấm áp và hòa nhập. Đồ uống và bữa nhẹ miễn phí.",
+    "target_audience": "Trẻ em có người lớn đi cùng (cha mẹ, ông bà, người giữ trẻ)",
+    "access_conditions": "Miễn phí, ẩn danh, không cần đăng ký. Trẻ dưới trách nhiệm của người lớn đi kèm."
   },
   "r_0205": {
-    "description": "Espace d'accueil pour les enfants de 0 à 4 ans accompagnés d'un parent ou adulte proche, inspiré du concept de la Maison Verte. Lieu de jeu, de parole et de socialisation. Contribution financière libre (gratuit possible).",
-    "target_audience": "Enfants de 0 à 4 ans accompagnés d'un parent ou adulte proche",
-    "access_conditions": "Contribution financière libre (gratuit possible). Sans inscription, anonyme."
+    "description": "Không gian tiếp nhận cho trẻ từ 0 đến 4 tuổi có cha mẹ hoặc người lớn thân cận, lấy cảm hứng từ mô hình Maison Verte. Nơi chơi, trò chuyện và giao lưu xã hội. Đóng góp tài chính tự do (có thể miễn phí).",
+    "target_audience": "Trẻ từ 0 đến 4 tuổi có cha mẹ hoặc người lớn thân cận",
+    "access_conditions": "Đóng góp tài chính tự do (có thể miễn phí). Không cần đăng ký, ẩn danh."
   },
   "r_0206": {
-    "description": "Lieu d'échange gratuit ouvert à tous, au cœur de l'Université de Genève. Rencontres entre la communauté universitaire et les personnes migrantes pour tisser des liens, pratiquer le français et découvrir la vie à Genève. Café, thé et croissants offerts.",
-    "target_audience": "Tout le monde, en particulier personnes migrantes et communauté universitaire",
-    "access_conditions": "Gratuit, sans engagement, ouvert à tous. Pendant les semestres universitaires."
+    "description": "Không gian giao lưu miễn phí mở cho tất cả, tại trung tâm Đại học Geneva. Gặp gỡ giữa cộng đồng đại học và người di cư để kết nối, thực hành tiếng Pháp và khám phá cuộc sống tại Geneva. Cà phê, trà và bánh sừng bò miễn phí.",
+    "target_audience": "Tất cả mọi người, đặc biệt người di cư và cộng đồng đại học",
+    "access_conditions": "Miễn phí, không ràng buộc, mở cho tất cả. Trong các học kỳ đại học."
   },
   "tag": {
     "143": "143",

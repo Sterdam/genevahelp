@@ -175,9 +175,9 @@
     "access_conditions": "Otvoreno za sve"
   },
   "r_0036": {
-    "description": "Distribution gratuite de vêtements, chaussures et linge de maison pour les personnes en situation de précarité. Géré conjointement par le Centre social protestant (CSP), Caritas Genève et la Croix-Rouge genevoise.",
-    "target_audience": "Personnes en situation de précarité",
-    "access_conditions": "Sur présentation d'un bon délivré par un service social, le CSP, Caritas Genève ou la Croix-Rouge genevoise"
+    "description": "Besplatna podjela odjeće, obuće i kućnog tekstila za osobe u teškoj situaciji. Zajednički upravljaju CSP, Caritas i Crveni križ Ženeve.",
+    "target_audience": "Osobe u teškoj situaciji",
+    "access_conditions": "Uz predočenje bona izdanog od socijalne službe, CSP-a, Caritasa ili Crvenog križa Ženeve"
   },
   "r_0037": {
     "description": "Tečajevi francuskog kao stranog jezika za odrasle migrante. Razine od početne do napredne. Tečajevi danju i navečer.",
@@ -245,9 +245,9 @@
     "access_conditions": "Prijem bez narudžbe od ponedjeljka do petka od 8h do 15h30"
   },
   "r_0050": {
-    "description": "Lieu d'accueil, de soutien et de réinsertion socioprofessionnelle pour personnes en situation de précarité. Petits-déjeuners gratuits (150-200/semaine), repas chauds le lundi et jeudi à 10h, pasta party un dimanche sur deux (17h-19h30), activités sociales et stages de réinsertion.",
-    "target_audience": "Personnes en situation de précarité",
-    "access_conditions": "Sans conditions, accueil libre. Repas chauds lundi et jeudi à 10h. Pasta party un dimanche sur deux 17h-19h30."
+    "description": "Mjesto prijema, podrške i socijalno-profesionalne reintegracije za osobe u teškoj situaciji. Besplatni doručci (150-200/tjedan), topli obroci ponedjeljkom i četvrtkom u 10:00, pasta party svake druge nedjelje (17:00-19:30), društvene aktivnosti i stažiranja za reintegraciju.",
+    "target_audience": "Osobe u teškoj situaciji",
+    "access_conditions": "Bez uvjeta, slobodan prijem. Topli obroci ponedjeljkom i četvrtkom u 10:00. Pasta party svake druge nedjelje 17:00-19:30."
   },
   "r_0051": {
     "description": "Mjesto za prijem, razonodu, susrete i opuštanje za sve dobi, sve kulture i sve društvene slojeve. Kulturne i društvene aktivnosti.",
@@ -415,9 +415,9 @@
     "access_conditions": "Nazvati besplatni broj 0800 22 22 10 za dobivanje mjesta, bezuvjetni prijem"
   },
   "r_0084": {
-    "description": "Lieu d'accueil de jour inconditionnel au Temple de la Servette pour les personnes en situation de précarité. Repas solidaires, boissons chaudes, écrivain public (CV, lettres), ateliers de français, anglais et informatique. Permanence juridique gratuite au 48 rue de Berne (lun 10h-12h, mer 17h30-19h30, jeu 10h-12h) : droit des étrangers, famille, travail, assurances sociales, pénal.",
-    "target_audience": "Personnes en situation de précarité, migrants, sans-abri",
-    "access_conditions": "Sans conditions, accueil inconditionnel"
+    "description": "Bezuvjetno dnevno prihvatilište u Hramu Servette za osobe u teškoj situaciji. Solidarni obroci, topli napici, javni pisar (životopisi, pisma), tečajevi francuskog, engleskog i informatike. Besplatna pravna pomoć na adresi rue de Berne 48 (pon 10-12, sri 17:30-19:30, čet 10-12): pravo stranaca, obiteljsko, radno, socijalno osiguranje, kazneno.",
+    "target_audience": "Osobe u teškoj situaciji, migranti, beskućnici",
+    "access_conditions": "Bez uvjeta, bezuvjetan prijem"
   },
   "r_0085": {
     "description": "Kultna javna kupališta na obali Ženevskog jezera. Pješčana plaža, bazeni, skakaonice (3-10 m), sauna i hamam, popularna buvette. Vrlo pristupačna cijena ulaznice (2 CHF ljeti, 1 CHF zimi).",
@@ -555,9 +555,9 @@
     "access_conditions": "Besplatno, bez prijave, djeca u pratnji"
   },
   "r_0112": {
-    "description": "Service professionnel de garde d'enfants à domicile et babysitting de la Croix-Rouge genevoise. Une intervenante formée se déplace au domicile de la famille sous 4 heures. Missions de 3 à 10 heures, 7j/7. Service payant : 5 CHF/h (avec subside) ou 10 CHF/h (sans subside). Propose aussi des « bons de respiration » (4h de garde pour 10 CHF).",
-    "target_audience": "Familles avec enfants ayant besoin de garde à domicile",
-    "access_conditions": "Service payant : 5 CHF/h (avec subside), 10 CHF/h (sans subside). +2 CHF par enfant supplémentaire. Réservation par téléphone."
+    "description": "Profesionalna služba čuvanja djece kod kuće i babysitting od Crvenog križa Ženeve. Obučena osoba dolazi kući u roku od 4 sata. Angažmani od 3 do 10 sati, 7 dana/tjedan. Plaćena usluga: 5 CHF/sat (sa subvencijom) ili 10 CHF/sat (bez subvencije). Nudi i bonove za odmor (4 sata čuvanja za 10 CHF).",
+    "target_audience": "Obitelji s djecom kojima je potrebno čuvanje kod kuće",
+    "access_conditions": "Plaćena usluga: 5 CHF/sat (sa subvencijom), 10 CHF/sat (bez subvencije). +2 CHF po dodatnom djetetu. Rezervacija telefonom."
   },
   "r_0113": {
     "description": "Prostor za igru i usluga posudbe igračaka i društvenih igara za djecu, obitelji i odrasle. Velike igre i igre na otvorenom dostupne za zabave i događanja.",
@@ -890,144 +890,144 @@
     "access_conditions": "Besplatno igranje na licu mjesta. Posudba s godišnjom obiteljskom pretplatom (30 CHF)."
   },
   "r_0179": {
-    "description": "Association féministe et autogérée proposant un espace d'accueil parent-bébé (Marmotricité) pour les enfants de 0 à 1 an et leurs parents. Accompagnement psychomoteur des bébés dans un cadre collectif et convivial, avec une attention particulière aux populations en situation de précarité.",
-    "target_audience": "Parents et bébés de 0 à 1 an",
-    "access_conditions": "Prix libre, accueil avec attention particulière aux familles en situation de précarité"
+    "description": "Feministička samoupravna udruga koja nudi prostor za prijem roditelja i beba (Marmotricité) za djecu od 0 do 1 godine i njihove roditelje. Psihomotorna pratnja beba u kolektivnom i prijateljskom okruženju, s posebnom pažnjom prema obiteljima u teškoj situaciji.",
+    "target_audience": "Roditelji i bebe od 0 do 1 godine",
+    "access_conditions": "Slobodna cijena, prijem s posebnom pažnjom prema obiteljima u teškoj situaciji"
   },
   "r_0180": {
-    "description": "Lieu d'accueil et de rencontre multiculturel ouvert à tous. Repas gratuits (soupe, pâtisseries, repas chauds, petit-déjeuner), distribution de sacs de nourriture, accompagnement social gratuit et cours de français.",
-    "target_audience": "Toute personne dans le besoin",
-    "access_conditions": "Accueil gratuit, ouvert à tous, sans conditions. Distribution de sacs de nourriture sur inscription."
+    "description": "Multikulturalno mjesto prijema i susreta otvoreno svima. Besplatni obroci (juha, peciva, topli obroci, doručak), podjela paketa hrane, besplatna socijalna pratnja i tečajevi francuskog.",
+    "target_audience": "Svaka osoba u potrebi",
+    "access_conditions": "Besplatan prijem, otvoreno svima, bez uvjeta. Podjela paketa hrane uz registraciju."
   },
   "r_0181": {
-    "description": "Association d'utilité publique accueillant les femmes en situation de grande précarité. Repas chauds, café, prestations d'hygiène (douches, buanderie, coiffure), produits de première nécessité, accompagnement social par des travailleuses sociales, espace d'écoute et sorties culturelles mensuelles.",
-    "target_audience": "Femmes en situation de grande précarité, femmes sans-abri, femmes sans-papiers",
-    "access_conditions": "Accueil bas-seuil, sans conditions, sans rendez-vous. Ouvert à toute femme en situation de précarité."
+    "description": "Udruga od javnog interesa koja prima žene u izrazito teškoj situaciji. Topli obroci, kava, higijenske usluge (tuševi, praonica, frizerski salon), proizvodi prve potrebe, socijalna pratnja od strane socijalnih radnica, prostor za slušanje i mjesečni kulturni izleti.",
+    "target_audience": "Žene u izrazito teškoj situaciji, beskućnice, žene bez dokumenata",
+    "access_conditions": "Niskopražni prijem, bez uvjeta, bez narudžbe. Otvoreno svakoj ženi u teškoj situaciji."
   },
   "r_0182": {
-    "description": "Bibliothèque publique historique avec plus de 200 places de travail, WiFi gratuit, postes informatiques en libre accès et salle de lecture ouverte en soirée. Inscription gratuite pour l'emprunt. Accès à plus de 30 millions de documents.",
-    "target_audience": "Tout public : étudiants, chercheurs, lecteurs",
-    "access_conditions": "Entrée libre et gratuite, ouverte à tous. Inscription gratuite avec pièce d'identité pour l'emprunt."
+    "description": "Povijesna javna knjižnica s više od 200 radnih mjesta, besplatnim WiFi-jem, javnim računalima i čitaonicom otvorenom navečer. Besplatna registracija za posudbu. Pristup do više od 30 milijuna dokumenata.",
+    "target_audience": "Svi: studenti, istraživači, čitatelji",
+    "access_conditions": "Slobodan i besplatan ulaz, otvoreno svima. Besplatna registracija s osobnom iskaznicom za posudbu."
   },
   "r_0183": {
-    "description": "Restaurant social de la Ville de Genève offrant des repas gratuits (petit-déjeuner et repas chauds) et un accompagnement social de première ligne. Accueil de jour avec écoute, soutien social et orientation vers d'autres partenaires sociaux. Gratuit et confidentiel.",
-    "target_audience": "Personnes en situation de précarité",
-    "access_conditions": "Ouvert toute l'année sans inscription. Gratuit et confidentiel. Ticket pour repas chauds dès 08h00."
+    "description": "Socijalni restoran Grada Ženeve koji nudi besplatne obroke (doručak i topli obroci) i socijalnu pratnju prve linije. Dnevni prijem sa slušanjem, socijalnom podrškom i usmjeravanjem prema drugim socijalnim partnerima. Besplatno i povjerljivo.",
+    "target_audience": "Osobe u teškoj situaciji",
+    "access_conditions": "Otvoreno cijele godine bez registracije. Besplatno i povjerljivo. Kupon za tople obroke od 08:00."
   },
   "r_0184": {
-    "description": "Le BIS accueille, informe et oriente toute personne souhaitant des renseignements sur l'accès aux prestations sociales. Informations et conseils sur les problèmes financiers, d'endettement, de logement et de santé. Accès à des travailleurs sociaux, psychologues et juristes.",
-    "target_audience": "Toute personne résidant à Genève, quel que soit son statut légal",
-    "access_conditions": "Gratuit, anonyme, sans rendez-vous, ouvert à toute la population quel que soit le statut légal. Confidentialité assurée."
+    "description": "BIS prima, informira i usmjerava svaku osobu koja želi informacije o pristupu socijalnim davanjima. Informacije i savjeti o financijskim problemima, dugovima, stanovanju i zdravlju. Pristup socijalnim radnicima, psiholozima i pravnicima.",
+    "target_audience": "Svaka osoba koja živi u Ženevi, bez obzira na pravni status",
+    "access_conditions": "Besplatno, anonimno, bez narudžbe, otvoreno cijelom stanovništvu bez obzira na pravni status. Zajamčena povjerljivost."
   },
   "r_0185": {
-    "description": "Espace d'accueil et de conseil multilingue pour les parents avant et après la naissance. Pesée de bébé, chaise d'allaitement, massage bébé, portage, psychomotricité. Situé dans les locaux de la ludothèque de Versoix.",
-    "target_audience": "Femmes enceintes, parents avec bébés et jeunes enfants, familles allophones",
-    "access_conditions": "Gratuit, sans inscription, libre accès. Fermé pendant les vacances scolaires genevoises."
+    "description": "Višejezični prostor za prijem i savjetovanje roditelja prije i nakon poroda. Vaganje bebe, stolica za dojenje, masaža bebe, nošenje, psihomotorika. Smješten u prostorima igroteke u Versoixu.",
+    "target_audience": "Trudnice, roditelji s bebama i malom djecom, alofone obitelji",
+    "access_conditions": "Besplatno, bez registracije, slobodan pristup. Zatvoreno za vrijeme ženevskih školskih praznika."
   },
   "r_0186": {
-    "description": "Espace d'accueil et de soutien pour femmes enceintes et parents avec bébé jusqu'à 1 an. Accueils libres animés par des sages-femmes, psychomotricienne le lundi, atelier de français maternité et cours de préparation à la naissance avec interprètes communautaires.",
-    "target_audience": "Femmes enceintes, parents avec bébé jusqu'à 1 an, familles en situation de migration",
-    "access_conditions": "Gratuit, sans inscription pour les accueils libres. Inscription nécessaire pour l'atelier de français maternité."
+    "description": "Prostor za prijem i podršku trudnicama i roditeljima s bebom do 1 godine. Slobodni prijemi s primaljama, psihomotorika ponedjeljkom, radionica francuskog za majčinstvo i priprema za porod s komunalnim tumačima.",
+    "target_audience": "Trudnice, roditelji s bebom do 1 godine, obitelji u situaciji migracije",
+    "access_conditions": "Besplatno, bez registracije za slobodne prijeme. Registracija potrebna za radionicu francuskog za majčinstvo."
   },
   "r_0187": {
-    "description": "Un mercredi sur deux, une sage-femme accueille les parents à la ludothèque Belle-Terre pour échanger, poser des questions, peser bébé et jouer. Goûter offert par la ludothèque.",
-    "target_audience": "Femmes enceintes, parents avec bébés et jeunes enfants",
-    "access_conditions": "Gratuit, sans inscription, libre accès. Un mercredi sur deux, hors vacances scolaires."
+    "description": "Svake druge srijede primalja prima roditelje u igroteci Belle-Terre za razmjenu iskustava, pitanja, vaganje bebe i igru. Užina koju nudi igroteka.",
+    "target_audience": "Trudnice, roditelji s bebama i malom djecom",
+    "access_conditions": "Besplatno, bez registracije, slobodan pristup. Svake druge srijede, izvan školskih praznika."
   },
   "r_0188": {
-    "description": "Centre spécialisé d'écoute, de conseil et d'accompagnement en matière de discriminations et de racisme anti-Noir, géré par l'UPAF (Université Populaire Africaine) en collaboration avec le CRAN et le syndicat SYNA. Situé dans l'espace AfrikaLAB.",
-    "target_audience": "Personnes victimes de racisme anti-Noir et de discriminations raciales",
-    "access_conditions": "Service d'écoute et de conseil gratuit pour les personnes victimes de racisme anti-Noir et de discriminations"
+    "description": "Specijalizirani centar za slušanje, savjetovanje i pratnju u području diskriminacije i anti-crnačkog rasizma, kojim upravlja UPAF (Afrički narodni univerzitet) u suradnji s CRAN-om i sindikatom SYNA. Smješten u prostoru AfrikaLAB.",
+    "target_audience": "Žrtve anti-crnačkog rasizma i rasne diskriminacije",
+    "access_conditions": "Besplatna služba slušanja i savjetovanja za žrtve anti-crnačkog rasizma i diskriminacije"
   },
   "r_0189": {
-    "description": "Association créée par des parents en 2007, regroupant plus de 1200 membres. Services d'accompagnement, groupes de compétences sociales, rencontres parents, formations, conférences, groupe fratrie, job coaching et Centre d'accueil et de soutien en autisme (CASA).",
-    "target_audience": "Personnes autistes (avec ou sans diagnostic), familles, frères et sœurs, professionnels",
-    "access_conditions": "Ouvert aux personnes autistes, familles et professionnels. Adhésion à l'association possible."
+    "description": "Udruga koju su osnovali roditelji 2007. godine, s više od 1200 članova. Usluge pratnje, grupe socijalnih vještina, susreti roditelja, edukacije, konferencije, grupa za braću i sestre, coaching za zapošljavanje i Centar za prijem i podršku u autizmu (CASA).",
+    "target_audience": "Osobe s autizmom (s dijagnozom ili bez), obitelji, braća i sestre, stručnjaci",
+    "access_conditions": "Otvoreno osobama s autizmom, obiteljima i stručnjacima. Moguće članstvo u udruzi."
   },
   "r_0190": {
-    "description": "Toilettes publiques gratuites situées sur la Place du Bourg-de-Four dans la vieille ville de Genève. Cabines pour personnes à mobilité réduite accessibles avec clé Eurokey (disponible auprès de Pro Infirmis Genève).",
-    "target_audience": "Tout public",
-    "access_conditions": "Accès libre et gratuit. Cabines PMR avec clé Eurokey (Pro Infirmis : 058 775 31 08)."
+    "description": "Besplatni javni toaleti smješteni na trgu Bourg-de-Four u starom gradu Ženeve. Kabine za osobe smanjene pokretljivosti dostupne s Eurokey ključem (dostupan kod Pro Infirmis Ženeva).",
+    "target_audience": "Svi",
+    "access_conditions": "Slobodan i besplatan pristup. PMR kabine s Eurokey ključem (Pro Infirmis: 058 775 31 08)."
   },
   "r_0191": {
-    "description": "Bibliothèque municipale de la Ville de Genève proposant des collections pour adultes et jeunes, une grainothèque, du WiFi gratuit, des postes informatiques et des animations culturelles. Inscription et emprunt gratuits.",
-    "target_audience": "Tout public (adultes et jeunes)",
-    "access_conditions": "Accès libre et gratuit. Inscription gratuite pour l'emprunt."
+    "description": "Gradska knjižnica Grada Ženeve s kolekcijama za odrasle i mlade, sjemenicom, besplatnim WiFi-jem, računalima i kulturnim aktivnostima. Registracija i posudba besplatne.",
+    "target_audience": "Svi (odrasli i mladi)",
+    "access_conditions": "Slobodan i besplatan pristup. Besplatna registracija za posudbu."
   },
   "r_0192": {
-    "description": "Espace d'accueil, de répit et de rencontre pour personnes réfugiées. Accompagnement pour les démarches administratives, informations sur les permis, logement et scolarisation, espace informatique et activités socioculturelles. Interprètes bénévoles présents quotidiennement.",
-    "target_audience": "Personnes réfugiées à Genève",
-    "access_conditions": "Ouvert aux personnes réfugiées à Genève. Accès libre sans inscription."
+    "description": "Prostor za prijem, odmor i susrete za izbjeglice. Pratnja u administrativnim postupcima, informacije o dozvolama, stanovanju i školovanju, informatički prostor i sociokulturne aktivnosti. Volonterski tumači prisutni svakodnevno.",
+    "target_audience": "Izbjeglice u Ženevi",
+    "access_conditions": "Otvoreno izbjeglicama u Ženevi. Slobodan pristup bez registracije."
   },
   "r_0193": {
-    "description": "Lieu d'accueil gratuit, anonyme et sans inscription pour enfants de 0 à 5 ans accompagnés d'un adulte proche. Écoute et soutien à l'enfant et à l'adulte accompagnant. Capacité de 20 personnes.",
-    "target_audience": "Enfants de 0 à 5 ans accompagnés d'un adulte proche (parent, grand-parent, maman de jour)",
-    "access_conditions": "Gratuit, anonyme, sans inscription. L'enfant reste sous la responsabilité de l'adulte accompagnant."
+    "description": "Besplatno, anonimno mjesto prijema bez registracije za djecu od 0 do 5 godina u pratnji bliskog odraslog. Slušanje i podrška djetetu i pratećem odraslom. Kapacitet 20 osoba.",
+    "target_audience": "Djeca od 0 do 5 godina u pratnji bliskog odraslog (roditelj, djed/baka, dadilja)",
+    "access_conditions": "Besplatno, anonimno, bez registracije. Dijete ostaje pod odgovornošću pratećeg odraslog."
   },
   "r_0194": {
-    "description": "Permanence juridique gratuite proposée par des étudiants en droit confirmés de l'Université de Genève (UNIGE). Consultations de 30 minutes couvrant le droit du travail, du bail, de la famille, des assurances sociales, pénal et des étrangers. Première Junior Entreprise suisse à offrir ce service (depuis 2015).",
-    "target_audience": "Toute personne ayant besoin de conseils juridiques",
-    "access_conditions": "Gratuit, ouvert à tous. Lundi sur rendez-vous, mercredi sans rendez-vous (premier arrivé, premier servi)."
+    "description": "Besplatna pravna pomoć od strane potvrđenih studenata prava Sveučilišta u Ženevi (UNIGE). Konzultacije od 30 minuta iz radnog prava, najamnog prava, obiteljskog, socijalnog osiguranja, kaznenog i prava stranaca. Prva Junior Entreprise u Švicarskoj koja nudi ovu uslugu (od 2015.).",
+    "target_audience": "Svaka osoba kojoj su potrebni pravni savjeti",
+    "access_conditions": "Besplatno, otvoreno svima. Ponedjeljkom uz narudžbu, srijedom bez narudžbe (tko prvi dođe, prvi je na redu)."
   },
   "r_0195": {
-    "description": "Consultations juridiques gratuites et confidentielles par des étudiants en droit confirmés de l'Université de Genève. Consultations de 30 minutes par groupes de 3 à 5 étudiants. Couvre le droit du travail, du bail, de la famille, des assurances sociales, pénal et des étrangers.",
-    "target_audience": "Toute personne ayant besoin de conseils juridiques",
-    "access_conditions": "Gratuit, confidentiel, ouvert à tous. Rendez-vous via le site pje-ge.ch."
+    "description": "Besplatne i povjerljive pravne konzultacije od strane potvrđenih studenata prava Sveučilišta u Ženevi. Konzultacije od 30 minuta u grupama od 3 do 5 studenata. Pokriva radno, najamno, obiteljsko pravo, socijalno osiguranje, kazneno i pravo stranaca.",
+    "target_audience": "Svaka osoba kojoj su potrebni pravni savjeti",
+    "access_conditions": "Besplatno, povjerljivo, otvoreno svima. Narudžba putem stranice pje-ge.ch."
   },
   "r_0196": {
-    "description": "Consultations juridiques gratuites et confidentielles par des étudiants en droit de l'Université de Genève. Consultations de 45 minutes. En plus des conseils juridiques, aide à la rédaction de courrier (en collaboration avec Europe Charmilles).",
-    "target_audience": "Toute personne ayant besoin de conseils juridiques ou d'aide à la rédaction de courrier",
-    "access_conditions": "Gratuit, confidentiel, ouvert à tous. Rendez-vous via le site pje-ge.ch. Aide à la rédaction de courrier disponible."
+    "description": "Besplatne i povjerljive pravne konzultacije od strane studenata prava Sveučilišta u Ženevi. Konzultacije od 45 minuta. Uz pravne savjete, pomoć pri pisanju dopisa (u suradnji s Europe Charmilles).",
+    "target_audience": "Svaka osoba kojoj su potrebni pravni savjeti ili pomoć pri pisanju dopisa",
+    "access_conditions": "Besplatno, povjerljivo, otvoreno svima. Narudžba putem stranice pje-ge.ch. Dostupna pomoć pri pisanju dopisa."
   },
   "r_0197": {
-    "description": "Bibliothèque municipale gratuite proposant plus de 14'000 documents : romans, documentaires, bandes dessinées, revues, livres en gros caractères et livres audio. Inscription et emprunt gratuits.",
-    "target_audience": "Tout public",
-    "access_conditions": "Inscription gratuite, ouvert à tous"
+    "description": "Besplatna gradska knjižnica s više od 14.000 dokumenata: romani, dokumentarna literatura, stripovi, časopisi, knjige velikog tiska i audioknjige. Registracija i posudba besplatne.",
+    "target_audience": "Svi",
+    "access_conditions": "Besplatna registracija, otvoreno svima"
   },
   "r_0198": {
-    "description": "Distribution gratuite de vêtements (hommes, femmes, enfants) et de linge de maison pour les personnes en situation de précarité. Programme géré par la Fondation Carrefour-Rue & Coulou.",
-    "target_audience": "Personnes en situation de précarité",
-    "access_conditions": "Gratuit, ouvert à toute personne dans le besoin"
+    "description": "Besplatna podjela odjeće (muška, ženska, dječja) i kućnog tekstila za osobe u teškoj situaciji. Program kojim upravlja Fondacija Carrefour-Rue & Coulou.",
+    "target_audience": "Osobe u teškoj situaciji",
+    "access_conditions": "Besplatno, otvoreno svakoj osobi u potrebi"
   },
   "r_0199": {
-    "description": "Espace d'accueil libre pour les jeunes de 7 à 25 ans, géré par les TSHM de la FASe (équipe BUPP). Jeux de société, bricolage, baby-foot, TV-DVD. Sorties mensuelles (culture, sport, découverte). Accueil 7-11 ans le mercredi, accueil libre 12-25 ans mercredi à vendredi.",
-    "target_audience": "Jeunes de 7 à 25 ans",
-    "access_conditions": "Gratuit, accueil libre sans inscription"
+    "description": "Prostor slobodnog prijema za mlade od 7 do 25 godina, kojim upravljaju TSHM iz FASe (tim BUPP). Društvene igre, ručni rad, stolni nogomet, TV-DVD. Mjesečni izleti (kultura, sport, otkrivanje). Prijem 7-11 godina srijedom, slobodan prijem 12-25 godina srijeda-petak.",
+    "target_audience": "Mladi od 7 do 25 godina",
+    "access_conditions": "Besplatno, slobodan prijem bez registracije"
   },
   "r_0200": {
-    "description": "Espace d'activités pour les jeunes de 11 à 25 ans, géré par les TSHM de la FASe (équipe BUPP). Studio de musique (Stud) le jeudi sur inscription, soirées Boums le vendredi (10-14 ans), sport pour tous le mercredi (novembre à avril).",
-    "target_audience": "Jeunes de 11 à 25 ans",
-    "access_conditions": "Gratuit, sur inscription selon les activités"
+    "description": "Prostor za aktivnosti mladih od 11 do 25 godina, kojim upravljaju TSHM iz FASe (tim BUPP). Glazbeni studio (Stud) četvrtkom uz registraciju, zabave Boums petkom (10-14 godina), sport za sve srijedom (studeni-travanj).",
+    "target_audience": "Mladi od 11 do 25 godina",
+    "access_conditions": "Besplatno, uz registraciju ovisno o aktivnosti"
   },
   "r_0201": {
-    "description": "Collectif de 15 associations féminines et féministes subventionné par le Canton et la Ville de Genève. L'Espace Santé Femmes offre gratuitement conseils, information et orientation en santé (ménopause, sexualité, grossesse, vieillissement). Soutien administratif et social, ateliers bien-être.",
-    "target_audience": "Femmes, personnes trans, non-binaires et/ou intersexes",
-    "access_conditions": "Gratuit, ouvert aux femmes et minorités de genre"
+    "description": "Kolektiv od 15 ženskih i feminističkih udruga subvencioniran od Kantona i Grada Ženeve. Espace Santé Femmes besplatno nudi savjete, informacije i usmjeravanje u zdravlju (menopauza, seksualnost, trudnoća, starenje). Administrativna i socijalna podrška, radionice dobrobiti.",
+    "target_audience": "Žene, trans osobe, nebinarne i/ili interspolne osobe",
+    "access_conditions": "Besplatno, otvoreno ženama i rodnim manjinama"
   },
   "r_0202": {
-    "description": "Centre d'action sociale de proximité de l'Hospice général pour les quartiers de la Servette, du Petit-Saconnex et de Vieusseux. Aide financière, accompagnement social personnalisé, aide au logement, insertion professionnelle et soutien administratif.",
-    "target_audience": "Résidents des quartiers Servette, Petit-Saconnex, Vieusseux en difficulté",
-    "access_conditions": "Sur rendez-vous, résidents du canton de Genève"
+    "description": "Lokalni centar socijalne akcije Hospice général za četvrti Servette, Petit-Saconnex i Vieusseux. Financijska pomoć, personalizirana socijalna pratnja, pomoć za stanovanje, profesionalna integracija i administrativna podrška.",
+    "target_audience": "Stanovnici četvrti Servette, Petit-Saconnex, Vieusseux u poteškoćama",
+    "access_conditions": "Uz narudžbu, stanovnici kantona Ženeva"
   },
   "r_0203": {
-    "description": "Festival de cinéma en plein air gratuit au Parc de la Perle du Lac, chaque été depuis 2009. Plus de 50 films en version originale sous-titrée français. Animations dès 19h, séance au coucher du soleil. Événement saisonnier : juillet-août uniquement.",
-    "target_audience": "Tout public",
-    "access_conditions": "Gratuit, sans réservation. Saisonnier : juillet-août uniquement."
+    "description": "Besplatni filmski festival na otvorenom u Parku Perle du Lac, svako ljeto od 2009. Više od 50 filmova u originalnoj verziji s francuskim titlovima. Animacije od 19:00, projekcija pri zalasku sunca. Sezonski događaj: samo srpanj-kolovoz.",
+    "target_audience": "Svi",
+    "access_conditions": "Besplatno, bez rezervacije. Sezonski: samo srpanj-kolovoz."
   },
   "r_0204": {
-    "description": "Lieu d'accueil gratuit, anonyme et sans inscription pour les enfants accompagnés d'un adulte. Activités, jeux, soutien éducatif dans un cadre chaleureux et inclusif. Boissons et collations offertes.",
-    "target_audience": "Enfants accompagnés d'un adulte (parents, grands-parents, mamans de jour)",
-    "access_conditions": "Gratuit, anonyme, sans inscription. Enfants sous la responsabilité de l'adulte accompagnant."
+    "description": "Besplatno, anonimno mjesto prijema bez registracije za djecu u pratnji odraslog. Aktivnosti, igre, obrazovna podrška u toplom i inkluzivnom okruženju. Besplatna pića i užine.",
+    "target_audience": "Djeca u pratnji odraslog (roditelji, djedovi i bake, dadilje)",
+    "access_conditions": "Besplatno, anonimno, bez registracije. Djeca pod odgovornošću pratećeg odraslog."
   },
   "r_0205": {
-    "description": "Espace d'accueil pour les enfants de 0 à 4 ans accompagnés d'un parent ou adulte proche, inspiré du concept de la Maison Verte. Lieu de jeu, de parole et de socialisation. Contribution financière libre (gratuit possible).",
-    "target_audience": "Enfants de 0 à 4 ans accompagnés d'un parent ou adulte proche",
-    "access_conditions": "Contribution financière libre (gratuit possible). Sans inscription, anonyme."
+    "description": "Prostor za prijem djece od 0 do 4 godine u pratnji roditelja ili bliskog odraslog, inspiriran konceptom Maison Verte. Mjesto za igru, razgovor i socijalizaciju. Slobodan financijski doprinos (može biti besplatan).",
+    "target_audience": "Djeca od 0 do 4 godine u pratnji roditelja ili bliskog odraslog",
+    "access_conditions": "Slobodan financijski doprinos (može biti besplatan). Bez registracije, anonimno."
   },
   "r_0206": {
-    "description": "Lieu d'échange gratuit ouvert à tous, au cœur de l'Université de Genève. Rencontres entre la communauté universitaire et les personnes migrantes pour tisser des liens, pratiquer le français et découvrir la vie à Genève. Café, thé et croissants offerts.",
-    "target_audience": "Tout le monde, en particulier personnes migrantes et communauté universitaire",
-    "access_conditions": "Gratuit, sans engagement, ouvert à tous. Pendant les semestres universitaires."
+    "description": "Besplatno mjesto razmjene otvoreno svima, u srcu Sveučilišta u Ženevi. Susreti između sveučilišne zajednice i migranata radi stvaranja veza, vježbanja francuskog i upoznavanja života u Ženevi. Besplatna kava, čaj i kroasani.",
+    "target_audience": "Svi, posebno migranti i sveučilišna zajednica",
+    "access_conditions": "Besplatno, bez obveza, otvoreno svima. Tijekom sveučilišnih semestara."
   },
   "tag": {
     "143": "143",

@@ -175,9 +175,9 @@
     "access_conditions": "Ji bo hemûyan vekirî ye"
   },
   "r_0036": {
-    "description": "Distribution gratuite de vêtements, chaussures et linge de maison pour les personnes en situation de précarité. Géré conjointement par le Centre social protestant (CSP), Caritas Genève et la Croix-Rouge genevoise.",
-    "target_audience": "Personnes en situation de précarité",
-    "access_conditions": "Sur présentation d'un bon délivré par un service social, le CSP, Caritas Genève ou la Croix-Rouge genevoise"
+    "description": "Belavkirina belaş a cil û berg, pêlav û çarşefên malê ji bo kesên di rewşa tengasiyê de. Ji hêla Navenda Civakî ya Protestan (CSP), Caritas Genève û Xaça Sor a Cenewreyê ve tê birêvebirin.",
+    "target_audience": "Kesên di rewşa tengasiyê de",
+    "access_conditions": "Bi pêşkêşkirina bonoya ji xizmeta civakî, CSP, Caritas an Xaça Sor"
   },
   "r_0037": {
     "description": "Dersên Fransizî wekî zimanê biyanî ji bo koçberên mezin. Ji asta destpêkê heta pêşketî. Ders di rojê û êvarê de.",
@@ -245,9 +245,9 @@
     "access_conditions": "Pêşwazî bê randevû ji duşemê heta înê ji 8:00 heta 15:30"
   },
   "r_0050": {
-    "description": "Lieu d'accueil, de soutien et de réinsertion socioprofessionnelle pour personnes en situation de précarité. Petits-déjeuners gratuits (150-200/semaine), repas chauds le lundi et jeudi à 10h, pasta party un dimanche sur deux (17h-19h30), activités sociales et stages de réinsertion.",
-    "target_audience": "Personnes en situation de précarité",
-    "access_conditions": "Sans conditions, accueil libre. Repas chauds lundi et jeudi à 10h. Pasta party un dimanche sur deux 17h-19h30."
+    "description": "Pêşwazî, piştgirî û vegerandina civakî. Taştêyên belaş, xwarinên germ Duşem û Pêncşem saet 10ê sibehê, partiya makaronê her du Yekşemê carekê.",
+    "target_audience": "Kesên di rewşa tengasiyê de",
+    "access_conditions": "Bê merc, gihîştina belaş"
   },
   "r_0051": {
     "description": "Cihê pêşwazî, dîlanan, hevdîtinan û bêhnvedanê ji bo her temenî, her çand û her çîna civakî. Çalakiyên çandî û civakî.",
@@ -415,9 +415,9 @@
     "access_conditions": "Bi jimareya belaş 0800 22 22 10 re têkilî bikin da ku cihek bistînin, pêşwaziya bê mercî"
   },
   "r_0084": {
-    "description": "Lieu d'accueil de jour inconditionnel au Temple de la Servette pour les personnes en situation de précarité. Repas solidaires, boissons chaudes, écrivain public (CV, lettres), ateliers de français, anglais et informatique. Permanence juridique gratuite au 48 rue de Berne (lun 10h-12h, mer 17h30-19h30, jeu 10h-12h) : droit des étrangers, famille, travail, assurances sociales, pénal.",
-    "target_audience": "Personnes en situation de précarité, migrants, sans-abri",
-    "access_conditions": "Sans conditions, accueil inconditionnel"
+    "description": "Stargehek rojane ya bê merc. Xwarinên hevgirtî, vexwarinên germ, nivîskarê giştî, dersên perwerdehiyê. Şêwirmendiya hiqûqî ya belaş.",
+    "target_audience": "Kesên hewcedar, koçber, kesên bê mal",
+    "access_conditions": "Bê merc, ji bo hemûyan vekirî ye"
   },
   "r_0085": {
     "description": "Serşoka giştî ya navdar a li ber Gola Léman. Perava qûmê, hewz, xwe avêtin (3-10m), sauna û hemam, barkahek populer. Bihayê ketinê pir erzan e (2 CHF di havînê de, 1 CHF di zivistanê de).",
@@ -555,9 +555,9 @@
     "access_conditions": "Belaş, bê qeydkirin, zarokên bi pêşwazîker"
   },
   "r_0112": {
-    "description": "Service professionnel de garde d'enfants à domicile et babysitting de la Croix-Rouge genevoise. Une intervenante formée se déplace au domicile de la famille sous 4 heures. Missions de 3 à 10 heures, 7j/7. Service payant : 5 CHF/h (avec subside) ou 10 CHF/h (sans subside). Propose aussi des « bons de respiration » (4h de garde pour 10 CHF).",
-    "target_audience": "Familles avec enfants ayant besoin de garde à domicile",
-    "access_conditions": "Service payant : 5 CHF/h (avec subside), 10 CHF/h (sans subside). +2 CHF par enfant supplémentaire. Réservation par téléphone."
+    "description": "Lênihêrîna pîşeyî ya zarokan li malê ji hêla Xaça Sor ve. 5 CHF/saetê an 10 CHF/saetê. Bonoyên bêhna vekişandinê hene.",
+    "target_audience": "Malbat",
+    "access_conditions": "Bi dravdanê, reservasyon bi têlefonê"
   },
   "r_0113": {
     "description": "Cihê lîstinê û karûbarê deynkirina pêlîstokan û lîstikên masê ji bo zarokan, malbatan û mezinan. Lîstikên mezin û derve ji bo şahî û çalakiyan hene.",
@@ -890,144 +890,144 @@
     "access_conditions": "Lîstina belaş li cih. Deynkirin bi abonetiya malbatî ya salane (30 CHF)."
   },
   "r_0179": {
-    "description": "Association féministe et autogérée proposant un espace d'accueil parent-bébé (Marmotricité) pour les enfants de 0 à 1 an et leurs parents. Accompagnement psychomoteur des bébés dans un cadre collectif et convivial, avec une attention particulière aux populations en situation de précarité.",
-    "target_audience": "Parents et bébés de 0 à 1 an",
-    "access_conditions": "Prix libre, accueil avec attention particulière aux familles en situation de précarité"
+    "description": "Qada dê-bav û pitikan ji 0 heta 1 salî. Piştgiriya psîkomotorî. Bala taybet a li ser malbatên hewcedar.",
+    "target_audience": "Dêûbav û pitik",
+    "access_conditions": "Bihayê azad"
   },
   "r_0180": {
-    "description": "Lieu d'accueil et de rencontre multiculturel ouvert à tous. Repas gratuits (soupe, pâtisseries, repas chauds, petit-déjeuner), distribution de sacs de nourriture, accompagnement social gratuit et cours de français.",
-    "target_audience": "Toute personne dans le besoin",
-    "access_conditions": "Accueil gratuit, ouvert à tous, sans conditions. Distribution de sacs de nourriture sur inscription."
+    "description": "Cihekî pirçandî. Xwarinên belaş, tûrikên xwarinê, piştgiriya civakî, dersên Fransizî.",
+    "target_audience": "Her kesê hewcedar",
+    "access_conditions": "Belaş, ji bo hemûyan vekirî ye"
   },
   "r_0181": {
-    "description": "Association d'utilité publique accueillant les femmes en situation de grande précarité. Repas chauds, café, prestations d'hygiène (douches, buanderie, coiffure), produits de première nécessité, accompagnement social par des travailleuses sociales, espace d'écoute et sorties culturelles mensuelles.",
-    "target_audience": "Femmes en situation de grande précarité, femmes sans-abri, femmes sans-papiers",
-    "access_conditions": "Accueil bas-seuil, sans conditions, sans rendez-vous. Ouvert à toute femme en situation de précarité."
+    "description": "Jinên di tengasiya mezin de: xwarin, paqijî, hewcedariyên bingehîn, piştgiriya civakî.",
+    "target_audience": "Jinên di rewşa tengasiyê de",
+    "access_conditions": "Astengiya nizm, bê merc"
   },
   "r_0182": {
-    "description": "Bibliothèque publique historique avec plus de 200 places de travail, WiFi gratuit, postes informatiques en libre accès et salle de lecture ouverte en soirée. Inscription gratuite pour l'emprunt. Accès à plus de 30 millions de documents.",
-    "target_audience": "Tout public : étudiants, chercheurs, lecteurs",
-    "access_conditions": "Entrée libre et gratuite, ouverte à tous. Inscription gratuite avec pièce d'identité pour l'emprunt."
+    "description": "Pirtûkxaneya dîrokî bi zêdetirî 200 cihên xebatê, WiFi, komputer. Zêdetirî 30 mîlyon belge.",
+    "target_audience": "Hemû kes",
+    "access_conditions": "Têketina belaş"
   },
   "r_0183": {
-    "description": "Restaurant social de la Ville de Genève offrant des repas gratuits (petit-déjeuner et repas chauds) et un accompagnement social de première ligne. Accueil de jour avec écoute, soutien social et orientation vers d'autres partenaires sociaux. Gratuit et confidentiel.",
-    "target_audience": "Personnes en situation de précarité",
-    "access_conditions": "Ouvert toute l'année sans inscription. Gratuit et confidentiel. Ticket pour repas chauds dès 08h00."
+    "description": "Xwaringeh a civakî - xwarinên belaş û piştgirî. Belaş û nepenî.",
+    "target_audience": "Kesên di rewşa tengasiyê de",
+    "access_conditions": "Tevahiya salê vekirî ye"
   },
   "r_0184": {
-    "description": "Le BIS accueille, informe et oriente toute personne souhaitant des renseignements sur l'accès aux prestations sociales. Informations et conseils sur les problèmes financiers, d'endettement, de logement et de santé. Accès à des travailleurs sociaux, psychologues et juristes.",
-    "target_audience": "Toute personne résidant à Genève, quel que soit son statut légal",
-    "access_conditions": "Gratuit, anonyme, sans rendez-vous, ouvert à toute la population quel que soit le statut légal. Confidentialité assurée."
+    "description": "BIS - agahdariya xizmetên civakî. Şêwirmendiya darayî, xanî, tenduristî.",
+    "target_audience": "Her kesê li Cenewreyê",
+    "access_conditions": "Belaş, bênav"
   },
   "r_0185": {
-    "description": "Espace d'accueil et de conseil multilingue pour les parents avant et après la naissance. Pesée de bébé, chaise d'allaitement, massage bébé, portage, psychomotricité. Situé dans les locaux de la ludothèque de Versoix.",
-    "target_audience": "Femmes enceintes, parents avec bébés et jeunes enfants, familles allophones",
-    "access_conditions": "Gratuit, sans inscription, libre accès. Fermé pendant les vacances scolaires genevoises."
+    "description": "Qada dêûbavan a pirzimanî. Kişandina pitikan, masaj, psîkomotrîsîte.",
+    "target_audience": "Dêûbav, jinên ducanî",
+    "access_conditions": "Belaş"
   },
   "r_0186": {
-    "description": "Espace d'accueil et de soutien pour femmes enceintes et parents avec bébé jusqu'à 1 an. Accueils libres animés par des sages-femmes, psychomotricienne le lundi, atelier de français maternité et cours de préparation à la naissance avec interprètes communautaires.",
-    "target_audience": "Femmes enceintes, parents avec bébé jusqu'à 1 an, familles en situation de migration",
-    "access_conditions": "Gratuit, sans inscription pour les accueils libres. Inscription nécessaire pour l'atelier de français maternité."
+    "description": "Piştgiriya jinên ducanî û dêûbavên pitikên 0-1 salî. Mamikan, atolyeya Fransizî.",
+    "target_audience": "Jinên ducanî, dêûbav",
+    "access_conditions": "Belaş"
   },
   "r_0187": {
-    "description": "Un mercredi sur deux, une sage-femme accueille les parents à la ludothèque Belle-Terre pour échanger, poser des questions, peser bébé et jouer. Goûter offert par la ludothèque.",
-    "target_audience": "Femmes enceintes, parents avec bébés et jeunes enfants",
-    "access_conditions": "Gratuit, sans inscription, libre accès. Un mercredi sur deux, hors vacances scolaires."
+    "description": "Her du Çarşemê carekê mamik li pirtûkxaneya lîstokan. Kişandina pitikan. Pêşxistina belaş.",
+    "target_audience": "Dêûbav",
+    "access_conditions": "Belaş"
   },
   "r_0188": {
-    "description": "Centre spécialisé d'écoute, de conseil et d'accompagnement en matière de discriminations et de racisme anti-Noir, géré par l'UPAF (Université Populaire Africaine) en collaboration avec le CRAN et le syndicat SYNA. Situé dans l'espace AfrikaLAB.",
-    "target_audience": "Personnes victimes de racisme anti-Noir et de discriminations raciales",
-    "access_conditions": "Service d'écoute et de conseil gratuit pour les personnes victimes de racisme anti-Noir et de discriminations"
+    "description": "Navenda piştgiriyê li dijî nijadperestiya dijî reşan. Şêwirmendiya belaş.",
+    "target_audience": "Mexdûrên nijadperestiyê",
+    "access_conditions": "Belaş"
   },
   "r_0189": {
-    "description": "Association créée par des parents en 2007, regroupant plus de 1200 membres. Services d'accompagnement, groupes de compétences sociales, rencontres parents, formations, conférences, groupe fratrie, job coaching et Centre d'accueil et de soutien en autisme (CASA).",
-    "target_audience": "Personnes autistes (avec ou sans diagnostic), familles, frères et sœurs, professionnels",
-    "access_conditions": "Ouvert aux personnes autistes, familles et professionnels. Adhésion à l'association possible."
+    "description": "Komeleya otîzmê bi zêdetirî 1200 endam. Piştgirî, rahêneriya kar.",
+    "target_audience": "Kesên otîstîk, malbat",
+    "access_conditions": "Vekirî"
   },
   "r_0190": {
-    "description": "Toilettes publiques gratuites situées sur la Place du Bourg-de-Four dans la vieille ville de Genève. Cabines pour personnes à mobilité réduite accessibles avec clé Eurokey (disponible auprès de Pro Infirmis Genève).",
-    "target_audience": "Tout public",
-    "access_conditions": "Accès libre et gratuit. Cabines PMR avec clé Eurokey (Pro Infirmis : 058 775 31 08)."
+    "description": "Tualêtên giştî yên belaş li Bourg-de-Four. Gihîştina ji bo kesên astengdar.",
+    "target_audience": "Hemû kes",
+    "access_conditions": "Belaş"
   },
   "r_0191": {
-    "description": "Bibliothèque municipale de la Ville de Genève proposant des collections pour adultes et jeunes, une grainothèque, du WiFi gratuit, des postes informatiques et des animations culturelles. Inscription et emprunt gratuits.",
-    "target_audience": "Tout public (adultes et jeunes)",
-    "access_conditions": "Accès libre et gratuit. Inscription gratuite pour l'emprunt."
+    "description": "Pirtûkxaneya şaredariyê. WiFi, çalakiyên çandî.",
+    "target_audience": "Hemû kes",
+    "access_conditions": "Belaş"
   },
   "r_0192": {
-    "description": "Espace d'accueil, de répit et de rencontre pour personnes réfugiées. Accompagnement pour les démarches administratives, informations sur les permis, logement et scolarisation, espace informatique et activités socioculturelles. Interprètes bénévoles présents quotidiennement.",
-    "target_audience": "Personnes réfugiées à Genève",
-    "access_conditions": "Ouvert aux personnes réfugiées à Genève. Accès libre sans inscription."
+    "description": "Qada penaberan. Piştgiriya îdarî, wergêr.",
+    "target_audience": "Penaber",
+    "access_conditions": "Belaş"
   },
   "r_0193": {
-    "description": "Lieu d'accueil gratuit, anonyme et sans inscription pour enfants de 0 à 5 ans accompagnés d'un adulte proche. Écoute et soutien à l'enfant et à l'adulte accompagnant. Capacité de 20 personnes.",
-    "target_audience": "Enfants de 0 à 5 ans accompagnés d'un adulte proche (parent, grand-parent, maman de jour)",
-    "access_conditions": "Gratuit, anonyme, sans inscription. L'enfant reste sous la responsabilité de l'adulte accompagnant."
+    "description": "Pêşwaziya belaş a zarokên 0-5 salî bi mezinan re. Kapasîte 20 kes.",
+    "target_audience": "Zarokên 0-5 salî",
+    "access_conditions": "Belaş, bênav"
   },
   "r_0194": {
-    "description": "Permanence juridique gratuite proposée par des étudiants en droit confirmés de l'Université de Genève (UNIGE). Consultations de 30 minutes couvrant le droit du travail, du bail, de la famille, des assurances sociales, pénal et des étrangers. Première Junior Entreprise suisse à offrir ce service (depuis 2015).",
-    "target_audience": "Toute personne ayant besoin de conseils juridiques",
-    "access_conditions": "Gratuit, ouvert à tous. Lundi sur rendez-vous, mercredi sans rendez-vous (premier arrivé, premier servi)."
+    "description": "Şêwirmendiya hiqûqî ya belaş ji hêla xwendekarên hiqûqê ve. 30 deqîqe.",
+    "target_audience": "Her kes",
+    "access_conditions": "Belaş"
   },
   "r_0195": {
-    "description": "Consultations juridiques gratuites et confidentielles par des étudiants en droit confirmés de l'Université de Genève. Consultations de 30 minutes par groupes de 3 à 5 étudiants. Couvre le droit du travail, du bail, de la famille, des assurances sociales, pénal et des étrangers.",
-    "target_audience": "Toute personne ayant besoin de conseils juridiques",
-    "access_conditions": "Gratuit, confidentiel, ouvert à tous. Rendez-vous via le site pje-ge.ch."
+    "description": "Şêwirmendiya hiqûqî ya belaş û nepenî. Bi riya pje-ge.ch.",
+    "target_audience": "Her kes",
+    "access_conditions": "Belaş"
   },
   "r_0196": {
-    "description": "Consultations juridiques gratuites et confidentielles par des étudiants en droit de l'Université de Genève. Consultations de 45 minutes. En plus des conseils juridiques, aide à la rédaction de courrier (en collaboration avec Europe Charmilles).",
-    "target_audience": "Toute personne ayant besoin de conseils juridiques ou d'aide à la rédaction de courrier",
-    "access_conditions": "Gratuit, confidentiel, ouvert à tous. Rendez-vous via le site pje-ge.ch. Aide à la rédaction de courrier disponible."
+    "description": "Şêwirmendiya hiqûqî ya belaş, 45 deqîqe. Alîkariya nivîsandina nameyan jî.",
+    "target_audience": "Her kes",
+    "access_conditions": "Belaş"
   },
   "r_0197": {
-    "description": "Bibliothèque municipale gratuite proposant plus de 14'000 documents : romans, documentaires, bandes dessinées, revues, livres en gros caractères et livres audio. Inscription et emprunt gratuits.",
-    "target_audience": "Tout public",
-    "access_conditions": "Inscription gratuite, ouvert à tous"
+    "description": "Pirtûkxaneya belaş bi zêdetirî 14,000 belgeyan.",
+    "target_audience": "Hemû kes",
+    "access_conditions": "Belaş"
   },
   "r_0198": {
-    "description": "Distribution gratuite de vêtements (hommes, femmes, enfants) et de linge de maison pour les personnes en situation de précarité. Programme géré par la Fondation Carrefour-Rue & Coulou.",
-    "target_audience": "Personnes en situation de précarité",
-    "access_conditions": "Gratuit, ouvert à toute personne dans le besoin"
+    "description": "Belavkirina cilên belaş ji bo kesên hewcedar.",
+    "target_audience": "Kesên di rewşa tengasiyê de",
+    "access_conditions": "Belaş"
   },
   "r_0199": {
-    "description": "Espace d'accueil libre pour les jeunes de 7 à 25 ans, géré par les TSHM de la FASe (équipe BUPP). Jeux de société, bricolage, baby-foot, TV-DVD. Sorties mensuelles (culture, sport, découverte). Accueil 7-11 ans le mercredi, accueil libre 12-25 ans mercredi à vendredi.",
-    "target_audience": "Jeunes de 7 à 25 ans",
-    "access_conditions": "Gratuit, accueil libre sans inscription"
+    "description": "Qada ciwanan 7-25 salî. Lîstik, geşt.",
+    "target_audience": "Ciwan 7-25 salî",
+    "access_conditions": "Belaş"
   },
   "r_0200": {
-    "description": "Espace d'activités pour les jeunes de 11 à 25 ans, géré par les TSHM de la FASe (équipe BUPP). Studio de musique (Stud) le jeudi sur inscription, soirées Boums le vendredi (10-14 ans), sport pour tous le mercredi (novembre à avril).",
-    "target_audience": "Jeunes de 11 à 25 ans",
-    "access_conditions": "Gratuit, sur inscription selon les activités"
+    "description": "Çalakiyên ciwanan 11-25 salî. Muzîk, şahî, werzîş.",
+    "target_audience": "Ciwan 11-25 salî",
+    "access_conditions": "Belaş"
   },
   "r_0201": {
-    "description": "Collectif de 15 associations féminines et féministes subventionné par le Canton et la Ville de Genève. L'Espace Santé Femmes offre gratuitement conseils, information et orientation en santé (ménopause, sexualité, grossesse, vieillissement). Soutien administratif et social, ateliers bien-être.",
-    "target_audience": "Femmes, personnes trans, non-binaires et/ou intersexes",
-    "access_conditions": "Gratuit, ouvert aux femmes et minorités de genre"
+    "description": "Şêwirmendiya tenduristiya jinan. Atolyeyên başbûnê.",
+    "target_audience": "Jin, trans, kesên nebînarî",
+    "access_conditions": "Belaş"
   },
   "r_0202": {
-    "description": "Centre d'action sociale de proximité de l'Hospice général pour les quartiers de la Servette, du Petit-Saconnex et de Vieusseux. Aide financière, accompagnement social personnalisé, aide au logement, insertion professionnelle et soutien administratif.",
-    "target_audience": "Résidents des quartiers Servette, Petit-Saconnex, Vieusseux en difficulté",
-    "access_conditions": "Sur rendez-vous, résidents du canton de Genève"
+    "description": "Navenda civakî ya herêmî. Alîkariya darayî, xanî.",
+    "target_audience": "Niştecihên di tengasiyê de",
+    "access_conditions": "Bi randevû"
   },
   "r_0203": {
-    "description": "Festival de cinéma en plein air gratuit au Parc de la Perle du Lac, chaque été depuis 2009. Plus de 50 films en version originale sous-titrée français. Animations dès 19h, séance au coucher du soleil. Événement saisonnier : juillet-août uniquement.",
-    "target_audience": "Tout public",
-    "access_conditions": "Gratuit, sans réservation. Saisonnier : juillet-août uniquement."
+    "description": "Sînemaya li derve ya belaş di Tîrmeh-Tebaxê de. Zêdetirî 50 fîlm.",
+    "target_audience": "Hemû kes",
+    "access_conditions": "Belaş, demsalî"
   },
   "r_0204": {
-    "description": "Lieu d'accueil gratuit, anonyme et sans inscription pour les enfants accompagnés d'un adulte. Activités, jeux, soutien éducatif dans un cadre chaleureux et inclusif. Boissons et collations offertes.",
-    "target_audience": "Enfants accompagnés d'un adulte (parents, grands-parents, mamans de jour)",
-    "access_conditions": "Gratuit, anonyme, sans inscription. Enfants sous la responsabilité de l'adulte accompagnant."
+    "description": "Pêşwaziya belaş a zarokan bi mezinan re. Çalakî, pêşxistin.",
+    "target_audience": "Zarok bi mezinan re",
+    "access_conditions": "Belaş"
   },
   "r_0205": {
-    "description": "Espace d'accueil pour les enfants de 0 à 4 ans accompagnés d'un parent ou adulte proche, inspiré du concept de la Maison Verte. Lieu de jeu, de parole et de socialisation. Contribution financière libre (gratuit possible).",
-    "target_audience": "Enfants de 0 à 4 ans accompagnés d'un parent ou adulte proche",
-    "access_conditions": "Contribution financière libre (gratuit possible). Sans inscription, anonyme."
+    "description": "Zarokên 0-4 salî bi dêûbavan re. Lîstik, civakîbûn. Beravdaniya azad.",
+    "target_audience": "Zarokên 0-4 salî",
+    "access_conditions": "Beravdaniya azad"
   },
   "r_0206": {
-    "description": "Lieu d'échange gratuit ouvert à tous, au cœur de l'Université de Genève. Rencontres entre la communauté universitaire et les personnes migrantes pour tisser des liens, pratiquer le français et découvrir la vie à Genève. Café, thé et croissants offerts.",
-    "target_audience": "Tout le monde, en particulier personnes migrantes et communauté universitaire",
-    "access_conditions": "Gratuit, sans engagement, ouvert à tous. Pendant les semestres universitaires."
+    "description": "Pevçûna belaş li zanîngehê. Koçber û xwendekar. Praktîkkirina Fransizî.",
+    "target_audience": "Hemû kes",
+    "access_conditions": "Belaş, di dema semestran de"
   },
   "tag": {
     "143": "143",

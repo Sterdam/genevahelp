@@ -175,9 +175,9 @@
     "access_conditions": "Deschis tuturor"
   },
   "r_0036": {
-    "description": "Distribution gratuite de vêtements, chaussures et linge de maison pour les personnes en situation de précarité. Géré conjointement par le Centre social protestant (CSP), Caritas Genève et la Croix-Rouge genevoise.",
-    "target_audience": "Personnes en situation de précarité",
-    "access_conditions": "Sur présentation d'un bon délivré par un service social, le CSP, Caritas Genève ou la Croix-Rouge genevoise"
+    "description": "Distribuire gratuită de haine, încălțăminte și lenjerie de casă pentru persoanele aflate în dificultate. Gestionat de CSP, Caritas și Crucea Roșie din Geneva.",
+    "target_audience": "Persoane aflate în situație de precaritate",
+    "access_conditions": "Pe baza unui bon eliberat de un serviciu social, CSP, Caritas sau Crucea Roșie din Geneva"
   },
   "r_0037": {
     "description": "Cursuri de franceza limba straina pentru adulti migranti. Niveluri de la incepator la avansat. Cursuri de zi si de seara.",
@@ -245,9 +245,9 @@
     "access_conditions": "Primire fara programare de luni pana vineri de la 8h la 15h30"
   },
   "r_0050": {
-    "description": "Lieu d'accueil, de soutien et de réinsertion socioprofessionnelle pour personnes en situation de précarité. Petits-déjeuners gratuits (150-200/semaine), repas chauds le lundi et jeudi à 10h, pasta party un dimanche sur deux (17h-19h30), activités sociales et stages de réinsertion.",
-    "target_audience": "Personnes en situation de précarité",
-    "access_conditions": "Sans conditions, accueil libre. Repas chauds lundi et jeudi à 10h. Pasta party un dimanche sur deux 17h-19h30."
+    "description": "Loc de primire, sprijin și reinserție socio-profesională pentru persoane în dificultate. Mic dejun gratuit (150-200/săptămână), mese calde luni și joi la 10:00, seară de paste o duminică din două (17:00-19:30), activități sociale și stagii de reinserție.",
+    "target_audience": "Persoane aflate în situație de precaritate",
+    "access_conditions": "Fără condiții, primire liberă. Mese calde luni și joi la 10:00. Seară de paste o duminică din două 17:00-19:30."
   },
   "r_0051": {
     "description": "Loc de primire, timp liber, intalniri si relaxare pentru toate varstele, toate culturile si toate mediile sociale. Activitati culturale si sociale.",
@@ -415,9 +415,9 @@
     "access_conditions": "Sunati la numarul gratuit 0800 22 22 10 pentru a obtine un loc, primire neconditionata"
   },
   "r_0084": {
-    "description": "Lieu d'accueil de jour inconditionnel au Temple de la Servette pour les personnes en situation de précarité. Repas solidaires, boissons chaudes, écrivain public (CV, lettres), ateliers de français, anglais et informatique. Permanence juridique gratuite au 48 rue de Berne (lun 10h-12h, mer 17h30-19h30, jeu 10h-12h) : droit des étrangers, famille, travail, assurances sociales, pénal.",
-    "target_audience": "Personnes en situation de précarité, migrants, sans-abri",
-    "access_conditions": "Sans conditions, accueil inconditionnel"
+    "description": "Loc de primire de zi necondiționat la Templul Servette pentru persoane în dificultate. Mese solidare, băuturi calde, scriitor public (CV, scrisori), cursuri de franceză, engleză și informatică. Consultanță juridică gratuită la 48 rue de Berne (luni 10:00-12:00, miercuri 17:30-19:30, joi 10:00-12:00): dreptul străinilor, familiei, muncii, asigurărilor sociale, penal.",
+    "target_audience": "Persoane în dificultate, migranți, persoane fără adăpost",
+    "access_conditions": "Fără condiții, primire necondiționată"
   },
   "r_0085": {
     "description": "Bai publice emblematice pe malul lacului Léman. Plaja cu nisip, bazine, trambulina (3-10m), sauna si hammam, bufet popular. Intrare foarte accesibila (2 CHF vara, 1 CHF iarna).",
@@ -555,9 +555,9 @@
     "access_conditions": "Gratuit, fara inscriere, copii insotiti"
   },
   "r_0112": {
-    "description": "Service professionnel de garde d'enfants à domicile et babysitting de la Croix-Rouge genevoise. Une intervenante formée se déplace au domicile de la famille sous 4 heures. Missions de 3 à 10 heures, 7j/7. Service payant : 5 CHF/h (avec subside) ou 10 CHF/h (sans subside). Propose aussi des « bons de respiration » (4h de garde pour 10 CHF).",
-    "target_audience": "Familles avec enfants ayant besoin de garde à domicile",
-    "access_conditions": "Service payant : 5 CHF/h (avec subside), 10 CHF/h (sans subside). +2 CHF par enfant supplémentaire. Réservation par téléphone."
+    "description": "Serviciu profesional de îngrijire a copiilor la domiciliu și babysitting de la Crucea Roșie din Geneva. O persoană formată se deplasează la domiciliu în 4 ore. Misiuni de 3 la 10 ore, 7 zile/săptămână. Serviciu cu plată: 5 CHF/oră (cu subvenție) sau 10 CHF/oră (fără subvenție). Oferă și bonuri de odihnă (4 ore de îngrijire pentru 10 CHF).",
+    "target_audience": "Familii cu copii care au nevoie de îngrijire la domiciliu",
+    "access_conditions": "Serviciu cu plată: 5 CHF/oră (cu subvenție), 10 CHF/oră (fără subvenție). +2 CHF per copil suplimentar. Rezervare telefonică."
   },
   "r_0113": {
     "description": "Spațiu de joc și serviciu de împrumut de jucării și jocuri de societate pentru copii, familii și adulți. Jocuri mari și de exterior disponibile pentru petreceri și evenimente.",
@@ -890,144 +890,144 @@
     "access_conditions": "Joc gratuit la fața locului. Împrumut cu abonament familial anual (30 CHF)."
   },
   "r_0179": {
-    "description": "Association féministe et autogérée proposant un espace d'accueil parent-bébé (Marmotricité) pour les enfants de 0 à 1 an et leurs parents. Accompagnement psychomoteur des bébés dans un cadre collectif et convivial, avec une attention particulière aux populations en situation de précarité.",
-    "target_audience": "Parents et bébés de 0 à 1 an",
-    "access_conditions": "Prix libre, accueil avec attention particulière aux familles en situation de précarité"
+    "description": "Asociație feministă autogestionată care oferă un spațiu de primire părinte-bebeluș (Marmotricité) pentru copiii de la 0 la 1 an și părinții lor. Însoțire psihomotorie a bebelușilor într-un cadru colectiv și prietenos, cu atenție specială pentru familiile în dificultate.",
+    "target_audience": "Părinți și bebeluși de la 0 la 1 an",
+    "access_conditions": "Preț liber, primire cu atenție specială pentru familiile în dificultate"
   },
   "r_0180": {
-    "description": "Lieu d'accueil et de rencontre multiculturel ouvert à tous. Repas gratuits (soupe, pâtisseries, repas chauds, petit-déjeuner), distribution de sacs de nourriture, accompagnement social gratuit et cours de français.",
-    "target_audience": "Toute personne dans le besoin",
-    "access_conditions": "Accueil gratuit, ouvert à tous, sans conditions. Distribution de sacs de nourriture sur inscription."
+    "description": "Loc de primire și întâlnire multicultural deschis tuturor. Mese gratuite (supă, patiserie, mese calde, mic dejun), distribuire de pachete alimentare, acompaniere socială gratuită și cursuri de franceză.",
+    "target_audience": "Orice persoană aflată în nevoie",
+    "access_conditions": "Primire gratuită, deschis tuturor, fără condiții. Distribuirea de pachete alimentare pe bază de înscriere."
   },
   "r_0181": {
-    "description": "Association d'utilité publique accueillant les femmes en situation de grande précarité. Repas chauds, café, prestations d'hygiène (douches, buanderie, coiffure), produits de première nécessité, accompagnement social par des travailleuses sociales, espace d'écoute et sorties culturelles mensuelles.",
-    "target_audience": "Femmes en situation de grande précarité, femmes sans-abri, femmes sans-papiers",
-    "access_conditions": "Accueil bas-seuil, sans conditions, sans rendez-vous. Ouvert à toute femme en situation de précarité."
+    "description": "Asociație de utilitate publică ce primește femei în situație de mare precaritate. Mese calde, cafea, servicii de igienă (dușuri, spălătorie, coafor), produse de primă necesitate, acompaniere socială de către asistente sociale, spațiu de ascultare și ieșiri culturale lunare.",
+    "target_audience": "Femei în situație de mare precaritate, femei fără adăpost, femei fără documente",
+    "access_conditions": "Primire cu prag scăzut, fără condiții, fără programare. Deschis oricărei femei în dificultate."
   },
   "r_0182": {
-    "description": "Bibliothèque publique historique avec plus de 200 places de travail, WiFi gratuit, postes informatiques en libre accès et salle de lecture ouverte en soirée. Inscription gratuite pour l'emprunt. Accès à plus de 30 millions de documents.",
-    "target_audience": "Tout public : étudiants, chercheurs, lecteurs",
-    "access_conditions": "Entrée libre et gratuite, ouverte à tous. Inscription gratuite avec pièce d'identité pour l'emprunt."
+    "description": "Bibliotecă publică istorică cu peste 200 de locuri de lucru, WiFi gratuit, calculatoare cu acces liber și sală de lectură deschisă seara. Înscriere gratuită pentru împrumut. Acces la peste 30 de milioane de documente.",
+    "target_audience": "Toată lumea: studenți, cercetători, cititori",
+    "access_conditions": "Intrare liberă și gratuită, deschisă tuturor. Înscriere gratuită cu act de identitate pentru împrumut."
   },
   "r_0183": {
-    "description": "Restaurant social de la Ville de Genève offrant des repas gratuits (petit-déjeuner et repas chauds) et un accompagnement social de première ligne. Accueil de jour avec écoute, soutien social et orientation vers d'autres partenaires sociaux. Gratuit et confidentiel.",
-    "target_audience": "Personnes en situation de précarité",
-    "access_conditions": "Ouvert toute l'année sans inscription. Gratuit et confidentiel. Ticket pour repas chauds dès 08h00."
+    "description": "Restaurant social al Orașului Geneva oferind mese gratuite (mic dejun și mese calde) și acompaniere socială de primă linie. Primire de zi cu ascultare, sprijin social și orientare către alți parteneri sociali. Gratuit și confidențial.",
+    "target_audience": "Persoane aflate în situație de precaritate",
+    "access_conditions": "Deschis tot anul fără înscriere. Gratuit și confidențial. Tichet pentru mese calde de la 08:00."
   },
   "r_0184": {
-    "description": "Le BIS accueille, informe et oriente toute personne souhaitant des renseignements sur l'accès aux prestations sociales. Informations et conseils sur les problèmes financiers, d'endettement, de logement et de santé. Accès à des travailleurs sociaux, psychologues et juristes.",
-    "target_audience": "Toute personne résidant à Genève, quel que soit son statut légal",
-    "access_conditions": "Gratuit, anonyme, sans rendez-vous, ouvert à toute la population quel que soit le statut légal. Confidentialité assurée."
+    "description": "BIS primește, informează și orientează orice persoană care dorește informații despre accesul la prestații sociale. Informații și consiliere privind problemele financiare, datoriile, locuința și sănătatea. Acces la asistenți sociali, psihologi și juriști.",
+    "target_audience": "Orice persoană rezidentă la Geneva, indiferent de statutul legal",
+    "access_conditions": "Gratuit, anonim, fără programare, deschis întregii populații indiferent de statutul legal. Confidențialitate asigurată."
   },
   "r_0185": {
-    "description": "Espace d'accueil et de conseil multilingue pour les parents avant et après la naissance. Pesée de bébé, chaise d'allaitement, massage bébé, portage, psychomotricité. Situé dans les locaux de la ludothèque de Versoix.",
-    "target_audience": "Femmes enceintes, parents avec bébés et jeunes enfants, familles allophones",
-    "access_conditions": "Gratuit, sans inscription, libre accès. Fermé pendant les vacances scolaires genevoises."
+    "description": "Spațiu de primire și consiliere multilingv pentru părinți înainte și după naștere. Cântărirea bebelușului, scaun de alăptare, masaj bebeluș, purtare, psihomotricitate. Situat în localurile ludotecii din Versoix.",
+    "target_audience": "Femei însărcinate, părinți cu bebeluși și copii mici, familii alofone",
+    "access_conditions": "Gratuit, fără înscriere, acces liber. Închis în timpul vacanțelor școlare din Geneva."
   },
   "r_0186": {
-    "description": "Espace d'accueil et de soutien pour femmes enceintes et parents avec bébé jusqu'à 1 an. Accueils libres animés par des sages-femmes, psychomotricienne le lundi, atelier de français maternité et cours de préparation à la naissance avec interprètes communautaires.",
-    "target_audience": "Femmes enceintes, parents avec bébé jusqu'à 1 an, familles en situation de migration",
-    "access_conditions": "Gratuit, sans inscription pour les accueils libres. Inscription nécessaire pour l'atelier de français maternité."
+    "description": "Spațiu de primire și sprijin pentru femei însărcinate și părinți cu bebeluș până la 1 an. Primiri libere animate de moașe, psihomotricitate luni, atelier de franceză maternitate și cursuri de pregătire pentru naștere cu interpreți comunitari.",
+    "target_audience": "Femei însărcinate, părinți cu bebeluș până la 1 an, familii în situație de migrație",
+    "access_conditions": "Gratuit, fără înscriere pentru primirile libere. Înscriere necesară pentru atelierul de franceză maternitate."
   },
   "r_0187": {
-    "description": "Un mercredi sur deux, une sage-femme accueille les parents à la ludothèque Belle-Terre pour échanger, poser des questions, peser bébé et jouer. Goûter offert par la ludothèque.",
-    "target_audience": "Femmes enceintes, parents avec bébés et jeunes enfants",
-    "access_conditions": "Gratuit, sans inscription, libre accès. Un mercredi sur deux, hors vacances scolaires."
+    "description": "O miercuri din două, o moașă primește părinții la ludoteca Belle-Terre pentru schimb de experiențe, întrebări, cântărirea bebelușului și joc. Gustare oferită de ludotecă.",
+    "target_audience": "Femei însărcinate, părinți cu bebeluși și copii mici",
+    "access_conditions": "Gratuit, fără înscriere, acces liber. O miercuri din două, în afara vacanțelor școlare."
   },
   "r_0188": {
-    "description": "Centre spécialisé d'écoute, de conseil et d'accompagnement en matière de discriminations et de racisme anti-Noir, géré par l'UPAF (Université Populaire Africaine) en collaboration avec le CRAN et le syndicat SYNA. Situé dans l'espace AfrikaLAB.",
-    "target_audience": "Personnes victimes de racisme anti-Noir et de discriminations raciales",
-    "access_conditions": "Service d'écoute et de conseil gratuit pour les personnes victimes de racisme anti-Noir et de discriminations"
+    "description": "Centru specializat de ascultare, consiliere și acompaniere în materie de discriminare și rasism anti-negri, gestionat de UPAF (Universitatea Populară Africană) în colaborare cu CRAN și sindicatul SYNA. Situat în spațiul AfrikaLAB.",
+    "target_audience": "Persoane victime ale rasismului anti-negri și discriminării rasiale",
+    "access_conditions": "Serviciu de ascultare și consiliere gratuit pentru persoanele victime ale rasismului anti-negri și discriminării"
   },
   "r_0189": {
-    "description": "Association créée par des parents en 2007, regroupant plus de 1200 membres. Services d'accompagnement, groupes de compétences sociales, rencontres parents, formations, conférences, groupe fratrie, job coaching et Centre d'accueil et de soutien en autisme (CASA).",
-    "target_audience": "Personnes autistes (avec ou sans diagnostic), familles, frères et sœurs, professionnels",
-    "access_conditions": "Ouvert aux personnes autistes, familles et professionnels. Adhésion à l'association possible."
+    "description": "Asociație creată de părinți în 2007, reunind peste 1200 de membri. Servicii de acompaniere, grupuri de competențe sociale, întâlniri de părinți, formări, conferințe, grup de frați, coaching profesional și Centru de Primire și Sprijin în Autism (CASA).",
+    "target_audience": "Persoane autiste (cu sau fără diagnostic), familii, frați și surori, profesioniști",
+    "access_conditions": "Deschis persoanelor autiste, familiilor și profesioniștilor. Posibilă aderare la asociație."
   },
   "r_0190": {
-    "description": "Toilettes publiques gratuites situées sur la Place du Bourg-de-Four dans la vieille ville de Genève. Cabines pour personnes à mobilité réduite accessibles avec clé Eurokey (disponible auprès de Pro Infirmis Genève).",
-    "target_audience": "Tout public",
-    "access_conditions": "Accès libre et gratuit. Cabines PMR avec clé Eurokey (Pro Infirmis : 058 775 31 08)."
+    "description": "Toalete publice gratuite situate pe Place du Bourg-de-Four în orașul vechi din Geneva. Cabine pentru persoane cu mobilitate redusă accesibile cu cheie Eurokey (disponibilă la Pro Infirmis Geneva).",
+    "target_audience": "Toată lumea",
+    "access_conditions": "Acces liber și gratuit. Cabine PMR cu cheie Eurokey (Pro Infirmis: 058 775 31 08)."
   },
   "r_0191": {
-    "description": "Bibliothèque municipale de la Ville de Genève proposant des collections pour adultes et jeunes, une grainothèque, du WiFi gratuit, des postes informatiques et des animations culturelles. Inscription et emprunt gratuits.",
-    "target_audience": "Tout public (adultes et jeunes)",
-    "access_conditions": "Accès libre et gratuit. Inscription gratuite pour l'emprunt."
+    "description": "Bibliotecă municipală a Orașului Geneva propunând colecții pentru adulți și tineri, o grădinărie de semințe, WiFi gratuit, calculatoare și animații culturale. Înscriere și împrumut gratuite.",
+    "target_audience": "Toată lumea (adulți și tineri)",
+    "access_conditions": "Acces liber și gratuit. Înscriere gratuită pentru împrumut."
   },
   "r_0192": {
-    "description": "Espace d'accueil, de répit et de rencontre pour personnes réfugiées. Accompagnement pour les démarches administratives, informations sur les permis, logement et scolarisation, espace informatique et activités socioculturelles. Interprètes bénévoles présents quotidiennement.",
-    "target_audience": "Personnes réfugiées à Genève",
-    "access_conditions": "Ouvert aux personnes réfugiées à Genève. Accès libre sans inscription."
+    "description": "Spațiu de primire, odihnă și întâlnire pentru persoane refugiate. Acompaniere pentru demersurile administrative, informații despre permise, locuință și școlarizare, spațiu informatic și activități socioculturale. Interpreți voluntari prezenți zilnic.",
+    "target_audience": "Persoane refugiate la Geneva",
+    "access_conditions": "Deschis persoanelor refugiate la Geneva. Acces liber fără înscriere."
   },
   "r_0193": {
-    "description": "Lieu d'accueil gratuit, anonyme et sans inscription pour enfants de 0 à 5 ans accompagnés d'un adulte proche. Écoute et soutien à l'enfant et à l'adulte accompagnant. Capacité de 20 personnes.",
-    "target_audience": "Enfants de 0 à 5 ans accompagnés d'un adulte proche (parent, grand-parent, maman de jour)",
-    "access_conditions": "Gratuit, anonyme, sans inscription. L'enfant reste sous la responsabilité de l'adulte accompagnant."
+    "description": "Loc de primire gratuit, anonim și fără înscriere pentru copii de la 0 la 5 ani însoțiți de un adult apropiat. Ascultare și sprijin pentru copil și adultul însoțitor. Capacitate de 20 de persoane.",
+    "target_audience": "Copii de la 0 la 5 ani însoțiți de un adult apropiat (părinte, bunic, bonă)",
+    "access_conditions": "Gratuit, anonim, fără înscriere. Copilul rămâne sub responsabilitatea adultului însoțitor."
   },
   "r_0194": {
-    "description": "Permanence juridique gratuite proposée par des étudiants en droit confirmés de l'Université de Genève (UNIGE). Consultations de 30 minutes couvrant le droit du travail, du bail, de la famille, des assurances sociales, pénal et des étrangers. Première Junior Entreprise suisse à offrir ce service (depuis 2015).",
-    "target_audience": "Toute personne ayant besoin de conseils juridiques",
-    "access_conditions": "Gratuit, ouvert à tous. Lundi sur rendez-vous, mercredi sans rendez-vous (premier arrivé, premier servi)."
+    "description": "Consultanță juridică gratuită oferită de studenți confirmați în drept de la Universitatea din Geneva (UNIGE). Consultații de 30 de minute acoperind dreptul muncii, al locuinței, familiei, asigurărilor sociale, penal și al străinilor. Prima Junior Entreprise din Elveția care oferă acest serviciu (din 2015).",
+    "target_audience": "Orice persoană care are nevoie de consiliere juridică",
+    "access_conditions": "Gratuit, deschis tuturor. Luni pe bază de programare, miercuri fără programare (primul venit, primul servit)."
   },
   "r_0195": {
-    "description": "Consultations juridiques gratuites et confidentielles par des étudiants en droit confirmés de l'Université de Genève. Consultations de 30 minutes par groupes de 3 à 5 étudiants. Couvre le droit du travail, du bail, de la famille, des assurances sociales, pénal et des étrangers.",
-    "target_audience": "Toute personne ayant besoin de conseils juridiques",
-    "access_conditions": "Gratuit, confidentiel, ouvert à tous. Rendez-vous via le site pje-ge.ch."
+    "description": "Consultații juridice gratuite și confidențiale oferite de studenți confirmați în drept de la Universitatea din Geneva. Consultații de 30 de minute în grupuri de 3 la 5 studenți. Acoperă dreptul muncii, al locuinței, familiei, asigurărilor sociale, penal și al străinilor.",
+    "target_audience": "Orice persoană care are nevoie de consiliere juridică",
+    "access_conditions": "Gratuit, confidențial, deschis tuturor. Programare prin site-ul pje-ge.ch."
   },
   "r_0196": {
-    "description": "Consultations juridiques gratuites et confidentielles par des étudiants en droit de l'Université de Genève. Consultations de 45 minutes. En plus des conseils juridiques, aide à la rédaction de courrier (en collaboration avec Europe Charmilles).",
-    "target_audience": "Toute personne ayant besoin de conseils juridiques ou d'aide à la rédaction de courrier",
-    "access_conditions": "Gratuit, confidentiel, ouvert à tous. Rendez-vous via le site pje-ge.ch. Aide à la rédaction de courrier disponible."
+    "description": "Consultații juridice gratuite și confidențiale oferite de studenți în drept de la Universitatea din Geneva. Consultații de 45 de minute. Pe lângă consilierea juridică, ajutor la redactarea corespondenței (în colaborare cu Europe Charmilles).",
+    "target_audience": "Orice persoană care are nevoie de consiliere juridică sau ajutor la redactarea corespondenței",
+    "access_conditions": "Gratuit, confidențial, deschis tuturor. Programare prin site-ul pje-ge.ch. Ajutor la redactarea corespondenței disponibil."
   },
   "r_0197": {
-    "description": "Bibliothèque municipale gratuite proposant plus de 14'000 documents : romans, documentaires, bandes dessinées, revues, livres en gros caractères et livres audio. Inscription et emprunt gratuits.",
-    "target_audience": "Tout public",
-    "access_conditions": "Inscription gratuite, ouvert à tous"
+    "description": "Bibliotecă municipală gratuită propunând peste 14.000 de documente: romane, documentare, benzi desenate, reviste, cărți cu caractere mari și cărți audio. Înscriere și împrumut gratuite.",
+    "target_audience": "Toată lumea",
+    "access_conditions": "Înscriere gratuită, deschis tuturor"
   },
   "r_0198": {
-    "description": "Distribution gratuite de vêtements (hommes, femmes, enfants) et de linge de maison pour les personnes en situation de précarité. Programme géré par la Fondation Carrefour-Rue & Coulou.",
-    "target_audience": "Personnes en situation de précarité",
-    "access_conditions": "Gratuit, ouvert à toute personne dans le besoin"
+    "description": "Distribuire gratuită de haine (bărbați, femei, copii) și lenjerie de casă pentru persoanele în dificultate. Program gestionat de Fundația Carrefour-Rue & Coulou.",
+    "target_audience": "Persoane aflate în situație de precaritate",
+    "access_conditions": "Gratuit, deschis oricărei persoane aflate în nevoie"
   },
   "r_0199": {
-    "description": "Espace d'accueil libre pour les jeunes de 7 à 25 ans, géré par les TSHM de la FASe (équipe BUPP). Jeux de société, bricolage, baby-foot, TV-DVD. Sorties mensuelles (culture, sport, découverte). Accueil 7-11 ans le mercredi, accueil libre 12-25 ans mercredi à vendredi.",
-    "target_audience": "Jeunes de 7 à 25 ans",
-    "access_conditions": "Gratuit, accueil libre sans inscription"
+    "description": "Spațiu de primire liberă pentru tinerii de la 7 la 25 de ani, gestionat de TSHM din FASe (echipa BUPP). Jocuri de societate, bricolaj, fotbal de masă, TV-DVD. Ieșiri lunare (cultură, sport, descoperire). Primire 7-11 ani miercuri, primire liberă 12-25 ani miercuri-vineri.",
+    "target_audience": "Tineri de la 7 la 25 de ani",
+    "access_conditions": "Gratuit, primire liberă fără înscriere"
   },
   "r_0200": {
-    "description": "Espace d'activités pour les jeunes de 11 à 25 ans, géré par les TSHM de la FASe (équipe BUPP). Studio de musique (Stud) le jeudi sur inscription, soirées Boums le vendredi (10-14 ans), sport pour tous le mercredi (novembre à avril).",
-    "target_audience": "Jeunes de 11 à 25 ans",
-    "access_conditions": "Gratuit, sur inscription selon les activités"
+    "description": "Spațiu de activități pentru tinerii de la 11 la 25 de ani, gestionat de TSHM din FASe (echipa BUPP). Studio muzical (Stud) joi pe bază de înscriere, seri Boums vineri (10-14 ani), sport pentru toți miercuri (noiembrie-aprilie).",
+    "target_audience": "Tineri de la 11 la 25 de ani",
+    "access_conditions": "Gratuit, pe bază de înscriere în funcție de activități"
   },
   "r_0201": {
-    "description": "Collectif de 15 associations féminines et féministes subventionné par le Canton et la Ville de Genève. L'Espace Santé Femmes offre gratuitement conseils, information et orientation en santé (ménopause, sexualité, grossesse, vieillissement). Soutien administratif et social, ateliers bien-être.",
-    "target_audience": "Femmes, personnes trans, non-binaires et/ou intersexes",
-    "access_conditions": "Gratuit, ouvert aux femmes et minorités de genre"
+    "description": "Colectiv de 15 asociații feminine și feministe subvenționat de Canton și Orașul Geneva. Espace Santé Femmes oferă gratuit sfaturi, informații și orientare în sănătate (menopauză, sexualitate, sarcină, îmbătrânire). Sprijin administrativ și social, ateliere de bunăstare.",
+    "target_audience": "Femei, persoane trans, non-binare și/sau intersex",
+    "access_conditions": "Gratuit, deschis femeilor și minorităților de gen"
   },
   "r_0202": {
-    "description": "Centre d'action sociale de proximité de l'Hospice général pour les quartiers de la Servette, du Petit-Saconnex et de Vieusseux. Aide financière, accompagnement social personnalisé, aide au logement, insertion professionnelle et soutien administratif.",
-    "target_audience": "Résidents des quartiers Servette, Petit-Saconnex, Vieusseux en difficulté",
-    "access_conditions": "Sur rendez-vous, résidents du canton de Genève"
+    "description": "Centru de acțiune socială de proximitate al Hospice général pentru cartierele Servette, Petit-Saconnex și Vieusseux. Ajutor financiar, acompaniere socială personalizată, ajutor pentru locuință, inserție profesională și sprijin administrativ.",
+    "target_audience": "Rezidenți din cartierele Servette, Petit-Saconnex, Vieusseux aflați în dificultate",
+    "access_conditions": "Pe bază de programare, rezidenți ai cantonului Geneva"
   },
   "r_0203": {
-    "description": "Festival de cinéma en plein air gratuit au Parc de la Perle du Lac, chaque été depuis 2009. Plus de 50 films en version originale sous-titrée français. Animations dès 19h, séance au coucher du soleil. Événement saisonnier : juillet-août uniquement.",
-    "target_audience": "Tout public",
-    "access_conditions": "Gratuit, sans réservation. Saisonnier : juillet-août uniquement."
+    "description": "Festival de cinema în aer liber gratuit în Parcul Perle du Lac, în fiecare vară din 2009. Peste 50 de filme în versiune originală subtitrate în franceză. Animații de la 19:00, proiecție la apusul soarelui. Eveniment sezonier: doar iulie-august.",
+    "target_audience": "Toată lumea",
+    "access_conditions": "Gratuit, fără rezervare. Sezonier: doar iulie-august."
   },
   "r_0204": {
-    "description": "Lieu d'accueil gratuit, anonyme et sans inscription pour les enfants accompagnés d'un adulte. Activités, jeux, soutien éducatif dans un cadre chaleureux et inclusif. Boissons et collations offertes.",
-    "target_audience": "Enfants accompagnés d'un adulte (parents, grands-parents, mamans de jour)",
-    "access_conditions": "Gratuit, anonyme, sans inscription. Enfants sous la responsabilité de l'adulte accompagnant."
+    "description": "Loc de primire gratuit, anonim și fără înscriere pentru copii însoțiți de un adult. Activități, jocuri, sprijin educativ într-un cadru cald și incluziv. Băuturi și gustări oferite.",
+    "target_audience": "Copii însoțiți de un adult (părinți, bunici, bone)",
+    "access_conditions": "Gratuit, anonim, fără înscriere. Copiii sub responsabilitatea adultului însoțitor."
   },
   "r_0205": {
-    "description": "Espace d'accueil pour les enfants de 0 à 4 ans accompagnés d'un parent ou adulte proche, inspiré du concept de la Maison Verte. Lieu de jeu, de parole et de socialisation. Contribution financière libre (gratuit possible).",
-    "target_audience": "Enfants de 0 à 4 ans accompagnés d'un parent ou adulte proche",
-    "access_conditions": "Contribution financière libre (gratuit possible). Sans inscription, anonyme."
+    "description": "Spațiu de primire pentru copiii de la 0 la 4 ani însoțiți de un părinte sau adult apropiat, inspirat din conceptul Maison Verte. Loc de joacă, de vorbire și de socializare. Contribuție financiară liberă (poate fi gratuit).",
+    "target_audience": "Copii de la 0 la 4 ani însoțiți de un părinte sau adult apropiat",
+    "access_conditions": "Contribuție financiară liberă (poate fi gratuit). Fără înscriere, anonim."
   },
   "r_0206": {
-    "description": "Lieu d'échange gratuit ouvert à tous, au cœur de l'Université de Genève. Rencontres entre la communauté universitaire et les personnes migrantes pour tisser des liens, pratiquer le français et découvrir la vie à Genève. Café, thé et croissants offerts.",
-    "target_audience": "Tout le monde, en particulier personnes migrantes et communauté universitaire",
-    "access_conditions": "Gratuit, sans engagement, ouvert à tous. Pendant les semestres universitaires."
+    "description": "Loc de schimb gratuit deschis tuturor, în inima Universității din Geneva. Întâlniri între comunitatea universitară și persoanele migrante pentru a crea legături, a practica franceza și a descoperi viața la Geneva. Cafea, ceai și croissante oferite.",
+    "target_audience": "Toată lumea, în special persoanele migrante și comunitatea universitară",
+    "access_conditions": "Gratuit, fără angajament, deschis tuturor. În timpul semestrelor universitare."
   },
   "tag": {
     "143": "143",

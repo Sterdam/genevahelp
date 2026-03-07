@@ -175,9 +175,9 @@
     "access_conditions": "เปิดให้ทุกคน"
   },
   "r_0036": {
-    "description": "แจกจ่ายเสื้อผ้า รองเท้า และผ้าปูที่นอนฟรีสำหรับผู้ที่ขาดแคลน ดำเนินการร่วมกันโดย CSP, Caritas และกาชาดเจนีวา",
-    "target_audience": "ผู้ที่ขาดแคลน",
-    "access_conditions": "ต้องมีบัตรจากหน่วยงานสังคมสงเคราะห์"
+    "description": "แจกเสื้อผ้า รองเท้า และผ้าปูที่นอนฟรีสำหรับผู้ที่อยู่ในสถานการณ์ยากลำบาก ดำเนินการโดย CSP, Caritas, สภากาชาดเจนีวา",
+    "target_audience": "ผู้ที่อยู่ในสถานการณ์ยากลำบาก",
+    "access_conditions": "ต้องมีคูปองจากบริการสังคม/CSP/Caritas/สภากาชาด"
   },
   "r_0037": {
     "description": "คอร์สภาษาฝรั่งเศสสำหรับผู้ใหญ่อพยพ ตั้งแต่ระดับเริ่มต้นถึงขั้นสูง เรียนช่วงกลางวันและช่วงเย็น",
@@ -245,9 +245,9 @@
     "access_conditions": "ไม่ต้องนัดหมาย จ.-ศ. 8.00-15.30 น."
   },
   "r_0050": {
-    "description": "ศูนย์ต้อนรับ สนับสนุน และฟื้นฟูทางสังคมและอาชีพ ที่พัก อาหาร การดูแลสุขภาพ",
-    "target_audience": "ผู้ที่อยู่ในสถานการณ์ลำบาก",
-    "access_conditions": "ส่งต่อจากหน่วยงานสังคมสงเคราะห์"
+    "description": "ต้อนรับ สนับสนุน และช่วยเหลือการกลับเข้าสู่สังคมสำหรับผู้ที่อยู่ในสถานการณ์ยากลำบาก อาหารเช้าฟรี อาหารร้อนจันทร์/พฤหัส 10 น. ปาร์ตี้พาสต้าทุกสองสัปดาห์วันอาทิตย์ 17:00-19:30 น.",
+    "target_audience": "ผู้ที่อยู่ในสถานการณ์ยากลำบาก",
+    "access_conditions": "ไม่มีเงื่อนไข เข้าถึงได้อย่างเสรี"
   },
   "r_0051": {
     "description": "สถานที่ต้อนรับ พักผ่อน พบปะ และสันทนาการสำหรับทุกวัย ทุกวัฒนธรรม และทุกชนชั้น กิจกรรมทางวัฒนธรรมและสังคม",
@@ -415,9 +415,9 @@
     "access_conditions": "โทรหมายเลขฟรี 0800 22 22 10 เพื่อขอที่พัก ต้อนรับทุกคนโดยไม่มีเงื่อนไข"
   },
   "r_0084": {
-    "description": "ศูนย์ต้อนรับกลางวันแบบไม่มีเงื่อนไข อาหารและเครื่องดื่มฟรี ห้องอาบน้ำ ซักผ้า อินเทอร์เน็ต และการไกล่เกลี่ยทางสังคม",
-    "target_audience": "ทุกคนที่ต้องการความช่วยเหลือ",
-    "access_conditions": "ไม่มีเงื่อนไข เปิดให้ทุกคน"
+    "description": "ศูนย์พักพิงกลางวันไม่มีเงื่อนไข อาหารแบ่งปัน เครื่องดื่มร้อน นักเขียนสาธารณะ ชั้นเรียนภาษาฝรั่งเศส/อังกฤษ/คอมพิวเตอร์ ให้คำปรึกษาทางกฎหมายฟรีที่ 48 ถนน เดอ แบร์น",
+    "target_audience": "ผู้ที่ต้องการความช่วยเหลือ ผู้อพยพ ผู้ไร้ที่อยู่อาศัย",
+    "access_conditions": "ไม่มีเงื่อนไข"
   },
   "r_0085": {
     "description": "สระว่ายน้ำสาธารณะอันเป็นสัญลักษณ์ริมทะเลสาบเลมัง หาดทราย สระ กระดานกระโดด (3-10 ม.) ซาวน่าและฮัมมัม ร้านอาหารราคาประหยัด ค่าเข้าถูกมาก (2 ฟรังก์ช่วงร้อน 1 ฟรังก์ช่วงหนาว)",
@@ -555,9 +555,9 @@
     "access_conditions": "ฟรี ไม่ต้องลงทะเบียน เด็กต้องมีผู้ดูแล"
   },
   "r_0112": {
-    "description": "บริการดูแลเด็กที่บ้านและพี่เลี้ยงเด็กมืออาชีพโดยกาชาดเจนีวา",
-    "target_audience": "ครอบครัวที่มีเด็กอายุ 0-12 ปี",
-    "access_conditions": "บริการมีค่าใช้จ่าย (5-10 CHF/ชั่วโมงตามรายได้)"
+    "description": "บริการดูแลเด็กมืออาชีพที่บ้านโดยสภากาชาด ราคา 5 ฟรังก์/ชม. (มีเงินอุดหนุน) หรือ 10 ฟรังก์/ชม. มีคูปองพักผ่อนสำหรับผู้ปกครอง",
+    "target_audience": "ครอบครัวที่ต้องการบริการดูแลเด็ก",
+    "access_conditions": "บริการเสียค่าใช้จ่าย จองทางโทรศัพท์"
   },
   "r_0113": {
     "description": "พื้นที่เล่นและบริการยืมของเล่นและบอร์ดเกมสำหรับเด็ก ครอบครัว และผู้ใหญ่ เกมขนาดใหญ่และกลางแจ้งมีให้สำหรับงานเลี้ยงและกิจกรรม",
@@ -890,144 +890,144 @@
     "access_conditions": "เล่นฟรีในสถานที่ ยืมด้วยสมาชิกครอบครัวรายปี (30 CHF)"
   },
   "r_0179": {
-    "description": "Association féministe et autogérée proposant un espace d'accueil parent-bébé (Marmotricité) pour les enfants de 0 à 1 an et leurs parents. Accompagnement psychomoteur des bébés dans un cadre collectif et convivial, avec une attention particulière aux populations en situation de précarité.",
-    "target_audience": "Parents et bébés de 0 à 1 an",
-    "access_conditions": "Prix libre, accueil avec attention particulière aux familles en situation de précarité"
+    "description": "พื้นที่สำหรับพ่อแม่และทารกโดยสมาคมสตรีนิยม สำหรับเด็กแรกเกิดถึง 1 ขวบ กิจกรรมพัฒนาการเคลื่อนไหว",
+    "target_audience": "พ่อแม่และทารกแรกเกิดถึง 1 ขวบ",
+    "access_conditions": "ไม่เสียค่าใช้จ่าย เอาใจใส่เป็นพิเศษสำหรับครอบครัวที่ขัดสน"
   },
   "r_0180": {
-    "description": "Lieu d'accueil et de rencontre multiculturel ouvert à tous. Repas gratuits (soupe, pâtisseries, repas chauds, petit-déjeuner), distribution de sacs de nourriture, accompagnement social gratuit et cours de français.",
-    "target_audience": "Toute personne dans le besoin",
-    "access_conditions": "Accueil gratuit, ouvert à tous, sans conditions. Distribution de sacs de nourriture sur inscription."
+    "description": "สถานที่พบปะพหุวัฒนธรรม อาหารฟรี ถุงอาหาร การสนับสนุนทางสังคม ชั้นเรียนภาษาฝรั่งเศส",
+    "target_audience": "ทุกคนที่ต้องการความช่วยเหลือ",
+    "access_conditions": "ฟรี เปิดให้บริการแก่ทุกคน"
   },
   "r_0181": {
-    "description": "Association d'utilité publique accueillant les femmes en situation de grande précarité. Repas chauds, café, prestations d'hygiène (douches, buanderie, coiffure), produits de première nécessité, accompagnement social par des travailleuses sociales, espace d'écoute et sorties culturelles mensuelles.",
-    "target_audience": "Femmes en situation de grande précarité, femmes sans-abri, femmes sans-papiers",
-    "access_conditions": "Accueil bas-seuil, sans conditions, sans rendez-vous. Ouvert à toute femme en situation de précarité."
+    "description": "สำหรับผู้หญิงที่อยู่ในสถานการณ์ยากลำบากอย่างยิ่ง: อาหารร้อน สุขอนามัย สิ่งจำเป็นพื้นฐาน การสนับสนุนทางสังคม กิจกรรมทางวัฒนธรรม",
+    "target_audience": "ผู้หญิงที่อยู่ในสถานการณ์ยากลำบากอย่างยิ่ง ผู้ไร้ที่อยู่อาศัย ผู้ไม่มีเอกสารราชการ",
+    "access_conditions": "เข้าถึงง่าย ไม่มีเงื่อนไข ไม่ต้องนัดหมาย"
   },
   "r_0182": {
-    "description": "Bibliothèque publique historique avec plus de 200 places de travail, WiFi gratuit, postes informatiques en libre accès et salle de lecture ouverte en soirée. Inscription gratuite pour l'emprunt. Accès à plus de 30 millions de documents.",
-    "target_audience": "Tout public : étudiants, chercheurs, lecteurs",
-    "access_conditions": "Entrée libre et gratuite, ouverte à tous. Inscription gratuite avec pièce d'identité pour l'emprunt."
+    "description": "ห้องสมุดประวัติศาสตร์ พื้นที่ทำงานกว่า 200 ที่นั่ง WiFi คอมพิวเตอร์ เอกสารกว่า 30 ล้านรายการ",
+    "target_audience": "ทุกคน: นักศึกษา นักวิจัย นักอ่าน",
+    "access_conditions": "เข้าชมฟรี ลงทะเบียนฟรีสำหรับยืมหนังสือ"
   },
   "r_0183": {
-    "description": "Restaurant social de la Ville de Genève offrant des repas gratuits (petit-déjeuner et repas chauds) et un accompagnement social de première ligne. Accueil de jour avec écoute, soutien social et orientation vers d'autres partenaires sociaux. Gratuit et confidentiel.",
-    "target_audience": "Personnes en situation de précarité",
-    "access_conditions": "Ouvert toute l'année sans inscription. Gratuit et confidentiel. Ticket pour repas chauds dès 08h00."
+    "description": "ร้านอาหารเพื่อสังคม อาหารฟรีและการสนับสนุนทางสังคม บริการฟรีและเป็นความลับ",
+    "target_audience": "ผู้ที่อยู่ในสถานการณ์ยากลำบาก",
+    "access_conditions": "เปิดตลอดทั้งปี ไม่ต้องลงทะเบียน รับบัตรคิวตั้งแต่ 8 น."
   },
   "r_0184": {
-    "description": "Le BIS accueille, informe et oriente toute personne souhaitant des renseignements sur l'accès aux prestations sociales. Informations et conseils sur les problèmes financiers, d'endettement, de logement et de santé. Accès à des travailleurs sociaux, psychologues et juristes.",
-    "target_audience": "Toute personne résidant à Genève, quel que soit son statut légal",
-    "access_conditions": "Gratuit, anonyme, sans rendez-vous, ouvert à toute la population quel que soit le statut légal. Confidentialité assurée."
+    "description": "BIS - จุดให้ข้อมูลเกี่ยวกับการเข้าถึงบริการทางสังคม ให้คำปรึกษาด้านการเงิน หนี้สิน ที่อยู่อาศัย สุขภาพ",
+    "target_audience": "ทุกคนในเจนีวา ไม่ว่าจะมีสถานะทางกฎหมายใด",
+    "access_conditions": "ฟรี ไม่ระบุตัวตน ไม่ต้องนัดหมาย"
   },
   "r_0185": {
-    "description": "Espace d'accueil et de conseil multilingue pour les parents avant et après la naissance. Pesée de bébé, chaise d'allaitement, massage bébé, portage, psychomotricité. Situé dans les locaux de la ludothèque de Versoix.",
-    "target_audience": "Femmes enceintes, parents avec bébés et jeunes enfants, familles allophones",
-    "access_conditions": "Gratuit, sans inscription, libre accès. Fermé pendant les vacances scolaires genevoises."
+    "description": "พื้นที่สำหรับผู้ปกครองหลายภาษา ชั่งน้ำหนักทารก ให้นมบุตร นวดทารก กิจกรรมพัฒนาการเคลื่อนไหว",
+    "target_audience": "หญิงตั้งครรภ์ พ่อแม่ที่มีทารก ครอบครัวที่ไม่ใช้ภาษาฝรั่งเศส",
+    "access_conditions": "ฟรี ไม่ต้องลงทะเบียน ปิดในช่วงปิดภาคเรียน"
   },
   "r_0186": {
-    "description": "Espace d'accueil et de soutien pour femmes enceintes et parents avec bébé jusqu'à 1 an. Accueils libres animés par des sages-femmes, psychomotricienne le lundi, atelier de français maternité et cours de préparation à la naissance avec interprètes communautaires.",
-    "target_audience": "Femmes enceintes, parents avec bébé jusqu'à 1 an, familles en situation de migration",
-    "access_conditions": "Gratuit, sans inscription pour les accueils libres. Inscription nécessaire pour l'atelier de français maternité."
+    "description": "สนับสนุนหญิงตั้งครรภ์และพ่อแม่ที่มีทารกแรกเกิดถึง 1 ขวบ พยาบาลผดุงครรภ์ กิจกรรมพัฒนาการเคลื่อนไหว ชั้นเรียนภาษาฝรั่งเศส",
+    "target_audience": "หญิงตั้งครรภ์ พ่อแม่ที่มีทารกแรกเกิดถึง 1 ขวบ ครอบครัวผู้อพยพ",
+    "access_conditions": "ฟรี ต้องลงทะเบียนสำหรับชั้นเรียนภาษาฝรั่งเศส"
   },
   "r_0187": {
-    "description": "Un mercredi sur deux, une sage-femme accueille les parents à la ludothèque Belle-Terre pour échanger, poser des questions, peser bébé et jouer. Goûter offert par la ludothèque.",
-    "target_audience": "Femmes enceintes, parents avec bébés et jeunes enfants",
-    "access_conditions": "Gratuit, sans inscription, libre accès. Un mercredi sur deux, hors vacances scolaires."
+    "description": "ทุกสองสัปดาห์วันพุธ พยาบาลผดุงครรภ์ที่ห้องสมุดของเล่น Belle-Terre พูดคุยแลกเปลี่ยน ชั่งน้ำหนักทารก เล่น อาหารว่างฟรี",
+    "target_audience": "หญิงตั้งครรภ์ พ่อแม่ที่มีทารก",
+    "access_conditions": "ฟรี ไม่ต้องลงทะเบียน ทุกสองสัปดาห์วันพุธ"
   },
   "r_0188": {
-    "description": "Centre spécialisé d'écoute, de conseil et d'accompagnement en matière de discriminations et de racisme anti-Noir, géré par l'UPAF (Université Populaire Africaine) en collaboration avec le CRAN et le syndicat SYNA. Situé dans l'espace AfrikaLAB.",
-    "target_audience": "Personnes victimes de racisme anti-Noir et de discriminations raciales",
-    "access_conditions": "Service d'écoute et de conseil gratuit pour les personnes victimes de racisme anti-Noir et de discriminations"
+    "description": "ศูนย์ให้ความช่วยเหลือผู้ถูกเหยียดผิวต่อคนผิวดำ โดย UPAF/CRAN/SYNA ที่ AfrikaLAB",
+    "target_audience": "ผู้ที่ตกเป็นเหยื่อของการเหยียดผิวต่อคนผิวดำ",
+    "access_conditions": "บริการรับฟังและให้คำปรึกษาฟรี"
   },
   "r_0189": {
-    "description": "Association créée par des parents en 2007, regroupant plus de 1200 membres. Services d'accompagnement, groupes de compétences sociales, rencontres parents, formations, conférences, groupe fratrie, job coaching et Centre d'accueil et de soutien en autisme (CASA).",
-    "target_audience": "Personnes autistes (avec ou sans diagnostic), familles, frères et sœurs, professionnels",
-    "access_conditions": "Ouvert aux personnes autistes, familles et professionnels. Adhésion à l'association possible."
+    "description": "สมาคมออทิสซึม (ก่อตั้งปี 2007 สมาชิกกว่า 1,200 คน) การสนับสนุน ทักษะสังคม การฝึกอาชีพ CASA",
+    "target_audience": "ผู้ที่เป็นออทิสซึม ครอบครัว พี่น้อง ผู้เชี่ยวชาญ",
+    "access_conditions": "เปิดรับทุกคน สามารถสมัครสมาชิกได้"
   },
   "r_0190": {
-    "description": "Toilettes publiques gratuites situées sur la Place du Bourg-de-Four dans la vieille ville de Genève. Cabines pour personnes à mobilité réduite accessibles avec clé Eurokey (disponible auprès de Pro Infirmis Genève).",
-    "target_audience": "Tout public",
-    "access_conditions": "Accès libre et gratuit. Cabines PMR avec clé Eurokey (Pro Infirmis : 058 775 31 08)."
+    "description": "ห้องน้ำสาธารณะฟรีที่ Bourg-de-Four ห้องน้ำสำหรับผู้พิการพร้อมกุญแจ Eurokey",
+    "target_audience": "ทุกคน",
+    "access_conditions": "เข้าใช้ฟรี ผู้พิการใช้กุญแจ Eurokey"
   },
   "r_0191": {
-    "description": "Bibliothèque municipale de la Ville de Genève proposant des collections pour adultes et jeunes, une grainothèque, du WiFi gratuit, des postes informatiques et des animations culturelles. Inscription et emprunt gratuits.",
-    "target_audience": "Tout public (adultes et jeunes)",
-    "access_conditions": "Accès libre et gratuit. Inscription gratuite pour l'emprunt."
+    "description": "ห้องสมุดเทศบาล ส่วนผู้ใหญ่และเยาวชน ห้องสมุดเมล็ดพันธุ์ WiFi กิจกรรมทางวัฒนธรรม",
+    "target_audience": "ทุกคน",
+    "access_conditions": "เข้าใช้และลงทะเบียนฟรี"
   },
   "r_0192": {
-    "description": "Espace d'accueil, de répit et de rencontre pour personnes réfugiées. Accompagnement pour les démarches administratives, informations sur les permis, logement et scolarisation, espace informatique et activités socioculturelles. Interprètes bénévoles présents quotidiennement.",
-    "target_audience": "Personnes réfugiées à Genève",
-    "access_conditions": "Ouvert aux personnes réfugiées à Genève. Accès libre sans inscription."
+    "description": "พื้นที่ต้อนรับและพักผ่อนสำหรับผู้ลี้ภัย สนับสนุนด้านเอกสาร มีล่ามทุกวัน",
+    "target_audience": "ผู้ลี้ภัยในเจนีวา",
+    "access_conditions": "เปิดให้ผู้ลี้ภัย เข้าใช้ฟรี"
   },
   "r_0193": {
-    "description": "Lieu d'accueil gratuit, anonyme et sans inscription pour enfants de 0 à 5 ans accompagnés d'un adulte proche. Écoute et soutien à l'enfant et à l'adulte accompagnant. Capacité de 20 personnes.",
-    "target_audience": "Enfants de 0 à 5 ans accompagnés d'un adulte proche (parent, grand-parent, maman de jour)",
-    "access_conditions": "Gratuit, anonyme, sans inscription. L'enfant reste sous la responsabilité de l'adulte accompagnant."
+    "description": "ต้อนรับเด็กอายุ 0-5 ขวบพร้อมผู้ใหญ่ ฟรีและไม่ระบุตัวตน รองรับได้ 20 คน",
+    "target_audience": "เด็กอายุ 0-5 ขวบพร้อมผู้ใหญ่ใกล้ชิด",
+    "access_conditions": "ฟรี ไม่ระบุตัวตน ไม่ต้องลงทะเบียน"
   },
   "r_0194": {
-    "description": "Permanence juridique gratuite proposée par des étudiants en droit confirmés de l'Université de Genève (UNIGE). Consultations de 30 minutes couvrant le droit du travail, du bail, de la famille, des assurances sociales, pénal et des étrangers. Première Junior Entreprise suisse à offrir ce service (depuis 2015).",
-    "target_audience": "Toute personne ayant besoin de conseils juridiques",
-    "access_conditions": "Gratuit, ouvert à tous. Lundi sur rendez-vous, mercredi sans rendez-vous (premier arrivé, premier servi)."
+    "description": "ให้คำปรึกษาทางกฎหมายฟรีโดยนักศึกษากฎหมาย UNIGE ครั้งละ 30 นาที วันจันทร์นัดหมาย วันพุธไม่ต้องนัด",
+    "target_audience": "ทุกคนที่ต้องการคำปรึกษาทางกฎหมาย",
+    "access_conditions": "ฟรี เปิดให้บริการแก่ทุกคน"
   },
   "r_0195": {
-    "description": "Consultations juridiques gratuites et confidentielles par des étudiants en droit confirmés de l'Université de Genève. Consultations de 30 minutes par groupes de 3 à 5 étudiants. Couvre le droit du travail, du bail, de la famille, des assurances sociales, pénal et des étrangers.",
-    "target_audience": "Toute personne ayant besoin de conseils juridiques",
-    "access_conditions": "Gratuit, confidentiel, ouvert à tous. Rendez-vous via le site pje-ge.ch."
+    "description": "ให้คำปรึกษาทางกฎหมายฟรีและเป็นความลับโดยนักศึกษากฎหมาย ครั้งละ 30 นาทีแบบกลุ่ม จองผ่าน pje-ge.ch",
+    "target_audience": "ทุกคนที่ต้องการคำปรึกษาทางกฎหมาย",
+    "access_conditions": "ฟรี เป็นความลับ"
   },
   "r_0196": {
-    "description": "Consultations juridiques gratuites et confidentielles par des étudiants en droit de l'Université de Genève. Consultations de 45 minutes. En plus des conseils juridiques, aide à la rédaction de courrier (en collaboration avec Europe Charmilles).",
-    "target_audience": "Toute personne ayant besoin de conseils juridiques ou d'aide à la rédaction de courrier",
-    "access_conditions": "Gratuit, confidentiel, ouvert à tous. Rendez-vous via le site pje-ge.ch. Aide à la rédaction de courrier disponible."
+    "description": "ให้คำปรึกษาทางกฎหมายฟรีและเป็นความลับ ครั้งละ 45 นาที ช่วยเขียนจดหมายด้วย จองผ่าน pje-ge.ch",
+    "target_audience": "ทุกคนที่ต้องการคำปรึกษาทางกฎหมายหรือช่วยเขียนจดหมาย",
+    "access_conditions": "ฟรี เป็นความลับ"
   },
   "r_0197": {
-    "description": "Bibliothèque municipale gratuite proposant plus de 14'000 documents : romans, documentaires, bandes dessinées, revues, livres en gros caractères et livres audio. Inscription et emprunt gratuits.",
-    "target_audience": "Tout public",
-    "access_conditions": "Inscription gratuite, ouvert à tous"
+    "description": "ห้องสมุดฟรี เอกสารกว่า 14,000 รายการ ลงทะเบียนและยืมฟรี",
+    "target_audience": "ทุกคน",
+    "access_conditions": "ลงทะเบียนฟรี"
   },
   "r_0198": {
-    "description": "Distribution gratuite de vêtements (hommes, femmes, enfants) et de linge de maison pour les personnes en situation de précarité. Programme géré par la Fondation Carrefour-Rue & Coulou.",
-    "target_audience": "Personnes en situation de précarité",
-    "access_conditions": "Gratuit, ouvert à toute personne dans le besoin"
+    "description": "แจกเสื้อผ้าฟรีสำหรับผู้ที่ต้องการความช่วยเหลือ โดย Carrefour-Rue และ Coulou",
+    "target_audience": "ผู้ที่อยู่ในสถานการณ์ยากลำบาก",
+    "access_conditions": "ฟรี เปิดให้บริการแก่ทุกคนที่ต้องการ"
   },
   "r_0199": {
-    "description": "Espace d'accueil libre pour les jeunes de 7 à 25 ans, géré par les TSHM de la FASe (équipe BUPP). Jeux de société, bricolage, baby-foot, TV-DVD. Sorties mensuelles (culture, sport, découverte). Accueil 7-11 ans le mercredi, accueil libre 12-25 ans mercredi à vendredi.",
-    "target_audience": "Jeunes de 7 à 25 ans",
-    "access_conditions": "Gratuit, accueil libre sans inscription"
+    "description": "พื้นที่สำหรับเยาวชนอายุ 7-25 ปี เกม งานฝีมือ โต๊ะฟุตบอล ทัศนศึกษาประจำเดือน",
+    "target_audience": "เยาวชนอายุ 7-25 ปี",
+    "access_conditions": "ฟรี ไม่ต้องลงทะเบียน"
   },
   "r_0200": {
-    "description": "Espace d'activités pour les jeunes de 11 à 25 ans, géré par les TSHM de la FASe (équipe BUPP). Studio de musique (Stud) le jeudi sur inscription, soirées Boums le vendredi (10-14 ans), sport pour tous le mercredi (novembre à avril).",
-    "target_audience": "Jeunes de 11 à 25 ans",
-    "access_conditions": "Gratuit, sur inscription selon les activités"
+    "description": "กิจกรรมสำหรับเยาวชนอายุ 11-25 ปี ห้องบันทึกเสียง งานปาร์ตี้ กีฬา",
+    "target_audience": "เยาวชนอายุ 11-25 ปี",
+    "access_conditions": "ฟรี บางกิจกรรมต้องลงทะเบียน"
   },
   "r_0201": {
-    "description": "Collectif de 15 associations féminines et féministes subventionné par le Canton et la Ville de Genève. L'Espace Santé Femmes offre gratuitement conseils, information et orientation en santé (ménopause, sexualité, grossesse, vieillissement). Soutien administratif et social, ateliers bien-être.",
-    "target_audience": "Femmes, personnes trans, non-binaires et/ou intersexes",
-    "access_conditions": "Gratuit, ouvert aux femmes et minorités de genre"
+    "description": "สมาคมผู้หญิง 15 แห่ง ให้คำปรึกษาด้านสุขภาพฟรี กิจกรรมเสริมสร้างสุขภาวะ",
+    "target_audience": "ผู้หญิง ทรานส์ นอนไบนารี อินเตอร์เซ็กส์",
+    "access_conditions": "ฟรี เปิดให้บริการแก่ผู้หญิงและผู้มีความหลากหลายทางเพศ"
   },
   "r_0202": {
-    "description": "Centre d'action sociale de proximité de l'Hospice général pour les quartiers de la Servette, du Petit-Saconnex et de Vieusseux. Aide financière, accompagnement social personnalisé, aide au logement, insertion professionnelle et soutien administratif.",
-    "target_audience": "Résidents des quartiers Servette, Petit-Saconnex, Vieusseux en difficulté",
-    "access_conditions": "Sur rendez-vous, résidents du canton de Genève"
+    "description": "ศูนย์สังคมท้องถิ่น เซร์เว็ตต์/เปอตี-ซากอนเน/เวียซ์เซ่อ ช่วยเหลือทางการเงิน สนับสนุนทางสังคม",
+    "target_audience": "ผู้อยู่อาศัยที่ประสบปัญหา",
+    "access_conditions": "นัดหมายล่วงหน้า ต้องเป็นผู้อยู่อาศัยในรัฐ"
   },
   "r_0203": {
-    "description": "Festival de cinéma en plein air gratuit au Parc de la Perle du Lac, chaque été depuis 2009. Plus de 50 films en version originale sous-titrée français. Animations dès 19h, séance au coucher du soleil. Événement saisonnier : juillet-août uniquement.",
-    "target_audience": "Tout public",
-    "access_conditions": "Gratuit, sans réservation. Saisonnier : juillet-août uniquement."
+    "description": "โรงภาพยนตร์กลางแจ้งฟรีที่ Perle du Lac เฉพาะเดือนกรกฎาคม-สิงหาคม ภาพยนตร์กว่า 50 เรื่อง",
+    "target_audience": "ทุกคน",
+    "access_conditions": "ฟรี ไม่ต้องจอง เปิดตามฤดูกาล"
   },
   "r_0204": {
-    "description": "Lieu d'accueil gratuit, anonyme et sans inscription pour les enfants accompagnés d'un adulte. Activités, jeux, soutien éducatif dans un cadre chaleureux et inclusif. Boissons et collations offertes.",
-    "target_audience": "Enfants accompagnés d'un adulte (parents, grands-parents, mamans de jour)",
-    "access_conditions": "Gratuit, anonyme, sans inscription. Enfants sous la responsabilité de l'adulte accompagnant."
+    "description": "ต้อนรับเด็กพร้อมผู้ใหญ่ ฟรีและไม่ระบุตัวตน กิจกรรม เกม อาหารว่าง",
+    "target_audience": "เด็กพร้อมผู้ใหญ่",
+    "access_conditions": "ฟรี ไม่ระบุตัวตน"
   },
   "r_0205": {
-    "description": "Espace d'accueil pour les enfants de 0 à 4 ans accompagnés d'un parent ou adulte proche, inspiré du concept de la Maison Verte. Lieu de jeu, de parole et de socialisation. Contribution financière libre (gratuit possible).",
-    "target_audience": "Enfants de 0 à 4 ans accompagnés d'un parent ou adulte proche",
-    "access_conditions": "Contribution financière libre (gratuit possible). Sans inscription, anonyme."
+    "description": "เด็กอายุ 0-4 ขวบพร้อมพ่อแม่ แนวคิด Maison Verte บริจาคตามจิตศรัทธา",
+    "target_audience": "เด็กอายุ 0-4 ขวบพร้อมพ่อแม่",
+    "access_conditions": "บริจาคตามจิตศรัทธา ไม่ระบุตัวตน"
   },
   "r_0206": {
-    "description": "Lieu d'échange gratuit ouvert à tous, au cœur de l'Université de Genève. Rencontres entre la communauté universitaire et les personnes migrantes pour tisser des liens, pratiquer le français et découvrir la vie à Genève. Café, thé et croissants offerts.",
-    "target_audience": "Tout le monde, en particulier personnes migrantes et communauté universitaire",
-    "access_conditions": "Gratuit, sans engagement, ouvert à tous. Pendant les semestres universitaires."
+    "description": "พื้นที่แลกเปลี่ยนฟรีที่มหาวิทยาลัยเจนีวา ผู้อพยพและชุมชนมหาวิทยาลัย ฝึกพูดภาษาฝรั่งเศส",
+    "target_audience": "ทุกคน โดยเฉพาะผู้อพยพ",
+    "access_conditions": "ฟรี เปิดในช่วงเปิดภาคเรียน"
   },
   "tag": {
     "143": "143",

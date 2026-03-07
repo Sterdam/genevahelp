@@ -175,9 +175,9 @@
     "access_conditions": "सभी के लिए खुला"
   },
   "r_0036": {
-    "description": "जरूरतमंद लोगों के लिए कपड़ों, जूतों और घरेलू लिनन का मुफ्त वितरण। CSP जिनेवा, कैरिटास और रेड क्रॉस द्वारा संचालित।",
-    "target_audience": "जरूरतमंद लोग",
-    "access_conditions": "सामाजिक सेवा, CSP या रेड क्रॉस से वाउचर पर"
+    "description": "कठिन परिस्थिति में लोगों के लिए कपड़े, जूते और घरेलू लिनन का निःशुल्क वितरण। CSP, कैरिटस और जिनेवा रेड क्रॉस द्वारा संयुक्त रूप से संचालित।",
+    "target_audience": "कठिन परिस्थिति में लोग",
+    "access_conditions": "सामाजिक सेवा, CSP, कैरिटस या जिनेवा रेड क्रॉस द्वारा जारी कूपन की प्रस्तुति पर"
   },
   "r_0037": {
     "description": "वयस्क प्रवासियों के लिए विदेशी भाषा के रूप में फ्रेंच पाठ्यक्रम। शुरुआती से उन्नत स्तर तक। दिन और शाम के पाठ्यक्रम।",
@@ -245,9 +245,9 @@
     "access_conditions": "सोमवार से शुक्रवार सुबह 8 से दोपहर 3:30 तक बिना अपॉइंटमेंट स्वागत"
   },
   "r_0050": {
-    "description": "जरूरतमंद लोगों के लिए स्वागत, सहायता और सामाजिक-व्यावसायिक पुनर्एकीकरण केंद्र। आवास, भोजन, स्वास्थ्य देखभाल।",
+    "description": "कठिन परिस्थिति में लोगों के लिए स्वागत, सहायता और सामाजिक-व्यावसायिक पुनः एकीकरण का स्थान। निःशुल्क नाश्ता (150-200/सप्ताह), सोमवार और गुरुवार को 10:00 बजे गर्म भोजन, हर दूसरे रविवार पास्ता पार्टी (17:00-19:30), सामाजिक गतिविधियां और पुनः एकीकरण प्रशिक्षण।",
     "target_audience": "कठिन परिस्थिति में लोग",
-    "access_conditions": "सामाजिक सेवा द्वारा रेफरल"
+    "access_conditions": "बिना शर्त, स्वतंत्र प्रवेश। सोमवार और गुरुवार 10:00 बजे गर्म भोजन। हर दूसरे रविवार 17:00-19:30 पास्ता पार्टी।"
   },
   "r_0051": {
     "description": "सभी उम्र, संस्कृतियों और सामाजिक पृष्ठभूमि के लोगों के लिए स्वागत, मनोरंजन, मिलन और विश्राम का स्थान। सांस्कृतिक और सामाजिक गतिविधियाँ।",
@@ -415,9 +415,9 @@
     "access_conditions": "स्थान प्राप्त करने के लिए मुफ़्त नंबर 0800 22 22 10 पर कॉल करें, बिना शर्त स्वागत"
   },
   "r_0084": {
-    "description": "बिना शर्त दिन का स्वागत केंद्र। मुफ्त भोजन और पेय, शावर, कपड़े धोने की सुविधा, इंटरनेट और सामाजिक मध्यस्थता।",
-    "target_audience": "कोई भी जरूरतमंद",
-    "access_conditions": "बिना शर्त, सभी के लिए खुला"
+    "description": "सर्वेट मंदिर में कठिन परिस्थिति में लोगों के लिए बिना शर्त दिवस स्वागत केंद्र। सामुदायिक भोजन, गर्म पेय, सार्वजनिक लेखक (CV, पत्र), फ्रेंच, अंग्रेजी और कंप्यूटर कक्षाएं। 48 rue de Berne पर निःशुल्क कानूनी परामर्श (सोम 10-12, बुध 17:30-19:30, गुरु 10-12): विदेशी कानून, पारिवारिक, श्रम, सामाजिक बीमा, आपराधिक।",
+    "target_audience": "कठिन परिस्थिति में लोग, प्रवासी, बेघर",
+    "access_conditions": "बिना शर्त, बिना किसी शर्त स्वागत"
   },
   "r_0085": {
     "description": "Lac Léman के किनारे प्रतिष्ठित सार्वजनिक स्नानगृह। रेत का समुद्र तट, पूल, डाइविंग बोर्ड (3-10 मीटर), सौना और हम्माम, लोकप्रिय कैफेटेरिया। बहुत सस्ता प्रवेश (गर्मी में 2 CHF, सर्दी में 1 CHF)।",
@@ -555,9 +555,9 @@
     "access_conditions": "मुफ़्त, बिना पंजीकरण, बच्चे अभिभावक के साथ"
   },
   "r_0112": {
-    "description": "जिनेवा रेड क्रॉस द्वारा पेशेवर घरेलू बच्चों की देखभाल और बेबीसिटिंग सेवा।",
-    "target_audience": "0-12 वर्ष के बच्चों वाले परिवार",
-    "access_conditions": "सशुल्क सेवा (आय के अनुसार 5-10 CHF/घंटा)"
+    "description": "जिनेवा रेड क्रॉस की पेशेवर घर पर बच्चों की देखभाल और बेबीसिटिंग सेवा। प्रशिक्षित कर्मचारी 4 घंटे में घर आता है। 3 से 10 घंटे के कार्य, 7 दिन/सप्ताह। सशुल्क सेवा: 5 CHF/घंटा (सब्सिडी के साथ) या 10 CHF/घंटा (बिना सब्सिडी)। आराम कूपन भी (4 घंटे की देखभाल 10 CHF में)।",
+    "target_audience": "घर पर बच्चों की देखभाल की जरूरत वाले परिवार",
+    "access_conditions": "सशुल्क: 5 CHF/घंटा (सब्सिडी), 10 CHF/घंटा (बिना)। +2 CHF प्रति अतिरिक्त बच्चा। फोन से बुकिंग।"
   },
   "r_0113": {
     "description": "बच्चों, परिवारों और वयस्कों के लिए खिलौनों और बोर्ड गेम का खेल क्षेत्र और उधार सेवा। पार्टियों और कार्यक्रमों के लिए बड़े और बाहरी गेम उपलब्ध।",
@@ -890,144 +890,144 @@
     "access_conditions": "स्थानीय मुफ्त खेल। वार्षिक पारिवारिक सदस्यता (30 CHF) से उधार।"
   },
   "r_0179": {
-    "description": "Association féministe et autogérée proposant un espace d'accueil parent-bébé (Marmotricité) pour les enfants de 0 à 1 an et leurs parents. Accompagnement psychomoteur des bébés dans un cadre collectif et convivial, avec une attention particulière aux populations en situation de précarité.",
-    "target_audience": "Parents et bébés de 0 à 1 an",
-    "access_conditions": "Prix libre, accueil avec attention particulière aux familles en situation de précarité"
+    "description": "स्वशासित नारीवादी संघ जो 0 से 1 वर्ष के बच्चों और उनके माता-पिता के लिए माता-पिता-शिशु स्वागत स्थान (Marmotricité) प्रदान करता है। सामूहिक और मैत्रीपूर्ण वातावरण में शिशुओं का मनोचिकित्सा सहायता, कठिन परिस्थिति के परिवारों पर विशेष ध्यान।",
+    "target_audience": "माता-पिता और 0 से 1 वर्ष के शिशु",
+    "access_conditions": "स्वतंत्र मूल्य, कठिन परिस्थिति के परिवारों पर विशेष ध्यान"
   },
   "r_0180": {
-    "description": "Lieu d'accueil et de rencontre multiculturel ouvert à tous. Repas gratuits (soupe, pâtisseries, repas chauds, petit-déjeuner), distribution de sacs de nourriture, accompagnement social gratuit et cours de français.",
-    "target_audience": "Toute personne dans le besoin",
-    "access_conditions": "Accueil gratuit, ouvert à tous, sans conditions. Distribution de sacs de nourriture sur inscription."
+    "description": "सभी के लिए खुला बहुसांस्कृतिक स्वागत और मिलन स्थल। निःशुल्क भोजन (सूप, पेस्ट्री, गर्म भोजन, नाश्ता), खाद्य पैकेट वितरण, निःशुल्क सामाजिक सहायता और फ्रेंच कक्षाएं।",
+    "target_audience": "जरूरतमंद कोई भी व्यक्ति",
+    "access_conditions": "निःशुल्क स्वागत, सभी के लिए खुला, बिना शर्त। खाद्य पैकेट वितरण पंजीकरण पर।"
   },
   "r_0181": {
-    "description": "Association d'utilité publique accueillant les femmes en situation de grande précarité. Repas chauds, café, prestations d'hygiène (douches, buanderie, coiffure), produits de première nécessité, accompagnement social par des travailleuses sociales, espace d'écoute et sorties culturelles mensuelles.",
-    "target_audience": "Femmes en situation de grande précarité, femmes sans-abri, femmes sans-papiers",
-    "access_conditions": "Accueil bas-seuil, sans conditions, sans rendez-vous. Ouvert à toute femme en situation de précarité."
+    "description": "अत्यंत कठिन परिस्थिति में महिलाओं का स्वागत करने वाला सार्वजनिक हित संघ। गर्म भोजन, कॉफी, स्वच्छता सेवाएं (स्नान, लॉन्ड्री, हेयरड्रेसर), आवश्यक वस्तुएं, सामाजिक कार्यकर्ताओं द्वारा सामाजिक सहायता, सुनवाई स्थान और मासिक सांस्कृतिक भ्रमण।",
+    "target_audience": "अत्यंत कठिन परिस्थिति में महिलाएं, बेघर महिलाएं, बिना दस्तावेज़ महिलाएं",
+    "access_conditions": "निम्न-सीमा स्वागत, बिना शर्त, बिना अपॉइंटमेंट। कठिन परिस्थिति की किसी भी महिला के लिए खुला।"
   },
   "r_0182": {
-    "description": "Bibliothèque publique historique avec plus de 200 places de travail, WiFi gratuit, postes informatiques en libre accès et salle de lecture ouverte en soirée. Inscription gratuite pour l'emprunt. Accès à plus de 30 millions de documents.",
-    "target_audience": "Tout public : étudiants, chercheurs, lecteurs",
-    "access_conditions": "Entrée libre et gratuite, ouverte à tous. Inscription gratuite avec pièce d'identité pour l'emprunt."
+    "description": "200 से अधिक कार्य स्थानों वाला ऐतिहासिक सार्वजनिक पुस्तकालय, निःशुल्क WiFi, सार्वजनिक कंप्यूटर और शाम को खुला पढ़ने का कमरा। उधार लेने के लिए निःशुल्क पंजीकरण। 30 मिलियन से अधिक दस्तावेजों तक पहुंच।",
+    "target_audience": "सभी: छात्र, शोधकर्ता, पाठक",
+    "access_conditions": "स्वतंत्र और निःशुल्क प्रवेश, सभी के लिए खुला। उधार के लिए पहचान पत्र के साथ निःशुल्क पंजीकरण।"
   },
   "r_0183": {
-    "description": "Restaurant social de la Ville de Genève offrant des repas gratuits (petit-déjeuner et repas chauds) et un accompagnement social de première ligne. Accueil de jour avec écoute, soutien social et orientation vers d'autres partenaires sociaux. Gratuit et confidentiel.",
-    "target_audience": "Personnes en situation de précarité",
-    "access_conditions": "Ouvert toute l'année sans inscription. Gratuit et confidentiel. Ticket pour repas chauds dès 08h00."
+    "description": "जिनेवा शहर का सामाजिक रेस्तरां जो निःशुल्क भोजन (नाश्ता और गर्म भोजन) और प्रथम-पंक्ति सामाजिक सहायता प्रदान करता है। सुनवाई, सामाजिक सहायता और अन्य सामाजिक साझेदारों की ओर मार्गदर्शन के साथ दिन का स्वागत। निःशुल्क और गोपनीय।",
+    "target_audience": "कठिन परिस्थिति में लोग",
+    "access_conditions": "पूरे वर्ष बिना पंजीकरण खुला। निःशुल्क और गोपनीय। 08:00 से गर्म भोजन टिकट।"
   },
   "r_0184": {
-    "description": "Le BIS accueille, informe et oriente toute personne souhaitant des renseignements sur l'accès aux prestations sociales. Informations et conseils sur les problèmes financiers, d'endettement, de logement et de santé. Accès à des travailleurs sociaux, psychologues et juristes.",
-    "target_audience": "Toute personne résidant à Genève, quel que soit son statut légal",
-    "access_conditions": "Gratuit, anonyme, sans rendez-vous, ouvert à toute la population quel que soit le statut légal. Confidentialité assurée."
+    "description": "BIS सामाजिक सेवाओं तक पहुंच के बारे में जानकारी चाहने वाले किसी भी व्यक्ति का स्वागत, सूचना और मार्गदर्शन करता है। वित्तीय समस्याओं, ऋण, आवास और स्वास्थ्य पर जानकारी और सलाह। सामाजिक कार्यकर्ताओं, मनोवैज्ञानिकों और वकीलों तक पहुंच।",
+    "target_audience": "जिनेवा में रहने वाला कोई भी व्यक्ति, कानूनी स्थिति की परवाह किए बिना",
+    "access_conditions": "निःशुल्क, गुमनाम, बिना अपॉइंटमेंट, कानूनी स्थिति की परवाह किए बिना सभी के लिए खुला। गोपनीयता सुनिश्चित।"
   },
   "r_0185": {
-    "description": "Espace d'accueil et de conseil multilingue pour les parents avant et après la naissance. Pesée de bébé, chaise d'allaitement, massage bébé, portage, psychomotricité. Situé dans les locaux de la ludothèque de Versoix.",
-    "target_audience": "Femmes enceintes, parents avec bébés et jeunes enfants, familles allophones",
-    "access_conditions": "Gratuit, sans inscription, libre accès. Fermé pendant les vacances scolaires genevoises."
+    "description": "जन्म से पहले और बाद में माता-पिता के लिए बहुभाषी स्वागत और परामर्श स्थान। शिशु तौल, स्तनपान कुर्सी, शिशु मालिश, बेबी कैरिंग, साइकोमोटर थेरेपी। वर्सोआ की खिलौना लाइब्रेरी में स्थित।",
+    "target_audience": "गर्भवती महिलाएं, शिशुओं और छोटे बच्चों वाले माता-पिता, विदेशी भाषी परिवार",
+    "access_conditions": "निःशुल्क, बिना पंजीकरण, स्वतंत्र प्रवेश। जिनेवा स्कूल छुट्टियों के दौरान बंद।"
   },
   "r_0186": {
-    "description": "Espace d'accueil et de soutien pour femmes enceintes et parents avec bébé jusqu'à 1 an. Accueils libres animés par des sages-femmes, psychomotricienne le lundi, atelier de français maternité et cours de préparation à la naissance avec interprètes communautaires.",
-    "target_audience": "Femmes enceintes, parents avec bébé jusqu'à 1 an, familles en situation de migration",
-    "access_conditions": "Gratuit, sans inscription pour les accueils libres. Inscription nécessaire pour l'atelier de français maternité."
+    "description": "गर्भवती महिलाओं और 1 वर्ष तक के शिशु वाले माता-पिता के लिए स्वागत और सहायता स्थान। दाइयों के साथ स्वतंत्र स्वागत, सोमवार को साइकोमोटर थेरेपी, मातृत्व फ्रेंच कार्यशाला और सामुदायिक दुभाषियों के साथ प्रसव पूर्व तैयारी।",
+    "target_audience": "गर्भवती महिलाएं, 1 वर्ष तक के शिशु वाले माता-पिता, प्रवासी परिवार",
+    "access_conditions": "निःशुल्क, स्वतंत्र स्वागत के लिए बिना पंजीकरण। मातृत्व फ्रेंच कार्यशाला के लिए पंजीकरण आवश्यक।"
   },
   "r_0187": {
-    "description": "Un mercredi sur deux, une sage-femme accueille les parents à la ludothèque Belle-Terre pour échanger, poser des questions, peser bébé et jouer. Goûter offert par la ludothèque.",
-    "target_audience": "Femmes enceintes, parents avec bébés et jeunes enfants",
-    "access_conditions": "Gratuit, sans inscription, libre accès. Un mercredi sur deux, hors vacances scolaires."
+    "description": "हर दूसरे बुधवार, एक दाई माता-पिता का Belle-Terre खिलौना लाइब्रेरी में विचार-विमर्श, प्रश्न, शिशु तौल और खेल के लिए स्वागत करती है। लाइब्रेरी द्वारा नाश्ता प्रदान।",
+    "target_audience": "गर्भवती महिलाएं, शिशुओं और छोटे बच्चों वाले माता-पिता",
+    "access_conditions": "निःशुल्क, बिना पंजीकरण, स्वतंत्र प्रवेश। हर दूसरे बुधवार, स्कूल छुट्टियों के बाहर।"
   },
   "r_0188": {
-    "description": "Centre spécialisé d'écoute, de conseil et d'accompagnement en matière de discriminations et de racisme anti-Noir, géré par l'UPAF (Université Populaire Africaine) en collaboration avec le CRAN et le syndicat SYNA. Situé dans l'espace AfrikaLAB.",
-    "target_audience": "Personnes victimes de racisme anti-Noir et de discriminations raciales",
-    "access_conditions": "Service d'écoute et de conseil gratuit pour les personnes victimes de racisme anti-Noir et de discriminations"
+    "description": "UPAF (अफ्रीकी लोक विश्वविद्यालय) द्वारा CRAN और SYNA संघ के सहयोग से संचालित भेदभाव और काले-विरोधी नस्लवाद के क्षेत्र में विशेष सुनवाई, परामर्श और सहायता केंद्र। AfrikaLAB स्थान में स्थित।",
+    "target_audience": "काले-विरोधी नस्लवाद और नस्लीय भेदभाव के शिकार",
+    "access_conditions": "काले-विरोधी नस्लवाद और भेदभाव के शिकारों के लिए निःशुल्क सुनवाई और परामर्श सेवा"
   },
   "r_0189": {
-    "description": "Association créée par des parents en 2007, regroupant plus de 1200 membres. Services d'accompagnement, groupes de compétences sociales, rencontres parents, formations, conférences, groupe fratrie, job coaching et Centre d'accueil et de soutien en autisme (CASA).",
-    "target_audience": "Personnes autistes (avec ou sans diagnostic), familles, frères et sœurs, professionnels",
-    "access_conditions": "Ouvert aux personnes autistes, familles et professionnels. Adhésion à l'association possible."
+    "description": "2007 में माता-पिता द्वारा स्थापित संघ, 1200 से अधिक सदस्यों के साथ। सहायता सेवाएं, सामाजिक कौशल समूह, माता-पिता बैठकें, प्रशिक्षण, सम्मेलन, भाई-बहन समूह, जॉब कोचिंग और ऑटिज़्म स्वागत और सहायता केंद्र (CASA)।",
+    "target_audience": "ऑटिस्टिक व्यक्ति (निदान के साथ या बिना), परिवार, भाई-बहन, पेशेवर",
+    "access_conditions": "ऑटिस्टिक व्यक्तियों, परिवारों और पेशेवरों के लिए खुला। संघ की सदस्यता संभव।"
   },
   "r_0190": {
-    "description": "Toilettes publiques gratuites situées sur la Place du Bourg-de-Four dans la vieille ville de Genève. Cabines pour personnes à mobilité réduite accessibles avec clé Eurokey (disponible auprès de Pro Infirmis Genève).",
-    "target_audience": "Tout public",
-    "access_conditions": "Accès libre et gratuit. Cabines PMR avec clé Eurokey (Pro Infirmis : 058 775 31 08)."
+    "description": "जिनेवा के पुराने शहर में Place du Bourg-de-Four पर स्थित निःशुल्क सार्वजनिक शौचालय। विकलांग व्यक्तियों के लिए केबिन Eurokey चाबी से सुलभ (Pro Infirmis जिनेवा में उपलब्ध)।",
+    "target_audience": "सभी",
+    "access_conditions": "स्वतंत्र और निःशुल्क प्रवेश। PMR केबिन Eurokey चाबी से (Pro Infirmis: 058 775 31 08)।"
   },
   "r_0191": {
-    "description": "Bibliothèque municipale de la Ville de Genève proposant des collections pour adultes et jeunes, une grainothèque, du WiFi gratuit, des postes informatiques et des animations culturelles. Inscription et emprunt gratuits.",
-    "target_audience": "Tout public (adultes et jeunes)",
-    "access_conditions": "Accès libre et gratuit. Inscription gratuite pour l'emprunt."
+    "description": "जिनेवा शहर का नगर पुस्तकालय जो वयस्कों और युवाओं के लिए संग्रह, बीज बैंक, निःशुल्क WiFi, कंप्यूटर और सांस्कृतिक कार्यक्रम प्रदान करता है। पंजीकरण और उधार निःशुल्क।",
+    "target_audience": "सभी (वयस्क और युवा)",
+    "access_conditions": "स्वतंत्र और निःशुल्क प्रवेश। उधार के लिए निःशुल्क पंजीकरण।"
   },
   "r_0192": {
-    "description": "Espace d'accueil, de répit et de rencontre pour personnes réfugiées. Accompagnement pour les démarches administratives, informations sur les permis, logement et scolarisation, espace informatique et activités socioculturelles. Interprètes bénévoles présents quotidiennement.",
-    "target_audience": "Personnes réfugiées à Genève",
-    "access_conditions": "Ouvert aux personnes réfugiées à Genève. Accès libre sans inscription."
+    "description": "शरणार्थियों के लिए स्वागत, विश्राम और मिलन स्थान। प्रशासनिक प्रक्रियाओं में सहायता, परमिट, आवास और शिक्षा की जानकारी, कंप्यूटर स्थान और सामाजिक-सांस्कृतिक गतिविधियां। स्वयंसेवी दुभाषिए दैनिक उपस्थित।",
+    "target_audience": "जिनेवा में शरणार्थी",
+    "access_conditions": "जिनेवा में शरणार्थियों के लिए खुला। बिना पंजीकरण स्वतंत्र प्रवेश।"
   },
   "r_0193": {
-    "description": "Lieu d'accueil gratuit, anonyme et sans inscription pour enfants de 0 à 5 ans accompagnés d'un adulte proche. Écoute et soutien à l'enfant et à l'adulte accompagnant. Capacité de 20 personnes.",
-    "target_audience": "Enfants de 0 à 5 ans accompagnés d'un adulte proche (parent, grand-parent, maman de jour)",
-    "access_conditions": "Gratuit, anonyme, sans inscription. L'enfant reste sous la responsabilité de l'adulte accompagnant."
+    "description": "0 से 5 वर्ष के बच्चों के लिए निकट वयस्क के साथ निःशुल्क, गुमनाम और बिना पंजीकरण स्वागत स्थान। बच्चे और सहयोगी वयस्क की सुनवाई और सहायता। 20 व्यक्तियों की क्षमता।",
+    "target_audience": "0 से 5 वर्ष के बच्चे निकट वयस्क के साथ (माता-पिता, दादा-दादी, दाई)",
+    "access_conditions": "निःशुल्क, गुमनाम, बिना पंजीकरण। बच्चा सहयोगी वयस्क की जिम्मेदारी में रहता है।"
   },
   "r_0194": {
-    "description": "Permanence juridique gratuite proposée par des étudiants en droit confirmés de l'Université de Genève (UNIGE). Consultations de 30 minutes couvrant le droit du travail, du bail, de la famille, des assurances sociales, pénal et des étrangers. Première Junior Entreprise suisse à offrir ce service (depuis 2015).",
-    "target_audience": "Toute personne ayant besoin de conseils juridiques",
-    "access_conditions": "Gratuit, ouvert à tous. Lundi sur rendez-vous, mercredi sans rendez-vous (premier arrivé, premier servi)."
+    "description": "जिनेवा विश्वविद्यालय (UNIGE) के अनुभवी कानून छात्रों द्वारा निःशुल्क कानूनी परामर्श। श्रम, किराया, परिवार, सामाजिक बीमा, आपराधिक और विदेशी कानून पर 30 मिनट की परामर्श। स्विट्जरलैंड की पहली जूनियर एंटरप्राइज जो यह सेवा प्रदान करती है (2015 से)।",
+    "target_audience": "कानूनी सलाह की जरूरत वाला कोई भी व्यक्ति",
+    "access_conditions": "निःशुल्क, सभी के लिए खुला। सोमवार अपॉइंटमेंट से, बुधवार बिना अपॉइंटमेंट (पहले आओ, पहले पाओ)।"
   },
   "r_0195": {
-    "description": "Consultations juridiques gratuites et confidentielles par des étudiants en droit confirmés de l'Université de Genève. Consultations de 30 minutes par groupes de 3 à 5 étudiants. Couvre le droit du travail, du bail, de la famille, des assurances sociales, pénal et des étrangers.",
-    "target_audience": "Toute personne ayant besoin de conseils juridiques",
-    "access_conditions": "Gratuit, confidentiel, ouvert à tous. Rendez-vous via le site pje-ge.ch."
+    "description": "जिनेवा विश्वविद्यालय के अनुभवी कानून छात्रों द्वारा निःशुल्क और गोपनीय कानूनी परामर्श। 3 से 5 छात्रों के समूह में 30 मिनट की परामर्श। श्रम, किराया, परिवार, सामाजिक बीमा, आपराधिक और विदेशी कानून।",
+    "target_audience": "कानूनी सलाह की जरूरत वाला कोई भी व्यक्ति",
+    "access_conditions": "निःशुल्क, गोपनीय, सभी के लिए खुला। pje-ge.ch साइट से अपॉइंटमेंट।"
   },
   "r_0196": {
-    "description": "Consultations juridiques gratuites et confidentielles par des étudiants en droit de l'Université de Genève. Consultations de 45 minutes. En plus des conseils juridiques, aide à la rédaction de courrier (en collaboration avec Europe Charmilles).",
-    "target_audience": "Toute personne ayant besoin de conseils juridiques ou d'aide à la rédaction de courrier",
-    "access_conditions": "Gratuit, confidentiel, ouvert à tous. Rendez-vous via le site pje-ge.ch. Aide à la rédaction de courrier disponible."
+    "description": "जिनेवा विश्वविद्यालय के कानून छात्रों द्वारा निःशुल्क और गोपनीय कानूनी परामर्श। 45 मिनट की परामर्श। कानूनी सलाह के अलावा, पत्र लेखन में सहायता (Europe Charmilles के सहयोग से)।",
+    "target_audience": "कानूनी सलाह या पत्र लेखन सहायता की जरूरत वाला कोई भी व्यक्ति",
+    "access_conditions": "निःशुल्क, गोपनीय, सभी के लिए खुला। pje-ge.ch साइट से अपॉइंटमेंट। पत्र लेखन सहायता उपलब्ध।"
   },
   "r_0197": {
-    "description": "Bibliothèque municipale gratuite proposant plus de 14'000 documents : romans, documentaires, bandes dessinées, revues, livres en gros caractères et livres audio. Inscription et emprunt gratuits.",
-    "target_audience": "Tout public",
-    "access_conditions": "Inscription gratuite, ouvert à tous"
+    "description": "14,000 से अधिक दस्तावेजों वाला निःशुल्क नगर पुस्तकालय: उपन्यास, वृत्तचित्र, कॉमिक्स, पत्रिकाएं, बड़े अक्षरों की किताबें और ऑडियो पुस्तकें। पंजीकरण और उधार निःशुल्क।",
+    "target_audience": "सभी",
+    "access_conditions": "निःशुल्क पंजीकरण, सभी के लिए खुला"
   },
   "r_0198": {
-    "description": "Distribution gratuite de vêtements (hommes, femmes, enfants) et de linge de maison pour les personnes en situation de précarité. Programme géré par la Fondation Carrefour-Rue & Coulou.",
-    "target_audience": "Personnes en situation de précarité",
-    "access_conditions": "Gratuit, ouvert à toute personne dans le besoin"
+    "description": "कठिन परिस्थिति में लोगों के लिए कपड़ों (पुरुष, महिला, बच्चे) और घरेलू लिनन का निःशुल्क वितरण। Carrefour-Rue & Coulou फाउंडेशन द्वारा संचालित कार्यक्रम।",
+    "target_audience": "कठिन परिस्थिति में लोग",
+    "access_conditions": "निःशुल्क, जरूरतमंद किसी भी व्यक्ति के लिए खुला"
   },
   "r_0199": {
-    "description": "Espace d'accueil libre pour les jeunes de 7 à 25 ans, géré par les TSHM de la FASe (équipe BUPP). Jeux de société, bricolage, baby-foot, TV-DVD. Sorties mensuelles (culture, sport, découverte). Accueil 7-11 ans le mercredi, accueil libre 12-25 ans mercredi à vendredi.",
-    "target_audience": "Jeunes de 7 à 25 ans",
-    "access_conditions": "Gratuit, accueil libre sans inscription"
+    "description": "7 से 25 वर्ष के युवाओं के लिए स्वतंत्र स्वागत स्थान, FASe (BUPP टीम) के TSHM द्वारा संचालित। बोर्ड गेम, शिल्प, फुसबॉल, TV-DVD। मासिक भ्रमण (संस्कृति, खेल, अन्वेषण)। बुधवार 7-11 वर्ष स्वागत, बुधवार-शुक्रवार 12-25 वर्ष स्वतंत्र स्वागत।",
+    "target_audience": "7 से 25 वर्ष के युवा",
+    "access_conditions": "निःशुल्क, बिना पंजीकरण स्वतंत्र स्वागत"
   },
   "r_0200": {
-    "description": "Espace d'activités pour les jeunes de 11 à 25 ans, géré par les TSHM de la FASe (équipe BUPP). Studio de musique (Stud) le jeudi sur inscription, soirées Boums le vendredi (10-14 ans), sport pour tous le mercredi (novembre à avril).",
-    "target_audience": "Jeunes de 11 à 25 ans",
-    "access_conditions": "Gratuit, sur inscription selon les activités"
+    "description": "11 से 25 वर्ष के युवाओं के लिए गतिविधि स्थान, FASe (BUPP टीम) के TSHM द्वारा संचालित। गुरुवार पंजीकरण पर संगीत स्टूडियो (Stud), शुक्रवार Boums पार्टी (10-14 वर्ष), बुधवार सभी के लिए खेल (नवंबर-अप्रैल)।",
+    "target_audience": "11 से 25 वर्ष के युवा",
+    "access_conditions": "निःशुल्क, गतिविधि के अनुसार पंजीकरण पर"
   },
   "r_0201": {
-    "description": "Collectif de 15 associations féminines et féministes subventionné par le Canton et la Ville de Genève. L'Espace Santé Femmes offre gratuitement conseils, information et orientation en santé (ménopause, sexualité, grossesse, vieillissement). Soutien administratif et social, ateliers bien-être.",
-    "target_audience": "Femmes, personnes trans, non-binaires et/ou intersexes",
-    "access_conditions": "Gratuit, ouvert aux femmes et minorités de genre"
+    "description": "कैंटन और जिनेवा शहर द्वारा सब्सिडी प्राप्त 15 महिला और नारीवादी संघों का सामूहिक। Espace Santé Femmes स्वास्थ्य में निःशुल्क सलाह, जानकारी और मार्गदर्शन प्रदान करता है (रजोनिवृत्ति, यौनिकता, गर्भावस्था, बुढ़ापा)। प्रशासनिक और सामाजिक सहायता, कल्याण कार्यशालाएं।",
+    "target_audience": "महिलाएं, ट्रांसजेंडर, गैर-बाइनरी और/या इंटरसेक्स व्यक्ति",
+    "access_conditions": "निःशुल्क, महिलाओं और लिंग अल्पसंख्यकों के लिए खुला"
   },
   "r_0202": {
-    "description": "Centre d'action sociale de proximité de l'Hospice général pour les quartiers de la Servette, du Petit-Saconnex et de Vieusseux. Aide financière, accompagnement social personnalisé, aide au logement, insertion professionnelle et soutien administratif.",
-    "target_audience": "Résidents des quartiers Servette, Petit-Saconnex, Vieusseux en difficulté",
-    "access_conditions": "Sur rendez-vous, résidents du canton de Genève"
+    "description": "सर्वेट, पेटी-साकोनेक्स और व्यूसू क्षेत्रों के लिए Hospice général का स्थानीय सामाजिक कार्य केंद्र। वित्तीय सहायता, व्यक्तिगत सामाजिक सहायता, आवास सहायता, व्यावसायिक एकीकरण और प्रशासनिक सहायता।",
+    "target_audience": "सर्वेट, पेटी-साकोनेक्स, व्यूसू क्षेत्रों के कठिनाई में निवासी",
+    "access_conditions": "अपॉइंटमेंट पर, जिनेवा कैंटन के निवासी"
   },
   "r_0203": {
-    "description": "Festival de cinéma en plein air gratuit au Parc de la Perle du Lac, chaque été depuis 2009. Plus de 50 films en version originale sous-titrée français. Animations dès 19h, séance au coucher du soleil. Événement saisonnier : juillet-août uniquement.",
-    "target_audience": "Tout public",
-    "access_conditions": "Gratuit, sans réservation. Saisonnier : juillet-août uniquement."
+    "description": "2009 से हर गर्मियों में Parc de la Perle du Lac में निःशुल्क खुली हवा में फिल्म महोत्सव। फ्रेंच उपशीर्षक के साथ मूल संस्करण में 50 से अधिक फिल्में। 19:00 से कार्यक्रम, सूर्यास्त पर प्रदर्शन। मौसमी कार्यक्रम: केवल जुलाई-अगस्त।",
+    "target_audience": "सभी",
+    "access_conditions": "निःशुल्क, बिना आरक्षण। मौसमी: केवल जुलाई-अगस्त।"
   },
   "r_0204": {
-    "description": "Lieu d'accueil gratuit, anonyme et sans inscription pour les enfants accompagnés d'un adulte. Activités, jeux, soutien éducatif dans un cadre chaleureux et inclusif. Boissons et collations offertes.",
-    "target_audience": "Enfants accompagnés d'un adulte (parents, grands-parents, mamans de jour)",
-    "access_conditions": "Gratuit, anonyme, sans inscription. Enfants sous la responsabilité de l'adulte accompagnant."
+    "description": "वयस्क के साथ बच्चों के लिए निःशुल्क, गुमनाम और बिना पंजीकरण स्वागत स्थान। गर्म और समावेशी वातावरण में गतिविधियां, खेल, शैक्षिक सहायता। निःशुल्क पेय और नाश्ता।",
+    "target_audience": "वयस्क के साथ बच्चे (माता-पिता, दादा-दादी, दाई)",
+    "access_conditions": "निःशुल्क, गुमनाम, बिना पंजीकरण। बच्चे सहयोगी वयस्क की जिम्मेदारी में।"
   },
   "r_0205": {
-    "description": "Espace d'accueil pour les enfants de 0 à 4 ans accompagnés d'un parent ou adulte proche, inspiré du concept de la Maison Verte. Lieu de jeu, de parole et de socialisation. Contribution financière libre (gratuit possible).",
-    "target_audience": "Enfants de 0 à 4 ans accompagnés d'un parent ou adulte proche",
-    "access_conditions": "Contribution financière libre (gratuit possible). Sans inscription, anonyme."
+    "description": "0 से 4 वर्ष के बच्चों के लिए माता-पिता या निकट वयस्क के साथ स्वागत स्थान, Maison Verte अवधारणा से प्रेरित। खेलने, बात करने और सामाजिकरण का स्थान। स्वतंत्र वित्तीय योगदान (निःशुल्क संभव)।",
+    "target_audience": "0 से 4 वर्ष के बच्चे माता-पिता या निकट वयस्क के साथ",
+    "access_conditions": "स्वतंत्र वित्तीय योगदान (निःशुल्क संभव)। बिना पंजीकरण, गुमनाम।"
   },
   "r_0206": {
-    "description": "Lieu d'échange gratuit ouvert à tous, au cœur de l'Université de Genève. Rencontres entre la communauté universitaire et les personnes migrantes pour tisser des liens, pratiquer le français et découvrir la vie à Genève. Café, thé et croissants offerts.",
-    "target_audience": "Tout le monde, en particulier personnes migrantes et communauté universitaire",
-    "access_conditions": "Gratuit, sans engagement, ouvert à tous. Pendant les semestres universitaires."
+    "description": "जिनेवा विश्वविद्यालय के केंद्र में सभी के लिए खुला निःशुल्क विनिमय स्थान। विश्वविद्यालय समुदाय और प्रवासियों के बीच संबंध बनाने, फ्रेंच अभ्यास करने और जिनेवा में जीवन खोजने के लिए मिलन। निःशुल्क कॉफी, चाय और क्रोइसां।",
+    "target_audience": "सभी, विशेषकर प्रवासी और विश्वविद्यालय समुदाय",
+    "access_conditions": "निःशुल्क, बिना बाध्यता, सभी के लिए खुला। विश्वविद्यालय सत्र के दौरान।"
   },
   "tag": {
     "143": "143",

@@ -175,9 +175,9 @@
     "access_conditions": "I hapur për të gjithë"
   },
   "r_0036": {
-    "description": "Distribution gratuite de vêtements, chaussures et linge de maison pour les personnes en situation de précarité. Géré conjointement par le Centre social protestant (CSP), Caritas Genève et la Croix-Rouge genevoise.",
-    "target_audience": "Personnes en situation de précarité",
-    "access_conditions": "Sur présentation d'un bon délivré par un service social, le CSP, Caritas Genève ou la Croix-Rouge genevoise"
+    "description": "Shpërndarje falas e veshjeve, këpucëve dhe çarçafëve shtëpiake për persona në situatë të vështirë. Menaxhohet nga CSP, Caritas dhe Kryqi i Kuq i Gjenevës.",
+    "target_audience": "Persona në situatë të vështirë",
+    "access_conditions": "Me paraqitjen e një kuponi të lëshuar nga një shërbim social, CSP, Caritas ose Kryqi i Kuq i Gjenevës"
   },
   "r_0037": {
     "description": "Kurse të frëngjishtes si gjuhë e huaj për të rriturit migrantë. Nivele nga fillestar deri në avancuar. Kurse ditore dhe mbrëmjeje.",
@@ -245,9 +245,9 @@
     "access_conditions": "Pritje pa takim nga e hëna në të premte nga 8h në 15h30"
   },
   "r_0050": {
-    "description": "Lieu d'accueil, de soutien et de réinsertion socioprofessionnelle pour personnes en situation de précarité. Petits-déjeuners gratuits (150-200/semaine), repas chauds le lundi et jeudi à 10h, pasta party un dimanche sur deux (17h-19h30), activités sociales et stages de réinsertion.",
-    "target_audience": "Personnes en situation de précarité",
-    "access_conditions": "Sans conditions, accueil libre. Repas chauds lundi et jeudi à 10h. Pasta party un dimanche sur deux 17h-19h30."
+    "description": "Vend pritjeje, mbështetjeje dhe riintegrimi socio-profesional për persona në situatë të vështirë. Mëngjes falas (150-200/javë), vakte të ngrohta të hënën dhe të enjten në 10:00, pasta party çdo të dielë të dytë (17:00-19:30), aktivitete sociale dhe praktika riintegrimi.",
+    "target_audience": "Persona në situatë të vështirë",
+    "access_conditions": "Pa kushte, pritje e lirë. Vakte të ngrohta të hënën dhe të enjten në 10:00. Pasta party çdo të dielë të dytë 17:00-19:30."
   },
   "r_0051": {
     "description": "Vend pritjeje, argëtimi, takimesh dhe relaksimi për të gjitha moshat, të gjitha kulturat dhe të gjitha mjediset sociale. Aktivitete kulturore dhe sociale.",
@@ -415,9 +415,9 @@
     "access_conditions": "Thirrni numrin falas 0800 22 22 10 për të marrë një vend, pritje pa kushte"
   },
   "r_0084": {
-    "description": "Lieu d'accueil de jour inconditionnel au Temple de la Servette pour les personnes en situation de précarité. Repas solidaires, boissons chaudes, écrivain public (CV, lettres), ateliers de français, anglais et informatique. Permanence juridique gratuite au 48 rue de Berne (lun 10h-12h, mer 17h30-19h30, jeu 10h-12h) : droit des étrangers, famille, travail, assurances sociales, pénal.",
-    "target_audience": "Personnes en situation de précarité, migrants, sans-abri",
-    "access_conditions": "Sans conditions, accueil inconditionnel"
+    "description": "Qendër pritjeje ditore pa kushte në Tempullin Servette për persona në situatë të vështirë. Vakte solidare, pije të ngrohta, shkrimtar publik (CV, letra), kurse të frëngjishtes, anglishtes dhe informatikës. Konsulencë juridike falas në 48 rue de Berne (hën 10-12, mër 17:30-19:30, enj 10-12): e drejta e të huajve, familjare, e punës, sigurimet sociale, penale.",
+    "target_audience": "Persona në situatë të vështirë, migrantë, të pastrehë",
+    "access_conditions": "Pa kushte, pritje e pakushtëzuar"
   },
   "r_0085": {
     "description": "Banja publike emblematike në bregun e liqenit Léman. Plazh me rërë, pishina, trampolinë (3-10m), sauna dhe hamam, bufe popullore. Hyrje shumë e përballueshme (2 CHF në verë, 1 CHF në dimër).",
@@ -555,9 +555,9 @@
     "access_conditions": "Falas, pa regjistrim, fëmijë të shoqëruar"
   },
   "r_0112": {
-    "description": "Service professionnel de garde d'enfants à domicile et babysitting de la Croix-Rouge genevoise. Une intervenante formée se déplace au domicile de la famille sous 4 heures. Missions de 3 à 10 heures, 7j/7. Service payant : 5 CHF/h (avec subside) ou 10 CHF/h (sans subside). Propose aussi des « bons de respiration » (4h de garde pour 10 CHF).",
-    "target_audience": "Familles avec enfants ayant besoin de garde à domicile",
-    "access_conditions": "Service payant : 5 CHF/h (avec subside), 10 CHF/h (sans subside). +2 CHF par enfant supplémentaire. Réservation par téléphone."
+    "description": "Shërbim profesional i kujdesit për fëmijë në shtëpi dhe babysitting nga Kryqi i Kuq i Gjenevës. Një ndërhyrëse e trajnuar vjen në shtëpi brenda 4 orësh. Detyra nga 3 deri 10 orë, 7 ditë/javë. Shërbim me pagesë: 5 CHF/orë (me subvencion) ose 10 CHF/orë (pa subvencion). Ofron edhe kupona pushimi (4 orë kujdes për 10 CHF).",
+    "target_audience": "Familje me fëmijë që kanë nevojë për kujdes në shtëpi",
+    "access_conditions": "Shërbim me pagesë: 5 CHF/orë (me subvencion), 10 CHF/orë (pa subvencion). +2 CHF për çdo fëmijë shtesë. Rezervim me telefon."
   },
   "r_0113": {
     "description": "Hapësirë lojërash dhe shërbim huazimi lodrash dhe lojërash tavoline për fëmijë, familje dhe të rritur. Lojëra gjigante dhe të jashtme të disponueshme për festa dhe ngjarje.",
@@ -890,144 +890,144 @@
     "access_conditions": "Lojë falas në vend. Huazim me abonim familjar vjetor (30 CHF)."
   },
   "r_0179": {
-    "description": "Association féministe et autogérée proposant un espace d'accueil parent-bébé (Marmotricité) pour les enfants de 0 à 1 an et leurs parents. Accompagnement psychomoteur des bébés dans un cadre collectif et convivial, avec une attention particulière aux populations en situation de précarité.",
-    "target_audience": "Parents et bébés de 0 à 1 an",
-    "access_conditions": "Prix libre, accueil avec attention particulière aux familles en situation de précarité"
+    "description": "Shoqatë feministe vetëqeverisëse që ofron një hapësirë pritjeje prind-bebe (Marmotricité) për fëmijët nga 0 deri 1 vjeç dhe prindërit e tyre. Shoqërim psikomotor i bebeve në një ambient kolektiv dhe miqësor, me vëmendje të veçantë për familjet në situatë të vështirë.",
+    "target_audience": "Prindërit dhe bebetë nga 0 deri 1 vjeç",
+    "access_conditions": "Çmim i lirë, pritje me vëmendje të veçantë për familjet në situatë të vështirë"
   },
   "r_0180": {
-    "description": "Lieu d'accueil et de rencontre multiculturel ouvert à tous. Repas gratuits (soupe, pâtisseries, repas chauds, petit-déjeuner), distribution de sacs de nourriture, accompagnement social gratuit et cours de français.",
-    "target_audience": "Toute personne dans le besoin",
-    "access_conditions": "Accueil gratuit, ouvert à tous, sans conditions. Distribution de sacs de nourriture sur inscription."
+    "description": "Vend pritjeje dhe takimesh multikulturor i hapur për të gjithë. Vakte falas (supë, ëmbëlsira, vakte të ngrohta, mëngjes), shpërndarje çantash ushqimi, shoqërim social falas dhe kurse frëngjishteje.",
+    "target_audience": "Çdo person në nevojë",
+    "access_conditions": "Pritje falas, e hapur për të gjithë, pa kushte. Shpërndarje çantash ushqimi me regjistrim."
   },
   "r_0181": {
-    "description": "Association d'utilité publique accueillant les femmes en situation de grande précarité. Repas chauds, café, prestations d'hygiène (douches, buanderie, coiffure), produits de première nécessité, accompagnement social par des travailleuses sociales, espace d'écoute et sorties culturelles mensuelles.",
-    "target_audience": "Femmes en situation de grande précarité, femmes sans-abri, femmes sans-papiers",
-    "access_conditions": "Accueil bas-seuil, sans conditions, sans rendez-vous. Ouvert à toute femme en situation de précarité."
+    "description": "Shoqatë e interesit publik që pret gra në situatë shumë të vështirë. Vakte të ngrohta, kafe, shërbime higjienike (dushe, lavanteri, berber), produkte të nevojës së parë, shoqërim social nga punonjëse sociale, hapësirë dëgjimi dhe dalje kulturore mujore.",
+    "target_audience": "Gra në situatë shumë të vështirë, gra të pastreha, gra pa dokumente",
+    "access_conditions": "Pritje me prag të ulët, pa kushte, pa caktim. E hapur për çdo grua në situatë të vështirë."
   },
   "r_0182": {
-    "description": "Bibliothèque publique historique avec plus de 200 places de travail, WiFi gratuit, postes informatiques en libre accès et salle de lecture ouverte en soirée. Inscription gratuite pour l'emprunt. Accès à plus de 30 millions de documents.",
-    "target_audience": "Tout public : étudiants, chercheurs, lecteurs",
-    "access_conditions": "Entrée libre et gratuite, ouverte à tous. Inscription gratuite avec pièce d'identité pour l'emprunt."
+    "description": "Bibliotekë publike historike me mbi 200 vende pune, WiFi falas, kompjuterë me akses të lirë dhe sallë leximi e hapur në mbrëmje. Regjistrim falas për huazimin. Akses në mbi 30 milionë dokumente.",
+    "target_audience": "Të gjithë: studentë, studiues, lexues",
+    "access_conditions": "Hyrje e lirë dhe falas, e hapur për të gjithë. Regjistrim falas me dokument identiteti për huazimin."
   },
   "r_0183": {
-    "description": "Restaurant social de la Ville de Genève offrant des repas gratuits (petit-déjeuner et repas chauds) et un accompagnement social de première ligne. Accueil de jour avec écoute, soutien social et orientation vers d'autres partenaires sociaux. Gratuit et confidentiel.",
-    "target_audience": "Personnes en situation de précarité",
-    "access_conditions": "Ouvert toute l'année sans inscription. Gratuit et confidentiel. Ticket pour repas chauds dès 08h00."
+    "description": "Restorant social i Qytetit të Gjenevës që ofron vakte falas (mëngjes dhe vakte të ngrohta) dhe shoqërim social të vijës së parë. Pritje ditore me dëgjim, mbështetje sociale dhe orientim drejt partnerëve të tjerë socialë. Falas dhe konfidencial.",
+    "target_audience": "Persona në situatë të vështirë",
+    "access_conditions": "E hapur gjithë vitin pa regjistrim. Falas dhe konfidencial. Kupon për vakte të ngrohta nga ora 08:00."
   },
   "r_0184": {
-    "description": "Le BIS accueille, informe et oriente toute personne souhaitant des renseignements sur l'accès aux prestations sociales. Informations et conseils sur les problèmes financiers, d'endettement, de logement et de santé. Accès à des travailleurs sociaux, psychologues et juristes.",
-    "target_audience": "Toute personne résidant à Genève, quel que soit son statut légal",
-    "access_conditions": "Gratuit, anonyme, sans rendez-vous, ouvert à toute la population quel que soit le statut légal. Confidentialité assurée."
+    "description": "BIS pret, informon dhe orienton çdo person që kërkon informacione mbi aksesin në përfitimet sociale. Informacione dhe këshilla mbi problemet financiare, borxhet, strehimin dhe shëndetin. Akses te punonjës socialë, psikologë dhe juristë.",
+    "target_audience": "Çdo person që jeton në Gjenevë, pavarësisht nga statusi ligjor",
+    "access_conditions": "Falas, anonim, pa caktim, i hapur për të gjithë pavarësisht nga statusi ligjor. Konfidencialiteti i garantuar."
   },
   "r_0185": {
-    "description": "Espace d'accueil et de conseil multilingue pour les parents avant et après la naissance. Pesée de bébé, chaise d'allaitement, massage bébé, portage, psychomotricité. Situé dans les locaux de la ludothèque de Versoix.",
-    "target_audience": "Femmes enceintes, parents avec bébés et jeunes enfants, familles allophones",
-    "access_conditions": "Gratuit, sans inscription, libre accès. Fermé pendant les vacances scolaires genevoises."
+    "description": "Hapësirë pritjeje dhe këshillimi shumëgjuhëshe për prindërit para dhe pas lindjes. Peshimi i bebes, karrike ushqimi, masazh bebe, mbartje, psikomotricitet. E vendosur në ambientet e ludotekës së Versoix-it.",
+    "target_audience": "Gra shtatzëna, prindër me bebe dhe fëmijë të vegjël, familje alofone",
+    "access_conditions": "Falas, pa regjistrim, akses i lirë. E mbyllur gjatë pushimeve shkollore të Gjenevës."
   },
   "r_0186": {
-    "description": "Espace d'accueil et de soutien pour femmes enceintes et parents avec bébé jusqu'à 1 an. Accueils libres animés par des sages-femmes, psychomotricienne le lundi, atelier de français maternité et cours de préparation à la naissance avec interprètes communautaires.",
-    "target_audience": "Femmes enceintes, parents avec bébé jusqu'à 1 an, familles en situation de migration",
-    "access_conditions": "Gratuit, sans inscription pour les accueils libres. Inscription nécessaire pour l'atelier de français maternité."
+    "description": "Hapësirë pritjeje dhe mbështetjeje për gra shtatzëna dhe prindër me bebe deri 1 vjeç. Pritje të lira me mami, psikomotricitet të hënën, punëtori frëngjishteje amësie dhe përgatitje për lindje me përkthyes komunitarë.",
+    "target_audience": "Gra shtatzëna, prindër me bebe deri 1 vjeç, familje në situatë migrimi",
+    "access_conditions": "Falas, pa regjistrim për pritjet e lira. Regjistrim i nevojshëm për punëtorinë e frëngjishtes së amësisë."
   },
   "r_0187": {
-    "description": "Un mercredi sur deux, une sage-femme accueille les parents à la ludothèque Belle-Terre pour échanger, poser des questions, peser bébé et jouer. Goûter offert par la ludothèque.",
-    "target_audience": "Femmes enceintes, parents avec bébés et jeunes enfants",
-    "access_conditions": "Gratuit, sans inscription, libre accès. Un mercredi sur deux, hors vacances scolaires."
+    "description": "Çdo të mërkurë të dytë, një mami pret prindërit në ludotekën Belle-Terre për shkëmbim, pyetje, peshim bebe dhe lojë. Gustare e ofruar nga ludoteka.",
+    "target_audience": "Gra shtatzëna, prindër me bebe dhe fëmijë të vegjël",
+    "access_conditions": "Falas, pa regjistrim, akses i lirë. Çdo të mërkurë të dytë, jashtë pushimeve shkollore."
   },
   "r_0188": {
-    "description": "Centre spécialisé d'écoute, de conseil et d'accompagnement en matière de discriminations et de racisme anti-Noir, géré par l'UPAF (Université Populaire Africaine) en collaboration avec le CRAN et le syndicat SYNA. Situé dans l'espace AfrikaLAB.",
-    "target_audience": "Personnes victimes de racisme anti-Noir et de discriminations raciales",
-    "access_conditions": "Service d'écoute et de conseil gratuit pour les personnes victimes de racisme anti-Noir et de discriminations"
+    "description": "Qendër e specializuar dëgjimi, këshillimi dhe shoqërimi në fushën e diskriminimit dhe racizmit anti-Zi, e menaxhuar nga UPAF (Universiteti Popullor Afrikan) në bashkëpunim me CRAN dhe sindikatën SYNA. E vendosur në hapësirën AfrikaLAB.",
+    "target_audience": "Viktimat e racizmit anti-Zi dhe diskriminimit racor",
+    "access_conditions": "Shërbim dëgjimi dhe këshillimi falas për viktimat e racizmit anti-Zi dhe diskriminimit"
   },
   "r_0189": {
-    "description": "Association créée par des parents en 2007, regroupant plus de 1200 membres. Services d'accompagnement, groupes de compétences sociales, rencontres parents, formations, conférences, groupe fratrie, job coaching et Centre d'accueil et de soutien en autisme (CASA).",
-    "target_audience": "Personnes autistes (avec ou sans diagnostic), familles, frères et sœurs, professionnels",
-    "access_conditions": "Ouvert aux personnes autistes, familles et professionnels. Adhésion à l'association possible."
+    "description": "Shoqatë e krijuar nga prindërit në 2007, me mbi 1200 anëtarë. Shërbime shoqërimi, grupe aftësish sociale, takime prindërish, trajnime, konferenca, grup vëllezërish, coaching pune dhe Qendra e Pritjes dhe Mbështetjes për Autizmin (CASA).",
+    "target_audience": "Persona me autizëm (me ose pa diagnozë), familje, vëllezër e motra, profesionistë",
+    "access_conditions": "E hapur për persona me autizëm, familje dhe profesionistë. E mundshme anëtarësimi në shoqatë."
   },
   "r_0190": {
-    "description": "Toilettes publiques gratuites situées sur la Place du Bourg-de-Four dans la vieille ville de Genève. Cabines pour personnes à mobilité réduite accessibles avec clé Eurokey (disponible auprès de Pro Infirmis Genève).",
-    "target_audience": "Tout public",
-    "access_conditions": "Accès libre et gratuit. Cabines PMR avec clé Eurokey (Pro Infirmis : 058 775 31 08)."
+    "description": "Tualete publike falas të vendosura në Place du Bourg-de-Four në qytetin e vjetër të Gjenevës. Kabina për persona me lëvizshmëri të reduktuar të aksesueshme me çelës Eurokey (i disponueshëm pranë Pro Infirmis Gjenevë).",
+    "target_audience": "Të gjithë",
+    "access_conditions": "Akses i lirë dhe falas. Kabina PMR me çelës Eurokey (Pro Infirmis: 058 775 31 08)."
   },
   "r_0191": {
-    "description": "Bibliothèque municipale de la Ville de Genève proposant des collections pour adultes et jeunes, une grainothèque, du WiFi gratuit, des postes informatiques et des animations culturelles. Inscription et emprunt gratuits.",
-    "target_audience": "Tout public (adultes et jeunes)",
-    "access_conditions": "Accès libre et gratuit. Inscription gratuite pour l'emprunt."
+    "description": "Bibliotekë komunale e Qytetit të Gjenevës me koleksione për të rriturit dhe të rinjtë, fararësi, WiFi falas, kompjuterë dhe aktivitete kulturore. Regjistrim dhe huazim falas.",
+    "target_audience": "Të gjithë (të rritur dhe të rinj)",
+    "access_conditions": "Akses i lirë dhe falas. Regjistrim falas për huazimin."
   },
   "r_0192": {
-    "description": "Espace d'accueil, de répit et de rencontre pour personnes réfugiées. Accompagnement pour les démarches administratives, informations sur les permis, logement et scolarisation, espace informatique et activités socioculturelles. Interprètes bénévoles présents quotidiennement.",
-    "target_audience": "Personnes réfugiées à Genève",
-    "access_conditions": "Ouvert aux personnes réfugiées à Genève. Accès libre sans inscription."
+    "description": "Hapësirë pritjeje, pushimi dhe takimesh për persona refugjate. Shoqërim për procedurat administrative, informacione mbi lejet, strehimin dhe shkollimin, hapësirë informatike dhe aktivitete sociokulturore. Përkthyes vullnetarë të pranishëm çdo ditë.",
+    "target_audience": "Persona refugjate në Gjenevë",
+    "access_conditions": "E hapur për persona refugjate në Gjenevë. Akses i lirë pa regjistrim."
   },
   "r_0193": {
-    "description": "Lieu d'accueil gratuit, anonyme et sans inscription pour enfants de 0 à 5 ans accompagnés d'un adulte proche. Écoute et soutien à l'enfant et à l'adulte accompagnant. Capacité de 20 personnes.",
-    "target_audience": "Enfants de 0 à 5 ans accompagnés d'un adulte proche (parent, grand-parent, maman de jour)",
-    "access_conditions": "Gratuit, anonyme, sans inscription. L'enfant reste sous la responsabilité de l'adulte accompagnant."
+    "description": "Vend pritjeje falas, anonim dhe pa regjistrim për fëmijë nga 0 deri 5 vjeç të shoqëruar nga një i rritur i afërt. Dëgjim dhe mbështetje për fëmijën dhe të rriturin shoqërues. Kapacitet 20 persona.",
+    "target_audience": "Fëmijë nga 0 deri 5 vjeç të shoqëruar nga një i rritur i afërt (prind, gjysh, kujdestare)",
+    "access_conditions": "Falas, anonim, pa regjistrim. Fëmija mbetet nën përgjegjësinë e të rriturit shoqërues."
   },
   "r_0194": {
-    "description": "Permanence juridique gratuite proposée par des étudiants en droit confirmés de l'Université de Genève (UNIGE). Consultations de 30 minutes couvrant le droit du travail, du bail, de la famille, des assurances sociales, pénal et des étrangers. Première Junior Entreprise suisse à offrir ce service (depuis 2015).",
-    "target_audience": "Toute personne ayant besoin de conseils juridiques",
-    "access_conditions": "Gratuit, ouvert à tous. Lundi sur rendez-vous, mercredi sans rendez-vous (premier arrivé, premier servi)."
+    "description": "Konsulencë juridike falas e ofruar nga studentë të konfirmuar të drejtësisë të Universitetit të Gjenevës (UNIGE). Konsulta 30-minutëshe mbi të drejtën e punës, qirasë, familjes, sigurimeve sociale, penale dhe të huajve. Junior Entreprise-ja e parë zvicerane që ofron këtë shërbim (që nga 2015).",
+    "target_audience": "Çdo person që ka nevojë për këshilla juridike",
+    "access_conditions": "Falas, e hapur për të gjithë. Të hënën me caktim, të mërkurën pa caktim (i pari që vjen, i pari që shërbehet)."
   },
   "r_0195": {
-    "description": "Consultations juridiques gratuites et confidentielles par des étudiants en droit confirmés de l'Université de Genève. Consultations de 30 minutes par groupes de 3 à 5 étudiants. Couvre le droit du travail, du bail, de la famille, des assurances sociales, pénal et des étrangers.",
-    "target_audience": "Toute personne ayant besoin de conseils juridiques",
-    "access_conditions": "Gratuit, confidentiel, ouvert à tous. Rendez-vous via le site pje-ge.ch."
+    "description": "Konsulta juridike falas dhe konfidenciale nga studentë të konfirmuar të drejtësisë të Universitetit të Gjenevës. Konsulta 30-minutëshe në grupe nga 3 deri 5 studentë. Mbulon të drejtën e punës, qirasë, familjes, sigurimeve sociale, penale dhe të huajve.",
+    "target_audience": "Çdo person që ka nevojë për këshilla juridike",
+    "access_conditions": "Falas, konfidencial, e hapur për të gjithë. Caktim nëpërmjet faqes pje-ge.ch."
   },
   "r_0196": {
-    "description": "Consultations juridiques gratuites et confidentielles par des étudiants en droit de l'Université de Genève. Consultations de 45 minutes. En plus des conseils juridiques, aide à la rédaction de courrier (en collaboration avec Europe Charmilles).",
-    "target_audience": "Toute personne ayant besoin de conseils juridiques ou d'aide à la rédaction de courrier",
-    "access_conditions": "Gratuit, confidentiel, ouvert à tous. Rendez-vous via le site pje-ge.ch. Aide à la rédaction de courrier disponible."
+    "description": "Konsulta juridike falas dhe konfidenciale nga studentë të drejtësisë të Universitetit të Gjenevës. Konsulta 45-minutëshe. Përveç këshillave juridike, ndihmë në hartimin e korrespondencës (në bashkëpunim me Europe Charmilles).",
+    "target_audience": "Çdo person që ka nevojë për këshilla juridike ose ndihmë në hartimin e korrespondencës",
+    "access_conditions": "Falas, konfidencial, e hapur për të gjithë. Caktim nëpërmjet faqes pje-ge.ch. Ndihmë për hartimin e korrespondencës e disponueshme."
   },
   "r_0197": {
-    "description": "Bibliothèque municipale gratuite proposant plus de 14'000 documents : romans, documentaires, bandes dessinées, revues, livres en gros caractères et livres audio. Inscription et emprunt gratuits.",
-    "target_audience": "Tout public",
-    "access_conditions": "Inscription gratuite, ouvert à tous"
+    "description": "Bibliotekë komunale falas me mbi 14.000 dokumente: romane, dokumentarë, banda vizatimore, revista, libra me shkronja të mëdha dhe libra audio. Regjistrim dhe huazim falas.",
+    "target_audience": "Të gjithë",
+    "access_conditions": "Regjistrim falas, e hapur për të gjithë"
   },
   "r_0198": {
-    "description": "Distribution gratuite de vêtements (hommes, femmes, enfants) et de linge de maison pour les personnes en situation de précarité. Programme géré par la Fondation Carrefour-Rue & Coulou.",
-    "target_audience": "Personnes en situation de précarité",
-    "access_conditions": "Gratuit, ouvert à toute personne dans le besoin"
+    "description": "Shpërndarje falas e veshjeve (burra, gra, fëmijë) dhe çarçafëve shtëpiake për persona në situatë të vështirë. Program i menaxhuar nga Fondacioni Carrefour-Rue & Coulou.",
+    "target_audience": "Persona në situatë të vështirë",
+    "access_conditions": "Falas, e hapur për çdo person në nevojë"
   },
   "r_0199": {
-    "description": "Espace d'accueil libre pour les jeunes de 7 à 25 ans, géré par les TSHM de la FASe (équipe BUPP). Jeux de société, bricolage, baby-foot, TV-DVD. Sorties mensuelles (culture, sport, découverte). Accueil 7-11 ans le mercredi, accueil libre 12-25 ans mercredi à vendredi.",
-    "target_audience": "Jeunes de 7 à 25 ans",
-    "access_conditions": "Gratuit, accueil libre sans inscription"
+    "description": "Hapësirë pritjeje e lirë për të rinjtë nga 7 deri 25 vjeç, e menaxhuar nga TSHM të FASe (ekipi BUPP). Lojëra shoqërore, punë dore, futboll tavoline, TV-DVD. Dalje mujore (kulturë, sport, zbulim). Pritje 7-11 vjeç të mërkurën, pritje e lirë 12-25 vjeç të mërkurë-premte.",
+    "target_audience": "Të rinj nga 7 deri 25 vjeç",
+    "access_conditions": "Falas, pritje e lirë pa regjistrim"
   },
   "r_0200": {
-    "description": "Espace d'activités pour les jeunes de 11 à 25 ans, géré par les TSHM de la FASe (équipe BUPP). Studio de musique (Stud) le jeudi sur inscription, soirées Boums le vendredi (10-14 ans), sport pour tous le mercredi (novembre à avril).",
-    "target_audience": "Jeunes de 11 à 25 ans",
-    "access_conditions": "Gratuit, sur inscription selon les activités"
+    "description": "Hapësirë aktivitetesh për të rinjtë nga 11 deri 25 vjeç, e menaxhuar nga TSHM të FASe (ekipi BUPP). Studio muzikore (Stud) të enjten me regjistrim, mbrëmje Boums të premten (10-14 vjeç), sport për të gjithë të mërkurën (nëntor-prill).",
+    "target_audience": "Të rinj nga 11 deri 25 vjeç",
+    "access_conditions": "Falas, me regjistrim sipas aktiviteteve"
   },
   "r_0201": {
-    "description": "Collectif de 15 associations féminines et féministes subventionné par le Canton et la Ville de Genève. L'Espace Santé Femmes offre gratuitement conseils, information et orientation en santé (ménopause, sexualité, grossesse, vieillissement). Soutien administratif et social, ateliers bien-être.",
-    "target_audience": "Femmes, personnes trans, non-binaires et/ou intersexes",
-    "access_conditions": "Gratuit, ouvert aux femmes et minorités de genre"
+    "description": "Kolektiv i 15 shoqatave femërore dhe feministe i subvencionuar nga Kantoni dhe Qyteti i Gjenevës. Espace Santé Femmes ofron falas këshilla, informacione dhe orientim në shëndet (menopauza, seksualiteti, shtatzënia, plakja). Mbështetje administrative dhe sociale, punëtori mirëqenieje.",
+    "target_audience": "Gra, persona trans, jo-binare dhe/ose interseks",
+    "access_conditions": "Falas, e hapur për gratë dhe minoritetet gjinore"
   },
   "r_0202": {
-    "description": "Centre d'action sociale de proximité de l'Hospice général pour les quartiers de la Servette, du Petit-Saconnex et de Vieusseux. Aide financière, accompagnement social personnalisé, aide au logement, insertion professionnelle et soutien administratif.",
-    "target_audience": "Résidents des quartiers Servette, Petit-Saconnex, Vieusseux en difficulté",
-    "access_conditions": "Sur rendez-vous, résidents du canton de Genève"
+    "description": "Qendër e veprimit social të afërt e Hospice général për lagjet Servette, Petit-Saconnex dhe Vieusseux. Ndihmë financiare, shoqërim social i personalizuar, ndihmë për strehimin, integrim profesional dhe mbështetje administrative.",
+    "target_audience": "Banorë të lagjeve Servette, Petit-Saconnex, Vieusseux në vështirësi",
+    "access_conditions": "Me caktim, banorë të kantonit të Gjenevës"
   },
   "r_0203": {
-    "description": "Festival de cinéma en plein air gratuit au Parc de la Perle du Lac, chaque été depuis 2009. Plus de 50 films en version originale sous-titrée français. Animations dès 19h, séance au coucher du soleil. Événement saisonnier : juillet-août uniquement.",
-    "target_audience": "Tout public",
-    "access_conditions": "Gratuit, sans réservation. Saisonnier : juillet-août uniquement."
+    "description": "Festival kinemaje në natyrë falas në Parkun Perle du Lac, çdo verë që nga 2009. Mbi 50 filma në versionin origjinal me titra në frëngjisht. Aktivitete nga ora 19:00, seancë në perëndim të diellit. Ngjarje sezonale: vetëm korrik-gusht.",
+    "target_audience": "Të gjithë",
+    "access_conditions": "Falas, pa rezervim. Sezonale: vetëm korrik-gusht."
   },
   "r_0204": {
-    "description": "Lieu d'accueil gratuit, anonyme et sans inscription pour les enfants accompagnés d'un adulte. Activités, jeux, soutien éducatif dans un cadre chaleureux et inclusif. Boissons et collations offertes.",
-    "target_audience": "Enfants accompagnés d'un adulte (parents, grands-parents, mamans de jour)",
-    "access_conditions": "Gratuit, anonyme, sans inscription. Enfants sous la responsabilité de l'adulte accompagnant."
+    "description": "Vend pritjeje falas, anonim dhe pa regjistrim për fëmijë të shoqëruar nga një i rritur. Aktivitete, lojëra, mbështetje edukative në një ambient të ngrohtë dhe gjithëpërfshirës. Pije dhe gustime falas.",
+    "target_audience": "Fëmijë të shoqëruar nga një i rritur (prindër, gjyshër, kujdestare)",
+    "access_conditions": "Falas, anonim, pa regjistrim. Fëmijët nën përgjegjësinë e të rriturit shoqërues."
   },
   "r_0205": {
-    "description": "Espace d'accueil pour les enfants de 0 à 4 ans accompagnés d'un parent ou adulte proche, inspiré du concept de la Maison Verte. Lieu de jeu, de parole et de socialisation. Contribution financière libre (gratuit possible).",
-    "target_audience": "Enfants de 0 à 4 ans accompagnés d'un parent ou adulte proche",
-    "access_conditions": "Contribution financière libre (gratuit possible). Sans inscription, anonyme."
+    "description": "Hapësirë pritjeje për fëmijë nga 0 deri 4 vjeç të shoqëruar nga një prind ose i rritur i afërt, e frymëzuar nga koncepti Maison Verte. Vend loje, bisede dhe socializimi. Kontribut financiar i lirë (mund të jetë falas).",
+    "target_audience": "Fëmijë nga 0 deri 4 vjeç të shoqëruar nga një prind ose i rritur i afërt",
+    "access_conditions": "Kontribut financiar i lirë (mund të jetë falas). Pa regjistrim, anonim."
   },
   "r_0206": {
-    "description": "Lieu d'échange gratuit ouvert à tous, au cœur de l'Université de Genève. Rencontres entre la communauté universitaire et les personnes migrantes pour tisser des liens, pratiquer le français et découvrir la vie à Genève. Café, thé et croissants offerts.",
-    "target_audience": "Tout le monde, en particulier personnes migrantes et communauté universitaire",
-    "access_conditions": "Gratuit, sans engagement, ouvert à tous. Pendant les semestres universitaires."
+    "description": "Vend shkëmbimi falas i hapur për të gjithë, në zemrën e Universitetit të Gjenevës. Takime midis komunitetit universitar dhe personave migrante për të krijuar lidhje, praktikuar frëngjishten dhe zbuluar jetën në Gjenevë. Kafe, çaj dhe kroasanë falas.",
+    "target_audience": "Të gjithë, veçanërisht personat migrante dhe komuniteti universitar",
+    "access_conditions": "Falas, pa detyrim, e hapur për të gjithë. Gjatë semestrave universitare."
   },
   "tag": {
     "143": "143",
