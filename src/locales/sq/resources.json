@@ -1029,6 +1029,21 @@
     "target_audience": "Të gjithë, veçanërisht personat migrante dhe komuniteti universitar",
     "access_conditions": "Falas, pa detyrim, e hapur për të gjithë. Gjatë semestrave universitare."
   },
+  "r_0207": {
+    "description": "Grupe falas bisedimi për të praktikuar gjuhën frënge. Pa regjistrim paraprak. Mësimet drejtohen nga vullnetarë për migrantët dhe personat jofrankofone. Kafe dhe çaj falas.",
+    "target_audience": "Migrantët ose personat jofrankofone që dëshirojnë të praktikojnë gjuhën frënge",
+    "access_conditions": "Falas, pa regjistrim, e hapur për të gjithë. Seminare të avancuara me 10 CHF herë pas here."
+  },
+  "r_0208": {
+    "description": "Platformë në internet për dhënien dhe gjetjen e sendeve falas në Zvicërën frankofone. Mobilje, pajisje shtëpiake, veshje, libra. Organizatë jofitimprurëse që nga viti 2019.",
+    "target_audience": "Kushdo që kërkon ose dhuron sende falas",
+    "access_conditions": "Falas, e disponueshme në internet 24/7. Regjistrimi falas."
+  },
+  "r_0209": {
+    "description": "Shërbime juridike dhe sociale falas për personat e papunë. Ndihmë me sigurimin e papunësisë, përgatitja e aplikimeve për punë, kurse kompjuteri, mbështetje administrative, ndihmë tatimore. Pranim i lirë të hënave dhe të mërkurave.",
+    "target_audience": "Personat e papunë ose ata që përballen me vështirësi sociale dhe administrative",
+    "access_conditions": "Falas, pa takim paraprak të hënave dhe të mërkurave (pranim i lirë)"
+  },
   "tag": {
     "143": "143",
     "147": "147",

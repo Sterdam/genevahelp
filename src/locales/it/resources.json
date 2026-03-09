@@ -1385,5 +1385,20 @@
     "étrangers": "stranieri",
     "étude": "studio",
     "étudier": "studiare"
+  },
+  "r_0207": {
+    "description": "Gruppi di conversazione gratuiti e senza iscrizione per praticare il francese in un ambiente conviviale. Condotti da volontari, questi laboratori si rivolgono a persone migranti o non francofone che desiderano migliorare il loro francese parlato. Caffè e tè offerti.",
+    "target_audience": "Persone migranti o non francofone che desiderano praticare il francese",
+    "access_conditions": "Gratuito, senza iscrizione, aperto a tutti. Laboratori avanzati occasionali a 10 CHF."
+  },
+  "r_0208": {
+    "description": "Piattaforma online di annunci per donare e cercare oggetti gratuitamente nella Svizzera francese. Mobili, elettrodomestici, vestiti, libri e molto altro. Associazione senza scopo di lucro riconosciuta di utilità pubblica dal 2019.",
+    "target_audience": "Chiunque cerchi o voglia donare oggetti gratuitamente",
+    "access_conditions": "Gratuito, accessibile online 24 ore su 24. Registrazione gratuita sul sito."
+  },
+  "r_0209": {
+    "description": "Rete di solidarietà per disoccupati o persone in difficoltà sociale. Servizi giuridici e sociali gratuiti relativi all'assicurazione contro la disoccupazione e alle assicurazioni sociali. Aiuto nella preparazione di dossier di candidatura, formazione informatica, supporto amministrativo e dichiarazione dei redditi. Due sportelli pubblici gratuiti senza appuntamento il lunedì e il mercoledì.",
+    "target_audience": "Disoccupati o persone con difficoltà sociali e amministrative",
+    "access_conditions": "Gratuito, senza appuntamento per gli sportelli del lunedì e mercoledì"
   }
 }

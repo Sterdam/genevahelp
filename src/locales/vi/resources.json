@@ -1385,5 +1385,20 @@
     "étrangers": "người nước ngoài",
     "étude": "học tập",
     "étudier": "học"
+  },
+  "r_0207": {
+    "description": "Nhóm hội thoại miễn phí không cần đăng ký để luyện tiếng Pháp trong không khí thân thiện. Do tình nguyện viên hướng dẫn, các buổi hội thảo dành cho người nhập cư hoặc người không nói tiếng Pháp muốn cải thiện khả năng giao tiếp. Trà và cà phê miễn phí.",
+    "target_audience": "Người nhập cư hoặc người không nói tiếng Pháp muốn luyện tiếng Pháp",
+    "access_conditions": "Miễn phí, không cần đăng ký, mở cho tất cả mọi người. Hội thảo nâng cao thỉnh thoảng 10 CHF."
+  },
+  "r_0208": {
+    "description": "Nền tảng rao vặt trực tuyến để cho và tìm đồ miễn phí tại vùng Thụy Sĩ nói tiếng Pháp. Nội thất, đồ gia dụng, quần áo, sách và nhiều thứ khác. Tổ chức phi lợi nhuận được công nhận vì lợi ích công cộng từ năm 2019.",
+    "target_audience": "Bất kỳ ai muốn tìm hoặc cho đồ miễn phí",
+    "access_conditions": "Miễn phí, truy cập trực tuyến 24/7. Đăng ký miễn phí trên trang web."
+  },
+  "r_0209": {
+    "description": "Mạng lưới đoàn kết dành cho người thất nghiệp hoặc người gặp khó khăn xã hội. Dịch vụ pháp lý và xã hội miễn phí liên quan đến bảo hiểm thất nghiệp và bảo hiểm xã hội. Hỗ trợ hồ sơ xin việc, đào tạo tin học, hỗ trợ hành chính và khai thuế. Hai buổi tư vấn công khai miễn phí không cần hẹn trước vào thứ Hai và thứ Tư.",
+    "target_audience": "Người thất nghiệp hoặc người gặp khó khăn về xã hội và hành chính",
+    "access_conditions": "Miễn phí, không cần hẹn trước cho buổi tư vấn thứ Hai và thứ Tư"
   }
 }

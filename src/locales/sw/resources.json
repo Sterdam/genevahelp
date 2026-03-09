@@ -1385,5 +1385,20 @@
     "étrangers": "wageni",
     "étude": "masomo",
     "étudier": "kusoma"
+  },
+  "r_0207": {
+    "description": "Vikundi vya mazungumzo vya bure bila usajili kwa ajili ya kufanya mazoezi ya Kifaransa katika mazingira ya urafiki. Vinaongozwa na watu wa kujitolea, warsha hizi zinalenga wahamiaji au wasio na Kifaransa wanaotaka kuboresha Kifaransa chao cha mazungumzo. Chai na kahawa bure.",
+    "target_audience": "Wahamiaji au wasio na Kifaransa wanaotaka kufanya mazoezi ya Kifaransa",
+    "access_conditions": "Bure, bila usajili, wazi kwa wote. Warsha za hali ya juu mara kwa mara kwa CHF 10."
+  },
+  "r_0208": {
+    "description": "Jukwaa la matangazo madogo ya mtandaoni la kutoa na kutafuta vitu bure katika Uswisi inayozungumza Kifaransa. Samani, vifaa vya nyumbani, nguo, vitabu na mengi zaidi. Chama kisicho cha faida kilichotambuliwa kuwa cha manufaa ya umma tangu 2019.",
+    "target_audience": "Mtu yeyote anayetafuta au kutoa vitu bure",
+    "access_conditions": "Bure, inapatikana mtandaoni masaa 24. Usajili bure kwenye tovuti."
+  },
+  "r_0209": {
+    "description": "Mtandao wa mshikamano kwa wasio na ajira au wanaokabiliwa na ugumu wa kijamii. Huduma za bure za kisheria na kijamii kuhusu bima ya ukosefu wa ajira na bima za kijamii. Msaada wa maombi ya kazi, mafunzo ya kompyuta, msaada wa kiutawala na usaidizi wa kodi. Mashauriano mawili ya bure bila miadi Jumatatu na Jumatano.",
+    "target_audience": "Wasio na ajira au wanaokabiliwa na ugumu wa kijamii na kiutawala",
+    "access_conditions": "Bure, bila miadi kwa mashauriano ya Jumatatu na Jumatano"
   }
 }

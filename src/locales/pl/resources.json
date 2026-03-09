@@ -1029,6 +1029,21 @@
     "target_audience": "Wszyscy, szczególnie migranci i społeczność uniwersytecka",
     "access_conditions": "Bezpłatne, bez zobowiązań, otwarte dla wszystkich. W trakcie semestrów uniwersyteckich."
   },
+  "r_0207": {
+    "description": "Bezpłatne grupy konwersacyjne do ćwiczenia języka francuskiego. Bez rejestracji. Zajęcia prowadzą wolontariusze dla migrantów i osób niefrankofonicznych. Bezpłatna kawa i herbata.",
+    "target_audience": "Migranci i osoby niefrankofoniczne chcące ćwiczyć język francuski",
+    "access_conditions": "Bezpłatnie, bez rejestracji, otwarte dla wszystkich. Okazjonalne zaawansowane warsztaty za 10 CHF."
+  },
+  "r_0208": {
+    "description": "Platforma ogłoszeń do oddawania i znajdowania darmowych przedmiotów we francuskojęzycznej Szwajcarii. Meble, sprzęt AGD, odzież, książki. Organizacja non-profit od 2019 roku.",
+    "target_audience": "Każdy, kto szuka lub oddaje darmowe przedmioty",
+    "access_conditions": "Bezpłatnie, dostępne online 24/7. Rejestracja bezpłatna."
+  },
+  "r_0209": {
+    "description": "Bezpłatne usługi prawne i socjalne dla osób bezrobotnych. Pomoc z ubezpieczeniem na wypadek bezrobocia, przygotowywanie aplikacji o pracę, kursy komputerowe, wsparcie administracyjne, pomoc podatkowa. Dyżury otwarte w poniedziałki i środy.",
+    "target_audience": "Osoby bezrobotne lub borykające się z trudnościami socjalnymi i administracyjnymi",
+    "access_conditions": "Bezpłatnie, bez rejestracji w poniedziałki i środy (dyżury otwarte)"
+  },
   "tag": {
     "143": "143",
     "147": "147",

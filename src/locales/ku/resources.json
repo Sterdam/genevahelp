@@ -1385,5 +1385,20 @@
     "étrangers": "biyanî",
     "étude": "xwendin",
     "étudier": "xwendin"
+  },
+  "r_0207": {
+    "description": "Komên axaftinê yên belaş û bêyî qeydkirin ji bo pratîkkirina Fransizî di hawîrdorek xweş de. Ji hêla dilxwazan ve tên birêvebirin, ev atolye ji bo koçber an kesên ku Fransizî nizanin û dixwazin Fransiziya xwe ya devkî baştir bikin in. Çay û qehwe belaş.",
+    "target_audience": "Koçber an kesên ku Fransizî nizanin û dixwazin Fransizî pratîk bikin",
+    "access_conditions": "Belaş, bêyî qeydkirin, ji bo her kesî vekirî. Carinan atolyeyên pêşketî bi 10 CHF."
+  },
+  "r_0208": {
+    "description": "Platforma reklamên piçûk a serhêl ji bo belaş tiştan dayîn û lêgerîn li Swîsra Fransîaxêv. Mobîlya, amûrên malê, cil û berg, pirtûk û gelek tiştên din. Komeleyeke ne-qezencê ya ji sala 2019-an ve ji bo berjewendiya giştî hatiye pejirandin.",
+    "target_audience": "Her kesê ku tiştên belaş digere an dixwaze bide",
+    "access_conditions": "Belaş, 24 saetan serhêl peyda dibe. Li ser malperê qeydkirina belaş."
+  },
+  "r_0209": {
+    "description": "Tora hevgirtinê ji bo bêkaran an kesên ku dijwariyên civakî bijîn. Xizmetên dadrêsî û civakî yên belaş ên têkildarî sîgorteya bêkariyê û sîgorteyên civakî. Alîkarî di amadekirina dosyayên kar de, perwerdeya kompîturê, piştgiriya îdarî û alîkariya baca. Du rûniştinên giştî yên belaş bêyî randevû roja Duşemê û Çarşemê.",
+    "target_audience": "Bêkar an kesên ku bi dijwariyên civakî û îdarî re rû bi rû ne",
+    "access_conditions": "Belaş, ji bo rûniştinên Duşemê û Çarşemê randevû ne pêwîst e"
   }
 }

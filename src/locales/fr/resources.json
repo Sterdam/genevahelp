@@ -1385,5 +1385,20 @@
     "étrangers": "étrangers",
     "étude": "étude",
     "étudier": "étudier"
+  },
+  "r_0207": {
+    "description": "Groupes de conversation gratuits et sans inscription pour pratiquer le français dans un cadre convivial. Animés par des bénévoles, ces ateliers s'adressent aux personnes migrantes ou allophones souhaitant améliorer leur français parlé. Café et thé offerts.",
+    "target_audience": "Personnes migrantes ou allophones souhaitant pratiquer le français",
+    "access_conditions": "Gratuit, sans inscription, ouvert à tous. Ateliers avancés ponctuels à 10 CHF."
+  },
+  "r_0208": {
+    "description": "Plateforme en ligne de petites annonces pour donner et chercher des objets gratuitement en Suisse romande. Meubles, électroménager, vêtements, livres et bien plus. Association reconnue d'utilité publique depuis 2019.",
+    "target_audience": "Toute personne cherchant ou donnant des objets gratuitement",
+    "access_conditions": "Gratuit, accessible en ligne 24h/24. Inscription gratuite sur le site."
+  },
+  "r_0209": {
+    "description": "Réseau de solidarité pour les personnes au chômage ou en difficulté sociale. Services juridiques et sociaux gratuits autour de l'assurance chômage et des assurances sociales. Aide à l'élaboration de dossiers de candidature, formation informatique, soutien administratif et déclaration d'impôts. Deux permanences publiques gratuites les lundis et mercredis.",
+    "target_audience": "Personnes au chômage ou en difficulté sociale et administrative",
+    "access_conditions": "Gratuit, sans rendez-vous pour les permanences du lundi et mercredi"
   }
 }

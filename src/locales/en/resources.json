@@ -1385,5 +1385,20 @@
     "étrangers": "foreigners",
     "étude": "study",
     "étudier": "study"
+  },
+  "r_0207": {
+    "description": "Free conversation groups with no registration required to practice French in a friendly setting. Led by volunteers, these workshops are aimed at migrants or non-French speakers wishing to improve their spoken French. Free coffee and tea.",
+    "target_audience": "Migrants or non-French speakers wishing to practice French",
+    "access_conditions": "Free, no registration, open to all. Occasional advanced workshops at 10 CHF."
+  },
+  "r_0208": {
+    "description": "Online classifieds platform for giving and finding free items in French-speaking Switzerland. Furniture, appliances, clothing, books and much more. Non-profit association recognized as being of public utility since 2019.",
+    "target_audience": "Anyone looking for or giving away items for free",
+    "access_conditions": "Free, accessible online 24/7. Free registration on the website."
+  },
+  "r_0209": {
+    "description": "Solidarity network for unemployed people or those facing social difficulties. Free legal and social services related to unemployment insurance and social insurance. Help with job applications, computer training, administrative support and tax returns. Two free public drop-in sessions on Mondays and Wednesdays.",
+    "target_audience": "Unemployed people or those facing social and administrative difficulties",
+    "access_conditions": "Free, no appointment needed for Monday and Wednesday drop-in sessions"
   }
 }

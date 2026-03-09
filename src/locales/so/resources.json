@@ -1385,5 +1385,20 @@
     "étrangers": "ajnabi",
     "étude": "daraasad",
     "étudier": "barto"
+  },
+  "r_0207": {
+    "description": "Kooxo wada sheekeysi oo bilaash ah oo aan diiwaangellin lahayn si aad Faransiis ugu marinto. Waxaa hogaamiya mutadawiciin, casharro loogu talagalay soo galootiga ama kuwa aan Faransiis ku hadlin ee raba inay Faransiiskoodda hagaajiyaan. Shaah iyo bun bilaash ah.",
+    "target_audience": "Soo galootiga ama kuwa aan Faransiis ku hadlin ee raba inay Faransiis ku marmaraan",
+    "access_conditions": "Bilaash, diiwaangellin la'aan, qof walba waa soo dhawoow. Casharro heer sare ah oo marmar la qabanayo 10 CHF."
+  },
+  "r_0208": {
+    "description": "Barxad xayaysiis oo onlayn ah oo loogu talagalay in bilaash alaabta la siiyo ama la raadiyo Swiss-ka Faransiiga ku hadla. Qalabka guriga, qalabka korontada, dharka, buugaagta iyo wax ka badan. Urur aan faa'iido doon ahayn oo laga aqoonsaday 2019-kii.",
+    "target_audience": "Qof kasta oo raadinaya ama siinaya alaab bilaash ah",
+    "access_conditions": "Bilaash, onlayn 24 saacadood. Diiwaangelinta websaytka waa bilaash."
+  },
+  "r_0209": {
+    "description": "Shabakad is-kaashi oo loogu talagalay shaqo la'aanta ama kuwa dhibaatooyin bulsho la kulmaya. Adeegyo sharci iyo bulsho oo bilaash ah oo ku saabsan caymiska shaqo la'aanta iyo caymiska bulshada. Caawimo codsiyada shaqada, tababbar kombuyutar, taageero maamul, iyo caawimada canshuurta. Labbo xilli bilaash ah oo ballan la'aan ah Isniinta iyo Arbacada.",
+    "target_audience": "Shaqo la'aanta ama kuwa dhibaatooyinka bulshada iyo maamulka la kulmaya",
+    "access_conditions": "Bilaash, ballan la'aan Isniinta iyo Arbacada"
   }
 }

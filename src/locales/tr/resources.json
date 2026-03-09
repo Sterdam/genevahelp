@@ -1385,5 +1385,20 @@
     "étrangers": "yabancılar",
     "étude": "çalışma",
     "étudier": "çalışmak"
+  },
+  "r_0207": {
+    "description": "Fransızca pratik yapmak için kayıt gerektirmeyen ücretsiz sohbet grupları. Gönüllüler tarafından yönetilen bu atölyeler, göçmenler veya Fransızca bilmeyenler için tasarlanmıştır. Ücretsiz çay ve kahve ikramı.",
+    "target_audience": "Fransızca pratik yapmak isteyen göçmenler veya Fransızca bilmeyenler",
+    "access_conditions": "Ücretsiz, kayıt gerektirmez, herkese açık. Ara sıra düzenlenen ileri düzey atölyeler 10 CHF."
+  },
+  "r_0208": {
+    "description": "Fransızca konuşulan İsviçre'de ücretsiz eşya vermek ve bulmak için çevrimiçi ilan platformu. Mobilya, ev aletleri, giysi, kitap ve çok daha fazlası. 2019'dan bu yana kamu yararına tanınmış kar amacı gütmeyen dernek.",
+    "target_audience": "Ücretsiz eşya arayan veya vermek isteyen herkes",
+    "access_conditions": "Ücretsiz, 7/24 çevrimiçi erişilebilir. Sitede ücretsiz kayıt."
+  },
+  "r_0209": {
+    "description": "İşsizler veya sosyal zorluklar yaşayanlar için dayanışma ağı. İşsizlik sigortası ve sosyal sigortalarla ilgili ücretsiz hukuki ve sosyal hizmetler. İş başvuru dosyası hazırlama, bilgisayar eğitimi, idari destek ve vergi beyannamesi yardımı. Pazartesi ve çarşamba günleri randevusuz ücretsiz danışmanlık.",
+    "target_audience": "İşsizler veya sosyal ve idari zorluklar yaşayan kişiler",
+    "access_conditions": "Ücretsiz, pazartesi ve çarşamba danışmanlıkları için randevu gerekmez"
   }
 }

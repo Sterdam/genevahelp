@@ -1029,6 +1029,21 @@
     "target_audience": "Toată lumea, în special persoanele migrante și comunitatea universitară",
     "access_conditions": "Gratuit, fără angajament, deschis tuturor. În timpul semestrelor universitare."
   },
+  "r_0207": {
+    "description": "Grupuri gratuite de conversație pentru exersarea limbii franceze. Fără înscriere prealabilă. Atelierele sunt conduse de voluntari, destinate migranților și persoanelor nefrancofone. Cafea și ceai gratuit.",
+    "target_audience": "Migranți sau persoane nefrancofone care doresc să exerseze limba franceză",
+    "access_conditions": "Gratuit, fără înscriere, deschis tuturor. Ateliere avansate ocazionale la prețul de 10 CHF."
+  },
+  "r_0208": {
+    "description": "Platformă online de anunțuri gratuite pentru donarea și găsirea de obiecte în Elveția francofonă. Mobilier, electrocasnice, haine, cărți. Organizație non-profit din 2019.",
+    "target_audience": "Oricine caută sau donează obiecte gratuite",
+    "access_conditions": "Gratuit, disponibil online 24/7. Înregistrare gratuită."
+  },
+  "r_0209": {
+    "description": "Servicii juridice și sociale gratuite pentru persoanele aflate în șomaj. Asistență privind asigurarea de șomaj, ajutor la dosarele de candidatură, cursuri de informatică, suport administrativ, ajutor fiscal. Permanențe libere luni și miercuri.",
+    "target_audience": "Persoane aflate în șomaj sau care se confruntă cu dificultăți sociale și administrative",
+    "access_conditions": "Gratuit, fără programare pentru permanențele de luni și miercuri"
+  },
   "tag": {
     "143": "143",
     "147": "147",

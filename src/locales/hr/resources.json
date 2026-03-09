@@ -1029,6 +1029,21 @@
     "target_audience": "Svi, posebno migranti i sveučilišna zajednica",
     "access_conditions": "Besplatno, bez obveza, otvoreno svima. Tijekom sveučilišnih semestara."
   },
+  "r_0207": {
+    "description": "Besplatne konverzacijske grupe za vježbanje francuskog jezika. Bez prethodne prijave. Radionice vode volonteri za migrante i osobe koje ne govore francuski. Besplatna kava i čaj.",
+    "target_audience": "Migranti ili osobe koje ne govore francuski, a žele vježbati jezik",
+    "access_conditions": "Besplatno, bez prijave, otvoreno za sve. Povremene napredne radionice po cijeni od 10 CHF."
+  },
+  "r_0208": {
+    "description": "Online platforma za besplatno davanje i pronalaženje predmeta u francuskome dijelu Švicarske. Namještaj, kućanski aparati, odjeća, knjige. Neprofitna organizacija od 2019. godine.",
+    "target_audience": "Svatko tko traži ili poklanja besplatne predmete",
+    "access_conditions": "Besplatno, dostupno online 24/7. Registracija besplatna."
+  },
+  "r_0209": {
+    "description": "Besplatne pravne i socijalne usluge za nezaposlene osobe. Pomoć s osiguranjem za nezaposlenost, priprema prijava za posao, informatički tečajevi, administrativna podrška, porezna pomoć. Slobodan dolazak ponedjeljkom i srijedom.",
+    "target_audience": "Nezaposlene osobe ili osobe koje se suočavaju sa socijalnim i administrativnim poteškoćama",
+    "access_conditions": "Besplatno, bez narudžbe ponedjeljkom i srijedom (slobodan dolazak)"
+  },
   "tag": {
     "143": "143",
     "147": "147",

@@ -1385,5 +1385,20 @@
     "étrangers": "estrangeiros",
     "étude": "estudo",
     "étudier": "estudar"
+  },
+  "r_0207": {
+    "description": "Grupos de conversação gratuitos e sem inscrição para praticar francês num ambiente acolhedor. Conduzidos por voluntários, estes ateliers destinam-se a migrantes ou não francófonos que desejam melhorar o seu francês falado. Café e chá oferecidos.",
+    "target_audience": "Migrantes ou não francófonos que desejam praticar francês",
+    "access_conditions": "Gratuito, sem inscrição, aberto a todos. Ateliers avançados pontuais a 10 CHF."
+  },
+  "r_0208": {
+    "description": "Plataforma online de classificados para doar e procurar objetos gratuitamente na Suíça francófona. Móveis, eletrodomésticos, roupas, livros e muito mais. Associação sem fins lucrativos reconhecida de utilidade pública desde 2019.",
+    "target_audience": "Qualquer pessoa que procure ou queira doar objetos gratuitamente",
+    "access_conditions": "Gratuito, acessível online 24 horas por dia. Registo gratuito no site."
+  },
+  "r_0209": {
+    "description": "Rede de solidariedade para desempregados ou pessoas em dificuldades sociais. Serviços jurídicos e sociais gratuitos relacionados com o seguro de desemprego e seguros sociais. Ajuda na elaboração de dossiers de candidatura, formação informática, apoio administrativo e declaração de impostos. Dois atendimentos públicos gratuitos sem marcação às segundas e quartas-feiras.",
+    "target_audience": "Desempregados ou pessoas com dificuldades sociais e administrativas",
+    "access_conditions": "Gratuito, sem marcação para os atendimentos de segunda e quarta-feira"
   }
 }

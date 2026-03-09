@@ -1385,5 +1385,20 @@
     "étrangers": "ausländer",
     "étude": "studium",
     "étudier": "studieren"
+  },
+  "r_0207": {
+    "description": "Kostenlose Konversationsgruppen ohne Anmeldung zum Französisch-Üben in ungezwungener Atmosphäre. Die Workshops werden von Freiwilligen geleitet und richten sich an Migrantinnen und Migranten oder Nicht-Französischsprachige, die ihr gesprochenes Französisch verbessern möchten. Kaffee und Tee gratis.",
+    "target_audience": "Migrantinnen und Migranten oder Nicht-Französischsprachige, die Französisch üben möchten",
+    "access_conditions": "Kostenlos, ohne Anmeldung, offen für alle. Gelegentliche Fortgeschrittenen-Workshops für 10 CHF."
+  },
+  "r_0208": {
+    "description": "Online-Kleinanzeigenplattform zum kostenlosen Verschenken und Suchen von Gegenständen in der Westschweiz. Möbel, Haushaltsgeräte, Kleidung, Bücher und vieles mehr. Seit 2019 als gemeinnützig anerkannter Verein.",
+    "target_audience": "Alle, die kostenlose Gegenstände suchen oder verschenken möchten",
+    "access_conditions": "Kostenlos, rund um die Uhr online verfügbar. Kostenlose Registrierung auf der Website."
+  },
+  "r_0209": {
+    "description": "Solidaritätsnetzwerk für Arbeitslose oder Menschen in sozialen Schwierigkeiten. Kostenlose Rechts- und Sozialberatung rund um Arbeitslosenversicherung und Sozialversicherungen. Hilfe bei Bewerbungsunterlagen, Informatikschulung, administrative Unterstützung und Steuererklärung. Zwei kostenlose öffentliche Sprechstunden montags und mittwochs ohne Termin.",
+    "target_audience": "Arbeitslose oder Menschen mit sozialen und administrativen Schwierigkeiten",
+    "access_conditions": "Kostenlos, ohne Termin für die Sprechstunden am Montag und Mittwoch"
   }
 }
