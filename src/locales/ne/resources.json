@@ -730,14 +730,14 @@
     "access_conditions": "Hébergement sur demande, 10 à 20 places, durée illimitée"
   },
   "r_0147": {
-    "description": "Abri de nuit d'urgence de la Ville de Genève. Lit, repas du soir, bagagerie et accès aux douches fournis gratuitement. Durée limitée à 30 jours.",
-    "target_audience": "Personnes sans abri",
-    "access_conditions": "Appeler la centrale d'hébergement d'urgence au 0800 22 22 10 (gratuit). Durée limitée à 30 jours."
+    "description": "जिनेभा शहरको आपतकालीन रात्रि आश्रय। निःशुल्क ओछ्यान, खाजा, सामान राख्ने ठाउँ र नुहाउने सुविधा। ३० दिनसम्म सीमित। आपतकालीन आवास हटलाइन मार्फत मात्र पहुँच।",
+    "target_audience": "बेघर व्यक्तिहरू",
+    "access_conditions": "आपतकालीन हटलाइनमा फोन गर्नुहोस्: 0800 22 22 10 (निःशुल्क)। ३० दिनसम्म सीमित।"
   },
   "r_0148": {
-    "description": "Consultation médicale gratuite et confidentielle pour les personnes sans assurance maladie ou sans statut légal. Soins de première ligne, consultations médicales et infirmières, orientation vers les services spécialisés. Plus de 4500 patients par an.",
-    "target_audience": "Personnes sans assurance maladie, sans statut légal, sans domicile fixe",
-    "access_conditions": "Dès 16 ans, sans conditions de statut légal, sans assurance accepté, gratuit et confidentiel"
+    "description": "सामुदायिक चिकित्सा एकाइ (पहिले CAMSCO)। स्वास्थ्य बीमा वा कानूनी हैसियत नभएका व्यक्तिहरूका लागि निःशुल्क र गोप्य चिकित्सा परामर्श। प्राथमिक उपचार, चिकित्सक र नर्सिङ परामर्श, विशेषज्ञ सेवामा रेफरल। वार्षिक ४५०० भन्दा बढी बिरामी।",
+    "target_audience": "स्वास्थ्य बीमा नभएका, कानूनी हैसियत नभएका, बेघर व्यक्तिहरू",
+    "access_conditions": "१६ वर्षदेखि, हैसियतको शर्त छैन, बीमा बिना स्वीकार, निःशुल्क र गोप्य"
   },
   "r_0149": {
     "description": "Centre de santé communautaire LGBTIQ+ spécialisé en santé sexuelle. Dépistage VIH/IST gratuit et anonyme, traitements, vaccinations, consultations psychologiques. Service de Dialogai.",
@@ -1400,5 +1400,25 @@
     "description": "बेरोजगार वा सामाजिक कठिनाइ भोगिरहेकाहरूका लागि एकता नेटवर्क। बेरोजगारी बीमा र सामाजिक बीमासँग सम्बन्धित निःशुल्क कानूनी र सामाजिक सेवाहरू। रोजगार आवेदनमा सहयोग, कम्प्युटर तालिम, प्रशासनिक सहायता र कर रिटर्नमा मद्दत। सोमबार र बुधबार भेटघाट बिना निःशुल्क परामर्श।",
     "target_audience": "बेरोजगार वा सामाजिक र प्रशासनिक कठिनाइ भोगिरहेका व्यक्तिहरू",
     "access_conditions": "निःशुल्क, सोमबार र बुधबारको परामर्शका लागि भेटघाट आवश्यक छैन"
+  },
+  "r_0210": {
+    "description": "जिनेभामा LGBTIQ+ शरणार्थीहरूलाई सुरक्षित र सहानुभूतिपूर्ण स्वागत गर्ने संस्था। सामाजिक सहयोग, शरण प्रक्रियामा साथ र Elisa-Asile सँग साझेदारीमा कानूनी सल्लाह।",
+    "target_audience": "LGBTIQ+ शरणार्थी र शरण खोज्नेहरू",
+    "access_conditions": "निःशुल्क, भेटघाटमा वा ड्रप-इन सत्रमा"
+  },
+  "r_0211": {
+    "description": "बालबालिका र परिवारका लागि निःशुल्क खेल स्थान। बोर्ड गेम र गुणस्तरीय खेलौना सामान्य वार्षिक सदस्यतामा उधारो (२० CHF/वर्ष)। छिमेकका परिवारहरूको भेटघाट स्थल।",
+    "target_audience": "अभान्शे क्षेत्रका बालबालिका र परिवार",
+    "access_conditions": "स्थलमा खेल निःशुल्क। उधारो: २० CHF/वर्ष।"
+  },
+  "r_0212": {
+    "description": "१५ देखि २५ वर्षका युवाहरूका लागि मनोरञ्जन केन्द्र। जंगली वातावरणमा बहुउद्देश्यीय हल, सुसज्जित मञ्च, भान्सा, रेकर्डिङ स्टुडियो र पिज्जा ओभन। खुला स्वागत, कन्सर्ट, भ्रमण, सामूहिक भोजन र युवा परियोजना सहयोग।",
+    "target_audience": "१५ देखि २५ वर्षका युवा",
+    "access_conditions": "निःशुल्क, दर्ता बिना"
+  },
+  "r_0213": {
+    "description": "शातलेन-बालेक्सेरको सामुदायिक केन्द्र र रोबिन्सन बगैँचा। छिमेकका लागि भेटघाट र आदानप्रदानको आरामदायी स्थान। बालबालिका (६-१२), किशोर (१२-१८) र वयस्कहरूका लागि सांस्कृतिक र मनोरञ्जनात्मक गतिविधिहरू। जैविक बगैँचा र जनावरहरू।",
+    "target_audience": "बालबालिका (६-१२), किशोर (१२-१८), सबैका लागि कहिलेकाहीं",
+    "access_conditions": "निःशुल्क, केही गतिविधिहरूमा दर्ता आवश्यक"
   }
 }

@@ -730,14 +730,14 @@
     "access_conditions": "Alojamiento bajo solicitud, 10 a 20 plazas, duración ilimitada"
   },
   "r_0147": {
-    "description": "Refugio nocturno de emergencia de la Ville de Genève. Cama, cena, consigna y acceso a duchas proporcionados gratuitamente. Duración limitada a 30 días.",
-    "target_audience": "Personas sin techo",
-    "access_conditions": "Llamar a la central de alojamiento de emergencia al 0800 22 22 10 (gratuito). Duración limitada a 30 días."
+    "description": "Albergue nocturno de emergencia de la Ciudad de Ginebra. Cama, cena, consigna y duchas gratuitas. Limitado a 30 días. Acceso únicamente a través de la Central de alojamiento de emergencia.",
+    "target_audience": "Personas sin hogar",
+    "access_conditions": "Llamar a la central de alojamiento de emergencia: 0800 22 22 10 (gratuito). Limitado a 30 días."
   },
   "r_0148": {
-    "description": "Consulta médica gratuita y confidencial para personas sin seguro de enfermedad o sin estatus legal. Atención de primera línea, consultas médicas y de enfermería, orientación hacia los servicios especializados. Más de 4500 pacientes al año.",
-    "target_audience": "Personas sin seguro de enfermedad, sin estatus legal, sin domicilio fijo",
-    "access_conditions": "A partir de 16 años, sin condiciones de estatus legal, sin seguro aceptado, gratuito y confidencial"
+    "description": "Unidad de medicina y atención comunitaria (anteriormente CAMSCO). Consulta médica gratuita y confidencial para personas sin seguro médico o sin estatus legal. Atención primaria, consultas médicas y de enfermería, derivación a servicios especializados. Más de 4.500 pacientes al año.",
+    "target_audience": "Personas sin seguro médico, sin estatus legal, sin hogar",
+    "access_conditions": "Desde 16 años, sin condiciones de estatus legal, sin seguro aceptado, gratuito y confidencial"
   },
   "r_0149": {
     "description": "Centro de salud comunitario LGBTIQ+ especializado en salud sexual. Detección de VIH/ITS gratuita y anónima, tratamientos, vacunaciones, consultas psicológicas. Servicio de Dialogai.",
@@ -1400,5 +1400,25 @@
     "description": "Red de solidaridad para personas desempleadas o en dificultades sociales. Servicios jurídicos y sociales gratuitos sobre seguro de desempleo y seguros sociales. Ayuda para elaborar expedientes de candidatura, formación informática, apoyo administrativo y declaración de impuestos. Dos consultas públicas gratuitas sin cita los lunes y miércoles.",
     "target_audience": "Personas desempleadas o con dificultades sociales y administrativas",
     "access_conditions": "Gratuito, sin cita previa para las consultas de lunes y miércoles"
+  },
+  "r_0210": {
+    "description": "Asociación que ofrece acogida segura y solidaria a personas refugiadas LGBTIQ+ en Ginebra. Apoyo social, acompañamiento en los procedimientos de asilo y asesoría jurídica en colaboración con Elisa-Asile. Espacio comunitario y actividades grupales.",
+    "target_audience": "Personas refugiadas y solicitantes de asilo LGBTIQ+",
+    "access_conditions": "Gratuito, con cita previa o durante las permanencias"
+  },
+  "r_0211": {
+    "description": "Espacio de juegos gratuito in situ para niños y familias. Préstamo de juegos de mesa y juguetes de calidad con una suscripción anual módica (20 CHF/año). Punto de encuentro para familias del barrio. Eventos y actividades puntuales.",
+    "target_audience": "Niños y familias del barrio de Avanchets",
+    "access_conditions": "Juegos gratuitos in situ. Préstamo: 20 CHF/año."
+  },
+  "r_0212": {
+    "description": "Centro de ocio para jóvenes de 15 a 25 años en un entorno boscoso con sala polivalente, escenario equipado, cocina, estudio de grabación y horno de pizza exterior. Acogida libre, conciertos, salidas, comidas compartidas y apoyo a proyectos juveniles.",
+    "target_audience": "Jóvenes de 15 a 25 años",
+    "access_conditions": "Gratuito, sin inscripción"
+  },
+  "r_0213": {
+    "description": "Casa de barrio y Jardín Robinson de Châtelaine-Balexert. Espacio acogedor de encuentro e intercambio para el barrio. Actividades culturales y de ocio para niños (6-12), adolescentes (12-18) y adultos. Huerto ecológico y animales. Asociación gestionada por un comité de vecinos.",
+    "target_audience": "Niños (6-12), adolescentes (12-18), público general puntualmente",
+    "access_conditions": "Gratuito, inscripción necesaria para algunas actividades"
   }
 }

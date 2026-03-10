@@ -730,14 +730,14 @@
     "access_conditions": "Adapost la cerere, 10 pana la 20 de locuri, durata nelimitata"
   },
   "r_0147": {
-    "description": "Adapost de noapte de urgenta al Ville de Genève. Pat, cina, bagajerie si acces la dusuri furnizate gratuit. Durata limitata la 30 de zile.",
-    "target_audience": "Persoane fara adapost",
-    "access_conditions": "Sunati la centrala de adapost de urgenta la 0800 22 22 10 (gratuit). Durata limitata la 30 de zile."
+    "description": "Adăpost de noapte de urgență al Orașului Geneva. Pat, cină, depozitare bagaje și acces la dușuri gratuite. Limitat la 30 de zile. Acces doar prin linia telefonică de urgență.",
+    "target_audience": "Persoane fără adăpost",
+    "access_conditions": "Sunați la linia de urgență: 0800 22 22 10 (gratuit). Limitat la 30 de zile."
   },
   "r_0148": {
-    "description": "Consultatie medicala gratuita si confidentiala pentru persoanele fara asigurare de sanatate sau fara statut legal. Ingrijiri de prima linie, consultatii medicale si de asistenta medicala, orientare catre servicii specializate. Peste 4500 de pacienti pe an.",
-    "target_audience": "Persoane fara asigurare de sanatate, fara statut legal, fara adapost",
-    "access_conditions": "De la 16 ani, fara conditii de statut legal, fara asigurare acceptat, gratuit si confidential"
+    "description": "Unitate de medicină comunitară (fost CAMSCO). Consultații medicale gratuite și confidențiale pentru persoane fără asigurare medicală sau statut legal. Îngrijire primară, consultații medicale și de asistență, trimiteri către servicii specializate. Peste 4.500 de pacienți pe an.",
+    "target_audience": "Persoane fără asigurare medicală, fără statut legal, fără adăpost",
+    "access_conditions": "De la 16 ani, fără condiții de statut, fără asigurare acceptat, gratuit și confidențial"
   },
   "r_0149": {
     "description": "Centru de sanatate comunitara LGBTIQ+ specializat in sanatate sexuala. Depistare HIV/ITS gratuita si anonima, tratamente, vaccinari, consultatii psihologice. Serviciu al Dialogai.",
@@ -1400,5 +1400,25 @@
     "étrangers": "straini",
     "étude": "studiu",
     "étudier": "a studia"
+  },
+  "r_0210": {
+    "description": "Asociație care oferă primire sigură și solidară persoanelor refugiate LGBTIQ+ la Geneva. Sprijin social, asistență în procedurile de azil și consultanță juridică în parteneriat cu Elisa-Asile.",
+    "target_audience": "Persoane refugiate și solicitante de azil LGBTIQ+",
+    "access_conditions": "Gratuit, cu programare sau în timpul permanențelor"
+  },
+  "r_0211": {
+    "description": "Spațiu de jocuri gratuit pentru copii și familii. Jocuri de societate și jucării de calitate de împrumutat cu abonament anual modest (20 CHF/an). Loc de întâlnire pentru familiile din cartier.",
+    "target_audience": "Copii și familii din cartierul Avanchets",
+    "access_conditions": "Jocuri gratuite pe loc. Împrumut: 20 CHF/an."
+  },
+  "r_0212": {
+    "description": "Centru de agrement pentru tineri de 15-25 ani într-un cadru împădurit cu sală polivalentă, scenă echipată, bucătărie, studio de înregistrări și cuptor de pizza. Acces liber, concerte, excursii, mese comune și sprijin pentru proiecte ale tineretului.",
+    "target_audience": "Tineri de 15-25 ani",
+    "access_conditions": "Gratuit, fără înscriere"
+  },
+  "r_0213": {
+    "description": "Casă de cartier și Grădina Robinson din Châtelaine-Balexert. Spațiu prietenos de întâlnire și schimb pentru cartier. Activități culturale și de agrement pentru copii (6-12), adolescenți (12-18) și adulți. Grădină ecologică și animale.",
+    "target_audience": "Copii (6-12), adolescenți (12-18), public general ocazional",
+    "access_conditions": "Gratuit, înscriere necesară pentru unele activități"
   }
 }

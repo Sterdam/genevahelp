@@ -730,14 +730,14 @@
     "access_conditions": "Smestaj na zahtev, 10 do 20 mesta, neograniceno trajanje"
   },
   "r_0147": {
-    "description": "Hitno nocno skloniste Grada Zeneve. Krevet, vecera, garderoba i pristup tusevima besplatno. Trajanje ograniceno na 30 dana.",
-    "target_audience": "Osobe bez krova",
-    "access_conditions": "Pozvati centralu za hitni smestaj na 0800 22 22 10 (besplatno). Trajanje ograniceno na 30 dana."
+    "description": "Ноћно склониште за хитне случајеве Града Женеве. Бесплатан кревет, вечера, гардероба и приступ туширању. Ограничено на 30 дана. Приступ само преко хитне телефонске линије.",
+    "target_audience": "Бескућници",
+    "access_conditions": "Позовите хитну линију: 0800 22 22 10 (бесплатно). Ограничено на 30 дана."
   },
   "r_0148": {
-    "description": "Besplatan i poverljiv medicinski pregled za osobe bez zdravstvenog osiguranja ili bez legalnog statusa. Primarna medicinska nega, medicinske i sestrinske konsultacije, upucivanje na specijalizovane sluzbe. Vise od 4500 pacijenata godisnje.",
-    "target_audience": "Osobe bez zdravstvenog osiguranja, bez legalnog statusa, bez stalnog prebivalista",
-    "access_conditions": "Od 16 godina, bez uslova legalnog statusa, bez osiguranja prihvatljivo, besplatno i poverljivo"
+    "description": "Јединица за јавно здравље (раније CAMSCO). Бесплатне и поверљиве медицинске консултације за особе без здравственог осигурања или правног статуса. Примарна здравствена заштита, лекарске и сестринске консултације, упућивање специјалистима. Преко 4500 пацијената годишње.",
+    "target_audience": "Особе без здравственог осигурања, без правног статуса, бескућници",
+    "access_conditions": "Од 16 година, без услова статуса, без осигурања се примају, бесплатно и поверљиво"
   },
   "r_0149": {
     "description": "LGBTIQ+ zajednicki zdravstveni centar specijalizovan za seksualno zdravlje. Besplatno i anonimno testiranje na HIV/PPI, lecenje, vakcinacije, psiholoske konsultacije. Sluzba Dialogai.",
@@ -1400,5 +1400,25 @@
     "étrangers": "stranci",
     "étude": "ucenje",
     "étudier": "studiranje"
+  },
+  "r_0210": {
+    "description": "Удружење које пружа сигуран и солидаран пријем ЛГБТИК+ избеглицама у Женеви. Социјална подршка, праћење у поступцима азила и правно саветовање у партнерству са Elisa-Asile.",
+    "target_audience": "ЛГБТИК+ избеглице и тражиоци азила",
+    "access_conditions": "Бесплатно, уз договор или током дежурстава"
+  },
+  "r_0211": {
+    "description": "Бесплатан простор за игре за децу и породице. Друштвене игре и квалитетне играчке за изнајмљивање уз годишњу претплату (20 CHF/год). Место окупљања за породице из краја.",
+    "target_audience": "Деца и породице из краја Аванше",
+    "access_conditions": "Игре на лицу места бесплатно. Изнајмљивање: 20 CHF/год."
+  },
+  "r_0212": {
+    "description": "Центар за слободно време за младе од 15 до 25 година у шумовитом окружењу са вишенаменском дворaном, опремљеном позорницом, кухињом, студијом за снимање и пећи за пицу. Слободан улаз, концерти, излети, заједнички оброци и подршка за пројекте младих.",
+    "target_audience": "Млади од 15 до 25 година",
+    "access_conditions": "Бесплатно, без пријаве"
+  },
+  "r_0213": {
+    "description": "Друштвени дом и Робинзонов врт у Шатлен-Балексер. Пријатан простор за дружење и размену у крају. Културне и рекреативне активности за децу (6-12), тинејџере (12-18) и одрасле. Еколошки врт и животиње.",
+    "target_audience": "Деца (6-12), тинејџери (12-18), сви повремено",
+    "access_conditions": "Бесплатно, за неке активности потребна пријава"
   }
 }

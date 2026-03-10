@@ -730,14 +730,14 @@
     "access_conditions": "Smještaj na zahtjev, 10 do 20 mjesta, neograničeno trajanje"
   },
   "r_0147": {
-    "description": "Hitno noćno sklonište Grada Geneve. Krevet, večera, garderoba i pristup tuševima besplatno. Trajanje ograničeno na 30 dana.",
+    "description": "Noćno sklonište za hitne slučajeve Grada Ženeve. Besplatan krevet, večera, garderoba i pristup tuševima. Ograničeno na 30 dana. Pristup samo putem hitne telefonske linije.",
     "target_audience": "Beskućnici",
-    "access_conditions": "Nazvati centralu za hitni smještaj na 0800 22 22 10 (besplatno). Trajanje ograničeno na 30 dana."
+    "access_conditions": "Nazovite hitnu liniju: 0800 22 22 10 (besplatno). Ograničeno na 30 dana."
   },
   "r_0148": {
-    "description": "Besplatni i povjerljivi liječnički pregledi za osobe bez zdravstvenog osiguranja ili bez legalnog statusa. Primarna zdravstvena zaštita, liječnički i sestrinski pregledi, usmjeravanje prema specijaliziranim službama. Više od 4500 pacijenata godišnje.",
-    "target_audience": "Osobe bez zdravstvenog osiguranja, bez legalnog statusa, beskućnici",
-    "access_conditions": "Od 16 godina, bez uvjeta legalnog statusa, bez osiguranja prihvaćeno, besplatno i povjerljivo"
+    "description": "Jedinica za javno zdravlje (ranije CAMSCO). Besplatne i povjerljive medicinske konzultacije za osobe bez zdravstvenog osiguranja ili pravnog statusa. Primarna zdravstvena zaštita, liječničke i sestrinske konzultacije, upućivanje specijalistima. Više od 4500 pacijenata godišnje.",
+    "target_audience": "Osobe bez zdravstvenog osiguranja, bez pravnog statusa, beskućnici",
+    "access_conditions": "Od 16 godina, bez uvjeta statusa, bez osiguranja se prihvaćaju, besplatno i povjerljivo"
   },
   "r_0149": {
     "description": "Zajednički LGBTIQ+ zdravstveni centar specijaliziran za seksualno zdravlje. Besplatno i anonimno testiranje na HIV/SPB, liječenje, cijepljenje, psihološka savjetovanja. Služba udruge Dialogai.",
@@ -1400,5 +1400,25 @@
     "étrangers": "stranci",
     "étude": "studij",
     "étudier": "učiti"
+  },
+  "r_0210": {
+    "description": "Udruga koja pruža siguran i solidaran prihvat LGBTIQ+ izbjeglicama u Ženevi. Socijalna podrška, pratnja u postupcima azila i pravno savjetovanje u partnerstvu s Elisa-Asile.",
+    "target_audience": "LGBTIQ+ izbjeglice i tražitelji azila",
+    "access_conditions": "Besplatno, uz dogovor ili tijekom dežurstava"
+  },
+  "r_0211": {
+    "description": "Besplatan prostor za igre za djecu i obitelji. Društvene igre i kvalitetne igračke za posudbu uz simboličnu godišnju pretplatu (20 CHF/god). Mjesto okupljanja za obitelji iz kvarta.",
+    "target_audience": "Djeca i obitelji iz kvarta Avanchets",
+    "access_conditions": "Igre na licu mjesta besplatno. Posudba: 20 CHF/god."
+  },
+  "r_0212": {
+    "description": "Centar za slobodno vrijeme za mlade od 15 do 25 godina u šumovitom okruženju s višenamjenskom dvoranom, opremljenom pozornicom, kuhinjom, studijom za snimanje i peći za pizzu. Slobodan ulaz, koncerti, izleti, zajednički obroci i podrška za projekte mladih.",
+    "target_audience": "Mladi od 15 do 25 godina",
+    "access_conditions": "Besplatno, bez prijave"
+  },
+  "r_0213": {
+    "description": "Društveni dom i Robinzonov vrt u Châtelaine-Balexert. Ugodan prostor za druženje i razmjenu u kvartu. Kulturne i rekreativne aktivnosti za djecu (6-12), tinejdžere (12-18) i odrasle. Ekološki vrt i životinje.",
+    "target_audience": "Djeca (6-12), tinejdžeri (12-18), svi povremeno",
+    "access_conditions": "Besplatno, za neke aktivnosti potrebna prijava"
   }
 }

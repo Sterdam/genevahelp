@@ -730,14 +730,14 @@
     "access_conditions": "Alloggio su richiesta, da 10 a 20 posti, durata illimitata"
   },
   "r_0147": {
-    "description": "Dormitorio d'emergenza della Città di Ginevra. Letto, cena, deposito bagagli e accesso alle docce forniti gratuitamente. Durata limitata a 30 giorni.",
+    "description": "Rifugio notturno d'emergenza della Città di Ginevra. Letto, cena, deposito bagagli e accesso alle docce gratuiti. Limitato a 30 giorni. Accesso solo tramite la Centrale di alloggio d'emergenza.",
     "target_audience": "Persone senza fissa dimora",
-    "access_conditions": "Chiamare la centrale di alloggio d'emergenza allo 0800 22 22 10 (gratuito). Durata limitata a 30 giorni."
+    "access_conditions": "Chiamare la centrale di alloggio d'emergenza: 0800 22 22 10 (gratuito). Limitato a 30 giorni."
   },
   "r_0148": {
-    "description": "Consulenza medica gratuita e confidenziale per le persone senza assicurazione malattia o senza status legale. Cure di primo livello, consulenze mediche e infermieristiche, orientamento verso i servizi specializzati. Più di 4500 pazienti all'anno.",
-    "target_audience": "Persone senza assicurazione malattia, senza status legale, senza fissa dimora",
-    "access_conditions": "Dai 16 anni, senza condizioni di status legale, senza assicurazione accettato, gratuito e confidenziale"
+    "description": "Unità di medicina e cure nella comunità (ex CAMSCO). Consulenza medica gratuita e riservata per persone senza assicurazione malattia o senza statuto legale. Cure di base, consulti medici e infermieristici, indirizzamento ai servizi specializzati. Oltre 4.500 pazienti all'anno.",
+    "target_audience": "Persone senza assicurazione malattia, senza statuto legale, senza fissa dimora",
+    "access_conditions": "Dai 16 anni, senza condizioni di statuto legale, senza assicurazione accettato, gratuito e riservato"
   },
   "r_0149": {
     "description": "Centro sanitario comunitario LGBTIQ+ specializzato in salute sessuale. Screening HIV/IST gratuito e anonimo, trattamenti, vaccinazioni, consulenze psicologiche. Servizio di Dialogai.",
@@ -1400,5 +1400,25 @@
     "description": "Rete di solidarietà per disoccupati o persone in difficoltà sociale. Servizi giuridici e sociali gratuiti relativi all'assicurazione contro la disoccupazione e alle assicurazioni sociali. Aiuto nella preparazione di dossier di candidatura, formazione informatica, supporto amministrativo e dichiarazione dei redditi. Due sportelli pubblici gratuiti senza appuntamento il lunedì e il mercoledì.",
     "target_audience": "Disoccupati o persone con difficoltà sociali e amministrative",
     "access_conditions": "Gratuito, senza appuntamento per gli sportelli del lunedì e mercoledì"
+  },
+  "r_0210": {
+    "description": "Associazione che offre accoglienza sicura e solidale alle persone rifugiate LGBTIQ+ a Ginevra. Supporto sociale, accompagnamento nelle procedure d'asilo e consulenza giuridica in collaborazione con Elisa-Asile. Spazio comunitario e attività di gruppo.",
+    "target_audience": "Persone rifugiate e richiedenti asilo LGBTIQ+",
+    "access_conditions": "Gratuito, su appuntamento o durante gli sportelli"
+  },
+  "r_0211": {
+    "description": "Spazio giochi gratuito in loco per bambini e famiglie. Prestito di giochi da tavolo e giocattoli di qualità con abbonamento annuale modico (20 CHF/anno). Luogo di incontro per famiglie del quartiere. Eventi e animazioni occasionali.",
+    "target_audience": "Bambini e famiglie del quartiere degli Avanchets",
+    "access_conditions": "Giochi gratuiti in loco. Prestito: 20 CHF/anno."
+  },
+  "r_0212": {
+    "description": "Centro ricreativo per giovani dai 15 ai 25 anni in un'area boschiva con sala polivalente, palco attrezzato, cucina, studio di registrazione e forno per pizza all'aperto. Accoglienza libera, concerti, uscite, pasti condivisi e sostegno a progetti giovanili.",
+    "target_audience": "Giovani dai 15 ai 25 anni",
+    "access_conditions": "Gratuito, senza iscrizione"
+  },
+  "r_0213": {
+    "description": "Casa di quartiere e Giardino Robinson di Châtelaine-Balexert. Spazio accogliente di incontro e scambio per il quartiere. Attività culturali e ricreative per bambini (6-12), adolescenti (12-18) e adulti. Orto biologico e animali. Associazione gestita da un comitato di abitanti.",
+    "target_audience": "Bambini (6-12), adolescenti (12-18), pubblico generale occasionalmente",
+    "access_conditions": "Gratuito, iscrizione necessaria per alcune attività"
   }
 }

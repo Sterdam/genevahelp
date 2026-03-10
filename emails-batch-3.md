@@ -177,3 +177,128 @@ Merci pour votre retour !
 
 Cordialement,
 L'equipe GenevaHelp
+
+---
+---
+
+# Batch 4 — 4 acceptees + 2 rejetees + 2 modifications + 2 en attente (10/03/2026)
+
+## Acceptees
+
+### Asile LGBTIQ+
+**A :** info@asile-lgbt.ch (suggestion par Varnika Goel, utilisatrice)
+**Objet :** Votre suggestion sur GenevaHelp — Asile LGBTIQ+
+
+Bonjour,
+
+Merci pour votre suggestion d'Asile LGBTIQ+ sur GenevaHelp !
+
+L'association a ete ajoutee a notre carte avec les informations verifiees : accueil et soutien aux personnes refugiees LGBTIQ+, aide juridique en partenariat avec Elisa-Asile, espace communautaire. Une ressource essentielle pour les demandeurs d'asile LGBTIQ+ a Geneve.
+
+Merci pour votre contribution !
+
+Cordialement,
+L'equipe GenevaHelp
+
+---
+
+### Ludotheque des Avanchets
+**A :** (email soumis non valide)
+**Suggestion par :** Elsa (utilisatrice)
+**Objet :** Votre suggestion sur GenevaHelp — Ludotheque des Avanchets
+
+La ludotheque a ete ajoutee a notre carte : jeux gratuits sur place, pret de jeux a 20 CHF/an, lieu de rencontre pour les familles du quartier.
+
+---
+
+### Association ABARC
+**A :** as.abarc@fase.ch
+**Objet :** Votre suggestion sur GenevaHelp — Association ABARC
+
+Bonjour,
+
+Merci pour votre suggestion de l'Association ABARC sur GenevaHelp !
+
+Le centre de loisirs a ete ajoute a notre carte avec les informations verifiees : accueil libre et gratuit pour les 15-25 ans, espace boise avec salle polyvalente, studio d'enregistrement et four a pizza. Horaires : mercredi 14h-21h et samedi 14h-19h.
+
+Merci pour votre contribution !
+
+Cordialement,
+L'equipe GenevaHelp
+
+---
+
+### MQJR ChaBal
+**A :** mqjr.chabal@fase.ch
+**Objet :** Votre suggestion sur GenevaHelp — MQJR ChaBal
+
+Bonjour,
+
+Merci pour votre suggestion de la MQJR ChaBal sur GenevaHelp !
+
+La maison de quartier et le Jardin Robinson ont ete ajoutes a notre carte avec les informations verifiees : activites pour enfants (6-12 ans), adolescents (12-18 ans) et tout public, potager bio et animaux. Horaires complets indiques.
+
+Merci pour votre contribution !
+
+Cordialement,
+L'equipe GenevaHelp
+
+---
+
+## Modifications appliquees
+
+### UMSCOM (ex-CAMSCO)
+**A :** (suggestion par Benjamin Dixon, 079 553 69 66)
+**Note :** CAMSCO a ete renomme en UMSCOM sur notre carte, le lien web mis a jour. Merci pour l'info !
+
+---
+
+### Abri PC Richemont
+**A :** marie-laure.schaerer@geneve.ch
+**Objet :** Votre demande de modification sur GenevaHelp — Abri PC Richemont
+
+Bonjour Marie-Laure,
+
+Merci pour votre message concernant l'Abri PC Richemont sur GenevaHelp.
+
+La modification a ete appliquee : le numero direct et l'adresse specifique de l'abri ont ete retires. Seul le numero de la Centrale telephonique d'urgence 0800 22 22 10 est desormais indique comme porte d'entree unique.
+
+Concernant Bel Esperance, cette entite n'etait pas referencee sur notre carte. Si vous souhaitez qu'elle y figure (avec uniquement le 0800 22 22 10), n'hesitez pas a nous le signaler.
+
+Cordialement,
+L'equipe GenevaHelp
+
+---
+
+## Rejetees
+
+### Le Cerf-Volant
+**A :** (suggestion par silvia@mondopiccolo.net)
+**Raison du rejet :** Doublon — Le Cerf-Volant est deja reference sur GenevaHelp (r_0205).
+
+---
+
+### Armee du Salut Brocki Le Lignon
+**A :** elsa.thelin@gmail.com
+**Objet :** Votre suggestion sur GenevaHelp — Armee du Salut Brocki
+
+Bonjour Elsa,
+
+Merci pour votre suggestion du Brocki de l'Armee du Salut au Lignon sur GenevaHelp.
+
+Apres verification, il s'agit d'un magasin de seconde main ou les articles sont vendus (meme a bas prix). GenevaHelp recense les ressources gratuites ou a contribution libre. Les magasins de vente, meme solidaires, ne correspondent pas au perimetre de notre carte.
+
+Merci neanmoins pour votre suggestion !
+
+Cordialement,
+L'equipe GenevaHelp
+
+---
+
+## En attente de verification
+
+### Swiss Pallia Confort
+(email deja prepare dans le batch precedent — en attente de reponse)
+
+### Chat de Bla — Gouter conte
+**Note :** Gratuité non confirmee sur le site. Activite tres niche (conte 1x/mois). A verifier.

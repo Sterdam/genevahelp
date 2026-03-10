@@ -730,14 +730,14 @@
     "access_conditions": "Malazi kwa ombi, nafasi 10-20, muda usio na kikomo"
   },
   "r_0147": {
-    "description": "Kimbilio la usiku la dharura la Mji wa Geneva. Kitanda, chakula cha jioni, uhifadhi wa mzigo na kuoga hutolewa bure. Muda wa siku 30.",
+    "description": "Makazi ya usiku ya dharura ya Jiji la Geneva. Kitanda, chakula cha jioni, uhifadhi wa mizigo na kuoga bure. Kikomo cha siku 30. Kuingia tu kupitia simu ya dharura ya makazi.",
     "target_audience": "Watu wasio na makazi",
-    "access_conditions": "Piga kituo cha malazi ya dharura 0800 22 22 10 (bure). Muda wa siku 30."
+    "access_conditions": "Piga simu ya dharura: 0800 22 22 10 (bure). Kikomo cha siku 30."
   },
   "r_0148": {
-    "description": "Mashauriano ya matibabu ya bure na ya siri kwa watu wasio na bima ya afya au hali ya kisheria. Matibabu ya awali, mashauriano ya matibabu na uuguzi, mwelekeo kwa huduma maalum. Zaidi ya wagonjwa 4500 kwa mwaka.",
-    "target_audience": "Watu wasio na bima ya afya, wasio na hali ya kisheria, wasio na makazi",
-    "access_conditions": "Kuanzia miaka 16, bila masharti ya hali ya kisheria, bila bima inakubaliwa, bure na siri"
+    "description": "Kitengo cha afya ya jamii (zamani CAMSCO). Ushauri wa matibabu bure na wa siri kwa watu wasio na bima ya afya au hadhi ya kisheria. Huduma za msingi, mashauriano ya daktari na muuguzi, rufaa kwa huduma maalum. Wagonjwa zaidi ya 4500 kwa mwaka.",
+    "target_audience": "Watu wasio na bima ya afya, hadhi ya kisheria, makazi",
+    "access_conditions": "Kuanzia miaka 16, bila masharti ya hadhi, bila bima wanakubaliwa, bure na siri"
   },
   "r_0149": {
     "description": "Kituo cha afya ya jamii ya LGBTIQ+ maalum katika afya ya ngono. Uchunguzi wa bure na bila kutambulishwa wa VVU/magonjwa ya ngono, matibabu, chanjo, mashauriano ya kisaikolojia. Huduma ya Dialogai.",
@@ -1400,5 +1400,25 @@
     "description": "Mtandao wa mshikamano kwa wasio na ajira au wanaokabiliwa na ugumu wa kijamii. Huduma za bure za kisheria na kijamii kuhusu bima ya ukosefu wa ajira na bima za kijamii. Msaada wa maombi ya kazi, mafunzo ya kompyuta, msaada wa kiutawala na usaidizi wa kodi. Mashauriano mawili ya bure bila miadi Jumatatu na Jumatano.",
     "target_audience": "Wasio na ajira au wanaokabiliwa na ugumu wa kijamii na kiutawala",
     "access_conditions": "Bure, bila miadi kwa mashauriano ya Jumatatu na Jumatano"
+  },
+  "r_0210": {
+    "description": "Chama kinachotoa mapokezi salama na ya huruma kwa wakimbizi wa LGBTIQ+ Geneva. Msaada wa kijamii, usindikizaji katika taratibu za hifadhi na ushauri wa kisheria kwa ushirikiano na Elisa-Asile.",
+    "target_audience": "Wakimbizi na waomba hifadhi wa LGBTIQ+",
+    "access_conditions": "Bure, kwa miadi au wakati wa mapokezi"
+  },
+  "r_0211": {
+    "description": "Eneo la michezo bure kwa watoto na familia. Michezo ya bodi na vinyago vya ubora vinavyoazimwa kwa ada ndogo ya kila mwaka (CHF 20/mwaka). Mahali pa kukutana kwa familia za mtaa.",
+    "target_audience": "Watoto na familia za mtaa wa Avanchets",
+    "access_conditions": "Michezo mahali bure. Kuazima: CHF 20/mwaka."
+  },
+  "r_0212": {
+    "description": "Kituo cha burudani kwa vijana wenye umri wa miaka 15-25 katika mazingira ya misitu yenye ukumbi wa matumizi mengi, jukwaa, jiko, studio ya kurekodi na tanuri ya pizza. Mapokezi huru, tamasha, matembezi, milo ya pamoja na msaada wa miradi ya vijana.",
+    "target_audience": "Vijana wenye umri wa miaka 15-25",
+    "access_conditions": "Bure, bila usajili"
+  },
+  "r_0213": {
+    "description": "Nyumba ya mtaa na Bustani ya Robinson ya Châtelaine-Balexert. Eneo la urafiki la kukutana na kubadilishana kwa mtaa. Shughuli za kitamaduni na burudani kwa watoto (6-12), vijana (12-18) na watu wazima. Bustani ya kikaboni na wanyama.",
+    "target_audience": "Watoto (6-12), vijana (12-18), umma kwa ujumla mara kwa mara",
+    "access_conditions": "Bure, usajili unahitajika kwa shughuli fulani"
   }
 }

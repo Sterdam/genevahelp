@@ -1400,5 +1400,25 @@
     "description": "İşsizler veya sosyal zorluklar yaşayanlar için dayanışma ağı. İşsizlik sigortası ve sosyal sigortalarla ilgili ücretsiz hukuki ve sosyal hizmetler. İş başvuru dosyası hazırlama, bilgisayar eğitimi, idari destek ve vergi beyannamesi yardımı. Pazartesi ve çarşamba günleri randevusuz ücretsiz danışmanlık.",
     "target_audience": "İşsizler veya sosyal ve idari zorluklar yaşayan kişiler",
     "access_conditions": "Ücretsiz, pazartesi ve çarşamba danışmanlıkları için randevu gerekmez"
+  },
+  "r_0210": {
+    "description": "Asile LGBTIQ+ — Cenevre'deki LGBTİQ+ mülteciler ve sığınmacılar için ücretsiz hukuki yardım ve destek. Elisa-Asile ortaklığıyla.",
+    "target_audience": "LGBTİQ+ mülteciler ve sığınmacılar",
+    "access_conditions": "Ücretsiz. Randevu için derneğe başvurunuz."
+  },
+  "r_0211": {
+    "description": "Ludothèque des Avanchets — Çocuklar ve aileler için ücretsiz oyun alanı. Kutu oyunu ödünç alma yıllık 20 CHF. Topluluk buluşma yeri.",
+    "target_audience": "Avanchets mahallesindeki çocuklar ve aileler",
+    "access_conditions": "Yerinde oynamak ücretsiz. Ödünç aboneliği yıllık 20 CHF."
+  },
+  "r_0212": {
+    "description": "ABARC — 15-25 yaş arası için ücretsiz gençlik merkezi. Ağaçlık alan, sahne, mutfak, kayıt stüdyosu, pizza fırını. Serbest giriş, konserler, geziler.",
+    "target_audience": "15-25 yaş arası gençler",
+    "access_conditions": "Ücretsiz. Kayıt gerekmeden serbest giriş."
+  },
+  "r_0213": {
+    "description": "MQJR ChâBal — Topluluk merkezi ve Robinson Bahçesi. 6-12 yaş çocuklar ve 12-18 yaş gençler için etkinlikler. Organik bahçe ve hayvanlar. Bazı etkinlikler için kayıtla ücretsiz.",
+    "target_audience": "6-12 yaş çocuklar, 12-18 yaş gençler",
+    "access_conditions": "Ücretsiz. Bazı etkinlikler için kayıt gereklidir."
   }
 }

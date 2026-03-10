@@ -730,14 +730,14 @@
     "access_conditions": "Bicihkirin bi daxwazê, 10 heta 20 cih, dema bê sînor"
   },
   "r_0147": {
-    "description": "Stargeha şevê ya acîl a Bajarê Genève. Nivîn, şîva êvarê, cihê heqîban û gihîştina serşokan belaş têne pêşkêşkirin. Dema sînorkirî ya 30 rojan.",
+    "description": "Stargeha şevê ya acîl a Bajarê Cenewayê. Nivîn, şîv, cihê bagajan û serşok bi belaş. 30 roj bi sînor e. Têketinê tenê bi hêla xeta telefonê ya acîl.",
     "target_audience": "Kesên bê mal",
-    "access_conditions": "Bi navenda bicihkirina acîl re li 0800 22 22 10 (belaş) têkilî bikin. Dema sînorkirî ya 30 rojan."
+    "access_conditions": "Li xeta acîl telefon bikin: 0800 22 22 10 (belaş). 30 roj bi sînor."
   },
   "r_0148": {
-    "description": "Muayeneya bijîşkî ya belaş û nepenî ji bo kesên bê bîmeya nexweşiyê an bê statûya qanûnî. Lênihêrîna yekem, muayeneyên bijîşkî û hemşîreyê, rêbername ber bi xizmetên pispor. Ji 4500 nexweşan zêdetir di salê de.",
-    "target_audience": "Kesên bê bîmeya nexweşiyê, bê statûya qanûnî, bê mal",
-    "access_conditions": "Ji 16 salî, bê şertê statûya qanûnî, bê bîme tê qebûlkirin, belaş û nepenî"
+    "description": "Yekîneya bijîjkiya civakî (berê CAMSCO). Şêwirmendiya bijîjkî ya belaş û nepenî ji bo kesên bê sîgorteya tendirûstiyê an bê rewşa qanûnî. Lênêrîna destpêkê, şêwirmendiya bijîjk û hemşîre, şandin bo xizmetên pispor. Di salê de zêdetirî 4500 nexweş.",
+    "target_audience": "Kesên bê sîgorteya tendirûstiyê, bê rewşa qanûnî, bê mal",
+    "access_conditions": "Ji 16 saliyê, bê şertên rewşê, bê sîgorte tên pejirandin, belaş û nepenî"
   },
   "r_0149": {
     "description": "Navenda tenduristiya civakî ya LGBTIQ+ ya pispor di tenduristiya zayendî de. Testkirina HIV/IST ya belaş û nenas, dermankirina, vakslêdan, muayeneyên derûnî. Xizmeta Dialogai.",
@@ -1400,5 +1400,25 @@
     "description": "Tora hevgirtinê ji bo bêkaran an kesên ku dijwariyên civakî bijîn. Xizmetên dadrêsî û civakî yên belaş ên têkildarî sîgorteya bêkariyê û sîgorteyên civakî. Alîkarî di amadekirina dosyayên kar de, perwerdeya kompîturê, piştgiriya îdarî û alîkariya baca. Du rûniştinên giştî yên belaş bêyî randevû roja Duşemê û Çarşemê.",
     "target_audience": "Bêkar an kesên ku bi dijwariyên civakî û îdarî re rû bi rû ne",
     "access_conditions": "Belaş, ji bo rûniştinên Duşemê û Çarşemê randevû ne pêwîst e"
+  },
+  "r_0210": {
+    "description": "Komeleya ku li Cenewayê pêşwaziya ewle û dilşewat li penaberên LGBTIQ+ dike. Piştgiriya civakî, hevaltiya di prosedûrên penaberiyê de û şêwirmendiya hiqûqî bi hevkariya Elisa-Asile.",
+    "target_audience": "Penaberên LGBTIQ+ û daxwazkarên penaberiyê",
+    "access_conditions": "Belaş, bi randevû an di demên pêşwaziyê de"
+  },
+  "r_0211": {
+    "description": "Cihê lîstikê yê belaş ji bo zarok û malbatan. Lîstikên masê û lîstikên bi kalîte bi aboneyeke salane (20 CHF/sal) tên deyn kirin. Cihê hevdîtina malbatên taxê.",
+    "target_audience": "Zarok û malbatên taxa Avanchets",
+    "access_conditions": "Lîstikên li cihê belaş. Deynkirin: 20 CHF/sal."
+  },
+  "r_0212": {
+    "description": "Navenda şahiyê ji bo ciwanên 15-25 salî di daristanekê de bi salona pir-armanc, dikana amade, metbex, stûdyoya tomarkirinê û firna pîza. Pêşwaziya azad, konser, geşt, xwarina hevpar û piştgiriya projeyên ciwanan.",
+    "target_audience": "Ciwanên 15-25 salî",
+    "access_conditions": "Belaş, bêyî qeydkirin"
+  },
+  "r_0213": {
+    "description": "Mala taxê û Baxçeyê Robinson ya Châtelaine-Balexert. Cihek germ ji bo hevdîtin û pevguhertinê di taxê de. Çalakiyên çandî û şahiyê ji bo zarokan (6-12), ciwanan (12-18) û mezinan. Baxçeyê organîk û ajalên.",
+    "target_audience": "Zarok (6-12), ciwan (12-18), her kes carinan",
+    "access_conditions": "Belaş, ji bo hin çalakiyan qeydkirin pêwîst e"
   }
 }

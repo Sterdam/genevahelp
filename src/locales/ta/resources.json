@@ -730,14 +730,14 @@
     "access_conditions": "Hébergement sur demande, 10 à 20 places, durée illimitée"
   },
   "r_0147": {
-    "description": "Abri de nuit d'urgence de la Ville de Genève. Lit, repas du soir, bagagerie et accès aux douches fournis gratuitement. Durée limitée à 30 jours.",
-    "target_audience": "Personnes sans abri",
-    "access_conditions": "Appeler la centrale d'hébergement d'urgence au 0800 22 22 10 (gratuit). Durée limitée à 30 jours."
+    "description": "ஜெனீவா நகரின் அவசர இரவு தங்குமிடம். இலவச படுக்கை, இரவு உணவு, பொருள் பாதுகாப்பு மற்றும் குளியல் வசதி. 30 நாட்கள் வரையறை. அவசர தங்குமிட ஹாட்லைன் மூலம் மட்டுமே அணுகல்.",
+    "target_audience": "வீடற்றவர்கள்",
+    "access_conditions": "அவசர ஹாட்லைன் அழைக்கவும்: 0800 22 22 10 (இலவசம்). 30 நாட்கள் வரையறை."
   },
   "r_0148": {
-    "description": "Consultation médicale gratuite et confidentielle pour les personnes sans assurance maladie ou sans statut légal. Soins de première ligne, consultations médicales et infirmières, orientation vers les services spécialisés. Plus de 4500 patients par an.",
-    "target_audience": "Personnes sans assurance maladie, sans statut légal, sans domicile fixe",
-    "access_conditions": "Dès 16 ans, sans conditions de statut légal, sans assurance accepté, gratuit et confidentiel"
+    "description": "சமூக மருத்துவ பராமரிப்பு பிரிவு (முன்னர் CAMSCO). சுகாதார காப்பீடு அல்லது சட்டப்பூர்வ நிலை இல்லாதவர்களுக்கு இலவச மற்றும் ரகசிய மருத்துவ ஆலோசனை. ஆரம்ப சுகாதாரம், மருத்துவர் மற்றும் செவிலியர் ஆலோசனை, நிபுணர் சேவைகளுக்கு பரிந்துரை. ஆண்டுக்கு 4500க்கும் மேற்பட்ட நோயாளிகள்.",
+    "target_audience": "சுகாதார காப்பீடு இல்லாதவர்கள், சட்டப்பூர்வ நிலை இல்லாதவர்கள், வீடற்றவர்கள்",
+    "access_conditions": "16 வயதிலிருந்து, நிலை நிபந்தனை இல்லை, காப்பீடு இல்லாமல் ஏற்றுக்கொள்ளப்படுவர், இலவசம் மற்றும் ரகசியம்"
   },
   "r_0149": {
     "description": "Centre de santé communautaire LGBTIQ+ spécialisé en santé sexuelle. Dépistage VIH/IST gratuit et anonyme, traitements, vaccinations, consultations psychologiques. Service de Dialogai.",
@@ -1400,5 +1400,25 @@
     "description": "வேலையின்மை அல்லது சமூக சிரமங்களை எதிர்கொள்பவர்களுக்கான ஒற்றுமை வலையமைப்பு. வேலையின்மை காப்பீடு மற்றும் சமூக காப்பீடு தொடர்பான இலவச சட்ட மற்றும் சமூக சேவைகள். வேலை விண்ணப்பங்களுக்கு உதவி, கணினி பயிற்சி, நிர்வாக ஆதரவு மற்றும் வரி தாக்கல் உதவி. திங்கள் மற்றும் புதன் கிழமைகளில் சந்திப்பு இல்லாமல் இலவச ஆலோசனை.",
     "target_audience": "வேலையற்றோர் அல்லது சமூக மற்றும் நிர்வாக சிரமங்களை எதிர்கொள்பவர்கள்",
     "access_conditions": "இலவசம், திங்கள் மற்றும் புதன் ஆலோசனைக்கு சந்திப்பு தேவையில்லை"
+  },
+  "r_0210": {
+    "description": "ஜெனீவாவில் LGBTIQ+ அகதிகளுக்கு பாதுகாப்பான மற்றும் அன்பான வரவேற்பு அளிக்கும் சங்கம். சமூக ஆதரவு, தஞ்சம் நடைமுறைகளில் உதவி மற்றும் Elisa-Asile உடன் கூட்டு சட்ட ஆலோசனை.",
+    "target_audience": "LGBTIQ+ அகதிகள் மற்றும் தஞ்சம் கோருபவர்கள்",
+    "access_conditions": "இலவசம், சந்திப்பு அல்லது நிலையான நேரங்களில் வருகை"
+  },
+  "r_0211": {
+    "description": "குழந்தைகள் மற்றும் குடும்பங்களுக்கான இலவச விளையாட்டு இடம். போர்டு விளையாட்டுகள் மற்றும் தரமான பொம்மைகள் சிறிய ஆண்டு சந்தா மூலம் கடன் பெறலாம் (20 CHF/ஆண்டு). பகுதி குடும்பங்களின் சந்திப்பு இடம்.",
+    "target_audience": "அவாஞ்செ பகுதி குழந்தைகள் மற்றும் குடும்பங்கள்",
+    "access_conditions": "இடத்தில் விளையாட்டுகள் இலவசம். கடன்: 20 CHF/ஆண்டு."
+  },
+  "r_0212": {
+    "description": "15 முதல் 25 வயது இளைஞர்களுக்கான பொழுதுபோக்கு மையம். காடு சூழலில் பல்நோக்கு அரங்கம், மேடை, சமையலறை, ஒலிப்பதிவு அறை மற்றும் பீட்சா அடுப்பு. திறந்த வரவேற்பு, கச்சேரிகள், வெளியிட பயணங்கள், பகிர்ந்து உணவு மற்றும் இளைஞர் திட்ட ஆதரவு.",
+    "target_audience": "15 முதல் 25 வயது இளைஞர்கள்",
+    "access_conditions": "இலவசம், பதிவு தேவையில்லை"
+  },
+  "r_0213": {
+    "description": "ஷாத்லேன்-பாலெக்செர் சமூக மையம் மற்றும் ராபின்சன் தோட்டம். பகுதிக்கான சந்திப்பு மற்றும் பரிமாற்றத்திற்கான வசதியான இடம். குழந்தைகள் (6-12), இளம் பருவத்தினர் (12-18) மற்றும் பெரியவர்களுக்கான கலாச்சார மற்றும் பொழுதுபோக்கு நடவடிக்கைகள். இயற்கை தோட்டம் மற்றும் விலங்குகள்.",
+    "target_audience": "குழந்தைகள் (6-12), இளம் பருவத்தினர் (12-18), எப்போதாவது அனைவரும்",
+    "access_conditions": "இலவசம், சில நடவடிக்கைகளுக்கு பதிவு தேவை"
   }
 }

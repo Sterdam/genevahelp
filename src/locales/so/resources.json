@@ -730,14 +730,14 @@
     "access_conditions": "Hoy codsiga, 10 ilaa 20 goob, muddo aan xadidnayn"
   },
   "r_0147": {
-    "description": "Hoyga habeenkii degdegga ah ee Magaalada Genève. Sariir, cuntada habeenkii, alaabta keydinta iyo gelitaanka qubeysiga oo bilaash ah. Muddo ugu badan 30 maalmood.",
-    "target_audience": "Dadka aan guri lahayn",
-    "access_conditions": "Wac xarunta hoyga degdegga ah 0800 22 22 10 (bilaash). Muddo ugu badan 30 maalmood."
+    "description": "Hooy habeenkii ee degdegga ah ee Magaalada Geneva. Sariir, casho, meelaha alaabta lagu kaydiyo iyo biyaha kulul oo bilaash ah. 30 maalmood ayaa xaddidan. Helitaanka waa kaliya khadka taleefanka degdegga ah.",
+    "target_audience": "Dadka aan guryaha lahayn",
+    "access_conditions": "Wac khadka degdegga: 0800 22 22 10 (bilaash). 30 maalmood."
   },
   "r_0148": {
-    "description": "Daaweynta caafimaadka bilaash ah oo sir ah ee dadka aan caymiska caafimaadka lahayn ama aan xaalad sharci lahayn. Daryeelka koowaad, la-talinta caafimaadka iyo kalkaaliyaha, hagitaanka adeegyada khaaska ah. In ka badan 4500 bukaan sanadkii.",
-    "target_audience": "Dadka aan caymiska caafimaadka lahayn, aan xaalad sharci lahayn, aan guri lahayn",
-    "access_conditions": "Laga bilaabo 16 sano, xaalad sharci shuruud la'aan, caymis la'aan la aqbalay, bilaash oo sir ah"
+    "description": "Qaybta caafimaadka bulshada (hore CAMSCO). La-talin caafimaad oo bilaash ah oo sir ah oo loogu talagalay dadka aan caymis caafimaad lahayn ama xaalad sharci. Daryeelka aasaasiga, la-talinta dhakhtarka iyo kalkaaliyaha, gudbinta adeegyada khaaska ah. In ka badan 4500 bukaan sannadkiiba.",
+    "target_audience": "Dadka aan caymis caafimaad lahayn, xaalad sharci lahayn, guryo lahayn",
+    "access_conditions": "16 sano ka bilow, shuruud xaalad la'aan, caymis la'aan la aqbalaa, bilaash iyo sir"
   },
   "r_0149": {
     "description": "Xarunta caafimaadka bulshada LGBTIQ+ oo ku takhasustay caafimaadka galmoodka. Baaritaanka VIH/IST bilaash oo aqoon la'aan, daaweynta, tallaalka, la-talinta nafsiyaadka. Adeegga Dialogai.",
@@ -1400,5 +1400,25 @@
     "description": "Shabakad is-kaashi oo loogu talagalay shaqo la'aanta ama kuwa dhibaatooyin bulsho la kulmaya. Adeegyo sharci iyo bulsho oo bilaash ah oo ku saabsan caymiska shaqo la'aanta iyo caymiska bulshada. Caawimo codsiyada shaqada, tababbar kombuyutar, taageero maamul, iyo caawimada canshuurta. Labbo xilli bilaash ah oo ballan la'aan ah Isniinta iyo Arbacada.",
     "target_audience": "Shaqo la'aanta ama kuwa dhibaatooyinka bulshada iyo maamulka la kulmaya",
     "access_conditions": "Bilaash, ballan la'aan Isniinta iyo Arbacada"
+  },
+  "r_0210": {
+    "description": "Urur bixiya soo dhaweyn ammaan ah oo taageero leh dadka qaxootiga ah ee LGBTIQ+ Geneva. Taageero bulsho, la socoshada habka magangalyo iyo la-talin sharci la wadaagta Elisa-Asile.",
+    "target_audience": "Qaxootiga LGBTIQ+ iyo magangalyo-doonka",
+    "access_conditions": "Bilaash, ballan ama saacadaha soo dhaweynta"
+  },
+  "r_0211": {
+    "description": "Goob ciyaareed oo bilaash ah oo loogu talagalay carruurta iyo qoysaska. Ciyaaraha miiska iyo ciyaaraha tayada leh oo la amaahiyo sannadlaha (20 CHF/sannadkii). Goobta la kulmada ee qoysaska xaafadda.",
+    "target_audience": "Carruurta iyo qoysaska xaafadda Avanchets",
+    "access_conditions": "Ciyaaraha goobta bilaash. Amaah: 20 CHF/sannadkii."
+  },
+  "r_0212": {
+    "description": "Xarun nasasho oo loogu talagalay dhalinyarada 15-25 jir. Goob kayn ah oo leh hoolka isku-xirka, masrax, jiko, studio duubaab iyo moofada pizza. Soo dhaweyn xor ah, riwaayado, safarro, cunto wadaag iyo taageero mashruucyada dhalinyarada.",
+    "target_audience": "Dhalinyarada 15 ilaa 25 jir",
+    "access_conditions": "Bilaash, diiwaangellin la'aan"
+  },
+  "r_0213": {
+    "description": "Guriga xaafadda iyo Beer Robinson ee Châtelaine-Balexert. Goob wanaagsan oo la kulmo lana is weydaarsado xaafadda. Hawlaha dhaqanka iyo nasashada ee carruurta (6-12), dhallinyarada (12-18) iyo dadka waaweyn. Beer dabiici ah iyo xayawaan.",
+    "target_audience": "Carruurta (6-12), dhallinyarada (12-18), qof walba marmar",
+    "access_conditions": "Bilaash, qaar ka mid ah hawlaha diiwaangellin ayaa loo baahan yahay"
   }
 }

@@ -730,12 +730,12 @@
     "access_conditions": "Hébergement sur demande, 10 à 20 places, durée illimitée"
   },
   "r_0147": {
-    "description": "Abri de nuit d'urgence de la Ville de Genève. Lit, repas du soir, bagagerie et accès aux douches fournis gratuitement. Durée limitée à 30 jours.",
+    "description": "Abri de nuit d'urgence de la Ville de Genève. Lit, repas du soir, bagagerie et accès aux douches fournis gratuitement. Durée limitée à 30 jours. Accès uniquement via la Centrale d'hébergement d'urgence.",
     "target_audience": "Personnes sans abri",
     "access_conditions": "Appeler la centrale d'hébergement d'urgence au 0800 22 22 10 (gratuit). Durée limitée à 30 jours."
   },
   "r_0148": {
-    "description": "Consultation médicale gratuite et confidentielle pour les personnes sans assurance maladie ou sans statut légal. Soins de première ligne, consultations médicales et infirmières, orientation vers les services spécialisés. Plus de 4500 patients par an.",
+    "description": "Unité de médecine et soins dans la communauté (anciennement CAMSCO). Consultation médicale gratuite et confidentielle pour les personnes sans assurance maladie ou sans statut légal. Soins de première ligne, consultations médicales et infirmières, orientation vers les services spécialisés. Plus de 4500 patients par an.",
     "target_audience": "Personnes sans assurance maladie, sans statut légal, sans domicile fixe",
     "access_conditions": "Dès 16 ans, sans conditions de statut légal, sans assurance accepté, gratuit et confidentiel"
   },
@@ -1400,5 +1400,25 @@
     "description": "Réseau de solidarité pour les personnes au chômage ou en difficulté sociale. Services juridiques et sociaux gratuits autour de l'assurance chômage et des assurances sociales. Aide à l'élaboration de dossiers de candidature, formation informatique, soutien administratif et déclaration d'impôts. Deux permanences publiques gratuites les lundis et mercredis.",
     "target_audience": "Personnes au chômage ou en difficulté sociale et administrative",
     "access_conditions": "Gratuit, sans rendez-vous pour les permanences du lundi et mercredi"
+  },
+  "r_0210": {
+    "description": "Association offrant un accueil sûr et bienveillant aux personnes réfugiées LGBTIQ+ à Genève. Soutien social, accompagnement dans les procédures d'asile et permanence juridique en partenariat avec Elisa-Asile. Espace communautaire et activités de groupe.",
+    "target_audience": "Personnes réfugiées et demandeuses d'asile LGBTIQ+",
+    "access_conditions": "Gratuit, sur rendez-vous ou lors des permanences"
+  },
+  "r_0211": {
+    "description": "Espace de jeux gratuit sur place pour les enfants et les familles. Prêt de jeux de société et jouets de qualité moyennant un abonnement annuel modique (20 CHF/an). Lieu de rencontre et d'échange entre familles du quartier. Animations et événements ponctuels.",
+    "target_audience": "Enfants et familles du quartier des Avanchets",
+    "access_conditions": "Jeux gratuits sur place. Emprunt : 20 CHF/an."
+  },
+  "r_0212": {
+    "description": "Centre de loisirs accueillant les jeunes de 15 à 25 ans dans un espace boisé avec salle polyvalente, scène équipée, cuisine, studio d'enregistrement et four à pizza extérieur. Accueil libre, concerts, sorties, repas partagés et soutien de projets jeunesse.",
+    "target_audience": "Jeunes de 15 à 25 ans",
+    "access_conditions": "Gratuit, sans inscription"
+  },
+  "r_0213": {
+    "description": "Maison de quartier et Jardin Robinson de Châtelaine-Balexert. Espace convivial d'accueil, d'échanges et de rencontres pour le quartier. Activités culturelles et de loisirs pour enfants (6-12 ans), adolescents (12-18 ans) et adultes. Potager bio et animaux. Association gérée par un comité d'habitants.",
+    "target_audience": "Enfants (6-12 ans), adolescents (12-18 ans), tout public ponctuellement",
+    "access_conditions": "Gratuit, inscription nécessaire pour certaines activités"
   }
 }

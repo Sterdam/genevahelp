@@ -730,14 +730,14 @@
     "access_conditions": "Nhà trọ theo yêu cầu, 10 đến 20 chỗ, thời gian không giới hạn"
   },
   "r_0147": {
-    "description": "Nhà trọ qua đêm khẩn cấp của Thành phố Geneva. Giường, bữa tối, hành lý ký gửi và nhà tắm được cung cấp miễn phí. Thời hạn tối đa 30 ngày.",
+    "description": "Nhà trú đêm khẩn cấp của Thành phố Geneva. Giường ngủ, bữa tối, gửi hành lý và tắm miễn phí. Giới hạn 30 ngày. Chỉ vào được qua đường dây nóng nhà ở khẩn cấp.",
     "target_audience": "Người vô gia cư",
-    "access_conditions": "Gọi tổng đài nhà trọ khẩn cấp 0800 22 22 10 (miễn phí). Thời hạn tối đa 30 ngày."
+    "access_conditions": "Gọi đường dây nóng: 0800 22 22 10 (miễn phí). Giới hạn 30 ngày."
   },
   "r_0148": {
-    "description": "Khám bệnh miễn phí và bảo mật cho người không có bảo hiểm y tế hoặc không có tư cách pháp lý. Chăm sóc tuyến đầu, khám bác sĩ và điều dưỡng, hướng dẫn đến dịch vụ chuyên khoa. Hơn 4500 bệnh nhân mỗi năm.",
-    "target_audience": "Người không có bảo hiểm y tế, không có tư cách pháp lý, vô gia cư",
-    "access_conditions": "Từ 16 tuổi, không yêu cầu tư cách pháp lý, chấp nhận không bảo hiểm, miễn phí và bảo mật"
+    "description": "Đơn vị y tế cộng đồng (trước đây là CAMSCO). Tư vấn y tế miễn phí và bảo mật cho người không có bảo hiểm y tế hoặc tư cách pháp lý. Chăm sóc ban đầu, tư vấn bác sĩ và y tá, giới thiệu đến dịch vụ chuyên khoa. Hơn 4.500 bệnh nhân mỗi năm.",
+    "target_audience": "Người không có bảo hiểm y tế, không có tư cách pháp lý, người vô gia cư",
+    "access_conditions": "Từ 16 tuổi, không yêu cầu tư cách, không bảo hiểm vẫn được nhận, miễn phí và bảo mật"
   },
   "r_0149": {
     "description": "Trung tâm y tế cộng đồng LGBTIQ+ chuyên về sức khỏe tình dục. Xét nghiệm HIV/STI miễn phí và ẩn danh, điều trị, tiêm chủng, tư vấn tâm lý. Dịch vụ của Dialogai.",
@@ -1400,5 +1400,25 @@
     "description": "Mạng lưới đoàn kết dành cho người thất nghiệp hoặc người gặp khó khăn xã hội. Dịch vụ pháp lý và xã hội miễn phí liên quan đến bảo hiểm thất nghiệp và bảo hiểm xã hội. Hỗ trợ hồ sơ xin việc, đào tạo tin học, hỗ trợ hành chính và khai thuế. Hai buổi tư vấn công khai miễn phí không cần hẹn trước vào thứ Hai và thứ Tư.",
     "target_audience": "Người thất nghiệp hoặc người gặp khó khăn về xã hội và hành chính",
     "access_conditions": "Miễn phí, không cần hẹn trước cho buổi tư vấn thứ Hai và thứ Tư"
+  },
+  "r_0210": {
+    "description": "Hiệp hội cung cấp sự đón tiếp an toàn và ấm áp cho người tị nạn LGBTIQ+ tại Geneva. Hỗ trợ xã hội, đồng hành trong thủ tục tị nạn và tư vấn pháp lý hợp tác với Elisa-Asile.",
+    "target_audience": "Người tị nạn và xin tị nạn LGBTIQ+",
+    "access_conditions": "Miễn phí, theo lịch hẹn hoặc trong giờ tiếp nhận"
+  },
+  "r_0211": {
+    "description": "Không gian chơi trò chơi miễn phí cho trẻ em và gia đình. Trò chơi bàn và đồ chơi chất lượng cho mượn với phí hàng năm nhỏ (20 CHF/năm). Nơi gặp gỡ cho các gia đình trong khu phố.",
+    "target_audience": "Trẻ em và gia đình khu Avanchets",
+    "access_conditions": "Chơi trò chơi tại chỗ miễn phí. Mượn: 20 CHF/năm."
+  },
+  "r_0212": {
+    "description": "Trung tâm giải trí cho thanh niên 15-25 tuổi trong khu rừng với hội trường đa năng, sân khấu, bếp, phòng thu âm và lò pizza ngoài trời. Tiếp đón tự do, hòa nhạc, dã ngoại, ăn chung và hỗ trợ dự án thanh niên.",
+    "target_audience": "Thanh niên 15-25 tuổi",
+    "access_conditions": "Miễn phí, không cần đăng ký"
+  },
+  "r_0213": {
+    "description": "Nhà cộng đồng và Vườn Robinson Châtelaine-Balexert. Không gian ấm cúng để gặp gỡ và trao đổi trong khu phố. Hoạt động văn hóa và giải trí cho trẻ em (6-12), thanh thiếu niên (12-18) và người lớn. Vườn hữu cơ và động vật.",
+    "target_audience": "Trẻ em (6-12), thanh thiếu niên (12-18), công chúng thỉnh thoảng",
+    "access_conditions": "Miễn phí, một số hoạt động cần đăng ký"
   }
 }

@@ -730,14 +730,14 @@
     "access_conditions": "Unterbringung auf Anfrage, 10 bis 20 Plätze, unbegrenzte Dauer"
   },
   "r_0147": {
-    "description": "Städtische Notschlafstelle der Ville de Genève. Bett, Abendessen, Gepäckaufbewahrung und Zugang zu Duschen kostenlos bereitgestellt. Aufenthalt auf 30 Tage begrenzt.",
-    "target_audience": "Obdachlose",
-    "access_conditions": "Die Notunterbringungszentrale unter 0800 22 22 10 (kostenlos) anrufen. Aufenthalt auf 30 Tage begrenzt."
+    "description": "Notschlafstelle der Stadt Genf. Kostenloses Bett, Abendessen, Gepäckaufbewahrung und Duschzugang. Begrenzt auf 30 Tage. Zugang nur über die Notunterkunft-Zentrale.",
+    "target_audience": "Obdachlose Menschen",
+    "access_conditions": "Notunterkunft-Zentrale anrufen: 0800 22 22 10 (kostenlos). Begrenzt auf 30 Tage."
   },
   "r_0148": {
-    "description": "Kostenlose und vertrauliche medizinische Konsultation für Personen ohne Krankenversicherung oder ohne legalen Status. Grundversorgung, ärztliche und pflegerische Konsultationen, Vermittlung an spezialisierte Dienste. Über 4500 Patienten pro Jahr.",
-    "target_audience": "Personen ohne Krankenversicherung, ohne legalen Status, Obdachlose",
-    "access_conditions": "Ab 16 Jahren, ohne Statusbedingung, ohne Versicherung akzeptiert, kostenlos und vertraulich"
+    "description": "Gemeinschaftsmedizin und Pflegeeinheit (ehemals CAMSCO). Kostenlose und vertrauliche medizinische Beratung für Personen ohne Krankenversicherung oder Aufenthaltsstatus. Erstversorgung, ärztliche und pflegerische Beratungen, Überweisung an Fachdienste. Über 4.500 Patienten pro Jahr.",
+    "target_audience": "Personen ohne Krankenversicherung, ohne Aufenthaltsstatus, Obdachlose",
+    "access_conditions": "Ab 16 Jahren, keine Statusbedingungen, ohne Versicherung akzeptiert, kostenlos und vertraulich"
   },
   "r_0149": {
     "description": "LGBTIQ+-Gesundheitszentrum spezialisiert auf sexuelle Gesundheit. Kostenloser und anonymer HIV/STI-Test, Behandlungen, Impfungen, psychologische Beratung. Dienst von Dialogai.",
@@ -1400,5 +1400,25 @@
     "description": "Solidaritätsnetzwerk für Arbeitslose oder Menschen in sozialen Schwierigkeiten. Kostenlose Rechts- und Sozialberatung rund um Arbeitslosenversicherung und Sozialversicherungen. Hilfe bei Bewerbungsunterlagen, Informatikschulung, administrative Unterstützung und Steuererklärung. Zwei kostenlose öffentliche Sprechstunden montags und mittwochs ohne Termin.",
     "target_audience": "Arbeitslose oder Menschen mit sozialen und administrativen Schwierigkeiten",
     "access_conditions": "Kostenlos, ohne Termin für die Sprechstunden am Montag und Mittwoch"
+  },
+  "r_0210": {
+    "description": "Verein für sichere und wohlwollende Aufnahme von LGBTIQ+-Flüchtlingen in Genf. Soziale Unterstützung, Begleitung bei Asylverfahren und Rechtsberatung in Partnerschaft mit Elisa-Asile. Gemeinschaftsraum und Gruppenaktivitäten.",
+    "target_audience": "LGBTIQ+-Flüchtlinge und Asylsuchende",
+    "access_conditions": "Kostenlos, nach Vereinbarung oder während der Sprechstunden"
+  },
+  "r_0211": {
+    "description": "Kostenloser Spielraum vor Ort für Kinder und Familien. Gesellschaftsspiele und Qualitätsspielzeug zum Ausleihen mit günstigem Jahresabonnement (20 CHF/Jahr). Treffpunkt für Familien im Quartier. Gelegentliche Veranstaltungen.",
+    "target_audience": "Kinder und Familien im Quartier Avanchets",
+    "access_conditions": "Spiele vor Ort kostenlos. Ausleihe: 20 CHF/Jahr."
+  },
+  "r_0212": {
+    "description": "Freizeitzentrum für Jugendliche von 15 bis 25 Jahren in bewaldeter Umgebung mit Mehrzweckhalle, ausgestatteter Bühne, Küche, Aufnahmestudio und Pizzaofen im Freien. Offener Empfang, Konzerte, Ausflüge, gemeinsame Mahlzeiten und Unterstützung von Jugendprojekten.",
+    "target_audience": "Jugendliche von 15 bis 25 Jahren",
+    "access_conditions": "Kostenlos, ohne Anmeldung"
+  },
+  "r_0213": {
+    "description": "Quartierhaus und Robinson-Garten in Châtelaine-Balexert. Gemütlicher Raum für Begegnungen und Austausch im Quartier. Kultur- und Freizeitaktivitäten für Kinder (6-12), Jugendliche (12-18) und Erwachsene. Biogarten und Tiere. Verein geführt von einem Bewohnerkomitee.",
+    "target_audience": "Kinder (6-12), Jugendliche (12-18), gelegentlich alle",
+    "access_conditions": "Kostenlos, Anmeldung für einige Aktivitäten erforderlich"
   }
 }

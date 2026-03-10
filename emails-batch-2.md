@@ -101,7 +101,9 @@ Bonjour Fabienne,
 
 Merci pour votre suggestion de CineTransat sur GenevaHelp !
 
-Le festival a ete ajoute a notre carte avec la mention « saisonnier : juillet-aout uniquement ». Les informations ont ete verifiees sur votre site et sur geneve.ch.
+Le festival a ete ajoute a notre carte. Etant donne que CineTransat est un evenement saisonnier, nous avons mis en place un systeme de visibilite automatique : la ressource n'apparaitra sur la carte que pendant les mois de juillet et aout, correspondant a la periode du festival. En dehors de ces dates, elle sera masquee automatiquement.
+
+Les informations ont ete verifiees sur votre site et sur geneve.ch.
 
 Merci pour cette belle initiative culturelle gratuite !
 

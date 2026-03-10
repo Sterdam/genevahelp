@@ -730,14 +730,14 @@
     "access_conditions": "Hébergement sur demande, 10 à 20 places, durée illimitée"
   },
   "r_0147": {
-    "description": "Abri de nuit d'urgence de la Ville de Genève. Lit, repas du soir, bagagerie et accès aux douches fournis gratuitement. Durée limitée à 30 jours.",
-    "target_audience": "Personnes sans abri",
-    "access_conditions": "Appeler la centrale d'hébergement d'urgence au 0800 22 22 10 (gratuit). Durée limitée à 30 jours."
+    "description": "جنیوا شہر کی ایمرجنسی رات کی پناہ گاہ۔ مفت بستر، کھانا اور شاور۔ زیادہ سے زیادہ 30 دن قیام۔ داخلہ صرف ہاٹ لائن 0800 22 22 10 کے ذریعے۔",
+    "target_audience": "جنیوا میں بے گھر افراد",
+    "access_conditions": "ہاٹ لائن 0800 22 22 10 پر کال کرنا لازمی ہے۔ زیادہ سے زیادہ 30 دن۔"
   },
   "r_0148": {
-    "description": "Consultation médicale gratuite et confidentielle pour les personnes sans assurance maladie ou sans statut légal. Soins de première ligne, consultations médicales et infirmières, orientation vers les services spécialisés. Plus de 4500 patients par an.",
-    "target_audience": "Personnes sans assurance maladie, sans statut légal, sans domicile fixe",
-    "access_conditions": "Dès 16 ans, sans conditions de statut légal, sans assurance accepté, gratuit et confidentiel"
+    "description": "UMSCOM (سابقہ CAMSCO) — بیمہ یا قانونی حیثیت نہ رکھنے والے افراد کے لیے مفت کمیونٹی طب۔ HUG ہسپتال کا یونٹ۔ سالانہ 4500 سے زیادہ مریض۔",
+    "target_audience": "صحت بیمہ نہ رکھنے والے افراد، غیر دستاویزی تارکین وطن",
+    "access_conditions": "بغیر صحت بیمہ یا قانونی حیثیت کے۔ بغیر اپائنٹمنٹ۔"
   },
   "r_0149": {
     "description": "Centre de santé communautaire LGBTIQ+ spécialisé en santé sexuelle. Dépistage VIH/IST gratuit et anonyme, traitements, vaccinations, consultations psychologiques. Service de Dialogai.",
@@ -1400,5 +1400,25 @@
     "description": "بے روزگاروں یا سماجی مشکلات کا سامنا کرنے والوں کے لیے یکجہتی کا نیٹ ورک۔ بے روزگاری انشورنس اور سماجی انشورنس سے متعلق مفت قانونی اور سماجی خدمات۔ نوکری کی درخواستوں میں مدد، کمپیوٹر ٹریننگ، انتظامی معاونت اور ٹیکس ریٹرن میں مدد۔ پیر اور بدھ کو بغیر اپائنٹمنٹ مفت مشاورت۔",
     "target_audience": "بے روزگار افراد یا سماجی اور انتظامی مشکلات کا سامنا کرنے والے",
     "access_conditions": "مفت، پیر اور بدھ کی مشاورت کے لیے اپائنٹمنٹ کی ضرورت نہیں"
+  },
+  "r_0210": {
+    "description": "Asile LGBTIQ+ — جنیوا میں LGBTIQ+ پناہ گزینوں اور پناہ کے متلاشیوں کے لیے مفت قانونی مدد اور مدد۔ Elisa-Asile کے ساتھ شراکت داری۔",
+    "target_audience": "LGBTIQ+ پناہ گزین اور پناہ کے متلاشی",
+    "access_conditions": "مفت۔ اپائنٹمنٹ کے لیے تنظیم سے رابطہ کریں۔"
+  },
+  "r_0211": {
+    "description": "لوڈوتیک دیز آوانشے — بچوں اور خاندانوں کے لیے مقام پر مفت کھیل کی جگہ۔ بورڈ گیمز ادھار 20 CHF سالانہ۔ کمیونٹی ملاقات کی جگہ۔",
+    "target_audience": "آوانشے محلے میں بچے اور خاندان",
+    "access_conditions": "مقام پر کھیلنا مفت ہے۔ ادھار سبسکرپشن 20 CHF/سال۔"
+  },
+  "r_0212": {
+    "description": "ABARC — 15 سے 25 سال کی عمر کے لیے مفت نوجوانوں کا مرکز۔ جنگلاتی ماحول، اسٹیج، کچن، ریکارڈنگ اسٹوڈیو، پیزا اوون۔ آزاد حاضری، کنسرٹ، سیر۔",
+    "target_audience": "15 سے 25 سال کے نوجوان",
+    "access_conditions": "مفت۔ بغیر رجسٹریشن آزاد حاضری۔"
+  },
+  "r_0213": {
+    "description": "MQJR ChâBal — کمیونٹی سینٹر اور رابنسن باغ۔ 6-12 سال کے بچوں اور 12-18 سال کے نوجوانوں کے لیے سرگرمیاں۔ نامیاتی باغ اور جانور۔ بعض سرگرمیوں کے لیے رجسٹریشن کے ساتھ مفت۔",
+    "target_audience": "6 سے 12 سال کے بچے، 12 سے 18 سال کے نوجوان",
+    "access_conditions": "مفت۔ بعض سرگرمیوں کے لیے رجسٹریشن ضروری ہے۔"
   }
 }

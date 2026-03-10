@@ -730,14 +730,14 @@
     "access_conditions": "Zakwaterowanie na prośbę, 10 do 20 miejsc, czas pobytu nieograniczony"
   },
   "r_0147": {
-    "description": "Awaryjny nocleg miejski Ville de Genève. Łóżko, kolacja, przechowalnia bagażu i dostęp do pryszniców bezpłatnie. Pobyt ograniczony do 30 dni.",
+    "description": "Noclegownia awaryjna miasta Genewy. Bezpłatne łóżko, kolacja, przechowalnia bagażu i dostęp do pryszniców. Limit 30 dni. Dostęp wyłącznie przez infolinię awaryjną.",
     "target_audience": "Osoby bezdomne",
-    "access_conditions": "Zadzwoń na centralę zakwaterowań awaryjnych pod 0800 22 22 10 (bezpłatnie). Pobyt ograniczony do 30 dni."
+    "access_conditions": "Zadzwoń na infolinię: 0800 22 22 10 (bezpłatnie). Limit 30 dni."
   },
   "r_0148": {
-    "description": "Bezpłatna i poufna konsultacja medyczna dla osób bez ubezpieczenia zdrowotnego lub bez legalnego statusu. Podstawowa opieka medyczna, konsultacje lekarskie i pielęgniarskie, skierowania do specjalistycznych służb. Ponad 4500 pacjentów rocznie.",
-    "target_audience": "Osoby bez ubezpieczenia zdrowotnego, bez legalnego statusu, bezdomni",
-    "access_conditions": "Od 16 lat, bez warunków legalnego statusu, brak ubezpieczenia akceptowany, bezpłatnie i poufnie"
+    "description": "Jednostka medycyny społecznej (dawniej CAMSCO). Bezpłatne i poufne konsultacje medyczne dla osób bez ubezpieczenia zdrowotnego lub statusu prawnego. Podstawowa opieka zdrowotna, konsultacje lekarskie i pielęgniarskie, skierowania do specjalistów. Ponad 4500 pacjentów rocznie.",
+    "target_audience": "Osoby bez ubezpieczenia zdrowotnego, bez statusu prawnego, bezdomne",
+    "access_conditions": "Od 16 lat, bez wymagań co do statusu, bez ubezpieczenia akceptowane, bezpłatnie i poufnie"
   },
   "r_0149": {
     "description": "Społecznościowe centrum zdrowia LGBTIQ+ specjalizujące się w zdrowiu seksualnym. Bezpłatne i anonimowe badania na HIV/ITS, leczenie, szczepienia, konsultacje psychologiczne. Usługa Dialogai.",
@@ -1400,5 +1400,25 @@
     "étrangers": "cudzoziemcy",
     "étude": "nauka",
     "étudier": "studiować"
+  },
+  "r_0210": {
+    "description": "Stowarzyszenie zapewniające bezpieczne i życzliwe przyjęcie osób uchodźczych LGBTIQ+ w Genewie. Wsparcie społeczne, towarzyszenie w procedurach azylowych i porady prawne we współpracy z Elisa-Asile.",
+    "target_audience": "Uchodźcy i osoby ubiegające się o azyl LGBTIQ+",
+    "access_conditions": "Bezpłatnie, po umówieniu lub podczas dyżurów"
+  },
+  "r_0211": {
+    "description": "Bezpłatna przestrzeń gier dla dzieci i rodzin. Gry planszowe i zabawki do wypożyczenia za symboliczną roczną opłatę (20 CHF/rok). Miejsce spotkań dla rodzin z osiedla.",
+    "target_audience": "Dzieci i rodziny z osiedla Avanchets",
+    "access_conditions": "Gry na miejscu bezpłatnie. Wypożyczanie: 20 CHF/rok."
+  },
+  "r_0212": {
+    "description": "Centrum rekreacyjne dla młodzieży 15–25 lat w zielonym otoczeniu z salą wielofunkcyjną, sceną, kuchnią, studiem nagrań i piecem do pizzy. Otwarty wstęp, koncerty, wycieczki, wspólne posiłki i wsparcie projektów młodzieżowych.",
+    "target_audience": "Młodzież w wieku 15–25 lat",
+    "access_conditions": "Bezpłatnie, bez zapisów"
+  },
+  "r_0213": {
+    "description": "Dom sąsiedzki i ogród Robinsona w Châtelaine-Balexert. Przyjazna przestrzeń spotkań i wymiany dla osiedla. Zajęcia kulturalne i rekreacyjne dla dzieci (6–12), nastolatków (12–18) i dorosłych. Ogród ekologiczny i zwierzęta.",
+    "target_audience": "Dzieci (6–12), nastolatki (12–18), wszyscy okazjonalnie",
+    "access_conditions": "Bezpłatnie, na niektóre zajęcia wymagana rejestracja"
   }
 }

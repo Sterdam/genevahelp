@@ -730,14 +730,14 @@
     "access_conditions": "Alojamento mediante solicitacao, 10 a 20 vagas, duracao ilimitada"
   },
   "r_0147": {
-    "description": "Abrigo noturno de emergencia da Ville de Geneve. Cama, jantar, guarda-volumes e acesso a chuveiros fornecidos gratuitamente. Duracao limitada a 30 dias.",
-    "target_audience": "Pessoas em situacao de rua",
-    "access_conditions": "Ligar para a central de alojamento de emergencia no 0800 22 22 10 (gratuito). Duracao limitada a 30 dias."
+    "description": "Abrigo noturno de emergência da Cidade de Genebra. Cama, jantar, guarda-volumes e acesso a duches gratuitos. Limitado a 30 dias. Acesso apenas através da Central de alojamento de emergência.",
+    "target_audience": "Pessoas sem-abrigo",
+    "access_conditions": "Ligar para a central de alojamento de emergência: 0800 22 22 10 (gratuito). Limitado a 30 dias."
   },
   "r_0148": {
-    "description": "Consulta medica gratuita e confidencial para pessoas sem seguro saude ou sem situacao legal. Atendimento de primeira linha, consultas medicas e de enfermagem, encaminhamento para servicos especializados. Mais de 4500 pacientes por ano.",
-    "target_audience": "Pessoas sem seguro saude, sem situacao legal, em situacao de rua",
-    "access_conditions": "A partir de 16 anos, sem condicoes de situacao legal, sem seguro aceito, gratuito e confidencial"
+    "description": "Unidade de medicina e cuidados na comunidade (anteriormente CAMSCO). Consulta médica gratuita e confidencial para pessoas sem seguro de saúde ou sem estatuto legal. Cuidados primários, consultas médicas e de enfermagem, encaminhamento para serviços especializados. Mais de 4.500 pacientes por ano.",
+    "target_audience": "Pessoas sem seguro de saúde, sem estatuto legal, sem-abrigo",
+    "access_conditions": "A partir dos 16 anos, sem condições de estatuto legal, sem seguro aceite, gratuito e confidencial"
   },
   "r_0149": {
     "description": "Centro de saude comunitario LGBTIQ+ especializado em saude sexual. Testagem de HIV/IST gratuita e anonima, tratamentos, vacinacoes, consultas psicologicas. Servico de Dialogai.",
@@ -1400,5 +1400,25 @@
     "description": "Rede de solidariedade para desempregados ou pessoas em dificuldades sociais. Serviços jurídicos e sociais gratuitos relacionados com o seguro de desemprego e seguros sociais. Ajuda na elaboração de dossiers de candidatura, formação informática, apoio administrativo e declaração de impostos. Dois atendimentos públicos gratuitos sem marcação às segundas e quartas-feiras.",
     "target_audience": "Desempregados ou pessoas com dificuldades sociais e administrativas",
     "access_conditions": "Gratuito, sem marcação para os atendimentos de segunda e quarta-feira"
+  },
+  "r_0210": {
+    "description": "Associação que oferece acolhimento seguro e solidário a pessoas refugiadas LGBTIQ+ em Genebra. Apoio social, acompanhamento nos procedimentos de asilo e aconselhamento jurídico em parceria com Elisa-Asile. Espaço comunitário e atividades de grupo.",
+    "target_audience": "Pessoas refugiadas e requerentes de asilo LGBTIQ+",
+    "access_conditions": "Gratuito, com marcação ou durante os atendimentos"
+  },
+  "r_0211": {
+    "description": "Espaço de jogos gratuito no local para crianças e famílias. Empréstimo de jogos de tabuleiro e brinquedos de qualidade com assinatura anual módica (20 CHF/ano). Ponto de encontro para famílias do bairro. Eventos e atividades pontuais.",
+    "target_audience": "Crianças e famílias do bairro dos Avanchets",
+    "access_conditions": "Jogos gratuitos no local. Empréstimo: 20 CHF/ano."
+  },
+  "r_0212": {
+    "description": "Centro de lazer para jovens dos 15 aos 25 anos num espaço arborizado com sala polivalente, palco equipado, cozinha, estúdio de gravação e forno de pizza exterior. Acolhimento livre, concertos, passeios, refeições partilhadas e apoio a projetos juvenis.",
+    "target_audience": "Jovens dos 15 aos 25 anos",
+    "access_conditions": "Gratuito, sem inscrição"
+  },
+  "r_0213": {
+    "description": "Casa de bairro e Jardim Robinson de Châtelaine-Balexert. Espaço acolhedor de encontro e troca para o bairro. Atividades culturais e de lazer para crianças (6-12), adolescentes (12-18) e adultos. Horta biológica e animais. Associação gerida por um comité de moradores.",
+    "target_audience": "Crianças (6-12), adolescentes (12-18), público geral pontualmente",
+    "access_conditions": "Gratuito, inscrição necessária para algumas atividades"
   }
 }

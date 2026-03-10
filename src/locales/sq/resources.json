@@ -730,14 +730,14 @@
     "access_conditions": "Strehim me kërkesë, 10 deri 20 vende, kohëzgjatje e pakufizuar"
   },
   "r_0147": {
-    "description": "Strehimore nate urgjence e Qytetit të Gjenevës. Shtrat, darka, bagazheri dhe hyrje në dushe të ofruar falas. Kohëzgjatja e kufizuar në 30 ditë.",
+    "description": "Strehë nate emergjente e Qytetit të Gjenevës. Shtrat, darkë, ruajtje bagazhi dhe akses në dushe falas. E kufizuar në 30 ditë. Akses vetëm nëpërmjet linjës telefonike të emergjencës.",
     "target_audience": "Persona pa strehë",
-    "access_conditions": "Thirrni centralën e strehimit urgjent në 0800 22 22 10 (falas). Kohëzgjatja e kufizuar në 30 ditë."
+    "access_conditions": "Thirrni linjën e emergjencës: 0800 22 22 10 (falas). E kufizuar në 30 ditë."
   },
   "r_0148": {
-    "description": "Konsultim mjekësor falas dhe konfidencial për personat pa sigurim shëndetësor ose pa status ligjor. Kujdes i linjës së parë, konsultime mjekësore dhe infermierike, orientim drejt shërbimeve të specializuara. Më shumë se 4500 pacientë në vit.",
-    "target_audience": "Persona pa sigurim shëndetësor, pa status ligjor, pa banesë fikse",
-    "access_conditions": "Nga 16 vjeç, pa kushte statusi ligjor, pa sigurim i pranuar, falas dhe konfidencial"
+    "description": "Njësia e mjekësisë komunitare (ish-CAMSCO). Konsultime mjekësore falas dhe konfidenciale për persona pa sigurim shëndetësor ose pa status ligjor. Kujdes parësor, konsultime mjekësore dhe infermierore, referime tek shërbimet e specializuara. Mbi 4500 pacientë në vit.",
+    "target_audience": "Persona pa sigurim shëndetësor, pa status ligjor, pa strehë",
+    "access_conditions": "Nga 16 vjeç, pa kushte statusi, pa sigurim pranohen, falas dhe konfidenciale"
   },
   "r_0149": {
     "description": "Qendër shëndetësore komunitare LGBTIQ+ e specializuar në shëndetin seksual. Depistim VIH/IST falas dhe anonim, trajtime, vaksinime, konsultime psikologjike. Shërbim i Dialogai.",
@@ -1400,5 +1400,25 @@
     "étrangers": "të huaj",
     "étude": "studim",
     "étudier": "studiuar"
+  },
+  "r_0210": {
+    "description": "Shoqatë që ofron pritje të sigurt dhe solidare për refugjatët LGBTIQ+ në Gjenevë. Mbështetje sociale, shoqërim në procedurat e azilit dhe këshillim juridik në partneritet me Elisa-Asile.",
+    "target_audience": "Refugjatë dhe kërkues azili LGBTIQ+",
+    "access_conditions": "Falas, me takim ose gjatë orareve të pritjes"
+  },
+  "r_0211": {
+    "description": "Hapësirë lojërash falas në vend për fëmijë dhe familje. Lojëra tavoline dhe lodra cilësore për huazim me abonim vjetor modest (20 CHF/vit). Pikëtakim për familjet e lagjes.",
+    "target_audience": "Fëmijë dhe familje nga lagjja Avanchets",
+    "access_conditions": "Lojëra në vend falas. Huazim: 20 CHF/vit."
+  },
+  "r_0212": {
+    "description": "Qendër argëtimi për të rinj 15-25 vjeç në ambient pyjor me sallë shumëfunksionale, skenë të pajisur, kuzhinë, studio regjistrimi dhe furrë pice. Pranim i lirë, koncerte, ekskursione, vakte të përbashkëta dhe mbështetje e projekteve rinore.",
+    "target_audience": "Të rinj 15-25 vjeç",
+    "access_conditions": "Falas, pa regjistrim"
+  },
+  "r_0213": {
+    "description": "Shtëpi lagjeje dhe Kopshti Robinson në Châtelaine-Balexert. Hapësirë e ngrohtë takimesh dhe shkëmbimesh për lagjen. Aktivitete kulturore dhe argëtuese për fëmijë (6-12), adoleshentë (12-18) dhe të rritur. Kopësht organik dhe kafshë.",
+    "target_audience": "Fëmijë (6-12), adoleshentë (12-18), publiku i gjerë herë pas here",
+    "access_conditions": "Falas, regjistrim i nevojshëm për disa aktivitete"
   }
 }
