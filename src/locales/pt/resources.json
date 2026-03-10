@@ -730,9 +730,9 @@
     "access_conditions": "Alojamento mediante solicitacao, 10 a 20 vagas, duracao ilimitada"
   },
   "r_0147": {
-    "description": "Abrigo noturno de emergência da Cidade de Genebra. Cama, jantar, guarda-volumes e acesso a duches gratuitos. Limitado a 30 dias. Acesso apenas através da Central de alojamento de emergência.",
+    "description": "Abrigo noturno de emergência da Cidade de Genebra (Abri PC Richemont). Cama gratuita, jantar, armazenamento de bagagem e duches. Limite de 30 dias. Acesso UNICAMENTE através da linha de emergência habitacional 0800 22 22 10.",
     "target_audience": "Pessoas sem-abrigo",
-    "access_conditions": "Ligar para a central de alojamento de emergência: 0800 22 22 10 (gratuito). Limitado a 30 dias."
+    "access_conditions": "Ligar para a linha de emergência habitacional 0800 22 22 10 (gratuita). Limite de 30 dias."
   },
   "r_0148": {
     "description": "Unidade de medicina e cuidados na comunidade (anteriormente CAMSCO). Consulta médica gratuita e confidencial para pessoas sem seguro de saúde ou sem estatuto legal. Cuidados primários, consultas médicas e de enfermagem, encaminhamento para serviços especializados. Mais de 4.500 pacientes por ano.",
@@ -850,9 +850,9 @@
     "access_conditions": "Jogo no local gratuito. Empréstimo com assinatura familiar anual (30 CHF). Crianças menores de 6 anos acompanhadas por um adulto."
   },
   "r_0171": {
-    "description": "Alojamento de emergência para mulheres em situação de precariedade, sem-abrigo ou refugiadas com crianças. 30 lugares de acolhimento incondicional e 21 lugares para mulheres com assistência social. Quartos individuais ou duplos, três refeições por dia, lavandaria, acompanhamento social.",
-    "target_audience": "Mulheres sem-abrigo, mulheres em situação de precariedade, refugiadas com crianças",
-    "access_conditions": "Contactar a linha de alojamento de emergência de Genebra: 0800 22 22 10 (seg-sex 10:30-20h, sáb-dom 15-20h). Sem reserva direta."
+    "description": "Abrigo de emergência para mulheres em situação precária, sem-abrigo ou refugiadas com filhos (Bel'Espérance, Exército de Salvação). 30 lugares incondicionais e 21 lugares com acompanhamento social. Quartos individuais/duplos, 3 refeições por dia, lavandaria, apoio social. Acesso UNICAMENTE através da linha de emergência 0800 22 22 10.",
+    "target_audience": "Mulheres sem-abrigo, mulheres em situação precária, refugiadas com filhos",
+    "access_conditions": "Contactar a linha de emergência habitacional de Genebra: 0800 22 22 10 (seg-sex 10:30-20h, sáb-dom 15-20h). Sem reserva direta."
   },
   "r_0172": {
     "description": "Brinquedoteca de bairro com brincadeira gratuita no local e empréstimo de jogos de tabuleiro e brinquedos. Empréstimo com assinatura familiar (30 CHF/ano). Jogos e lanche uma sexta-feira por mês.",
@@ -1420,5 +1420,10 @@
     "description": "Casa de bairro e Jardim Robinson de Châtelaine-Balexert. Espaço acolhedor de encontro e troca para o bairro. Atividades culturais e de lazer para crianças (6-12), adolescentes (12-18) e adultos. Horta biológica e animais. Associação gerida por um comité de moradores.",
     "target_audience": "Crianças (6-12), adolescentes (12-18), público geral pontualmente",
     "access_conditions": "Gratuito, inscrição necessária para algumas atividades"
+  },
+  "r_0214": {
+    "description": "Associação sem fins lucrativos Swiss Pallia Confort que oferece acompanhamento não médico e cuidados de conforto para pacientes em fim de vida no domicílio ou em instituições de cuidados. Presença noturna (mais de 12h/dia), apoio psicológico, físico e espiritual. Apoio aos cuidadores familiares. Gratuito para pessoas com baixos rendimentos.",
+    "target_audience": "Pacientes em fim de vida que desejam permanecer em casa, cuidadores familiares",
+    "access_conditions": "Gratuito para pessoas com baixos rendimentos. Participação financeira possível. Contacto por e-mail."
   }
 }

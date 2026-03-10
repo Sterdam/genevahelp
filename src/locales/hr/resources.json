@@ -730,9 +730,9 @@
     "access_conditions": "Smještaj na zahtjev, 10 do 20 mjesta, neograničeno trajanje"
   },
   "r_0147": {
-    "description": "Noćno sklonište za hitne slučajeve Grada Ženeve. Besplatan krevet, večera, garderoba i pristup tuševima. Ograničeno na 30 dana. Pristup samo putem hitne telefonske linije.",
+    "description": "Hitno noćno sklonište Grada Ženeve. Besplatan krevet, večera, garderoba za prtljagu i pristup tuševima. Ograničeno na 30 dana. Pristup isključivo putem hitne telefonske linije 0800 22 22 10.",
     "target_audience": "Beskućnici",
-    "access_conditions": "Nazovite hitnu liniju: 0800 22 22 10 (besplatno). Ograničeno na 30 dana."
+    "access_conditions": "Nazovite hitnu stambenu liniju 0800 22 22 10 (besplatno). Ograničeno na 30 dana."
   },
   "r_0148": {
     "description": "Jedinica za javno zdravlje (ranije CAMSCO). Besplatne i povjerljive medicinske konzultacije za osobe bez zdravstvenog osiguranja ili pravnog statusa. Primarna zdravstvena zaštita, liječničke i sestrinske konzultacije, upućivanje specijalistima. Više od 4500 pacijenata godišnje.",
@@ -850,9 +850,9 @@
     "access_conditions": "Igranje na licu mjesta besplatno. Posudba s godišnjom obiteljskom pretplatom (30 CHF). Djeca mlađa od 6 godina u pratnji odrasle osobe."
   },
   "r_0171": {
-    "description": "Hitni smještaj za žene u teškoj situaciji, beskućnice ili izbjeglice s djecom. 30 bezuvjetnih mjesta za prihvat i 21 mjesto za žene na socijalnoj pomoći. Jednokrevetne ili dvokrevetne sobe, tri obroka dnevno, praonica rublja, socijalna podrška.",
+    "description": "Hitni smještaj za žene u teškoj situaciji, beskućnice ili izbjeglice s djecom (Armija spasa). 30 mjesta bezuvjetnog prijema i 21 mjesto za žene na socijalnoj pomoći. Jednokrevetne ili dvokrevetne sobe, tri obroka dnevno, praonica rublja, socijalna podrška. Pristup isključivo putem telefonske linije 0800 22 22 10.",
     "target_audience": "Beskućnice, žene u teškoj situaciji, izbjeglice s djecom",
-    "access_conditions": "Kontaktirajte ženevsku liniju za hitni smještaj: 0800 22 22 10 (pon-pet 10:30-20:00, sub-ned 15:00-20:00). Bez izravne rezervacije."
+    "access_conditions": "Kontaktirajte ženevsku hitnu stambenu liniju: 0800 22 22 10 (pon-pet 10:30-20:00, sub-ned 15:00-20:00). Bez izravne rezervacije."
   },
   "r_0172": {
     "description": "Kvartovska igraonica s besplatnim igranjem na licu mjesta i posudbom društvenih igara i igračaka. Posudba s obiteljskom pretplatom (30 CHF/godina). Igre i užina jedan petak mjesečno.",
@@ -1420,5 +1420,10 @@
     "description": "Društveni dom i Robinzonov vrt u Châtelaine-Balexert. Ugodan prostor za druženje i razmjenu u kvartu. Kulturne i rekreativne aktivnosti za djecu (6-12), tinejdžere (12-18) i odrasle. Ekološki vrt i životinje.",
     "target_audience": "Djeca (6-12), tinejdžeri (12-18), svi povremeno",
     "access_conditions": "Besplatno, za neke aktivnosti potrebna prijava"
+  },
+  "r_0214": {
+    "description": "Neprofitna udruga koja pruža nemedicinsku pratnju i palijativnu skrb za osobe na kraju života u kući ili u domovima za starije. Noćna prisutnost (više od 12 sati dnevno), psihološka, fizička i duhovna podrška. Podrška obiteljskim njegovateljima. Besplatno za osobe s niskim primanjima.",
+    "target_audience": "Osobe na kraju života koje žele ostati kod kuće, obiteljski njegovatelji",
+    "access_conditions": "Besplatno za osobe s niskim primanjima. Moguće financijsko sudjelovanje prema mogućnostima. Kontakt putem e-maila."
   }
 }

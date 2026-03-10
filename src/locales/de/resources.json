@@ -730,9 +730,9 @@
     "access_conditions": "Unterbringung auf Anfrage, 10 bis 20 Plätze, unbegrenzte Dauer"
   },
   "r_0147": {
-    "description": "Notschlafstelle der Stadt Genf. Kostenloses Bett, Abendessen, Gepäckaufbewahrung und Duschzugang. Begrenzt auf 30 Tage. Zugang nur über die Notunterkunft-Zentrale.",
-    "target_audience": "Obdachlose Menschen",
-    "access_conditions": "Notunterkunft-Zentrale anrufen: 0800 22 22 10 (kostenlos). Begrenzt auf 30 Tage."
+    "description": "Notschlafstelle der Stadt Genf (Abri PC Richemont). Kostenloser Schlafplatz, Abendessen, Gepäckaufbewahrung und Duschen. Begrenzung auf 30 Tage. Zugang AUSSCHLIESSLICH über die Notrufnummer für Wohnungsnotfälle 0800 22 22 10.",
+    "target_audience": "Obdachlose Personen",
+    "access_conditions": "Anruf bei der Notrufnummer für Wohnungsnotfälle 0800 22 22 10 (kostenlos). Begrenzung auf 30 Tage."
   },
   "r_0148": {
     "description": "Gemeinschaftsmedizin und Pflegeeinheit (ehemals CAMSCO). Kostenlose und vertrauliche medizinische Beratung für Personen ohne Krankenversicherung oder Aufenthaltsstatus. Erstversorgung, ärztliche und pflegerische Beratungen, Überweisung an Fachdienste. Über 4.500 Patienten pro Jahr.",
@@ -850,9 +850,9 @@
     "access_conditions": "Spielen vor Ort kostenlos. Ausleihe mit jährlichem Familienabo (30 CHF). Kinder unter 6 Jahren in Begleitung eines Erwachsenen."
   },
   "r_0171": {
-    "description": "Notunterkunft für Frauen in prekären Situationen, obdachlose oder geflüchtete Frauen mit Kindern. 30 bedingungslose Aufnahmeplätze und 21 Plätze für Frauen in der Sozialhilfe. Einzel- oder Doppelzimmer, drei Mahlzeiten pro Tag, Waschküche, soziale Begleitung.",
-    "target_audience": "Obdachlose Frauen, Frauen in prekären Situationen, Geflüchtete mit Kindern",
-    "access_conditions": "Kontaktieren Sie die Genfer Notunterkunft-Hotline: 0800 22 22 10 (Mo-Fr 10:30-20:00, Sa-So 15:00-20:00). Keine direkte Reservierung."
+    "description": "Notunterkunft für Frauen in prekären Situationen, obdachlose Frauen oder Flüchtlinge mit Kindern (Bel'Espérance, Heilsarmee). 30 bedingungslose Plätze und 21 Plätze mit Sozialbegleitung. Einzel-/Doppelzimmer, 3 Mahlzeiten pro Tag, Wäscheservice, Sozialbetreuung. Zugang AUSSCHLIESSLICH über die Notrufnummer 0800 22 22 10.",
+    "target_audience": "Obdachlose Frauen, Frauen in prekären Situationen, Flüchtlinge mit Kindern",
+    "access_conditions": "Kontakt über die Genfer Notrufnummer für Wohnungsnotfälle: 0800 22 22 10 (Mo-Fr 10:30-20:00, Sa-So 15:00-20:00). Keine direkte Reservierung möglich."
   },
   "r_0172": {
     "description": "Quartier-Spielothek mit kostenlosem Spielen vor Ort und Ausleihe von Gesellschaftsspielen und Spielzeug. Ausleihe mit Familienabonnement (30 CHF/Jahr). Spiel- und Znüni-Nachmittag ein Freitag pro Monat.",
@@ -1420,5 +1420,10 @@
     "description": "Quartierhaus und Robinson-Garten in Châtelaine-Balexert. Gemütlicher Raum für Begegnungen und Austausch im Quartier. Kultur- und Freizeitaktivitäten für Kinder (6-12), Jugendliche (12-18) und Erwachsene. Biogarten und Tiere. Verein geführt von einem Bewohnerkomitee.",
     "target_audience": "Kinder (6-12), Jugendliche (12-18), gelegentlich alle",
     "access_conditions": "Kostenlos, Anmeldung für einige Aktivitäten erforderlich"
+  },
+  "r_0214": {
+    "description": "Gemeinnütziger Verein Swiss Pallia Confort, der nicht-medizinische Begleitung und Komfortpflege für Patienten am Lebensende zu Hause oder in Pflegeeinrichtungen anbietet. Nachtpräsenz (mehr als 12 Std./Tag), psychologische, physische und spirituelle Unterstützung. Unterstützung für pflegende Angehörige. Kostenlos für einkommensschwache Personen.",
+    "target_audience": "Patienten am Lebensende, die zu Hause bleiben möchten, pflegende Angehörige",
+    "access_conditions": "Kostenlos für einkommensschwache Personen. Finanzielle Beteiligung möglich. Kontaktaufnahme per E-Mail."
   }
 }

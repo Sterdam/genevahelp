@@ -730,7 +730,7 @@
     "access_conditions": "Hébergement sur demande, 10 à 20 places, durée illimitée"
   },
   "r_0147": {
-    "description": "Abri de nuit d'urgence de la Ville de Genève. Lit, repas du soir, bagagerie et accès aux douches fournis gratuitement. Durée limitée à 30 jours. Accès uniquement via la Centrale d'hébergement d'urgence.",
+    "description": "Abri de nuit d'urgence de la Ville de Genève. Lit, repas du soir, bagagerie et accès aux douches fournis gratuitement. Durée limitée à 30 jours. Accès uniquement via la Centrale d'hébergement d'urgence au 0800 22 22 10.",
     "target_audience": "Personnes sans abri",
     "access_conditions": "Appeler la centrale d'hébergement d'urgence au 0800 22 22 10 (gratuit). Durée limitée à 30 jours."
   },
@@ -850,7 +850,7 @@
     "access_conditions": "Jeu sur place gratuit. Emprunt avec abonnement famille annuel (30 CHF). Enfants de moins de 6 ans accompagnés d'un adulte."
   },
   "r_0171": {
-    "description": "Hébergement d'urgence pour femmes en situation de précarité, sans-abri ou réfugiées avec enfants. 30 places d'accueil inconditionnel et 21 places pour femmes à l'aide sociale. Chambres individuelles ou doubles, trois repas par jour, buanderie, accompagnement social.",
+    "description": "Hébergement d'urgence pour femmes en situation de précarité, sans-abri ou réfugiées avec enfants. 30 places d'accueil inconditionnel et 21 places pour femmes à l'aide sociale. Chambres individuelles ou doubles, trois repas par jour, buanderie, accompagnement social. Accès uniquement via la Centrale d'hébergement d'urgence au 0800 22 22 10.",
     "target_audience": "Femmes sans abri, femmes en situation de précarité, réfugiées avec enfants",
     "access_conditions": "Contacter la ligne d'hébergement d'urgence de Genève : 0800 22 22 10 (lun-ven 10h30-20h, sam-dim 15h-20h). Pas de réservation directe."
   },
@@ -1420,5 +1420,10 @@
     "description": "Maison de quartier et Jardin Robinson de Châtelaine-Balexert. Espace convivial d'accueil, d'échanges et de rencontres pour le quartier. Activités culturelles et de loisirs pour enfants (6-12 ans), adolescents (12-18 ans) et adultes. Potager bio et animaux. Association gérée par un comité d'habitants.",
     "target_audience": "Enfants (6-12 ans), adolescents (12-18 ans), tout public ponctuellement",
     "access_conditions": "Gratuit, inscription nécessaire pour certaines activités"
+  },
+  "r_0214": {
+    "description": "Association à but non lucratif offrant un accompagnement non médicalisé et des soins de confort aux personnes en fin de vie à domicile ou en EMS. Présence de nuit (12h/jour et plus), soutien psychologique, physique et spirituel. Soutien aux proches aidants. Services gratuits pour les personnes à faibles revenus.",
+    "target_audience": "Personnes en fin de vie souhaitant rester à domicile, proches aidants",
+    "access_conditions": "Gratuit pour les personnes à faibles revenus. Participation possible selon les moyens. Contacter l'association par email."
   }
 }

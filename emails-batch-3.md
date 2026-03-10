@@ -253,17 +253,19 @@ L'equipe GenevaHelp
 
 ---
 
-### Abri PC Richemont
+### Abri PC Richemont & Bel'Esperance
 **A :** marie-laure.schaerer@geneve.ch
-**Objet :** Votre demande de modification sur GenevaHelp — Abri PC Richemont
+**Objet :** Modifications appliquees sur GenevaHelp — Abri PC Richemont & Bel'Esperance
 
 Bonjour Marie-Laure,
 
-Merci pour votre message concernant l'Abri PC Richemont sur GenevaHelp.
+Suite a votre demande, les modifications ont ete appliquees sur les deux entites :
 
-La modification a ete appliquee : le numero direct et l'adresse specifique de l'abri ont ete retires. Seul le numero de la Centrale telephonique d'urgence 0800 22 22 10 est desormais indique comme porte d'entree unique.
+- **Abri PC Richemont** : l'adresse specifique et les coordonnees GPS ont ete retires. Le lieu n'apparait plus comme point sur la carte mais reste accessible dans la liste des ressources. Seul le numero de la Centrale telephonique d'urgence 0800 22 22 10 est indique.
 
-Concernant Bel Esperance, cette entite n'etait pas referencee sur notre carte. Si vous souhaitez qu'elle y figure (avec uniquement le 0800 22 22 10), n'hesitez pas a nous le signaler.
+- **Bel'Esperance (Armee du Salut)** : meme traitement applique — l'adresse et le point sur la carte ont ete retires. Le numero direct a ete remplace par le 0800 22 22 10 comme unique porte d'entree.
+
+Les deux ressources restent visibles dans la liste et la recherche, mais sans localisation sur la carte, conformement a votre demande.
 
 Cordialement,
 L'equipe GenevaHelp
@@ -295,10 +297,26 @@ L'equipe GenevaHelp
 
 ---
 
-## En attente de verification
+## Ajout supplementaire (batch 4b — 10/03/2026)
 
 ### Swiss Pallia Confort
-(email deja prepare dans le batch precedent — en attente de reponse)
+**A :** info@swisspalliaconfort.ch
+**Objet :** Votre suggestion sur GenevaHelp — Swiss Pallia Confort
+
+Bonjour Fatima,
+
+Merci pour votre suggestion de Swiss Pallia Confort sur GenevaHelp !
+
+L'association a ete ajoutee a notre carte : accompagnement non medicalise et soins de confort pour les personnes en fin de vie a domicile ou en EMS. Presence de nuit, soutien psychologique, physique et spirituel, aide aux proches aidants. Nous avons note que les services sont gratuits pour les personnes a faibles revenus.
+
+Merci pour cette ressource precieuse pour l'accompagnement en fin de vie a Geneve !
+
+Cordialement,
+L'equipe GenevaHelp
+
+---
+
+## En attente de verification
 
 ### Chat de Bla — Gouter conte
 **Note :** Gratuité non confirmee sur le site. Activite tres niche (conte 1x/mois). A verifier.

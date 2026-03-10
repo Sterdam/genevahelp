@@ -730,9 +730,9 @@
     "access_conditions": "Zakwaterowanie na prośbę, 10 do 20 miejsc, czas pobytu nieograniczony"
   },
   "r_0147": {
-    "description": "Noclegownia awaryjna miasta Genewy. Bezpłatne łóżko, kolacja, przechowalnia bagażu i dostęp do pryszniców. Limit 30 dni. Dostęp wyłącznie przez infolinię awaryjną.",
+    "description": "Noclegownia awaryjna Miasta Genewy. Bezpłatne łóżko, kolacja, przechowalnia bagażu i dostęp do pryszniców. Limit 30 dni. Dostęp wyłącznie przez awaryjną linię telefoniczną 0800 22 22 10.",
     "target_audience": "Osoby bezdomne",
-    "access_conditions": "Zadzwoń na infolinię: 0800 22 22 10 (bezpłatnie). Limit 30 dni."
+    "access_conditions": "Zadzwoń na awaryjną linię mieszkaniową 0800 22 22 10 (bezpłatnie). Limit 30 dni."
   },
   "r_0148": {
     "description": "Jednostka medycyny społecznej (dawniej CAMSCO). Bezpłatne i poufne konsultacje medyczne dla osób bez ubezpieczenia zdrowotnego lub statusu prawnego. Podstawowa opieka zdrowotna, konsultacje lekarskie i pielęgniarskie, skierowania do specjalistów. Ponad 4500 pacjentów rocznie.",
@@ -850,9 +850,9 @@
     "access_conditions": "Gra na miejscu bezpłatna. Wypożyczanie z rocznym abonamentem rodzinnym (30 CHF). Dzieci poniżej 6 lat w towarzystwie osoby dorosłej."
   },
   "r_0171": {
-    "description": "Schronienie awaryjne dla kobiet w trudnej sytuacji, bezdomnych lub uchodźczyń z dziećmi. 30 miejsc bezwarunkowego przyjęcia i 21 miejsc dla kobiet korzystających z pomocy społecznej. Pokoje jednoosobowe lub dwuosobowe, trzy posiłki dziennie, pralnia, wsparcie socjalne.",
+    "description": "Schronienie awaryjne dla kobiet w trudnej sytuacji, bezdomnych lub uchodźczyń z dziećmi (Armia Zbawienia). 30 miejsc bezwarunkowego przyjęcia i 21 miejsc dla kobiet korzystających z pomocy społecznej. Pokoje jedno- lub dwuosobowe, trzy posiłki dziennie, pralnia, wsparcie socjalne. Dostęp wyłącznie przez linię telefoniczną 0800 22 22 10.",
     "target_audience": "Bezdomne kobiety, kobiety w trudnej sytuacji, uchodźczynie z dziećmi",
-    "access_conditions": "Zadzwoń na linię schronienia awaryjnego w Genewie: 0800 22 22 10 (pon-pt 10:30-20:00, sob-niedz 15:00-20:00). Bez bezpośredniej rezerwacji."
+    "access_conditions": "Skontaktuj się z genewską awaryjną linią mieszkaniową: 0800 22 22 10 (pon-pt 10:30-20:00, sob-niedz 15:00-20:00). Bez bezpośredniej rezerwacji."
   },
   "r_0172": {
     "description": "Osiedlowa wypożyczalnia zabawek z bezpłatną grą na miejscu i wypożyczaniem gier planszowych i zabawek. Wypożyczanie z abonamentem rodzinnym (30 CHF/rok). Gry i przekąska jeden piątek w miesiącu.",
@@ -1420,5 +1420,10 @@
     "description": "Dom sąsiedzki i ogród Robinsona w Châtelaine-Balexert. Przyjazna przestrzeń spotkań i wymiany dla osiedla. Zajęcia kulturalne i rekreacyjne dla dzieci (6–12), nastolatków (12–18) i dorosłych. Ogród ekologiczny i zwierzęta.",
     "target_audience": "Dzieci (6–12), nastolatki (12–18), wszyscy okazjonalnie",
     "access_conditions": "Bezpłatnie, na niektóre zajęcia wymagana rejestracja"
+  },
+  "r_0214": {
+    "description": "Stowarzyszenie non-profit oferujące niemedyczne towarzyszenie i opiekę paliatywną dla osób u kresu życia w domu lub w placówkach opiekuńczych. Obecność nocna (ponad 12 godzin dziennie), wsparcie psychologiczne, fizyczne i duchowe. Wsparcie dla opiekunów rodzinnych. Bezpłatnie dla osób o niskich dochodach.",
+    "target_audience": "Osoby u kresu życia pragnące pozostać w domu, opiekunowie rodzinni",
+    "access_conditions": "Bezpłatnie dla osób o niskich dochodach. Możliwy udział finansowy w zależności od środków. Kontakt przez e-mail."
   }
 }

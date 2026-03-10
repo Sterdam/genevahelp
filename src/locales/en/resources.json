@@ -730,7 +730,7 @@
     "access_conditions": "Shelter on request, 10 to 20 places, unlimited duration"
   },
   "r_0147": {
-    "description": "Emergency night shelter run by the City of Geneva. Free bed, evening meal, luggage storage and shower access. Limited to 30 days. Access only through the Emergency Housing Hotline.",
+    "description": "Emergency night shelter run by the City of Geneva. Free bed, evening meal, luggage storage and shower access. Limited to 30 days. Access ONLY through the emergency housing hotline at 0800 22 22 10.",
     "target_audience": "Homeless people",
     "access_conditions": "Call the emergency housing hotline at 0800 22 22 10 (free). Limited to 30 days."
   },
@@ -850,9 +850,9 @@
     "access_conditions": "Free on-site play. Borrowing with annual family subscription (30 CHF). Children under 6 must be accompanied by an adult."
   },
   "r_0171": {
-    "description": "Emergency shelter for women in precarious situations, homeless or refugees with children. 30 unconditional reception places and 21 places for women on social assistance. Single or double rooms, three meals a day, laundry facilities, social support.",
+    "description": "Emergency shelter for women in precarious situations, homeless or refugees with children. 30 unconditional places and 21 places for women on social assistance. Single or double rooms, three meals a day, laundry, social support. Access ONLY through the emergency housing hotline at 0800 22 22 10.",
     "target_audience": "Homeless women, women in precarious situations, refugees with children",
-    "access_conditions": "Contact the Geneva emergency shelter line: 0800 22 22 10 (Mon-Fri 10:30am-8pm, Sat-Sun 3pm-8pm). No direct reservation."
+    "access_conditions": "Contact the Geneva emergency housing line: 0800 22 22 10 (Mon-Fri 10:30am-8pm, Sat-Sun 3pm-8pm). No direct reservation."
   },
   "r_0172": {
     "description": "Neighborhood toy library with free on-site play and lending of board games and toys. Borrowing with family subscription (30 CHF/year). Games and snack afternoon one Friday per month.",
@@ -1420,5 +1420,10 @@
     "description": "Community centre and Robinson Garden in Châtelaine-Balexert. Friendly space for socialising, exchanges and meetings for the neighbourhood. Cultural and leisure activities for children (6-12), teenagers (12-18) and adults. Organic garden and animals. Association managed by a residents' committee.",
     "target_audience": "Children (6-12), teenagers (12-18), general public occasionally",
     "access_conditions": "Free, registration required for some activities"
+  },
+  "r_0214": {
+    "description": "Non-profit association providing non-medical accompaniment and comfort care for end-of-life patients at home or in care facilities. Night presence (12+ hours/day), psychological, physical and spiritual support. Support for family caregivers. Free services for low-income individuals.",
+    "target_audience": "End-of-life patients wishing to stay at home, family caregivers",
+    "access_conditions": "Free for low-income individuals. Financial participation possible based on means. Contact the association by email."
   }
 }

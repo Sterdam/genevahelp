@@ -58,8 +58,10 @@ export function ResourceDetail({ resource, onClose }: ResourceDetailProps) {
 
   const config = CATEGORY_CONFIG[resource.category]
   const Icon = config.icon
+  const hasCoords = isFinite(resource.latitude) && isFinite(resource.longitude)
 
   const openDirections = () => {
+    if (!hasCoords) return
     window.open(
       `https://www.google.com/maps/dir/?api=1&destination=${resource.latitude},${resource.longitude}`,
       '_blank'
@@ -170,6 +172,7 @@ interface DetailContentProps {
 }
 
 function DetailContent({ resource, config, t, openDirections }: DetailContentProps) {
+  const hasCoords = isFinite(resource.latitude) && isFinite(resource.longitude)
   const hasAudience = resource.target_audience || resource.access_conditions
   const hasContact = resource.phone || resource.email || resource.website
   const hasHours = resource.opening_hours && Object.keys(resource.opening_hours).length > 0
@@ -218,19 +221,21 @@ function DetailContent({ resource, config, t, openDirections }: DetailContentPro
         <SectionHeader icon={MapPin} label={t('resource.contact')} />
         <div className="bg-gray-50 rounded-xl p-3 space-y-3">
           {/* Address */}
-          <div className="flex items-start gap-3">
-            <MapPin size={16} className="text-gray-400 mt-0.5 shrink-0" />
-            <div className="flex-1 min-w-0">
-              <p className="text-sm text-gray-900">{resource.address}</p>
-              <button
-                onClick={openDirections}
-                className="text-xs text-blue-600 hover:text-blue-700 mt-0.5 inline-flex items-center gap-1"
-              >
-                <Navigation size={11} />
-                {t('resource.directions')}
-              </button>
+          {hasCoords && (
+            <div className="flex items-start gap-3">
+              <MapPin size={16} className="text-gray-400 mt-0.5 shrink-0" />
+              <div className="flex-1 min-w-0">
+                <p className="text-sm text-gray-900">{resource.address}</p>
+                <button
+                  onClick={openDirections}
+                  className="text-xs text-blue-600 hover:text-blue-700 mt-0.5 inline-flex items-center gap-1"
+                >
+                  <Navigation size={11} />
+                  {t('resource.directions')}
+                </button>
+              </div>
             </div>
-          </div>
+          )}
 
           {/* Phone */}
           {resource.phone && (
@@ -384,15 +389,18 @@ interface ActionBarProps {
 }
 
 function ActionBar({ resource, t, openDirections, callPhone, openWebsite }: ActionBarProps) {
+  const hasCoords = isFinite(resource.latitude) && isFinite(resource.longitude)
   return (
     <div className="border-t border-gray-200 p-3 flex gap-2 bg-white safe-area-bottom">
-      <button
-        onClick={openDirections}
-        className="flex-1 py-2.5 bg-blue-600 text-white rounded-xl text-sm font-medium hover:bg-blue-700 transition-colors flex items-center justify-center gap-2"
-      >
-        <Navigation size={16} />
-        {t('resource.directions')}
-      </button>
+      {hasCoords && (
+        <button
+          onClick={openDirections}
+          className="flex-1 py-2.5 bg-blue-600 text-white rounded-xl text-sm font-medium hover:bg-blue-700 transition-colors flex items-center justify-center gap-2"
+        >
+          <Navigation size={16} />
+          {t('resource.directions')}
+        </button>
+      )}
       {resource.phone && (
         <button
           onClick={callPhone}

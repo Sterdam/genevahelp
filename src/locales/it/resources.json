@@ -730,9 +730,9 @@
     "access_conditions": "Alloggio su richiesta, da 10 a 20 posti, durata illimitata"
   },
   "r_0147": {
-    "description": "Rifugio notturno d'emergenza della Città di Ginevra. Letto, cena, deposito bagagli e accesso alle docce gratuiti. Limitato a 30 giorni. Accesso solo tramite la Centrale di alloggio d'emergenza.",
+    "description": "Rifugio notturno d'emergenza della Città di Ginevra (Abri PC Richemont). Posto letto gratuito, cena, deposito bagagli e docce. Limite di 30 giorni. Accesso ESCLUSIVAMENTE tramite la linea di emergenza abitativa 0800 22 22 10.",
     "target_audience": "Persone senza fissa dimora",
-    "access_conditions": "Chiamare la centrale di alloggio d'emergenza: 0800 22 22 10 (gratuito). Limitato a 30 giorni."
+    "access_conditions": "Chiamare la linea di emergenza abitativa 0800 22 22 10 (gratuita). Limite di 30 giorni."
   },
   "r_0148": {
     "description": "Unità di medicina e cure nella comunità (ex CAMSCO). Consulenza medica gratuita e riservata per persone senza assicurazione malattia o senza statuto legale. Cure di base, consulti medici e infermieristici, indirizzamento ai servizi specializzati. Oltre 4.500 pazienti all'anno.",
@@ -850,9 +850,9 @@
     "access_conditions": "Gioco in loco gratuito. Prestito con abbonamento famiglia annuale (30 CHF). Bambini sotto i 6 anni accompagnati da un adulto."
   },
   "r_0171": {
-    "description": "Alloggio d'emergenza per donne in situazione di precarietà, senza fissa dimora o rifugiate con bambini. 30 posti di accoglienza incondizionata e 21 posti per donne con assistenza sociale. Camere singole o doppie, tre pasti al giorno, lavanderia, accompagnamento sociale.",
-    "target_audience": "Donne senza fissa dimora, donne in situazione di precarietà, rifugiate con bambini",
-    "access_conditions": "Contattare la linea di alloggio d'emergenza di Ginevra: 0800 22 22 10 (lun-ven 10:30-20:00, sab-dom 15:00-20:00). Nessuna prenotazione diretta."
+    "description": "Rifugio d'emergenza per donne in situazione precaria, senzatetto o rifugiate con bambini (Bel'Espérance, Esercito della Salvezza). 30 posti incondizionati e 21 posti con accompagnamento sociale. Camere singole/doppie, 3 pasti al giorno, lavanderia, sostegno sociale. Accesso ESCLUSIVAMENTE tramite la linea di emergenza 0800 22 22 10.",
+    "target_audience": "Donne senzatetto, donne in situazione precaria, rifugiate con bambini",
+    "access_conditions": "Contattare la linea di emergenza abitativa di Ginevra: 0800 22 22 10 (lun-ven 10:30-20:00, sab-dom 15:00-20:00). Nessuna prenotazione diretta."
   },
   "r_0172": {
     "description": "Ludoteca di quartiere con gioco gratuito sul posto e prestito di giochi da tavolo e giocattoli. Prestito con abbonamento familiare (30 CHF/anno). Giochi e merenda un venerdì al mese.",
@@ -1420,5 +1420,10 @@
     "description": "Casa di quartiere e Giardino Robinson di Châtelaine-Balexert. Spazio accogliente di incontro e scambio per il quartiere. Attività culturali e ricreative per bambini (6-12), adolescenti (12-18) e adulti. Orto biologico e animali. Associazione gestita da un comitato di abitanti.",
     "target_audience": "Bambini (6-12), adolescenti (12-18), pubblico generale occasionalmente",
     "access_conditions": "Gratuito, iscrizione necessaria per alcune attività"
+  },
+  "r_0214": {
+    "description": "Associazione senza scopo di lucro Swiss Pallia Confort che offre accompagnamento non medico e cure di comfort per pazienti a fine vita a domicilio o in strutture di cura. Presenza notturna (più di 12 ore/giorno), supporto psicologico, fisico e spirituale. Sostegno ai familiari caregiver. Gratuito per le persone a basso reddito.",
+    "target_audience": "Pazienti a fine vita che desiderano restare a casa, familiari caregiver",
+    "access_conditions": "Gratuito per le persone a basso reddito. Partecipazione finanziaria possibile. Contatto via e-mail."
   }
 }

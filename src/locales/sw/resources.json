@@ -730,9 +730,9 @@
     "access_conditions": "Malazi kwa ombi, nafasi 10-20, muda usio na kikomo"
   },
   "r_0147": {
-    "description": "Makazi ya usiku ya dharura ya Jiji la Geneva. Kitanda, chakula cha jioni, uhifadhi wa mizigo na kuoga bure. Kikomo cha siku 30. Kuingia tu kupitia simu ya dharura ya makazi.",
+    "description": "Makazi ya usiku ya dharura yanayotolewa na Jiji la Geneva. Kitanda, chakula cha jioni, uhifadhi wa mizigo na kuoga bure. Kikomo cha siku 30. Kuingia tu kupitia simu ya dharura ya makazi 0800 22 22 10.",
     "target_audience": "Watu wasio na makazi",
-    "access_conditions": "Piga simu ya dharura: 0800 22 22 10 (bure). Kikomo cha siku 30."
+    "access_conditions": "Piga simu ya dharura ya makazi 0800 22 22 10 (bure). Kikomo cha siku 30."
   },
   "r_0148": {
     "description": "Kitengo cha afya ya jamii (zamani CAMSCO). Ushauri wa matibabu bure na wa siri kwa watu wasio na bima ya afya au hadhi ya kisheria. Huduma za msingi, mashauriano ya daktari na muuguzi, rufaa kwa huduma maalum. Wagonjwa zaidi ya 4500 kwa mwaka.",
@@ -850,7 +850,7 @@
     "access_conditions": "Kucheza mahali ni bure. Kukopa kwa usajili wa familia wa kila mwaka (30 CHF). Watoto chini ya miaka 6 waandamane na mtu mzima."
   },
   "r_0171": {
-    "description": "Makazi ya dharura kwa wanawake walio katika hali ngumu, wasio na makazi au wakimbizi wenye watoto. Nafasi 30 za mapokezi bila masharti na nafasi 21 kwa wanawake wanaopata msaada wa kijamii. Vyumba vya mtu mmoja au wawili, milo mitatu kwa siku, kufulia, msaada wa kijamii.",
+    "description": "Bel'Espérance (Jeshi la Wokovu): Makazi ya dharura kwa wanawake walio katika hali ngumu, wasio na makazi au wakimbizi wenye watoto. Nafasi 30 za mapokezi bila masharti + nafasi 21 za msaada wa kijamii. Vyumba vya mtu mmoja au wawili, milo 3 kwa siku, kufulia, msaada wa kijamii. Kuingia tu kupitia simu 0800 22 22 10.",
     "target_audience": "Wanawake wasio na makazi, wanawake walio katika hali ngumu, wakimbizi wenye watoto",
     "access_conditions": "Wasiliana na simu ya dharura ya makazi ya Geneva: 0800 22 22 10 (Jumatatu-Ijumaa 10:30-20:00, Jumamosi-Jumapili 15:00-20:00). Hakuna uhifadhi wa moja kwa moja."
   },
@@ -1420,5 +1420,10 @@
     "description": "Nyumba ya mtaa na Bustani ya Robinson ya Châtelaine-Balexert. Eneo la urafiki la kukutana na kubadilishana kwa mtaa. Shughuli za kitamaduni na burudani kwa watoto (6-12), vijana (12-18) na watu wazima. Bustani ya kikaboni na wanyama.",
     "target_audience": "Watoto (6-12), vijana (12-18), umma kwa ujumla mara kwa mara",
     "access_conditions": "Bure, usajili unahitajika kwa shughuli fulani"
+  },
+  "r_0214": {
+    "description": "Swiss Pallia Confort: Shirika lisilo la faida linalotoa uandamano na faraja isiyo ya kimatibabu kwa wagonjwa wa mwisho wa maisha nyumbani au katika vituo vya huduma. Uwepo wa usiku (12+ masaa/siku), msaada wa kisaikolojia, kimwili na kiroho. Msaada kwa walezi wa familia. Bure kwa watu wenye mapato ya chini.",
+    "target_audience": "Wagonjwa wa mwisho wa maisha wanaotaka kubaki nyumbani, walezi wa familia",
+    "access_conditions": "Bure kwa watu wenye mapato ya chini. Mchango wa kifedha unawezekana. Wasiliana kwa barua pepe."
   }
 }

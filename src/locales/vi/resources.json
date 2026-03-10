@@ -730,9 +730,9 @@
     "access_conditions": "Nhà trọ theo yêu cầu, 10 đến 20 chỗ, thời gian không giới hạn"
   },
   "r_0147": {
-    "description": "Nhà trú đêm khẩn cấp của Thành phố Geneva. Giường ngủ, bữa tối, gửi hành lý và tắm miễn phí. Giới hạn 30 ngày. Chỉ vào được qua đường dây nóng nhà ở khẩn cấp.",
+    "description": "Nhà trú đêm khẩn cấp do Thành phố Geneva cung cấp. Giường ngủ, bữa tối, gửi hành lý và tắm miễn phí. Giới hạn 30 ngày. Chỉ được vào qua đường dây nóng nhà ở khẩn cấp 0800 22 22 10.",
     "target_audience": "Người vô gia cư",
-    "access_conditions": "Gọi đường dây nóng: 0800 22 22 10 (miễn phí). Giới hạn 30 ngày."
+    "access_conditions": "Gọi đường dây nóng nhà ở khẩn cấp 0800 22 22 10 (miễn phí). Giới hạn 30 ngày."
   },
   "r_0148": {
     "description": "Đơn vị y tế cộng đồng (trước đây là CAMSCO). Tư vấn y tế miễn phí và bảo mật cho người không có bảo hiểm y tế hoặc tư cách pháp lý. Chăm sóc ban đầu, tư vấn bác sĩ và y tá, giới thiệu đến dịch vụ chuyên khoa. Hơn 4.500 bệnh nhân mỗi năm.",
@@ -850,7 +850,7 @@
     "access_conditions": "Chơi tại chỗ miễn phí. Mượn với đăng ký gia đình hàng năm (30 CHF). Trẻ em dưới 6 tuổi phải có người lớn đi kèm."
   },
   "r_0171": {
-    "description": "Nơi trú ẩn khẩn cấp cho phụ nữ trong tình trạng khó khăn, vô gia cư hoặc phụ nữ tị nạn có con. 30 chỗ tiếp nhận vô điều kiện và 21 chỗ cho phụ nữ được hỗ trợ xã hội. Phòng đơn hoặc đôi, ba bữa ăn mỗi ngày, phòng giặt, hỗ trợ xã hội.",
+    "description": "Bel'Espérance (Đội Cứu Thế): Nơi trú ẩn khẩn cấp cho phụ nữ trong tình trạng khó khăn, vô gia cư hoặc phụ nữ tị nạn có con. 30 chỗ tiếp nhận vô điều kiện + 21 chỗ hỗ trợ xã hội. Phòng đơn/đôi, 3 bữa ăn mỗi ngày, phòng giặt, hỗ trợ xã hội. Chỉ được vào qua đường dây nóng 0800 22 22 10.",
     "target_audience": "Phụ nữ vô gia cư, phụ nữ trong tình trạng khó khăn, phụ nữ tị nạn có con",
     "access_conditions": "Liên hệ đường dây trú ẩn khẩn cấp Geneva: 0800 22 22 10 (Thứ Hai-Thứ Sáu 10:30-20:00, Thứ Bảy-Chủ nhật 15:00-20:00). Không đặt chỗ trực tiếp."
   },
@@ -1420,5 +1420,10 @@
     "description": "Nhà cộng đồng và Vườn Robinson Châtelaine-Balexert. Không gian ấm cúng để gặp gỡ và trao đổi trong khu phố. Hoạt động văn hóa và giải trí cho trẻ em (6-12), thanh thiếu niên (12-18) và người lớn. Vườn hữu cơ và động vật.",
     "target_audience": "Trẻ em (6-12), thanh thiếu niên (12-18), công chúng thỉnh thoảng",
     "access_conditions": "Miễn phí, một số hoạt động cần đăng ký"
+  },
+  "r_0214": {
+    "description": "Swiss Pallia Confort: Tổ chức phi lợi nhuận cung cấp dịch vụ đồng hành và chăm sóc tinh thần (không phải y tế) cho bệnh nhân cuối đời tại nhà hoặc cơ sở chăm sóc. Có người túc trực ban đêm (12+ giờ/ngày), hỗ trợ tâm lý, thể chất và tinh thần. Hỗ trợ người chăm sóc trong gia đình. Miễn phí cho người có thu nhập thấp.",
+    "target_audience": "Bệnh nhân cuối đời muốn ở nhà, người chăm sóc trong gia đình",
+    "access_conditions": "Miễn phí cho người có thu nhập thấp. Có thể đóng góp tài chính. Liên hệ qua email."
   }
 }

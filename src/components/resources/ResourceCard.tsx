@@ -70,7 +70,7 @@ export function ResourceCard({ resource, isSelected, onClick }: ResourceCardProp
               {t(`categories.${resource.category}`)}
             </span>
 
-            {resource._distance == null && (
+            {resource._distance == null && isFinite(resource.latitude) && (
               <span className="inline-flex items-center gap-1">
                 <MapPin size={12} />
                 {resource.address.split(',')[0]}

@@ -730,9 +730,9 @@
     "access_conditions": "Strehim me kërkesë, 10 deri 20 vende, kohëzgjatje e pakufizuar"
   },
   "r_0147": {
-    "description": "Strehë nate emergjente e Qytetit të Gjenevës. Shtrat, darkë, ruajtje bagazhi dhe akses në dushe falas. E kufizuar në 30 ditë. Akses vetëm nëpërmjet linjës telefonike të emergjencës.",
+    "description": "Strehë nate emergjente e Qytetit të Gjenevës. Shtrat, darkë, ruajtje bagazhi dhe akses në dushe falas. E kufizuar në 30 ditë. Akses vetëm nëpërmjet linjës telefonike të emergjencës 0800 22 22 10.",
     "target_audience": "Persona pa strehë",
-    "access_conditions": "Thirrni linjën e emergjencës: 0800 22 22 10 (falas). E kufizuar në 30 ditë."
+    "access_conditions": "Thirrni linjën e emergjencës për strehim 0800 22 22 10 (falas). E kufizuar në 30 ditë."
   },
   "r_0148": {
     "description": "Njësia e mjekësisë komunitare (ish-CAMSCO). Konsultime mjekësore falas dhe konfidenciale për persona pa sigurim shëndetësor ose pa status ligjor. Kujdes parësor, konsultime mjekësore dhe infermierore, referime tek shërbimet e specializuara. Mbi 4500 pacientë në vit.",
@@ -850,7 +850,7 @@
     "access_conditions": "Loja në vend falas. Huazim me abonim familjar vjetor (30 CHF). Fëmijët nën 6 vjeç të shoqëruar nga një i rritur."
   },
   "r_0171": {
-    "description": "Strehim emergjence për gratë në situatë të vështirë, të pastrehë ose refugjate me fëmijë. 30 vende pranimi pa kushte dhe 21 vende për gratë me ndihmë sociale. Dhoma individuale ose dyshe, tre vakte ushqimi në ditë, lavanteri, mbështetje sociale.",
+    "description": "Strehim emergjence për gratë në situatë të vështirë, të pastrehë ose refugjate me fëmijë (Ushtria e Shpëtimit). 30 vende pranimi pa kushte dhe 21 vende për gratë me ndihmë sociale. Dhoma individuale ose dyshe, tre vakte ushqimi në ditë, lavanteri, mbështetje sociale. Akses vetëm nëpërmjet linjës telefonike 0800 22 22 10.",
     "target_audience": "Gra të pastrehë, gra në situatë të vështirë, refugjate me fëmijë",
     "access_conditions": "Kontaktoni linjën e strehimit të emergjencës së Gjenevës: 0800 22 22 10 (Hën-Pre 10:30-20:00, Sht-Diel 15:00-20:00). Pa rezervim të drejtpërdrejtë."
   },
@@ -1420,5 +1420,10 @@
     "description": "Shtëpi lagjeje dhe Kopshti Robinson në Châtelaine-Balexert. Hapësirë e ngrohtë takimesh dhe shkëmbimesh për lagjen. Aktivitete kulturore dhe argëtuese për fëmijë (6-12), adoleshentë (12-18) dhe të rritur. Kopësht organik dhe kafshë.",
     "target_audience": "Fëmijë (6-12), adoleshentë (12-18), publiku i gjerë herë pas here",
     "access_conditions": "Falas, regjistrim i nevojshëm për disa aktivitete"
+  },
+  "r_0214": {
+    "description": "Organizatë jofitimprurëse që ofron shoqërim jomjekësor dhe kujdes paliativ për personat në fund të jetës në shtëpi ose në shtëpi pleqsh. Prezencë natën (mbi 12 orë në ditë), mbështetje psikologjike, fizike dhe shpirtërore. Mbështetje për kujdestarët familjarë. Falas për personat me të ardhura të ulëta.",
+    "target_audience": "Persona në fund të jetës që dëshirojnë të qëndrojnë në shtëpi, kujdestarë familjarë",
+    "access_conditions": "Falas për personat me të ardhura të ulëta. Pjesëmarrje financiare e mundshme sipas mundësive. Kontakt me email."
   }
 }

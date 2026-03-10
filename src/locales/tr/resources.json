@@ -730,9 +730,9 @@
     "access_conditions": "Başvuru ile barınma, 10-20 yatak, sınırsız süre"
   },
   "r_0147": {
-    "description": "Genève Belediyesi acil gece sığınağı. Yatak, akşam yemeği, eşya deposu ve duş ücretsiz sağlanır. 30 günle sınırlı kalış.",
+    "description": "Cenevre Belediyesi tarafından işletilen acil gece barınağı. Ücretsiz yatak, akşam yemeği, eşya deposu, duş. 30 günle sınırlı kalış. Erişim YALNIZCA acil hat 0800 22 22 10 üzerinden.",
     "target_audience": "Evsiz kişiler",
-    "access_conditions": "Acil barınma merkezini 0800 22 22 10 (ücretsiz) numaradan arayın. 30 günle sınırlı kalış."
+    "access_conditions": "Acil barınma hattını arayın: 0800 22 22 10 (ücretsiz). 30 günle sınırlı kalış."
   },
   "r_0148": {
     "description": "Sağlık sigortası veya yasal statüsü olmayan kişiler için ücretsiz ve gizli tıbbi muayene. Birinci basamak bakım, tıbbi ve hemşirelik muayeneleri, uzman hizmetlere yönlendirme. Yılda 4500'den fazla hasta.",
@@ -850,7 +850,7 @@
     "access_conditions": "Yerinde oynama ücretsiz. Yıllık aile aboneliği (30 CHF) ile ödünç alma. 6 yaş altı çocuklar bir yetişkin eşliğinde."
   },
   "r_0171": {
-    "description": "Zor durumda olan kadınlar, evsiz veya çocuklu mülteci kadınlar için acil barınma. 30 koşulsuz kabul yeri ve sosyal yardım alan kadınlar için 21 yer. Tek veya çift kişilik odalar, günde üç öğün yemek, çamaşırhane, sosyal destek.",
+    "description": "Zor durumda olan kadınlar, evsiz veya çocuklu mülteci kadınlar için acil barınma. 30 koşulsuz yer + sosyal yardım kapsamında 21 yer. Tek/çift kişilik odalar, günde 3 öğün, çamaşırhane, sosyal destek. Erişim YALNIZCA 0800 22 22 10 hattı üzerinden.",
     "target_audience": "Evsiz kadınlar, zor durumda olan kadınlar, çocuklu mülteci kadınlar",
     "access_conditions": "Cenevre acil barınma hattını arayın: 0800 22 22 10 (Pzt-Cum 10:30-20:00, Cts-Paz 15:00-20:00). Doğrudan rezervasyon yapılamaz."
   },
@@ -1420,5 +1420,10 @@
     "description": "MQJR ChâBal — Topluluk merkezi ve Robinson Bahçesi. 6-12 yaş çocuklar ve 12-18 yaş gençler için etkinlikler. Organik bahçe ve hayvanlar. Bazı etkinlikler için kayıtla ücretsiz.",
     "target_audience": "6-12 yaş çocuklar, 12-18 yaş gençler",
     "access_conditions": "Ücretsiz. Bazı etkinlikler için kayıt gereklidir."
+  },
+  "r_0214": {
+    "description": "Evde veya bakım tesislerinde yaşam sonu hastalarına tıbbi olmayan eşlik ve konfor bakımı sunan kar amacı gütmeyen dernek. Gece varlığı (günde 12+ saat), psikolojik, fiziksel ve manevi destek. Aile bakıcılarına destek. Düşük gelirli kişiler için ücretsiz.",
+    "target_audience": "Evde kalmak isteyen yaşam sonu hastaları, aile bakıcıları",
+    "access_conditions": "Düşük gelirli kişiler için ücretsiz. Mali duruma göre katkı mümkün. E-posta ile iletişim."
   }
 }

@@ -730,9 +730,9 @@
     "access_conditions": "Adapost la cerere, 10 pana la 20 de locuri, durata nelimitata"
   },
   "r_0147": {
-    "description": "Adăpost de noapte de urgență al Orașului Geneva. Pat, cină, depozitare bagaje și acces la dușuri gratuite. Limitat la 30 de zile. Acces doar prin linia telefonică de urgență.",
+    "description": "Adăpost de noapte de urgență al orașului Geneva. Pat, masă de seară, garderobă de bagaje și acces la dușuri gratuit. Limitat la 30 de zile. Acces exclusiv prin linia telefonică de urgență 0800 22 22 10.",
     "target_audience": "Persoane fără adăpost",
-    "access_conditions": "Sunați la linia de urgență: 0800 22 22 10 (gratuit). Limitat la 30 de zile."
+    "access_conditions": "Sunați la linia de urgență pentru locuințe 0800 22 22 10 (gratuit). Limitat la 30 de zile."
   },
   "r_0148": {
     "description": "Unitate de medicină comunitară (fost CAMSCO). Consultații medicale gratuite și confidențiale pentru persoane fără asigurare medicală sau statut legal. Îngrijire primară, consultații medicale și de asistență, trimiteri către servicii specializate. Peste 4.500 de pacienți pe an.",
@@ -850,9 +850,9 @@
     "access_conditions": "Joc la fata locului gratuit. Imprumut cu abonament familial anual (30 CHF). Copiii sub 6 ani insotiti de un adult."
   },
   "r_0171": {
-    "description": "Adapost de urgenta pentru femei in situatie de precaritate, fara adapost sau refugiate cu copii. 30 de locuri de primire neconditionata si 21 de locuri pentru femei cu asistenta sociala. Camere individuale sau duble, trei mese pe zi, spalatorie, insotire sociala.",
-    "target_audience": "Femei fara adapost, femei in situatie de precaritate, refugiate cu copii",
-    "access_conditions": "Contactati linia de adapost de urgenta din Geneva: 0800 22 22 10 (lun-vin 10:30-20:00, sam-dum 15:00-20:00). Fara rezervare directa."
+    "description": "Adăpost de urgență pentru femei în situație precară, fără adăpost sau refugiate cu copii (Armata Salvării). 30 de locuri de primire necondiționată și 21 de locuri pentru femei cu asistență socială. Camere individuale sau duble, trei mese pe zi, spălătorie, asistență socială. Acces exclusiv prin linia telefonică 0800 22 22 10.",
+    "target_audience": "Femei fără adăpost, femei în situație precară, refugiate cu copii",
+    "access_conditions": "Contactați linia de urgență pentru locuințe din Geneva: 0800 22 22 10 (luni-vineri 10:30-20:00, sâmbătă-duminică 15:00-20:00). Fără rezervare directă."
   },
   "r_0172": {
     "description": "Ludotecă de cartier cu joc gratuit la fața locului și împrumut de jocuri de societate și jucării. Împrumut cu abonament familial (30 CHF/an). Jocuri și gustare o vineri pe lună.",
@@ -1420,5 +1420,10 @@
     "description": "Casă de cartier și Grădina Robinson din Châtelaine-Balexert. Spațiu prietenos de întâlnire și schimb pentru cartier. Activități culturale și de agrement pentru copii (6-12), adolescenți (12-18) și adulți. Grădină ecologică și animale.",
     "target_audience": "Copii (6-12), adolescenți (12-18), public general ocazional",
     "access_conditions": "Gratuit, înscriere necesară pentru unele activități"
+  },
+  "r_0214": {
+    "description": "Asociație non-profit care oferă însoțire nemedicală și îngrijiri paliative persoanelor aflate la sfârșitul vieții, la domiciliu sau în centre de îngrijire. Prezență nocturnă (peste 12 ore pe zi), sprijin psihologic, fizic și spiritual. Sprijin pentru aparținătorii care acordă îngrijire. Gratuit pentru persoanele cu venituri mici.",
+    "target_audience": "Persoane aflate la sfârșitul vieții care doresc să rămână acasă, aparținători care acordă îngrijire",
+    "access_conditions": "Gratuit pentru persoanele cu venituri mici. Participare financiară posibilă în funcție de mijloace. Contact prin e-mail."
   }
 }

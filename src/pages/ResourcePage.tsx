@@ -88,7 +88,10 @@ export function ResourcePage() {
     ]),
   ], [resource, url, t])
 
+  const hasCoords = isFinite(resource.latitude) && isFinite(resource.longitude)
+
   const openDirections = () => {
+    if (!hasCoords) return
     window.open(
       `https://www.google.com/maps/dir/?api=1&destination=${resource.latitude},${resource.longitude}`,
       '_blank',
@@ -192,19 +195,21 @@ export function ResourcePage() {
             {t('resource.contact')}
           </h2>
 
-          <div className="flex items-start gap-3">
-            <MapPin size={16} className="text-gray-400 mt-0.5 shrink-0" />
-            <div>
-              <p className="text-sm text-gray-900">{resource.address}</p>
-              <button
-                onClick={openDirections}
-                className="text-xs text-blue-600 hover:text-blue-700 mt-0.5 inline-flex items-center gap-1"
-              >
-                <Navigation size={11} />
-                {t('resource.directions')}
-              </button>
+          {hasCoords && (
+            <div className="flex items-start gap-3">
+              <MapPin size={16} className="text-gray-400 mt-0.5 shrink-0" />
+              <div>
+                <p className="text-sm text-gray-900">{resource.address}</p>
+                <button
+                  onClick={openDirections}
+                  className="text-xs text-blue-600 hover:text-blue-700 mt-0.5 inline-flex items-center gap-1"
+                >
+                  <Navigation size={11} />
+                  {t('resource.directions')}
+                </button>
+              </div>
             </div>
-          </div>
+          )}
 
           {resource.phone && (
             <div className="flex items-center gap-3">
@@ -342,13 +347,15 @@ export function ResourcePage() {
             <Map size={16} />
             {t('common.backToMap')}
           </Link>
-          <button
-            onClick={openDirections}
-            className="flex-1 py-2.5 bg-blue-600 text-white rounded-xl text-sm font-medium hover:bg-blue-700 transition-colors flex items-center justify-center gap-2"
-          >
-            <Navigation size={16} />
-            {t('resource.directions')}
-          </button>
+          {hasCoords && (
+            <button
+              onClick={openDirections}
+              className="flex-1 py-2.5 bg-blue-600 text-white rounded-xl text-sm font-medium hover:bg-blue-700 transition-colors flex items-center justify-center gap-2"
+            >
+              <Navigation size={16} />
+              {t('resource.directions')}
+            </button>
+          )}
           {resource.phone && (
             <a
               href={`tel:${resource.phone}`}

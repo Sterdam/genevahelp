@@ -730,9 +730,9 @@
     "access_conditions": "Bicihkirin bi daxwazê, 10 heta 20 cih, dema bê sînor"
   },
   "r_0147": {
-    "description": "Stargeha şevê ya acîl a Bajarê Cenewayê. Nivîn, şîv, cihê bagajan û serşok bi belaş. 30 roj bi sînor e. Têketinê tenê bi hêla xeta telefonê ya acîl.",
+    "description": "Stargeha şevê ya acîl a Bajarê Cenewreyê. Nivîn, şîv, cihê bagajan û serşok bi belaş. Bi sînorê 30 rojan. Têketin tenê bi hêla xeta telefonê ya acîl 0800 22 22 10.",
     "target_audience": "Kesên bê mal",
-    "access_conditions": "Li xeta acîl telefon bikin: 0800 22 22 10 (belaş). 30 roj bi sînor."
+    "access_conditions": "Li xeta acîl a xaniyê telefon bikin 0800 22 22 10 (belaş). Bi sînorê 30 rojan."
   },
   "r_0148": {
     "description": "Yekîneya bijîjkiya civakî (berê CAMSCO). Şêwirmendiya bijîjkî ya belaş û nepenî ji bo kesên bê sîgorteya tendirûstiyê an bê rewşa qanûnî. Lênêrîna destpêkê, şêwirmendiya bijîjk û hemşîre, şandin bo xizmetên pispor. Di salê de zêdetirî 4500 nexweş.",
@@ -850,7 +850,7 @@
     "access_conditions": "Lîstina li cih belaş e. Deynkirin bi aboneyê malbatî yê salane (30 CHF). Zarokên di bin 6 salî de bi mezinan re."
   },
   "r_0171": {
-    "description": "Bicîhkirina acîl ji bo jinên di rewşa dijwar de, bêmal an penaberên bi zarokan. 30 cihên pêşwaziya bê mercî û 21 cih ji bo jinên di alîkariya civakî de. Odeyên yek an du kesî, sê xwarinên rojane, cihê cilşûştinê, alîkariya civakî.",
+    "description": "Bel'Espérance (Artêşa Rizgariyê): Bicîhkirina acîl ji bo jinên di rewşa dijwar de, bêmal an penaberên bi zarokan. 30 cihên bê mercî + 21 cihên alîkariya civakî. Odeyên yek an du kesî, rojane 3 xwarin, cihê cilşûştinê, alîkariya civakî. Têketin tenê bi hêla xetê 0800 22 22 10.",
     "target_audience": "Jinên bêmal, jinên di rewşa dijwar de, penaberên bi zarokan",
     "access_conditions": "Bi xeta bicîhkirina acîl a Cenêvê re têkilî daynin: 0800 22 22 10 (Duş-Înî 10:30-20:00, Şem-Yekş 15:00-20:00). Bê rezervasyona rasterast."
   },
@@ -1420,5 +1420,10 @@
     "description": "Mala taxê û Baxçeyê Robinson ya Châtelaine-Balexert. Cihek germ ji bo hevdîtin û pevguhertinê di taxê de. Çalakiyên çandî û şahiyê ji bo zarokan (6-12), ciwanan (12-18) û mezinan. Baxçeyê organîk û ajalên.",
     "target_audience": "Zarok (6-12), ciwan (12-18), her kes carinan",
     "access_conditions": "Belaş, ji bo hin çalakiyan qeydkirin pêwîst e"
+  },
+  "r_0214": {
+    "description": "Swiss Pallia Confort: Rêxistinek ne-qezenc ku alîkariya ne-bijîşkî û rihetiyê ji nexweşên di dawiya jiyanê de li mal an li saziyên lênihêrînê pêşkêş dike. Hebûna şevê (rojane 12+ demjimêr), piştgiriya derûnî, laşî û giyanî. Piştgirî ji bo lênihêrînerên malbatê. Ji bo kesên bi dahatên kêm belaş e.",
+    "target_audience": "Nexweşên di dawiya jiyanê de yên ku dixwazin li malê bimînin, lênihêrînerên malbatê",
+    "access_conditions": "Ji bo kesên bi dahatên kêm belaş e. Beşdariya darayî gengaz e. Bi e-nameyê re têkilî daynin."
   }
 }
