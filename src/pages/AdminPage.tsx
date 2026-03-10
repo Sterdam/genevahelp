@@ -858,8 +858,8 @@ function SuggestionCard({
       <div className="p-3">
         <div className="flex items-start justify-between gap-3">
           <div className="min-w-0 flex-1">
-            <div className="flex items-center gap-2">
-              <p className="text-sm font-semibold text-gray-900 truncate">{s.name}</p>
+            <div className={`flex items-center gap-2 ${expanded ? 'flex-wrap' : ''}`}>
+              <p className={`text-sm font-semibold text-gray-900 ${expanded ? '' : 'truncate'}`}>{s.name}</p>
               {catConfig && s.category && (
                 <span
                   className="text-xs px-2 py-0.5 rounded-full font-medium shrink-0"
@@ -878,7 +878,7 @@ function SuggestionCard({
             </div>
             <div className="flex items-center gap-3 mt-1 text-xs text-gray-500">
               {s.address && (
-                <span className="flex items-center gap-1 truncate">
+                <span className={`flex items-center gap-1 ${expanded ? '' : 'truncate'}`}>
                   <MapPin size={11} className="shrink-0" />
                   {s.address}
                 </span>
@@ -886,7 +886,7 @@ function SuggestionCard({
               <span>{new Date(s.created_at).toLocaleDateString(i18n.language)}</span>
             </div>
             {s.description && (
-              <p className="text-xs text-gray-600 mt-1.5 line-clamp-2">{s.description}</p>
+              <p className={`text-xs text-gray-600 mt-1.5 ${expanded ? '' : 'line-clamp-2'}`}>{s.description}</p>
             )}
           </div>
 
@@ -944,7 +944,7 @@ function SuggestionCard({
             {s.website && (
               <div className="flex items-center gap-1.5 text-xs text-gray-600">
                 <Globe size={11} className="text-gray-400" />
-                <a href={s.website} target="_blank" rel="noopener noreferrer" className="text-blue-600 underline truncate">
+                <a href={s.website} target="_blank" rel="noopener noreferrer" className="text-blue-600 underline break-all">
                   {s.website}
                 </a>
               </div>
