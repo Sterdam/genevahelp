@@ -1425,5 +1425,35 @@
     "description": "Swiss Pallia Confort: Rêxistinek ne-qezenc ku alîkariya ne-bijîşkî û rihetiyê ji nexweşên di dawiya jiyanê de li mal an li saziyên lênihêrînê pêşkêş dike. Hebûna şevê (rojane 12+ demjimêr), piştgiriya derûnî, laşî û giyanî. Piştgirî ji bo lênihêrînerên malbatê. Ji bo kesên bi dahatên kêm belaş e.",
     "target_audience": "Nexweşên di dawiya jiyanê de yên ku dixwazin li malê bimînin, lênihêrînerên malbatê",
     "access_conditions": "Ji bo kesên bi dahatên kêm belaş e. Beşdariya darayî gengaz e. Bi e-nameyê re têkilî daynin."
+  },
+  "r_0215": {
+    "name": "Chez Gilberte – mala civakî ya Meyrin",
+    "description": "Navenda civakî ya Bajarê Meyrin. Cihekî germ û vekirî ji bo her kesî, ku mirov bi an bê armancek taybetî tê. Guhdarîkirin, pevguhertin û hevdîtin ji bo malbatên bi zarokên pêşdibistanê. Çalakiyên perwerdehiyê, qada lîstikê û nîqaşên li ser dêûbavtiyê. Tîmeke pirrçandî.",
+    "target_audience": "Malbatên bi zarokên pêşdibistanê, gelê giştî",
+    "access_conditions": "Belaş û vekirî ji bo hemû niştecihên Meyrin."
+  },
+  "r_0216": {
+    "name": "Lîstikxaneya Meyrin",
+    "description": "Lîstikxaneya şaredariyê ku lîstikên belaş deynkirinê an jî ceribandinê li cih pêşkêşî dike. Hilbijartinek fireh ji lîstikên masê, lîstikên perwerdehiyê û lîstikên derve ji bo zarok û mezinan. Xizmetên belaş û vekirî ji bo her kesî.",
+    "target_audience": "Malbat, zarok, mezin",
+    "access_conditions": "Belaş û vekirî ji bo her kesî."
+  },
+  "r_0217": {
+    "name": "Pirtûkxaneya Forum Meyrin",
+    "description": "Pirtûkxaneya şaredariyê ku wek navenda agahdariyê, çandê, hevdîtinê, perwerdehiyê û kêfê kar dike. Tomarkirina belaş ji bo kesên ku li Cenêvê dijîn an kar dikin. Deynkirina pirtûk, CD, DVD. WiFi belaş, qadên xebatê, çalakiyên ji bo zarok û mezinan.",
+    "target_audience": "Gelê giştî",
+    "access_conditions": "Tomarkirina belaş ji bo kesên ku li Kantona Cenêvê dijîn an kar dikin."
+  },
+  "r_0218": {
+    "name": "Baobab – Şêwirmendiya pîrejinan",
+    "description": "Şêwirmendiyên belaş û bê randevû bi pîrejinan re, her pêncşemê piştî nîvro. Bersivên li ser ducaniyê, zayînê, şîrdayînê û lênihêrîna zarokên nûbûyî. Cihê guhdarîkirin û piştgiriyê ji bo dêûbavên bêhêvî û malbatên bi pitikan.",
+    "target_audience": "Jinên ducanî, dêûbavên bêhêvî, malbatên bi pitikan",
+    "access_conditions": "Belaş û bê randevû. Pêncşemiyê vekirî ye, ji bilî rojên betlaneyê."
+  },
+  "r_0219": {
+    "name": "Maison Vaudagne – Navenda kêfê ya Meyrin",
+    "description": "Navenda kêfê û mala taxê ya dîrokî ya Meyrin (ji 1964ê ve), girêdayî Weqfa Cenêvê ya Anîmasyona Sosyokulturî (FASe). Çalakiyên sosyo-perwerdehî û sosyokulturî ji bo zarokên (4-9 sal), ciwanan û mezinan. Anîmasyon, geştên çarşemê, kampên betlaneyê. Tîmeke ji pispor û dilxwazan.",
+    "target_audience": "Zarokên (4-9 sal), ciwan, malbat, gelê giştî",
+    "access_conditions": "Belaş û vekirî ji bo her kesî. Pêşîn ji bo zarokên Meyrin."
   }
 }

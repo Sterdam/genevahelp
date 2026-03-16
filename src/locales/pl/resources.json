@@ -1425,5 +1425,35 @@
     "description": "Stowarzyszenie non-profit oferujące niemedyczne towarzyszenie i opiekę paliatywną dla osób u kresu życia w domu lub w placówkach opiekuńczych. Obecność nocna (ponad 12 godzin dziennie), wsparcie psychologiczne, fizyczne i duchowe. Wsparcie dla opiekunów rodzinnych. Bezpłatnie dla osób o niskich dochodach.",
     "target_audience": "Osoby u kresu życia pragnące pozostać w domu, opiekunowie rodzinni",
     "access_conditions": "Bezpłatnie dla osób o niskich dochodach. Możliwy udział finansowy w zależności od środków. Kontakt przez e-mail."
+  },
+  "r_0215": {
+    "name": "Chez Gilberte – dom społeczności Meyrin",
+    "description": "Centrum społeczności prowadzone przez miasto Meyrin. Ciepłe, otwarte miejsce dla wszystkich, gdzie przychodzi się z celem lub bez. Słuchanie, wymiana i spotkania dla rodzin z dziećmi w wieku przedszkolnym. Zajęcia edukacyjne, plac zabaw i dyskusje o rodzicielstwie. Zespół wielodyscyplinarny.",
+    "target_audience": "Rodziny z dziećmi w wieku przedszkolnym, ogół społeczeństwa",
+    "access_conditions": "Bezpłatne i otwarte dla wszystkich mieszkańców Meyrin."
+  },
+  "r_0216": {
+    "name": "Ludoteka Meyrin",
+    "description": "Miejska ludoteka oferująca bezpłatne wypożyczanie gier lub możliwość zagrania na miejscu. Szeroki wybór gier planszowych, edukacyjnych i plenerowych dla dzieci i dorosłych. Bezpłatne i otwarte dla wszystkich.",
+    "target_audience": "Rodziny, dzieci, dorośli",
+    "access_conditions": "Bezpłatne i otwarte dla wszystkich."
+  },
+  "r_0217": {
+    "name": "Biblioteka Forum Meyrin",
+    "description": "Biblioteka miejska pełniąca funkcję centrum informacji, kultury, spotkań, edukacji i rozrywki. Bezpłatna rejestracja dla osób mieszkających lub pracujących w Genewie. Wypożyczanie książek, CD, DVD. Bezpłatne WiFi, przestrzenie do pracy, zajęcia dla dzieci i dorosłych.",
+    "target_audience": "Ogół społeczeństwa",
+    "access_conditions": "Bezpłatna rejestracja dla osób mieszkających lub pracujących w kantonie Genewa."
+  },
+  "r_0218": {
+    "name": "Baobab – konsultacje położnych",
+    "description": "Bezpłatne konsultacje z położnymi bez umówienia, w każdy czwartek po południu. Odpowiedzi na pytania dotyczące ciąży, porodu, karmienia piersią i opieki nad noworodkiem. Przestrzeń wsparcia dla przyszłych rodziców i rodzin z niemowlętami.",
+    "target_audience": "Kobiety w ciąży, przyszli rodzice, rodziny z niemowlętami",
+    "access_conditions": "Bezpłatne i bez umówienia. Otwarte w czwartki z wyjątkiem świąt."
+  },
+  "r_0219": {
+    "name": "Maison Vaudagne – centrum rozrywki Meyrin",
+    "description": "Historyczne centrum społeczności i rozrywki w Meyrin (od 1964 roku), powiązane z Genewską Fundacją Animacji Społeczno-Kulturalnej (FASe). Zajęcia społeczno-edukacyjne i społeczno-kulturalne dla dzieci (4–9 lat), nastolatków i dorosłych. Animacje, środowe wycieczki, obozy wakacyjne. Zespół profesjonalistów i wolontariuszy.",
+    "target_audience": "Dzieci (4–9 lat), nastolatkowie, rodziny, ogół społeczeństwa",
+    "access_conditions": "Bezpłatne i otwarte dla wszystkich. Priorytet dla dzieci z Meyrin."
   }
 }

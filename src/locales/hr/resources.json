@@ -1425,5 +1425,35 @@
     "description": "Neprofitna udruga koja pruža nemedicinsku pratnju i palijativnu skrb za osobe na kraju života u kući ili u domovima za starije. Noćna prisutnost (više od 12 sati dnevno), psihološka, fizička i duhovna podrška. Podrška obiteljskim njegovateljima. Besplatno za osobe s niskim primanjima.",
     "target_audience": "Osobe na kraju života koje žele ostati kod kuće, obiteljski njegovatelji",
     "access_conditions": "Besplatno za osobe s niskim primanjima. Moguće financijsko sudjelovanje prema mogućnostima. Kontakt putem e-maila."
+  },
+  "r_0215": {
+    "name": "Chez Gilberte – zajednički dom Meyrin",
+    "description": "Zajednički centar grada Meyrin. Topao i otvoren prostor za sve, gdje se dolazi s ciljem ili bez. Slušanje, razmjena i susreti za obitelji s djecom predškolske dobi. Obrazovne aktivnosti, igraonica i razgovori o roditeljstvu. Multidisciplinarni tim.",
+    "target_audience": "Obitelji s djecom predškolske dobi, šira javnost",
+    "access_conditions": "Besplatno i otvoreno za sve stanovnike Meyrina."
+  },
+  "r_0216": {
+    "name": "Igroteka Meyrin",
+    "description": "Gradska igroteka koja nudi besplatnu posudbu igara ili igranje na licu mjesta. Širok izbor društvenih, edukativnih i igara na otvorenom za djecu i odrasle. Besplatno i otvoreno za sve.",
+    "target_audience": "Obitelji, djeca, odrasli",
+    "access_conditions": "Besplatno i otvoreno za sve."
+  },
+  "r_0217": {
+    "name": "Knjižnica Forum Meyrin",
+    "description": "Gradska knjižnica koja služi kao centar za informacije, kulturu, susrete, obrazovanje i slobodno vrijeme. Besplatna registracija za osobe koje žive ili rade u Ženevi. Posudba knjiga, CD-ova, DVD-ova. Besplatan WiFi, radni prostori, aktivnosti za djecu i odrasle.",
+    "target_audience": "Šira javnost",
+    "access_conditions": "Besplatna registracija za osobe koje žive ili rade u kantonu Ženeva."
+  },
+  "r_0218": {
+    "name": "Baobab – savjetovanje primalja",
+    "description": "Besplatna savjetovanja primalja bez narudžbe, svakog četvrtka poslijepodne. Odgovori na pitanja o trudnoći, porodu, dojenju i njezi novorođenčeta. Prostor za slušanje i podršku budućim roditeljima i obiteljima s bebama.",
+    "target_audience": "Trudnice, budući roditelji, obitelji s bebama",
+    "access_conditions": "Besplatno i bez narudžbe. Otvoreno četvrtkom osim blagdana."
+  },
+  "r_0219": {
+    "name": "Maison Vaudagne – centar za slobodno vrijeme Meyrin",
+    "description": "Povijesni zajednički centar i centar za slobodno vrijeme u Meyrinu (od 1964.), povezan s Ženevskom zakladom za sociokulturnu animaciju (FASe). Socio-obrazovne i sociokulturne aktivnosti za djecu (4–9 godina), tinejdžere i odrasle. Animacije, srijedni izleti, ljetni kampovi. Tim stručnjaka i volontera.",
+    "target_audience": "Djeca (4–9 godina), tinejdžeri, obitelji, šira javnost",
+    "access_conditions": "Besplatno i otvoreno za sve. Prednost djeci iz Meyrina."
   }
 }

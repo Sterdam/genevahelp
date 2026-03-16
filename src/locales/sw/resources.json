@@ -1425,5 +1425,35 @@
     "description": "Swiss Pallia Confort: Shirika lisilo la faida linalotoa uandamano na faraja isiyo ya kimatibabu kwa wagonjwa wa mwisho wa maisha nyumbani au katika vituo vya huduma. Uwepo wa usiku (12+ masaa/siku), msaada wa kisaikolojia, kimwili na kiroho. Msaada kwa walezi wa familia. Bure kwa watu wenye mapato ya chini.",
     "target_audience": "Wagonjwa wa mwisho wa maisha wanaotaka kubaki nyumbani, walezi wa familia",
     "access_conditions": "Bure kwa watu wenye mapato ya chini. Mchango wa kifedha unawezekana. Wasiliana kwa barua pepe."
+  },
+  "r_0215": {
+    "name": "Chez Gilberte – nyumba ya jamii ya Meyrin",
+    "description": "Kituo cha jamii kinachoendeleshwa na Jiji la Meyrin. Nafasi ya joto na wazi kwa wote, ambapo unaweza kuja na lengo au bila. Kusikiliza, kubadilishana na kukutana kwa familia zenye watoto wa umri wa shule ya awali. Shughuli za kielimu, eneo la michezo na mazungumzo kuhusu uzazi. Timu ya taaluma mbalimbali.",
+    "target_audience": "Familia zenye watoto wa umri wa shule ya awali, umma kwa ujumla",
+    "access_conditions": "Bure na wazi kwa wakazi wote wa Meyrin."
+  },
+  "r_0216": {
+    "name": "Maktaba ya michezo ya Meyrin",
+    "description": "Maktaba ya michezo ya manispaa inayotoa michezo ya kukopa bure au kucheza hapo hapo. Uchaguzi mpana wa michezo ya bodi, michezo ya kielimu na michezo ya nje kwa watoto na watu wazima. Bure na wazi kwa wote.",
+    "target_audience": "Familia, watoto, watu wazima",
+    "access_conditions": "Bure na wazi kwa wote."
+  },
+  "r_0217": {
+    "name": "Maktaba ya Forum Meyrin",
+    "description": "Maktaba ya manispaa inayohudumia kama kituo cha habari, utamaduni, mkutano, elimu na burudani. Usajili wa bure kwa watu wanaoishi au kufanya kazi Geneva. Ukopaji wa vitabu, CD, DVD. WiFi bure, maeneo ya kazi, shughuli kwa watoto na watu wazima.",
+    "target_audience": "Umma kwa ujumla",
+    "access_conditions": "Usajili wa bure kwa watu wanaoishi au kufanya kazi katika Kantoni ya Geneva."
+  },
+  "r_0218": {
+    "name": "Baobab – Ushauri wa wakunga",
+    "description": "Ushauri wa bure na bila miadi na wakunga, kila Alhamisi mchana. Majibu ya maswali kuhusu ujauzito, kujifungua, kunyonyesha na utunzaji wa mtoto mchanga. Nafasi ya kusikiliza na msaada kwa wazazi watarajiwa na familia zenye watoto wachanga.",
+    "target_audience": "Wanawake wajawazito, wazazi watarajiwa, familia zenye watoto wachanga",
+    "access_conditions": "Bure na bila miadi. Wazi Alhamisi isipokuwa siku za likizo."
+  },
+  "r_0219": {
+    "name": "Maison Vaudagne – Kituo cha burudani cha Meyrin",
+    "description": "Kituo cha kihistoria cha jamii na burudani huko Meyrin (tangu 1964), kinachohusishwa na Msingi wa Geneva wa Uhuishaji wa Kijamii na Kitamaduni (FASe). Shughuli za kijamii-kielimu na kitamaduni kwa watoto (miaka 4-9), vijana na watu wazima. Michezo, matembezi ya Jumatano, kambi za likizo. Timu ya wataalamu na kujitolea.",
+    "target_audience": "Watoto (miaka 4-9), vijana, familia, umma kwa ujumla",
+    "access_conditions": "Bure na wazi kwa wote. Kipaumbele kwa watoto wa Meyrin."
   }
 }

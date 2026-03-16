@@ -1425,5 +1425,35 @@
     "description": "Gemeinnütziger Verein Swiss Pallia Confort, der nicht-medizinische Begleitung und Komfortpflege für Patienten am Lebensende zu Hause oder in Pflegeeinrichtungen anbietet. Nachtpräsenz (mehr als 12 Std./Tag), psychologische, physische und spirituelle Unterstützung. Unterstützung für pflegende Angehörige. Kostenlos für einkommensschwache Personen.",
     "target_audience": "Patienten am Lebensende, die zu Hause bleiben möchten, pflegende Angehörige",
     "access_conditions": "Kostenlos für einkommensschwache Personen. Finanzielle Beteiligung möglich. Kontaktaufnahme per E-Mail."
+  },
+  "r_0215": {
+    "name": "Chez Gilberte – Gemeinschaftshaus Meyrin",
+    "description": "Gemeinschaftszentrum der Stadt Meyrin. Ein warmer, offener Ort, an dem alle willkommen sind – mit oder ohne bestimmtes Ziel. Zuhören, Austausch und Begegnung für Familien mit Vorschulkindern. Pädagogische Aktivitäten, Spielbereich und Austausch über Elternschaft. Multidisziplinäres Team.",
+    "target_audience": "Familien mit Vorschulkindern, allgemeine Öffentlichkeit",
+    "access_conditions": "Kostenlos und offen für alle Einwohner von Meyrin."
+  },
+  "r_0216": {
+    "name": "Ludothek Meyrin",
+    "description": "Städtische Ludothek mit kostenloser Ausleihe oder Spielmöglichkeit vor Ort. Grosse Auswahl an Gesellschaftsspielen, Lernspielen und Outdoor-Spielen für Kinder und Erwachsene. Kostenlos und für alle zugänglich.",
+    "target_audience": "Familien, Kinder, Erwachsene",
+    "access_conditions": "Kostenlos und für alle zugänglich."
+  },
+  "r_0217": {
+    "name": "Bibliothek Forum Meyrin",
+    "description": "Städtische Bibliothek als Informations-, Kultur-, Begegnungs-, Bildungs- und Freizeitzentrum. Kostenlose Anmeldung für Personen, die in Genf wohnen oder arbeiten. Ausleihe von Büchern, CDs, DVDs. Kostenloses WLAN, Arbeitsplätze, Veranstaltungen für Kinder und Erwachsene.",
+    "target_audience": "Allgemeine Öffentlichkeit",
+    "access_conditions": "Kostenlose Anmeldung für Personen, die im Kanton Genf wohnen oder arbeiten."
+  },
+  "r_0218": {
+    "name": "Baobab – Hebammensprechstunde",
+    "description": "Kostenlose Hebammensprechstunde ohne Voranmeldung, jeden Donnerstagnachmittag. Beratung zu Schwangerschaft, Geburt, Stillen und Neugeborenenpflege. Ein Raum zum Zuhören und zur Unterstützung für werdende Eltern und Familien mit Babys.",
+    "target_audience": "Schwangere Frauen, werdende Eltern, Familien mit Babys",
+    "access_conditions": "Kostenlos und ohne Voranmeldung. Donnerstags geöffnet, ausser an Feiertagen."
+  },
+  "r_0219": {
+    "name": "Maison Vaudagne – Freizeitzentrum Meyrin",
+    "description": "Historisches Quartierzentrum und Freizeitzentrum in Meyrin (seit 1964), angegliedert an die Genfer Stiftung für soziokulturelle Animation (FASe). Sozial-pädagogische und soziokulturelle Aktivitäten für Kinder (4–9 Jahre), Jugendliche und Erwachsene. Animationen, Mittwochsausflüge, Ferienlager. Team aus Fachleuten und Freiwilligen.",
+    "target_audience": "Kinder (4–9 Jahre), Jugendliche, Familien, allgemeine Öffentlichkeit",
+    "access_conditions": "Kostenlos und für alle zugänglich. Vorrang für Kinder aus Meyrin."
   }
 }

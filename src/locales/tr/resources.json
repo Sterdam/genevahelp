@@ -1425,5 +1425,35 @@
     "description": "Evde veya bakım tesislerinde yaşam sonu hastalarına tıbbi olmayan eşlik ve konfor bakımı sunan kar amacı gütmeyen dernek. Gece varlığı (günde 12+ saat), psikolojik, fiziksel ve manevi destek. Aile bakıcılarına destek. Düşük gelirli kişiler için ücretsiz.",
     "target_audience": "Evde kalmak isteyen yaşam sonu hastaları, aile bakıcıları",
     "access_conditions": "Düşük gelirli kişiler için ücretsiz. Mali duruma göre katkı mümkün. E-posta ile iletişim."
+  },
+  "r_0215": {
+    "name": "Chez Gilberte – Meyrin Toplum Evi",
+    "description": "Meyrin Belediyesi tarafından yönetilen toplum merkezi. Herkesin belirli bir amaçla veya amaçsız gelebileceği sıcak ve açık bir mekân. Okul öncesi yaştaki çocuklu aileler için dinleme, paylaşım ve buluşma. Eğitim etkinlikleri, oyun alanı ve ebeveynlik üzerine tartışmalar. Çok disiplinli ekip.",
+    "target_audience": "Okul öncesi yaştaki çocuklu aileler, genel halk",
+    "access_conditions": "Ücretsiz ve tüm Meyrin sakinlerine açık."
+  },
+  "r_0216": {
+    "name": "Meyrin Oyuncak Kütüphanesi",
+    "description": "Ücretsiz ödünç alma veya yerinde oynama imkânı sunan belediye oyuncak kütüphanesi. Çocuklar ve yetişkinler için geniş masa oyunları, eğitici oyunlar ve açık hava oyunları seçeneği. Ücretsiz ve herkese açık.",
+    "target_audience": "Aileler, çocuklar, yetişkinler",
+    "access_conditions": "Ücretsiz ve herkese açık."
+  },
+  "r_0217": {
+    "name": "Forum Meyrin Kütüphanesi",
+    "description": "Bilgi, kültür, buluşma, eğitim ve eğlence merkezi olarak hizmet veren belediye kütüphanesi. Cenevre'de yaşayan veya çalışan kişiler için ücretsiz kayıt. Kitap, CD, DVD ödünç verme. Ücretsiz WiFi, çalışma alanları, çocuklar ve yetişkinler için etkinlikler.",
+    "target_audience": "Genel halk",
+    "access_conditions": "Cenevre Kantonu'nda yaşayan veya çalışan kişiler için ücretsiz kayıt."
+  },
+  "r_0218": {
+    "name": "Baobab – Ebe Danışmanlığı",
+    "description": "Her perşembe öğleden sonra ebelerin randevusuz ve ücretsiz danışmanlığı. Gebelik, doğum, emzirme ve yenidoğan bakımı hakkında sorulara yanıtlar. Beklentili ebeveynler ve bebekli aileler için dinleme ve destek alanı.",
+    "target_audience": "Hamile kadınlar, beklentili ebeveynler, bebekli aileler",
+    "access_conditions": "Ücretsiz ve randevusuz. Resmi tatiller hariç perşembe günleri açık."
+  },
+  "r_0219": {
+    "name": "Maison Vaudagne – Meyrin Eğlence Merkezi",
+    "description": "Meyrin'in tarihi mahalle evi ve eğlence merkezi (1964'ten beri), Cenevre Sosyokültürel Animasyon Vakfı'na (FASe) bağlı. Çocuklar (4-9 yaş), gençler ve yetişkinler için sosyo-eğitimsel ve sosyokültürel etkinlikler. Animasyonlar, çarşamba gezileri, tatil kampları. Profesyonel ve gönüllülerden oluşan ekip.",
+    "target_audience": "Çocuklar (4-9 yaş), gençler, aileler, genel halk",
+    "access_conditions": "Ücretsiz ve herkese açık. Meyrin çocuklarına öncelik."
   }
 }

@@ -1425,5 +1425,35 @@
     "description": "Non-profit association providing non-medical accompaniment and comfort care for end-of-life patients at home or in care facilities. Night presence (12+ hours/day), psychological, physical and spiritual support. Support for family caregivers. Free services for low-income individuals.",
     "target_audience": "End-of-life patients wishing to stay at home, family caregivers",
     "access_conditions": "Free for low-income individuals. Financial participation possible based on means. Contact the association by email."
+  },
+  "r_0215": {
+    "name": "Chez Gilberte – Meyrin Community House",
+    "description": "Community centre run by the City of Meyrin. A warm, open space where everyone is welcome, with or without a specific purpose. Listening, support and activities for families with preschool-age children. Educational activities, play area and parenting discussions. Multidisciplinary team.",
+    "target_audience": "Families with preschool-age children, general public",
+    "access_conditions": "Free and open to all Meyrin residents."
+  },
+  "r_0216": {
+    "name": "Meyrin Toy Library",
+    "description": "Municipal toy library offering free game and toy lending or on-site play. Wide selection of board games, educational games and outdoor games for children and adults. Free and open to all.",
+    "target_audience": "Families, children, adults",
+    "access_conditions": "Free and open to all."
+  },
+  "r_0217": {
+    "name": "Forum Meyrin Library",
+    "description": "Municipal library serving as an information, culture, meeting, learning and leisure centre. Free registration for people living or working in Geneva. Book, CD and DVD lending. Free WiFi, workspaces, activities for children and adults.",
+    "target_audience": "General public",
+    "access_conditions": "Free registration for people living or working in the Canton of Geneva."
+  },
+  "r_0218": {
+    "name": "Baobab – Midwife Drop-in",
+    "description": "Free drop-in midwife consultations every Thursday afternoon. Answers to questions about pregnancy, childbirth, breastfeeding and newborn care. A space for listening and support for expectant parents and families with babies.",
+    "target_audience": "Pregnant women, expectant parents, families with babies",
+    "access_conditions": "Free, no appointment needed. Open Thursdays except public holidays."
+  },
+  "r_0219": {
+    "name": "Maison Vaudagne – Meyrin Leisure Centre",
+    "description": "Historic community and leisure centre in Meyrin (since 1964), affiliated with the Geneva Foundation for Socio-Cultural Activities (FASe). Socio-educational and socio-cultural programmes for children (4–9), teenagers and adults. Activities, Wednesday outings, holiday camps. Team of professionals and volunteers serving the community.",
+    "target_audience": "Children (4–9), teenagers, families, general public",
+    "access_conditions": "Free and open to all. Priority given to Meyrin children."
   }
 }

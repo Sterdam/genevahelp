@@ -1425,5 +1425,35 @@
     "description": "Swiss Pallia Confort: Hay'ad aan faa'iido doon ahayn oo bixisa raaxo iyo wehel aan caafimaad ahayn bukaanada ku dhow dhimasho ee guryahooda ama xarumaha daryeelka. Joogitaan habeenkii (12+ saacadood/maalintii), taageero nafsaani, jireed iyo ruuxaani. Taageero qoysaska daryeelka. Bilaash dadka dakhligoodu hooseeyo.",
     "target_audience": "Bukaanada dhowaanshaha dhimasho ee doonaya inay guryahooda joogaan, qoysaska daryeelka",
     "access_conditions": "Bilaash dadka dakhligoodu hooseeyo. Ka-qaybgal dhaqaale waa suurtogal. Nala soo xiriir iimayl."
+  },
+  "r_0215": {
+    "name": "Chez Gilberte – guriga bulshada Meyrin",
+    "description": "Xarun bulshada uu maamulo magaalada Meyrin. Meel diiran oo furan oo dhan loogu soo dhawoow, ujeeddo la leeyahay ama la'aan. Dhageysi, is-dhaafsiga iyo kulan qoysaska carruurta da'da dugsiga kahor. Hawlaha waxbarashada, goobta ciyaarta iyo wadahadallka waalidnimada. Koox farsamo badan.",
+    "target_audience": "Qoysaska carruurta da'da dugsiga kahor, dadweynaha guud",
+    "access_conditions": "Bilaash ah oo u furan dhammaan dadka deggan Meyrin."
+  },
+  "r_0216": {
+    "name": "Maktabadda Ciyaarta ee Meyrin",
+    "description": "Maktabad ciyaareed oo magaalada ah oo bixisa amaahda ciyaaraha bilaashka ah ama tijaabinta goobta. Xulashada ballaaran ee ciyaaraha miiska, ciyaaraha waxbarashada iyo ciyaaraha dibadda ee carruurta iyo dadka waaweyn. Bilaash oo dhan u furan.",
+    "target_audience": "Qoysas, carruur, dadka waaweyn",
+    "access_conditions": "Bilaash oo dhan u furan."
+  },
+  "r_0217": {
+    "name": "Maktabadda Forum Meyrin",
+    "description": "Maktabad magaalada ah oo u adeegta xarun macluumaad, dhaqan, kulan, waxbarasho iyo madadaalo. Diiwaangelin bilaash ah dadka ku nool ama ka shaqeeya Geneva. Amaahda buugaagta, CD, DVD. WiFi bilaash, goobaha shaqada, hawlaha carruurta iyo dadka waaweyn.",
+    "target_audience": "Dadweynaha guud",
+    "access_conditions": "Diiwaangelin bilaash ah dadka ku nool ama ka shaqeeya Canton Geneva."
+  },
+  "r_0218": {
+    "name": "Baobab – La-talinta umulisadaha",
+    "description": "La-talin bilaash ah oo aan ballanqaad lahayn umulisadaha, khamis kasta galabnimo. Jawaabaha su'aalaha uurka, dhalmada, naas-nuujinta iyo daryeelka ilmaha cusub. Goob dhageysi iyo taageero waalidka mustaqbalka iyo qoysaska ilmaha yaryar leh.",
+    "target_audience": "Haweenka uurka leh, waalidka mustaqbalka, qoysaska ilmaha yaryar leh",
+    "access_conditions": "Bilaash oo aan ballanqaad lahayn. Khamiista furan marka laga reebo maalmaha fasaxa."
+  },
+  "r_0219": {
+    "name": "Maison Vaudagne – xarunta madadaalada Meyrin",
+    "description": "Xarun bulshada iyo madadaalo oo taariikhi ah Meyrin (tan iyo 1964), ku xiran Hay'adda Geneva ee Dhaqdhaqaaqa Bulshada iyo Dhaqanka (FASe). Hawlaha bulsho-waxbarasho iyo dhaqan-bulshada carruurta (4-9 sano), dhallinyarada iyo dadka waaweyn. Hawlo, safarro Arbaco, xerada fasaxa. Koox xirfadlayaal iyo mutadawiciin ah.",
+    "target_audience": "Carruur (4-9 sano), dhallinyaro, qoysas, dadweynaha guud",
+    "access_conditions": "Bilaash oo dhan u furan. Mudnaanta carruurta Meyrin."
   }
 }

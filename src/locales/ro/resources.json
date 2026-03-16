@@ -1425,5 +1425,35 @@
     "description": "Asociație non-profit care oferă însoțire nemedicală și îngrijiri paliative persoanelor aflate la sfârșitul vieții, la domiciliu sau în centre de îngrijire. Prezență nocturnă (peste 12 ore pe zi), sprijin psihologic, fizic și spiritual. Sprijin pentru aparținătorii care acordă îngrijire. Gratuit pentru persoanele cu venituri mici.",
     "target_audience": "Persoane aflate la sfârșitul vieții care doresc să rămână acasă, aparținători care acordă îngrijire",
     "access_conditions": "Gratuit pentru persoanele cu venituri mici. Participare financiară posibilă în funcție de mijloace. Contact prin e-mail."
+  },
+  "r_0215": {
+    "name": "Chez Gilberte – casa comunitară din Meyrin",
+    "description": "Centru comunitar administrat de orașul Meyrin. Spațiu primitor și deschis tuturor, unde veniți cu sau fără un scop precis. Ascultare, schimb și întâlnire pentru familii cu copii de vârstă preșcolară. Activități educative, spațiu de joacă și discuții despre parentalitate. Echipă multidisciplinară.",
+    "target_audience": "Familii cu copii de vârstă preșcolară, public general",
+    "access_conditions": "Gratuit și deschis tuturor rezidenților din Meyrin."
+  },
+  "r_0216": {
+    "name": "Ludoteca din Meyrin",
+    "description": "Ludotecă municipală care oferă jocuri pentru împrumut gratuit sau de testat pe loc. Gamă largă de jocuri de societate, jocuri educative și jocuri de exterior pentru copii și adulți. Servicii gratuite și deschise tuturor.",
+    "target_audience": "Familii, copii, adulți",
+    "access_conditions": "Gratuit și deschis tuturor."
+  },
+  "r_0217": {
+    "name": "Biblioteca Forum Meyrin",
+    "description": "Bibliotecă municipală care funcționează ca centru de informare, cultură, întâlnire, formare și petrecere a timpului liber. Înscriere gratuită pentru persoanele care locuiesc sau lucrează în Geneva. Împrumut de cărți, CD-uri, DVD-uri. WiFi gratuit, spații de lucru, activități pentru copii și adulți.",
+    "target_audience": "Public general",
+    "access_conditions": "Înscriere gratuită pentru persoanele care locuiesc sau lucrează în Cantonul Geneva."
+  },
+  "r_0218": {
+    "name": "Baobab – Consultații moașe",
+    "description": "Consultații gratuite și fără programare cu moașe, în fiecare joi după-amiază. Răspunsuri la întrebări despre sarcină, naștere, alăptare și îngrijirea nou-născutului. Spațiu de ascultare și sprijin pentru viitorii părinți și familiile cu bebeluși.",
+    "target_audience": "Femei însărcinate, viitori părinți, familii cu bebeluși",
+    "access_conditions": "Gratuit și fără programare. Deschis joia, cu excepția sărbătorilor legale."
+  },
+  "r_0219": {
+    "name": "Maison Vaudagne – Centru de agrement Meyrin",
+    "description": "Centru de agrement și casă de cartier istorică din Meyrin (din 1964), afiliat Fundației Genevreze pentru Animația Socioculturală (FASe). Activități socio-educative și socioculturale pentru copii (4–9 ani), adolescenți și adulți. Animații, ieșiri de miercuri, tabere de vacanță. Echipă de profesioniști și voluntari în slujba comunității.",
+    "target_audience": "Copii (4–9 ani), adolescenți, familii, public general",
+    "access_conditions": "Gratuit și deschis tuturor. Prioritate copiilor din Meyrin."
   }
 }

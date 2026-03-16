@@ -1425,5 +1425,35 @@
     "description": "Organizatë jofitimprurëse që ofron shoqërim jomjekësor dhe kujdes paliativ për personat në fund të jetës në shtëpi ose në shtëpi pleqsh. Prezencë natën (mbi 12 orë në ditë), mbështetje psikologjike, fizike dhe shpirtërore. Mbështetje për kujdestarët familjarë. Falas për personat me të ardhura të ulëta.",
     "target_audience": "Persona në fund të jetës që dëshirojnë të qëndrojnë në shtëpi, kujdestarë familjarë",
     "access_conditions": "Falas për personat me të ardhura të ulëta. Pjesëmarrje financiare e mundshme sipas mundësive. Kontakt me email."
+  },
+  "r_0215": {
+    "name": "Chez Gilberte – shtëpia komunitare e Meyrin",
+    "description": "Qendër komunitare e drejtuar nga Komuna e Meyrin. Hapësirë e ngrohtë dhe e hapur për të gjithë, ku vini me ose pa qëllim të caktuar. Dëgjim, shkëmbim dhe takim për familjet me fëmijë parashkollorë. Aktivitete edukative, hapësirë lojërash dhe diskutime për prindërim. Ekip multidisiplinar.",
+    "target_audience": "Familjet me fëmijë parashkollorë, publiku i gjerë",
+    "access_conditions": "Falas dhe i hapur për të gjithë banorët e Meyrin."
+  },
+  "r_0216": {
+    "name": "Ludoteka e Meyrin",
+    "description": "Ludotekë komunale që ofron lojëra për huazim falas ose për t'i provuar në vend. Zgjedhje e gjerë lojërash tavoline, lojërash edukative dhe lojërash në natyrë për fëmijë dhe të rritur. Shërbime falas dhe të hapura për të gjithë.",
+    "target_audience": "Familje, fëmijë, të rritur",
+    "access_conditions": "Falas dhe i hapur për të gjithë."
+  },
+  "r_0217": {
+    "name": "Biblioteka e Forum Meyrin",
+    "description": "Bibliotekë komunale që shërben si qendër informacioni, kulture, takimi, formimi dhe argëtimi. Regjistrim falas për personat që jetojnë ose punojnë në Gjenevë. Huazim librash, CD, DVD. WiFi falas, hapësira pune, aktivitete për fëmijë dhe të rritur.",
+    "target_audience": "Publiku i gjerë",
+    "access_conditions": "Regjistrim falas për personat që jetojnë ose punojnë në Kantonin e Gjenevës."
+  },
+  "r_0218": {
+    "name": "Baobab – Konsultime mamie",
+    "description": "Konsultime falas pa takim me mami, çdo të enjte pasdite. Përgjigje për pyetje mbi shtatzëninë, lindjen, ushqyerjen me gji dhe kujdesin e foshnjës. Hapësirë dëgjimi dhe mbështetjeje për prindërit e ardhshëm dhe familjet me foshnja.",
+    "target_audience": "Gratë shtatzëna, prindërit e ardhshëm, familjet me foshnja",
+    "access_conditions": "Falas dhe pa takim. E hapur të enjteve përveç festave."
+  },
+  "r_0219": {
+    "name": "Maison Vaudagne – Qendra e argëtimit Meyrin",
+    "description": "Qendër argëtimi dhe shtëpi lagjeje historike e Meyrin (që nga 1964), e lidhur me Fondacionin e Gjenevës për Animacionin Sociokulturor (FASe). Aktivitete socio-edukative dhe sociokulturore për fëmijët (4-9 vjeç), adoleshentë dhe të rritur. Animacione, ekskursione të mërkurës, kampe pushimi. Ekip profesionistësh dhe vullnetarësh.",
+    "target_audience": "Fëmijë (4-9 vjeç), adoleshentë, familje, publiku i gjerë",
+    "access_conditions": "Falas dhe i hapur për të gjithë. Përparësi fëmijëve të Meyrin."
   }
 }

@@ -1425,5 +1425,35 @@
     "description": "Association à but non lucratif offrant un accompagnement non médicalisé et des soins de confort aux personnes en fin de vie à domicile ou en EMS. Présence de nuit (12h/jour et plus), soutien psychologique, physique et spirituel. Soutien aux proches aidants. Services gratuits pour les personnes à faibles revenus.",
     "target_audience": "Personnes en fin de vie souhaitant rester à domicile, proches aidants",
     "access_conditions": "Gratuit pour les personnes à faibles revenus. Participation possible selon les moyens. Contacter l'association par email."
+  },
+  "r_0215": {
+    "name": "Chez Gilberte – la maison meyrinoise",
+    "description": "Lieu d'accueil communautaire de la Ville de Meyrin. Espace chaleureux ouvert à tous, où l'on vient avec ou sans but précis. Accueil, écoute et rencontre pour les familles avec enfants d'âge préscolaire. Activités éducatives, espace de jeux et d'échange sur la parentalité. Équipe pluridisciplinaire.",
+    "target_audience": "Familles avec enfants d'âge préscolaire, tout public",
+    "access_conditions": "Gratuit et ouvert à tous les habitants de Meyrin."
+  },
+  "r_0216": {
+    "name": "Ludothèque de Meyrin",
+    "description": "Ludothèque municipale proposant des jeux à emprunter gratuitement ou à tester sur place. Large choix de jeux de société, jeux éducatifs et jeux d'extérieur pour enfants et adultes. Prestations gratuites et ouvertes à tous.",
+    "target_audience": "Familles, enfants, adultes",
+    "access_conditions": "Gratuit et ouvert à tous."
+  },
+  "r_0217": {
+    "name": "Bibliothèque du Forum Meyrin",
+    "description": "Bibliothèque municipale servant de centre d'information, de culture, de rencontre, de formation et de loisirs. Inscription gratuite pour les personnes habitant ou travaillant à Genève. Prêt de livres, CD, DVD. WiFi gratuit, espaces de travail, animations pour enfants et adultes.",
+    "target_audience": "Tout public",
+    "access_conditions": "Inscription gratuite pour les personnes habitant ou travaillant dans le canton de Genève."
+  },
+  "r_0218": {
+    "name": "Baobab – Accueil sages-femmes",
+    "description": "Consultations gratuites et sans rendez-vous avec des sages-femmes, chaque jeudi après-midi. Réponses aux questions sur la grossesse, l'accouchement, l'allaitement et les soins au nouveau-né. Espace d'écoute et de soutien pour les futurs parents et les familles avec bébés.",
+    "target_audience": "Femmes enceintes, futurs parents, familles avec bébés",
+    "access_conditions": "Gratuit et sans rendez-vous. Ouvert les jeudis sauf jours fériés."
+  },
+  "r_0219": {
+    "name": "Maison Vaudagne – Centre de loisirs de Meyrin",
+    "description": "Centre de loisirs et maison de quartier historique de Meyrin (depuis 1964), rattaché à la Fondation genevoise pour l'Animation Socioculturelle (FASe). Action socio-éducative et socioculturelle pour enfants (4-9 ans), adolescents et adultes. Animations, sorties du mercredi, camps de vacances. Équipe de professionnels et de bénévoles au service de la communauté.",
+    "target_audience": "Enfants (4-9 ans), adolescents, familles, tout public",
+    "access_conditions": "Gratuit et ouvert à tous. Priorité aux enfants de Meyrin."
   }
 }

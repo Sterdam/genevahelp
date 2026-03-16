@@ -1425,5 +1425,35 @@
     "description": "Asociación sin fines de lucro Swiss Pallia Confort que ofrece acompañamiento no médico y cuidados de confort para pacientes en fin de vida en su domicilio o centros de cuidados. Presencia nocturna (más de 12h/día), apoyo psicológico, físico y espiritual. Apoyo a los cuidadores familiares. Gratuito para personas con bajos ingresos.",
     "target_audience": "Pacientes en fin de vida que desean permanecer en su hogar, cuidadores familiares",
     "access_conditions": "Gratuito para personas con bajos ingresos. Participación financiera posible. Contacto por correo electrónico."
+  },
+  "r_0215": {
+    "name": "Chez Gilberte – casa comunitaria de Meyrin",
+    "description": "Centro comunitario gestionado por la Ciudad de Meyrin. Espacio cálido y abierto a todos, donde se viene con o sin un objetivo concreto. Escucha, intercambio y encuentro para familias con niños en edad preescolar. Actividades educativas, espacio de juegos e intercambio sobre crianza. Equipo multidisciplinario.",
+    "target_audience": "Familias con niños en edad preescolar, público en general",
+    "access_conditions": "Gratuito y abierto a todos los residentes de Meyrin."
+  },
+  "r_0216": {
+    "name": "Ludoteca de Meyrin",
+    "description": "Ludoteca municipal que ofrece juegos para préstamo gratuito o para probar en el local. Amplia selección de juegos de mesa, juegos educativos y juegos de exterior para niños y adultos. Servicios gratuitos y abiertos a todos.",
+    "target_audience": "Familias, niños, adultos",
+    "access_conditions": "Gratuito y abierto a todos."
+  },
+  "r_0217": {
+    "name": "Biblioteca del Forum Meyrin",
+    "description": "Biblioteca municipal que funciona como centro de información, cultura, encuentro, formación y ocio. Inscripción gratuita para personas que viven o trabajan en Ginebra. Préstamo de libros, CDs, DVDs. WiFi gratuito, espacios de trabajo, actividades para niños y adultos.",
+    "target_audience": "Público en general",
+    "access_conditions": "Inscripción gratuita para personas que viven o trabajan en el Cantón de Ginebra."
+  },
+  "r_0218": {
+    "name": "Baobab – Consulta de matronas",
+    "description": "Consultas gratuitas y sin cita con matronas, cada jueves por la tarde. Respuestas a preguntas sobre embarazo, parto, lactancia y cuidados del recién nacido. Espacio de escucha y apoyo para futuros padres y familias con bebés.",
+    "target_audience": "Mujeres embarazadas, futuros padres, familias con bebés",
+    "access_conditions": "Gratuito y sin cita. Abierto los jueves excepto festivos."
+  },
+  "r_0219": {
+    "name": "Maison Vaudagne – Centro de ocio de Meyrin",
+    "description": "Centro de ocio y casa de barrio histórica de Meyrin (desde 1964), vinculado a la Fundación Ginebrina para la Animación Sociocultural (FASe). Actividades socioeducativas y socioculturales para niños (4–9 años), adolescentes y adultos. Animaciones, salidas de los miércoles, campamentos de vacaciones. Equipo de profesionales y voluntarios al servicio de la comunidad.",
+    "target_audience": "Niños (4–9 años), adolescentes, familias, público en general",
+    "access_conditions": "Gratuito y abierto a todos. Prioridad a los niños de Meyrin."
   }
 }

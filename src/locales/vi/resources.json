@@ -1425,5 +1425,35 @@
     "description": "Swiss Pallia Confort: Tổ chức phi lợi nhuận cung cấp dịch vụ đồng hành và chăm sóc tinh thần (không phải y tế) cho bệnh nhân cuối đời tại nhà hoặc cơ sở chăm sóc. Có người túc trực ban đêm (12+ giờ/ngày), hỗ trợ tâm lý, thể chất và tinh thần. Hỗ trợ người chăm sóc trong gia đình. Miễn phí cho người có thu nhập thấp.",
     "target_audience": "Bệnh nhân cuối đời muốn ở nhà, người chăm sóc trong gia đình",
     "access_conditions": "Miễn phí cho người có thu nhập thấp. Có thể đóng góp tài chính. Liên hệ qua email."
+  },
+  "r_0215": {
+    "name": "Chez Gilberte – nhà cộng đồng Meyrin",
+    "description": "Trung tâm cộng đồng do Thành phố Meyrin điều hành. Không gian ấm áp và mở cửa cho tất cả mọi người, nơi bạn có thể đến có hoặc không có mục đích cụ thể. Lắng nghe, trao đổi và gặp gỡ dành cho các gia đình có trẻ em trong độ tuổi mầm non. Các hoạt động giáo dục, khu vui chơi và thảo luận về nuôi dạy con. Đội ngũ đa ngành.",
+    "target_audience": "Gia đình có trẻ em trong độ tuổi mầm non, công chúng",
+    "access_conditions": "Miễn phí và mở cửa cho tất cả cư dân Meyrin."
+  },
+  "r_0216": {
+    "name": "Thư viện đồ chơi Meyrin",
+    "description": "Thư viện đồ chơi thành phố cho mượn trò chơi miễn phí hoặc chơi tại chỗ. Nhiều lựa chọn trò chơi bàn, trò chơi giáo dục và trò chơi ngoài trời cho trẻ em và người lớn. Miễn phí và mở cửa cho tất cả.",
+    "target_audience": "Gia đình, trẻ em, người lớn",
+    "access_conditions": "Miễn phí và mở cửa cho tất cả."
+  },
+  "r_0217": {
+    "name": "Thư viện Forum Meyrin",
+    "description": "Thư viện thành phố phục vụ như trung tâm thông tin, văn hóa, gặp gỡ, giáo dục và giải trí. Đăng ký miễn phí cho người sống hoặc làm việc tại Genève. Cho mượn sách, CD, DVD. WiFi miễn phí, không gian làm việc, hoạt động cho trẻ em và người lớn.",
+    "target_audience": "Công chúng",
+    "access_conditions": "Đăng ký miễn phí cho người sống hoặc làm việc tại Canton Genève."
+  },
+  "r_0218": {
+    "name": "Baobab – Tư vấn nữ hộ sinh",
+    "description": "Tư vấn miễn phí không cần hẹn trước với nữ hộ sinh, mỗi chiều thứ Năm. Trả lời các câu hỏi về thai kỳ, sinh nở, cho con bú và chăm sóc trẻ sơ sinh. Không gian lắng nghe và hỗ trợ dành cho cha mẹ tương lai và gia đình có trẻ sơ sinh.",
+    "target_audience": "Phụ nữ mang thai, cha mẹ tương lai, gia đình có trẻ sơ sinh",
+    "access_conditions": "Miễn phí và không cần hẹn trước. Mở cửa thứ Năm trừ ngày lễ."
+  },
+  "r_0219": {
+    "name": "Maison Vaudagne – Trung tâm giải trí Meyrin",
+    "description": "Trung tâm cộng đồng và giải trí lịch sử tại Meyrin (từ năm 1964), trực thuộc Quỹ Genève về Hoạt động Văn hóa-Xã hội (FASe). Các hoạt động giáo dục-xã hội và văn hóa-xã hội cho trẻ em (4-9 tuổi), thanh thiếu niên và người lớn. Hoạt động vui chơi, dã ngoại thứ Tư, trại hè. Đội ngũ chuyên gia và tình nguyện viên.",
+    "target_audience": "Trẻ em (4-9 tuổi), thanh thiếu niên, gia đình, công chúng",
+    "access_conditions": "Miễn phí và mở cửa cho tất cả. Ưu tiên trẻ em Meyrin."
   }
 }
