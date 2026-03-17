@@ -1486,5 +1486,47 @@
     "description": "Pomoc finansowa dla dzieci i młodzieży do 18 lat potrzebujących wsparcia w zakresie zdrowia lub rozwoju. Może pokrywać opiekę dentystyczną, zajęcia sportowe, kulturalne i obozy wakacyjne.",
     "target_audience": "Dzieci i młodzież do 18 lat",
     "access_conditions": "Dla dzieci i młodzieży do 18 lat. Skontaktuj się z BCAS."
+  },
+  "r_0226": {
+    "name": "Myślę więc się ruszam (Groupe santé Genève)",
+    "description": "Bezpłatne zajęcia dla zdrowia psychicznego, społecznego i fizycznego.",
+    "target_audience": "Wszyscy",
+    "access_conditions": "Bezpłatnie."
+  },
+  "r_0227": {
+    "name": "Pomoc informatyczna – Aïre-le-Lignon",
+    "description": "Bezpłatna pomoc z komputerami, tabletami i telefonami. Vernier.",
+    "target_audience": "Wszyscy",
+    "access_conditions": "Bezpłatnie, bez umówienia."
+  },
+  "r_0228": {
+    "name": "Pomoc informatyczna – Châtelaine-Balexert",
+    "description": "Bezpłatna pomoc informatyczna. Vernier.",
+    "target_audience": "Wszyscy",
+    "access_conditions": "Bezpłatnie."
+  },
+  "r_0229": {
+    "name": "Pomoc informatyczna – Avanchets",
+    "description": "Bezpłatna pomoc bez umówienia. Vernier.",
+    "target_audience": "Wszyscy",
+    "access_conditions": "Bezpłatnie."
+  },
+  "r_0230": {
+    "name": "Libellules – Informatyka dla wszystkich",
+    "description": "Bezpłatna pomoc informatyczna. Vernier.",
+    "target_audience": "Wszyscy",
+    "access_conditions": "Bezpłatnie."
+  },
+  "r_0231": {
+    "name": "Troc-T-Trucs – Bezpłatna wymiana Avanchets",
+    "description": "Bezpłatna wymiana ubrań i przedmiotów. Bez pieniędzy.",
+    "target_audience": "Wszyscy",
+    "access_conditions": "Bezpłatnie."
+  },
+  "r_0232": {
+    "name": "La Boutik – Wymiana Vernier",
+    "description": "Bezpłatna wymiana. Naczynia, zabawki, elektronika.",
+    "target_audience": "Wszyscy",
+    "access_conditions": "Bezpłatnie."
   }
 }

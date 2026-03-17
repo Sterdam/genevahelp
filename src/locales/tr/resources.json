@@ -1486,5 +1486,47 @@
     "description": "Sağlık veya gelişim masrafları için desteğe ihtiyaç duyan 18 yaşına kadar çocuklar ve gençlere mali yardım. Diş bakımı, spor, kültürel aktiviteler ve tatil kamplarını kapsayabilir.",
     "target_audience": "18 yaşına kadar çocuklar ve gençler",
     "access_conditions": "18 yaşına kadar çocuklar ve gençler için. BCAS ile iletişime geçin."
+  },
+  "r_0226": {
+    "name": "Düşünüyorum öyleyse hareket ediyorum (Groupe santé Genève)",
+    "description": "Zihinsel, sosyal ve fiziksel sağlık için ücretsiz aktivite programı. Spor, müzik, sanatsal ifade.",
+    "target_audience": "Herkes",
+    "access_conditions": "Ücretsiz. İletişim: Inès."
+  },
+  "r_0227": {
+    "name": "Bilişim desteği – Aïre-le-Lignon",
+    "description": "Bilgisayar, tablet ve telefon için ücretsiz yardım. Mahalle evi (FASe), Vernier.",
+    "target_audience": "Herkes",
+    "access_conditions": "Ücretsiz, randevusuz."
+  },
+  "r_0228": {
+    "name": "Bilişim desteği – Châtelaine-Balexert",
+    "description": "Ücretsiz bilişim yardımı. Vernier. Belirli tarihlerde.",
+    "target_audience": "Herkes",
+    "access_conditions": "Ücretsiz."
+  },
+  "r_0229": {
+    "name": "Bilişim desteği – Avanchets",
+    "description": "Ücretsiz bilişim yardımı, randevusuz. Mahalle evi (FASe), Vernier.",
+    "target_audience": "Herkes",
+    "access_conditions": "Ücretsiz, randevusuz."
+  },
+  "r_0230": {
+    "name": "Libellules – Herkes için bilişim",
+    "description": "Ücretsiz bilişim yardımı. Espace de vie Terre, Vernier.",
+    "target_audience": "Herkes",
+    "access_conditions": "Ücretsiz."
+  },
+  "r_0231": {
+    "name": "Troc-T-Trucs – Ücretsiz takas Avanchets",
+    "description": "Ücretsiz takas alanı. Kıyafet ve eşya takası. Parasız.",
+    "target_audience": "Herkes",
+    "access_conditions": "Ücretsiz."
+  },
+  "r_0232": {
+    "name": "La Boutik – Takas Vernier",
+    "description": "Ücretsiz takas. Tabak, oyuncak, küçük elektronik.",
+    "target_audience": "Herkes",
+    "access_conditions": "Ücretsiz, randevusuz."
   }
 }

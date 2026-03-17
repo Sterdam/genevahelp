@@ -1486,5 +1486,47 @@
     "description": "ክሳብ 18 ዓመት ቆልዑ ጥዕና ደገፍ።",
     "target_audience": "ክሳብ 18 ዓመት ቆልዑ",
     "access_conditions": "BCAS ተወከሱ።"
+  },
+  "r_0226": {
+    "name": "እሓስብ ስለዚ ይንቀሳቐስ (Groupe sante Geneve)",
+    "description": "ንጥዕና ነጻ ንጥፈታት ፕሮግራም።",
+    "target_audience": "ኩሉ",
+    "access_conditions": "ነጻ።"
+  },
+  "r_0227": {
+    "name": "IT ደገፍ – አይር",
+    "description": "ነጻ ደገፍ ኮምፒውተር። ቨርንየ።",
+    "target_audience": "ኩሉ",
+    "access_conditions": "ነጻ።"
+  },
+  "r_0228": {
+    "name": "IT ደገፍ – ሻትለን",
+    "description": "ነጻ IT ደገፍ። ቨርንየ።",
+    "target_audience": "ኩሉ",
+    "access_conditions": "ነጻ።"
+  },
+  "r_0229": {
+    "name": "IT ደገፍ – ኣቫንሸ",
+    "description": "ነጻ ደገፍ። ቨርንየ።",
+    "target_audience": "ኩሉ",
+    "access_conditions": "ነጻ።"
+  },
+  "r_0230": {
+    "name": "ሊቤልዩል – IT ንኹሉ",
+    "description": "ነጻ IT ደገፍ።",
+    "target_audience": "ኩሉ",
+    "access_conditions": "ነጻ።"
+  },
+  "r_0231": {
+    "name": "ትሮክ-ቲ-ትሩክስ – ነጻ ልውውጥ",
+    "description": "ነጻ ልውውጥ። ክዳን ን ዕቃታት።",
+    "target_audience": "ኩሉ",
+    "access_conditions": "ነጻ።"
+  },
+  "r_0232": {
+    "name": "ላ ቡቲክ – ልውውጥ ቨርንየ",
+    "description": "ነጻ ልውውጥ።",
+    "target_audience": "ኩሉ",
+    "access_conditions": "ነጻ።"
   }
 }

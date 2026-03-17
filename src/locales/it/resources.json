@@ -1486,5 +1486,47 @@
     "description": "Aiuto finanziario per bambini e giovani fino a 18 anni che necessitano sostegno per spese sanitarie o di sviluppo. Può coprire cure dentali, attività sportive, culturali e campi vacanza.",
     "target_audience": "Bambini e giovani fino a 18 anni",
     "access_conditions": "Per bambini e giovani fino a 18 anni. Contattare il BCAS."
+  },
+  "r_0226": {
+    "name": "Penso dunque mi muovo (Groupe santé Genève)",
+    "description": "Programma di attività gratuite per la salute mentale, sociale e fisica. Attività fisiche, musica, psicodramma, espressione artistica. Ambiente accogliente e confidenziale.",
+    "target_audience": "Chiunque desideri prendersi cura della propria salute",
+    "access_conditions": "Gratuito. Contattare Inès per gli orari."
+  },
+  "r_0227": {
+    "name": "Sportello informatico Aïre-le-Lignon",
+    "description": "Aiuto informatico gratuito senza appuntamento per computer, tablet e cellulari. Servizio della casa di quartiere (FASe), Comune di Vernier.",
+    "target_audience": "Pubblico generico",
+    "access_conditions": "Gratuito, senza appuntamento. Chiuso durante le vacanze scolastiche."
+  },
+  "r_0228": {
+    "name": "Sportello informatico Châtelaine-Balexert",
+    "description": "Aiuto informatico gratuito per computer, tablet e cellulari. Comune di Vernier. Sessioni su date specifiche.",
+    "target_audience": "Pubblico generico",
+    "access_conditions": "Gratuito. Date specifiche (vedi sito Vernier)."
+  },
+  "r_0229": {
+    "name": "Sportello informatico Avanchets",
+    "description": "Aiuto informatico gratuito senza appuntamento. Casa di quartiere degli Avanchets (FASe), Vernier.",
+    "target_audience": "Pubblico generico",
+    "access_conditions": "Gratuito, senza appuntamento. Chiuso durante le vacanze."
+  },
+  "r_0230": {
+    "name": "Libellules – Informatica per tutti",
+    "description": "Aiuto informatico gratuito senza appuntamento. Espace de vie Terre, quartiere Libellules, Vernier.",
+    "target_audience": "Pubblico generico",
+    "access_conditions": "Gratuito, senza appuntamento."
+  },
+  "r_0231": {
+    "name": "Troc-T-Trucs – Scambio gratuito Avanchets",
+    "description": "Spazio di scambio gratuito agli Avanchets. Vestiti, oggetti quotidiani. Senza denaro.",
+    "target_audience": "Pubblico generico",
+    "access_conditions": "Gratuito. Anche ultime domeniche 14-17 (escluso luglio e dicembre)."
+  },
+  "r_0232": {
+    "name": "La Boutik – Scambio Vernier",
+    "description": "Spazio di scambio gratuito a Vernier. Stoviglie, soprammobili, giocattoli, piccola elettronica.",
+    "target_audience": "Pubblico generico",
+    "access_conditions": "Gratuito, senza appuntamento. Chiuso durante le vacanze."
   }
 }

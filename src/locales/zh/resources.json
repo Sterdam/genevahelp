@@ -1486,5 +1486,47 @@
     "description": "为18岁以下儿童提供健康发展费用资助。",
     "target_audience": "18岁以下儿童",
     "access_conditions": "联系BCAS。"
+  },
+  "r_0226": {
+    "name": "我思故我动（Groupe sante Geneve）",
+    "description": "免费身心健康活动项目。",
+    "target_audience": "所有人",
+    "access_conditions": "免费。"
+  },
+  "r_0227": {
+    "name": "IT帮助 - 艾尔勒利尼翁",
+    "description": "免费电脑、平板、手机帮助。韦尔尼耶。",
+    "target_audience": "所有人",
+    "access_conditions": "免费，无需预约。"
+  },
+  "r_0228": {
+    "name": "IT帮助 - 沙特莱讷",
+    "description": "免费IT帮助。韦尔尼耶。",
+    "target_audience": "所有人",
+    "access_conditions": "免费。"
+  },
+  "r_0229": {
+    "name": "IT帮助 - 阿旺谢",
+    "description": "免费帮助。韦尔尼耶。",
+    "target_audience": "所有人",
+    "access_conditions": "免费。"
+  },
+  "r_0230": {
+    "name": "利贝吕尔 - 全民IT",
+    "description": "免费IT帮助。韦尔尼耶。",
+    "target_audience": "所有人",
+    "access_conditions": "免费。"
+  },
+  "r_0231": {
+    "name": "交换小铺 - 免费交换阿旺谢",
+    "description": "免费交换空间。衣物和日用品。无需金钱。",
+    "target_audience": "所有人",
+    "access_conditions": "免费。"
+  },
+  "r_0232": {
+    "name": "La Boutik - 交换韦尔尼耶",
+    "description": "免费交换。餐具、玩具、小型电子产品。",
+    "target_audience": "所有人",
+    "access_conditions": "免费。"
   }
 }

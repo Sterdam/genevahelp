@@ -1486,5 +1486,47 @@
     "description": "Ajuda financeira para crianças e jovens até 18 anos que necessitam apoio para despesas de saúde ou desenvolvimento. Pode cobrir cuidados dentários, atividades desportivas, culturais e campos de férias.",
     "target_audience": "Crianças e jovens até 18 anos",
     "access_conditions": "Para crianças e jovens até 18 anos. Contactar o BCAS."
+  },
+  "r_0226": {
+    "name": "Penso logo me mexo (Groupe santé Genève)",
+    "description": "Programa de atividades gratuitas para saúde mental, social e física. Atividades físicas, música, psicodrama, expressão artística. Ambiente acolhedor e confidencial.",
+    "target_audience": "Qualquer pessoa que deseje cuidar da sua saúde",
+    "access_conditions": "Gratuito. Contactar Inès para horários."
+  },
+  "r_0227": {
+    "name": "Permanência informática Aïre-le-Lignon",
+    "description": "Ajuda informática gratuita sem marcação para computadores, tablets e telemóveis. Centro comunitário (FASe), Vernier.",
+    "target_audience": "Público em geral",
+    "access_conditions": "Gratuito, sem marcação. Fechado nas férias escolares."
+  },
+  "r_0228": {
+    "name": "Permanência informática Châtelaine-Balexert",
+    "description": "Ajuda informática gratuita. Centro comunitário, Vernier. Sessões em datas específicas.",
+    "target_audience": "Público em geral",
+    "access_conditions": "Gratuito. Datas específicas."
+  },
+  "r_0229": {
+    "name": "Permanência informática Avanchets",
+    "description": "Ajuda informática gratuita sem marcação. Centro comunitário (FASe), Vernier.",
+    "target_audience": "Público em geral",
+    "access_conditions": "Gratuito, sem marcação. Fechado nas férias."
+  },
+  "r_0230": {
+    "name": "Libellules – Informática para todos",
+    "description": "Ajuda informática gratuita sem marcação. Espace de vie Terre, Libellules, Vernier.",
+    "target_audience": "Público em geral",
+    "access_conditions": "Gratuito, sem marcação."
+  },
+  "r_0231": {
+    "name": "Troc-T-Trucs – Troca gratuita Avanchets",
+    "description": "Espaço de troca gratuito nos Avanchets. Roupa, objetos do quotidiano. Sem dinheiro.",
+    "target_audience": "Público em geral",
+    "access_conditions": "Gratuito. Últimos domingos 14-17h (exceto julho e dezembro)."
+  },
+  "r_0232": {
+    "name": "La Boutik – Troca Vernier",
+    "description": "Espaço de troca gratuito em Vernier. Loiça, bibelôs, brinquedos, pequena eletrónica.",
+    "target_audience": "Público em geral",
+    "access_conditions": "Gratuito, sem marcação. Fechado nas férias."
   }
 }

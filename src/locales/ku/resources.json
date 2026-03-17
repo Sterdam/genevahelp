@@ -1486,5 +1486,47 @@
     "description": "Alîkariya darayî ji bo zarokên heta 18 salî.",
     "target_audience": "Zarokên heta 18 salî",
     "access_conditions": "Bi BCAS re têkilî daynin."
+  },
+  "r_0226": {
+    "name": "Ez difikrim ji ber vê yekê ez dicim (Groupe santé Genève)",
+    "description": "Bernameya çalakiyên belaş ji bo tenduristiya derûnî, civakî û laşî.",
+    "target_audience": "Her kes",
+    "access_conditions": "Belaş."
+  },
+  "r_0227": {
+    "name": "Alîkariya IT – Aïre-le-Lignon",
+    "description": "Alîkariya belaş ji bo komputer, tablet û têlefonê. Vernier.",
+    "target_audience": "Her kes",
+    "access_conditions": "Belaş, bê randevû."
+  },
+  "r_0228": {
+    "name": "Alîkariya IT – Châtelaine-Balexert",
+    "description": "Alîkariya IT ya belaş. Vernier.",
+    "target_audience": "Her kes",
+    "access_conditions": "Belaş."
+  },
+  "r_0229": {
+    "name": "Alîkariya IT – Avanchets",
+    "description": "Alîkariya belaş bê randevû. Vernier.",
+    "target_audience": "Her kes",
+    "access_conditions": "Belaş."
+  },
+  "r_0230": {
+    "name": "Libellules – IT ji bo her kesî",
+    "description": "Alîkariya IT ya belaş. Vernier.",
+    "target_audience": "Her kes",
+    "access_conditions": "Belaş."
+  },
+  "r_0231": {
+    "name": "Troc-T-Trucs – Guhertina belaş",
+    "description": "Cihê guhertina belaş. Cilk û tiştên rojane. Bê pere.",
+    "target_audience": "Her kes",
+    "access_conditions": "Belaş."
+  },
+  "r_0232": {
+    "name": "La Boutik – Guhertin Vernier",
+    "description": "Cihê guhertina belaş. Firaq, lîstik, elektronîk.",
+    "target_audience": "Her kes",
+    "access_conditions": "Belaş."
   }
 }

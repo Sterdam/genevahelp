@@ -1486,5 +1486,47 @@
     "description": "18 سال تک بچوں کو صحت اخراجات کے لیے مالی امداد۔",
     "target_audience": "18 سال تک بچے",
     "access_conditions": "BCAS سے رابطہ۔"
+  },
+  "r_0226": {
+    "name": "سوچتا ہوں اس لیے چلتا ہوں (Groupe santé Genève)",
+    "description": "ذہنی، سماجی اور جسمانی صحت کے لیے مفت سرگرمیاں۔",
+    "target_audience": "سب",
+    "access_conditions": "مفت۔"
+  },
+  "r_0227": {
+    "name": "آئی ٹی مدد – آئر لو لنیوں",
+    "description": "کمپیوٹر، ٹیبلٹ اور فون کے لیے مفت مدد۔ ورنیئر۔",
+    "target_audience": "سب",
+    "access_conditions": "مفت۔"
+  },
+  "r_0228": {
+    "name": "آئی ٹی مدد – شاتلین",
+    "description": "مفت آئی ٹی مدد۔ ورنیئر۔",
+    "target_audience": "سب",
+    "access_conditions": "مفت۔"
+  },
+  "r_0229": {
+    "name": "آئی ٹی مدد – آوانشے",
+    "description": "مفت مدد۔ ورنیئر۔",
+    "target_audience": "سب",
+    "access_conditions": "مفت۔"
+  },
+  "r_0230": {
+    "name": "لبیلول – سب کے لیے آئی ٹی",
+    "description": "مفت آئی ٹی مدد۔ ورنیئر۔",
+    "target_audience": "سب",
+    "access_conditions": "مفت۔"
+  },
+  "r_0231": {
+    "name": "ٹروک-ٹی-ٹروکس – مفت تبادلہ",
+    "description": "مفت تبادلہ۔ کپڑے اور سامان۔",
+    "target_audience": "سب",
+    "access_conditions": "مفت۔"
+  },
+  "r_0232": {
+    "name": "لا بوٹیک – تبادلہ ورنیئر",
+    "description": "مفت تبادلہ۔ برتن، کھلونے، الیکٹرانکس۔",
+    "target_audience": "سب",
+    "access_conditions": "مفت۔"
   }
 }

@@ -1486,5 +1486,47 @@
     "description": "१८ वर्षसम्म बालबालिकालाई स्वास्थ्य आर्थिक सहायता।",
     "target_audience": "१८ वर्षसम्म बालबालिका",
     "access_conditions": "BCAS मा सम्पर्क।"
+  },
+  "r_0226": {
+    "name": "सोच्छु त्यसैले चल्छु",
+    "description": "शारीरिक र मानसिक स्वास्थ्यका लागि निःशुल्क कार्यक्रम।",
+    "target_audience": "सबै",
+    "access_conditions": "निःशुल्क।"
+  },
+  "r_0227": {
+    "name": "आईटी सहायता – आइर",
+    "description": "कम्प्युटर निःशुल्क सहायता। भर्नियर।",
+    "target_audience": "सबै",
+    "access_conditions": "निःशुल्क।"
+  },
+  "r_0228": {
+    "name": "आईटी सहायता – शातेलेन",
+    "description": "निःशुल्क आईटी सहायता। भर्नियर।",
+    "target_audience": "सबै",
+    "access_conditions": "निःशुल्क।"
+  },
+  "r_0229": {
+    "name": "आईटी सहायता – अवान्शे",
+    "description": "निःशुल्क सहायता। भर्नियर।",
+    "target_audience": "सबै",
+    "access_conditions": "निःशुल्क।"
+  },
+  "r_0230": {
+    "name": "लिबेलुल – सबैको लागि आईटी",
+    "description": "निःशुल्क आईटी सहायता।",
+    "target_audience": "सबै",
+    "access_conditions": "निःशुल्क।"
+  },
+  "r_0231": {
+    "name": "ट्रक-टी-ट्रक्स – निःशुल्क आदानप्रदान",
+    "description": "निःशुल्क आदानप्रदान। लुगा र सामान।",
+    "target_audience": "सबै",
+    "access_conditions": "निःशुल्क।"
+  },
+  "r_0232": {
+    "name": "ला बुटिक – आदानप्रदान भर्नियर",
+    "description": "निःशुल्क आदानप्रदान।",
+    "target_audience": "सबै",
+    "access_conditions": "निःशुल्क।"
   }
 }

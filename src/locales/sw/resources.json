@@ -1486,5 +1486,47 @@
     "description": "Msaada wa kifedha kwa watoto hadi 18 kwa gharama za afya.",
     "target_audience": "Watoto hadi 18",
     "access_conditions": "Wasiliana BCAS."
+  },
+  "r_0226": {
+    "name": "Nafikiri basi nasogea",
+    "description": "Mpango wa shughuli bure kwa afya.",
+    "target_audience": "Wote",
+    "access_conditions": "Bure."
+  },
+  "r_0227": {
+    "name": "Msaada IT – Aïre",
+    "description": "Msaada bure kompyuta. Vernier.",
+    "target_audience": "Wote",
+    "access_conditions": "Bure."
+  },
+  "r_0228": {
+    "name": "Msaada IT – Châtelaine",
+    "description": "Msaada IT bure. Vernier.",
+    "target_audience": "Wote",
+    "access_conditions": "Bure."
+  },
+  "r_0229": {
+    "name": "Msaada IT – Avanchets",
+    "description": "Msaada bure. Vernier.",
+    "target_audience": "Wote",
+    "access_conditions": "Bure."
+  },
+  "r_0230": {
+    "name": "Libellules – IT kwa wote",
+    "description": "Msaada IT bure.",
+    "target_audience": "Wote",
+    "access_conditions": "Bure."
+  },
+  "r_0231": {
+    "name": "Troc-T-Trucs – Kubadilishana bure",
+    "description": "Nafasi ya kubadilishana bure. Nguo na vitu.",
+    "target_audience": "Wote",
+    "access_conditions": "Bure."
+  },
+  "r_0232": {
+    "name": "La Boutik – Kubadilishana Vernier",
+    "description": "Kubadilishana bure.",
+    "target_audience": "Wote",
+    "access_conditions": "Bure."
   }
 }

@@ -1486,5 +1486,47 @@
     "description": "Ajutor financiar pentru copii și tineri până la 18 ani care au nevoie de sprijin pentru cheltuieli de sănătate sau dezvoltare. Poate acoperi îngrijire dentară, activități sportive, culturale și tabere de vacanță.",
     "target_audience": "Copii și tineri până la 18 ani",
     "access_conditions": "Pentru copii și tineri până la 18 ani. Contactați BCAS."
+  },
+  "r_0226": {
+    "name": "Gândesc deci mă mișc (Groupe santé Genève)",
+    "description": "Program de activități gratuite pentru sănătate mintală, socială și fizică. Activități fizice, muzică, psihodramă, expresie artistică. Mediu primitor și confidențial.",
+    "target_audience": "Oricine dorește să-și îngrijească sănătatea",
+    "access_conditions": "Gratuit. Contactați Inès pentru program."
+  },
+  "r_0227": {
+    "name": "Permanență informatică Aïre-le-Lignon",
+    "description": "Ajutor informatic gratuit fără programare. Centru comunitar (FASe), Vernier.",
+    "target_audience": "Public general",
+    "access_conditions": "Gratuit, fără programare. Închis în vacanțele școlare."
+  },
+  "r_0228": {
+    "name": "Permanență informatică Châtelaine-Balexert",
+    "description": "Ajutor informatic gratuit. Centru comunitar, Vernier. Sesiuni pe date specifice.",
+    "target_audience": "Public general",
+    "access_conditions": "Gratuit. Date specifice."
+  },
+  "r_0229": {
+    "name": "Permanență informatică Avanchets",
+    "description": "Ajutor informatic gratuit fără programare. Centru comunitar (FASe), Vernier.",
+    "target_audience": "Public general",
+    "access_conditions": "Gratuit, fără programare. Închis în vacanțe."
+  },
+  "r_0230": {
+    "name": "Libellules – Informatică pentru toți",
+    "description": "Ajutor informatic gratuit fără programare. Espace de vie Terre, Libellules, Vernier.",
+    "target_audience": "Public general",
+    "access_conditions": "Gratuit, fără programare."
+  },
+  "r_0231": {
+    "name": "Troc-T-Trucs – Schimb gratuit Avanchets",
+    "description": "Spațiu de schimb gratuit în Avanchets. Haine, obiecte de zi cu zi. Fără bani.",
+    "target_audience": "Public general",
+    "access_conditions": "Gratuit. Și ultimele duminici 14-17 (mai puțin iulie și decembrie)."
+  },
+  "r_0232": {
+    "name": "La Boutik – Schimb Vernier",
+    "description": "Spațiu de schimb gratuit în Vernier. Veselă, decorațiuni, jucării, electronică mică.",
+    "target_audience": "Public general",
+    "access_conditions": "Gratuit, fără programare. Închis în vacanțe."
   }
 }

@@ -1486,5 +1486,47 @@
     "description": "ለ18 ዓመት ድረስ ልጆች የጤና ድጋፍ።",
     "target_audience": "18 ዓመት ድረስ ልጆች",
     "access_conditions": "BCAS ያግኙ።"
+  },
+  "r_0226": {
+    "name": "እያሰብኩ እንቀሳቀሳለሁ (Groupe sante Geneve)",
+    "description": "ለአካልና አእምሮ ጤና ነፃ እንቅስቃሴ ፕሮግራም።",
+    "target_audience": "ሁሉም",
+    "access_conditions": "ነፃ።"
+  },
+  "r_0227": {
+    "name": "IT ድጋፍ – አይር ለ ሊኒዮን",
+    "description": "ኮምፒውተር፣ ታብሌት ነፃ ድጋፍ። ቬርኒየ።",
+    "target_audience": "ሁሉም",
+    "access_conditions": "ነፃ።"
+  },
+  "r_0228": {
+    "name": "IT ድጋፍ – ሻትለን",
+    "description": "ነፃ IT ድጋፍ። ቬርኒየ።",
+    "target_audience": "ሁሉም",
+    "access_conditions": "ነፃ።"
+  },
+  "r_0229": {
+    "name": "IT ድጋፍ – አቫንሸ",
+    "description": "ነፃ ድጋፍ። ቬርኒየ።",
+    "target_audience": "ሁሉም",
+    "access_conditions": "ነፃ።"
+  },
+  "r_0230": {
+    "name": "ሊቤልዩል – ለሁሉም IT",
+    "description": "ነፃ IT ድጋፍ። ቬርኒየ።",
+    "target_audience": "ሁሉም",
+    "access_conditions": "ነፃ።"
+  },
+  "r_0231": {
+    "name": "ትሮክ-ቲ-ትሩክስ – ነፃ ልውውጥ",
+    "description": "ነፃ ልውውጥ። ልብስና ዕቃዎች።",
+    "target_audience": "ሁሉም",
+    "access_conditions": "ነፃ።"
+  },
+  "r_0232": {
+    "name": "ላ ቡቲክ – ልውውጥ ቬርኒየ",
+    "description": "ነፃ ልውውጥ። ዕቃዎች።",
+    "target_audience": "ሁሉም",
+    "access_conditions": "ነፃ።"
   }
 }

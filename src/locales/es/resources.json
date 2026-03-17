@@ -1486,5 +1486,47 @@
     "description": "Ayuda financiera para niños y jóvenes hasta 18 años que necesitan apoyo para gastos de salud o desarrollo. Puede cubrir cuidado dental, actividades deportivas, culturales y campamentos de vacaciones.",
     "target_audience": "Niños y jóvenes hasta 18 años",
     "access_conditions": "Para niños y jóvenes hasta 18 años. Contactar al BCAS."
+  },
+  "r_0226": {
+    "name": "Pienso luego me muevo (Groupe santé Genève)",
+    "description": "Programa de actividades gratuitas para la salud mental, social y física. Actividades físicas, música, psicodrama, expresión artística. Ambiente acogedor y confidencial.",
+    "target_audience": "Cualquier persona que desee cuidar su salud",
+    "access_conditions": "Gratuito. Contactar a Inès para horarios."
+  },
+  "r_0227": {
+    "name": "Permanencia informática Aïre-le-Lignon",
+    "description": "Ayuda informática gratuita sin cita para ordenadores, tabletas y móviles. Centro comunitario (FASe), Vernier.",
+    "target_audience": "Público en general",
+    "access_conditions": "Gratuito, sin cita. Cerrado en vacaciones escolares."
+  },
+  "r_0228": {
+    "name": "Permanencia informática Châtelaine-Balexert",
+    "description": "Ayuda informática gratuita para ordenadores, tabletas y móviles. Vernier. Sesiones en fechas específicas.",
+    "target_audience": "Público en general",
+    "access_conditions": "Gratuito. Fechas específicas."
+  },
+  "r_0229": {
+    "name": "Permanencia informática Avanchets",
+    "description": "Ayuda informática gratuita sin cita. Centro comunitario (FASe), Vernier.",
+    "target_audience": "Público en general",
+    "access_conditions": "Gratuito, sin cita. Cerrado en vacaciones."
+  },
+  "r_0230": {
+    "name": "Libellules – Informática para todos",
+    "description": "Ayuda informática gratuita sin cita. Espace de vie Terre, Libellules, Vernier.",
+    "target_audience": "Público en general",
+    "access_conditions": "Gratuito, sin cita."
+  },
+  "r_0231": {
+    "name": "Troc-T-Trucs – Trueque gratuito Avanchets",
+    "description": "Espacio de trueque gratuito en Avanchets. Ropa, objetos cotidianos. Sin dinero.",
+    "target_audience": "Público en general",
+    "access_conditions": "Gratuito. Últimos domingos 14-17h (excepto julio y diciembre)."
+  },
+  "r_0232": {
+    "name": "La Boutik – Trueque Vernier",
+    "description": "Espacio de trueque gratuito en Vernier. Vajilla, adornos, juguetes, pequeña electrónica.",
+    "target_audience": "Público en general",
+    "access_conditions": "Gratuito, sin cita. Cerrado en vacaciones."
   }
 }

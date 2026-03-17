@@ -1486,5 +1486,47 @@
     "description": "18세까지 아동 건강·발달 비용 재정 지원.",
     "target_audience": "18세까지 아동",
     "access_conditions": "BCAS에 문의."
+  },
+  "r_0226": {
+    "name": "생각하니 움직인다 (Groupe santé Genève)",
+    "description": "정신·사회·신체 건강을 위한 무료 활동 프로그램。",
+    "target_audience": "모든 분",
+    "access_conditions": "무료."
+  },
+  "r_0227": {
+    "name": "IT 지원 – 에르 르 리뇽",
+    "description": "컴퓨터·태블릿·스마트폰 무료 지원. 베르니에.",
+    "target_audience": "모든 분",
+    "access_conditions": "무료, 예약 불필요."
+  },
+  "r_0228": {
+    "name": "IT 지원 – 샤틀렌",
+    "description": "무료 IT 지원. 베르니에.",
+    "target_audience": "모든 분",
+    "access_conditions": "무료."
+  },
+  "r_0229": {
+    "name": "IT 지원 – 아방셰",
+    "description": "무료 지원. 베르니에.",
+    "target_audience": "모든 분",
+    "access_conditions": "무료."
+  },
+  "r_0230": {
+    "name": "리벨룰 – 모두를 위한 IT",
+    "description": "무료 IT 지원. 베르니에.",
+    "target_audience": "모든 분",
+    "access_conditions": "무료."
+  },
+  "r_0231": {
+    "name": "트록-T-트뤽 – 무료 교환",
+    "description": "무료 교환 공간. 의류·일용품. 돈 불필요.",
+    "target_audience": "모든 분",
+    "access_conditions": "무료."
+  },
+  "r_0232": {
+    "name": "라 부틱 – 교환 베르니에",
+    "description": "무료 교환. 식기·장난감·소형 전자기기.",
+    "target_audience": "모든 분",
+    "access_conditions": "무료."
   }
 }

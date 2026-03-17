@@ -1486,5 +1486,47 @@
     "description": "Kaalmada dhaqaale carruurta ilaa 18 sano.",
     "target_audience": "Ilaa 18 sano",
     "access_conditions": "La xiriir BCAS."
+  },
+  "r_0226": {
+    "name": "Waan fikiraa markaa waan dhaqaaqaa",
+    "description": "Barnaamij bilaash ah oo caafimaad.",
+    "target_audience": "Qof walba",
+    "access_conditions": "Bilaash."
+  },
+  "r_0227": {
+    "name": "Caawimo IT – Aïre",
+    "description": "Caawimo bilaash kombiyuutar. Vernier.",
+    "target_audience": "Qof walba",
+    "access_conditions": "Bilaash."
+  },
+  "r_0228": {
+    "name": "Caawimo IT – Châtelaine",
+    "description": "Caawimo IT bilaash. Vernier.",
+    "target_audience": "Qof walba",
+    "access_conditions": "Bilaash."
+  },
+  "r_0229": {
+    "name": "Caawimo IT – Avanchets",
+    "description": "Caawimo bilaash. Vernier.",
+    "target_audience": "Qof walba",
+    "access_conditions": "Bilaash."
+  },
+  "r_0230": {
+    "name": "Libellules – IT qof walba",
+    "description": "Caawimo IT bilaash.",
+    "target_audience": "Qof walba",
+    "access_conditions": "Bilaash."
+  },
+  "r_0231": {
+    "name": "Troc-T-Trucs – Isweydaarsi bilaash",
+    "description": "Goob isweydaarsi bilaash. Dhar iyo alaab.",
+    "target_audience": "Qof walba",
+    "access_conditions": "Bilaash."
+  },
+  "r_0232": {
+    "name": "La Boutik – Isweydaarsi Vernier",
+    "description": "Isweydaarsi bilaash.",
+    "target_audience": "Qof walba",
+    "access_conditions": "Bilaash."
   }
 }

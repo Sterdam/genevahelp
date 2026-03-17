@@ -1486,5 +1486,47 @@
     "description": "১৮ বছর পর্যন্ত শিশুদের স্বাস্থ্য আর্থিক সহায়তা।",
     "target_audience": "১৮ বছর পর্যন্ত শিশু",
     "access_conditions": "BCAS এ যোগাযোগ।"
+  },
+  "r_0226": {
+    "name": "ভাবি তাই চলি (Groupe sante Geneve)",
+    "description": "মানসিক ও শারীরিক স্বাস্থ্যের জন্য বিনামূল্যে কার্যক্রম।",
+    "target_audience": "সকলে",
+    "access_conditions": "বিনামূল্যে।"
+  },
+  "r_0227": {
+    "name": "আইটি সহায়তা – আইর",
+    "description": "কম্পিউটার, ট্যাবলেট বিনামূল্যে সহায়তা। ভের্নিয়ে।",
+    "target_audience": "সকলে",
+    "access_conditions": "বিনামূল্যে।"
+  },
+  "r_0228": {
+    "name": "আইটি সহায়তা – শাতেলেন",
+    "description": "বিনামূল্যে আইটি সহায়তা। ভের্নিয়ে।",
+    "target_audience": "সকলে",
+    "access_conditions": "বিনামূল্যে।"
+  },
+  "r_0229": {
+    "name": "আইটি সহায়তা – আভাঁশে",
+    "description": "বিনামূল্যে সহায়তা। ভের্নিয়ে।",
+    "target_audience": "সকলে",
+    "access_conditions": "বিনামূল্যে।"
+  },
+  "r_0230": {
+    "name": "লিবেলুল – সবার জন্য আইটি",
+    "description": "বিনামূল্যে আইটি সহায়তা।",
+    "target_audience": "সকলে",
+    "access_conditions": "বিনামূল্যে।"
+  },
+  "r_0231": {
+    "name": "ত্রক-টি-ত্রুক্স – বিনামূল্যে বিনিময়",
+    "description": "বিনামূল্যে বিনিময়। কাপড় ও জিনিসপত্র।",
+    "target_audience": "সকলে",
+    "access_conditions": "বিনামূল্যে।"
+  },
+  "r_0232": {
+    "name": "লা বুতিক – বিনিময় ভের্নিয়ে",
+    "description": "বিনামূল্যে বিনিময়।",
+    "target_audience": "সকলে",
+    "access_conditions": "বিনামূল্যে।"
   }
 }

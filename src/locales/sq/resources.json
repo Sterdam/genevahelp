@@ -1486,5 +1486,47 @@
     "description": "Ndihmë financiare për fëmijë deri 18 vjeç.",
     "target_audience": "Fëmijë deri 18 vjeç",
     "access_conditions": "Kontaktoni BCAS."
+  },
+  "r_0226": {
+    "name": "Mendoj pra lëviz (Groupe santé Genève)",
+    "description": "Program aktivitetesh falas për shëndetin mendor, social dhe fizik.",
+    "target_audience": "Të gjithë",
+    "access_conditions": "Falas."
+  },
+  "r_0227": {
+    "name": "Ndihmë IT – Aïre-le-Lignon",
+    "description": "Ndihmë falas për kompjuter, tablet dhe telefon. Vernier.",
+    "target_audience": "Të gjithë",
+    "access_conditions": "Falas, pa takim."
+  },
+  "r_0228": {
+    "name": "Ndihmë IT – Châtelaine-Balexert",
+    "description": "Ndihmë IT falas. Vernier.",
+    "target_audience": "Të gjithë",
+    "access_conditions": "Falas."
+  },
+  "r_0229": {
+    "name": "Ndihmë IT – Avanchets",
+    "description": "Ndihmë falas pa takim. Vernier.",
+    "target_audience": "Të gjithë",
+    "access_conditions": "Falas."
+  },
+  "r_0230": {
+    "name": "Libellules – IT për të gjithë",
+    "description": "Ndihmë IT falas. Vernier.",
+    "target_audience": "Të gjithë",
+    "access_conditions": "Falas."
+  },
+  "r_0231": {
+    "name": "Troc-T-Trucs – Shkëmbim falas",
+    "description": "Hapësirë shkëmbimi falas. Rroba dhe objekte.",
+    "target_audience": "Të gjithë",
+    "access_conditions": "Falas."
+  },
+  "r_0232": {
+    "name": "La Boutik – Shkëmbim Vernier",
+    "description": "Shkëmbim falas. Enë, lodra, elektronikë.",
+    "target_audience": "Të gjithë",
+    "access_conditions": "Falas."
   }
 }

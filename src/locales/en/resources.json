@@ -1486,5 +1486,47 @@
     "description": "Financial aid for children and young people up to 18 who need support for health or development expenses. Can cover dental care, sports activities, cultural activities and holiday camps.",
     "target_audience": "Children and young people up to 18",
     "access_conditions": "For children and young people up to 18. Contact the BCAS to apply."
+  },
+  "r_0226": {
+    "name": "I Think Therefore I Move (Groupe santé Genève)",
+    "description": "Free activities programme for mental, social and physical health. Physical activities, music, psychodrama, body awareness, artistic expression. Welcoming, confidential, non-judgmental environment.",
+    "target_audience": "Anyone wishing to look after their health and wellbeing",
+    "access_conditions": "Free. Individual or group registration. Contact Inès for schedules."
+  },
+  "r_0227": {
+    "name": "IT Drop-in – Aïre-le-Lignon",
+    "description": "Free walk-in IT help for computers, tablets and mobile phones. Community centre service (FASe), Vernier municipality.",
+    "target_audience": "General public",
+    "access_conditions": "Free, no appointment. Closed during school holidays."
+  },
+  "r_0228": {
+    "name": "IT Drop-in – Châtelaine-Balexert",
+    "description": "Free IT help for computers, tablets and mobile phones. Community centre service, Vernier municipality. Sessions on specific dates.",
+    "target_audience": "General public",
+    "access_conditions": "Free. Sessions on specific dates (see Vernier website)."
+  },
+  "r_0229": {
+    "name": "IT Drop-in – Les Avanchets",
+    "description": "Free walk-in IT help for computers, tablets and mobile phones. Community centre service (FASe), Vernier municipality.",
+    "target_audience": "General public",
+    "access_conditions": "Free, no appointment. Closed during school holidays."
+  },
+  "r_0230": {
+    "name": "Libellules – IT for All",
+    "description": "Free walk-in IT help for computers, tablets and mobile phones. At Espace de vie Terre, Libellules neighbourhood, Vernier.",
+    "target_audience": "General public",
+    "access_conditions": "Free, no appointment. Open to all."
+  },
+  "r_0231": {
+    "name": "Troc-T-Trucs – Free Swap Shop Avanchets",
+    "description": "Free swap space in Avanchets. Exchange clothes, everyday objects and various items. No money needed: drop off what you no longer need and take what interests you.",
+    "target_audience": "General public",
+    "access_conditions": "Free. Also open last Sundays 2-5pm (except July and December)."
+  },
+  "r_0232": {
+    "name": "La Boutik – Swap Shop Vernier",
+    "description": "Free swap space in Vernier. Exchange crockery, ornaments, toys and small electronics. Drop off and take freely.",
+    "target_audience": "General public",
+    "access_conditions": "Free, no appointment. Closed during school holidays."
   }
 }

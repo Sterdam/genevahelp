@@ -1486,5 +1486,47 @@
     "description": "Hỗ trợ tài chính cho trẻ em đến 18 tuổi cho chi phí sức khỏe.",
     "target_audience": "Trẻ em đến 18 tuổi",
     "access_conditions": "Liên hệ BCAS."
+  },
+  "r_0226": {
+    "name": "Toi nghi nen toi dong (Groupe sante Geneve)",
+    "description": "Chuong trinh hoat dong mien phi cho suc khoe tam than, xa hoi va the chat.",
+    "target_audience": "Tat ca",
+    "access_conditions": "Mien phi."
+  },
+  "r_0227": {
+    "name": "Ho tro IT - Aire-le-Lignon",
+    "description": "Ho tro mien phi may tinh, may tinh bang va dien thoai. Vernier.",
+    "target_audience": "Tat ca",
+    "access_conditions": "Mien phi."
+  },
+  "r_0228": {
+    "name": "Ho tro IT - Chatelaine-Balexert",
+    "description": "Ho tro IT mien phi. Vernier.",
+    "target_audience": "Tat ca",
+    "access_conditions": "Mien phi."
+  },
+  "r_0229": {
+    "name": "Ho tro IT - Avanchets",
+    "description": "Ho tro mien phi. Vernier.",
+    "target_audience": "Tat ca",
+    "access_conditions": "Mien phi."
+  },
+  "r_0230": {
+    "name": "Libellules - IT cho moi nguoi",
+    "description": "Ho tro IT mien phi. Vernier.",
+    "target_audience": "Tat ca",
+    "access_conditions": "Mien phi."
+  },
+  "r_0231": {
+    "name": "Troc-T-Trucs - Trao doi mien phi",
+    "description": "Khong gian trao doi mien phi. Quan ao va do dung.",
+    "target_audience": "Tat ca",
+    "access_conditions": "Mien phi."
+  },
+  "r_0232": {
+    "name": "La Boutik - Trao doi Vernier",
+    "description": "Trao doi mien phi. Bat dia, do choi, dien tu nho.",
+    "target_audience": "Tat ca",
+    "access_conditions": "Mien phi."
   }
 }

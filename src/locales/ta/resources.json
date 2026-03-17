@@ -1486,5 +1486,47 @@
     "description": "18 வயது வரை குழந்தைகளுக்கு சுகாதார நிதி உதவி.",
     "target_audience": "18 வயது வரை குழந்தைகள்",
     "access_conditions": "BCAS தொடர்பு கொள்ளுங்கள்."
+  },
+  "r_0226": {
+    "name": "நான் நினைக்கிறேன் எனவே நகர்கிறேன்",
+    "description": "உடல் மன ஆரோக்கியத்திற்கான இலவச நடவடிக்கைகள்.",
+    "target_audience": "அனைவரும்",
+    "access_conditions": "இலவசம்."
+  },
+  "r_0227": {
+    "name": "IT உதவி – ஐர்",
+    "description": "கணினி இலவச உதவி. வெர்னியே.",
+    "target_audience": "அனைவரும்",
+    "access_conditions": "இலவசம்."
+  },
+  "r_0228": {
+    "name": "IT உதவி – ஷாட்லேன்",
+    "description": "இலவச IT உதவி. வெர்னியே.",
+    "target_audience": "அனைவரும்",
+    "access_conditions": "இலவசம்."
+  },
+  "r_0229": {
+    "name": "IT உதவி – அவான்ஷே",
+    "description": "இலவச உதவி. வெர்னியே.",
+    "target_audience": "அனைவரும்",
+    "access_conditions": "இலவசம்."
+  },
+  "r_0230": {
+    "name": "லிபெல்லுல் – அனைவருக்கும் IT",
+    "description": "இலவச IT உதவி.",
+    "target_audience": "அனைவரும்",
+    "access_conditions": "இலவசம்."
+  },
+  "r_0231": {
+    "name": "ட்ரோக்-டி-ட்ருக்ஸ் – இலவச பரிமாற்றம்",
+    "description": "இலவச பரிமாற்ற இடம். ஆடைகள் மற்றும் பொருட்கள்.",
+    "target_audience": "அனைவரும்",
+    "access_conditions": "இலவசம்."
+  },
+  "r_0232": {
+    "name": "லா புட்டிக் – பரிமாற்றம் வெர்னியே",
+    "description": "இலவச பரிமாற்றம்.",
+    "target_audience": "அனைவரும்",
+    "access_conditions": "இலவசம்."
   }
 }

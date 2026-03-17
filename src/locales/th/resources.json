@@ -1486,5 +1486,47 @@
     "description": "ช่วยเหลือการเงินสำหรับเด็กถึง 18 ปีด้านสุขภาพ",
     "target_audience": "เด็กถึง 18 ปี",
     "access_conditions": "ติดต่อ BCAS"
+  },
+  "r_0226": {
+    "name": "คิดแล้วเคลื่อนไหว (Groupe sante Geneve)",
+    "description": "โปรแกรมกิจกรรมฟรีเพื่อสุขภาพกายและจิต",
+    "target_audience": "ทุกคน",
+    "access_conditions": "ฟรี"
+  },
+  "r_0227": {
+    "name": "ช่วยเหลือไอที - แอร์เลอลิญง",
+    "description": "ช่วยเหลือคอมพิวเตอร์ แท็บเล็ต โทรศัพท์ฟรี แวร์นีเย",
+    "target_audience": "ทุกคน",
+    "access_conditions": "ฟรี"
+  },
+  "r_0228": {
+    "name": "ช่วยเหลือไอที - ชาเตอแลน",
+    "description": "ช่วยเหลือไอทีฟรี แวร์นีเย",
+    "target_audience": "ทุกคน",
+    "access_conditions": "ฟรี"
+  },
+  "r_0229": {
+    "name": "ช่วยเหลือไอที - อาว็องเช",
+    "description": "ช่วยเหลือฟรี แวร์นีเย",
+    "target_audience": "ทุกคน",
+    "access_conditions": "ฟรี"
+  },
+  "r_0230": {
+    "name": "ลิเบลลูล - ไอทีสำหรับทุกคน",
+    "description": "ช่วยเหลือไอทีฟรี แวร์นีเย",
+    "target_audience": "ทุกคน",
+    "access_conditions": "ฟรี"
+  },
+  "r_0231": {
+    "name": "ตร็อก-ที-ตรุกซ์ - แลกเปลี่ยนฟรี",
+    "description": "พื้นที่แลกเปลี่ยนฟรี เสื้อผ้าและของใช้",
+    "target_audience": "ทุกคน",
+    "access_conditions": "ฟรี"
+  },
+  "r_0232": {
+    "name": "ลา บูตีก - แลกเปลี่ยนแวร์นีเย",
+    "description": "แลกเปลี่ยนฟรี จาน ของเล่น อิเล็กทรอนิกส์",
+    "target_audience": "ทุกคน",
+    "access_conditions": "ฟรี"
   }
 }

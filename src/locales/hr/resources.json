@@ -1486,5 +1486,47 @@
     "description": "Financijska pomoć za djecu i mlade do 18 godina kojima je potrebna podrška za zdravstvene troškove ili razvoj. Može pokriti stomatologiju, sportske i kulturne aktivnosti te ljetne kampove.",
     "target_audience": "Djeca i mladi do 18 godina",
     "access_conditions": "Za djecu i mlade do 18 godina. Kontaktirajte BCAS."
+  },
+  "r_0226": {
+    "name": "Mislim dakle se krećem (Groupe santé Genève)",
+    "description": "Besplatan program aktivnosti za mentalno, socijalno i fizičko zdravlje.",
+    "target_audience": "Svi",
+    "access_conditions": "Besplatno."
+  },
+  "r_0227": {
+    "name": "IT pomoć – Aïre-le-Lignon",
+    "description": "Besplatna pomoć za računala, tablete i mobitele. Vernier.",
+    "target_audience": "Svi",
+    "access_conditions": "Besplatno, bez narudžbe."
+  },
+  "r_0228": {
+    "name": "IT pomoć – Châtelaine-Balexert",
+    "description": "Besplatna IT pomoć. Vernier.",
+    "target_audience": "Svi",
+    "access_conditions": "Besplatno."
+  },
+  "r_0229": {
+    "name": "IT pomoć – Avanchets",
+    "description": "Besplatna pomoć bez narudžbe. Vernier.",
+    "target_audience": "Svi",
+    "access_conditions": "Besplatno."
+  },
+  "r_0230": {
+    "name": "Libellules – Informatika za sve",
+    "description": "Besplatna IT pomoć. Vernier.",
+    "target_audience": "Svi",
+    "access_conditions": "Besplatno."
+  },
+  "r_0231": {
+    "name": "Troc-T-Trucs – Besplatna razmjena Avanchets",
+    "description": "Besplatan prostor za razmjenu odjeće i predmeta.",
+    "target_audience": "Svi",
+    "access_conditions": "Besplatno."
+  },
+  "r_0232": {
+    "name": "La Boutik – Razmjena Vernier",
+    "description": "Besplatan prostor za razmjenu. Posuđe, igračke, elektronika.",
+    "target_audience": "Svi",
+    "access_conditions": "Besplatno."
   }
 }

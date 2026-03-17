@@ -1486,5 +1486,47 @@
     "description": "Finanzhilfe für Kinder und Jugendliche bis 18 Jahre, die Unterstützung für Gesundheits- oder Entwicklungskosten benötigen. Kann Zahnpflege, Sportaktivitäten, kulturelle Aktivitäten und Ferienlager abdecken.",
     "target_audience": "Kinder und Jugendliche bis 18 Jahre",
     "access_conditions": "Für Kinder und Jugendliche bis 18 Jahre. Beim BCAS anfragen."
+  },
+  "r_0226": {
+    "name": "Ich denke, also bewege ich mich (Groupe santé Genève)",
+    "description": "Kostenloses Aktivitätenprogramm für mentale, soziale und körperliche Gesundheit. Sport, Musik, Psychodrama, Körperbewusstsein, künstlerischer Ausdruck. Einladende, vertrauliche, wertfreie Umgebung.",
+    "target_audience": "Alle, die sich um ihre Gesundheit kümmern möchten",
+    "access_conditions": "Kostenlos. Kontakt: Inès für Zeitplan."
+  },
+  "r_0227": {
+    "name": "IT-Sprechstunde Aïre-le-Lignon",
+    "description": "Kostenlose IT-Hilfe ohne Termin für Computer, Tablets und Handys. Quartiershaus-Service (FASe), Gemeinde Vernier.",
+    "target_audience": "Allgemeine Öffentlichkeit",
+    "access_conditions": "Kostenlos, ohne Termin. Geschlossen während Schulferien."
+  },
+  "r_0228": {
+    "name": "IT-Sprechstunde Châtelaine-Balexert",
+    "description": "Kostenlose IT-Hilfe für Computer, Tablets und Handys. Quartiershaus-Service, Gemeinde Vernier.",
+    "target_audience": "Allgemeine Öffentlichkeit",
+    "access_conditions": "Kostenlos. Termine auf bestimmte Daten."
+  },
+  "r_0229": {
+    "name": "IT-Sprechstunde Avanchets",
+    "description": "Kostenlose IT-Hilfe ohne Termin für Computer, Tablets und Handys. Quartiershaus-Service (FASe), Gemeinde Vernier.",
+    "target_audience": "Allgemeine Öffentlichkeit",
+    "access_conditions": "Kostenlos, ohne Termin. Geschlossen während Schulferien."
+  },
+  "r_0230": {
+    "name": "Libellules – Informatik für alle",
+    "description": "Kostenlose IT-Hilfe ohne Termin. Espace de vie Terre, Quartier Libellules, Vernier.",
+    "target_audience": "Allgemeine Öffentlichkeit",
+    "access_conditions": "Kostenlos, ohne Termin."
+  },
+  "r_0231": {
+    "name": "Troc-T-Trucs – Gratis-Tauschbörse Avanchets",
+    "description": "Kostenloser Tauschraum in den Avanchets. Kleidung, Alltagsgegenstände tauschen. Ohne Geld: abgeben und mitnehmen.",
+    "target_audience": "Allgemeine Öffentlichkeit",
+    "access_conditions": "Kostenlos. Auch letzte Sonntage 14-17 Uhr (ausser Juli und Dezember)."
+  },
+  "r_0232": {
+    "name": "La Boutik – Tauschbörse Vernier",
+    "description": "Kostenloser Tauschraum in Vernier. Geschirr, Deko, Spielzeug, kleine Elektronik tauschen.",
+    "target_audience": "Allgemeine Öffentlichkeit",
+    "access_conditions": "Kostenlos, ohne Termin. Geschlossen während Schulferien."
   }
 }

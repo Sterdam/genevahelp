@@ -1486,5 +1486,47 @@
     "description": "Aide financière destinée aux enfants et jeunes jusqu'à 18 ans nécessitant un soutien pour des frais liés à la santé ou au développement. Peut couvrir les soins dentaires, activités sportives, activités culturelles et camps de vacances.",
     "target_audience": "Enfants et jeunes jusqu'à 18 ans",
     "access_conditions": "Pour les enfants et jeunes jusqu'à 18 ans. Contacter le BCAS pour une demande."
+  },
+  "r_0226": {
+    "name": "Je pense donc je bouge (Groupe santé Genève)",
+    "description": "Programme d'activités gratuites pour prendre soin de sa santé mentale, sociale et physique. Activités physiques, musique, psychodrame, conscience et expression corporelle, expression artistique. Cadre bienveillant, confidentiel et sans jugement.",
+    "target_audience": "Toute personne souhaitant prendre soin de sa santé et de son bien-être",
+    "access_conditions": "Gratuit. Inscription individuelle ou en groupe. Contacter Inès pour les horaires."
+  },
+  "r_0227": {
+    "name": "Permanence informatique d'Aïre-le-Lignon",
+    "description": "Aide informatique gratuite et sans rendez-vous pour ordinateurs, tablettes et téléphones portables. Service de la Maison de quartier d'Aïre-le-Lignon (FASe), commune de Vernier.",
+    "target_audience": "Tout public",
+    "access_conditions": "Gratuit et sans rendez-vous. Fermé pendant les vacances scolaires."
+  },
+  "r_0228": {
+    "name": "Permanence informatique de Châtelaine-Balexert",
+    "description": "Aide informatique gratuite pour ordinateurs, tablettes et téléphones portables. Service de la Maison de quartier de Châtelaine-Balexert, commune de Vernier. Séances sur dates spécifiques.",
+    "target_audience": "Tout public",
+    "access_conditions": "Gratuit. Séances sur dates spécifiques (voir site de Vernier)."
+  },
+  "r_0229": {
+    "name": "Permanence informatique des Avanchets",
+    "description": "Aide informatique gratuite et sans rendez-vous pour ordinateurs, tablettes et téléphones portables. Service de la Maison de quartier des Avanchets (FASe), commune de Vernier.",
+    "target_audience": "Tout public",
+    "access_conditions": "Gratuit et sans rendez-vous. Fermé pendant les vacances scolaires."
+  },
+  "r_0230": {
+    "name": "Libellules – Informatique pour tous",
+    "description": "Aide informatique gratuite et sans rendez-vous pour ordinateurs, tablettes et téléphones portables. À l'Espace de vie Terre, quartier des Libellules, commune de Vernier.",
+    "target_audience": "Tout public",
+    "access_conditions": "Gratuit et sans rendez-vous. Ouvert à tous."
+  },
+  "r_0231": {
+    "name": "Troc-T-Trucs – Boutique gratuite des Avanchets",
+    "description": "Espace de troc gratuit aux Avanchets. Échange de vêtements, objets du quotidien et divers articles. Fonctionnement sans argent : on dépose ce dont on n'a plus besoin et on prend ce qui nous intéresse.",
+    "target_audience": "Tout public",
+    "access_conditions": "Gratuit. Aussi ouvert les derniers dimanches du mois 14h-17h (sauf juillet et décembre)."
+  },
+  "r_0232": {
+    "name": "La Boutik – Troc à Vernier",
+    "description": "Espace de troc gratuit à Vernier. Échange de vaisselle, bibelots, jouets et petits appareils électroniques. On dépose et on prend librement.",
+    "target_audience": "Tout public",
+    "access_conditions": "Gratuit et sans rendez-vous. Fermé pendant les vacances scolaires."
   }
 }
