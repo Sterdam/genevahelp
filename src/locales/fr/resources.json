@@ -59,11 +59,6 @@
     "target_audience": "Adultes souhaitant se former",
     "access_conditions": "Inscription en début de semestre, tarifs réduits selon revenu"
   },
-  "r_0013": {
-    "description": "Hébergement d'urgence pour la nuit. Accueil inconditionnel des personnes sans abri. Repas du soir et petit-déjeuner inclus.",
-    "target_audience": "Personnes sans domicile fixe",
-    "access_conditions": "Sans conditions, accueil inconditionnel le soir"
-  },
   "r_0014": {
     "description": "Accueil, écoute et hébergement d'urgence pour les femmes victimes de violences. Soutien psychologique et accompagnement juridique.",
     "target_audience": "Femmes victimes de violences domestiques",
@@ -1455,5 +1450,41 @@
     "description": "Centre de loisirs et maison de quartier historique de Meyrin (depuis 1964), rattaché à la Fondation genevoise pour l'Animation Socioculturelle (FASe). Action socio-éducative et socioculturelle pour enfants (4-9 ans), adolescents et adultes. Animations, sorties du mercredi, camps de vacances. Équipe de professionnels et de bénévoles au service de la communauté.",
     "target_audience": "Enfants (4-9 ans), adolescents, familles, tout public",
     "access_conditions": "Gratuit et ouvert à tous. Priorité aux enfants de Meyrin."
+  },
+  "r_0220": {
+    "name": "Association La Farce – Épicerie gratuite pour étudiants",
+    "description": "Épicerie gratuite réservée aux étudiants des hautes écoles et universités genevoises. Distribution alimentaire les mercredis et jeudis. Café libre ouvert à tous les mardis. Lutte contre la précarité alimentaire étudiante et le gaspillage alimentaire, dans un esprit de solidarité et de lien social.",
+    "target_audience": "Étudiants des hautes écoles et universités",
+    "access_conditions": "Être étudiant·e des hautes écoles ou universités. Adhésion annuelle de 20 CHF à l'association."
+  },
+  "r_0221": {
+    "name": "BCAS – Service social (aide financière)",
+    "description": "Service social du Bureau Central d'Aide Sociale de Genève. Délivrance d'aides financières ponctuelles pour les personnes actives rencontrant des difficultés. Programme « Jeunes en formation » pour les étudiants de 18 à 25 ans. Accès par téléphone les mardis ou via le réseau tous les jours sauf le jeudi.",
+    "target_audience": "Personnes actives en difficulté, enfants et jeunes jusqu'à 18 ans, étudiants de 18 à 25 ans",
+    "access_conditions": "Par téléphone les mardis (accès direct dès le 7 avril 2026) ou via le réseau tous les jours sauf jeudi."
+  },
+  "r_0222": {
+    "name": "BICEPS – Soutien psychologique jeunes (BCAS)",
+    "description": "Service d'information et de soutien psychologique pour les jeunes confrontés à la souffrance psychique d'un membre de leur famille. Accompagnement individuel, groupes de soutien, accompagnement des parents. Pour les enfants, adolescents et jeunes adultes de 7 à 25 ans, ainsi que les parents et proches.",
+    "target_audience": "Enfants, adolescents et jeunes adultes de 7 à 25 ans confrontés à la souffrance psychique d'un parent",
+    "access_conditions": "Gratuit. Possibilité de laisser un message en dehors des heures. Antenne rive droite : Rue de Lyon 99."
+  },
+  "r_0223": {
+    "name": "SOS Enfants – Consultations psychologiques (BCAS)",
+    "description": "Service d'écoute, de soutien psychologique et d'appui éducatif gratuit pour les enfants, adolescents et leurs familles. Permanence téléphonique, orientation, entretiens ponctuels, prise en charge psychothérapeutique individuelle ou familiale, groupes thérapeutiques, appui éducatif pour les parents.",
+    "target_audience": "Enfants, adolescents et leurs parents",
+    "access_conditions": "Gratuit. Permanence téléphonique lundi, mardi et jeudi 9h-16h. Antenne rive droite : Rue de Lyon 99."
+  },
+  "r_0224": {
+    "name": "Juris Conseil Junior (JCJ) – Permanence juridique",
+    "description": "Permanence juridique téléphonique gratuite et confidentielle destinée aux jeunes et à leur entourage. Consultations assurées par des avocats bénévoles, brevetés et soumis au secret professionnel. Possibilité d'une première consultation gratuite en étude dans certains cas.",
+    "target_audience": "Mineurs et jeunes jusqu'à 25 ans, proches et professionnels",
+    "access_conditions": "Gratuit et confidentiel. Par téléphone les jours ouvrables de 9h à 17h."
+  },
+  "r_0225": {
+    "name": "Fondation Champs-Fleuri – Fonds Jeunesse Santé",
+    "description": "Aide financière destinée aux enfants et jeunes jusqu'à 18 ans nécessitant un soutien pour des frais liés à la santé ou au développement. Peut couvrir les soins dentaires, activités sportives, activités culturelles et camps de vacances.",
+    "target_audience": "Enfants et jeunes jusqu'à 18 ans",
+    "access_conditions": "Pour les enfants et jeunes jusqu'à 18 ans. Contacter le BCAS pour une demande."
   }
 }

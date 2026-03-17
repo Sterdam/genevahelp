@@ -59,11 +59,6 @@
     "target_audience": "希望接受培训的成年人",
     "access_conditions": "学期初报名，根据收入享受优惠价格"
   },
-  "r_0013": {
-    "description": "夜间紧急住宿。无条件接待无家可归者。包含晚餐和早餐。",
-    "target_audience": "无固定住所人士",
-    "access_conditions": "无需任何条件，晚间无条件接待"
-  },
   "r_0014": {
     "description": "为遭受暴力的女性提供接待、倾听和紧急住宿。心理支持和法律陪伴。",
     "target_audience": "遭受家庭暴力的女性",
@@ -1455,5 +1450,41 @@
     "description": "梅兰历史悠久的社区和休闲中心（始于1964年），隶属日内瓦社会文化活动基金会（FASe）。为儿童（4-9岁）、青少年和成人提供社会教育和社会文化活动。娱乐活动、周三远足、假期营地。专业人员和志愿者团队。",
     "target_audience": "儿童（4-9岁）、青少年、家庭、公众",
     "access_conditions": "免费向所有人开放。梅兰儿童优先。"
+  },
+  "r_0220": {
+    "name": "La Farce协会 - 学生免费食品店",
+    "description": "为日内瓦大学生提供的免费食品店。周三周四发放食品。周二面向所有人的免费咖啡馆。",
+    "target_audience": "大学生",
+    "access_conditions": "须为大学生。年费20瑞郎。"
+  },
+  "r_0221": {
+    "name": "BCAS - 社会服务（经济援助）",
+    "description": "日内瓦中央社会援助局。为困难就业人员提供一次性经济援助。18-25岁学生项目。",
+    "target_audience": "困难就业人员、18岁以下儿童、18-25岁学生",
+    "access_conditions": "周二电话或除周四外每天网络。"
+  },
+  "r_0222": {
+    "name": "BICEPS - 青少年心理支持（BCAS）",
+    "description": "为面对家庭成员心理痛苦的7-25岁青少年提供信息和心理支持。",
+    "target_audience": "7-25岁青少年",
+    "access_conditions": "免费。右岸分部：Rue de Lyon 99。"
+  },
+  "r_0223": {
+    "name": "SOS儿童 - 心理咨询（BCAS）",
+    "description": "为儿童、青少年及家庭提供免费心理支持服务。",
+    "target_audience": "儿童、青少年及父母",
+    "access_conditions": "免费。周一二四9-16时。Rue de Lyon 99。"
+  },
+  "r_0224": {
+    "name": "Juris Conseil Junior - 法律咨询",
+    "description": "面向青少年的免费保密电话法律咨询。",
+    "target_audience": "25岁以下青少年",
+    "access_conditions": "免费。工作日9-17时。"
+  },
+  "r_0225": {
+    "name": "尚弗勒里基金会 - 青少年健康基金",
+    "description": "为18岁以下儿童提供健康发展费用资助。",
+    "target_audience": "18岁以下儿童",
+    "access_conditions": "联系BCAS。"
   }
 }

@@ -59,11 +59,6 @@
     "target_audience": "학습을 원하는 성인",
     "access_conditions": "학기 초 등록, 소득에 따른 할인 요금"
   },
-  "r_0013": {
-    "description": "야간 긴급 숙소. 노숙인 무조건적 수용. 저녁 식사 및 아침 식사 포함.",
-    "target_audience": "노숙인",
-    "access_conditions": "조건 없음, 저녁 무조건적 수용"
-  },
   "r_0014": {
     "description": "폭력 피해 여성을 위한 접수, 경청 및 긴급 숙소. 심리 지원 및 법률 동반 지원.",
     "target_audience": "가정폭력 피해 여성",
@@ -1455,5 +1450,41 @@
     "description": "메랭의 역사적인 커뮤니티 및 여가 센터(1964년 설립), 제네바 사회문화활동재단(FASe) 소속. 어린이(4~9세), 청소년, 성인을 위한 사회교육 및 사회문화 활동. 프로그램, 수요일 소풍, 방학 캠프. 전문가와 자원봉사자 팀.",
     "target_audience": "어린이(4~9세), 청소년, 가족, 일반 시민",
     "access_conditions": "무료이며 누구나 이용 가능. 메랭 어린이 우선."
+  },
+  "r_0220": {
+    "name": "Association La Farce – 학생 무료 식료품점",
+    "description": "제네바 대학생을 위한 무료 식료품점. 수·목 식품 배포. 화요일 무료 카페.",
+    "target_audience": "대학생",
+    "access_conditions": "대학생이어야 함. 연회비 20CHF."
+  },
+  "r_0221": {
+    "name": "BCAS – 사회복지 서비스 (재정 지원)",
+    "description": "제네바 중앙사회지원사무소. 어려움에 처한 근로자 일시 재정 지원. 18-25세 학생 프로그램.",
+    "target_audience": "어려움에 처한 근로자, 18세까지 아동, 18-25세 학생",
+    "access_conditions": "화요일 전화 또는 목요일 제외 매일 네트워크."
+  },
+  "r_0222": {
+    "name": "BICEPS – 청소년 심리 지원 (BCAS)",
+    "description": "가족의 정신적 고통에 직면한 7-25세 청소년 심리 지원.",
+    "target_audience": "7-25세 아동·청소년",
+    "access_conditions": "무료. 우안 지점: Rue de Lyon 99."
+  },
+  "r_0223": {
+    "name": "SOS 어린이 – 심리 상담 (BCAS)",
+    "description": "아동, 청소년 및 가족 무료 심리 지원 서비스.",
+    "target_audience": "아동, 청소년 및 부모",
+    "access_conditions": "무료. 월·화·목 9-16시. Rue de Lyon 99."
+  },
+  "r_0224": {
+    "name": "Juris Conseil Junior – 법률 상담",
+    "description": "청소년 무료 비밀 보장 전화 법률 상담.",
+    "target_audience": "25세까지 청소년",
+    "access_conditions": "무료. 평일 9-17시."
+  },
+  "r_0225": {
+    "name": "재단 샹플뢰리 – 청소년 건강 기금",
+    "description": "18세까지 아동 건강·발달 비용 재정 지원.",
+    "target_audience": "18세까지 아동",
+    "access_conditions": "BCAS에 문의."
   }
 }

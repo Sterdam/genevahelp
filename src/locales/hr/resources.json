@@ -59,11 +59,6 @@
     "target_audience": "Odrasle osobe koje se žele obrazovati",
     "access_conditions": "Upis na početku semestra, snižene cijene prema prihodima"
   },
-  "r_0013": {
-    "description": "Hitni noćni smještaj. Bezuvjetni prijem beskućnika. Večera i doručak uključeni.",
-    "target_audience": "Beskućnici",
-    "access_conditions": "Bez uvjeta, bezuvjetni prijem navečer"
-  },
   "r_0014": {
     "description": "Prijem, saslušanje i hitni smještaj za žene žrtve nasilja. Psihološka podrška i pravna pomoć.",
     "target_audience": "Žene žrtve obiteljskog nasilja",
@@ -1455,5 +1450,41 @@
     "description": "Povijesni zajednički centar i centar za slobodno vrijeme u Meyrinu (od 1964.), povezan s Ženevskom zakladom za sociokulturnu animaciju (FASe). Socio-obrazovne i sociokulturne aktivnosti za djecu (4–9 godina), tinejdžere i odrasle. Animacije, srijedni izleti, ljetni kampovi. Tim stručnjaka i volontera.",
     "target_audience": "Djeca (4–9 godina), tinejdžeri, obitelji, šira javnost",
     "access_conditions": "Besplatno i otvoreno za sve. Prednost djeci iz Meyrina."
+  },
+  "r_0220": {
+    "name": "Association La Farce – Besplatna trgovina za studente",
+    "description": "Besplatna trgovina namirnicama za studente sveučilišta i visokih škola u Ženevi. Distribucija hrane srijedom i četvrtkom. Otvoreni kafić za sve utorkom.",
+    "target_audience": "Studenti sveučilišta i visokih škola",
+    "access_conditions": "Biti student sveučilišta ili visoke škole. Godišnja članarina 20 CHF."
+  },
+  "r_0221": {
+    "name": "BCAS – Socijalna služba (financijska pomoć)",
+    "description": "Socijalna služba Centralnog ureda za socijalnu pomoć u Ženevi. Jednokratna financijska pomoć za zaposlene u poteškoćama. Program «Mladi u obrazovanju» za studente 18-25 godina. Pristup telefonom utorkom ili putem mreže svaki dan osim četvrtka.",
+    "target_audience": "Zaposleni u poteškoćama, djeca i mladi do 18 godina, studenti 18-25",
+    "access_conditions": "Telefonom utorkom ili putem mreže svaki dan osim četvrtka."
+  },
+  "r_0222": {
+    "name": "BICEPS – Psihološka podrška mladima (BCAS)",
+    "description": "Služba informiranja i psihološke podrške za mlade koji se suočavaju s psihičkom patnjom člana obitelji. Individualna pratnja, grupe podrške, pratnja roditelja. Za djecu, adolescente i mlade odrasle 7-25 godina.",
+    "target_audience": "Djeca, adolescenti i mladi odrasli 7-25 godina",
+    "access_conditions": "Besplatno. Moguće ostaviti poruku izvan radnog vremena. Podružnica desna obala: Rue de Lyon 99."
+  },
+  "r_0223": {
+    "name": "SOS Djeca – Psihološko savjetovanje (BCAS)",
+    "description": "Besplatna služba slušanja, psihološke podrške i odgojnog savjetovanja za djecu, adolescente i obitelji. Telefonska linija, usmjeravanje, psihoterapija, terapijske grupe.",
+    "target_audience": "Djeca, adolescenti i njihovi roditelji",
+    "access_conditions": "Besplatno. Telefonska linija ponedjeljak, utorak i četvrtak 9-16. Podružnica desna obala: Rue de Lyon 99."
+  },
+  "r_0224": {
+    "name": "Juris Conseil Junior (JCJ) – Pravno savjetovanje",
+    "description": "Besplatno i povjerljivo telefonsko pravno savjetovanje za mlade i njihovu okolinu. Savjetovanja volonterskih odvjetnika, licenciranih i obvezanih profesionalnom tajnom.",
+    "target_audience": "Maloljetnici i mladi do 25 godina, bližnji i stručnjaci",
+    "access_conditions": "Besplatno i povjerljivo. Telefonom radnim danima 9-17."
+  },
+  "r_0225": {
+    "name": "Fondation Champs-Fleuri – Fond za zdravlje mladih",
+    "description": "Financijska pomoć za djecu i mlade do 18 godina kojima je potrebna podrška za zdravstvene troškove ili razvoj. Može pokriti stomatologiju, sportske i kulturne aktivnosti te ljetne kampove.",
+    "target_audience": "Djeca i mladi do 18 godina",
+    "access_conditions": "Za djecu i mlade do 18 godina. Kontaktirajte BCAS."
   }
 }

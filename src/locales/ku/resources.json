@@ -59,11 +59,6 @@
     "target_audience": "Mezinên ku dixwazin perwerdehî bibînin",
     "access_conditions": "Qeydkirin di destpêka nîvsalê de, bihayên kêm li gor dahatê"
   },
-  "r_0013": {
-    "description": "Bicihkirina acîl ji bo şevê. Pêşwaziya bê mercî ya kesên bê mal. Şîva êvarê û taştê tê de ye.",
-    "target_audience": "Kesên bê mal",
-    "access_conditions": "Bê merc, pêşwaziya bê mercî bi êvarê"
-  },
   "r_0014": {
     "description": "Pêşwazî, guhdarîkirin û bicihkirina acîl ji bo jinên qurbaniyên tundiyê. Piştgiriya derûnî û alîkariya hiqûqî.",
     "target_audience": "Jinên qurbaniyên tundiya nav malê",
@@ -1455,5 +1450,41 @@
     "description": "Navenda kêfê û mala taxê ya dîrokî ya Meyrin (ji 1964ê ve), girêdayî Weqfa Cenêvê ya Anîmasyona Sosyokulturî (FASe). Çalakiyên sosyo-perwerdehî û sosyokulturî ji bo zarokên (4-9 sal), ciwanan û mezinan. Anîmasyon, geştên çarşemê, kampên betlaneyê. Tîmeke ji pispor û dilxwazan.",
     "target_audience": "Zarokên (4-9 sal), ciwan, malbat, gelê giştî",
     "access_conditions": "Belaş û vekirî ji bo her kesî. Pêşîn ji bo zarokên Meyrin."
+  },
+  "r_0220": {
+    "name": "Association La Farce – Firotgeha xwarinê ya belaş ji bo xwendekaran",
+    "description": "Firotgeha xwarinê ya belaş ji bo xwendekarên zanîngeh û dibistanên bilind ên Cenêvê. Belavkirina xwarinê roja çarşemê û pêncşemê.",
+    "target_audience": "Xwendekarên zanîngeh û dibistanên bilind",
+    "access_conditions": "Xwendekarê zanîngeh bûn. Endamtiya salane 20 CHF."
+  },
+  "r_0221": {
+    "name": "BCAS – Xizmeta civakî (alîkariya darayî)",
+    "description": "Xizmeta civakî ya Cenêvê. Alîkariyên darayî yên demkî ji bo kesên çalak ên di tengasiyê de.",
+    "target_audience": "Kesên çalak ên di tengasiyê de",
+    "access_conditions": "Bi têlefonê roja sêşemê."
+  },
+  "r_0222": {
+    "name": "BICEPS – Piştgiriya derûnî ya ciwanan (BCAS)",
+    "description": "Piştgiriya derûnî ji bo ciwanên ku bi êşa derûnî ya endamekî malbatê re rû bi rû ne. 7-25 salî.",
+    "target_audience": "Zarok û ciwan 7-25 salî",
+    "access_conditions": "Belaş. Rue de Lyon 99."
+  },
+  "r_0223": {
+    "name": "SOS Zarok – Şêwirmendiya derûnî (BCAS)",
+    "description": "Xizmeta belaş a guhdarîkirinê û piştgiriya derûnî ji bo zarok û malbatên wan.",
+    "target_audience": "Zarok û dêûbavên wan",
+    "access_conditions": "Belaş. Duşem, sêşem û pêncşemê 9-16."
+  },
+  "r_0224": {
+    "name": "Juris Conseil Junior (JCJ) – Şêwirmendiya hiqûqî",
+    "description": "Şêwirmendiya hiqûqî ya belaş û nepenî ji bo ciwanan.",
+    "target_audience": "Ciwanên heta 25 salî",
+    "access_conditions": "Belaş û nepenî. 9-17."
+  },
+  "r_0225": {
+    "name": "Weqfa Champs-Fleuri – Fona Tenduristiya Ciwanan",
+    "description": "Alîkariya darayî ji bo zarokên heta 18 salî.",
+    "target_audience": "Zarokên heta 18 salî",
+    "access_conditions": "Bi BCAS re têkilî daynin."
   }
 }

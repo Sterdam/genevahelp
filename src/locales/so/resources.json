@@ -59,11 +59,6 @@
     "target_audience": "Dadka waaweyn ee doonaya inay wax bartaan",
     "access_conditions": "Diiwaangelinta bilowga xilli dugsiyeedka, qiimo la dhimay dakhli ku xiran"
   },
-  "r_0013": {
-    "description": "Hoy degdeg ah habeenkii. Soo dhaweyn aan shuruud lahayn ee dadka aan guri lahayn. Cashada fiidkii iyo quraacda waa la soo darsaday.",
-    "target_audience": "Dadka aan guri lahayn",
-    "access_conditions": "Shuruud la'aan, soo dhaweyn aan shuruud lahayn habeenkii"
-  },
   "r_0014": {
     "description": "Soo dhaweyn, dhageysi iyo hoy degdeg ah ee haweenka ka soo badbaaday rabshadaha. Taageero nafsi iyo raacitaan sharci.",
     "target_audience": "Haweenka ka soo badbaaday rabshadaha guriga",
@@ -1455,5 +1450,41 @@
     "description": "Xarun bulshada iyo madadaalo oo taariikhi ah Meyrin (tan iyo 1964), ku xiran Hay'adda Geneva ee Dhaqdhaqaaqa Bulshada iyo Dhaqanka (FASe). Hawlaha bulsho-waxbarasho iyo dhaqan-bulshada carruurta (4-9 sano), dhallinyarada iyo dadka waaweyn. Hawlo, safarro Arbaco, xerada fasaxa. Koox xirfadlayaal iyo mutadawiciin ah.",
     "target_audience": "Carruur (4-9 sano), dhallinyaro, qoysas, dadweynaha guud",
     "access_conditions": "Bilaash oo dhan u furan. Mudnaanta carruurta Meyrin."
+  },
+  "r_0220": {
+    "name": "Association La Farce - Dukaan bilaash oo ardayda",
+    "description": "Dukaan cunto bilaash oo ardayda jaamacadaha Geneva. Arbaco/Khamiis qaybinta. Talaado maqaaxi bilaash.",
+    "target_audience": "Ardayda jaamacadaha",
+    "access_conditions": "Arday jaamacad. Xubin 20 CHF."
+  },
+  "r_0221": {
+    "name": "BCAS - Adeeg bulshada (kaalmada dhaqaale)",
+    "description": "Xafiiska Dhexe ee Caawimada Bulshada Geneva. Kaalmada dhaqaale ee shaqaalaha dhibaatada.",
+    "target_audience": "Shaqaalaha dhibaatada, carruurta, ardayda",
+    "access_conditions": "Taleefanka Talaado."
+  },
+  "r_0222": {
+    "name": "BICEPS - Taageerada nafsi dhallinyarada (BCAS)",
+    "description": "Taageerada nafsi ee dhallinyarada 7-25 sano.",
+    "target_audience": "7-25 sano",
+    "access_conditions": "Bilaash. Rue de Lyon 99."
+  },
+  "r_0223": {
+    "name": "SOS Carruurta - La-talinta nafsi (BCAS)",
+    "description": "Adeeg bilaash ah oo taageerada nafsi carruurta iyo qoysaskooda.",
+    "target_audience": "Carruurta iyo waalidkooda",
+    "access_conditions": "Bilaash. Isniin/Talaado/Khamiis 9-16."
+  },
+  "r_0224": {
+    "name": "Juris Conseil Junior - La-talinta sharciga",
+    "description": "La-talin sharci bilaash ah oo sir ah.",
+    "target_audience": "Ilaa 25 sano",
+    "access_conditions": "Bilaash. 9-17."
+  },
+  "r_0225": {
+    "name": "Aasaaska Champs-Fleuri - Sanduuqa Caafimaadka",
+    "description": "Kaalmada dhaqaale carruurta ilaa 18 sano.",
+    "target_audience": "Ilaa 18 sano",
+    "access_conditions": "La xiriir BCAS."
   }
 }

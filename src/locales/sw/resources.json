@@ -59,11 +59,6 @@
     "target_audience": "Watu wazima wanaotaka kusoma",
     "access_conditions": "Usajili mwanzoni mwa muhula, punguzo kulingana na mapato"
   },
-  "r_0013": {
-    "description": "Malazi ya dharura kwa usiku. Mapokezi bila masharti ya watu wasio na makazi. Chakula cha jioni na kifungua kinywa vinajumuishwa.",
-    "target_audience": "Watu wasio na makazi",
-    "access_conditions": "Bila masharti, mapokezi bila masharti jioni"
-  },
   "r_0014": {
     "description": "Mapokezi, kusikiliza na malazi ya dharura kwa wanawake waathiriwa na unyanyasaji. Msaada wa kisaikolojia na usaidizi wa kisheria.",
     "target_audience": "Wanawake waathiriwa na unyanyasaji wa nyumbani",
@@ -1455,5 +1450,41 @@
     "description": "Kituo cha kihistoria cha jamii na burudani huko Meyrin (tangu 1964), kinachohusishwa na Msingi wa Geneva wa Uhuishaji wa Kijamii na Kitamaduni (FASe). Shughuli za kijamii-kielimu na kitamaduni kwa watoto (miaka 4-9), vijana na watu wazima. Michezo, matembezi ya Jumatano, kambi za likizo. Timu ya wataalamu na kujitolea.",
     "target_audience": "Watoto (miaka 4-9), vijana, familia, umma kwa ujumla",
     "access_conditions": "Bure na wazi kwa wote. Kipaumbele kwa watoto wa Meyrin."
+  },
+  "r_0220": {
+    "name": "Association La Farce - Duka bure kwa wanafunzi",
+    "description": "Duka la vyakula bure kwa wanafunzi wa vyuo Geneva. Jumatano/Alhamisi usambazaji. Jumanne mkahawa bure.",
+    "target_audience": "Wanafunzi wa vyuo",
+    "access_conditions": "Kuwa mwanafunzi. Ada 20 CHF."
+  },
+  "r_0221": {
+    "name": "BCAS - Huduma ya kijamii (msaada wa kifedha)",
+    "description": "Ofisi Kuu ya Msaada wa Kijamii Geneva. Msaada wa kifedha kwa wafanyakazi wenye ugumu.",
+    "target_audience": "Wafanyakazi wenye ugumu, watoto, wanafunzi",
+    "access_conditions": "Simu Jumanne au mtandao kila siku ila Alhamisi."
+  },
+  "r_0222": {
+    "name": "BICEPS - Msaada wa kisaikolojia vijana (BCAS)",
+    "description": "Msaada wa kisaikolojia kwa vijana 7-25 wanaokabiliana na mateso ya akili ya familia.",
+    "target_audience": "Vijana 7-25",
+    "access_conditions": "Bure. Rue de Lyon 99."
+  },
+  "r_0223": {
+    "name": "SOS Watoto - Ushauri wa kisaikolojia (BCAS)",
+    "description": "Huduma bure ya msaada wa kisaikolojia kwa watoto na familia.",
+    "target_audience": "Watoto na wazazi",
+    "access_conditions": "Bure. Jumatatu/Jumanne/Alhamisi 9-16."
+  },
+  "r_0224": {
+    "name": "Juris Conseil Junior - Ushauri wa kisheria",
+    "description": "Ushauri wa kisheria bure na wa siri kwa vijana.",
+    "target_audience": "Vijana hadi 25",
+    "access_conditions": "Bure. Siku za kazi 9-17."
+  },
+  "r_0225": {
+    "name": "Msingi Champs-Fleuri - Mfuko Afya Vijana",
+    "description": "Msaada wa kifedha kwa watoto hadi 18 kwa gharama za afya.",
+    "target_audience": "Watoto hadi 18",
+    "access_conditions": "Wasiliana BCAS."
   }
 }

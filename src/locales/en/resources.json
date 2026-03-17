@@ -59,11 +59,6 @@
     "target_audience": "Adults seeking training",
     "access_conditions": "Registration at the start of each semester, reduced rates based on income"
   },
-  "r_0013": {
-    "description": "Emergency overnight shelter. Unconditional welcome for homeless people. Dinner and breakfast included.",
-    "target_audience": "Homeless individuals",
-    "access_conditions": "No conditions, unconditional welcome in the evening"
-  },
   "r_0014": {
     "description": "Welcome, listening support, and emergency shelter for women who are victims of violence. Psychological support and legal assistance.",
     "target_audience": "Women who are victims of domestic violence",
@@ -1455,5 +1450,41 @@
     "description": "Historic community and leisure centre in Meyrin (since 1964), affiliated with the Geneva Foundation for Socio-Cultural Activities (FASe). Socio-educational and socio-cultural programmes for children (4–9), teenagers and adults. Activities, Wednesday outings, holiday camps. Team of professionals and volunteers serving the community.",
     "target_audience": "Children (4–9), teenagers, families, general public",
     "access_conditions": "Free and open to all. Priority given to Meyrin children."
+  },
+  "r_0220": {
+    "name": "Association La Farce – Free Grocery Store for Students",
+    "description": "Free grocery store for students at Geneva's universities and higher education institutions. Food distribution on Wednesdays and Thursdays. Free café open to all on Tuesdays. Fighting student food insecurity and food waste, with a focus on solidarity and social connection.",
+    "target_audience": "University and higher education students",
+    "access_conditions": "Must be a university or higher education student. Annual membership fee of CHF 20."
+  },
+  "r_0221": {
+    "name": "BCAS – Social Service (financial aid)",
+    "description": "Social service of the Bureau Central d'Aide Sociale de Genève. One-off financial aid for working people facing difficulties. 'Jeunes en formation' programme for students aged 18–25. Access by phone on Tuesdays or through the network every day except Thursdays.",
+    "target_audience": "Working people in difficulty, children and young people up to 18, students aged 18–25",
+    "access_conditions": "By phone on Tuesdays (direct access from 7 April 2026) or via the network every day except Thursday."
+  },
+  "r_0222": {
+    "name": "BICEPS – Psychological Support for Young People (BCAS)",
+    "description": "Information and psychological support service for young people dealing with a family member's mental health difficulties. Individual support, support groups, parent guidance. For children, adolescents and young adults aged 7–25, as well as parents and relatives.",
+    "target_audience": "Children, adolescents and young adults aged 7–25 dealing with a parent's mental health issues",
+    "access_conditions": "Free. Messages can be left outside office hours. Right bank branch: Rue de Lyon 99."
+  },
+  "r_0223": {
+    "name": "SOS Enfants – Psychological Consultations (BCAS)",
+    "description": "Free listening, psychological support and educational guidance service for children, adolescents and their families. Phone helpline, referrals, one-off consultations, individual or family psychotherapy, therapeutic groups, educational support for parents.",
+    "target_audience": "Children, adolescents and their parents",
+    "access_conditions": "Free. Phone helpline Monday, Tuesday and Thursday 9am–4pm. Right bank branch: Rue de Lyon 99."
+  },
+  "r_0224": {
+    "name": "Juris Conseil Junior (JCJ) – Legal Helpline",
+    "description": "Free and confidential telephone legal helpline for young people and their circle. Consultations provided by volunteer lawyers, licensed and bound by professional secrecy. In some cases, a free initial consultation at the lawyer's office may be offered.",
+    "target_audience": "Minors and young people up to 25, relatives and professionals",
+    "access_conditions": "Free and confidential. By phone on working days from 9am to 5pm."
+  },
+  "r_0225": {
+    "name": "Fondation Champs-Fleuri – Youth Health Fund",
+    "description": "Financial aid for children and young people up to 18 who need support for health or development expenses. Can cover dental care, sports activities, cultural activities and holiday camps.",
+    "target_audience": "Children and young people up to 18",
+    "access_conditions": "For children and young people up to 18. Contact the BCAS to apply."
   }
 }

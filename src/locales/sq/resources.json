@@ -59,11 +59,6 @@
     "target_audience": "Të rritur që dëshirojnë të formohen",
     "access_conditions": "Regjistrim në fillim të semestrit, tarifa të reduktuara sipas të ardhurave"
   },
-  "r_0013": {
-    "description": "Strehim urgjence për natën. Pritje pa kushte e personave pa strehë. Darka dhe mëngjesi i përfshirë.",
-    "target_audience": "Persona pa banesë fikse",
-    "access_conditions": "Pa kushte, pritje pa kushte në mbrëmje"
-  },
   "r_0014": {
     "description": "Pritje, dëgjim dhe strehim urgjence për gratë viktima të dhunës. Mbështetje psikologjike dhe shoqërim juridik.",
     "target_audience": "Gra viktima të dhunës familjare",
@@ -1455,5 +1450,41 @@
     "description": "Qendër argëtimi dhe shtëpi lagjeje historike e Meyrin (që nga 1964), e lidhur me Fondacionin e Gjenevës për Animacionin Sociokulturor (FASe). Aktivitete socio-edukative dhe sociokulturore për fëmijët (4-9 vjeç), adoleshentë dhe të rritur. Animacione, ekskursione të mërkurës, kampe pushimi. Ekip profesionistësh dhe vullnetarësh.",
     "target_audience": "Fëmijë (4-9 vjeç), adoleshentë, familje, publiku i gjerë",
     "access_conditions": "Falas dhe i hapur për të gjithë. Përparësi fëmijëve të Meyrin."
+  },
+  "r_0220": {
+    "name": "Association La Farce – Dyqan falas për studentë",
+    "description": "Dyqan ushqimor falas për studentë Gjenevës. Shpërndarje të mërkurën dhe të enjten. Kafe e lirë të martën.",
+    "target_audience": "Studentë universitarë",
+    "access_conditions": "Të jesh student. Anëtarësim 20 CHF."
+  },
+  "r_0221": {
+    "name": "BCAS – Shërbim social (ndihmë financiare)",
+    "description": "Shërbim social i Gjenevës. Ndihma financiare për persona në vështirësi.",
+    "target_audience": "Persona në vështirësi",
+    "access_conditions": "Me telefon të martën."
+  },
+  "r_0222": {
+    "name": "BICEPS – Mbështetje psikologjike (BCAS)",
+    "description": "Mbështetje psikologjike për të rinjtë 7-25 vjeç që përballen me vuajtjen psikike të familjes.",
+    "target_audience": "Të rinj 7-25 vjeç",
+    "access_conditions": "Falas. Rue de Lyon 99."
+  },
+  "r_0223": {
+    "name": "SOS Fëmijët – Konsultime (BCAS)",
+    "description": "Shërbim falas dëgjimi dhe mbështetjeje psikologjike për fëmijë dhe familje.",
+    "target_audience": "Fëmijë dhe prindër",
+    "access_conditions": "Falas. E hënë, e martë, e enjte 9-16."
+  },
+  "r_0224": {
+    "name": "Juris Conseil Junior (JCJ) – Këshillim juridik",
+    "description": "Këshillim juridik falas dhe konfidencial për të rinjtë.",
+    "target_audience": "Të rinj deri 25 vjeç",
+    "access_conditions": "Falas. Ditët e punës 9-17."
+  },
+  "r_0225": {
+    "name": "Fondation Champs-Fleuri – Fondi Shëndetit",
+    "description": "Ndihmë financiare për fëmijë deri 18 vjeç.",
+    "target_audience": "Fëmijë deri 18 vjeç",
+    "access_conditions": "Kontaktoni BCAS."
   }
 }

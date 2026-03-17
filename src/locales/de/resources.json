@@ -59,11 +59,6 @@
     "target_audience": "Erwachsene, die sich weiterbilden möchten",
     "access_conditions": "Anmeldung zu Semesterbeginn, ermässigte Tarife je nach Einkommen"
   },
-  "r_0013": {
-    "description": "Notunterbringung für die Nacht. Bedingungslose Aufnahme obdachloser Personen. Abendessen und Frühstück inbegriffen.",
-    "target_audience": "Obdachlose",
-    "access_conditions": "Ohne Bedingungen, bedingungslose Aufnahme am Abend"
-  },
   "r_0014": {
     "description": "Aufnahme, Zuhören und Notunterbringung für gewaltbetroffene Frauen. Psychologische Unterstützung und rechtliche Begleitung.",
     "target_audience": "Frauen, die Opfer häuslicher Gewalt sind",
@@ -1455,5 +1450,41 @@
     "description": "Historisches Quartierzentrum und Freizeitzentrum in Meyrin (seit 1964), angegliedert an die Genfer Stiftung für soziokulturelle Animation (FASe). Sozial-pädagogische und soziokulturelle Aktivitäten für Kinder (4–9 Jahre), Jugendliche und Erwachsene. Animationen, Mittwochsausflüge, Ferienlager. Team aus Fachleuten und Freiwilligen.",
     "target_audience": "Kinder (4–9 Jahre), Jugendliche, Familien, allgemeine Öffentlichkeit",
     "access_conditions": "Kostenlos und für alle zugänglich. Vorrang für Kinder aus Meyrin."
+  },
+  "r_0220": {
+    "name": "Association La Farce – Gratis-Lebensmittelladen für Studierende",
+    "description": "Gratis-Lebensmittelladen für Studierende der Genfer Hochschulen und Universitäten. Lebensmittelverteilung mittwochs und donnerstags. Offenes Café für alle dienstags. Bekämpfung der studentischen Ernährungsunsicherheit und Lebensmittelverschwendung, im Geiste der Solidarität.",
+    "target_audience": "Studierende der Hochschulen und Universitäten",
+    "access_conditions": "Studierende an einer Hochschule oder Universität. Jährlicher Mitgliedsbeitrag von CHF 20."
+  },
+  "r_0221": {
+    "name": "BCAS – Sozialdienst (Finanzhilfe)",
+    "description": "Sozialdienst des Bureau Central d'Aide Sociale de Genève. Einmalige Finanzhilfen für erwerbstätige Personen in Schwierigkeiten. Programm «Jeunes en formation» für Studierende von 18–25 Jahren. Zugang telefonisch dienstags oder über das Netzwerk täglich ausser donnerstags.",
+    "target_audience": "Erwerbstätige in Schwierigkeiten, Kinder und Jugendliche bis 18, Studierende 18–25",
+    "access_conditions": "Telefonisch dienstags (Direktzugang ab 7. April 2026) oder über das Netzwerk täglich ausser Donnerstag."
+  },
+  "r_0222": {
+    "name": "BICEPS – Psychologische Unterstützung Jugendliche (BCAS)",
+    "description": "Informations- und psychologischer Unterstützungsdienst für Jugendliche, die mit psychischen Leiden eines Familienmitglieds konfrontiert sind. Einzelbegleitung, Unterstützungsgruppen, Elternbegleitung. Für Kinder, Jugendliche und junge Erwachsene von 7–25 Jahren sowie Eltern und Angehörige.",
+    "target_audience": "Kinder, Jugendliche und junge Erwachsene 7–25, die mit psychischen Leiden eines Elternteils konfrontiert sind",
+    "access_conditions": "Kostenlos. Nachricht hinterlassen ausserhalb der Bürozeiten möglich. Zweigstelle rechtes Ufer: Rue de Lyon 99."
+  },
+  "r_0223": {
+    "name": "SOS Enfants – Psychologische Beratung (BCAS)",
+    "description": "Kostenloser Zuhör-, psychologischer Unterstützungs- und Erziehungsberatungsdienst für Kinder, Jugendliche und ihre Familien. Telefonberatung, Orientierung, Einzelgespräche, individuelle oder Familienpsychotherapie, therapeutische Gruppen, Erziehungsunterstützung.",
+    "target_audience": "Kinder, Jugendliche und ihre Eltern",
+    "access_conditions": "Kostenlos. Telefonberatung Montag, Dienstag und Donnerstag 9–16 Uhr. Zweigstelle rechtes Ufer: Rue de Lyon 99."
+  },
+  "r_0224": {
+    "name": "Juris Conseil Junior (JCJ) – Rechtsberatung",
+    "description": "Kostenlose und vertrauliche telefonische Rechtsberatung für Jugendliche und ihr Umfeld. Beratungen durch ehrenamtliche, zugelassene Anwälte unter Berufsgeheimnis. In bestimmten Fällen kann eine kostenlose Erstberatung in der Kanzlei angeboten werden.",
+    "target_audience": "Minderjährige und Jugendliche bis 25, Angehörige und Fachleute",
+    "access_conditions": "Kostenlos und vertraulich. Telefonisch an Werktagen 9–17 Uhr."
+  },
+  "r_0225": {
+    "name": "Fondation Champs-Fleuri – Fonds Jeunesse Santé",
+    "description": "Finanzhilfe für Kinder und Jugendliche bis 18 Jahre, die Unterstützung für Gesundheits- oder Entwicklungskosten benötigen. Kann Zahnpflege, Sportaktivitäten, kulturelle Aktivitäten und Ferienlager abdecken.",
+    "target_audience": "Kinder und Jugendliche bis 18 Jahre",
+    "access_conditions": "Für Kinder und Jugendliche bis 18 Jahre. Beim BCAS anfragen."
   }
 }

@@ -59,11 +59,6 @@
     "target_audience": "学びたい成人の方",
     "access_conditions": "学期初めに登録、収入に応じた割引料金あり"
   },
-  "r_0013": {
-    "description": "夜間の緊急宿泊施設。ホームレスの方を無条件で受け入れます。夕食と朝食が含まれます。",
-    "target_audience": "ホームレスの方",
-    "access_conditions": "条件なし、夜間の無条件受け入れ"
-  },
   "r_0014": {
     "description": "暴力被害を受けた女性のための受け入れ、傾聴、緊急宿泊施設。心理的サポートおよび法的支援を行います。",
     "target_audience": "家庭内暴力の被害を受けた女性",
@@ -1455,5 +1450,41 @@
     "description": "メイランの歴史ある地域コミュニティ・レジャーセンター（1964年設立）、ジュネーブ社会文化活動財団（FASe）所属。子ども（4〜9歳）、青少年、大人向けの社会教育・社会文化活動。アニメーション、水曜日の遠足、休暇キャンプ。専門家とボランティアのチーム。",
     "target_audience": "子ども（4〜9歳）、青少年、家族、一般市民",
     "access_conditions": "無料で誰でも利用可能。メイランの子どもを優先。"
+  },
+  "r_0220": {
+    "name": "Association La Farce – 学生向け無料食料品店",
+    "description": "ジュネーブの大学・高等教育機関の学生向け無料食料品店。水曜・木曜に食料配布。火曜は無料カフェ。",
+    "target_audience": "大学・高等教育機関の学生",
+    "access_conditions": "大学生であること。年会費20CHF。"
+  },
+  "r_0221": {
+    "name": "BCAS – 社会福祉サービス（財政支援）",
+    "description": "ジュネーブ中央社会支援局。困難に直面する就労者への一時的財政支援。18-25歳学生向けプログラム。",
+    "target_audience": "困難に直面する就労者、18歳までの子ども、18-25歳学生",
+    "access_conditions": "火曜に電話または木曜以外毎日ネットワーク。"
+  },
+  "r_0222": {
+    "name": "BICEPS – 若者の心理的サポート（BCAS）",
+    "description": "家族の精神的苦痛に直面する7-25歳の若者への情報・心理サポート。",
+    "target_audience": "7-25歳の子ども・若者",
+    "access_conditions": "無料。右岸支所：Rue de Lyon 99。"
+  },
+  "r_0223": {
+    "name": "SOSこども – 心理相談（BCAS）",
+    "description": "子ども、青少年と家族への無料傾聴・心理サポート・教育支援。",
+    "target_audience": "子ども、青少年とその親",
+    "access_conditions": "無料。月・火・木9-16時。Rue de Lyon 99。"
+  },
+  "r_0224": {
+    "name": "Juris Conseil Junior – 法律相談",
+    "description": "若者向け無料・秘密厳守の電話法律相談。",
+    "target_audience": "25歳までの若者",
+    "access_conditions": "無料。平日9-17時。"
+  },
+  "r_0225": {
+    "name": "財団シャン・フルーリ – 青少年健康基金",
+    "description": "18歳までの子どもへの健康・発達費用の財政支援。",
+    "target_audience": "18歳までの子ども",
+    "access_conditions": "BCASに問い合わせ。"
   }
 }

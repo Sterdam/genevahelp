@@ -59,11 +59,6 @@
     "target_audience": "Adultes souhaitant se former",
     "access_conditions": "Inscription en début de semestre, tarifs réduits selon revenu"
   },
-  "r_0013": {
-    "description": "Hébergement d'urgence pour la nuit. Accueil inconditionnel des personnes sans abri. Repas du soir et petit-déjeuner inclus.",
-    "target_audience": "Personnes sans domicile fixe",
-    "access_conditions": "Sans conditions, accueil inconditionnel le soir"
-  },
   "r_0014": {
     "description": "Accueil, écoute et hébergement d'urgence pour les femmes victimes de violences. Soutien psychologique et accompagnement juridique.",
     "target_audience": "Femmes victimes de violences domestiques",
@@ -1455,5 +1450,41 @@
     "description": "मेरिनको ऐतिहासिक सामुदायिक र मनोरञ्जन केन्द्र (१९६४ देखि), जेनेभा सामाजिक-सांस्कृतिक गतिविधि फाउन्डेशन (FASe) अन्तर्गत। बालबालिका (४-९ वर्ष), किशोर र वयस्कका लागि सामाजिक-शैक्षिक र सामाजिक-सांस्कृतिक क्रियाकलाप। कार्यक्रम, बुधबारको भ्रमण, बिदा क्याम्प। पेशेवर र स्वयंसेवकको टोली।",
     "target_audience": "बालबालिका (४-९ वर्ष), किशोर, परिवार, सामान्य जनता",
     "access_conditions": "निःशुल्क र सबैका लागि खुला। मेरिनका बालबालिकालाई प्राथमिकता।"
+  },
+  "r_0220": {
+    "name": "Association La Farce - विद्यार्थीहरूको निःशुल्क पसल",
+    "description": "जेनेभा विश्वविद्यालय विद्यार्थीहरूको निःशुल्क खाद्य। बुध/बिही वितरण। मङ्गल निःशुल्क क्याफे।",
+    "target_audience": "विश्वविद्यालय विद्यार्थी",
+    "access_conditions": "विद्यार्थी हुनुपर्छ। वार्षिक २० CHF।"
+  },
+  "r_0221": {
+    "name": "BCAS - सामाजिक सेवा (आर्थिक सहायता)",
+    "description": "जेनेभा केन्द्रीय सामाजिक सहायता ब्यूरो। कठिनाइमा कार्यरतलाई अस्थायी सहायता।",
+    "target_audience": "कठिनाइमा कार्यरत, बालबालिका, विद्यार्थी",
+    "access_conditions": "मङ्गलबार फोनमा वा बिही बाहेक नेटवर्कमा।"
+  },
+  "r_0222": {
+    "name": "BICEPS - युवा मनोवैज्ञानिक सहायता (BCAS)",
+    "description": "परिवारको मानसिक कष्टसँग जुधिरहेका ७-२५ वर्ष युवाहरूको सहायता।",
+    "target_audience": "७-२५ वर्ष युवा",
+    "access_conditions": "निःशुल्क। Rue de Lyon 99।"
+  },
+  "r_0223": {
+    "name": "SOS बालबालिका - मनोवैज्ञानिक परामर्श (BCAS)",
+    "description": "बालबालिका र परिवारहरूको निःशुल्क मनोवैज्ञानिक सहायता।",
+    "target_audience": "बालबालिका र अभिभावक",
+    "access_conditions": "निःशुल्क। सोम/मङ्गल/बिही ९-१६।"
+  },
+  "r_0224": {
+    "name": "Juris Conseil Junior - कानुनी परामर्श",
+    "description": "युवाहरूको निःशुल्क गोप्य कानुनी परामर्श।",
+    "target_audience": "२५ वर्षसम्म युवा",
+    "access_conditions": "निःशुल्क। कार्यदिन ९-१७।"
+  },
+  "r_0225": {
+    "name": "फाउन्डेशन शाम्प-फ्लुरी - युवा स्वास्थ्य कोष",
+    "description": "१८ वर्षसम्म बालबालिकालाई स्वास्थ्य आर्थिक सहायता।",
+    "target_audience": "१८ वर्षसम्म बालबालिका",
+    "access_conditions": "BCAS मा सम्पर्क।"
   }
 }

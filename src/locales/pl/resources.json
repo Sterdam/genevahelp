@@ -59,11 +59,6 @@
     "target_audience": "Dorośli chcący się kształcić",
     "access_conditions": "Zapis na początku semestru, zniżki w zależności od dochodów"
   },
-  "r_0013": {
-    "description": "Nocleg awaryjny. Bezwarunkowe przyjęcie osób bezdomnych. Kolacja i śniadanie w cenie.",
-    "target_audience": "Osoby bezdomne",
-    "access_conditions": "Bez warunków, bezwarunkowe przyjęcie wieczorem"
-  },
   "r_0014": {
     "description": "Przyjęcie, wysłuchanie i awaryjne zakwaterowanie dla kobiet doświadczających przemocy. Wsparcie psychologiczne i pomoc prawna.",
     "target_audience": "Kobiety doświadczające przemocy domowej",
@@ -1455,5 +1450,41 @@
     "description": "Historyczne centrum społeczności i rozrywki w Meyrin (od 1964 roku), powiązane z Genewską Fundacją Animacji Społeczno-Kulturalnej (FASe). Zajęcia społeczno-edukacyjne i społeczno-kulturalne dla dzieci (4–9 lat), nastolatków i dorosłych. Animacje, środowe wycieczki, obozy wakacyjne. Zespół profesjonalistów i wolontariuszy.",
     "target_audience": "Dzieci (4–9 lat), nastolatkowie, rodziny, ogół społeczeństwa",
     "access_conditions": "Bezpłatne i otwarte dla wszystkich. Priorytet dla dzieci z Meyrin."
+  },
+  "r_0220": {
+    "name": "Association La Farce – Darmowy sklep spożywczy dla studentów",
+    "description": "Darmowy sklep spożywczy dla studentów uczelni wyższych w Genewie. Dystrybucja żywności w środy i czwartki. Otwarta kawiarnia dla wszystkich we wtorki. Walka z brakiem bezpieczeństwa żywnościowego studentów i marnotrawieniem żywności.",
+    "target_audience": "Studenci uczelni wyższych",
+    "access_conditions": "Być studentem uczelni wyższej. Roczna składka 20 CHF."
+  },
+  "r_0221": {
+    "name": "BCAS – Pomoc społeczna (pomoc finansowa)",
+    "description": "Pomoc społeczna Centralnego Biura Pomocy Społecznej w Genewie. Jednorazowa pomoc finansowa dla osób pracujących w trudnej sytuacji. Program «Młodzież w kształceniu» dla studentów 18-25 lat. Dostęp telefoniczny we wtorki lub przez sieć codziennie oprócz czwartku.",
+    "target_audience": "Osoby pracujące w trudnej sytuacji, dzieci i młodzież do 18 lat, studenci 18-25 lat",
+    "access_conditions": "Telefonicznie we wtorki (bezpośredni dostęp od 7 kwietnia 2026) lub przez sieć codziennie oprócz czwartku."
+  },
+  "r_0222": {
+    "name": "BICEPS – Wsparcie psychologiczne młodzieży (BCAS)",
+    "description": "Serwis informacyjny i wsparcia psychologicznego dla młodzieży konfrontowanej z cierpieniem psychicznym członka rodziny. Wsparcie indywidualne, grupy wsparcia, wsparcie rodziców. Dla dzieci, nastolatków i młodych dorosłych 7-25 lat.",
+    "target_audience": "Dzieci, nastolatkowie i młodzi dorośli 7-25 lat",
+    "access_conditions": "Bezpłatnie. Można zostawić wiadomość poza godzinami. Filia prawy brzeg: Rue de Lyon 99."
+  },
+  "r_0223": {
+    "name": "SOS Dzieci – Konsultacje psychologiczne (BCAS)",
+    "description": "Bezpłatna służba słuchania, wsparcia psychologicznego i poradnictwa wychowawczego dla dzieci, nastolatków i ich rodzin. Linia telefoniczna, poradnictwo, psychoterapia indywidualna lub rodzinna, grupy terapeutyczne.",
+    "target_audience": "Dzieci, nastolatkowie i ich rodzice",
+    "access_conditions": "Bezpłatnie. Linia telefoniczna poniedziałek, wtorek i czwartek 9-16. Filia prawy brzeg: Rue de Lyon 99."
+  },
+  "r_0224": {
+    "name": "Juris Conseil Junior (JCJ) – Poradnia prawna",
+    "description": "Bezpłatna i poufna telefoniczna poradnia prawna dla młodzieży i ich otoczenia. Konsultacje adwokatów-wolontariuszy, licencjonowanych i zobowiązanych tajemnicą zawodową.",
+    "target_audience": "Nieletni i młodzież do 25 lat, bliscy i profesjonaliści",
+    "access_conditions": "Bezpłatnie i poufnie. Telefonicznie w dni robocze 9-17."
+  },
+  "r_0225": {
+    "name": "Fundacja Champs-Fleuri – Fundusz Zdrowia Młodzieży",
+    "description": "Pomoc finansowa dla dzieci i młodzieży do 18 lat potrzebujących wsparcia w zakresie zdrowia lub rozwoju. Może pokrywać opiekę dentystyczną, zajęcia sportowe, kulturalne i obozy wakacyjne.",
+    "target_audience": "Dzieci i młodzież do 18 lat",
+    "access_conditions": "Dla dzieci i młodzieży do 18 lat. Skontaktuj się z BCAS."
   }
 }

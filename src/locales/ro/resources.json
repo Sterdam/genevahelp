@@ -59,11 +59,6 @@
     "target_audience": "Adulti care doresc sa se formeze",
     "access_conditions": "Inscriere la inceputul semestrului, tarife reduse in functie de venituri"
   },
-  "r_0013": {
-    "description": "Adapost de urgenta pentru noapte. Primire neconditionata a persoanelor fara adapost. Cina si micul dejun incluse.",
-    "target_audience": "Persoane fara adapost",
-    "access_conditions": "Fara conditii, primire neconditionata seara"
-  },
   "r_0014": {
     "description": "Primire, ascultare si adapost de urgenta pentru femeile victime ale violentei. Sprijin psihologic si insotire juridica.",
     "target_audience": "Femei victime ale violentei domestice",
@@ -1455,5 +1450,41 @@
     "description": "Centru de agrement și casă de cartier istorică din Meyrin (din 1964), afiliat Fundației Genevreze pentru Animația Socioculturală (FASe). Activități socio-educative și socioculturale pentru copii (4–9 ani), adolescenți și adulți. Animații, ieșiri de miercuri, tabere de vacanță. Echipă de profesioniști și voluntari în slujba comunității.",
     "target_audience": "Copii (4–9 ani), adolescenți, familii, public general",
     "access_conditions": "Gratuit și deschis tuturor. Prioritate copiilor din Meyrin."
+  },
+  "r_0220": {
+    "name": "Association La Farce – Magazin alimentar gratuit pentru studenți",
+    "description": "Magazin alimentar gratuit pentru studenții universităților și școlilor superioare din Geneva. Distribuție alimentară miercuri și joi. Cafenea liberă deschisă tuturor marți. Luptă împotriva precarității alimentare studențești și a risipei alimentare.",
+    "target_audience": "Studenți universitari și din învățământul superior",
+    "access_conditions": "A fi student universitar sau în învățământul superior. Cotizație anuală de 20 CHF."
+  },
+  "r_0221": {
+    "name": "BCAS – Serviciu social (ajutor financiar)",
+    "description": "Serviciu social al Bureau Central d'Aide Sociale din Geneva. Ajutoare financiare punctuale pentru persoane active aflate în dificultate. Program «Jeunes en formation» pentru studenți 18–25 ani. Acces telefonic marți sau prin rețea zilnic cu excepția joi.",
+    "target_audience": "Persoane active în dificultate, copii și tineri până la 18 ani, studenți 18–25 ani",
+    "access_conditions": "Telefonic marți (acces direct din 7 aprilie 2026) sau prin rețea zilnic cu excepția joi."
+  },
+  "r_0222": {
+    "name": "BICEPS – Sprijin psihologic tineri (BCAS)",
+    "description": "Serviciu de informare și sprijin psihologic pentru tineri confruntați cu suferința psihică a unui membru al familiei. Acompaniere individuală, grupuri de sprijin, acompaniere părinți. Pentru copii, adolescenți și tineri adulți 7–25 ani.",
+    "target_audience": "Copii, adolescenți și tineri adulți 7–25 ani confruntați cu suferința psihică a unui părinte",
+    "access_conditions": "Gratuit. Se poate lăsa mesaj în afara programului. Filială malul drept: Rue de Lyon 99."
+  },
+  "r_0223": {
+    "name": "SOS Enfants – Consultații psihologice (BCAS)",
+    "description": "Serviciu gratuit de ascultare, sprijin psihologic și orientare educativă pentru copii, adolescenți și familii. Linie telefonică, orientare, consultații, psihoterapie individuală sau familială, grupuri terapeutice, sprijin educativ.",
+    "target_audience": "Copii, adolescenți și părinții lor",
+    "access_conditions": "Gratuit. Linie telefonică luni, marți și joi 9–16. Filială malul drept: Rue de Lyon 99."
+  },
+  "r_0224": {
+    "name": "Juris Conseil Junior (JCJ) – Consultanță juridică",
+    "description": "Consultanță juridică telefonică gratuită și confidențială pentru tineri și anturajul lor. Consultații de avocați voluntari, autorizați și supuși secretului profesional. În unele cazuri, prima consultare gratuită la cabinet.",
+    "target_audience": "Minori și tineri până la 25 ani, apropriați și profesioniști",
+    "access_conditions": "Gratuit și confidențial. Telefonic în zile lucrătoare 9–17."
+  },
+  "r_0225": {
+    "name": "Fondation Champs-Fleuri – Fond Tineret Sănătate",
+    "description": "Ajutor financiar pentru copii și tineri până la 18 ani care au nevoie de sprijin pentru cheltuieli de sănătate sau dezvoltare. Poate acoperi îngrijire dentară, activități sportive, culturale și tabere de vacanță.",
+    "target_audience": "Copii și tineri până la 18 ani",
+    "access_conditions": "Pentru copii și tineri până la 18 ani. Contactați BCAS."
   }
 }

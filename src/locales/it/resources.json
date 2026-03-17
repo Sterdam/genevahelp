@@ -59,11 +59,6 @@
     "target_audience": "Adulti che desiderano formarsi",
     "access_conditions": "Iscrizione a inizio semestre, tariffe ridotte in base al reddito"
   },
-  "r_0013": {
-    "description": "Alloggio d'emergenza per la notte. Accoglienza incondizionata delle persone senza fissa dimora. Cena e colazione incluse.",
-    "target_audience": "Persone senza fissa dimora",
-    "access_conditions": "Senza condizioni, accoglienza incondizionata la sera"
-  },
   "r_0014": {
     "description": "Accoglienza, ascolto e alloggio d'emergenza per le donne vittime di violenza. Supporto psicologico e accompagnamento legale.",
     "target_audience": "Donne vittime di violenza domestica",
@@ -1455,5 +1450,41 @@
     "description": "Centro ricreativo e casa di quartiere storica di Meyrin (dal 1964), affiliato alla Fondazione ginevrina per l'animazione socioculturale (FASe). Attività socio-educative e socioculturali per bambini (4–9 anni), adolescenti e adulti. Animazioni, uscite del mercoledì, campi vacanze. Équipe di professionisti e volontari al servizio della comunità.",
     "target_audience": "Bambini (4–9 anni), adolescenti, famiglie, pubblico generico",
     "access_conditions": "Gratuito e aperto a tutti. Priorità ai bambini di Meyrin."
+  },
+  "r_0220": {
+    "name": "Association La Farce – Spesa gratuita per studenti",
+    "description": "Negozio di alimentari gratuito per studenti delle scuole superiori e università ginevrine. Distribuzione alimentare il mercoledì e giovedì. Caffè libero aperto a tutti il martedì. Lotta alla precarietà alimentare studentesca e allo spreco alimentare, in spirito di solidarietà.",
+    "target_audience": "Studenti delle scuole superiori e università",
+    "access_conditions": "Essere studente di una scuola superiore o università. Adesione annuale di CHF 20."
+  },
+  "r_0221": {
+    "name": "BCAS – Servizio sociale (aiuto finanziario)",
+    "description": "Servizio sociale del Bureau Central d'Aide Sociale di Ginevra. Aiuti finanziari puntuali per persone attive in difficoltà. Programma «Jeunes en formation» per studenti da 18 a 25 anni. Accesso telefonico il martedì o tramite la rete tutti i giorni tranne il giovedì.",
+    "target_audience": "Persone attive in difficoltà, bambini e giovani fino a 18 anni, studenti 18–25 anni",
+    "access_conditions": "Per telefono il martedì (accesso diretto dal 7 aprile 2026) o tramite la rete ogni giorno tranne giovedì."
+  },
+  "r_0222": {
+    "name": "BICEPS – Sostegno psicologico giovani (BCAS)",
+    "description": "Servizio di informazione e sostegno psicologico per giovani confrontati alla sofferenza psichica di un membro della famiglia. Accompagnamento individuale, gruppi di sostegno, accompagnamento dei genitori. Per bambini, adolescenti e giovani adulti da 7 a 25 anni.",
+    "target_audience": "Bambini, adolescenti e giovani adulti 7–25 anni confrontati alla sofferenza psichica di un genitore",
+    "access_conditions": "Gratuito. Possibilità di lasciare un messaggio fuori orario. Sede riva destra: Rue de Lyon 99."
+  },
+  "r_0223": {
+    "name": "SOS Enfants – Consultazioni psicologiche (BCAS)",
+    "description": "Servizio gratuito di ascolto, sostegno psicologico e supporto educativo per bambini, adolescenti e famiglie. Linea telefonica, orientamento, colloqui, psicoterapia individuale o familiare, gruppi terapeutici, supporto educativo per genitori.",
+    "target_audience": "Bambini, adolescenti e i loro genitori",
+    "access_conditions": "Gratuito. Linea telefonica lunedì, martedì e giovedì 9–16. Sede riva destra: Rue de Lyon 99."
+  },
+  "r_0224": {
+    "name": "Juris Conseil Junior (JCJ) – Consulenza legale",
+    "description": "Consulenza legale telefonica gratuita e confidenziale per giovani e il loro entourage. Consultazioni da avvocati volontari, abilitati e soggetti al segreto professionale. In alcuni casi, una prima consulenza gratuita in studio può essere offerta.",
+    "target_audience": "Minori e giovani fino a 25 anni, familiari e professionisti",
+    "access_conditions": "Gratuito e confidenziale. Per telefono nei giorni lavorativi 9–17."
+  },
+  "r_0225": {
+    "name": "Fondation Champs-Fleuri – Fondo Gioventù Salute",
+    "description": "Aiuto finanziario per bambini e giovani fino a 18 anni che necessitano sostegno per spese sanitarie o di sviluppo. Può coprire cure dentali, attività sportive, culturali e campi vacanza.",
+    "target_audience": "Bambini e giovani fino a 18 anni",
+    "access_conditions": "Per bambini e giovani fino a 18 anni. Contattare il BCAS."
   }
 }

@@ -59,11 +59,6 @@
     "target_audience": "Người lớn muốn được đào tạo",
     "access_conditions": "Đăng ký đầu học kỳ, học phí giảm tùy thu nhập"
   },
-  "r_0013": {
-    "description": "Nhà trọ khẩn cấp qua đêm. Tiếp nhận không điều kiện cho người vô gia cư. Bữa tối và bữa sáng bao gồm.",
-    "target_audience": "Người vô gia cư",
-    "access_conditions": "Không điều kiện, tiếp nhận không điều kiện vào buổi tối"
-  },
   "r_0014": {
     "description": "Tiếp đón, lắng nghe và nhà trọ khẩn cấp cho phụ nữ bị bạo lực. Hỗ trợ tâm lý và đồng hành pháp lý.",
     "target_audience": "Phụ nữ là nạn nhân bạo lực gia đình",
@@ -1455,5 +1450,41 @@
     "description": "Trung tâm cộng đồng và giải trí lịch sử tại Meyrin (từ năm 1964), trực thuộc Quỹ Genève về Hoạt động Văn hóa-Xã hội (FASe). Các hoạt động giáo dục-xã hội và văn hóa-xã hội cho trẻ em (4-9 tuổi), thanh thiếu niên và người lớn. Hoạt động vui chơi, dã ngoại thứ Tư, trại hè. Đội ngũ chuyên gia và tình nguyện viên.",
     "target_audience": "Trẻ em (4-9 tuổi), thanh thiếu niên, gia đình, công chúng",
     "access_conditions": "Miễn phí và mở cửa cho tất cả. Ưu tiên trẻ em Meyrin."
+  },
+  "r_0220": {
+    "name": "Association La Farce - Cửa hàng miễn phí cho sinh viên",
+    "description": "Cửa hàng thực phẩm miễn phí cho sinh viên đại học Geneva. Phát thực phẩm thứ Tư và Năm. Quán cà phê miễn phí thứ Ba.",
+    "target_audience": "Sinh viên đại học",
+    "access_conditions": "Phải là sinh viên. Phí hàng năm 20 CHF."
+  },
+  "r_0221": {
+    "name": "BCAS - Dịch vụ xã hội (hỗ trợ tài chính)",
+    "description": "Văn phòng Trung ương Hỗ trợ Xã hội Geneva. Hỗ trợ tài chính tạm thời cho người lao động khó khăn.",
+    "target_audience": "Người lao động khó khăn, trẻ em đến 18, sinh viên 18-25",
+    "access_conditions": "Gọi điện thứ Ba hoặc mạng lưới trừ thứ Năm."
+  },
+  "r_0222": {
+    "name": "BICEPS - Hỗ trợ tâm lý thanh thiếu niên (BCAS)",
+    "description": "Hỗ trợ tâm lý cho thanh thiếu niên 7-25 tuổi đối mặt với nỗi đau tinh thần của người thân.",
+    "target_audience": "Thanh thiếu niên 7-25 tuổi",
+    "access_conditions": "Miễn phí. Rue de Lyon 99."
+  },
+  "r_0223": {
+    "name": "SOS Trẻ em - Tư vấn tâm lý (BCAS)",
+    "description": "Dịch vụ miễn phí hỗ trợ tâm lý cho trẻ em, thanh thiếu niên và gia đình.",
+    "target_audience": "Trẻ em, thanh thiếu niên và cha mẹ",
+    "access_conditions": "Miễn phí. Thứ Hai, Ba, Năm 9-16. Rue de Lyon 99."
+  },
+  "r_0224": {
+    "name": "Juris Conseil Junior - Tư vấn pháp lý",
+    "description": "Tư vấn pháp lý miễn phí bảo mật cho thanh thiếu niên.",
+    "target_audience": "Thanh thiếu niên đến 25 tuổi",
+    "access_conditions": "Miễn phí. Ngày làm việc 9-17."
+  },
+  "r_0225": {
+    "name": "Quỹ Champs-Fleuri - Quỹ Sức khỏe Thanh thiếu niên",
+    "description": "Hỗ trợ tài chính cho trẻ em đến 18 tuổi cho chi phí sức khỏe.",
+    "target_audience": "Trẻ em đến 18 tuổi",
+    "access_conditions": "Liên hệ BCAS."
   }
 }

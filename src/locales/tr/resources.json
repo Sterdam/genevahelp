@@ -59,11 +59,6 @@
     "target_audience": "Eğitim almak isteyen yetişkinler",
     "access_conditions": "Dönem başında kayıt, gelire göre indirimli ücret"
   },
-  "r_0013": {
-    "description": "Gecelik acil barınma. Evsiz kişilerin koşulsuz kabulü. Akşam yemeği ve kahvaltı dahildir.",
-    "target_audience": "Evsiz kişiler",
-    "access_conditions": "Koşulsuz, akşamları koşulsuz kabul"
-  },
   "r_0014": {
     "description": "Şiddete maruz kalan kadınlar için karşılama, dinleme ve acil barınma. Psikolojik destek ve hukuki danışmanlık.",
     "target_audience": "Aile içi şiddete maruz kalan kadınlar",
@@ -1455,5 +1450,41 @@
     "description": "Meyrin'in tarihi mahalle evi ve eğlence merkezi (1964'ten beri), Cenevre Sosyokültürel Animasyon Vakfı'na (FASe) bağlı. Çocuklar (4-9 yaş), gençler ve yetişkinler için sosyo-eğitimsel ve sosyokültürel etkinlikler. Animasyonlar, çarşamba gezileri, tatil kampları. Profesyonel ve gönüllülerden oluşan ekip.",
     "target_audience": "Çocuklar (4-9 yaş), gençler, aileler, genel halk",
     "access_conditions": "Ücretsiz ve herkese açık. Meyrin çocuklarına öncelik."
+  },
+  "r_0220": {
+    "name": "Association La Farce – Öğrenciler için ücretsiz bakkal",
+    "description": "Cenevre üniversite ve yüksekokullarında okuyan öğrenciler için ücretsiz gıda dağıtımı. Çarşamba ve perşembe günleri gıda dağıtımı. Salı günleri herkese açık ücretsiz kafe. Öğrenci gıda güvensizliği ve gıda israfıyla mücadele.",
+    "target_audience": "Üniversite ve yüksekokul öğrencileri",
+    "access_conditions": "Üniversite veya yüksekokul öğrencisi olmak. Yıllık 20 CHF üyelik ücreti."
+  },
+  "r_0221": {
+    "name": "BCAS – Sosyal hizmet (mali yardım)",
+    "description": "Cenevre Merkezi Sosyal Yardım Bürosu'nun sosyal hizmeti. Zorluk yaşayan çalışan kişilere geçici mali yardımlar. 18-25 yaş arası öğrenciler için «Jeunes en formation» programı. Salı günleri telefonla veya perşembe hariç her gün ağ üzerinden erişim.",
+    "target_audience": "Zorluk içindeki çalışan kişiler, 18 yaşına kadar çocuklar ve gençler, 18-25 yaş öğrenciler",
+    "access_conditions": "Salı günleri telefonla (7 Nisan 2026'dan itibaren doğrudan erişim) veya perşembe hariç her gün ağ üzerinden."
+  },
+  "r_0222": {
+    "name": "BICEPS – Gençler için psikolojik destek (BCAS)",
+    "description": "Ailesinin bir üyesinin ruhsal acısıyla karşılaşan gençler için bilgi ve psikolojik destek hizmeti. Bireysel eşlik, destek grupları, ebeveyn eşliği. 7-25 yaş arası çocuklar, ergenler ve genç yetişkinler için.",
+    "target_audience": "Ebeveyninin ruhsal acısıyla karşılaşan 7-25 yaş çocuklar, ergenler ve genç yetişkinler",
+    "access_conditions": "Ücretsiz. Mesai dışında mesaj bırakılabilir. Sağ kıyı şubesi: Rue de Lyon 99."
+  },
+  "r_0223": {
+    "name": "SOS Enfants – Psikolojik danışmanlık (BCAS)",
+    "description": "Çocuklar, ergenler ve aileleri için ücretsiz dinleme, psikolojik destek ve eğitim rehberliği hizmeti. Telefon hattı, yönlendirme, bireysel veya aile psikoterapisi, terapötik gruplar, ebeveynler için eğitim desteği.",
+    "target_audience": "Çocuklar, ergenler ve ebeveynleri",
+    "access_conditions": "Ücretsiz. Telefon hattı pazartesi, salı ve perşembe 9-16. Sağ kıyı şubesi: Rue de Lyon 99."
+  },
+  "r_0224": {
+    "name": "Juris Conseil Junior (JCJ) – Hukuki danışmanlık",
+    "description": "Gençler ve çevrelerine yönelik ücretsiz ve gizli telefonla hukuki danışmanlık. Gönüllü, lisanslı ve mesleki sırra bağlı avukatlar tarafından danışmanlık. Bazı durumlarda ofiste ücretsiz ilk danışma.",
+    "target_audience": "18 yaş altı ve 25 yaşına kadar gençler, yakınlar ve profesyoneller",
+    "access_conditions": "Ücretsiz ve gizli. İş günlerinde telefonla 9-17."
+  },
+  "r_0225": {
+    "name": "Fondation Champs-Fleuri – Gençlik Sağlık Fonu",
+    "description": "Sağlık veya gelişim masrafları için desteğe ihtiyaç duyan 18 yaşına kadar çocuklar ve gençlere mali yardım. Diş bakımı, spor, kültürel aktiviteler ve tatil kamplarını kapsayabilir.",
+    "target_audience": "18 yaşına kadar çocuklar ve gençler",
+    "access_conditions": "18 yaşına kadar çocuklar ve gençler için. BCAS ile iletişime geçin."
   }
 }

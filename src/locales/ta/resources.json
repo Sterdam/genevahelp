@@ -59,11 +59,6 @@
     "target_audience": "Adultes souhaitant se former",
     "access_conditions": "Inscription en début de semestre, tarifs réduits selon revenu"
   },
-  "r_0013": {
-    "description": "Hébergement d'urgence pour la nuit. Accueil inconditionnel des personnes sans abri. Repas du soir et petit-déjeuner inclus.",
-    "target_audience": "Personnes sans domicile fixe",
-    "access_conditions": "Sans conditions, accueil inconditionnel le soir"
-  },
   "r_0014": {
     "description": "Accueil, écoute et hébergement d'urgence pour les femmes victimes de violences. Soutien psychologique et accompagnement juridique.",
     "target_audience": "Femmes victimes de violences domestiques",
@@ -1455,5 +1450,41 @@
     "description": "Meyrin இன் வரலாற்றுச் சமூக மற்றும் பொழுதுபோக்கு மையம் (1964 முதல்), ஜெனீவா சமூக-கலாச்சார நடவடிக்கை அறக்கட்டளையுடன் (FASe) இணைக்கப்பட்டது. குழந்தைகள் (4-9 வயது), இளைஞர்கள் மற்றும் பெரியவர்களுக்கு சமூக-கல்வி மற்றும் கலாச்சார நடவடிக்கைகள். நிகழ்ச்சிகள், புதன் உலா, விடுமுறை முகாம்கள். நிபுணர்கள் மற்றும் தன்னார்வலர்கள் குழு.",
     "target_audience": "குழந்தைகள் (4-9 வயது), இளைஞர்கள், குடும்பங்கள், பொது மக்கள்",
     "access_conditions": "இலவசம் மற்றும் அனைவருக்கும் திறந்தது. Meyrin குழந்தைகளுக்கு முன்னுரிமை."
+  },
+  "r_0220": {
+    "name": "Association La Farce - மாணவர்கள் இலவச கடை",
+    "description": "ஜெனீவா பல்கலைக்கழக மாணவர்களுக்கு இலவச உணவு. புதன்/வியாழன் விநியோகம். செவ்வாய் இலவச காஃபி.",
+    "target_audience": "பல்கலைக்கழக மாணவர்கள்",
+    "access_conditions": "மாணவராக இருக்க வேண்டும். ஆண்டு 20 CHF."
+  },
+  "r_0221": {
+    "name": "BCAS - சமூக சேவை (நிதி உதவி)",
+    "description": "ஜெனீவா மத்திய சமூக உதவி அலுவலகம். சிரமத்தில் உள்ள பணிபுரிவோருக்கு நிதி உதவி.",
+    "target_audience": "சிரமத்தில் பணிபுரிவோர், குழந்தைகள், மாணவர்கள்",
+    "access_conditions": "செவ்வாய் தொலைபேசி அல்லது வியாழன் தவிர நெட்வொர்க்."
+  },
+  "r_0222": {
+    "name": "BICEPS - இளைஞர் உளவியல் ஆதரவு (BCAS)",
+    "description": "குடும்ப உறுப்பினரின் மன வேதனையை எதிர்கொள்ளும் 7-25 வயது இளைஞர்களுக்கு ஆதரவு.",
+    "target_audience": "7-25 வயது இளைஞர்கள்",
+    "access_conditions": "இலவசம். Rue de Lyon 99."
+  },
+  "r_0223": {
+    "name": "SOS குழந்தைகள் - உளவியல் ஆலோசனை (BCAS)",
+    "description": "குழந்தைகள் மற்றும் குடும்பங்களுக்கு இலவச உளவியல் ஆதரவு.",
+    "target_audience": "குழந்தைகள் மற்றும் பெற்றோர்",
+    "access_conditions": "இலவசம். திங்கள்/செவ்வாய்/வியாழன் 9-16."
+  },
+  "r_0224": {
+    "name": "Juris Conseil Junior - சட்ட ஆலோசனை",
+    "description": "இளைஞர்களுக்கு இலவச ரகசிய சட்ட ஆலோசனை.",
+    "target_audience": "25 வயது வரை இளைஞர்கள்",
+    "access_conditions": "இலவசம். வேலை நாட்கள் 9-17."
+  },
+  "r_0225": {
+    "name": "அறக்கட்டளை Champs-Fleuri - இளைஞர் சுகாதார நிதி",
+    "description": "18 வயது வரை குழந்தைகளுக்கு சுகாதார நிதி உதவி.",
+    "target_audience": "18 வயது வரை குழந்தைகள்",
+    "access_conditions": "BCAS தொடர்பு கொள்ளுங்கள்."
   }
 }
