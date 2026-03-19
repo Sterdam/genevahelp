@@ -1528,5 +1528,47 @@
     "description": "免费交换。餐具、玩具、小型电子产品。",
     "target_audience": "所有人",
     "access_conditions": "免费。"
+  },
+  "r_0233": {
+    "name": "Cancer Support Switzerland",
+    "description": "为癌症患者及家属提供免费英语支持。",
+    "target_audience": "癌症患者和家属",
+    "access_conditions": "免费。英语。"
+  },
+  "r_0234": {
+    "name": "亲子活动空间 - Avanchets",
+    "description": "0-4岁儿童与成人的免费空间。游戏与专家。韦尔尼耶。",
+    "target_audience": "0-4岁儿童与成人",
+    "access_conditions": "免费，无需注册。"
+  },
+  "r_0235": {
+    "name": "亲子活动空间 - Châtelaine",
+    "description": "0-4岁儿童与成人的免费空间。游戏与专家。韦尔尼耶。",
+    "target_audience": "0-4岁儿童与成人",
+    "access_conditions": "免费，无需注册。"
+  },
+  "r_0236": {
+    "name": "亲子活动空间 - Étang",
+    "description": "0-4岁儿童与成人的免费空间。游戏与专家。韦尔尼耶。",
+    "target_audience": "0-4岁儿童与成人",
+    "access_conditions": "免费，无需注册。"
+  },
+  "r_0237": {
+    "name": "亲子活动空间 - Le Lignon",
+    "description": "0-4岁儿童与成人的免费空间。游戏与专家。韦尔尼耶。",
+    "target_audience": "0-4岁儿童与成人",
+    "access_conditions": "免费，无需注册。"
+  },
+  "r_0238": {
+    "name": "亲子活动空间 - Vernier village",
+    "description": "0-4岁儿童与成人的免费空间。游戏与专家。韦尔尼耶。",
+    "target_audience": "0-4岁儿童与成人",
+    "access_conditions": "免费，无需注册。"
+  },
+  "r_0239": {
+    "name": "亲子活动空间 - Libellules",
+    "description": "0-4岁儿童与成人的免费空间。游戏与专家。韦尔尼耶。",
+    "target_audience": "0-4岁儿童与成人",
+    "access_conditions": "免费，无需注册。"
   }
 }

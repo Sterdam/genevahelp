@@ -1528,5 +1528,47 @@
     "description": "無料交換。食器、おもちゃ、小型電子機器。",
     "target_audience": "すべての方",
     "access_conditions": "無料。"
+  },
+  "r_0233": {
+    "name": "Cancer Support Switzerland",
+    "description": "がん患者とその家族への英語による無料サポート。",
+    "target_audience": "がん患者と家族",
+    "access_conditions": "無料。英語。"
+  },
+  "r_0234": {
+    "name": "親子ひろば – Avanchets",
+    "description": "0-4歳の子どもと大人のための無料スペース。遊びと専門家。ヴェルニエ。",
+    "target_audience": "0-4歳の子どもと大人",
+    "access_conditions": "無料、登録不要。"
+  },
+  "r_0235": {
+    "name": "親子ひろば – Châtelaine",
+    "description": "0-4歳の子どもと大人のための無料スペース。遊びと専門家。ヴェルニエ。",
+    "target_audience": "0-4歳の子どもと大人",
+    "access_conditions": "無料、登録不要。"
+  },
+  "r_0236": {
+    "name": "親子ひろば – Étang",
+    "description": "0-4歳の子どもと大人のための無料スペース。遊びと専門家。ヴェルニエ。",
+    "target_audience": "0-4歳の子どもと大人",
+    "access_conditions": "無料、登録不要。"
+  },
+  "r_0237": {
+    "name": "親子ひろば – Le Lignon",
+    "description": "0-4歳の子どもと大人のための無料スペース。遊びと専門家。ヴェルニエ。",
+    "target_audience": "0-4歳の子どもと大人",
+    "access_conditions": "無料、登録不要。"
+  },
+  "r_0238": {
+    "name": "親子ひろば – Vernier village",
+    "description": "0-4歳の子どもと大人のための無料スペース。遊びと専門家。ヴェルニエ。",
+    "target_audience": "0-4歳の子どもと大人",
+    "access_conditions": "無料、登録不要。"
+  },
+  "r_0239": {
+    "name": "親子ひろば – Libellules",
+    "description": "0-4歳の子どもと大人のための無料スペース。遊びと専門家。ヴェルニエ。",
+    "target_audience": "0-4歳の子どもと大人",
+    "access_conditions": "無料、登録不要。"
   }
 }

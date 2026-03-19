@@ -1528,5 +1528,47 @@
     "description": "Espace de troc gratuit à Vernier. Échange de vaisselle, bibelots, jouets et petits appareils électroniques. On dépose et on prend librement.",
     "target_audience": "Tout public",
     "access_conditions": "Gratuit et sans rendez-vous. Fermé pendant les vacances scolaires."
+  },
+  "r_0233": {
+    "name": "Cancer Support Switzerland",
+    "description": "Association offrant un soutien gratuit en anglais aux personnes touchées par le cancer et à leurs proches. Conseil psychosocial, groupes de soutien, activités bien-être (yoga, art-thérapie, marche), soutien au deuil et aux proches aidants. Services en ligne et en personne à Genève.",
+    "target_audience": "Patients atteints de cancer, proches aidants, personnes en deuil",
+    "access_conditions": "Gratuit. Services en anglais. Ouvert à toute personne touchée par le cancer."
+  },
+  "r_0234": {
+    "name": "Accueil Adultes-Enfants – Avanchets",
+    "description": "Espace d'accueil gratuit pour les enfants de 0 à 4 ans accompagnés d'un adulte. Jeux, activités variées et échanges avec des professionnels de la petite enfance. Cafés et thés offerts.",
+    "target_audience": "Enfants de 0 à 4 ans accompagnés d'un adulte",
+    "access_conditions": "Gratuit et sans inscription. L'adulte reste avec l'enfant. Fermé durant les vacances scolaires."
+  },
+  "r_0235": {
+    "name": "Accueil Adultes-Enfants – Châtelaine",
+    "description": "Espace d'accueil gratuit pour les enfants de 0 à 4 ans accompagnés d'un adulte. Jeux, activités variées et échanges avec des professionnels de la petite enfance. Cafés et thés offerts. Possibilité d'apporter son repas.",
+    "target_audience": "Enfants de 0 à 4 ans accompagnés d'un adulte",
+    "access_conditions": "Gratuit et sans inscription. L'adulte reste avec l'enfant. Fermé durant les vacances scolaires."
+  },
+  "r_0236": {
+    "name": "Accueil Adultes-Enfants – Étang",
+    "description": "Espace d'accueil gratuit pour les enfants de 0 à 4 ans accompagnés d'un adulte. Jeux, activités variées et échanges avec des professionnels de la petite enfance. Cafés et thés offerts. Possibilité d'apporter son repas.",
+    "target_audience": "Enfants de 0 à 4 ans accompagnés d'un adulte",
+    "access_conditions": "Gratuit et sans inscription. L'adulte reste avec l'enfant. Fermé durant les vacances scolaires."
+  },
+  "r_0237": {
+    "name": "Accueil Adultes-Enfants – Le Lignon",
+    "description": "Espace d'accueil gratuit pour les enfants de 0 à 4 ans accompagnés d'un adulte. Jeux, activités variées et échanges avec des professionnels de la petite enfance. Cafés et thés offerts. En été en extérieur, en hiver à la ludothèque.",
+    "target_audience": "Enfants de 0 à 4 ans accompagnés d'un adulte",
+    "access_conditions": "Gratuit et sans inscription. L'adulte reste avec l'enfant. Fermé durant les vacances scolaires."
+  },
+  "r_0238": {
+    "name": "Accueil Adultes-Enfants – Vernier village",
+    "description": "Espace d'accueil gratuit pour les enfants de 0 à 4 ans accompagnés d'un adulte. Jeux, activités variées et échanges avec des professionnels de la petite enfance. Cafés et thés offerts. Possibilité d'apporter son repas.",
+    "target_audience": "Enfants de 0 à 4 ans accompagnés d'un adulte",
+    "access_conditions": "Gratuit et sans inscription. L'adulte reste avec l'enfant. Fermé durant les vacances scolaires."
+  },
+  "r_0239": {
+    "name": "Accueil Adultes-Enfants – Libellules",
+    "description": "Espace d'accueil gratuit pour les enfants de 0 à 4 ans accompagnés d'un adulte. Jeux, activités variées et échanges avec des professionnels de la petite enfance. Cafés et thés offerts. Possibilité d'apporter son repas.",
+    "target_audience": "Enfants de 0 à 4 ans accompagnés d'un adulte",
+    "access_conditions": "Gratuit et sans inscription. L'adulte reste avec l'enfant. Fermé durant les vacances scolaires."
   }
 }

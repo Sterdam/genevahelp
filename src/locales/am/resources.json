@@ -1528,5 +1528,47 @@
     "description": "ነፃ ልውውጥ። ዕቃዎች።",
     "target_audience": "ሁሉም",
     "access_conditions": "ነፃ።"
+  },
+  "r_0233": {
+    "name": "Cancer Support Switzerland",
+    "description": "ለካንሰር ታማሚዎች በእንግሊዝኛ ነፃ ድጋፍ።",
+    "target_audience": "ካንሰር ታማሚዎች",
+    "access_conditions": "ነፃ። በእንግሊዝኛ።"
+  },
+  "r_0234": {
+    "name": "የወላጅ-ልጅ አቀባበል – Avanchets",
+    "description": "ከ0-4 ዓመት ልጆች ከአዋቂ ጋር ነፃ ቦታ። ቬርኒየ።",
+    "target_audience": "ከ0-4 ዓመት ልጆች ከአዋቂ ጋር",
+    "access_conditions": "ነፃ።"
+  },
+  "r_0235": {
+    "name": "የወላጅ-ልጅ አቀባበል – Châtelaine",
+    "description": "ከ0-4 ዓመት ልጆች ከአዋቂ ጋር ነፃ ቦታ። ቬርኒየ።",
+    "target_audience": "ከ0-4 ዓመት ልጆች ከአዋቂ ጋር",
+    "access_conditions": "ነፃ።"
+  },
+  "r_0236": {
+    "name": "የወላጅ-ልጅ አቀባበል – Étang",
+    "description": "ከ0-4 ዓመት ልጆች ከአዋቂ ጋር ነፃ ቦታ። ቬርኒየ።",
+    "target_audience": "ከ0-4 ዓመት ልጆች ከአዋቂ ጋር",
+    "access_conditions": "ነፃ።"
+  },
+  "r_0237": {
+    "name": "የወላጅ-ልጅ አቀባበል – Le Lignon",
+    "description": "ከ0-4 ዓመት ልጆች ከአዋቂ ጋር ነፃ ቦታ። ቬርኒየ።",
+    "target_audience": "ከ0-4 ዓመት ልጆች ከአዋቂ ጋር",
+    "access_conditions": "ነፃ።"
+  },
+  "r_0238": {
+    "name": "የወላጅ-ልጅ አቀባበል – Vernier village",
+    "description": "ከ0-4 ዓመት ልጆች ከአዋቂ ጋር ነፃ ቦታ። ቬርኒየ።",
+    "target_audience": "ከ0-4 ዓመት ልጆች ከአዋቂ ጋር",
+    "access_conditions": "ነፃ።"
+  },
+  "r_0239": {
+    "name": "የወላጅ-ልጅ አቀባበል – Libellules",
+    "description": "ከ0-4 ዓመት ልጆች ከአዋቂ ጋር ነፃ ቦታ። ቬርኒየ።",
+    "target_audience": "ከ0-4 ዓመት ልጆች ከአዋቂ ጋር",
+    "access_conditions": "ነፃ።"
   }
 }

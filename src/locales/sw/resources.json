@@ -1528,5 +1528,47 @@
     "description": "Kubadilishana bure.",
     "target_audience": "Wote",
     "access_conditions": "Bure."
+  },
+  "r_0233": {
+    "name": "Cancer Support Switzerland",
+    "description": "Msaada bure kwa Kiingereza kwa wagonjwa wa saratani.",
+    "target_audience": "Wagonjwa wa saratani",
+    "access_conditions": "Bure. Kiingereza."
+  },
+  "r_0234": {
+    "name": "Mapokezi wazazi-watoto – Avanchets",
+    "description": "Nafasi bure kwa watoto 0-4 na mtu mzima. Vernier.",
+    "target_audience": "Watoto 0-4 na mtu mzima",
+    "access_conditions": "Bure."
+  },
+  "r_0235": {
+    "name": "Mapokezi wazazi-watoto – Châtelaine",
+    "description": "Nafasi bure kwa watoto 0-4 na mtu mzima. Vernier.",
+    "target_audience": "Watoto 0-4 na mtu mzima",
+    "access_conditions": "Bure."
+  },
+  "r_0236": {
+    "name": "Mapokezi wazazi-watoto – Étang",
+    "description": "Nafasi bure kwa watoto 0-4 na mtu mzima. Vernier.",
+    "target_audience": "Watoto 0-4 na mtu mzima",
+    "access_conditions": "Bure."
+  },
+  "r_0237": {
+    "name": "Mapokezi wazazi-watoto – Le Lignon",
+    "description": "Nafasi bure kwa watoto 0-4 na mtu mzima. Vernier.",
+    "target_audience": "Watoto 0-4 na mtu mzima",
+    "access_conditions": "Bure."
+  },
+  "r_0238": {
+    "name": "Mapokezi wazazi-watoto – Vernier village",
+    "description": "Nafasi bure kwa watoto 0-4 na mtu mzima. Vernier.",
+    "target_audience": "Watoto 0-4 na mtu mzima",
+    "access_conditions": "Bure."
+  },
+  "r_0239": {
+    "name": "Mapokezi wazazi-watoto – Libellules",
+    "description": "Nafasi bure kwa watoto 0-4 na mtu mzima. Vernier.",
+    "target_audience": "Watoto 0-4 na mtu mzima",
+    "access_conditions": "Bure."
   }
 }

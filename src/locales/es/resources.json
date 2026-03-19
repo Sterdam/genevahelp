@@ -1528,5 +1528,47 @@
     "description": "Espacio de trueque gratuito en Vernier. Vajilla, adornos, juguetes, pequeña electrónica.",
     "target_audience": "Público en general",
     "access_conditions": "Gratuito, sin cita. Cerrado en vacaciones."
+  },
+  "r_0233": {
+    "name": "Cancer Support Switzerland",
+    "description": "Apoyo gratuito en inglés para personas afectadas por el cáncer. Asesoramiento, grupos, actividades de bienestar, apoyo al duelo y cuidadores.",
+    "target_audience": "Pacientes de cáncer, cuidadores, personas en duelo",
+    "access_conditions": "Gratuito. En inglés."
+  },
+  "r_0234": {
+    "name": "Acogida Padres-Niños – Avanchets",
+    "description": "Espacio gratuito para niños 0–4 con un adulto. Juegos, actividades, profesionales de primera infancia. Café y té gratis. Municipio de Vernier.",
+    "target_audience": "Niños 0–4 con adulto",
+    "access_conditions": "Gratuito, sin inscripción. Cerrado en vacaciones."
+  },
+  "r_0235": {
+    "name": "Acogida Padres-Niños – Châtelaine",
+    "description": "Espacio gratuito para niños 0–4 con un adulto. Juegos, actividades, profesionales de primera infancia. Café y té gratis. Municipio de Vernier.",
+    "target_audience": "Niños 0–4 con adulto",
+    "access_conditions": "Gratuito, sin inscripción. Cerrado en vacaciones."
+  },
+  "r_0236": {
+    "name": "Acogida Padres-Niños – Étang",
+    "description": "Espacio gratuito para niños 0–4 con un adulto. Juegos, actividades, profesionales de primera infancia. Café y té gratis. Municipio de Vernier.",
+    "target_audience": "Niños 0–4 con adulto",
+    "access_conditions": "Gratuito, sin inscripción. Cerrado en vacaciones."
+  },
+  "r_0237": {
+    "name": "Acogida Padres-Niños – Le Lignon",
+    "description": "Espacio gratuito para niños 0–4 con un adulto. Juegos, actividades, profesionales de primera infancia. Café y té gratis. Municipio de Vernier.",
+    "target_audience": "Niños 0–4 con adulto",
+    "access_conditions": "Gratuito, sin inscripción. Cerrado en vacaciones."
+  },
+  "r_0238": {
+    "name": "Acogida Padres-Niños – Vernier village",
+    "description": "Espacio gratuito para niños 0–4 con un adulto. Juegos, actividades, profesionales de primera infancia. Café y té gratis. Municipio de Vernier.",
+    "target_audience": "Niños 0–4 con adulto",
+    "access_conditions": "Gratuito, sin inscripción. Cerrado en vacaciones."
+  },
+  "r_0239": {
+    "name": "Acogida Padres-Niños – Libellules",
+    "description": "Espacio gratuito para niños 0–4 con un adulto. Juegos, actividades, profesionales de primera infancia. Café y té gratis. Municipio de Vernier.",
+    "target_audience": "Niños 0–4 con adulto",
+    "access_conditions": "Gratuito, sin inscripción. Cerrado en vacaciones."
   }
 }

@@ -1528,5 +1528,47 @@
     "description": "Spațiu de schimb gratuit în Vernier. Veselă, decorațiuni, jucării, electronică mică.",
     "target_audience": "Public general",
     "access_conditions": "Gratuit, fără programare. Închis în vacanțe."
+  },
+  "r_0233": {
+    "name": "Cancer Support Switzerland",
+    "description": "Sprijin gratuit în engleză pentru persoane afectate de cancer. Consiliere, grupuri, activități de bunăstare, sprijin doliu și îngrijitori.",
+    "target_audience": "Pacienți cu cancer, îngrijitori, persoane îndoliate",
+    "access_conditions": "Gratuit. În engleză."
+  },
+  "r_0234": {
+    "name": "Primire Părinți-Copii – Avanchets",
+    "description": "Spațiu gratuit pentru copii 0–4 cu adult. Jocuri, activități, profesioniști. Cafea și ceai gratuite. Vernier.",
+    "target_audience": "Copii 0–4 cu adult",
+    "access_conditions": "Gratuit, fără înscriere. Închis în vacanțe."
+  },
+  "r_0235": {
+    "name": "Primire Părinți-Copii – Châtelaine",
+    "description": "Spațiu gratuit pentru copii 0–4 cu adult. Jocuri, activități, profesioniști. Cafea și ceai gratuite. Vernier.",
+    "target_audience": "Copii 0–4 cu adult",
+    "access_conditions": "Gratuit, fără înscriere. Închis în vacanțe."
+  },
+  "r_0236": {
+    "name": "Primire Părinți-Copii – Étang",
+    "description": "Spațiu gratuit pentru copii 0–4 cu adult. Jocuri, activități, profesioniști. Cafea și ceai gratuite. Vernier.",
+    "target_audience": "Copii 0–4 cu adult",
+    "access_conditions": "Gratuit, fără înscriere. Închis în vacanțe."
+  },
+  "r_0237": {
+    "name": "Primire Părinți-Copii – Le Lignon",
+    "description": "Spațiu gratuit pentru copii 0–4 cu adult. Jocuri, activități, profesioniști. Cafea și ceai gratuite. Vernier.",
+    "target_audience": "Copii 0–4 cu adult",
+    "access_conditions": "Gratuit, fără înscriere. Închis în vacanțe."
+  },
+  "r_0238": {
+    "name": "Primire Părinți-Copii – Vernier village",
+    "description": "Spațiu gratuit pentru copii 0–4 cu adult. Jocuri, activități, profesioniști. Cafea și ceai gratuite. Vernier.",
+    "target_audience": "Copii 0–4 cu adult",
+    "access_conditions": "Gratuit, fără înscriere. Închis în vacanțe."
+  },
+  "r_0239": {
+    "name": "Primire Părinți-Copii – Libellules",
+    "description": "Spațiu gratuit pentru copii 0–4 cu adult. Jocuri, activități, profesioniști. Cafea și ceai gratuite. Vernier.",
+    "target_audience": "Copii 0–4 cu adult",
+    "access_conditions": "Gratuit, fără înscriere. Închis în vacanțe."
   }
 }

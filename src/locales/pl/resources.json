@@ -1528,5 +1528,47 @@
     "description": "Bezpłatna wymiana. Naczynia, zabawki, elektronika.",
     "target_audience": "Wszyscy",
     "access_conditions": "Bezpłatnie."
+  },
+  "r_0233": {
+    "name": "Cancer Support Switzerland",
+    "description": "Bezpłatne wsparcie po angielsku dla osób dotkniętych rakiem.",
+    "target_audience": "Pacjenci onkologiczni i bliscy",
+    "access_conditions": "Bezpłatnie. Po angielsku."
+  },
+  "r_0234": {
+    "name": "Spotkania rodzice-dzieci – Avanchets",
+    "description": "Bezpłatna przestrzeń dla dzieci 0-4 z dorosłym. Zabawy i specjaliści. Vernier.",
+    "target_audience": "Dzieci 0-4 z dorosłym",
+    "access_conditions": "Bezpłatnie, bez zapisów."
+  },
+  "r_0235": {
+    "name": "Spotkania rodzice-dzieci – Châtelaine",
+    "description": "Bezpłatna przestrzeń dla dzieci 0-4 z dorosłym. Zabawy i specjaliści. Vernier.",
+    "target_audience": "Dzieci 0-4 z dorosłym",
+    "access_conditions": "Bezpłatnie, bez zapisów."
+  },
+  "r_0236": {
+    "name": "Spotkania rodzice-dzieci – Étang",
+    "description": "Bezpłatna przestrzeń dla dzieci 0-4 z dorosłym. Zabawy i specjaliści. Vernier.",
+    "target_audience": "Dzieci 0-4 z dorosłym",
+    "access_conditions": "Bezpłatnie, bez zapisów."
+  },
+  "r_0237": {
+    "name": "Spotkania rodzice-dzieci – Le Lignon",
+    "description": "Bezpłatna przestrzeń dla dzieci 0-4 z dorosłym. Zabawy i specjaliści. Vernier.",
+    "target_audience": "Dzieci 0-4 z dorosłym",
+    "access_conditions": "Bezpłatnie, bez zapisów."
+  },
+  "r_0238": {
+    "name": "Spotkania rodzice-dzieci – Vernier village",
+    "description": "Bezpłatna przestrzeń dla dzieci 0-4 z dorosłym. Zabawy i specjaliści. Vernier.",
+    "target_audience": "Dzieci 0-4 z dorosłym",
+    "access_conditions": "Bezpłatnie, bez zapisów."
+  },
+  "r_0239": {
+    "name": "Spotkania rodzice-dzieci – Libellules",
+    "description": "Bezpłatna przestrzeń dla dzieci 0-4 z dorosłym. Zabawy i specjaliści. Vernier.",
+    "target_audience": "Dzieci 0-4 z dorosłym",
+    "access_conditions": "Bezpłatnie, bez zapisów."
   }
 }

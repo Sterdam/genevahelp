@@ -1528,5 +1528,47 @@
     "description": "Cihê guhertina belaş. Firaq, lîstik, elektronîk.",
     "target_audience": "Her kes",
     "access_conditions": "Belaş."
+  },
+  "r_0233": {
+    "name": "Cancer Support Switzerland",
+    "description": "Piştgiriya belaş bi Îngilîzî ji bo kesên bi penceşêrê.",
+    "target_audience": "Nexweşên penceşêrê",
+    "access_conditions": "Belaş. Bi Îngilîzî."
+  },
+  "r_0234": {
+    "name": "Pêşwaziya dêûbav-zarok – Avanchets",
+    "description": "Cihê belaş ji bo zarokên 0-4 bi mezinekî. Lîstik û pispor. Vernier.",
+    "target_audience": "Zarokên 0-4 bi mezinekî",
+    "access_conditions": "Belaş, bê tomarkirin."
+  },
+  "r_0235": {
+    "name": "Pêşwaziya dêûbav-zarok – Châtelaine",
+    "description": "Cihê belaş ji bo zarokên 0-4 bi mezinekî. Lîstik û pispor. Vernier.",
+    "target_audience": "Zarokên 0-4 bi mezinekî",
+    "access_conditions": "Belaş, bê tomarkirin."
+  },
+  "r_0236": {
+    "name": "Pêşwaziya dêûbav-zarok – Étang",
+    "description": "Cihê belaş ji bo zarokên 0-4 bi mezinekî. Lîstik û pispor. Vernier.",
+    "target_audience": "Zarokên 0-4 bi mezinekî",
+    "access_conditions": "Belaş, bê tomarkirin."
+  },
+  "r_0237": {
+    "name": "Pêşwaziya dêûbav-zarok – Le Lignon",
+    "description": "Cihê belaş ji bo zarokên 0-4 bi mezinekî. Lîstik û pispor. Vernier.",
+    "target_audience": "Zarokên 0-4 bi mezinekî",
+    "access_conditions": "Belaş, bê tomarkirin."
+  },
+  "r_0238": {
+    "name": "Pêşwaziya dêûbav-zarok – Vernier village",
+    "description": "Cihê belaş ji bo zarokên 0-4 bi mezinekî. Lîstik û pispor. Vernier.",
+    "target_audience": "Zarokên 0-4 bi mezinekî",
+    "access_conditions": "Belaş, bê tomarkirin."
+  },
+  "r_0239": {
+    "name": "Pêşwaziya dêûbav-zarok – Libellules",
+    "description": "Cihê belaş ji bo zarokên 0-4 bi mezinekî. Lîstik û pispor. Vernier.",
+    "target_audience": "Zarokên 0-4 bi mezinekî",
+    "access_conditions": "Belaş, bê tomarkirin."
   }
 }

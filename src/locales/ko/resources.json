@@ -1528,5 +1528,47 @@
     "description": "무료 교환. 식기·장난감·소형 전자기기.",
     "target_audience": "모든 분",
     "access_conditions": "무료."
+  },
+  "r_0233": {
+    "name": "Cancer Support Switzerland",
+    "description": "암 환자와 가족을 위한 영어 무료 지원。",
+    "target_audience": "암 환자와 가족",
+    "access_conditions": "무료. 영어."
+  },
+  "r_0234": {
+    "name": "부모-아이 만남 – Avanchets",
+    "description": "0-4세 아이와 성인을 위한 무료 공간. 놀이와 전문가. 베르니에.",
+    "target_audience": "0-4세 아이와 성인",
+    "access_conditions": "무료, 등록 불필요."
+  },
+  "r_0235": {
+    "name": "부모-아이 만남 – Châtelaine",
+    "description": "0-4세 아이와 성인을 위한 무료 공간. 놀이와 전문가. 베르니에.",
+    "target_audience": "0-4세 아이와 성인",
+    "access_conditions": "무료, 등록 불필요."
+  },
+  "r_0236": {
+    "name": "부모-아이 만남 – Étang",
+    "description": "0-4세 아이와 성인을 위한 무료 공간. 놀이와 전문가. 베르니에.",
+    "target_audience": "0-4세 아이와 성인",
+    "access_conditions": "무료, 등록 불필요."
+  },
+  "r_0237": {
+    "name": "부모-아이 만남 – Le Lignon",
+    "description": "0-4세 아이와 성인을 위한 무료 공간. 놀이와 전문가. 베르니에.",
+    "target_audience": "0-4세 아이와 성인",
+    "access_conditions": "무료, 등록 불필요."
+  },
+  "r_0238": {
+    "name": "부모-아이 만남 – Vernier village",
+    "description": "0-4세 아이와 성인을 위한 무료 공간. 놀이와 전문가. 베르니에.",
+    "target_audience": "0-4세 아이와 성인",
+    "access_conditions": "무료, 등록 불필요."
+  },
+  "r_0239": {
+    "name": "부모-아이 만남 – Libellules",
+    "description": "0-4세 아이와 성인을 위한 무료 공간. 놀이와 전문가. 베르니에.",
+    "target_audience": "0-4세 아이와 성인",
+    "access_conditions": "무료, 등록 불필요."
   }
 }

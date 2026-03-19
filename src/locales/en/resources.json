@@ -1528,5 +1528,47 @@
     "description": "Free swap space in Vernier. Exchange crockery, ornaments, toys and small electronics. Drop off and take freely.",
     "target_audience": "General public",
     "access_conditions": "Free, no appointment. Closed during school holidays."
+  },
+  "r_0233": {
+    "name": "Cancer Support Switzerland",
+    "description": "Free English-language support for anyone affected by cancer. Psychosocial counselling, support groups, wellbeing activities (yoga, art therapy, walking), bereavement and caregiver support. Online and in-person in Geneva.",
+    "target_audience": "Cancer patients, caregivers, bereaved",
+    "access_conditions": "Free. Services in English. Open to anyone affected by cancer."
+  },
+  "r_0234": {
+    "name": "Parent-Child Drop-in – Avanchets",
+    "description": "Free drop-in space for children aged 0–4 with an adult. Play, activities and exchanges with early childhood professionals. Free tea and coffee. Vernier municipality.",
+    "target_audience": "Children 0–4 with an adult",
+    "access_conditions": "Free, no registration. Adult stays with child. Closed during school holidays."
+  },
+  "r_0235": {
+    "name": "Parent-Child Drop-in – Châtelaine",
+    "description": "Free drop-in space for children aged 0–4 with an adult. Play, activities and exchanges with early childhood professionals. Free tea and coffee. Vernier municipality.",
+    "target_audience": "Children 0–4 with an adult",
+    "access_conditions": "Free, no registration. Adult stays with child. Closed during school holidays."
+  },
+  "r_0236": {
+    "name": "Parent-Child Drop-in – Étang",
+    "description": "Free drop-in space for children aged 0–4 with an adult. Play, activities and exchanges with early childhood professionals. Free tea and coffee. Vernier municipality.",
+    "target_audience": "Children 0–4 with an adult",
+    "access_conditions": "Free, no registration. Adult stays with child. Closed during school holidays."
+  },
+  "r_0237": {
+    "name": "Parent-Child Drop-in – Le Lignon",
+    "description": "Free drop-in space for children aged 0–4 with an adult. Play, activities and exchanges with early childhood professionals. Free tea and coffee. Vernier municipality.",
+    "target_audience": "Children 0–4 with an adult",
+    "access_conditions": "Free, no registration. Adult stays with child. Closed during school holidays."
+  },
+  "r_0238": {
+    "name": "Parent-Child Drop-in – Vernier village",
+    "description": "Free drop-in space for children aged 0–4 with an adult. Play, activities and exchanges with early childhood professionals. Free tea and coffee. Vernier municipality.",
+    "target_audience": "Children 0–4 with an adult",
+    "access_conditions": "Free, no registration. Adult stays with child. Closed during school holidays."
+  },
+  "r_0239": {
+    "name": "Parent-Child Drop-in – Libellules",
+    "description": "Free drop-in space for children aged 0–4 with an adult. Play, activities and exchanges with early childhood professionals. Free tea and coffee. Vernier municipality.",
+    "target_audience": "Children 0–4 with an adult",
+    "access_conditions": "Free, no registration. Adult stays with child. Closed during school holidays."
   }
 }

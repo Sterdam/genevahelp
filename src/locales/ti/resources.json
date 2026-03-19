@@ -1528,5 +1528,47 @@
     "description": "ነጻ ልውውጥ።",
     "target_audience": "ኩሉ",
     "access_conditions": "ነጻ።"
+  },
+  "r_0233": {
+    "name": "Cancer Support Switzerland",
+    "description": "ንካንሰር ሕሙማት ብእንግሊዝኛ ነጻ ደገፍ።",
+    "target_audience": "ካንሰር ሕሙማት",
+    "access_conditions": "ነጻ። ብእንግሊዝኛ።"
+  },
+  "r_0234": {
+    "name": "ናይ ወላዲ-ቆልዓ ኣቀባብላ – Avanchets",
+    "description": "ካብ 0-4 ዓመት ቆልዑ ምስ ዓቢ ነጻ ቦታ። ቨርንየ።",
+    "target_audience": "ካብ 0-4 ዓመት ቆልዑ ምስ ዓቢ",
+    "access_conditions": "ነጻ።"
+  },
+  "r_0235": {
+    "name": "ናይ ወላዲ-ቆልዓ ኣቀባብላ – Châtelaine",
+    "description": "ካብ 0-4 ዓመት ቆልዑ ምስ ዓቢ ነጻ ቦታ። ቨርንየ።",
+    "target_audience": "ካብ 0-4 ዓመት ቆልዑ ምስ ዓቢ",
+    "access_conditions": "ነጻ።"
+  },
+  "r_0236": {
+    "name": "ናይ ወላዲ-ቆልዓ ኣቀባብላ – Étang",
+    "description": "ካብ 0-4 ዓመት ቆልዑ ምስ ዓቢ ነጻ ቦታ። ቨርንየ።",
+    "target_audience": "ካብ 0-4 ዓመት ቆልዑ ምስ ዓቢ",
+    "access_conditions": "ነጻ።"
+  },
+  "r_0237": {
+    "name": "ናይ ወላዲ-ቆልዓ ኣቀባብላ – Le Lignon",
+    "description": "ካብ 0-4 ዓመት ቆልዑ ምስ ዓቢ ነጻ ቦታ። ቨርንየ።",
+    "target_audience": "ካብ 0-4 ዓመት ቆልዑ ምስ ዓቢ",
+    "access_conditions": "ነጻ።"
+  },
+  "r_0238": {
+    "name": "ናይ ወላዲ-ቆልዓ ኣቀባብላ – Vernier village",
+    "description": "ካብ 0-4 ዓመት ቆልዑ ምስ ዓቢ ነጻ ቦታ። ቨርንየ።",
+    "target_audience": "ካብ 0-4 ዓመት ቆልዑ ምስ ዓቢ",
+    "access_conditions": "ነጻ።"
+  },
+  "r_0239": {
+    "name": "ናይ ወላዲ-ቆልዓ ኣቀባብላ – Libellules",
+    "description": "ካብ 0-4 ዓመት ቆልዑ ምስ ዓቢ ነጻ ቦታ። ቨርንየ።",
+    "target_audience": "ካብ 0-4 ዓመት ቆልዑ ምስ ዓቢ",
+    "access_conditions": "ነጻ።"
   }
 }

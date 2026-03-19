@@ -1528,5 +1528,47 @@
     "description": "Kostenloser Tauschraum in Vernier. Geschirr, Deko, Spielzeug, kleine Elektronik tauschen.",
     "target_audience": "Allgemeine Öffentlichkeit",
     "access_conditions": "Kostenlos, ohne Termin. Geschlossen während Schulferien."
+  },
+  "r_0233": {
+    "name": "Cancer Support Switzerland",
+    "description": "Kostenlose Unterstützung auf Englisch für Krebsbetroffene. Psychosoziale Beratung, Gruppen, Wellness-Aktivitäten, Trauer- und Angehörigenunterstützung.",
+    "target_audience": "Krebspatienten, Angehörige, Trauernde",
+    "access_conditions": "Kostenlos. Auf Englisch. Für alle Krebsbetroffenen."
+  },
+  "r_0234": {
+    "name": "Eltern-Kind-Treff – Avanchets",
+    "description": "Kostenloser offener Raum für Kinder 0–4 mit Erwachsenem. Spiele, Aktivitäten, Fachleute der Frühförderung. Kaffee/Tee gratis. Gemeinde Vernier.",
+    "target_audience": "Kinder 0–4 mit Erwachsenem",
+    "access_conditions": "Kostenlos, ohne Anmeldung. Geschlossen in Schulferien."
+  },
+  "r_0235": {
+    "name": "Eltern-Kind-Treff – Châtelaine",
+    "description": "Kostenloser offener Raum für Kinder 0–4 mit Erwachsenem. Spiele, Aktivitäten, Fachleute der Frühförderung. Kaffee/Tee gratis. Gemeinde Vernier.",
+    "target_audience": "Kinder 0–4 mit Erwachsenem",
+    "access_conditions": "Kostenlos, ohne Anmeldung. Geschlossen in Schulferien."
+  },
+  "r_0236": {
+    "name": "Eltern-Kind-Treff – Étang",
+    "description": "Kostenloser offener Raum für Kinder 0–4 mit Erwachsenem. Spiele, Aktivitäten, Fachleute der Frühförderung. Kaffee/Tee gratis. Gemeinde Vernier.",
+    "target_audience": "Kinder 0–4 mit Erwachsenem",
+    "access_conditions": "Kostenlos, ohne Anmeldung. Geschlossen in Schulferien."
+  },
+  "r_0237": {
+    "name": "Eltern-Kind-Treff – Le Lignon",
+    "description": "Kostenloser offener Raum für Kinder 0–4 mit Erwachsenem. Spiele, Aktivitäten, Fachleute der Frühförderung. Kaffee/Tee gratis. Gemeinde Vernier.",
+    "target_audience": "Kinder 0–4 mit Erwachsenem",
+    "access_conditions": "Kostenlos, ohne Anmeldung. Geschlossen in Schulferien."
+  },
+  "r_0238": {
+    "name": "Eltern-Kind-Treff – Vernier village",
+    "description": "Kostenloser offener Raum für Kinder 0–4 mit Erwachsenem. Spiele, Aktivitäten, Fachleute der Frühförderung. Kaffee/Tee gratis. Gemeinde Vernier.",
+    "target_audience": "Kinder 0–4 mit Erwachsenem",
+    "access_conditions": "Kostenlos, ohne Anmeldung. Geschlossen in Schulferien."
+  },
+  "r_0239": {
+    "name": "Eltern-Kind-Treff – Libellules",
+    "description": "Kostenloser offener Raum für Kinder 0–4 mit Erwachsenem. Spiele, Aktivitäten, Fachleute der Frühförderung. Kaffee/Tee gratis. Gemeinde Vernier.",
+    "target_audience": "Kinder 0–4 mit Erwachsenem",
+    "access_conditions": "Kostenlos, ohne Anmeldung. Geschlossen in Schulferien."
   }
 }

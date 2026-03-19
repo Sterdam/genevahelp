@@ -1528,5 +1528,47 @@
     "description": "Shkëmbim falas. Enë, lodra, elektronikë.",
     "target_audience": "Të gjithë",
     "access_conditions": "Falas."
+  },
+  "r_0233": {
+    "name": "Cancer Support Switzerland",
+    "description": "Mbështetje falas në anglisht për të prekurit nga kanceri.",
+    "target_audience": "Pacientë onkologjikë dhe të afërm",
+    "access_conditions": "Falas. Në anglisht."
+  },
+  "r_0234": {
+    "name": "Pritje prindër-fëmijë – Avanchets",
+    "description": "Hapësirë falas për fëmijë 0-4 me të rritur. Lojëra dhe specialistë. Vernier.",
+    "target_audience": "Fëmijë 0-4 me të rritur",
+    "access_conditions": "Falas, pa regjistrim."
+  },
+  "r_0235": {
+    "name": "Pritje prindër-fëmijë – Châtelaine",
+    "description": "Hapësirë falas për fëmijë 0-4 me të rritur. Lojëra dhe specialistë. Vernier.",
+    "target_audience": "Fëmijë 0-4 me të rritur",
+    "access_conditions": "Falas, pa regjistrim."
+  },
+  "r_0236": {
+    "name": "Pritje prindër-fëmijë – Étang",
+    "description": "Hapësirë falas për fëmijë 0-4 me të rritur. Lojëra dhe specialistë. Vernier.",
+    "target_audience": "Fëmijë 0-4 me të rritur",
+    "access_conditions": "Falas, pa regjistrim."
+  },
+  "r_0237": {
+    "name": "Pritje prindër-fëmijë – Le Lignon",
+    "description": "Hapësirë falas për fëmijë 0-4 me të rritur. Lojëra dhe specialistë. Vernier.",
+    "target_audience": "Fëmijë 0-4 me të rritur",
+    "access_conditions": "Falas, pa regjistrim."
+  },
+  "r_0238": {
+    "name": "Pritje prindër-fëmijë – Vernier village",
+    "description": "Hapësirë falas për fëmijë 0-4 me të rritur. Lojëra dhe specialistë. Vernier.",
+    "target_audience": "Fëmijë 0-4 me të rritur",
+    "access_conditions": "Falas, pa regjistrim."
+  },
+  "r_0239": {
+    "name": "Pritje prindër-fëmijë – Libellules",
+    "description": "Hapësirë falas për fëmijë 0-4 me të rritur. Lojëra dhe specialistë. Vernier.",
+    "target_audience": "Fëmijë 0-4 me të rritur",
+    "access_conditions": "Falas, pa regjistrim."
   }
 }

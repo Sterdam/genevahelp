@@ -1528,5 +1528,47 @@
     "description": "Trao doi mien phi. Bat dia, do choi, dien tu nho.",
     "target_audience": "Tat ca",
     "access_conditions": "Mien phi."
+  },
+  "r_0233": {
+    "name": "Cancer Support Switzerland",
+    "description": "Ho tro mien phi bang tieng Anh cho nguoi bi ung thu.",
+    "target_audience": "Benh nhan ung thu va nguoi than",
+    "access_conditions": "Mien phi. Tieng Anh."
+  },
+  "r_0234": {
+    "name": "Tiep don phu huynh-tre em - Avanchets",
+    "description": "Khong gian mien phi cho tre 0-4 voi nguoi lon. Tro choi va chuyen gia. Vernier.",
+    "target_audience": "Tre 0-4 voi nguoi lon",
+    "access_conditions": "Mien phi, khong dang ky."
+  },
+  "r_0235": {
+    "name": "Tiep don phu huynh-tre em - Châtelaine",
+    "description": "Khong gian mien phi cho tre 0-4 voi nguoi lon. Tro choi va chuyen gia. Vernier.",
+    "target_audience": "Tre 0-4 voi nguoi lon",
+    "access_conditions": "Mien phi, khong dang ky."
+  },
+  "r_0236": {
+    "name": "Tiep don phu huynh-tre em - Étang",
+    "description": "Khong gian mien phi cho tre 0-4 voi nguoi lon. Tro choi va chuyen gia. Vernier.",
+    "target_audience": "Tre 0-4 voi nguoi lon",
+    "access_conditions": "Mien phi, khong dang ky."
+  },
+  "r_0237": {
+    "name": "Tiep don phu huynh-tre em - Le Lignon",
+    "description": "Khong gian mien phi cho tre 0-4 voi nguoi lon. Tro choi va chuyen gia. Vernier.",
+    "target_audience": "Tre 0-4 voi nguoi lon",
+    "access_conditions": "Mien phi, khong dang ky."
+  },
+  "r_0238": {
+    "name": "Tiep don phu huynh-tre em - Vernier village",
+    "description": "Khong gian mien phi cho tre 0-4 voi nguoi lon. Tro choi va chuyen gia. Vernier.",
+    "target_audience": "Tre 0-4 voi nguoi lon",
+    "access_conditions": "Mien phi, khong dang ky."
+  },
+  "r_0239": {
+    "name": "Tiep don phu huynh-tre em - Libellules",
+    "description": "Khong gian mien phi cho tre 0-4 voi nguoi lon. Tro choi va chuyen gia. Vernier.",
+    "target_audience": "Tre 0-4 voi nguoi lon",
+    "access_conditions": "Mien phi, khong dang ky."
   }
 }

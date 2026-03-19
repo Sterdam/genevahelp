@@ -1528,5 +1528,47 @@
     "description": "Ücretsiz takas. Tabak, oyuncak, küçük elektronik.",
     "target_audience": "Herkes",
     "access_conditions": "Ücretsiz, randevusuz."
+  },
+  "r_0233": {
+    "name": "Cancer Support Switzerland",
+    "description": "Kanser hastalarına İngilizce ücretsiz destek. Danışmanlık, gruplar, refah aktiviteleri.",
+    "target_audience": "Kanser hastaları ve yakınları",
+    "access_conditions": "Ücretsiz. İngilizce."
+  },
+  "r_0234": {
+    "name": "Ebeveyn-Çocuk Buluşması – Avanchets",
+    "description": "0-4 yaş çocuklar için ücretsiz alan. Oyunlar ve uzmanlarla aktiviteler. Vernier.",
+    "target_audience": "0-4 yaş çocuk ve ebeveyn",
+    "access_conditions": "Ücretsiz, kayıt gereksiz."
+  },
+  "r_0235": {
+    "name": "Ebeveyn-Çocuk Buluşması – Châtelaine",
+    "description": "0-4 yaş çocuklar için ücretsiz alan. Oyunlar ve uzmanlarla aktiviteler. Vernier.",
+    "target_audience": "0-4 yaş çocuk ve ebeveyn",
+    "access_conditions": "Ücretsiz, kayıt gereksiz."
+  },
+  "r_0236": {
+    "name": "Ebeveyn-Çocuk Buluşması – Étang",
+    "description": "0-4 yaş çocuklar için ücretsiz alan. Oyunlar ve uzmanlarla aktiviteler. Vernier.",
+    "target_audience": "0-4 yaş çocuk ve ebeveyn",
+    "access_conditions": "Ücretsiz, kayıt gereksiz."
+  },
+  "r_0237": {
+    "name": "Ebeveyn-Çocuk Buluşması – Le Lignon",
+    "description": "0-4 yaş çocuklar için ücretsiz alan. Oyunlar ve uzmanlarla aktiviteler. Vernier.",
+    "target_audience": "0-4 yaş çocuk ve ebeveyn",
+    "access_conditions": "Ücretsiz, kayıt gereksiz."
+  },
+  "r_0238": {
+    "name": "Ebeveyn-Çocuk Buluşması – Vernier village",
+    "description": "0-4 yaş çocuklar için ücretsiz alan. Oyunlar ve uzmanlarla aktiviteler. Vernier.",
+    "target_audience": "0-4 yaş çocuk ve ebeveyn",
+    "access_conditions": "Ücretsiz, kayıt gereksiz."
+  },
+  "r_0239": {
+    "name": "Ebeveyn-Çocuk Buluşması – Libellules",
+    "description": "0-4 yaş çocuklar için ücretsiz alan. Oyunlar ve uzmanlarla aktiviteler. Vernier.",
+    "target_audience": "0-4 yaş çocuk ve ebeveyn",
+    "access_conditions": "Ücretsiz, kayıt gereksiz."
   }
 }

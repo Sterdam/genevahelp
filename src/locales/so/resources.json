@@ -1528,5 +1528,47 @@
     "description": "Isweydaarsi bilaash.",
     "target_audience": "Qof walba",
     "access_conditions": "Bilaash."
+  },
+  "r_0233": {
+    "name": "Cancer Support Switzerland",
+    "description": "Taageero bilaash Ingiriis kansar.",
+    "target_audience": "Bukaanka kansar",
+    "access_conditions": "Bilaash. Ingiriis."
+  },
+  "r_0234": {
+    "name": "Soo dhaweyn waalid-carruur – Avanchets",
+    "description": "Goob bilaash carruur 0-4 oo waalid la socda. Vernier.",
+    "target_audience": "Carruur 0-4 oo waalid la socda",
+    "access_conditions": "Bilaash."
+  },
+  "r_0235": {
+    "name": "Soo dhaweyn waalid-carruur – Châtelaine",
+    "description": "Goob bilaash carruur 0-4 oo waalid la socda. Vernier.",
+    "target_audience": "Carruur 0-4 oo waalid la socda",
+    "access_conditions": "Bilaash."
+  },
+  "r_0236": {
+    "name": "Soo dhaweyn waalid-carruur – Étang",
+    "description": "Goob bilaash carruur 0-4 oo waalid la socda. Vernier.",
+    "target_audience": "Carruur 0-4 oo waalid la socda",
+    "access_conditions": "Bilaash."
+  },
+  "r_0237": {
+    "name": "Soo dhaweyn waalid-carruur – Le Lignon",
+    "description": "Goob bilaash carruur 0-4 oo waalid la socda. Vernier.",
+    "target_audience": "Carruur 0-4 oo waalid la socda",
+    "access_conditions": "Bilaash."
+  },
+  "r_0238": {
+    "name": "Soo dhaweyn waalid-carruur – Vernier village",
+    "description": "Goob bilaash carruur 0-4 oo waalid la socda. Vernier.",
+    "target_audience": "Carruur 0-4 oo waalid la socda",
+    "access_conditions": "Bilaash."
+  },
+  "r_0239": {
+    "name": "Soo dhaweyn waalid-carruur – Libellules",
+    "description": "Goob bilaash carruur 0-4 oo waalid la socda. Vernier.",
+    "target_audience": "Carruur 0-4 oo waalid la socda",
+    "access_conditions": "Bilaash."
   }
 }

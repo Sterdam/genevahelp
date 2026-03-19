@@ -1528,5 +1528,47 @@
     "description": "Spazio di scambio gratuito a Vernier. Stoviglie, soprammobili, giocattoli, piccola elettronica.",
     "target_audience": "Pubblico generico",
     "access_conditions": "Gratuito, senza appuntamento. Chiuso durante le vacanze."
+  },
+  "r_0233": {
+    "name": "Cancer Support Switzerland",
+    "description": "Supporto gratuito in inglese per persone colpite dal cancro. Consulenza, gruppi, attività benessere, supporto al lutto e ai caregiver.",
+    "target_audience": "Pazienti oncologici, caregiver, persone in lutto",
+    "access_conditions": "Gratuito. In inglese."
+  },
+  "r_0234": {
+    "name": "Accoglienza Genitori-Bambini – Avanchets",
+    "description": "Spazio gratuito per bambini 0–4 anni con un adulto. Giochi, attività, professionisti della prima infanzia. Caffè e tè gratuiti. Comune di Vernier.",
+    "target_audience": "Bambini 0–4 con adulto",
+    "access_conditions": "Gratuito, senza iscrizione. Chiuso durante le vacanze."
+  },
+  "r_0235": {
+    "name": "Accoglienza Genitori-Bambini – Châtelaine",
+    "description": "Spazio gratuito per bambini 0–4 anni con un adulto. Giochi, attività, professionisti della prima infanzia. Caffè e tè gratuiti. Comune di Vernier.",
+    "target_audience": "Bambini 0–4 con adulto",
+    "access_conditions": "Gratuito, senza iscrizione. Chiuso durante le vacanze."
+  },
+  "r_0236": {
+    "name": "Accoglienza Genitori-Bambini – Étang",
+    "description": "Spazio gratuito per bambini 0–4 anni con un adulto. Giochi, attività, professionisti della prima infanzia. Caffè e tè gratuiti. Comune di Vernier.",
+    "target_audience": "Bambini 0–4 con adulto",
+    "access_conditions": "Gratuito, senza iscrizione. Chiuso durante le vacanze."
+  },
+  "r_0237": {
+    "name": "Accoglienza Genitori-Bambini – Le Lignon",
+    "description": "Spazio gratuito per bambini 0–4 anni con un adulto. Giochi, attività, professionisti della prima infanzia. Caffè e tè gratuiti. Comune di Vernier.",
+    "target_audience": "Bambini 0–4 con adulto",
+    "access_conditions": "Gratuito, senza iscrizione. Chiuso durante le vacanze."
+  },
+  "r_0238": {
+    "name": "Accoglienza Genitori-Bambini – Vernier village",
+    "description": "Spazio gratuito per bambini 0–4 anni con un adulto. Giochi, attività, professionisti della prima infanzia. Caffè e tè gratuiti. Comune di Vernier.",
+    "target_audience": "Bambini 0–4 con adulto",
+    "access_conditions": "Gratuito, senza iscrizione. Chiuso durante le vacanze."
+  },
+  "r_0239": {
+    "name": "Accoglienza Genitori-Bambini – Libellules",
+    "description": "Spazio gratuito per bambini 0–4 anni con un adulto. Giochi, attività, professionisti della prima infanzia. Caffè e tè gratuiti. Comune di Vernier.",
+    "target_audience": "Bambini 0–4 con adulto",
+    "access_conditions": "Gratuito, senza iscrizione. Chiuso durante le vacanze."
   }
 }

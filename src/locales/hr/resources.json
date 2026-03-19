@@ -1528,5 +1528,47 @@
     "description": "Besplatan prostor za razmjenu. Posuđe, igračke, elektronika.",
     "target_audience": "Svi",
     "access_conditions": "Besplatno."
+  },
+  "r_0233": {
+    "name": "Cancer Support Switzerland",
+    "description": "Besplatna podrška na engleskom za oboljele od raka.",
+    "target_audience": "Onkološki pacijenti i bližnji",
+    "access_conditions": "Besplatno. Na engleskom."
+  },
+  "r_0234": {
+    "name": "Susreti roditelji-djeca – Avanchets",
+    "description": "Besplatan prostor za djecu 0-4 s odraslom osobom. Igre i stručnjaci. Vernier.",
+    "target_audience": "Djeca 0-4 s odraslom osobom",
+    "access_conditions": "Besplatno, bez prijave."
+  },
+  "r_0235": {
+    "name": "Susreti roditelji-djeca – Châtelaine",
+    "description": "Besplatan prostor za djecu 0-4 s odraslom osobom. Igre i stručnjaci. Vernier.",
+    "target_audience": "Djeca 0-4 s odraslom osobom",
+    "access_conditions": "Besplatno, bez prijave."
+  },
+  "r_0236": {
+    "name": "Susreti roditelji-djeca – Étang",
+    "description": "Besplatan prostor za djecu 0-4 s odraslom osobom. Igre i stručnjaci. Vernier.",
+    "target_audience": "Djeca 0-4 s odraslom osobom",
+    "access_conditions": "Besplatno, bez prijave."
+  },
+  "r_0237": {
+    "name": "Susreti roditelji-djeca – Le Lignon",
+    "description": "Besplatan prostor za djecu 0-4 s odraslom osobom. Igre i stručnjaci. Vernier.",
+    "target_audience": "Djeca 0-4 s odraslom osobom",
+    "access_conditions": "Besplatno, bez prijave."
+  },
+  "r_0238": {
+    "name": "Susreti roditelji-djeca – Vernier village",
+    "description": "Besplatan prostor za djecu 0-4 s odraslom osobom. Igre i stručnjaci. Vernier.",
+    "target_audience": "Djeca 0-4 s odraslom osobom",
+    "access_conditions": "Besplatno, bez prijave."
+  },
+  "r_0239": {
+    "name": "Susreti roditelji-djeca – Libellules",
+    "description": "Besplatan prostor za djecu 0-4 s odraslom osobom. Igre i stručnjaci. Vernier.",
+    "target_audience": "Djeca 0-4 s odraslom osobom",
+    "access_conditions": "Besplatno, bez prijave."
   }
 }
