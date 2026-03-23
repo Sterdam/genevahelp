@@ -1564,5 +1564,29 @@
     "description": "Espaço gratuito para crianças 0–4 com adulto. Jogos, atividades, profissionais de primeira infância. Café e chá gratuitos. Município de Vernier.",
     "target_audience": "Crianças 0–4 com adulto",
     "access_conditions": "Gratuito, sem inscrição. Fechado nas férias."
+  },
+  "r_0240": {
+    "name": "Oficinas criativas italianas para crianças (COMITES)",
+    "description": "Oficinas gratuitas de língua e cultura italiana para crianças 6–12, quartas. Abertas a todas as nacionalidades.",
+    "target_audience": "Crianças 6–12",
+    "access_conditions": "Gratuito."
+  },
+  "r_0241": {
+    "name": "Comitê dos Italianos no Exterior (COMITES) Genebra",
+    "description": "Representação da comunidade italiana em Genebra. Informações administrativas, integração. Gratuito.",
+    "target_audience": "Comunidade italiana",
+    "access_conditions": "Gratuito. Com marcação."
+  },
+  "r_0242": {
+    "name": "Point info Plainpalais (Cidade de Genebra)",
+    "description": "Serviço municipal gratuito de informação e orientação social.",
+    "target_audience": "Habitantes de Genebra",
+    "access_conditions": "Gratuito."
+  },
+  "r_0243": {
+    "name": "Point info Servette (Cidade de Genebra)",
+    "description": "Serviço municipal gratuito de informação e orientação social.",
+    "target_audience": "Habitantes de Genebra",
+    "access_conditions": "Gratuito."
   }
 }

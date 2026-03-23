@@ -1564,5 +1564,29 @@
     "description": "Espace d'accueil gratuit pour les enfants de 0 à 4 ans accompagnés d'un adulte. Jeux, activités variées et échanges avec des professionnels de la petite enfance. Cafés et thés offerts. Possibilité d'apporter son repas.",
     "target_audience": "Enfants de 0 à 4 ans accompagnés d'un adulte",
     "access_conditions": "Gratuit et sans inscription. L'adulte reste avec l'enfant. Fermé durant les vacances scolaires."
+  },
+  "r_0240": {
+    "name": "Ateliers créatifs italiens pour enfants (COMITES)",
+    "description": "Ateliers créatifs gratuits de langue et culture italienne pour enfants de 6 à 12 ans, tous les mercredis après-midi. Arts visuels, spectacle, littérature et technologie. Organisés par le Comité des Italiens à l'Étranger (COMITES) de Genève. Ouverts à toutes les nationalités.",
+    "target_audience": "Enfants de 6 à 12 ans",
+    "access_conditions": "Gratuit. Enfants de 6 à 12 ans, toutes nationalités."
+  },
+  "r_0241": {
+    "name": "Comité des Italiens à l'Étranger (COMITES) Genève",
+    "description": "Organisme de représentation de la communauté italienne à Genève. Informations administratives, aide à l'intégration, opportunités socioculturelles. Services gratuits pour la communauté italienne résidant hors d'Italie.",
+    "target_audience": "Communauté italienne résidant à Genève",
+    "access_conditions": "Gratuit. Sur rendez-vous."
+  },
+  "r_0242": {
+    "name": "Point info de Plainpalais (Ville de Genève)",
+    "description": "Service municipal gratuit d'information et d'orientation sociale. Appui ponctuel pour les démarches administratives. Ouvert à toute la population de la Ville de Genève.",
+    "target_audience": "Habitants de la Ville de Genève",
+    "access_conditions": "Gratuit et ouvert à tous les habitants de la Ville de Genève."
+  },
+  "r_0243": {
+    "name": "Point info de la Servette (Ville de Genève)",
+    "description": "Service municipal gratuit d'information et d'orientation sociale. Appui ponctuel pour les démarches administratives. Ouvert à toute la population de la Ville de Genève.",
+    "target_audience": "Habitants de la Ville de Genève",
+    "access_conditions": "Gratuit et ouvert à tous les habitants de la Ville de Genève."
   }
 }

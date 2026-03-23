@@ -1564,5 +1564,29 @@
     "description": "Espacio gratuito para niños 0–4 con un adulto. Juegos, actividades, profesionales de primera infancia. Café y té gratis. Municipio de Vernier.",
     "target_audience": "Niños 0–4 con adulto",
     "access_conditions": "Gratuito, sin inscripción. Cerrado en vacaciones."
+  },
+  "r_0240": {
+    "name": "Talleres creativos italianos para niños (COMITES)",
+    "description": "Talleres gratuitos de lengua y cultura italiana para niños 6–12, miércoles. Abierto a todas las nacionalidades.",
+    "target_audience": "Niños 6–12",
+    "access_conditions": "Gratuito."
+  },
+  "r_0241": {
+    "name": "Comité de Italianos en el Extranjero (COMITES) Ginebra",
+    "description": "Representación de la comunidad italiana en Ginebra. Información administrativa, integración. Gratuito.",
+    "target_audience": "Comunidad italiana",
+    "access_conditions": "Gratuito. Con cita."
+  },
+  "r_0242": {
+    "name": "Point info Plainpalais (Ciudad de Ginebra)",
+    "description": "Servicio municipal gratuito de información y orientación social.",
+    "target_audience": "Habitantes de Ginebra",
+    "access_conditions": "Gratuito."
+  },
+  "r_0243": {
+    "name": "Point info Servette (Ciudad de Ginebra)",
+    "description": "Servicio municipal gratuito de información y orientación social.",
+    "target_audience": "Habitantes de Ginebra",
+    "access_conditions": "Gratuito."
   }
 }

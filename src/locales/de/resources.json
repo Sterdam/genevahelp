@@ -1564,5 +1564,29 @@
     "description": "Kostenloser offener Raum für Kinder 0–4 mit Erwachsenem. Spiele, Aktivitäten, Fachleute der Frühförderung. Kaffee/Tee gratis. Gemeinde Vernier.",
     "target_audience": "Kinder 0–4 mit Erwachsenem",
     "access_conditions": "Kostenlos, ohne Anmeldung. Geschlossen in Schulferien."
+  },
+  "r_0240": {
+    "name": "Kreative Italienisch-Workshops für Kinder (COMITES)",
+    "description": "Kostenlose Workshops für italienische Sprache und Kultur, 6–12 Jahre, mittwochs. Offen für alle Nationalitäten.",
+    "target_audience": "Kinder 6–12",
+    "access_conditions": "Kostenlos."
+  },
+  "r_0241": {
+    "name": "Komitee der Italiener im Ausland (COMITES) Genf",
+    "description": "Vertretung der italienischen Gemeinschaft in Genf. Verwaltungsinfo, Integration, soziokulturelle Angebote. Kostenlos.",
+    "target_audience": "Italienische Gemeinschaft in Genf",
+    "access_conditions": "Kostenlos. Nach Vereinbarung."
+  },
+  "r_0242": {
+    "name": "Point info Plainpalais (Stadt Genf)",
+    "description": "Kostenloser städtischer Informations- und Sozialdienst. Unterstützung bei Verwaltungsverfahren.",
+    "target_audience": "Einwohner der Stadt Genf",
+    "access_conditions": "Kostenlos."
+  },
+  "r_0243": {
+    "name": "Point info Servette (Stadt Genf)",
+    "description": "Kostenloser städtischer Informations- und Sozialdienst. Unterstützung bei Verwaltungsverfahren.",
+    "target_audience": "Einwohner der Stadt Genf",
+    "access_conditions": "Kostenlos."
   }
 }

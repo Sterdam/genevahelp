@@ -320,3 +320,223 @@ L'equipe GenevaHelp
 
 ### Chat de Bla — Gouter conte
 **Note :** Gratuité non confirmee sur le site. Activite tres niche (conte 1x/mois). A verifier.
+
+
+## Batch 5 — Suggestions Meyrin + modifications (16 mars 2026)
+
+### EMAIL 1: Samiré BILALI (5 ressources acceptées)
+- **À:** samire.bilali@meyrin.ch
+- **Objet:** Vos 5 suggestions ont été intégrées à GeveMap — Merci !
+
+Madame Bilali,
+
+Un grand merci pour vos 5 suggestions de ressources meyrinoises, toutes ont été vérifiées et intégrées à GeveMap :
+
+- ✅ Chez Gilberte – la maison meyrinoise → intégrée
+- ✅ Ludothèque de Meyrin → intégrée
+- ✅ Bibliothèque du Forum Meyrin → intégrée
+- ✅ Baobab – Accueil sages-femmes → intégrée
+- ✅ Maison Vaudagne – Centre de loisirs de Meyrin → intégrée
+
+Chaque ressource est désormais disponible en 32 langues, visible sur la carte et accessible à tous les utilisateurs de GeveMap.
+
+Concernant L'Effet Papillon, nous n'avons malheureusement pas pu vérifier l'existence actuelle du programme de repas solidaires — l'association apparaît comme résiliée sur benevolatgeneve.ch depuis janvier 2022. Si le programme a repris, n'hésitez pas à nous envoyer des informations à jour et nous l'intégrerons avec plaisir.
+
+Merci pour votre contribution précieuse au réseau d'aide genevois !
+
+Cordialement,
+L'équipe GeveMap
+
+### EMAIL 2: Deirdre / Chat de Bla (rejet)
+- **À:** deirdre@chatdebla.com
+- **Objet:** Votre suggestion GeveMap — Goûter conté
+
+Madame,
+
+Merci pour votre suggestion concernant les Goûters contés à l'Espace de quartier des Pâquis.
+
+Après vérification, nous avons constaté qu'il s'agit d'un événement mensuel ponctuel (2ème mercredi du mois). GeveMap référence actuellement les services et ressources permanents d'aide sociale plutôt que les événements ponctuels.
+
+Votre initiative est néanmoins très appréciée ! Si Chat de Bla propose des services réguliers et permanents à Genève, n'hésitez pas à nous les soumettre.
+
+Cordialement,
+L'équipe GeveMap
+
+### EMAIL 3: Sophie Ortiz / Chaperon Rouge (modification appliquée)
+- **À:** s.ortiz@croix-rouge-ge.ch
+- **Objet:** Horaires Chaperon Rouge mis à jour sur GeveMap
+
+Madame Ortiz,
+
+Les horaires du secrétariat de Chaperon Rouge ont été mis à jour sur GeveMap comme demandé :
+- Lundi à jeudi : 7h30-12h / 13h-17h
+- Vendredi : 7h30-12h
+
+Merci pour votre vigilance !
+
+Cordialement,
+L'équipe GeveMap
+
+
+## Batch 6 — La Farce, BCAS, AGORA correction, Point Santé (17 mars 2026)
+
+### EMAIL 1: Lucien Rappaz / La Farce (acceptée)
+- **À:** coordination@lafarce.ch
+- **Objet:** Association La Farce intégrée à GeveMap
+
+Bonjour Lucien,
+
+Merci pour votre suggestion ! L'Association La Farce a été intégrée à GeveMap : épicerie gratuite pour étudiants les mercredis et jeudis, café libre les mardis, Route de Carouge 98.
+
+La ressource est désormais disponible en 32 langues et visible sur la carte.
+
+Cordialement,
+L'équipe GeveMap
+
+### EMAIL 2: Réception de Rive HG / AGORA correction (appliquée)
+- **À:** reception-rive@hospicegeneral.ch
+- **Objet:** Correction AGORA - Abri de nuit appliquée sur GeveMap
+
+Madame, Monsieur,
+
+Merci pour votre signalement. Nous avons bien noté que l'AGORA - Abri de nuit n'est pas un service de l'Hospice Général et que le numéro 022 420 52 00 correspond à votre réception de Rive.
+
+L'entrée erronée a été supprimée de notre carte. L'abri de nuit de la Ville de Genève (Abri PC Richemont) est correctement référencé avec le numéro d'accès 0800 22 22 10.
+
+Merci pour votre vigilance et veuillez nous excuser pour cette erreur.
+
+Cordialement,
+L'équipe GeveMap
+
+### EMAIL 3: Elise Blandenier / Point Santé (rejet)
+- **À:** elise.blandenier@reseau-delta.ch
+- **Objet:** Vos suggestions Point Santé sur GeveMap
+
+Madame Blandenier,
+
+Merci pour vos suggestions de Point Santé Onex et Point Santé Pâquis.
+
+Après vérification, nous avons constaté que les consultations sont facturées 40 CHF (gratuites uniquement pour les assurés OptiMed/Groupe Mutuel). GeveMap référence principalement les ressources gratuites ou à très faible coût accessibles à tous.
+
+Si le modèle tarifaire évolue vers un accès gratuit plus large, n'hésitez pas à nous recontacter.
+
+Cordialement,
+L'équipe GeveMap
+
+### EMAIL 4: Salima Gharbi / BCAS (5 services acceptés)
+- **À:** Salima.gharbi@bcas.ch
+- **Objet:** Les 5 services du BCAS intégrés à GeveMap — Merci !
+
+Madame Gharbi,
+
+Un grand merci pour les informations détaillées sur les services du BCAS ! Les 5 services ont été intégrés à GeveMap :
+
+- ✅ Service social (aide financière) → intégré
+- ✅ BICEPS – Soutien psychologique jeunes → intégré
+- ✅ SOS Enfants – Consultations psychologiques → intégré
+- ✅ Juris Conseil Junior (JCJ) – Permanence juridique → intégré
+- ✅ Fondation Champs-Fleuri – Fonds Jeunesse Santé → intégré
+
+Chaque service est désormais disponible en 32 langues, avec les coordonnées, horaires et conditions d'accès que vous nous avez transmis. Les antennes rive droite (Rue de Lyon 99) sont également mentionnées pour BICEPS et SOS Enfants.
+
+Merci infiniment pour cette contribution précieuse au réseau d'aide genevois !
+
+Cordialement,
+L'équipe GeveMap
+
+
+## Batch 7 — Vernier IT support, swaps, Groupe santé (17 mars 2026)
+
+### EMAIL 1: Inès Abdelli / Groupe santé Genève (accepté)
+- **À:** ines.abdelli@groupesante.ch
+- **Objet:** Programme "Je pense donc je bouge" intégré à GeveMap
+
+Bonjour Inès,
+
+Merci pour votre suggestion ! Le programme "Je pense donc je bouge" a été intégré à GeveMap : activités gratuites pour la santé mentale, sociale et physique (sport, musique, psychodrame, expression artistique).
+
+La ressource est disponible en 32 langues sur la carte.
+
+Cordialement,
+L'équipe GeveMap
+
+### EMAIL 2: Eliott Perret / Vernier (5 ressources acceptées + Troc-T-Trucs)
+- **À:** e.perret@vernier.ch
+- **Objet:** Vos 6 suggestions intégrées à GeveMap — Merci !
+
+Bonjour Eliott,
+
+Un grand merci pour vos 6 suggestions de ressources verniéroises ! Toutes ont été vérifiées et intégrées :
+
+- ✅ Permanence informatique d'Aïre-le-Lignon → intégrée
+- ✅ Permanence informatique de Châtelaine-Balexert → intégrée
+- ✅ Permanence informatique des Avanchets → intégrée
+- ✅ Libellules – Informatique pour tous → intégrée
+- ✅ Troc-T-Trucs → intégrée
+- ✅ La Boutik → intégrée
+
+Chaque ressource est disponible en 32 langues, visible sur la carte et accessible à tous les utilisateurs de GeveMap.
+
+Merci pour cette contribution précieuse au réseau d'aide genevois !
+
+Cordialement,
+L'équipe GeveMap
+
+
+## Batch 8 — Cancer Support + Accueils Adultes-Enfants Vernier (19 mars 2026)
+
+### EMAIL 1: Alana Dunsmore / Cancer Support Switzerland (accepté)
+- **À:** alana@cancersupport.ch
+- **Objet:** Cancer Support Switzerland integrated into GeveMap
+
+Dear Alana,
+
+Thank you for your suggestion! Cancer Support Switzerland has been integrated into GeveMap: free English-language psychosocial support, support groups, wellbeing activities, bereavement and caregiver support, at Chemin Auguste-Vilbert 14, Le Grand-Saconnex.
+
+The resource is now available in 32 languages and visible on the map.
+
+Best regards,
+The GeveMap team
+
+### EMAIL 2: Laure Bello / Vernier (6 espaces acceptés + 1 doublon)
+- **À:** l.bello@vernier.ch
+- **Objet:** Vos 7 suggestions Accueil Adultes-Enfants intégrées à GeveMap
+
+Madame Bello,
+
+Un grand merci pour vos suggestions des espaces Accueil Adultes-Enfants de Vernier ! 6 ont été intégrées à GeveMap :
+
+- ✅ Avanchets (mardi 14h-16h) → intégré
+- ✅ Châtelaine (vendredi 9h30-13h) → intégré
+- ✅ Étang (lundi 9h30-13h) → intégré
+- ✅ Le Lignon (jeudi 9h30-11h30) → intégré
+- ✅ Vernier village (mercredi 9h30-13h) → intégré
+- ✅ Libellules (mardi 9h30-13h) → intégré
+
+Note : la deuxième soumission « Accueil Adultes-Enfants Étang » (adresse Libellules, mardi 9h30) était un doublon de la soumission Libellules — elle a été écartée.
+
+Chaque espace est disponible en 32 langues sur la carte.
+
+Cordialement,
+L'équipe GeveMap
+
+
+## Corrections BCAS (23 mars 2026)
+
+### EMAIL: Salima Gharbi / BCAS (corrections appliquées)
+- **À:** Salima.gharbi@bcas.ch
+- **Objet:** Re: Corrections GeveMap — Modifications effectuées
+
+Madame Gharbi,
+
+Merci pour votre retour et celui de vos collègues. Toutes les modifications demandées ont été appliquées :
+
+- ✅ Fondation Champs-Fleuri → retirée
+- ✅ SOS Enfants → lien direct associé (bcas.ch/fr/notre-action/sos-enfants) + mention « groupes thérapeutiques » retirée
+- ✅ BICEPS → lien direct associé (bcas.ch/fr/notre-action/le-biceps)
+- ✅ Service social → lien direct associé (bcas.ch/fr/notre-action/service-social)
+
+Les modifications sont en ligne. N'hésitez pas si d'autres ajustements sont nécessaires.
+
+Cordialement,
+L'équipe GeveMap

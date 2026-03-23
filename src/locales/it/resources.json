@@ -1564,5 +1564,29 @@
     "description": "Spazio gratuito per bambini 0–4 anni con un adulto. Giochi, attività, professionisti della prima infanzia. Caffè e tè gratuiti. Comune di Vernier.",
     "target_audience": "Bambini 0–4 con adulto",
     "access_conditions": "Gratuito, senza iscrizione. Chiuso durante le vacanze."
+  },
+  "r_0240": {
+    "name": "Laboratori creativi italiani per bambini (COMITES)",
+    "description": "Laboratori creativi gratuiti di lingua e cultura italiana per bambini 6–12 anni, ogni mercoledì pomeriggio. Aperti a tutte le nazionalità.",
+    "target_audience": "Bambini 6–12 anni",
+    "access_conditions": "Gratuito."
+  },
+  "r_0241": {
+    "name": "Comitato degli Italiani all'Estero (COMITES) Ginevra",
+    "description": "Organismo di rappresentanza della comunità italiana a Ginevra. Informazioni amministrative, integrazione, opportunità socioculturali. Servizi gratuiti.",
+    "target_audience": "Comunità italiana a Ginevra",
+    "access_conditions": "Gratuito. Su appuntamento."
+  },
+  "r_0242": {
+    "name": "Point info Plainpalais (Città di Ginevra)",
+    "description": "Servizio municipale gratuito di informazione e orientamento sociale. Supporto per pratiche amministrative.",
+    "target_audience": "Abitanti di Ginevra",
+    "access_conditions": "Gratuito."
+  },
+  "r_0243": {
+    "name": "Point info Servette (Città di Ginevra)",
+    "description": "Servizio municipale gratuito di informazione e orientamento sociale. Supporto per pratiche amministrative.",
+    "target_audience": "Abitanti di Ginevra",
+    "access_conditions": "Gratuito."
   }
 }

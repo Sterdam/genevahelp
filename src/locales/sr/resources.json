@@ -1564,5 +1564,29 @@
     "description": "Бесплатан простор за децу 0-4 са одраслом особом. Игре и стручњаци. Верније.",
     "target_audience": "Деца 0-4 са одраслом особом",
     "access_conditions": "Бесплатно, без пријаве."
+  },
+  "r_0240": {
+    "name": "Creative Italian Workshops for Children (COMITES)",
+    "description": "Free creative Italian language and culture workshops for children aged 6–12, every Wednesday afternoon. Visual arts, performance, literature and technology. Open to all nationalities.",
+    "target_audience": "Children aged 6–12",
+    "access_conditions": "Free. Ages 6–12, all nationalities."
+  },
+  "r_0241": {
+    "name": "Committee of Italians Abroad (COMITES) Geneva",
+    "description": "Representation body for the Italian community in Geneva. Administrative information, integration support, sociocultural opportunities. Free services.",
+    "target_audience": "Italian community in Geneva",
+    "access_conditions": "Free. By appointment."
+  },
+  "r_0242": {
+    "name": "Point info Plainpalais (City of Geneva)",
+    "description": "Free municipal information and social orientation service. Support for administrative procedures. Open to all Geneva city residents.",
+    "target_audience": "Geneva city residents",
+    "access_conditions": "Free and open to all Geneva city residents."
+  },
+  "r_0243": {
+    "name": "Point info Servette (City of Geneva)",
+    "description": "Free municipal information and social orientation service. Support for administrative procedures. Open to all Geneva city residents.",
+    "target_audience": "Geneva city residents",
+    "access_conditions": "Free and open to all Geneva city residents."
   }
 }
