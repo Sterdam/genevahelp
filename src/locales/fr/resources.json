@@ -1471,7 +1471,7 @@
   },
   "r_0223": {
     "name": "SOS Enfants – Consultations psychologiques (BCAS)",
-    "description": "Service d'écoute, de soutien psychologique et d'appui éducatif gratuit pour les enfants, adolescents et leurs familles. Permanence téléphonique, orientation, entretiens ponctuels, prise en charge psychothérapeutique individuelle ou familiale, groupes thérapeutiques, appui éducatif pour les parents.",
+    "description": "Service d'écoute, de soutien psychologique et d'appui éducatif gratuit pour les enfants, adolescents et leurs familles. Permanence téléphonique, orientation, entretiens ponctuels, prise en charge psychothérapeutique individuelle ou familiale, appui éducatif pour les parents.",
     "target_audience": "Enfants, adolescents et leurs parents",
     "access_conditions": "Gratuit. Permanence téléphonique lundi, mardi et jeudi 9h-16h. Antenne rive droite : Rue de Lyon 99."
   },
@@ -1480,12 +1480,6 @@
     "description": "Permanence juridique téléphonique gratuite et confidentielle destinée aux jeunes et à leur entourage. Consultations assurées par des avocats bénévoles, brevetés et soumis au secret professionnel. Possibilité d'une première consultation gratuite en étude dans certains cas.",
     "target_audience": "Mineurs et jeunes jusqu'à 25 ans, proches et professionnels",
     "access_conditions": "Gratuit et confidentiel. Par téléphone les jours ouvrables de 9h à 17h."
-  },
-  "r_0225": {
-    "name": "Fondation Champs-Fleuri – Fonds Jeunesse Santé",
-    "description": "Aide financière destinée aux enfants et jeunes jusqu'à 18 ans nécessitant un soutien pour des frais liés à la santé ou au développement. Peut couvrir les soins dentaires, activités sportives, activités culturelles et camps de vacances.",
-    "target_audience": "Enfants et jeunes jusqu'à 18 ans",
-    "access_conditions": "Pour les enfants et jeunes jusqu'à 18 ans. Contacter le BCAS pour une demande."
   },
   "r_0226": {
     "name": "Je pense donc je bouge (Groupe santé Genève)",
