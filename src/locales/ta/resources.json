@@ -630,9 +630,10 @@
     "access_conditions": "Gratuit et confidentiel, avec ou sans rendez-vous"
   },
   "r_0128": {
-    "description": "Association d'accompagnement et d'autonomisation des femmes migrantes. Cours de français, ateliers d'intégration, consultations psychologiques et soutien communautaire.",
-    "target_audience": "Femmes migrantes et réfugiées",
-    "access_conditions": "Gratuit ou à coût symbolique, inscription requise pour les cours"
+    "name": "Appartenances-Genève",
+    "description": "குடியேறியவர்களுக்கான உளவியல் மற்றும் உளவியல் சிகிச்சை மையம். சமூக மொழிபெயர்ப்பாளர்களுடன் ஆலோசனை.",
+    "target_audience": "உளவியல் ஆதரவு தேவைப்படும் குடியேறியவர்கள்",
+    "access_conditions": "முன்பதிவு. மொழிபெயர்ப்பாளர்களுடன்."
   },
   "r_0129": {
     "description": "Soutien et accompagnement pour les femmes enceintes en difficulté. Écoute, aide matérielle (vêtements bébé, poussettes), conseils et orientation vers les services sociaux.",

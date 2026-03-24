@@ -630,9 +630,10 @@
     "access_conditions": "무료, 비밀 보장, 예약 유무 무관"
   },
   "r_0128": {
-    "description": "이주 여성의 동반 지원 및 자립 협회. 프랑스어 수업, 통합 워크숍, 심리 상담 및 커뮤니티 지원.",
-    "target_audience": "이주 여성 및 여성 난민",
-    "access_conditions": "무료 또는 상징적 비용, 수업 등록 필요"
+    "name": "Appartenances-Genève",
+    "description": "이민자를 위한 정신과 및 심리치료 센터. 커뮤니티 통역사와 함께 상담. 이주 경험과 관련 트라우마에 맞춘 치료.",
+    "target_audience": "정신과 지원이 필요한 이민자",
+    "access_conditions": "예약제. 통역사와 함께 상담."
   },
   "r_0129": {
     "description": "어려움을 겪는 임산부를 위한 지원 및 동반. 경청, 물질적 지원(아기 옷, 유모차), 자문 및 사회 서비스 안내.",

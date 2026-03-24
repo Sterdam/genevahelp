@@ -630,9 +630,10 @@
     "access_conditions": "Gratuito e confidenziale, con o senza appuntamento"
   },
   "r_0128": {
-    "description": "Associazione di accompagnamento e emancipazione delle donne migranti. Corsi di francese, laboratori di integrazione, consulenze psicologiche e sostegno comunitario.",
-    "target_audience": "Donne migranti e rifugiate",
-    "access_conditions": "Gratuito o a costo simbolico, iscrizione richiesta per i corsi"
+    "name": "Appartenances-Genève",
+    "description": "Centro di cure psichiatriche e psicoterapeutiche per persone immigrate. Consultazioni con interpreti comunitari. Presa in carico adattata ai percorsi migratori e ai traumi associati.",
+    "target_audience": "Persone immigrate che necessitano di supporto psichiatrico o psicoterapeutico",
+    "access_conditions": "Su appuntamento. Consultazioni con interpreti comunitari."
   },
   "r_0129": {
     "description": "Sostegno e accompagnamento per le donne in gravidanza in difficoltà. Ascolto, aiuto materiale (vestiti per neonati, passeggini), consigli e orientamento verso i servizi sociali.",

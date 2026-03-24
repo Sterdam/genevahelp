@@ -630,9 +630,10 @@
     "access_conditions": "Bure na wa siri, kwa miadi au bila miadi"
   },
   "r_0128": {
-    "description": "Chama cha usaidizi na uwezeshaji wa wanawake wahamiaji. Masomo ya Kifaransa, warsha za ujumuishaji, mashauriano ya kisaikolojia na msaada wa jamii.",
-    "target_audience": "Wanawake wahamiaji na wakimbizi",
-    "access_conditions": "Bure au bei ya ishara, usajili unahitajika kwa masomo"
+    "name": "Appartenances-Genève",
+    "description": "Kituo cha huduma ya akili na tiba ya kisaikolojia kwa wahamiaji. Ushauri na watafsiri wa jamii.",
+    "target_audience": "Wahamiaji wanaohitaji msaada wa akili",
+    "access_conditions": "Kwa miadi. Na watafsiri."
   },
   "r_0129": {
     "description": "Msaada na usaidizi kwa wanawake wajawazito walio katika matatizo. Kusikiliza, msaada wa vitu (nguo za mtoto, mikokoteni), ushauri na mwelekeo kwa huduma za kijamii.",

@@ -630,9 +630,10 @@
     "access_conditions": "Gratuito e confidencial, com ou sem agendamento"
   },
   "r_0128": {
-    "description": "Associacao de acompanhamento e empoderamento de mulheres migrantes. Aulas de frances, oficinas de integracao, consultas psicologicas e apoio comunitario.",
-    "target_audience": "Mulheres migrantes e refugiadas",
-    "access_conditions": "Gratuito ou a custo simbolico, inscricao necessaria para as aulas"
+    "name": "Appartenances-Genève",
+    "description": "Centro de cuidados psiquiátricos e psicoterapêuticos para pessoas imigrantes. Consultas com intérpretes comunitários. Cuidados adaptados aos percursos migratórios e traumas associados.",
+    "target_audience": "Pessoas imigrantes que necessitam de apoio psiquiátrico ou psicoterapêutico",
+    "access_conditions": "Com marcação. Consultas com intérpretes comunitários."
   },
   "r_0129": {
     "description": "Apoio e acompanhamento para gestantes em dificuldade. Escuta, ajuda material (roupas de bebe, carrinhos), orientacao e encaminhamento para servicos sociais.",

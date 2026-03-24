@@ -630,9 +630,10 @@
     "access_conditions": "Gratuit si confidential, cu sau fara programare"
   },
   "r_0128": {
-    "description": "Asociatie de insotire si autonomizare a femeilor migrante. Cursuri de franceza, ateliere de integrare, consultatii psihologice si sprijin comunitar.",
-    "target_audience": "Femei migrante si refugiate",
-    "access_conditions": "Gratuit sau la cost simbolic, inscriere necesara pentru cursuri"
+    "name": "Appartenances-Genève",
+    "description": "Centru de îngrijire psihiatrică și psihoterapeutică pentru imigranți. Consultații cu interpreți comunitari. Îngrijire adaptată experiențelor de migrație și traumelor asociate.",
+    "target_audience": "Imigranți care au nevoie de sprijin psihiatric",
+    "access_conditions": "Cu programare. Consultații cu interpreți comunitari."
   },
   "r_0129": {
     "description": "Sprijin si insotire pentru femeile insarcinate in dificultate. Ascultare, ajutor material (imbracaminte de bebelus, carucioare), sfaturi si orientare catre serviciile sociale.",

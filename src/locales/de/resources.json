@@ -630,9 +630,10 @@
     "access_conditions": "Kostenlos und vertraulich, mit oder ohne Termin"
   },
   "r_0128": {
-    "description": "Verein zur Begleitung und Ermächtigung von Migrantinnen. Französischkurse, Integrationsworkshops, psychologische Beratung und Gemeinschaftsunterstützung.",
-    "target_audience": "Migrantinnen und Flüchtlingsfrauen",
-    "access_conditions": "Kostenlos oder zu symbolischem Preis, Anmeldung für Kurse erforderlich"
+    "name": "Appartenances-Genève",
+    "description": "Psychiatrisches und psychotherapeutisches Behandlungszentrum für Migranten. Konsultationen mit Gemeinschaftsdolmetschern. Betreuung angepasst an Migrationserfahrungen und damit verbundene Traumata.",
+    "target_audience": "Migranten mit psychiatrischem oder psychotherapeutischem Unterstützungsbedarf",
+    "access_conditions": "Nach Vereinbarung. Konsultationen mit Gemeinschaftsdolmetschern."
   },
   "r_0129": {
     "description": "Unterstützung und Begleitung für schwangere Frauen in Schwierigkeiten. Zuhören, materielle Hilfe (Babykleidung, Kinderwagen), Beratung und Vermittlung an Sozialdienste.",

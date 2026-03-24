@@ -630,9 +630,10 @@
     "access_conditions": "Miễn phí và bảo mật, có hoặc không cần hẹn trước"
   },
   "r_0128": {
-    "description": "Hiệp hội đồng hành và trao quyền cho phụ nữ di cư. Lớp tiếng Pháp, hội thảo hội nhập, tư vấn tâm lý và hỗ trợ cộng đồng.",
-    "target_audience": "Phụ nữ di cư và tị nạn",
-    "access_conditions": "Miễn phí hoặc phí tượng trưng, cần đăng ký cho các khóa học"
+    "name": "Appartenances-Genève",
+    "description": "Trung tam cham soc tam than va tam ly tri lieu cho nguoi nhap cu. Tu van voi phien dich cong dong. Cham soc phu hop voi trai nghiem di cu.",
+    "target_audience": "Nguoi nhap cu can ho tro tam than",
+    "access_conditions": "Dat hen. Tu van voi phien dich."
   },
   "r_0129": {
     "description": "Hỗ trợ và đồng hành cho phụ nữ mang thai gặp khó khăn. Lắng nghe, hỗ trợ vật chất (quần áo em bé, xe đẩy), tư vấn và hướng dẫn đến dịch vụ xã hội.",

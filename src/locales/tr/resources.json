@@ -630,9 +630,10 @@
     "access_conditions": "Ücretsiz ve gizli, randevulu veya randevusuz"
   },
   "r_0128": {
-    "description": "Göçmen kadınlara destek ve güçlendirme derneği. Fransızca kursları, entegrasyon atölyeleri, psikolojik danışmanlık ve topluluk desteği.",
-    "target_audience": "Göçmen ve mülteci kadınlar",
-    "access_conditions": "Ücretsiz veya sembolik ücretli, kurslar için kayıt gerekli"
+    "name": "Appartenances-Genève",
+    "description": "Göçmenler için psikiyatrik ve psikoterapötik bakım merkezi. Toplum tercümanlarıyla konsültasyon. Göç deneyimlerine ve ilişkili travmalara uygun bakım.",
+    "target_audience": "Psikiyatrik veya psikoterapötik desteğe ihtiyaç duyan göçmenler",
+    "access_conditions": "Randevu ile. Toplum tercümanlarıyla konsültasyon."
   },
   "r_0129": {
     "description": "Zorluk yaşayan hamile kadınlara destek ve destek. Dinleme, maddi yardım (bebek giysileri, bebek arabası), danışmanlık ve sosyal hizmetlere yönlendirme.",

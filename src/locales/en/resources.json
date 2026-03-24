@@ -630,9 +630,10 @@
     "access_conditions": "Free and confidential, with or without appointment"
   },
   "r_0128": {
-    "description": "Association for the support and empowerment of migrant women. French courses, integration workshops, psychological consultations, and community support.",
-    "target_audience": "Migrant and refugee women",
-    "access_conditions": "Free or minimal cost, registration required for courses"
+    "name": "Appartenances-Genève",
+    "description": "Psychiatric and psychotherapeutic care centre for immigrants. Consultations with community interpreters. Care adapted to migration experiences and associated trauma.",
+    "target_audience": "Immigrants needing psychiatric or psychotherapeutic support",
+    "access_conditions": "By appointment. Consultations with community interpreters."
   },
   "r_0129": {
     "description": "Support and guidance for pregnant women in difficulty. Listening, material assistance (baby clothes, strollers), advice, and referrals to social services.",

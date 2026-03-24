@@ -630,9 +630,10 @@
     "access_conditions": "Belaş û nepenî, bi an bê randevû"
   },
   "r_0128": {
-    "description": "Komeleya alîkarî û serxwebûna jinên koçber. Dersên Fransizî, atolyeyên entegrasyonê, muayeneyên derûnî û piştgiriya civakî.",
-    "target_audience": "Jinên koçber û penaber",
-    "access_conditions": "Belaş an bi bihayê sembolîk, qeydkirin ji bo dersan pêwîst e"
+    "name": "Appartenances-Genève",
+    "description": "Navenda lênihêrîna derûnî û psîkoterapî ji bo koçberan. Şêwirmendî bi wergerên civakî. Lênihêrîna li gorî tecrûbeya koçberiyê.",
+    "target_audience": "Koçberên ku piştgiriya derûnî hewce dikin",
+    "access_conditions": "Bi randevû. Bi wergeran."
   },
   "r_0129": {
     "description": "Piştgirî û alîkarî ji bo jinên ducanî yên di tengasiyê de. Guhdarîkirin, alîkariya materyal (cilên pitikan, erebeyên pitikan), şêwirmendî û rêbername ber bi xizmetên civakî.",

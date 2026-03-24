@@ -630,9 +630,10 @@
     "access_conditions": "免费保密，可预约或直接来访"
   },
   "r_0128": {
-    "description": "为移民女性提供陪伴和赋能的协会。法语课程、融入工作坊、心理咨询和社区支持。",
-    "target_audience": "移民和难民女性",
-    "access_conditions": "免费或象征性收费，课程需注册"
+    "name": "Appartenances-Geneve",
+    "description": "为移民提供精神科和心理治疗护理的中心。配有社区口译员的咨询。针对移民经历和相关创伤的护理。",
+    "target_audience": "需要精神科支持的移民",
+    "access_conditions": "预约制。配有口译员。"
   },
   "r_0129": {
     "description": "为困难孕妇提供支持和陪伴。倾听、物资援助（婴儿服装、婴儿车）、咨询和转介至社会服务。",

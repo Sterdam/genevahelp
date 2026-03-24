@@ -630,9 +630,10 @@
     "access_conditions": "Bezpłatnie i poufnie, z lub bez umawiania się"
   },
   "r_0128": {
-    "description": "Stowarzyszenie wspierające i wzmacniające samodzielność kobiet-migrantek. Kursy francuskiego, warsztaty integracyjne, konsultacje psychologiczne i wsparcie społecznościowe.",
-    "target_audience": "Kobiety-migrantki i uchodźczynie",
-    "access_conditions": "Bezpłatnie lub za symboliczną opłatą, wymagany zapis na kursy"
+    "name": "Appartenances-Genève",
+    "description": "Centrum opieki psychiatrycznej i psychoterapeutycznej dla imigrantów. Konsultacje z tłumaczami społecznymi. Opieka dostosowana do doświadczeń migracyjnych i związanych traum.",
+    "target_audience": "Imigranci potrzebujący wsparcia psychiatrycznego",
+    "access_conditions": "Po umówieniu. Konsultacje z tłumaczami."
   },
   "r_0129": {
     "description": "Wsparcie i towarzyszenie kobietom w ciąży w trudnej sytuacji. Wysłuchanie, pomoc materialna (ubranka niemowlęce, wózki), porady i skierowania do służb socjalnych.",

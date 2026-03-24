@@ -630,9 +630,10 @@
     "access_conditions": "Bilaash oo sir ah, ballan ama ballan la'aan"
   },
   "r_0128": {
-    "description": "Ururka raacitaanka iyo xorriyadda haweenka soo galootiga ah. Koorsayaasha Faransiiska, casharrada is-dhexgalka, la-talinta nafsiyaadka iyo taageerada bulshada.",
-    "target_audience": "Haweenka soo galootiga ah iyo qaxootiga",
-    "access_conditions": "Bilaash ama qiimo calaamad, diiwaangelinta koorsayaasha loo baahan yahay"
+    "name": "Appartenances-Genève",
+    "description": "Xarun daryeel caafimaad maskaxda iyo daweyn nafsi ee soo galootiga. La-talin turjumaano bulshada.",
+    "target_audience": "Soo galootiga u baahan taageerada maskaxda",
+    "access_conditions": "Ballanqaad. Turjumaano."
   },
   "r_0129": {
     "description": "Taageero iyo raacitaan haweenka uurka leh ee dhibaatada ku jira. Dhageysi, caawinta shayga (dharka ilmaha, gaari-riixeed), talo iyo hagitaanka adeegyada bulshada.",

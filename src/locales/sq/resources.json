@@ -630,9 +630,10 @@
     "access_conditions": "Falas dhe konfidencial, me ose pa takim"
   },
   "r_0128": {
-    "description": "Shoqatë shoqërimi dhe autonomizimi të grave migrante. Kurse frëngjishteje, punëtori integrimi, konsultime psikologjike dhe mbështetje komunitare.",
-    "target_audience": "Gra migrante dhe refugjate",
-    "access_conditions": "Falas ose me kosto simbolike, regjistrim i kërkuar për kurset"
+    "name": "Appartenances-Genève",
+    "description": "Qendër e kujdesit psikiatrik dhe psikoterapeutik për imigrantë. Konsultime me interpretë komunitarë. Kujdes i përshtatur për përvojat e migracionit.",
+    "target_audience": "Imigrantë që kanë nevojë për mbështetje psikiatrike",
+    "access_conditions": "Me takim. Konsultime me interpretë."
   },
   "r_0129": {
     "description": "Mbështetje dhe shoqërim për gratë shtatzëna në vështirësi. Dëgjim, ndihmë materiale (veshje bebeje, karroca), këshilla dhe orientim drejt shërbimeve sociale.",

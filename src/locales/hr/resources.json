@@ -630,9 +630,10 @@
     "access_conditions": "Besplatno i povjerljivo, uz ili bez narudžbe"
   },
   "r_0128": {
-    "description": "Udruga za podršku i osnaživanje migrantica. Tečajevi francuskog, radionice za integraciju, psihološka savjetovanja i zajednička podrška.",
-    "target_audience": "Migrantice i izbjeglice",
-    "access_conditions": "Besplatno ili uz simboličnu cijenu, potrebna prijava za tečajeve"
+    "name": "Appartenances-Genève",
+    "description": "Centar za psihijatrijsku i psihoterapijsku skrb za imigrante. Konzultacije s tumačima. Skrb prilagođena migracijskim iskustvima i povezanim traumama.",
+    "target_audience": "Imigranti koji trebaju psihijatrijsku podršku",
+    "access_conditions": "Uz dogovor. Konzultacije s tumačima."
   },
   "r_0129": {
     "description": "Podrška i pratnja trudnicama u poteškoćama. Slušanje, materijalna pomoć (odjeća za bebe, kolica), savjeti i usmjeravanje prema socijalnim službama.",
