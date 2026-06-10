@@ -13,8 +13,8 @@
   "search": {
     "placeholder": "Raadi adeeg...",
     "noResults": "Natiijo lama helin",
-    "resultsCount": "{{count}} adeeg la helay",
-    "resultsCount_plural": "{{count}} adeeg la helay",
+    "resultsCount_one": "{{count}} adeeg la helay",
+    "resultsCount_other": "{{count}} adeeg la helay",
     "noResultsHint": "Isku day inaad hagaajiso raadintaada ama shaandhaynta"
   },
   "filters": {
@@ -22,8 +22,8 @@
     "openNow": "Hadda furan",
     "wheelchair": "Kursiga curyaanka loo mari karo",
     "nearby": "Kuwa dhow",
-    "activeCount": "{{count}} shaandhayn",
-    "activeCount_plural": "{{count}} shaandhayn"
+    "activeCount_one": "{{count}} shaandhayn",
+    "activeCount_other": "{{count}} shaandhayn"
   },
   "categories": {
     "food": "Cunto",

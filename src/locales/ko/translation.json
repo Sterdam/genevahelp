@@ -13,8 +13,8 @@
   "search": {
     "placeholder": "자원 검색...",
     "noResults": "검색 결과가 없습니다",
-    "resultsCount": "{{count}}개의 자원을 찾았습니다",
-    "resultsCount_plural": "{{count}}개의 자원을 찾았습니다",
+    "resultsCount_one": "{{count}}개의 자원을 찾았습니다",
+    "resultsCount_other": "{{count}}개의 자원을 찾았습니다",
     "noResultsHint": "검색어나 필터를 조정해 보세요"
   },
   "filters": {
@@ -22,8 +22,8 @@
     "openNow": "현재 운영 중",
     "wheelchair": "휠체어 이용 가능",
     "nearby": "가까운 곳",
-    "activeCount": "{{count}} 필터",
-    "activeCount_plural": "{{count}} 필터"
+    "activeCount_one": "{{count}} 필터",
+    "activeCount_other": "{{count}} 필터"
   },
   "categories": {
     "food": "식료품",

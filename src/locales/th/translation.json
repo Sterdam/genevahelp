@@ -13,8 +13,8 @@
   "search": {
     "placeholder": "ค้นหาทรัพยากร...",
     "noResults": "ไม่พบผลลัพธ์",
-    "resultsCount": "พบ {{count}} ทรัพยากร",
-    "resultsCount_plural": "พบ {{count}} ทรัพยากร",
+    "resultsCount_one": "พบ {{count}} ทรัพยากร",
+    "resultsCount_other": "พบ {{count}} ทรัพยากร",
     "noResultsHint": "ลองปรับการค้นหาหรือตัวกรองของคุณ"
   },
   "filters": {
@@ -22,8 +22,8 @@
     "openNow": "เปิดอยู่ตอนนี้",
     "wheelchair": "รองรับวีลแชร์",
     "nearby": "ใกล้เคียง",
-    "activeCount": "{{count}} ตัวกรอง",
-    "activeCount_plural": "{{count}} ตัวกรอง"
+    "activeCount_one": "{{count}} ตัวกรอง",
+    "activeCount_other": "{{count}} ตัวกรอง"
   },
   "categories": {
     "food": "อาหาร",

@@ -13,8 +13,8 @@
   "search": {
     "placeholder": "وسائل تلاش کریں...",
     "noResults": "کوئی نتائج نہیں ملے",
-    "resultsCount": "{{count}} وسیلہ ملا",
-    "resultsCount_plural": "{{count}} وسائل ملے",
+    "resultsCount_one": "{{count}} وسیلہ ملا",
+    "resultsCount_other": "{{count}} وسائل ملے",
     "noResultsHint": "اپنی تلاش یا فلٹرز کو ایڈجسٹ کریں"
   },
   "filters": {
@@ -22,8 +22,8 @@
     "openNow": "ابھی کھلا ہے",
     "wheelchair": "وہیل چیئر قابل رسائی",
     "nearby": "قریب",
-    "activeCount": "{{count}} فلٹر",
-    "activeCount_plural": "{{count}} فلٹرز"
+    "activeCount_one": "{{count}} فلٹر",
+    "activeCount_other": "{{count}} فلٹرز"
   },
   "categories": {
     "food": "خوراک",

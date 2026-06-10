@@ -13,8 +13,8 @@
   "search": {
     "placeholder": "Kaynak ara...",
     "noResults": "Sonuç bulunamadı",
-    "resultsCount": "{{count}} kaynak bulundu",
-    "resultsCount_plural": "{{count}} kaynak bulundu",
+    "resultsCount_one": "{{count}} kaynak bulundu",
+    "resultsCount_other": "{{count}} kaynak bulundu",
     "noResultsHint": "Aramanızı veya filtrelerinizi değiştirmeyi deneyin"
   },
   "filters": {
@@ -22,8 +22,8 @@
     "openNow": "Şu an açık",
     "wheelchair": "Engelli erişimine uygun",
     "nearby": "Yakınımda",
-    "activeCount": "{{count}} filtre",
-    "activeCount_plural": "{{count}} filtre"
+    "activeCount_one": "{{count}} filtre",
+    "activeCount_other": "{{count}} filtre"
   },
   "categories": {
     "food": "Gıda",

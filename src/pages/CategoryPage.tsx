@@ -42,14 +42,14 @@ export function CategoryPage() {
   const emoji = CATEGORY_EMOJI[category]
   const url = canonicalUrl(`/category/${category}`)
 
-  const jsonLd = useMemo(() => [
+  const jsonLd = [
     buildCategoryJsonLd(category, seo.titleEn, categoryResources),
     buildBreadcrumbJsonLd([
       { name: 'GenevaHelp', url: canonicalUrl('/') },
       { name: seo.titleEn, url },
     ]),
     ...(seo.faqs ? [buildFaqJsonLd(seo.faqs)] : []),
-  ], [category, categoryResources, seo, url])
+  ]
 
   const handleSelect = () => {}
 

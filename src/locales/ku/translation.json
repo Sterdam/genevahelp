@@ -13,8 +13,8 @@
   "search": {
     "placeholder": "Li çavkaniyekê bigere...",
     "noResults": "Encam nehate dîtin",
-    "resultsCount": "{{count}} çavkanî hate dîtin",
-    "resultsCount_plural": "{{count}} çavkanî hatin dîtin",
+    "resultsCount_one": "{{count}} çavkanî hate dîtin",
+    "resultsCount_other": "{{count}} çavkanî hatin dîtin",
     "noResultsHint": "Hewl bidin lêgerîn an fîlterên xwe rast bikin"
   },
   "filters": {
@@ -22,8 +22,8 @@
     "openNow": "Niha vekirî ye",
     "wheelchair": "Ji bo ereba seqetan guncaw",
     "nearby": "Li nêzîk",
-    "activeCount": "{{count}} fîlter",
-    "activeCount_plural": "{{count}} fîlter"
+    "activeCount_one": "{{count}} fîlter",
+    "activeCount_other": "{{count}} fîlter"
   },
   "categories": {
     "food": "Xwarin",

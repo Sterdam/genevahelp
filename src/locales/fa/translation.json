@@ -13,8 +13,8 @@
   "search": {
     "placeholder": "جستجوی منبع...",
     "noResults": "نتیجه‌ای یافت نشد",
-    "resultsCount": "{{count}} منبع یافت شد",
-    "resultsCount_plural": "{{count}} منبع یافت شد",
+    "resultsCount_one": "{{count}} منبع یافت شد",
+    "resultsCount_other": "{{count}} منبع یافت شد",
     "noResultsHint": "جستجو یا فیلترهای خود را تنظیم کنید"
   },
   "filters": {
@@ -22,8 +22,8 @@
     "openNow": "اکنون باز است",
     "wheelchair": "دسترسی با ویلچر",
     "nearby": "نزدیک",
-    "activeCount": "{{count}} فیلتر",
-    "activeCount_plural": "{{count}} فیلتر"
+    "activeCount_one": "{{count}} فیلتر",
+    "activeCount_other": "{{count}} فیلتر"
   },
   "categories": {
     "food": "غذا",

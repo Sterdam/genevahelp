@@ -103,6 +103,15 @@ export const languages = [
   { code: 'zh', name: '中文', flag: '🇨🇳' },
 ] as const
 
+export const RTL_LANGUAGES = ['ar', 'fa', 'ur']
+
+function applyDocumentDirection(lng: string) {
+  document.documentElement.lang = lng
+  document.documentElement.dir = RTL_LANGUAGES.includes(lng) ? 'rtl' : 'ltr'
+}
+
+i18n.on('languageChanged', applyDocumentDirection)
+
 i18n
   .use(LanguageDetector)
   .use(initReactI18next)

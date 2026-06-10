@@ -13,8 +13,8 @@
   "search": {
     "placeholder": "সম্পদ অনুসন্ধান করুন...",
     "noResults": "কোনো ফলাফল পাওয়া যায়নি",
-    "resultsCount": "{{count}}টি সম্পদ পাওয়া গেছে",
-    "resultsCount_plural": "{{count}}টি সম্পদ পাওয়া গেছে",
+    "resultsCount_one": "{{count}}টি সম্পদ পাওয়া গেছে",
+    "resultsCount_other": "{{count}}টি সম্পদ পাওয়া গেছে",
     "noResultsHint": "আপনার অনুসন্ধান বা ফিল্টার পরিবর্তন করে দেখুন"
   },
   "filters": {
@@ -22,8 +22,8 @@
     "openNow": "এখন খোলা",
     "wheelchair": "হুইলচেয়ার প্রবেশযোগ্য",
     "nearby": "কাছাকাছি",
-    "activeCount": "{{count}} ফিল্টার",
-    "activeCount_plural": "{{count}} ফিল্টার"
+    "activeCount_one": "{{count}} ফিল্টার",
+    "activeCount_other": "{{count}} ফিল্টার"
   },
   "categories": {
     "food": "খাদ্য",

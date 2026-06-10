@@ -2,6 +2,7 @@ import { useTranslation } from 'react-i18next'
 import { Link } from 'react-router-dom'
 import { MapPin, CheckCircle, Users, ExternalLink } from 'lucide-react'
 import { CATEGORY_CONFIG } from '../../lib/constants'
+import { isOpenNow } from '../../lib/opening-hours'
 import { resourceSlug } from '../../lib/seo-utils'
 import type { Resource } from '../../lib/types'
 import { formatDistance } from '../../hooks/useGeolocation'
@@ -16,16 +17,17 @@ export function ResourceCard({ resource, isSelected, onClick }: ResourceCardProp
   const { t } = useTranslation()
   const config = CATEGORY_CONFIG[resource.category]
   const Icon = config.icon
+  const openNow = isOpenNow(resource.opening_hours)
 
   return (
     <button
       onClick={onClick}
-      className={`w-full text-left p-3 rounded-xl border border-l-[3px] transition-all duration-150 active:scale-[0.98] active:bg-gray-50 ${
+      className={`w-full text-start p-3 rounded-xl border border-s-[3px] transition-all duration-150 active:scale-[0.98] active:bg-gray-50 ${
         isSelected
           ? 'border-blue-500 bg-blue-50 shadow-sm'
           : 'border-gray-200 bg-white hover:border-gray-300 hover:shadow-sm'
       }`}
-      style={{ borderLeftColor: config.color }}
+      style={{ borderInlineStartColor: config.color }}
     >
       <div className="flex items-start gap-3">
         <div
@@ -70,6 +72,21 @@ export function ResourceCard({ resource, isSelected, onClick }: ResourceCardProp
               {t(`categories.${resource.category}`)}
             </span>
 
+            {openNow != null && (
+              <span
+                className={`inline-flex items-center gap-1 font-medium ${
+                  openNow ? 'text-green-600' : 'text-gray-400'
+                }`}
+              >
+                <span
+                  className={`w-1.5 h-1.5 rounded-full ${
+                    openNow ? 'bg-green-500' : 'bg-gray-300'
+                  }`}
+                />
+                {openNow ? t('resource.open') : t('resource.closed')}
+              </span>
+            )}
+
             {resource._distance == null && isFinite(resource.latitude) && (
               <span className="inline-flex items-center gap-1">
                 <MapPin size={12} />
@@ -80,7 +97,7 @@ export function ResourceCard({ resource, isSelected, onClick }: ResourceCardProp
             <Link
               to={`/resource/${resourceSlug(resource)}`}
               onClick={(e) => e.stopPropagation()}
-              className="ml-auto inline-flex items-center gap-1 text-gray-300 hover:text-blue-500 transition-colors"
+              className="ms-auto inline-flex items-center gap-1 p-1.5 -m-1.5 text-gray-300 hover:text-blue-500 transition-colors"
               title={t('resource.viewPage')}
             >
               <ExternalLink size={12} />

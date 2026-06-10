@@ -13,17 +13,19 @@
   "search": {
     "placeholder": "Pesquisar um recurso...",
     "noResults": "Nenhum resultado encontrado",
-    "resultsCount": "{{count}} recurso encontrado",
-    "resultsCount_plural": "{{count}} recursos encontrados",
-    "noResultsHint": "Tente ajustar a sua pesquisa ou filtros"
+    "resultsCount_one": "{{count}} recurso encontrado",
+    "resultsCount_other": "{{count}} recursos encontrados",
+    "noResultsHint": "Tente ajustar a sua pesquisa ou filtros",
+    "resultsCount_many": "{{count}} recursos encontrados"
   },
   "filters": {
     "allCategories": "Todos",
     "openNow": "Aberto agora",
     "wheelchair": "Acessível para cadeira de rodas",
     "nearby": "Nas proximidades",
-    "activeCount": "{{count}} filtro",
-    "activeCount_plural": "{{count}} filtros"
+    "activeCount_one": "{{count}} filtro",
+    "activeCount_other": "{{count}} filtros",
+    "activeCount_many": "{{count}} filtros"
   },
   "resource": {
     "address": "Endereço",

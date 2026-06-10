@@ -13,8 +13,8 @@
   "search": {
     "placeholder": "ஒரு வளத்தைத் தேடு...",
     "noResults": "முடிவுகள் எதுவும் கிடைக்கவில்லை",
-    "resultsCount": "{{count}} வளம் கிடைத்தது",
-    "resultsCount_plural": "{{count}} வளங்கள் கிடைத்தன",
+    "resultsCount_one": "{{count}} வளம் கிடைத்தது",
+    "resultsCount_other": "{{count}} வளங்கள் கிடைத்தன",
     "noResultsHint": "உங்கள் தேடலை அல்லது வடிகட்டிகளை மாற்றி முயற்சிக்கவும்"
   },
   "filters": {
@@ -22,8 +22,8 @@
     "openNow": "இப்போது திறந்துள்ளது",
     "wheelchair": "சக்கர நாற்காலி அணுகல்",
     "nearby": "அருகில்",
-    "activeCount": "{{count}} வடிகட்டி",
-    "activeCount_plural": "{{count}} வடிகட்டிகள்"
+    "activeCount_one": "{{count}} வடிகட்டி",
+    "activeCount_other": "{{count}} வடிகட்டிகள்"
   },
   "categories": {
     "food": "உணவு",

@@ -13,17 +13,21 @@
   "search": {
     "placeholder": "Пошук ресурсу...",
     "noResults": "Нічого не знайдено",
-    "resultsCount": "{{count}} ресурс знайдено",
-    "resultsCount_plural": "{{count}} ресурсів знайдено",
-    "noResultsHint": "Спробуйте змінити пошук або фільтри"
+    "resultsCount_one": "{{count}} ресурс знайдено",
+    "resultsCount_other": "{{count}} ресурсів знайдено",
+    "noResultsHint": "Спробуйте змінити пошук або фільтри",
+    "resultsCount_few": "{{count}} ресурси знайдено",
+    "resultsCount_many": "{{count}} ресурсів знайдено"
   },
   "filters": {
     "allCategories": "Усі",
     "openNow": "Відчинено зараз",
     "wheelchair": "Доступно для інвалідних візків",
     "nearby": "Поруч",
-    "activeCount": "{{count}} фільтр",
-    "activeCount_plural": "{{count}} фільтрів"
+    "activeCount_one": "{{count}} фільтр",
+    "activeCount_other": "{{count}} фільтрів",
+    "activeCount_few": "{{count}} фільтри",
+    "activeCount_many": "{{count}} фільтрів"
   },
   "categories": {
     "food": "Харчування",

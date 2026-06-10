@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Flag, Send, X } from 'lucide-react'
 import { addReport, REPORT_REASONS } from '../../lib/reports'
-import { useToast } from '../ui/Toast'
+import { useToast } from '../../hooks/useToast'
 import type { ReportReason } from '../../lib/types'
 
 interface ReportButtonProps {
@@ -58,7 +58,7 @@ export function ReportButton({ resourceId, resourceName }: ReportButtonProps) {
           <button
             key={r.value}
             onClick={() => setReason(r.value)}
-            className={`text-xs px-2.5 py-1.5 rounded-lg border transition-colors text-left ${
+            className={`text-xs px-2.5 py-1.5 rounded-lg border transition-colors text-start ${
               reason === r.value
                 ? 'bg-red-50 border-red-300 text-red-700'
                 : 'bg-white border-gray-200 text-gray-600 hover:border-gray-300'

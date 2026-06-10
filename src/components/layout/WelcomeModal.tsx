@@ -74,7 +74,7 @@ export function WelcomeModal({ onClose }: WelcomeModalProps) {
                     <button
                       key={lang.code}
                       onClick={() => changeLanguage(lang.code)}
-                      className={`w-full text-left px-4 py-2.5 text-sm flex items-center gap-2.5 hover:bg-gray-50 transition-colors ${
+                      className={`w-full text-start px-4 py-2.5 text-sm flex items-center gap-2.5 hover:bg-gray-50 transition-colors ${
                         lang.code === i18n.language
                           ? 'bg-blue-50 text-blue-700 font-medium'
                           : 'text-gray-700'

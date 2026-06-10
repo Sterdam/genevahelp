@@ -19,6 +19,7 @@ import {
 import { Badge } from '../ui/Badge'
 import { ReportButton } from './ReportButton'
 import { CATEGORY_CONFIG } from '../../lib/constants'
+import { isOpenNow } from '../../lib/opening-hours'
 import type { Resource } from '../../lib/types'
 import { formatDistance } from '../../hooks/useGeolocation'
 
@@ -122,6 +123,7 @@ interface DetailHeaderProps {
 function DetailHeader({ resource, config, Icon, t, onClose, mobile }: DetailHeaderProps) {
   const iconSize = mobile ? 10 : 12
   const headingClass = mobile ? 'text-base' : 'text-lg'
+  const openNow = isOpenNow(resource.opening_hours)
 
   return (
     <div className={`flex items-start gap-3 ${mobile ? 'px-4 pb-3' : 'p-4'} border-b border-gray-100`}>
@@ -146,6 +148,12 @@ function DetailHeader({ resource, config, Icon, t, onClose, mobile }: DetailHead
           <Badge className="bg-emerald-100 text-emerald-700">
             {t('resource.free')}
           </Badge>
+          {openNow != null && (
+            <Badge className={openNow ? 'bg-green-100 text-green-700' : 'bg-gray-100 text-gray-500'}>
+              <Clock size={iconSize} />
+              {openNow ? t('resource.open') : t('resource.closed')}
+            </Badge>
+          )}
           {resource._distance != null && (
             <span className="text-xs text-gray-400">
               {formatDistance(resource._distance)}
@@ -285,16 +293,24 @@ function DetailContent({ resource, config, t, openDirections }: DetailContentPro
         <div className="space-y-1">
           <SectionHeader icon={Clock} label={t('resource.hours')} />
           <div className="bg-gray-50 rounded-xl p-3 space-y-1">
-            {DAY_ORDER.map(({ key, aliases }) => {
+            {DAY_ORDER.map(({ key, aliases }, index) => {
               const hours = aliases.reduce<string | undefined>(
                 (found, alias) => found || resource.opening_hours[alias],
                 undefined
               )
               if (!hours) return null
+              const isToday = (index + 1) % 7 === new Date().getDay()
               return (
-                <div key={key} className="flex justify-between gap-4 text-xs py-0.5">
-                  <span className="font-medium text-gray-500">{t(`days.${key}`)}</span>
-                  <span className="text-gray-900 font-medium">{hours}</span>
+                <div
+                  key={key}
+                  className={`flex justify-between gap-4 text-xs py-0.5 ${
+                    isToday ? 'bg-blue-50 rounded px-1.5 -mx-1.5' : ''
+                  }`}
+                >
+                  <span className={`font-medium ${isToday ? 'text-blue-700' : 'text-gray-500'}`}>
+                    {t(`days.${key}`)}
+                  </span>
+                  <span className={`font-medium ${isToday ? 'text-blue-900' : 'text-gray-900'}`}>{hours}</span>
                 </div>
               )
             })}

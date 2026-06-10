@@ -13,17 +13,19 @@
   "search": {
     "placeholder": "Pretraži resurs...",
     "noResults": "Nema rezultata",
-    "resultsCount": "{{count}} resurs pronađen",
-    "resultsCount_plural": "{{count}} resursa pronađeno",
-    "noResultsHint": "Покушајте да прилагодите претрагу или филтере"
+    "resultsCount_one": "{{count}} resurs pronađen",
+    "resultsCount_other": "{{count}} resursa pronađeno",
+    "noResultsHint": "Покушајте да прилагодите претрагу или филтере",
+    "resultsCount_few": "{{count}} resursa pronađena"
   },
   "filters": {
     "allCategories": "Sve",
     "openNow": "Otvoreno sada",
     "wheelchair": "Pristupačno za kolica",
     "nearby": "U blizini",
-    "activeCount": "{{count}} филтер",
-    "activeCount_plural": "{{count}} филтера"
+    "activeCount_one": "{{count}} филтер",
+    "activeCount_other": "{{count}} филтера",
+    "activeCount_few": "{{count}} филтера"
   },
   "categories": {
     "food": "Hrana",

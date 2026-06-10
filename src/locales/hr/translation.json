@@ -13,17 +13,19 @@
   "search": {
     "placeholder": "Pretraži resurs...",
     "noResults": "Nema pronađenih rezultata",
-    "resultsCount": "{{count}} pronađeni resurs",
-    "resultsCount_plural": "{{count}} pronađenih resursa",
-    "noResultsHint": "Pokušajte prilagoditi pretragu ili filtere"
+    "resultsCount_one": "{{count}} pronađeni resurs",
+    "resultsCount_other": "{{count}} pronađenih resursa",
+    "noResultsHint": "Pokušajte prilagoditi pretragu ili filtere",
+    "resultsCount_few": "{{count}} pronađena resursa"
   },
   "filters": {
     "allCategories": "Sve",
     "openNow": "Otvoreno sada",
     "wheelchair": "Pristupačno za invalidska kolica",
     "nearby": "U blizini",
-    "activeCount": "{{count}} filtar",
-    "activeCount_plural": "{{count}} filtera"
+    "activeCount_one": "{{count}} filtar",
+    "activeCount_other": "{{count}} filtera",
+    "activeCount_few": "{{count}} filtra"
   },
   "resource": {
     "address": "Adresa",

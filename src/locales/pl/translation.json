@@ -13,17 +13,21 @@
   "search": {
     "placeholder": "Szukaj zasobu...",
     "noResults": "Nie znaleziono wyników",
-    "resultsCount": "{{count}} znaleziony zasób",
-    "resultsCount_plural": "{{count}} znalezionych zasobów",
-    "noResultsHint": "Spróbuj dostosować wyszukiwanie lub filtry"
+    "resultsCount_one": "{{count}} znaleziony zasób",
+    "resultsCount_other": "{{count}} znalezionych zasobów",
+    "noResultsHint": "Spróbuj dostosować wyszukiwanie lub filtry",
+    "resultsCount_few": "{{count}} znalezione zasoby",
+    "resultsCount_many": "{{count}} znalezionych zasobów"
   },
   "filters": {
     "allCategories": "Wszystkie",
     "openNow": "Otwarte teraz",
     "wheelchair": "Dostępne dla wózków inwalidzkich",
     "nearby": "W pobliżu",
-    "activeCount": "{{count}} filtr",
-    "activeCount_plural": "{{count}} filtry"
+    "activeCount_one": "{{count}} filtr",
+    "activeCount_other": "{{count}} filtry",
+    "activeCount_few": "{{count}} filtry",
+    "activeCount_many": "{{count}} filtrów"
   },
   "resource": {
     "address": "Adres",

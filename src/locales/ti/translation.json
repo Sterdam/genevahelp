@@ -13,8 +13,8 @@
   "search": {
     "placeholder": "ጸጋ ድለ...",
     "noResults": "ውጽኢት ኣይተረኽበን",
-    "resultsCount": "{{count}} ጸጋ ተረኺቡ",
-    "resultsCount_plural": "{{count}} ጸጋታት ተረኺቦም",
+    "resultsCount_one": "{{count}} ጸጋ ተረኺቡ",
+    "resultsCount_other": "{{count}} ጸጋታት ተረኺቦም",
     "noResultsHint": "ምድላይኩም ወይ ፊልተራት ክትቅይሩ ፈትኑ"
   },
   "filters": {
@@ -22,8 +22,8 @@
     "openNow": "ሕጂ ክፉት",
     "wheelchair": "ብዊልቸር ዝበጽሕ",
     "nearby": "ኣብ ቀረባ",
-    "activeCount": "{{count}} ፊልተር",
-    "activeCount_plural": "{{count}} ፊልተራት"
+    "activeCount_one": "{{count}} ፊልተር",
+    "activeCount_other": "{{count}} ፊልተራት"
   },
   "categories": {
     "food": "መግቢ",

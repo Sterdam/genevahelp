@@ -13,17 +13,19 @@
   "search": {
     "placeholder": "Caută o resursă...",
     "noResults": "Niciun rezultat găsit",
-    "resultsCount": "{{count}} resursă găsită",
-    "resultsCount_plural": "{{count}} resurse găsite",
-    "noResultsHint": "Încercați să ajustați căutarea sau filtrele"
+    "resultsCount_one": "{{count}} resursă găsită",
+    "resultsCount_other": "{{count}} de resurse găsite",
+    "noResultsHint": "Încercați să ajustați căutarea sau filtrele",
+    "resultsCount_few": "{{count}} resurse găsite"
   },
   "filters": {
     "allCategories": "Toate",
     "openNow": "Deschis acum",
     "wheelchair": "Accesibil cu scaunul rulant",
     "nearby": "În apropiere",
-    "activeCount": "{{count}} filtru",
-    "activeCount_plural": "{{count}} filtre"
+    "activeCount_one": "{{count}} filtru",
+    "activeCount_other": "{{count}} de filtre",
+    "activeCount_few": "{{count}} filtre"
   },
   "resource": {
     "address": "Adresă",

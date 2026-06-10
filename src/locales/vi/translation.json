@@ -13,8 +13,8 @@
   "search": {
     "placeholder": "Tìm kiếm nguồn lực...",
     "noResults": "Không tìm thấy kết quả",
-    "resultsCount": "Tìm thấy {{count}} nguồn lực",
-    "resultsCount_plural": "Tìm thấy {{count}} nguồn lực",
+    "resultsCount_one": "Tìm thấy {{count}} nguồn lực",
+    "resultsCount_other": "Tìm thấy {{count}} nguồn lực",
     "noResultsHint": "Thử điều chỉnh tìm kiếm hoặc bộ lọc của bạn"
   },
   "filters": {
@@ -22,8 +22,8 @@
     "openNow": "Đang mở cửa",
     "wheelchair": "Xe lăn tiếp cận được",
     "nearby": "Gần đây",
-    "activeCount": "{{count}} bộ lọc",
-    "activeCount_plural": "{{count}} bộ lọc"
+    "activeCount_one": "{{count}} bộ lọc",
+    "activeCount_other": "{{count}} bộ lọc"
   },
   "categories": {
     "food": "Thực phẩm",

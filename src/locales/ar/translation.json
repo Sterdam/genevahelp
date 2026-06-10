@@ -13,17 +13,25 @@
   "search": {
     "placeholder": "البحث عن مورد...",
     "noResults": "لم يتم العثور على نتائج",
-    "resultsCount": "تم العثور على {{count}} مورد",
-    "resultsCount_plural": "تم العثور على {{count}} موارد",
-    "noResultsHint": "حاول تعديل البحث أو الفلاتر"
+    "resultsCount_one": "تم العثور على {{count}} مورد",
+    "resultsCount_other": "تم العثور على {{count}} موارد",
+    "noResultsHint": "حاول تعديل البحث أو الفلاتر",
+    "resultsCount_zero": "لم يتم العثور على موارد",
+    "resultsCount_two": "تم العثور على موردين",
+    "resultsCount_few": "تم العثور على {{count}} موارد",
+    "resultsCount_many": "تم العثور على {{count}} موردًا"
   },
   "filters": {
     "allCategories": "الكل",
     "openNow": "مفتوح الآن",
     "wheelchair": "مهيّأ لذوي الاحتياجات الخاصة",
     "nearby": "بالقرب مني",
-    "activeCount": "{{count}} فلتر",
-    "activeCount_plural": "{{count}} فلاتر"
+    "activeCount_one": "{{count}} فلتر",
+    "activeCount_other": "{{count}} فلاتر",
+    "activeCount_zero": "بدون فلاتر",
+    "activeCount_two": "فلتران",
+    "activeCount_few": "{{count}} فلاتر",
+    "activeCount_many": "{{count}} فلترًا"
   },
   "resource": {
     "address": "العنوان",

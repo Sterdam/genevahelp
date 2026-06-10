@@ -13,8 +13,8 @@
   "search": {
     "placeholder": "Kërko një burim...",
     "noResults": "Nuk u gjetën rezultate",
-    "resultsCount": "{{count}} burim i gjetur",
-    "resultsCount_plural": "{{count}} burime të gjetura",
+    "resultsCount_one": "{{count}} burim i gjetur",
+    "resultsCount_other": "{{count}} burime të gjetura",
     "noResultsHint": "Provoni të rregulloni kërkimin ose filtrat"
   },
   "filters": {
@@ -22,8 +22,8 @@
     "openNow": "Hapur tani",
     "wheelchair": "E aksesueshme për karrige me rrota",
     "nearby": "Afër",
-    "activeCount": "{{count}} filtër",
-    "activeCount_plural": "{{count}} filtra"
+    "activeCount_one": "{{count}} filtër",
+    "activeCount_other": "{{count}} filtra"
   },
   "resource": {
     "address": "Adresa",

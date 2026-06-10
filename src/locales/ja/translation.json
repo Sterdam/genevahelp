@@ -13,8 +13,8 @@
   "search": {
     "placeholder": "リソースを検索...",
     "noResults": "結果が見つかりませんでした",
-    "resultsCount": "{{count}}件のリソースが見つかりました",
-    "resultsCount_plural": "{{count}}件のリソースが見つかりました",
+    "resultsCount_one": "{{count}}件のリソースが見つかりました",
+    "resultsCount_other": "{{count}}件のリソースが見つかりました",
     "noResultsHint": "検索条件やフィルターを調整してみてください"
   },
   "filters": {
@@ -22,8 +22,8 @@
     "openNow": "現在営業中",
     "wheelchair": "車いす対応",
     "nearby": "近くにある",
-    "activeCount": "{{count}} フィルター",
-    "activeCount_plural": "{{count}} フィルター"
+    "activeCount_one": "{{count}} フィルター",
+    "activeCount_other": "{{count}} フィルター"
   },
   "categories": {
     "food": "食料",

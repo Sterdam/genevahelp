@@ -13,8 +13,8 @@
   "search": {
     "placeholder": "Ressource suchen...",
     "noResults": "Keine Ergebnisse gefunden",
-    "resultsCount": "{{count}} Ressource gefunden",
-    "resultsCount_plural": "{{count}} Ressourcen gefunden",
+    "resultsCount_one": "{{count}} Ressource gefunden",
+    "resultsCount_other": "{{count}} Ressourcen gefunden",
     "noResultsHint": "Versuchen Sie, Ihre Suche oder Filter anzupassen"
   },
   "filters": {
@@ -22,8 +22,8 @@
     "openNow": "Jetzt geöffnet",
     "wheelchair": "Barrierefrei",
     "nearby": "In der Nähe",
-    "activeCount": "{{count}} Filter",
-    "activeCount_plural": "{{count}} Filter"
+    "activeCount_one": "{{count}} Filter",
+    "activeCount_other": "{{count}} Filter"
   },
   "resource": {
     "address": "Adresse",

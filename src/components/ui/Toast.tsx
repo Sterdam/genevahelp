@@ -1,8 +1,7 @@
-import { createContext, useContext, useState, useCallback, useEffect } from 'react'
+import { useState, useCallback, useEffect } from 'react'
 import { createPortal } from 'react-dom'
 import { CheckCircle, AlertCircle, Info, X } from 'lucide-react'
-
-type ToastType = 'success' | 'error' | 'info'
+import { ToastContext, type ToastType } from '../../hooks/useToast'
 
 interface Toast {
   id: string
@@ -10,18 +9,6 @@ interface Toast {
   type: ToastType
   duration?: number
   exiting?: boolean
-}
-
-interface ToastContextValue {
-  addToast: (message: string, type?: ToastType, duration?: number) => void
-}
-
-const ToastContext = createContext<ToastContextValue | null>(null)
-
-export function useToast() {
-  const ctx = useContext(ToastContext)
-  if (!ctx) throw new Error('useToast must be used within ToastProvider')
-  return ctx
 }
 
 export function ToastProvider({ children }: { children: React.ReactNode }) {

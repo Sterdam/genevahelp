@@ -13,8 +13,8 @@
   "search": {
     "placeholder": "搜索资源...",
     "noResults": "未找到结果",
-    "resultsCount": "找到 {{count}} 个资源",
-    "resultsCount_plural": "找到 {{count}} 个资源",
+    "resultsCount_one": "找到 {{count}} 个资源",
+    "resultsCount_other": "找到 {{count}} 个资源",
     "noResultsHint": "请尝试调整搜索条件或筛选器"
   },
   "filters": {
@@ -22,8 +22,8 @@
     "openNow": "正在营业",
     "wheelchair": "无障碍通道",
     "nearby": "附近",
-    "activeCount": "{{count}} 个筛选",
-    "activeCount_plural": "{{count}} 个筛选"
+    "activeCount_one": "{{count}} 个筛选",
+    "activeCount_other": "{{count}} 个筛选"
   },
   "categories": {
     "food": "食物",

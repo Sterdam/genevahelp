@@ -79,14 +79,14 @@ export function ResourcePage() {
   const seoTitle = `${resource.name} — Free ${t(`categories.${resource.category}`)} in Geneva | GenevaHelp`
   const seoDesc = translated.description.slice(0, 155)
 
-  const jsonLd = useMemo(() => [
+  const jsonLd = [
     buildResourceJsonLd(resource),
     buildBreadcrumbJsonLd([
       { name: 'GenevaHelp', url: canonicalUrl('/') },
       { name: t(`categories.${resource.category}`), url: canonicalUrl(`/category/${resource.category}`) },
       { name: resource.name, url },
     ]),
-  ], [resource, url, t])
+  ]
 
   const hasCoords = isFinite(resource.latitude) && isFinite(resource.longitude)
 

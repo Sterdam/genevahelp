@@ -13,8 +13,8 @@
   "search": {
     "placeholder": "संसाधन खोजें...",
     "noResults": "कोई परिणाम नहीं मिला",
-    "resultsCount": "{{count}} संसाधन मिला",
-    "resultsCount_plural": "{{count}} संसाधन मिले",
+    "resultsCount_one": "{{count}} संसाधन मिला",
+    "resultsCount_other": "{{count}} संसाधन मिले",
     "noResultsHint": "अपनी खोज या फ़िल्टर समायोजित करने का प्रयास करें"
   },
   "filters": {
@@ -22,8 +22,8 @@
     "openNow": "अभी खुला है",
     "wheelchair": "व्हीलचेयर सुलभ",
     "nearby": "आस-पास",
-    "activeCount": "{{count}} फ़िल्टर",
-    "activeCount_plural": "{{count}} फ़िल्टर"
+    "activeCount_one": "{{count}} फ़िल्टर",
+    "activeCount_other": "{{count}} फ़िल्टर"
   },
   "categories": {
     "food": "भोजन",

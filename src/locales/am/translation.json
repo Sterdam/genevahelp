@@ -13,8 +13,8 @@
   "search": {
     "placeholder": "ሀብት ፈልግ...",
     "noResults": "ውጤት አልተገኘም",
-    "resultsCount": "{{count}} ሀብት ተገኝቷል",
-    "resultsCount_plural": "{{count}} ሀብቶች ተገኝተዋል",
+    "resultsCount_one": "{{count}} ሀብት ተገኝቷል",
+    "resultsCount_other": "{{count}} ሀብቶች ተገኝተዋል",
     "noResultsHint": "ፍለጋዎን ወይም ማጣሪያዎችዎን ለማስተካከል ይሞክሩ"
   },
   "filters": {
@@ -22,8 +22,8 @@
     "openNow": "አሁን ክፍት",
     "wheelchair": "በዊልቸር ተደራሽ",
     "nearby": "በአቅራቢያ",
-    "activeCount": "{{count}} ማጣሪያ",
-    "activeCount_plural": "{{count}} ማጣሪያዎች"
+    "activeCount_one": "{{count}} ማጣሪያ",
+    "activeCount_other": "{{count}} ማጣሪያዎች"
   },
   "categories": {
     "food": "ምግብ",

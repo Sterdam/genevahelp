@@ -13,17 +13,21 @@
   "search": {
     "placeholder": "Поиск ресурса...",
     "noResults": "Ничего не найдено",
-    "resultsCount": "{{count}} ресурс найден",
-    "resultsCount_plural": "{{count}} ресурсов найдено",
-    "noResultsHint": "Попробуйте изменить поиск или фильтры"
+    "resultsCount_one": "{{count}} ресурс найден",
+    "resultsCount_other": "{{count}} ресурсов найдено",
+    "noResultsHint": "Попробуйте изменить поиск или фильтры",
+    "resultsCount_few": "{{count}} ресурса найдено",
+    "resultsCount_many": "{{count}} ресурсов найдено"
   },
   "filters": {
     "allCategories": "Все",
     "openNow": "Открыто сейчас",
     "wheelchair": "Доступно для инвалидных колясок",
     "nearby": "Рядом",
-    "activeCount": "{{count}} фильтр",
-    "activeCount_plural": "{{count}} фильтров"
+    "activeCount_one": "{{count}} фильтр",
+    "activeCount_other": "{{count}} фильтров",
+    "activeCount_few": "{{count}} фильтра",
+    "activeCount_many": "{{count}} фильтров"
   },
   "categories": {
     "food": "Питание",

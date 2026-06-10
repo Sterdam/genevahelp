@@ -7,22 +7,21 @@ interface GeolocationState {
   loading: boolean
 }
 
+const GEO_OPTIONS: PositionOptions = {
+  enableHighAccuracy: true,
+  timeout: 10000,
+  maximumAge: 300000,
+}
+
 export function useGeolocation() {
-  const [state, setState] = useState<GeolocationState>({
+  const [state, setState] = useState<GeolocationState>(() => ({
     latitude: null,
     longitude: null,
-    error: null,
-    loading: false,
-  })
+    error: navigator.geolocation ? null : 'Geolocation not supported',
+    loading: !!navigator.geolocation,
+  }))
 
-  const requestLocation = useCallback(() => {
-    if (!navigator.geolocation) {
-      setState(prev => ({ ...prev, error: 'Geolocation not supported' }))
-      return
-    }
-
-    setState(prev => ({ ...prev, loading: true, error: null }))
-
+  const fetchPosition = useCallback(() => {
     navigator.geolocation.getCurrentPosition(
       (position) => {
         setState({
@@ -39,17 +38,20 @@ export function useGeolocation() {
           loading: false,
         }))
       },
-      {
-        enableHighAccuracy: true,
-        timeout: 10000,
-        maximumAge: 300000,
-      }
+      GEO_OPTIONS
     )
   }, [])
 
+  const requestLocation = useCallback(() => {
+    if (!navigator.geolocation) return
+    setState(prev => ({ ...prev, loading: true, error: null }))
+    fetchPosition()
+  }, [fetchPosition])
+
   useEffect(() => {
-    requestLocation()
-  }, [requestLocation])
+    if (!navigator.geolocation) return
+    fetchPosition()
+  }, [fetchPosition])
 
   return { ...state, requestLocation }
 }

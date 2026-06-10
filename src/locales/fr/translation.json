@@ -14,16 +14,18 @@
     "placeholder": "Rechercher une ressource...",
     "noResults": "Aucun résultat trouvé",
     "noResultsHint": "Essayez d'ajuster votre recherche ou vos filtres",
-    "resultsCount": "{{count}} ressource trouvée",
-    "resultsCount_plural": "{{count}} ressources trouvées"
+    "resultsCount_one": "{{count}} ressource trouvée",
+    "resultsCount_other": "{{count}} ressources trouvées",
+    "resultsCount_many": "{{count}} ressources trouvées"
   },
   "filters": {
     "allCategories": "Toutes",
     "openNow": "Ouvert maintenant",
     "wheelchair": "Accessible PMR",
     "nearby": "À proximité",
-    "activeCount": "{{count}} filtre",
-    "activeCount_plural": "{{count}} filtres"
+    "activeCount_one": "{{count}} filtre",
+    "activeCount_other": "{{count}} filtres",
+    "activeCount_many": "{{count}} filtres"
   },
   "resource": {
     "address": "Adresse",

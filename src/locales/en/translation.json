@@ -14,16 +14,16 @@
     "placeholder": "Search for a resource...",
     "noResults": "No results found",
     "noResultsHint": "Try adjusting your search or filters",
-    "resultsCount": "{{count}} resource found",
-    "resultsCount_plural": "{{count}} resources found"
+    "resultsCount_one": "{{count}} resource found",
+    "resultsCount_other": "{{count}} resources found"
   },
   "filters": {
     "allCategories": "All",
     "openNow": "Open now",
     "wheelchair": "Wheelchair accessible",
     "nearby": "Nearby",
-    "activeCount": "{{count}} filter",
-    "activeCount_plural": "{{count}} filters"
+    "activeCount_one": "{{count}} filter",
+    "activeCount_other": "{{count}} filters"
   },
   "resource": {
     "address": "Address",

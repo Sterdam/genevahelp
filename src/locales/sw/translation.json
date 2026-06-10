@@ -13,8 +13,8 @@
   "search": {
     "placeholder": "Tafuta rasilimali...",
     "noResults": "Hakuna matokeo yaliyopatikana",
-    "resultsCount": "Rasilimali {{count}} imepatikana",
-    "resultsCount_plural": "Rasilimali {{count}} zimepatikana",
+    "resultsCount_one": "Rasilimali {{count}} imepatikana",
+    "resultsCount_other": "Rasilimali {{count}} zimepatikana",
     "noResultsHint": "Jaribu kurekebisha utafutaji au vichujio vyako"
   },
   "filters": {
@@ -22,8 +22,8 @@
     "openNow": "Wazi sasa",
     "wheelchair": "Inafikiwa na kiti cha magurudumu",
     "nearby": "Karibu",
-    "activeCount": "kichujio {{count}}",
-    "activeCount_plural": "vichujio {{count}}"
+    "activeCount_one": "kichujio {{count}}",
+    "activeCount_other": "vichujio {{count}}"
   },
   "categories": {
     "food": "Chakula",
