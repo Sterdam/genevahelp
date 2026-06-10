@@ -135,9 +135,10 @@
     "access_conditions": "Telefonski poziv, medicinski troškovi na teret pacijenta"
   },
   "r_0029": {
-    "description": "Dnevni prijem za osobe u teškoj situaciji. Topao prostor, kava, tuševi, pranje rublja, pristup internetu i aktivnosti.",
+    "name": "Prihvatni centar La Roseraie",
+    "description": "Dnevni centar za migrante i osobe u teškoj situaciji. Topao prostor, kava, aktivnosti i besplatne radionice francuskog bez prijave: za početnike (prema razinama A1 i A2), konverzacija i izgovor, tematski francuski i izleti za upoznavanje grada.",
     "target_audience": "Osobe u teškoj situaciji",
-    "access_conditions": "Bez uvjeta, slobodan prijem"
+    "access_conditions": "Bez uvjeta, slobodan pristup"
   },
   "r_0030": {
     "description": "Besplatna ili snižena psihološka savjetovanja za migrante. Psihološka podrška na više jezika.",
@@ -410,9 +411,9 @@
     "access_conditions": "Nazvati besplatni broj 0800 22 22 10 za dobivanje mjesta, bezuvjetni prijem"
   },
   "r_0084": {
-    "description": "Bezuvjetno dnevno prihvatilište u Hramu Servette za osobe u teškoj situaciji. Solidarni obroci, topli napici, javni pisar (životopisi, pisma), tečajevi francuskog, engleskog i informatike. Besplatna pravna pomoć na adresi rue de Berne 48 (pon 10-12, sri 17:30-19:30, čet 10-12): pravo stranaca, obiteljsko, radno, socijalno osiguranje, kazneno.",
-    "target_audience": "Osobe u teškoj situaciji, migranti, beskućnici",
-    "access_conditions": "Bez uvjeta, bezuvjetan prijem"
+    "description": "Besplatni tečajevi francuskog u središtu aktivnosti: 4 razine (FRO pridošlice, FR1 osnove, FR2 konverzacija, FR3 razina A2-B1). Od ponedjeljka do petka, 9-12h i 14-17h (zatvoreno srijedom ujutro). Bez prijave. Također: bezuvjetni dnevni prijem u Temple de la Servette, solidarni obroci, topli napici, javni pisar, internetski prostor. Besplatno pravno savjetovanje (pon 11:30-13h, sri 17:30-19h, po dogovoru).",
+    "target_audience": "Osobe u teškom položaju, migranti, osobe koje žele učiti francuski",
+    "access_conditions": "Bez uvjeta, bezuvjetni prijem. Besplatni tečajevi francuskog bez prijave."
   },
   "r_0085": {
     "description": "Kultna javna kupališta na obali Ženevskog jezera. Pješčana plaža, bazeni, skakaonice (3-10 m), sauna i hamam, popularna buvette. Vrlo pristupačna cijena ulaznice (2 CHF ljeti, 1 CHF zimi).",
@@ -1589,5 +1590,47 @@
     "description": "Free municipal information and social orientation service. Support for administrative procedures. Open to all Geneva city residents.",
     "target_audience": "Geneva city residents",
     "access_conditions": "Free and open to all Geneva city residents."
+  },
+  "r_0244": {
+    "name": "Atelier Alpha",
+    "description": "Udruga koja nudi tečajeve usmenog francuskog i opismenjivanja za nepismene migrante ili migrante s poteškoćama u učenju. Inovativna i osnažujuća pedagogija u posebno opremljenom ateljeu. Tečajevi od ponedjeljka do petka ujutro i poslijepodne, večernji tečajevi ponedjeljkom i srijedom. Prilagođena cijena za male proračune: CHF 20/mjesec za korisnike Hospice Général.",
+    "target_audience": "Nepismeni ili slabo školovani migranti",
+    "access_conditions": "CHF 20/mjesec za korisnike Hospice Général (standardna cijena CHF 205/mjesec). Minimum 2 sesije/tjedan."
+  },
+  "r_0245": {
+    "name": "Prostor za roditelje i djecu Saint-Gervais",
+    "description": "Prostor za igru i odmor za obitelji u teškom položaju s djecom od 0 do 12 godina. Besplatan ručak u 12:15. Slušanje, priznanje i socijalna orijentacija od strane tima stručnjaka. Otvoreno bez prijave i anonimno, uključujući tijekom školskih praznika.",
+    "target_audience": "Obitelji u teškom položaju s djecom od 0 do 12 godina, trudnice",
+    "access_conditions": "Besplatno, bez prijave, anonimni prijem. Otvoreno tijekom školskih praznika (osim jednog mjeseca ljeti). Zatvoreno na blagdane."
+  },
+  "r_0246": {
+    "name": "Slavina s pitkom vodom — promenade de l'Aire (Confignon)",
+    "description": "Slobodno dostupna slavina s pitkom vodom na obnovljenoj šetnici uz rijeku Aire (promenade de l'Aire), blizu pješačkog mosta passerelle des Chardons-à-Tête-Ronde. Mjesto za odmor s klupom i stolovima za piknik. Dostupno 0-24, tijekom cijele godine.",
+    "target_audience": "Svi",
+    "access_conditions": "Slobodan pristup, 0-24."
+  },
+  "r_0247": {
+    "name": "Info seniors Lancy — telefonska linija (Pôle seniors)",
+    "description": "Besplatna telefonska linija grada Lancyja za starije stanovnike Lancyja i njihove bližnje: općinske usluge, aktivnosti i izleti, volontiranje, mogućnosti stanovanja za starije, upućivanje na organizacije za njegu i pomoć u kući (obroci, čišćenje, kupnja, prijevoz) te kantonalne i savezne financijske naknade.",
+    "target_audience": "Stanovnici Lancyja u umirovljeničkoj dobi (AVS), njihovi bližnji i okolina",
+    "access_conditions": "Besplatno, bez prijave. Besplatan telefonski broj."
+  },
+  "r_0248": {
+    "name": "Digitalna pomoć u Lancyju (Villa Rapin)",
+    "description": "Dvaput mjesečno Služba za socijalna pitanja i stanovanje grada Lancyja pomaže stanovnicima s digitalnim uređajima (pametni telefon, računalo, tablet) i administrativnim postupcima na internetu. Pomoć pružaju studenti i stručnjaci. Jedan ponedjeljak mjesečno od 17 do 19 sati i jedan utorak mjesečno od 14 do 16 sati — datumi na lancy.ch.",
+    "target_audience": "Stanovnici grada Lancyja, otvoreno za sve",
+    "access_conditions": "Besplatno, bez prijave. Ponesite vlastiti uređaj (oprema se ne osigurava)."
+  },
+  "r_0249": {
+    "name": "FacLab — UNIGE (Battelle)",
+    "description": "Radionica digitalne proizvodnje Sveučilišta u Ženevi otvorena javnosti, u parku Battelle. 3D ispis, lasersko rezanje, elektronika i edukacije iz tehnika digitalne proizvodnje, uključujući radionice za mlade i školske razrede. Prima studente, udruge i građane u okviru svojih aktivnosti.",
+    "target_audience": "Studenti, makeri, udruge i stanovnici zainteresirani za digitalnu proizvodnju",
+    "access_conditions": "Uz prijavu putem online zajednice faclab.ch ili sudjelovanjem u ponuđenim aktivnostima. Kontakt: faclab@unige.ch."
+  },
+  "r_0250": {
+    "name": "EPER — mobilna savjetovališta",
+    "description": "Prostor za razgovor, informiranje i usmjeravanje migranata u teškoj situaciji, uglavnom za zajednice španjolskog i portugalskog govornog područja, mongolsku i filipinsku zajednicu. Administrativna i socijalna pitanja, podrška u postupcima, informativne sesije, radionice te sportske i kulturne aktivnosti.",
+    "target_audience": "Osobe bez zakonitog statusa ili nedavno regularizirane (izvan sustava azila i bez putovnice EU/EFTA-e)",
+    "access_conditions": "Besplatno. Individualna savjetovanja uz dogovoren termin; informativne sesije bez najave; radionice i aktivnosti uz prijavu."
   }
 }

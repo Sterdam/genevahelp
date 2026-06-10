@@ -135,9 +135,10 @@
     "access_conditions": "Wicitaan taleefan, kharashaadka caafimaadka bukaan-soccod xil"
   },
   "r_0029": {
-    "description": "Goobta soo-dhaweynta maalintii ee dadka xaalad adag ku jira. Goob diiran, kafeeto, qubeysi, dhar-dhaqid, gelitaan internet iyo hawlo.",
-    "target_audience": "Dadka xaalad adag ku jira",
-    "access_conditions": "Shuruud la'aan, soo-dhaweyn bilaash ah"
+    "name": "Xarunta Soo Dhaweynta La Roseraie",
+    "description": "Xarun maalinle oo loogu talagalay muhaajiriinta iyo dadka xaalad adag ku nool. Goob diiran, qaxwo, hawlo iyo casharro Faransiis ah oo bilaash ah oo aan diiwaangelin u baahnayn: kuwa bilowga ah (xagga A1 iyo A2), wada-sheekaysi iyo ku-dhawaaqid, Faransiis mawduuc ku salaysan iyo socdaallo daahfur ah.",
+    "target_audience": "Dadka xaalad adag ku nool",
+    "access_conditions": "Shuruud la'aan, soo dhaweyn furan"
   },
   "r_0030": {
     "description": "La-talinta nafsiyaadka ee bilaashka ah ama qiimo la dhimay ee dadka soo galootiga ah. Taageerada nafsiyaadka luqado badan.",
@@ -410,9 +411,9 @@
     "access_conditions": "Wac lambarka bilaashka ah 0800 22 22 10 si aad goob u hesho, soo-dhaweyn aan shuruud lahayn"
   },
   "r_0084": {
-    "description": "Hoy maalin oo aan shuruud lahayn oo ku yaal Macbudka Servette. Cunto wadaag ah, cabitaano kulul, qoraa dadweyne (CV, warqado), casharro Faransiis/Ingiriis/kombiyuutar. Latallin sharci oo bilaash ah oo ku taalla 48 rue de Berne.",
-    "target_audience": "Dadka baahan, muhaajiriinta, dadka aan guri lahayn",
-    "access_conditions": "Shuruud la'aan, soo dhaweyn aan xaddidnayn"
+    "description": "Casharro Faransiis oo bilaash ah oo ku yaal xarunta hawlaha: 4 heer (FRO cusub, FR1 aasaasi, FR2 sheeko, FR3 heerka A2-B1). Isniin ilaa Jimce, 9-12 iyo 14-17 (xiran Arbaco subax). La'aan diiwaangelin. Sidoo kale: soo dhaweyn maalin oo shuruud la'aan ah ee Temple de la Servette, cunto wadajir, cabitaan kulul, qore dadweyne, goob internet. Talo sharciyeed oo bilaash ah (Isn 11:30-13h, Arb 17:30-19h, ballan).",
+    "target_audience": "Dadka xaalad adag ku jira, muhaajiriin, dadka rabba inay Faransiis bartaan",
+    "access_conditions": "Shuruud la'aan, soo dhaweyn shuruud la'aan. Casharro Faransiis oo bilaash ah, diiwaangelin looma baahna."
   },
   "r_0085": {
     "description": "Goobaha qubaysiga ee caanka ah ee xeebta harada Léman. Xeebta ciidda, berkadaha, boodista (3-10m), sauna iyo hammam, maqaayad caan ah. Soo-gelinta qiimo aad u jaban (2 CHF xagaaga, 1 CHF jiilaalka).",
@@ -1589,5 +1590,47 @@
     "description": "Free municipal information and social orientation service. Support for administrative procedures. Open to all Geneva city residents.",
     "target_audience": "Geneva city residents",
     "access_conditions": "Free and open to all Geneva city residents."
+  },
+  "r_0244": {
+    "name": "Atelier Alpha",
+    "description": "Urur bixiya casharro Faransiis af iyo wax-akhriska dadka muhaajiriinta ah ee aan waxba akhriyin ama ku adagtahay barashada. Waxbarasho cusub oo awood-siinaya meel u diyaarsan. Casharro Isniin ilaa Jimce subax iyo galabnimo, casharro fiidkii Isniin iyo Arbaco. Qiimo u habaysan miisaaniyadaha yar: CHF 20/bishii dadka ka faa'iidaysanaya Hospice Général.",
+    "target_audience": "Muhaajiriin aan waxba akhriyin ama wax yar bartay",
+    "access_conditions": "CHF 20/bishii dadka Hospice Général (qiimaha caadiga ah CHF 205/bishii). Ugu yaraan 2 kulan/toddobaad."
+  },
+  "r_0245": {
+    "name": "Goobta waalidiinta-carruurta Saint-Gervais",
+    "description": "Goob ciyaar iyo nasasho qoysas xaalad adag ku jira oo leh carruur da'doodu tahay 0-12 sano. Qado bilaash ah 12:15. Dhagaysi, aqoonsi iyo hagid bulsho oo ay sameeyaan koox xirfadlayaal ah. Fur shuruud la'aan iyo magac la'aan, fasaxyada iskuulka dhexdooda.",
+    "target_audience": "Qoysas xaalad adag ku jira oo leh carruur 0-12 sano, haweenka uurka leh",
+    "access_conditions": "Bilaash, shuruud la'aan, soo dhaweyn magac la'aan. Fur fasaxyada iskuulka (marka laga reebo hal bil xagaa). Xiran maalmaha ciidda."
+  },
+  "r_0246": {
+    "name": "Goob biyo la cabbo — promenade de l'Aire (Confignon)",
+    "description": "Goob biyo la cabbo oo si xor ah loo heli karo oo ku taal jidka socodka ee promenade de l'Aire ee dib loo cusboonaysiiyay, agagaarka buundada passerelle des Chardons-à-Tête-Ronde. Goob nasasho oo leh kursi iyo miisas fasax (picnic). Waxaa la heli karaa 24 saac maalintii, sannadka oo dhan.",
+    "target_audience": "Dadweynaha oo dhan",
+    "access_conditions": "Gelitaan xor ah, 24 saac maalintii."
+  },
+  "r_0247": {
+    "name": "Info seniors Lancy — Adeeg taleefan (Pôle seniors)",
+    "description": "Adeeg taleefan oo bilaash ah oo ay bixiso Magaalada Lancy oo loogu talagalay dadka waayeelka ah ee Lancy iyo qaraabadooda: adeegyada degmada, hawlo iyo socdaallo, mutadawacnimo, xulashooyinka guryaha waayeelka, u-gudbinta hay'adaha daryeelka iyo adeegyada taageerada guriga (cunto, nadiifin, dukaameysi, gaadiid) iyo gargaarka maaliyadeed ee kantoonka iyo federaalka.",
+    "target_audience": "Dadka Lancy degan ee gaaray da'da hawlgabnimada (AVS), qaraabadooda iyo dadka u dhow",
+    "access_conditions": "Bilaash, diiwaangelin la'aan. Lambar taleefan oo bilaash ah."
+  },
+  "r_0248": {
+    "name": "Adeegga Caawimaada Dijitaalka ah ee Lancy (Villa Rapin)",
+    "description": "Laba jeer bishiiba, Adeegga Arrimaha Bulshada iyo Guryeynta ee Lancy wuxuu dadka degan kala caawiyaa qalabkooda dijitaalka ah (smartphone, kombuyuutar, tablet) iyo hawlaha maamulka ee internetka lagu qabto. Waxaa kormeera arday iyo xirfadlayaal. Isniin bishiiba mar 17:00–19:00 iyo Talaado bishiiba mar 14:00–16:00 — taariikhaha waxaa laga helaa lancy.ch.",
+    "target_audience": "Dadka degan Magaalada Lancy, dadweynaha oo dhan",
+    "access_conditions": "Bilaash, diiwaangelin la'aan. La imow qalabkaaga (qalab lama bixiyo)."
+  },
+  "r_0249": {
+    "name": "FacLab — UNIGE (Battelle)",
+    "description": "Aqoon-is-weydaarsiga wax-soo-saarka dijitaalka ah ee Jaamacadda Geneva oo u furan dadweynaha, kuna yaal beerta Battelle. Daabacaadda 3D, jarista laysarka, elektaroonigga iyo tababarro ku saabsan farsamooyinka wax-soo-saarka dijitaalka ah, oo ay ku jiraan aqoon-is-weydaarsiyo loogu talagalay dhallinyarada iyo fasallada dugsiyada. Wuxuu soo dhaweeyaa arday, ururro iyo muwaadiniin hawlahiisa dhexdooda.",
+    "target_audience": "Arday, samee-yaal (makers), ururro iyo dadka degan ee xiiseeya wax-soo-saarka dijitaalka ah",
+    "access_conditions": "Diiwaangelin ayaa lagu sameeyaa bulshada internetka ee faclab.ch ama adigoo ka qaybgalaya hawlaha la bixiyo. La xiriir faclab@unige.ch."
+  },
+  "r_0250": {
+    "name": "EPER — Adeegyo caawimaad oo wareega",
+    "description": "Goob dhageysi, macluumaad iyo hagid loogu talagalay muhaajiriinta xaalad adag ku nool, gaar ahaan bulshooyinka ku hadla Isbaanishka, Boortaqiiska, Mongooliyaanka iyo Filibiinka. Su'aalo maamul iyo bulsho, taageero hawlaha maamulka, kulamo macluumaad, aqoon-is-weydaarsiyo iyo hawlo isboorti iyo dhaqan.",
+    "target_audience": "Dadka aan haysan sharci degenaansho ama kuwa dhowaan sharci helay (ka baxsan nidaamka magangelyada oo aan haysan baasaboor EU/AELE)",
+    "access_conditions": "Bilaash. La-tashiyo shaqsiyeed ballan ayaa loo qabsadaa; kulamada macluumaadka ballan looma baahna; aqoon-is-weydaarsiyada iyo hawlaha waxaa loo baahan yahay diiwaangelin."
   }
 }

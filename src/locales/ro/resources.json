@@ -135,9 +135,10 @@
     "access_conditions": "Apel telefonic, cheltuielile medicale in sarcina pacientului"
   },
   "r_0029": {
-    "description": "Centru de primire de zi pentru persoanele in situatie de precaritate. Spatiu primitor, cafea, dusuri, spalatorie, acces internet si activitati.",
-    "target_audience": "Persoane in situatie de precaritate",
-    "access_conditions": "Fara conditii, primire libera"
+    "name": "Centrul de primire La Roseraie",
+    "description": "Centru de zi pentru persoanele migrante și aflate în situații precare. Spațiu primitor, cafea, activități și ateliere de franceză gratuite, fără înscriere: începători (spre A1 și A2), conversație și pronunție, franceză tematică și ieșiri de descoperire.",
+    "target_audience": "Persoane aflate în situații precare",
+    "access_conditions": "Fără condiții, acces liber"
   },
   "r_0030": {
     "description": "Consultatii psihologice gratuite sau la tarife reduse pentru persoanele migrante. Sprijin psihologic in mai multe limbi.",
@@ -410,9 +411,9 @@
     "access_conditions": "Sunati la numarul gratuit 0800 22 22 10 pentru a obtine un loc, primire neconditionata"
   },
   "r_0084": {
-    "description": "Loc de primire de zi necondiționat la Templul Servette pentru persoane în dificultate. Mese solidare, băuturi calde, scriitor public (CV, scrisori), cursuri de franceză, engleză și informatică. Consultanță juridică gratuită la 48 rue de Berne (luni 10:00-12:00, miercuri 17:30-19:30, joi 10:00-12:00): dreptul străinilor, familiei, muncii, asigurărilor sociale, penal.",
-    "target_audience": "Persoane în dificultate, migranți, persoane fără adăpost",
-    "access_conditions": "Fără condiții, primire necondiționată"
+    "description": "Cursuri de franceză gratuite în centrul activităților: 4 niveluri (FRO nou-veniți, FR1 baze, FR2 conversație, FR3 nivel A2-B1). De luni până vineri, 9-12 și 14-17 (închis miercuri dimineața). Fără înscriere. De asemenea: primire de zi necondiționată la Temple de la Servette, mese solidare, băuturi calde, scriitor public, spațiu internet. Consultanță juridică gratuită (luni 11:30-13h, miercuri 17:30-19h, cu programare).",
+    "target_audience": "Persoane în situație precară, migranți, persoane care doresc să învețe franceză",
+    "access_conditions": "Fără condiții, primire necondiționată. Cursuri de franceză gratuite fără înscriere."
   },
   "r_0085": {
     "description": "Bai publice emblematice pe malul lacului Léman. Plaja cu nisip, bazine, trambulina (3-10m), sauna si hammam, bufet popular. Intrare foarte accesibila (2 CHF vara, 1 CHF iarna).",
@@ -1589,5 +1590,47 @@
     "description": "Free municipal information and social orientation service. Support for administrative procedures. Open to all Geneva city residents.",
     "target_audience": "Geneva city residents",
     "access_conditions": "Free and open to all Geneva city residents."
+  },
+  "r_0244": {
+    "name": "Atelier Alpha",
+    "description": "Asociație care oferă cursuri de franceză orală și alfabetizare pentru migranți analfabeți sau cu dificultăți de învățare. Pedagogie inovatoare și de responsabilizare într-un atelier special echipat. Cursuri de luni până vineri dimineața și după-amiaza, cursuri seara luni și miercuri. Tarif adaptat pentru bugete mici: CHF 20/lună pentru beneficiarii Hospice Général.",
+    "target_audience": "Migranți analfabeți sau slab școlarizați",
+    "access_conditions": "CHF 20/lună pentru beneficiarii Hospice Général (tarif standard CHF 205/lună). Minimum 2 ședințe/săptămână."
+  },
+  "r_0245": {
+    "name": "Spațiul părinți-copii Saint-Gervais",
+    "description": "Spațiu ludic și de odihnă pentru familii în situație precară cu copii de la 0 la 12 ani. Masă de prânz gratuită la 12:15. Ascultare, recunoaștere și orientare socială de către o echipă de profesioniști. Deschis fără înscriere și anonim, inclusiv în vacanțele școlare.",
+    "target_audience": "Familii în situație precară cu copii de la 0 la 12 ani, femei însărcinate",
+    "access_conditions": "Gratuit, fără înscriere, primire anonimă. Deschis în vacanțele școlare (cu excepția unei luni vara). Închis în zilele de sărbătoare."
+  },
+  "r_0246": {
+    "name": "Punct de apă potabilă — Promenade de l'Aire (Confignon)",
+    "description": "Punct de apă potabilă cu acces liber pe promenada renaturalizată a râului Aire (promenade de l'Aire), lângă pasarela des Chardons-à-Tête-Ronde. Zonă de odihnă cu bancă și mese de picnic. Accesibil non-stop, tot anul.",
+    "target_audience": "Pentru toți",
+    "access_conditions": "Acces liber, non-stop."
+  },
+  "r_0247": {
+    "name": "Info seniors Lancy — Linie telefonică (Pôle seniors)",
+    "description": "Linie telefonică gratuită a Orașului Lancy pentru seniorii din Lancy și apropiații lor: servicii comunale, activități și ieșiri, voluntariat, soluții de locuire pentru seniori, orientare către organismele de îngrijire și de sprijin la domiciliu (mese, menaj, cumpărături, transport) și prestații financiare cantonale și federale.",
+    "target_audience": "Locuitori din Lancy la vârsta de pensionare (AVS), apropiații și anturajul lor",
+    "access_conditions": "Gratuit, fără înscriere. Număr de telefon gratuit."
+  },
+  "r_0248": {
+    "name": "Permanența digitală din Lancy (Villa Rapin)",
+    "description": "De două ori pe lună, Serviciul pentru afaceri sociale și locuințe din Lancy îi ajută pe locuitori cu dispozitivele lor digitale (smartphone, computer, tabletă) și cu demersurile administrative online. Îndrumare oferită de studenți și profesioniști. O zi de luni pe lună între 17:00 și 19:00 și o zi de marți pe lună între 14:00 și 16:00 — datele pe lancy.ch.",
+    "target_audience": "Locuitorii Orașului Lancy, deschis tuturor",
+    "access_conditions": "Gratuit, fără înscriere. Aduceți propriul dispozitiv (echipamentul nu este furnizat)."
+  },
+  "r_0249": {
+    "name": "FacLab — Universitatea din Geneva (Battelle)",
+    "description": "Atelier de fabricație digitală al Universității din Geneva, deschis publicului, în parcul Battelle. Imprimare 3D, tăiere cu laser, electronică și cursuri de tehnici de fabricație digitală, inclusiv ateliere pentru tineri și pentru clase școlare. Primește studenți, asociații și cetățeni în cadrul activităților sale.",
+    "target_audience": "Studenți, makeri, asociații și locuitori interesați de fabricația digitală",
+    "access_conditions": "Cu înscriere prin comunitatea online faclab.ch sau prin participarea la activitățile propuse. Contactați faclab@unige.ch."
+  },
+  "r_0250": {
+    "name": "EPER — Permanențe mobile",
+    "description": "Spațiu de ascultare, informare și orientare pentru persoanele migrante aflate în situații precare, în principal comunitățile hispanofonă, lusofonă, mongolă și filipineză. Întrebări administrative și sociale, sprijin în demersuri, sesiuni de informare, ateliere și activități sportive și culturale.",
+    "target_audience": "Persoane fără statut legal sau recent regularizate (în afara domeniului azilului și fără pașaport UE/AELS)",
+    "access_conditions": "Gratuit. Consultații individuale pe bază de programare; sesiuni de informare fără programare; ateliere și activități cu înscriere."
   }
 }

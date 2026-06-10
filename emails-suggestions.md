@@ -393,7 +393,7 @@ L'équipe GenevaHelp
 
 ## À VÉRIFIER (en attente)
 
-- **#¨ — Swiss Pallia Confort** (Fatima BAK — info@swisspalliaconfort.ch) — À vérifier si gratuit
+- ~~**#¨ — Swiss Pallia Confort** (Fatima BAK — info@swisspalliaconfort.ch) — ✅ Acceptée batch 4b~~
 - **#24 — Junior Entreprise Genève** (Nam Nguyen — nam.nguyen@jeg.ch) — À vérifier si gratuit
 - **#32 — PJE Jonction** (Alex — xab.buendia@gmail.com) — Nouvelle suggestion non traitée
 - **#33 — PJE Charmilles** (Alex — xab.buendia@gmail.com) — Nouvelle suggestion non traitée

@@ -61,7 +61,7 @@ export function HomePage({ mobileView }: HomePageProps) {
     <div className="flex flex-col flex-1 overflow-hidden">
       <SEOHead
         title="GenevaHelp — Free Resources in Geneva | Interactive Map"
-        description="Interactive map of all free resources in Geneva: food aid, health, housing, legal help, language courses and more. 178 verified resources in 32 languages."
+        description="Interactive map of all free resources in Geneva: food aid, health, housing, legal help, language courses and more. 248 verified resources in 32 languages."
         canonical={canonicalUrl('/')}
       />
       {/* Search & Filters */}

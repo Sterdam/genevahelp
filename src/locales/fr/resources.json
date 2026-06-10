@@ -135,7 +135,8 @@
     "access_conditions": "Appel téléphonique, frais médicaux à charge du patient"
   },
   "r_0029": {
-    "description": "Accueil de jour pour les personnes en situation de précarité. Espace chaleureux, café, douches, lessive, accès internet et activités.",
+    "name": "Centre d'accueil de la Roseraie",
+    "description": "Accueil de jour pour les personnes migrantes et en situation de précarité. Espace chaleureux, café, activités et ateliers de français gratuits sans inscription : débutants (vers A1 et A2), conversation et prononciation, français thématique et sorties découverte.",
     "target_audience": "Personnes en situation de précarité",
     "access_conditions": "Sans conditions, accueil libre"
   },
@@ -410,9 +411,9 @@
     "access_conditions": "Appeler le numéro gratuit 0800 22 22 10 pour obtenir une place, accueil inconditionnel"
   },
   "r_0084": {
-    "description": "Lieu d'accueil de jour inconditionnel au Temple de la Servette pour les personnes en situation de précarité. Repas solidaires, boissons chaudes, écrivain public (CV, lettres), ateliers de français, anglais et informatique. Permanence juridique gratuite au 48 rue de Berne (lun 10h-12h, mer 17h30-19h30, jeu 10h-12h) : droit des étrangers, famille, travail, assurances sociales, pénal.",
-    "target_audience": "Personnes en situation de précarité, migrants, sans-abri",
-    "access_conditions": "Sans conditions, accueil inconditionnel"
+    "description": "Cours de français gratuits au cœur de l'activité : 4 niveaux (FRO primo-arrivants, FR1 bases, FR2 conversation, FR3 niveau A2-B1). Du lundi au vendredi, 9h-12h et 14h-17h (fermé le mercredi matin). Sans inscription. Également : accueil de jour inconditionnel au Temple de la Servette, repas solidaires, boissons chaudes, écrivain public, espace internet. Permanence juridique gratuite (lun 11h30-13h, mer 17h30-19h, sur RDV).",
+    "target_audience": "Personnes en situation de précarité, migrants, personnes souhaitant apprendre le français",
+    "access_conditions": "Sans conditions, accueil inconditionnel. Cours de français gratuits sans inscription."
   },
   "r_0085": {
     "description": "Bains publics emblématiques au bord du lac Léman. Plage de sable, bassins, plongeoirs (3-10m), sauna et hammam, buvette populaire. Entrée très abordable (2 CHF en été, 1 CHF en hiver).",
@@ -1589,5 +1590,47 @@
     "description": "Service municipal gratuit d'information et d'orientation sociale. Appui ponctuel pour les démarches administratives. Ouvert à toute la population de la Ville de Genève.",
     "target_audience": "Habitants de la Ville de Genève",
     "access_conditions": "Gratuit et ouvert à tous les habitants de la Ville de Genève."
+  },
+  "r_0244": {
+    "name": "L'Atelier Alpha",
+    "description": "Association proposant des cours de français oral et d'alphabétisation pour personnes migrantes analphabètes ou en difficulté d'apprentissage. Pédagogie innovante et autonomisante, salle-atelier adaptée. Cours du lundi au vendredi matin et après-midi, cours du soir lundi et mercredi. Tarif adapté aux petits budgets : CHF 20/mois pour les bénéficiaires de l'Hospice Général.",
+    "target_audience": "Personnes migrantes analphabètes ou peu scolarisées",
+    "access_conditions": "CHF 20/mois pour bénéficiaires Hospice Général (tarif standard CHF 205/mois). Minimum 2 séances/semaine."
+  },
+  "r_0245": {
+    "name": "Espace parents-enfants de Saint-Gervais",
+    "description": "Espace ludique et de ressourcement pour familles en situation de précarité avec enfants de 0 à 12 ans. Repas de midi gratuit à 12h15. Écoute, reconnaissance et orientation sociale par une équipe de professionnels. Ouvert sans inscription et de manière anonyme, y compris pendant les vacances scolaires.",
+    "target_audience": "Familles en situation de précarité avec enfants de 0 à 12 ans, femmes enceintes",
+    "access_conditions": "Gratuit, sans inscription, accueil anonyme. Ouvert pendant les vacances scolaires (sauf un mois en été). Fermé les jours fériés."
+  },
+  "r_0246": {
+    "name": "Point d'eau potable — Promenade de l'Aire (Confignon)",
+    "description": "Point d'eau potable en libre accès sur la promenade de l'Aire renaturée, près de la passerelle des Chardons-à-Tête-Ronde. Aire de repos avec banc et tables de pique-nique. Accessible 24h/24, toute l'année.",
+    "target_audience": "Tout public",
+    "access_conditions": "Libre accès, 24h/24."
+  },
+  "r_0247": {
+    "name": "Info seniors Lancy — Permanence téléphonique (Pôle seniors)",
+    "description": "Permanence téléphonique gratuite de la Ville de Lancy pour les seniors lancéens et leurs proches : prestations communales, activités et sorties, bénévolat, solutions de logement pour seniors, orientation vers les organismes de soins et de soutien à domicile (repas, ménage, courses, transports) et prestations financières cantonales et fédérales.",
+    "target_audience": "Lancéen-nes en âge AVS, leurs proches et leur entourage",
+    "access_conditions": "Gratuit, sans inscription. Numéro d'appel gratuit."
+  },
+  "r_0248": {
+    "name": "Permanence numérique de Lancy (Villa Rapin)",
+    "description": "Deux fois par mois, le Service des affaires sociales et du logement de Lancy aide les habitant-es avec leurs outils numériques (smartphone, ordinateur, tablette) et leurs démarches administratives en ligne. Encadrement par des étudiant-es et des professionnels. Un lundi par mois de 17h à 19h et un mardi par mois de 14h à 16h — dates sur lancy.ch.",
+    "target_audience": "Habitant-es de la Ville de Lancy, tous publics",
+    "access_conditions": "Gratuit, sans inscription. Apporter son propre appareil (matériel non fourni)."
+  },
+  "r_0249": {
+    "name": "FacLab — UNIGE (Battelle)",
+    "description": "Atelier de fabrication numérique de l'Université de Genève ouvert à la Cité, dans le parc de Battelle. Impression 3D, découpe laser, électronique et formations aux techniques de fabrication numérique, y compris des ateliers pour jeunes et pour les classes. Accueille étudiant-es, associations et citoyen-nes dans le cadre de ses activités.",
+    "target_audience": "Étudiant-es, makers, associations et habitant-es intéressés par la fabrication numérique",
+    "access_conditions": "Sur inscription via la communauté en ligne faclab.ch ou en participant aux activités proposées. Contacter faclab@unige.ch."
+  },
+  "r_0250": {
+    "name": "EPER — Permanences volantes",
+    "description": "Espace d'écoute, d'information et d'orientation pour les personnes migrantes en situation de précarité, principalement les communautés hispanophone, lusophone, mongole et philippine. Questions administratives et sociales, soutien dans les démarches, séances d'information, ateliers et activités sportives et culturelles.",
+    "target_audience": "Personnes sans statut légal ou récemment régularisées (hors domaine de l'asile et hors passeport UE/AELE)",
+    "access_conditions": "Gratuit. Consultations individuelles sur rendez-vous ; séances d'information sans rendez-vous ; ateliers et activités sur inscription."
   }
 }

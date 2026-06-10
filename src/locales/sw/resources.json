@@ -135,9 +135,10 @@
     "access_conditions": "Kwa simu, gharama za matibabu kwa mgonjwa"
   },
   "r_0029": {
-    "description": "Mapokezi ya mchana kwa watu walio katika hali ngumu. Eneo la joto, kahawa, kuoga, kufulia, intaneti na shughuli.",
+    "name": "Kituo cha Mapokezi cha La Roseraie",
+    "description": "Kituo cha mchana kwa wahamiaji na watu walio katika hali ngumu. Mahali pa joto na ukarimu, kahawa, shughuli na warsha za Kifaransa bila malipo na bila usajili: waanzilishi (kuelekea A1 na A2), mazungumzo na matamshi, Kifaransa cha mada maalum na matembezi ya kugundua.",
     "target_audience": "Watu walio katika hali ngumu",
-    "access_conditions": "Bila masharti, mapokezi ya bure"
+    "access_conditions": "Bila masharti, mapokezi huru"
   },
   "r_0030": {
     "description": "Mashauriano ya kisaikolojia bila malipo au bei nafuu kwa wahamiaji. Msaada wa kisaikolojia kwa lugha kadhaa.",
@@ -410,9 +411,9 @@
     "access_conditions": "Piga nambari ya bure 0800 22 22 10, mapokezi bila masharti"
   },
   "r_0084": {
-    "description": "Kituo cha mapokezi ya mchana bila masharti katika Hekalu la Servette kwa watu walio katika hali ngumu. Milo ya mshikamano, vinywaji vya moto, mwandishi wa umma (CV, barua), madarasa ya Kifaransa, Kiingereza na kompyuta. Ushauri wa kisheria bila malipo katika 48 rue de Berne (Jtt saa 4-6 asubuhi, Jumatano saa 11:30-1:30 jioni, Alh saa 4-6 asubuhi): sheria ya wageni, familia, kazi, bima za kijamii, jinai.",
-    "target_audience": "Watu walio katika hali ngumu, wahamiaji, watu wasio na makazi",
-    "access_conditions": "Bila masharti, mapokezi bila vikwazo"
+    "description": "Masomo ya Kifaransa bure katikati ya shughuli: viwango 4 (FRO wapya, FR1 msingi, FR2 mazungumzo, FR3 kiwango A2-B1). Jumatatu hadi Ijumaa, 9-12 na 14-17 (imefungwa Jumatano asubuhi). Bila usajili. Pia: mapokezi ya siku bila masharti katika Temple de la Servette, milo ya mshikamano, vinywaji vya moto, mwandishi wa umma, nafasi ya mtandao. Ushauri wa kisheria bure (Jtat 11:30-13h, Jtan 17:30-19h, kwa miadi).",
+    "target_audience": "Watu walio katika hali ngumu, wahamiaji, watu wanaotaka kujifunza Kifaransa",
+    "access_conditions": "Bila masharti, mapokezi bila masharti. Masomo ya Kifaransa bure, usajili hauhitajiki."
   },
   "r_0085": {
     "description": "Maeneo ya kuogelea ya umma maarufu kando ya Ziwa Léman. Ufukwe wa mchanga, mabwawa, kuruka (mita 3-10), sauna na hamamu. Bei nafuu sana (CHF 2 wakati wa kiangazi, CHF 1 wakati wa baridi).",
@@ -1589,5 +1590,47 @@
     "description": "Free municipal information and social orientation service. Support for administrative procedures. Open to all Geneva city residents.",
     "target_audience": "Geneva city residents",
     "access_conditions": "Free and open to all Geneva city residents."
+  },
+  "r_0244": {
+    "name": "Atelier Alpha",
+    "description": "Chama kinachotoa masomo ya Kifaransa ya mdomo na kusoma na kuandika kwa wahamiaji wasiojua kusoma au wenye ugumu wa kujifunza. Ufundishaji wa ubunifu na uwezeshaji katika karakana maalum. Masomo Jumatatu hadi Ijumaa asubuhi na mchana, masomo ya jioni Jumatatu na Jumatano. Bei iliyorekebishwa kwa bajeti ndogo: CHF 20/mwezi kwa wanufaika wa Hospice Général.",
+    "target_audience": "Wahamiaji wasiojua kusoma au wasio na elimu ya kutosha",
+    "access_conditions": "CHF 20/mwezi kwa wanufaika wa Hospice Général (bei ya kawaida CHF 205/mwezi). Angalau vikao 2/wiki."
+  },
+  "r_0245": {
+    "name": "Nafasi ya wazazi-watoto Saint-Gervais",
+    "description": "Nafasi ya kucheza na kupumzika kwa familia zilizo katika hali ngumu na watoto wenye umri wa miaka 0-12. Chakula cha mchana bure saa 12:15. Kusikiliza, kutambuliwa na mwongozo wa kijamii na timu ya wataalamu. Wazi bila usajili na bila kutoa jina, ikiwa ni pamoja na wakati wa likizo za shule.",
+    "target_audience": "Familia zilizo katika hali ngumu na watoto wa miaka 0-12, wanawake wajawazito",
+    "access_conditions": "Bure, bila usajili, mapokezi bila jina. Wazi wakati wa likizo za shule (isipokuwa mwezi mmoja wakati wa kiangazi). Imefungwa siku za sikukuu."
+  },
+  "r_0246": {
+    "name": "Sehemu ya maji ya kunywa — promenade de l'Aire (Confignon)",
+    "description": "Sehemu ya maji ya kunywa inayopatikana bila malipo kwenye njia ya matembezi ya promenade de l'Aire iliyorejeshwa katika hali yake ya asili, karibu na daraja la passerelle des Chardons-à-Tête-Ronde. Eneo la kupumzika lenye benchi na meza za pikiniki. Inapatikana saa 24 kwa siku, mwaka mzima.",
+    "target_audience": "Kila mtu",
+    "access_conditions": "Upatikanaji huru, saa 24 kwa siku."
+  },
+  "r_0247": {
+    "name": "Info seniors Lancy — Huduma ya simu (Pôle seniors)",
+    "description": "Huduma ya simu isiyolipishwa ya Jiji la Lancy kwa wazee wa Lancy na ndugu zao: huduma za manispaa, shughuli na matembezi, kujitolea, chaguzi za makazi kwa wazee, kuelekezwa kwa mashirika ya matunzo na huduma za msaada nyumbani (chakula, usafi, ununuzi, usafiri) pamoja na misaada ya kifedha ya kantoni na ya shirikisho.",
+    "target_audience": "Wakazi wa Lancy walio katika umri wa kustaafu (AVS), ndugu zao na watu wa karibu",
+    "access_conditions": "Bila malipo, bila usajili. Nambari ya simu isiyolipishwa."
+  },
+  "r_0248": {
+    "name": "Huduma ya Msaada wa Kidijitali ya Lancy (Villa Rapin)",
+    "description": "Mara mbili kwa mwezi, Idara ya Masuala ya Kijamii na Makazi ya Lancy huwasaidia wakazi na vifaa vyao vya kidijitali (simu janja, kompyuta, kompyuta kibao) na taratibu za kiutawala mtandaoni. Husimamiwa na wanafunzi na wataalamu. Jumatatu moja kwa mwezi saa 17:00 hadi 19:00 na Jumanne moja kwa mwezi saa 14:00 hadi 16:00 — tarehe zinapatikana kwenye lancy.ch.",
+    "target_audience": "Wakazi wa Jiji la Lancy, wazi kwa wote",
+    "access_conditions": "Bila malipo, bila usajili. Leta kifaa chako mwenyewe (vifaa havitolewi)."
+  },
+  "r_0249": {
+    "name": "FacLab — UNIGE (Battelle)",
+    "description": "Karakana ya utengenezaji wa kidijitali ya Chuo Kikuu cha Geneva iliyo wazi kwa umma, katika bustani ya Battelle. Uchapishaji wa 3D, ukataji kwa leza, elektroniki na mafunzo ya mbinu za utengenezaji wa kidijitali, ikiwa ni pamoja na warsha kwa vijana na kwa madarasa ya shule. Hupokea wanafunzi, vyama na wananchi kupitia shughuli zake.",
+    "target_audience": "Wanafunzi, watengenezaji (makers), vyama na wakazi wanaopendezwa na utengenezaji wa kidijitali",
+    "access_conditions": "Kwa usajili kupitia jumuiya ya mtandaoni faclab.ch au kwa kushiriki katika shughuli zinazotolewa. Wasiliana na faclab@unige.ch."
+  },
+  "r_0250": {
+    "name": "EPER — Huduma za msaada zinazotembea",
+    "description": "Mahali pa kusikilizwa, kupata habari na mwelekeo kwa wahamiaji walio katika hali ngumu, hasa jamii zinazozungumza Kihispania, Kireno, Kimongolia na Kifilipino. Maswali ya kiutawala na kijamii, msaada katika taratibu, vikao vya habari, warsha pamoja na shughuli za michezo na utamaduni.",
+    "target_audience": "Watu wasio na hadhi ya kisheria au waliohalalishwa hivi karibuni (nje ya mfumo wa hifadhi na wasio na pasipoti ya EU/AELE)",
+    "access_conditions": "Bila malipo. Ushauri wa kibinafsi kwa miadi; vikao vya habari bila miadi; warsha na shughuli kwa usajili."
   }
 }

@@ -135,9 +135,10 @@
     "access_conditions": "Kontakt telefoniczny, koszty medyczne pokrywa pacjent"
   },
   "r_0029": {
-    "description": "Dzienny ośrodek przyjęć dla osób w trudnej sytuacji życiowej. Przytulna przestrzeń, kawa, prysznice, pralnia, dostęp do internetu i zajęcia.",
+    "name": "Centrum przyjęć La Roseraie",
+    "description": "Ośrodek dziennego pobytu dla osób migrujących i znajdujących się w trudnej sytuacji. Przyjazna przestrzeń, kawa, zajęcia oraz bezpłatne warsztaty języka francuskiego bez zapisów: dla początkujących (poziomy A1 i A2), konwersacje i wymowa, francuski tematyczny oraz wycieczki krajoznawcze.",
     "target_audience": "Osoby w trudnej sytuacji życiowej",
-    "access_conditions": "Bez warunków, wolny dostęp"
+    "access_conditions": "Bez warunków, wstęp wolny"
   },
   "r_0030": {
     "description": "Bezpłatne lub ze zniżką konsultacje psychologiczne dla migrantów. Wsparcie psychologiczne w wielu językach.",
@@ -410,9 +411,9 @@
     "access_conditions": "Zadzwoń pod bezpłatny numer 0800 22 22 10 aby uzyskać miejsce, przyjęcie bezwarunkowe"
   },
   "r_0084": {
-    "description": "Bezwarunkowe dzienne przyjęcie w Świątyni Servette dla osób w trudnej sytuacji. Solidarne posiłki, ciepłe napoje, publiczny pisarz (CV, listy), warsztaty z francuskiego, angielskiego i informatyki. Bezpłatna pomoc prawna przy Rue de Berne 48 (pon 10-12, śr 17:30-19:30, czw 10-12).",
-    "target_audience": "Osoby w trudnej sytuacji, migranci, bezdomni",
-    "access_conditions": "Bez warunków, bezwarunkowe przyjęcie"
+    "description": "Bezpłatne kursy francuskiego w centrum działalności: 4 poziomy (FRO nowoprzybyli, FR1 podstawy, FR2 konwersacja, FR3 poziom A2-B1). Od poniedziałku do piątku, 9-12 i 14-17 (zamknięte w środę rano). Bez rejestracji. Również: bezwarunkowe przyjęcie dzienne w Temple de la Servette, posiłki solidarnościowe, gorące napoje, pisarz publiczny, przestrzeń internetowa. Bezpłatna porada prawna (pon 11:30-13h, śr 17:30-19h, po umówieniu).",
+    "target_audience": "Osoby w trudnej sytuacji, migranci, osoby chcące uczyć się francuskiego",
+    "access_conditions": "Bez warunków, bezwarunkowe przyjęcie. Bezpłatne kursy francuskiego bez rejestracji."
   },
   "r_0085": {
     "description": "Kultowe kąpielisko publiczne nad brzegiem Jeziora Genewskiego. Plaża piaszczysta, baseny, skocznia (3-10 m), sauna i hammam, popularna kawiarnia. Bardzo przystępna cena wstępu (2 CHF latem, 1 CHF zimą).",
@@ -1589,5 +1590,47 @@
     "description": "Free municipal information and social orientation service. Support for administrative procedures. Open to all Geneva city residents.",
     "target_audience": "Geneva city residents",
     "access_conditions": "Free and open to all Geneva city residents."
+  },
+  "r_0244": {
+    "name": "Atelier Alpha",
+    "description": "Stowarzyszenie oferujące kursy francuskiego ustnego i alfabetyzacji dla niepiśmiennych migrantów lub migrantów z trudnościami w nauce. Innowacyjna i wzmacniająca pedagogika w specjalnie wyposażonym atelier. Kursy od poniedziałku do piątku rano i po południu, kursy wieczorne w poniedziałek i środę. Dostosowana cena dla niskich budżetów: CHF 20/miesiąc dla beneficjentów Hospice Général.",
+    "target_audience": "Niepiśmienni lub słabo wykształceni migranci",
+    "access_conditions": "CHF 20/miesiąc dla beneficjentów Hospice Général (cena standardowa CHF 205/miesiąc). Minimum 2 sesje/tydzień."
+  },
+  "r_0245": {
+    "name": "Przestrzeń rodzice-dzieci Saint-Gervais",
+    "description": "Przestrzeń zabaw i odpoczynku dla rodzin w trudnej sytuacji z dziećmi w wieku 0-12 lat. Bezpłatny obiad o 12:15. Słuchanie, uznanie i orientacja społeczna przez zespół profesjonalistów. Otwarte bez rejestracji i anonimowo, również podczas ferii szkolnych.",
+    "target_audience": "Rodziny w trudnej sytuacji z dziećmi w wieku 0-12 lat, kobiety w ciąży",
+    "access_conditions": "Bezpłatne, bez rejestracji, anonimowe przyjęcie. Otwarte podczas ferii szkolnych (z wyjątkiem jednego miesiąca latem). Zamknięte w dni świąteczne."
+  },
+  "r_0246": {
+    "name": "Punkt wody pitnej — Promenade de l'Aire (Confignon)",
+    "description": "Ogólnodostępny punkt wody pitnej na zrenaturyzowanej promenadzie nad rzeką Aire (promenade de l'Aire), w pobliżu kładki passerelle des Chardons-à-Tête-Ronde. Miejsce odpoczynku z ławką i stołami piknikowymi. Dostępny całodobowo, przez cały rok.",
+    "target_audience": "Dla wszystkich",
+    "access_conditions": "Wstęp wolny, całodobowo."
+  },
+  "r_0247": {
+    "name": "Info seniors Lancy — Dyżur telefoniczny (Pôle seniors)",
+    "description": "Bezpłatna linia telefoniczna Miasta Lancy dla seniorów z Lancy i ich bliskich: świadczenia gminne, zajęcia i wycieczki, wolontariat, rozwiązania mieszkaniowe dla seniorów, kierowanie do organizacji opieki i wsparcia w domu (posiłki, sprzątanie, zakupy, transport) oraz kantonalne i federalne świadczenia finansowe.",
+    "target_audience": "Mieszkańcy Lancy w wieku emerytalnym (AVS), ich bliscy i otoczenie",
+    "access_conditions": "Bezpłatnie, bez zapisów. Bezpłatny numer telefonu."
+  },
+  "r_0248": {
+    "name": "Dyżur cyfrowy w Lancy (Villa Rapin)",
+    "description": "Dwa razy w miesiącu Wydział Spraw Społecznych i Mieszkalnictwa Lancy pomaga mieszkańcom w obsłudze urządzeń cyfrowych (smartfon, komputer, tablet) oraz w załatwianiu spraw urzędowych online. Wsparcie zapewniają studenci i specjaliści. Jeden poniedziałek w miesiącu w godz. 17:00–19:00 i jeden wtorek w miesiącu w godz. 14:00–16:00 — terminy na lancy.ch.",
+    "target_audience": "Mieszkańcy Miasta Lancy, dla wszystkich",
+    "access_conditions": "Bezpłatnie, bez zapisów. Należy przynieść własne urządzenie (sprzęt nie jest zapewniany)."
+  },
+  "r_0249": {
+    "name": "FacLab — Uniwersytet Genewski (Battelle)",
+    "description": "Pracownia produkcji cyfrowej Uniwersytetu Genewskiego otwarta dla mieszkańców, w parku Battelle. Druk 3D, cięcie laserowe, elektronika oraz szkolenia z technik produkcji cyfrowej, w tym warsztaty dla młodzieży i klas szkolnych. Przyjmuje studentów, stowarzyszenia i mieszkańców w ramach swoich zajęć.",
+    "target_audience": "Studenci, makerzy, stowarzyszenia i mieszkańcy zainteresowani produkcją cyfrową",
+    "access_conditions": "Zapisy przez społeczność online faclab.ch lub poprzez udział w oferowanych zajęciach. Kontakt: faclab@unige.ch."
+  },
+  "r_0250": {
+    "name": "EPER — Dyżury mobilne",
+    "description": "Miejsce wysłuchania, informacji i poradnictwa dla osób migrujących w trudnej sytuacji, głównie dla społeczności hiszpańskojęzycznej, portugalskojęzycznej, mongolskiej i filipińskiej. Sprawy administracyjne i socjalne, wsparcie w formalnościach, spotkania informacyjne, warsztaty oraz zajęcia sportowe i kulturalne.",
+    "target_audience": "Osoby bez statusu prawnego lub niedawno zalegalizowane (poza systemem azylowym i bez paszportu UE/EFTA)",
+    "access_conditions": "Bezpłatnie. Konsultacje indywidualne po umówieniu wizyty; spotkania informacyjne bez umawiania; warsztaty i zajęcia po zapisaniu się."
   }
 }

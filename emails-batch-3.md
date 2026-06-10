@@ -540,3 +540,151 @@ Les modifications sont en ligne. N'hésitez pas si d'autres ajustements sont né
 
 Cordialement,
 L'équipe GeveMap
+
+
+## Batch 9 — COMITES + Points info (23 mars 2026)
+
+### EMAIL 1: Barbara Sartore / COMITES (2 ressources acceptées)
+- **À:** Comunicazione@comites-ginevra.ch
+- **Objet:** Vos 2 suggestions intégrées à GeveMap
+
+Madame Sartore,
+
+Merci pour vos suggestions ! Les deux ressources COMITES ont été intégrées à GeveMap :
+
+- ✅ Ateliers créatifs de langue et culture italienne pour enfants → intégré
+- ✅ Comité des Italiens à l'Étranger (COMITES) Genève → intégré
+
+Chaque ressource est disponible en 32 langues sur la carte.
+
+Cordialement,
+L'équipe GeveMap
+
+### EMAIL 2: Marie-Laure Schaerer / Points info (2 ressources acceptées)
+- **À:** marie-laure.schaerer@geneve.ch
+- **Objet:** Points info de Plainpalais et de la Servette intégrés à GeveMap
+
+Madame Schaerer,
+
+Merci pour vos suggestions ! Les deux Points info ont été intégrés à GeveMap :
+
+- ✅ Point info de Plainpalais (Rue Dancet 22) → intégré (corrigé : « Point info » sans s)
+- ✅ Point info de la Servette (Rue Hoffmann 8) → intégré
+
+Les deux sont disponibles en 32 langues sur la carte avec les horaires et le numéro vert 0800 44 77 00.
+
+Cordialement,
+L'équipe GeveMap
+
+
+## Batch 10 — Atelier Alpha + Espace parents-enfants Saint-Gervais + modification ESPA (13 avril 2026)
+
+### EMAIL 1: Chloé Wittwer / Atelier Alpha (acceptée)
+- **À:** 0766485548 (pas d'email fourni)
+- **Objet:** Votre suggestion sur GeveMap — L'Atelier Alpha
+
+Bonjour Chloé,
+
+Merci pour votre suggestion de l'Atelier Alpha sur GeveMap !
+
+L'association a été intégrée à notre carte : cours de français oral et d'alphabétisation pour personnes migrantes, pédagogie innovante, rue du Pré-Jérôme 9. Nous avons bien noté le tarif adapté de CHF 20/mois pour les bénéficiaires de l'Hospice Général.
+
+La ressource est désormais disponible en 32 langues sur la carte.
+
+Cordialement,
+L'équipe GeveMap
+
+### EMAIL 2: Marine Le Hénanf / Espace parents-enfants de Saint-Gervais (acceptée)
+- **À:** marine.le-henanf@geneve.ch
+- **Objet:** Votre suggestion sur GeveMap — Espace parents-enfants de Saint-Gervais
+
+Bonjour Marine,
+
+Merci pour votre suggestion de l'Espace parents-enfants de Saint-Gervais sur GeveMap !
+
+L'espace a été intégré à notre carte : lieu d'accueil gratuit et anonyme pour familles en situation de précarité avec enfants de 0 à 12 ans, avec repas de midi offert. Horaires, conditions d'accès et services sont bien indiqués.
+
+La ressource est disponible en 32 langues sur la carte.
+
+Cordialement,
+L'équipe GeveMap
+
+### Modification appliquée: ESPA — catégorie « langue » (commentaire Chloé / UOG)
+- **Source:** Commentaire site web (Chloé, bénévole UOG)
+- **Modification:** Espace Solidarité Pâquis (ESPâ) rattaché à la catégorie « Langues ». Description mise à jour pour mettre en avant les cours de français gratuits : 4 niveaux (FRO primo-arrivants, FR1 bases, FR2 conversation, FR3 niveau A2-B1), du lundi au vendredi 9h-12h et 14h-17h (fermé mercredi matin). Horaires corrigés (mercredi matin fermé). Les autres services (repas, juridique, écrivain public) sont conservés dans la description.
+
+
+## Batch 11 — Point d'eau Confignon + Lancy ×2 + FacLab + Roseraie + EPER (10 juin 2026)
+
+### EMAIL 1: Aleksandr / Point d'eau potable Confignon (acceptée)
+- **À:** Aleksandrmosienko1505@gmail.com
+- **Objet:** Votre suggestion sur GenevaHelp — Point d'eau potable (Confignon) ✓
+
+Bonjour,
+
+Merci pour votre suggestion d'un point d'eau potable sur GenevaHelp !
+
+Nous avons vérifié les coordonnées : il s'agit du point d'eau de la promenade de l'Aire, près de la passerelle des Chardons-à-Tête-Ronde à Confignon (avec banc et tables de pique-nique). Il a été ajouté à notre carte, en libre accès 24h/24.
+
+La ressource est disponible en 32 langues sur la carte.
+
+Cordialement,
+L'équipe GenevaHelp
+
+### EMAIL 2: Caroline Chaupond / Ville de Lancy (2 ressources acceptées)
+- **À:** c.chaupond@lancy.ch
+- **Objet:** Vos 2 suggestions intégrées à GenevaHelp ✓
+
+Bonjour Caroline,
+
+Merci beaucoup pour vos deux suggestions ! Elles ont été vérifiées et intégrées à GenevaHelp :
+
+- ✅ Info seniors Lancy — Permanence téléphonique (Pôle seniors) : mardis 9h-11h et jeudis 13h30-15h30, 0800 00 00 28. Petite correction apportée : nous avons utilisé l'adresse email infoseniors@lancy.ch (avec « s ») et l'adresse Route du Grand-Lancy 39A, telles qu'affichées sur lancy.ch.
+- ✅ Permanence numérique de Lancy (Villa Rapin) : nous avons précisé le lieu (Villa Rapin), l'ouverture à tous les publics et la nécessité d'apporter son propre appareil.
+
+Chaque ressource est disponible en 32 langues sur la carte. N'hésitez pas à nous signaler tout changement d'horaires.
+
+Cordialement,
+L'équipe GenevaHelp
+
+### EMAIL 3: hugom / FacLab UNIGE (acceptée)
+- **À:** +33 7 72 77 98 44 (pas d'email fourni — SMS ou appel)
+- **Objet:** N/A — contact par téléphone
+
+Note : remercier par SMS/téléphone. Le FacLab a été ajouté à la carte (bâtiment A, Route de Drize 7, Carouge, catégorie Éducation), avec une condition d'accès prudente : « sur inscription via la communauté en ligne faclab.ch ou en participant aux activités », contact faclab@unige.ch — la gratuité d'un accès libre aux machines n'étant pas garantie publiquement.
+
+### EMAIL 4: Maïlys / La Roseraie — cours de français (acceptée, mise à jour)
+- **À:** stabilocounting@posteo.com
+- **Objet:** Votre suggestion sur GenevaHelp — La Roseraie ✓
+
+Bonjour Maïlys,
+
+Merci pour votre signalement concernant le Centre de la Roseraie sur GenevaHelp !
+
+Vous aviez raison : les cours de français gratuits manquaient sur la fiche. Nous l'avons mise à jour : ateliers de français gratuits sans inscription (débutants vers A1 et A2, conversation et prononciation, français thématique et sorties). Nous en avons profité pour corriger l'adresse du centre (Rue de la Maladière 2, 1205 Genève) et ajouter son site web.
+
+Merci pour votre contribution !
+
+Cordialement,
+L'équipe GenevaHelp
+
+### EMAIL 5: Susana Jiménez / EPER Permanences volantes (acceptée)
+- **À:** susana.jimenez@eper.ch
+- **Objet:** Votre suggestion sur GenevaHelp — Permanences volantes EPER ✓
+
+Bonjour Susana,
+
+Merci beaucoup pour votre suggestion des Permanences volantes de l'EPER sur GenevaHelp !
+
+La ressource a été vérifiée et ajoutée à notre carte : Rue de l'Orangerie 1, accueil gratuit pour les personnes sans statut légal ou récemment régularisées, langues parlées (français, anglais, espagnol, portugais, tagalog, mongol). Petite précision : nous avons repris les horaires affichés sur eper.ch (lundi à jeudi 9h-13h et 14h-18h) — n'hésitez pas à nous corriger si besoin.
+
+Merci pour le travail important de l'EPER auprès des personnes migrantes à Genève.
+
+Cordialement,
+L'équipe GenevaHelp
+
+### EN ATTENTE: Sarah / Frigo solidaire MQJ (à confirmer)
+- **À:** 078 725 08 40 (téléphone uniquement)
+- **Statut:** Suggestion laissée en attente
+
+Note : le frigo solidaire en libre-service à la Maison de Quartier de la Jonction n'a pas pu être corroboré en ligne (absent des réseaux Free-Go et Madame Frigo, aucune mention sur mqj.ch ni dans la presse). Avant publication, appeler la MQJ au 022 545 20 20 pour confirmer l'existence et les modalités du frigo. La MQJ elle-même est déjà référencée sur la carte.

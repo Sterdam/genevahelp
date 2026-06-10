@@ -135,9 +135,10 @@
     "access_conditions": "Bi têlefonê, mesrefên bijîşkî li ser nexweş in"
   },
   "r_0029": {
-    "description": "Pêşwaziya rojane ji bo kesên di rewşa tengasiyê de. Qada germ, qehwe, serşok, cilşûştin, gihîştina înternetê û çalakî.",
-    "target_audience": "Kesên di rewşa tengasiyê de",
-    "access_conditions": "Bê merc, pêşwaziya azad"
+    "name": "Navenda Pêşwaziyê La Roseraie",
+    "description": "Navenda pêşwaziya rojane ji bo koçberan û kesên di rewşa dijwar de. Cihekî germ, qehwe, çalakî û atolyeyên fransî yên belaş bê tomarkirin: destpêk (ber bi A1 û A2 ve), axaftin û bilêvkirin, fransiya mijarî û gerên naskirinê.",
+    "target_audience": "Kesên di rewşa dijwar de",
+    "access_conditions": "Bê şert, pêşwaziya azad"
   },
   "r_0030": {
     "description": "Muayeneyên derûnî yên belaş an bi bihayên kêm ji bo kesên koçber. Piştgiriya derûnî bi çend zimanan.",
@@ -410,9 +411,9 @@
     "access_conditions": "Bi jimareya belaş 0800 22 22 10 re têkilî bikin da ku cihek bistînin, pêşwaziya bê mercî"
   },
   "r_0084": {
-    "description": "Stargehek rojane ya bê merc. Xwarinên hevgirtî, vexwarinên germ, nivîskarê giştî, dersên perwerdehiyê. Şêwirmendiya hiqûqî ya belaş.",
-    "target_audience": "Kesên hewcedar, koçber, kesên bê mal",
-    "access_conditions": "Bê merc, ji bo hemûyan vekirî ye"
+    "description": "Dersên fransizî yên belaş di navenda çalakiyan de: 4 ast (FRO nûhatî, FR1 bingehîn, FR2 axaftin, FR3 asta A2-B1). Ji duşemê heta înê, 9-12 û 14-17 (serê sibê yê çarşemê girtî). Bêyî qeydkirin. Her wiha: pêşwaziya rojane ya bêmercî li Temple de la Servette, xwarinên hevgirtinê, vexwarinên germ, nivîskarê gel, cihê înternetê. Şêwirmendiya dadrêsî ya belaş (duşem 11:30-13h, çarşem 17:30-19h, bi randevû).",
+    "target_audience": "Kesên di rewşeke dijwar de, koçber, kesên ku dixwazin fransizî hîn bibin",
+    "access_conditions": "Bêyî mercî, pêşwaziya bêmercî. Dersên fransizî yên belaş bêyî qeydkirin."
   },
   "r_0085": {
     "description": "Serşoka giştî ya navdar a li ber Gola Léman. Perava qûmê, hewz, xwe avêtin (3-10m), sauna û hemam, barkahek populer. Bihayê ketinê pir erzan e (2 CHF di havînê de, 1 CHF di zivistanê de).",
@@ -1589,5 +1590,47 @@
     "description": "Free municipal information and social orientation service. Support for administrative procedures. Open to all Geneva city residents.",
     "target_audience": "Geneva city residents",
     "access_conditions": "Free and open to all Geneva city residents."
+  },
+  "r_0244": {
+    "name": "Atolyeya Alpha",
+    "description": "Komeleyek ku dersên fransizî yên devkî û xwendin û nivîsandinê ji bo koçberên nexwende an bi zehmetiyên fêrbûnê pêşkêş dike. Pedagojiya nûjen û xweser di atolyeyek taybetî de. Ders ji duşemê heta înê sibeh û piştî nîvro, dersên êvarê duşem û çarşem. Bihayê ji bo budceya kêm: CHF 20/meh ji bo xwedan Hospice Général.",
+    "target_audience": "Koçberên nexwende an kêm xwendewar",
+    "access_conditions": "CHF 20/meh ji bo xwedan Hospice Général (bihayê standard CHF 205/meh). Herî kêm 2 danişîn/hefte."
+  },
+  "r_0245": {
+    "name": "Cihê dêûbav-zarok ên Saint-Gervais",
+    "description": "Cihê lîstik û bêhnvedanê ji bo malbatên di rewşeke dijwar de bi zarokên 0 heta 12 salî. Firavîna nîvro ya belaş di 12:15 de. Guhdarîkirin, nasîn û rêberiya civakî ji hêla tîmek pisporan ve. Bêyî qeydkirin û binavkirin vekirî ye, di dema betlaneyên dibistanê de jî.",
+    "target_audience": "Malbatên di rewşeke dijwar de bi zarokên 0 heta 12 salî, jinên ducanî",
+    "access_conditions": "Belaş, bêyî qeydkirin, pêşwaziya bênas. Di dema betlaneyên dibistanê de vekirî (ji bilî mehekê di havînê de). Di rojên fermî de girtî."
+  },
+  "r_0246": {
+    "name": "Xala ava vexwarinê — promenade de l'Aire (Confignon)",
+    "description": "Xala ava vexwarinê ya bi gihîştina azad li ser rêya meşê ya promenade de l'Aire ya ku ji nû ve xwezayî hatiye kirin, nêzîkî pira peyayan passerelle des Chardons-à-Tête-Ronde. Cihê bêhnvedanê bi text û maseyên pîknîkê. 24 saetan rojê, tevahiya salê vekirî ye.",
+    "target_audience": "Ji bo herkesî",
+    "access_conditions": "Gihîştina azad, 24 saetan rojê."
+  },
+  "r_0247": {
+    "name": "Agahdariya kal û pîran Lancy — Xeta telefonê (Pôle seniors)",
+    "description": "Xeta telefonê ya belaş a Bajarê Lancy ji bo kal û pîrên Lancy û nêzîkên wan: xizmetên şaredariyê, çalakî û ger, karê dilxwazî, çareseriyên xaniyan ji bo kal û pîran, rêberî ber bi rêxistinên lênihêrînê û piştgiriya li malê (xwarin, paqijî, kirîn, veguhastin) û alîkariyên aborî yên kantonê û federal.",
+    "target_audience": "Niştecihên Lancy yên di temenê teqawidiyê (AVS) de, nêzîk û derdora wan",
+    "access_conditions": "Belaş, bê tomarkirin. Hejmara telefonê ya belaş."
+  },
+  "r_0248": {
+    "name": "Maseya alîkariya dîjîtal a Lancy (Villa Rapin)",
+    "description": "Du caran di mehê de, Xizmeta Karûbarên Civakî û Xaniyan a Lancy alîkariya niştecihan dike bi amûrên wan ên dîjîtal (telefona biaqil, komputer, tablet) û karên wan ên îdarî yên serhêl. Bi çavdêriya xwendekar û pisporan. Duşemekê di mehê de ji saet 17:00 heta 19:00 û sêşemekê di mehê de ji saet 14:00 heta 16:00 — dîrok li ser lancy.ch.",
+    "target_audience": "Niştecihên Bajarê Lancy, ji bo herkesî",
+    "access_conditions": "Belaş, bê tomarkirin. Amûra xwe bi xwe re bînin (alav nayên dayîn)."
+  },
+  "r_0249": {
+    "name": "FacLab — Zanîngeha Cenevreyê UNIGE (Battelle)",
+    "description": "Atolyeya çêkirina dîjîtal a Zanîngeha Cenevreyê ku ji bo gel vekirî ye, li parka Battelle. Çapkirina 3D, birîna lazerê, elektronîk û perwerdehiyên teknîkên çêkirina dîjîtal, di nav de atolyeyên ji bo ciwanan û ji bo polên dibistanê. Di çarçoveya çalakiyên xwe de xwendekaran, komeleyan û welatiyan pêşwazî dike.",
+    "target_audience": "Xwendekar, maker, komele û niştecihên ku bi çêkirina dîjîtal re eleqedar in",
+    "access_conditions": "Bi tomarkirina li ser civaka serhêl faclab.ch an bi beşdarbûna çalakiyên pêşkêşkirî. Têkilî: faclab@unige.ch."
+  },
+  "r_0250": {
+    "name": "EPER — Maseyên alîkariyê yên gerok",
+    "description": "Cihê guhdarîkirin, agahdarî û rêberiyê ji bo koçberên di rewşa dijwar de, bi taybetî civakên spanîaxêv, portekîzîaxêv, mongolî û fîlîpînî. Pirsên îdarî û civakî, piştgirî di karan de, danişînên agahdariyê, atolye û çalakiyên werzîşî û çandî.",
+    "target_audience": "Kesên bê statûya qanûnî an ên ku vê dawiyê statûya wan hatiye birêkûpêkkirin (li derveyî warê penaberiyê û bê pasaporta YE/EFTA)",
+    "access_conditions": "Belaş. Şêwirmendiyên takekesî bi randevû; danişînên agahdariyê bê randevû; atolye û çalakî bi tomarkirin."
   }
 }

@@ -135,9 +135,10 @@
     "access_conditions": "Telefonla arama, tıbbi masraflar hastaya aittir"
   },
   "r_0029": {
-    "description": "Zor durumda olan kişiler için gündüz kabul merkezi. Sıcak ortam, kahve, duş, çamaşır, internet erişimi ve etkinlikler.",
+    "name": "La Roseraie Karşılama Merkezi",
+    "description": "Göçmenler ve zor durumda olan kişiler için gündüz karşılama merkezi. Sıcak bir ortam, kahve, etkinlikler ve kayıt gerektirmeyen ücretsiz Fransızca atölyeleri: başlangıç seviyesi (A1 ve A2'ye doğru), konuşma ve telaffuz, temalı Fransızca ve keşif gezileri.",
     "target_audience": "Zor durumda olan kişiler",
-    "access_conditions": "Koşulsuz, serbest kabul"
+    "access_conditions": "Koşulsuz, serbest giriş"
   },
   "r_0030": {
     "description": "Göçmenler için ücretsiz veya indirimli psikolojik danışmanlık. Çok dilli psikolojik destek.",
@@ -410,9 +411,9 @@
     "access_conditions": "Yer almak için ücretsiz 0800 22 22 10 numarasını arayın, koşulsuz kabul"
   },
   "r_0084": {
-    "description": "Servette Tapınağı'nda dezavantajlı kişiler için koşulsuz gündüz karşılama. Dayanışma yemekleri, sıcak içecekler, kamu yazıcısı (CV, mektup), Fransızca, İngilizce ve bilişim atölyeleri. Berne Sokağı 48'de ücretsiz hukuki danışmanlık (Pzt 10-12, Çar 17:30-19:30, Per 10-12).",
-    "target_audience": "Dezavantajlı kişiler, göçmenler, evsizler",
-    "access_conditions": "Koşulsuz karşılama"
+    "description": "Faaliyetlerin merkezinde ücretsiz Fransızca kursları: 4 seviye (FRO yeni gelenler, FR1 temel, FR2 konuşma, FR3 seviye A2-B1). Pazartesi-Cuma, 9-12 ve 14-17 (Çarşamba sabahı kapalı). Kayıt gerekmez. Ayrıca: Temple de la Servette'de koşulsuz gündüz kabul, dayanışma yemekleri, sıcak içecekler, kamusal yazıcı, internet alanı. Ücretsiz hukuk danışmanlığı (Pzt 11:30-13, Çar 17:30-19, randevuyla).",
+    "target_audience": "Zor durumda olan kişiler, göçmenler, Fransızca öğrenmek isteyenler",
+    "access_conditions": "Koşulsuz, koşulsuz kabul. Ücretsiz Fransızca kursları, kayıt gerekmez."
   },
   "r_0085": {
     "description": "Léman gölü kıyısında simge halka açık hamam. Kumsal, havuzlar, atlama kuleleri (3-10m), sauna ve hamam, halk büfesi. Çok uygun fiyatlı giriş (yazın 2 CHF, kışın 1 CHF).",
@@ -1589,5 +1590,47 @@
     "description": "Free municipal information and social orientation service. Support for administrative procedures. Open to all Geneva city residents.",
     "target_audience": "Geneva city residents",
     "access_conditions": "Free and open to all Geneva city residents."
+  },
+  "r_0244": {
+    "name": "Atelier Alpha",
+    "description": "Okuma yazma bilmeyen veya öğrenme güçlüğü çeken göçmenler için sözlü Fransızca ve okuma yazma kursları sunan dernek. Özel donanımlı atölyede yenilikçi ve güçlendirici pedagoji. Pazartesi-Cuma sabah ve öğleden sonra, Pazartesi ve Çarşamba akşam kursları. Düşük bütçeler için uyarlanmış ücret: Hospice Général yararlanıcıları için aylık CHF 20.",
+    "target_audience": "Okuma yazma bilmeyen veya az eğitimli göçmenler",
+    "access_conditions": "Hospice Général yararlanıcıları için aylık CHF 20 (standart ücret aylık CHF 205). Haftada en az 2 oturum."
+  },
+  "r_0245": {
+    "name": "Saint-Gervais Ebeveyn-Çocuk Alanı",
+    "description": "0-12 yaş arası çocukları olan zor durumdaki aileler için oyun ve dinlenme alanı. 12:15'te ücretsiz öğle yemeği. Uzman ekip tarafından dinleme, tanınma ve sosyal yönlendirme. Kayıt olmadan ve anonim olarak açık, okul tatilleri dahil.",
+    "target_audience": "0-12 yaş arası çocukları olan zor durumdaki aileler, hamile kadınlar",
+    "access_conditions": "Ücretsiz, kayıt gerekmez, anonim kabul. Okul tatillerinde açık (yazın bir ay hariç). Resmi tatillerde kapalı."
+  },
+  "r_0246": {
+    "name": "İçme Suyu Noktası — promenade de l'Aire (Confignon)",
+    "description": "Doğal haline kavuşturulmuş Aire nehri kıyısındaki yürüyüş yolunda (promenade de l'Aire), passerelle des Chardons-à-Tête-Ronde yaya köprüsü yakınında serbest erişimli içme suyu noktası. Bank ve piknik masalı dinlenme alanı. Yılın her günü, 7/24 erişilebilir.",
+    "target_audience": "Herkese açık",
+    "access_conditions": "Serbest erişim, 7/24."
+  },
+  "r_0247": {
+    "name": "Lancy Yaşlılar İçin Bilgi Hattı — Telefon Hattı (Pôle seniors)",
+    "description": "Lancy Belediyesi'nin Lancy'de yaşayan yaşlılar ve yakınları için ücretsiz telefon hattı: belediye hizmetleri, etkinlikler ve geziler, gönüllülük, yaşlılar için konut çözümleri, bakım kuruluşlarına ve evde destek hizmetlerine (yemek, temizlik, alışveriş, ulaşım) yönlendirme ile kanton ve federal mali yardımlar.",
+    "target_audience": "Emeklilik yaşındaki (AVS) Lancy sakinleri, yakınları ve çevreleri",
+    "access_conditions": "Ücretsiz, kayıt gerekmez. Ücretsiz telefon numarası."
+  },
+  "r_0248": {
+    "name": "Lancy Dijital Yardım Masası (Villa Rapin)",
+    "description": "Ayda iki kez, Lancy Sosyal İşler ve Konut Dairesi, sakinlere dijital cihazları (akıllı telefon, bilgisayar, tablet) ve çevrim içi idari işlemleri konusunda yardımcı olur. Öğrenciler ve profesyoneller eşliğinde. Ayda bir pazartesi 17.00-19.00 arası ve ayda bir salı 14.00-16.00 arası — tarihler lancy.ch adresinde.",
+    "target_audience": "Lancy Belediyesi sakinleri, herkese açık",
+    "access_conditions": "Ücretsiz, kayıt gerekmez. Kendi cihazınızı getirin (cihaz sağlanmaz)."
+  },
+  "r_0249": {
+    "name": "FacLab — Cenevre Üniversitesi UNIGE (Battelle)",
+    "description": "Cenevre Üniversitesi'nin halka açık dijital üretim atölyesi, Battelle parkında. 3D baskı, lazer kesim, elektronik ve dijital üretim teknikleri eğitimleri; gençlere ve okul sınıflarına yönelik atölyeler de dahil. Etkinlikleri çerçevesinde öğrencileri, dernekleri ve vatandaşları ağırlar.",
+    "target_audience": "Öğrenciler, maker'lar, dernekler ve dijital üretime ilgi duyan sakinler",
+    "access_conditions": "faclab.ch çevrim içi topluluğu üzerinden kayıtla veya sunulan etkinliklere katılarak. İletişim: faclab@unige.ch."
+  },
+  "r_0250": {
+    "name": "EPER — Gezici Yardım Masaları",
+    "description": "Zor durumda olan göçmenler için dinleme, bilgilendirme ve yönlendirme alanı; özellikle İspanyolca, Portekizce konuşan, Moğol ve Filipinli topluluklar için. İdari ve sosyal sorular, işlemlerde destek, bilgilendirme oturumları, atölyeler ile spor ve kültür etkinlikleri.",
+    "target_audience": "Yasal statüsü olmayan veya yakın zamanda statü kazanmış kişiler (iltica alanı dışında ve AB/EFTA pasaportu olmayanlar)",
+    "access_conditions": "Ücretsiz. Bireysel görüşmeler randevuyla; bilgilendirme oturumları randevusuz; atölyeler ve etkinlikler kayıtla."
   }
 }

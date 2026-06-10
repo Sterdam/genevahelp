@@ -135,8 +135,9 @@
     "access_conditions": "Thirrje telefonike, shpenzimet mjekësore në ngarkim të pacientit"
   },
   "r_0029": {
-    "description": "Pritje ditore për personat në situatë pasigurie. Hapësirë e ngrohtë, kafe, dushe, larje, hyrje në internet dhe aktivitete.",
-    "target_audience": "Persona në situatë pasigurie",
+    "name": "Qendra e Pritjes La Roseraie",
+    "description": "Qendër ditore për migrantët dhe personat në situatë të vështirë. Hapësirë e ngrohtë, kafe, aktivitete dhe punëtori falas të frëngjishtes pa regjistrim: fillestarë (drejt A1 dhe A2), bisedë dhe shqiptim, frëngjishte tematike dhe dalje njohëse.",
+    "target_audience": "Personat në situatë të vështirë",
     "access_conditions": "Pa kushte, pritje e lirë"
   },
   "r_0030": {
@@ -410,9 +411,9 @@
     "access_conditions": "Thirrni numrin falas 0800 22 22 10 për të marrë një vend, pritje pa kushte"
   },
   "r_0084": {
-    "description": "Qendër pritjeje ditore pa kushte në Tempullin Servette për persona në situatë të vështirë. Vakte solidare, pije të ngrohta, shkrimtar publik (CV, letra), kurse të frëngjishtes, anglishtes dhe informatikës. Konsulencë juridike falas në 48 rue de Berne (hën 10-12, mër 17:30-19:30, enj 10-12): e drejta e të huajve, familjare, e punës, sigurimet sociale, penale.",
-    "target_audience": "Persona në situatë të vështirë, migrantë, të pastrehë",
-    "access_conditions": "Pa kushte, pritje e pakushtëzuar"
+    "description": "Kurse falas të frëngjishtes në qendër të aktiviteteve: 4 nivele (FRO të sapoardhur, FR1 bazat, FR2 bisedë, FR3 niveli A2-B1). Nga e hëna deri të premten, 9-12 dhe 14-17 (mbyllur të mërkurën në mëngjes). Pa regjistrim. Gjithashtu: pritje ditore pa kushte në Temple de la Servette, vaktet solidare, pije të ngrohta, shkrimtar publik, hapësirë interneti. Këshillim juridik falas (hën 11:30-13h, mër 17:30-19h, me takim).",
+    "target_audience": "Persona në situatë të vështirë, emigrantë, persona që dëshirojnë të mësojnë frëngjisht",
+    "access_conditions": "Pa kushte, pritje pa kushte. Kurse falas të frëngjishtes pa regjistrim."
   },
   "r_0085": {
     "description": "Banja publike emblematike në bregun e liqenit Léman. Plazh me rërë, pishina, trampolinë (3-10m), sauna dhe hamam, bufe popullore. Hyrje shumë e përballueshme (2 CHF në verë, 1 CHF në dimër).",
@@ -1589,5 +1590,47 @@
     "description": "Free municipal information and social orientation service. Support for administrative procedures. Open to all Geneva city residents.",
     "target_audience": "Geneva city residents",
     "access_conditions": "Free and open to all Geneva city residents."
+  },
+  "r_0244": {
+    "name": "Atelier Alpha",
+    "description": "Shoqatë që ofron kurse të frëngjishtes gojore dhe alfabetizimi për emigrantë analfabetë ose me vështirësi në mësim. Pedagogji inovative dhe fuqizuese në një atelier të pajisur posaçërisht. Kurse nga e hëna deri të premten mëngjes dhe pasdite, kurse mbrëmjeje të hënën dhe të mërkurën. Çmim i përshtatur për buxhete të vogla: CHF 20/muaj për përfituesit e Hospice Général.",
+    "target_audience": "Emigrantë analfabetë ose pak të shkolluar",
+    "access_conditions": "CHF 20/muaj për përfituesit e Hospice Général (çmimi standard CHF 205/muaj). Minimum 2 seanca/javë."
+  },
+  "r_0245": {
+    "name": "Hapësira prindër-fëmijë Saint-Gervais",
+    "description": "Hapësirë loje dhe pushimi për familje në situatë të vështirë me fëmijë nga 0 deri 12 vjeç. Drekë falas në 12:15. Dëgjim, njohje dhe orientim social nga një ekip profesionistësh. Hapur pa regjistrim dhe në mënyrë anonime, përfshirë gjatë pushimeve shkollore.",
+    "target_audience": "Familje në situatë të vështirë me fëmijë 0-12 vjeç, gra shtatzëna",
+    "access_conditions": "Falas, pa regjistrim, pritje anonime. Hapur gjatë pushimeve shkollore (përveç një muaji verës). Mbyllur në ditë festive."
+  },
+  "r_0246": {
+    "name": "Pikë uji të pijshëm — promenade de l'Aire (Confignon)",
+    "description": "Pikë uji të pijshëm me qasje të lirë në shëtitoren e rinatyralizuar të lumit Aire (promenade de l'Aire), pranë urës për këmbësorë passerelle des Chardons-à-Tête-Ronde. Zonë pushimi me stol dhe tavolina pikniku. E hapur 24 orë në ditë, gjatë gjithë vitit.",
+    "target_audience": "Për të gjithë",
+    "access_conditions": "Qasje e lirë, 24 orë në ditë."
+  },
+  "r_0247": {
+    "name": "Informacion për të moshuarit Lancy — Linjë telefonike (Pôle seniors)",
+    "description": "Linjë telefonike falas e Qytetit të Lancy për të moshuarit e Lancy dhe të afërmit e tyre: shërbimet komunale, aktivitete dhe dalje, vullnetarizëm, zgjidhje banimi për të moshuarit, orientim drejt organizatave të kujdesit dhe mbështetjes në shtëpi (vakte, pastrim, blerje, transport) si dhe ndihmat financiare kantonale dhe federale.",
+    "target_audience": "Banorët e Lancy në moshë pensioni (AVS), të afërmit dhe rrethi i tyre",
+    "access_conditions": "Falas, pa regjistrim. Numër telefoni falas."
+  },
+  "r_0248": {
+    "name": "Sporteli i ndihmës dixhitale i Lancy (Villa Rapin)",
+    "description": "Dy herë në muaj, Shërbimi i Çështjeve Sociale dhe i Banimit i Lancy i ndihmon banorët me pajisjet e tyre dixhitale (smartfon, kompjuter, tablet) dhe me procedurat administrative online. Nën mbikëqyrjen e studentëve dhe profesionistëve. Një të hënë në muaj nga ora 17:00 deri në 19:00 dhe një të martë në muaj nga ora 14:00 deri në 16:00 — datat në lancy.ch.",
+    "target_audience": "Banorët e Qytetit të Lancy, për të gjithë",
+    "access_conditions": "Falas, pa regjistrim. Sillni pajisjen tuaj (pajisjet nuk ofrohen në vend)."
+  },
+  "r_0249": {
+    "name": "FacLab — Universiteti i Gjenevës UNIGE (Battelle)",
+    "description": "Punëtori e fabrikimit dixhital e Universitetit të Gjenevës, e hapur për publikun, në parkun e Battelle. Printim 3D, prerje me lazer, elektronikë dhe trajnime për teknikat e fabrikimit dixhital, përfshirë punëtori për të rinjtë dhe për klasat shkollore. Pret studentë, shoqata dhe qytetarë në kuadër të aktiviteteve të saj.",
+    "target_audience": "Studentë, makers, shoqata dhe banorë të interesuar për fabrikimin dixhital",
+    "access_conditions": "Me regjistrim përmes komunitetit online faclab.ch ose duke marrë pjesë në aktivitetet e ofruara. Kontaktoni faclab@unige.ch."
+  },
+  "r_0250": {
+    "name": "EPER — Sportele ndihme të lëvizshme",
+    "description": "Hapësirë dëgjimi, informacioni dhe orientimi për migrantët në situatë të vështirë, kryesisht për komunitetet spanjishtfolëse, portugalishtfolëse, mongole dhe filipinase. Pyetje administrative dhe sociale, mbështetje në procedura, seanca informuese, punëtori dhe aktivitete sportive e kulturore.",
+    "target_audience": "Personat pa status ligjor ose të rregulluar së fundmi (jashtë fushës së azilit dhe pa pasaportë të BE/AELE)",
+    "access_conditions": "Falas. Konsultime individuale me takim; seanca informuese pa takim; punëtori dhe aktivitete me regjistrim."
   }
 }

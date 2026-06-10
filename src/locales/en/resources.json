@@ -135,9 +135,10 @@
     "access_conditions": "Phone call, medical fees at patient's expense"
   },
   "r_0029": {
-    "description": "Daytime drop-in center for people in precarious situations. Warm space, coffee, showers, laundry, internet access, and activities.",
+    "name": "La Roseraie Welcome Centre",
+    "description": "Day centre for migrants and people in precarious situations. Warm space, coffee, activities and free French workshops with no registration: beginners (towards A1 and A2), conversation and pronunciation, themed French and discovery outings.",
     "target_audience": "People in precarious situations",
-    "access_conditions": "No conditions, open welcome"
+    "access_conditions": "No conditions, open access"
   },
   "r_0030": {
     "description": "Free or reduced-rate psychological consultations for migrants. Psychological support available in multiple languages.",
@@ -410,9 +411,9 @@
     "access_conditions": "Call the free number 0800 22 22 10 to obtain a place, unconditional welcome"
   },
   "r_0084": {
-    "description": "Unconditional daytime reception center at the Temple de la Servette for people in precarious situations. Solidarity meals, hot drinks, public writer (CVs, letters), French, English and IT workshops. Free legal permanence at 48 Rue de Berne (Mon 10am-12pm, Wed 5:30pm-7:30pm, Thu 10am-12pm): immigration law, family, employment, social insurance, criminal law.",
-    "target_audience": "People in precarious situations, migrants, homeless",
-    "access_conditions": "No conditions, unconditional welcome"
+    "description": "Free French courses at the heart of activities: 4 levels (FRO newcomers, FR1 basics, FR2 conversation, FR3 level A2-B1). Monday to Friday, 9am-12pm and 2pm-5pm (closed Wednesday morning). No registration required. Also: unconditional daytime reception at Temple de la Servette, solidarity meals, hot drinks, public writer, internet space. Free legal clinic (Mon 11:30am-1pm, Wed 5:30pm-7pm, by appointment).",
+    "target_audience": "People in precarious situations, migrants, people wishing to learn French",
+    "access_conditions": "No conditions, unconditional welcome. Free French courses, no registration required."
   },
   "r_0085": {
     "description": "Iconic public baths on the shore of Lake Geneva. Sandy beach, pools, diving boards (3-10m), sauna and steam room, popular bar. Very affordable entry (2 CHF in summer, 1 CHF in winter).",
@@ -1589,5 +1590,47 @@
     "description": "Free municipal information and social orientation service. Support for administrative procedures. Open to all Geneva city residents.",
     "target_audience": "Geneva city residents",
     "access_conditions": "Free and open to all Geneva city residents."
+  },
+  "r_0244": {
+    "name": "Atelier Alpha",
+    "description": "Association offering oral French and literacy courses for illiterate or learning-challenged migrants. Innovative and empowering pedagogy in a specially equipped workshop. Courses Monday to Friday morning and afternoon, evening courses Monday and Wednesday. Adapted rates for low-income: CHF 20/month for Hospice Général beneficiaries.",
+    "target_audience": "Illiterate or poorly schooled migrants",
+    "access_conditions": "CHF 20/month for Hospice Général beneficiaries (standard rate CHF 205/month). Minimum 2 sessions/week."
+  },
+  "r_0245": {
+    "name": "Saint-Gervais Parent-Child Space",
+    "description": "Play and respite space for families in precarious situations with children aged 0 to 12. Free midday meal at 12:15pm. Listening, recognition and social orientation by a team of professionals. Open without registration and anonymously, including during school holidays.",
+    "target_audience": "Families in precarious situations with children aged 0-12, pregnant women",
+    "access_conditions": "Free, no registration required, anonymous welcome. Open during school holidays (except one month in summer). Closed on public holidays."
+  },
+  "r_0246": {
+    "name": "Drinking Water Point — Aire Riverside Walk (Confignon)",
+    "description": "Freely accessible drinking water point on the renaturalised Aire riverside walk, near the Chardons-à-Tête-Ronde footbridge. Rest area with bench and picnic tables. Accessible 24/7, all year round.",
+    "target_audience": "Everyone",
+    "access_conditions": "Free access, 24/7."
+  },
+  "r_0247": {
+    "name": "Info Seniors Lancy — Telephone Helpline (Pôle seniors)",
+    "description": "Free telephone helpline run by the City of Lancy for Lancy seniors and their relatives: municipal services, activities and outings, volunteering, senior housing options, referral to care organisations and home support services (meals, cleaning, shopping, transport) and cantonal and federal financial benefits.",
+    "target_audience": "Lancy residents of AVS retirement age, their relatives and entourage",
+    "access_conditions": "Free, no registration. Toll-free number."
+  },
+  "r_0248": {
+    "name": "Lancy Digital Help Desk (Villa Rapin)",
+    "description": "Twice a month, Lancy's Social Affairs and Housing Service helps residents with their digital devices (smartphone, computer, tablet) and online administrative procedures. Supervised by students and professionals. One Monday per month 5pm-7pm and one Tuesday per month 2pm-4pm — dates on lancy.ch.",
+    "target_audience": "Residents of the City of Lancy, open to all",
+    "access_conditions": "Free, no registration. Bring your own device (equipment not provided)."
+  },
+  "r_0249": {
+    "name": "FacLab — University of Geneva (Battelle)",
+    "description": "Digital fabrication workshop of the University of Geneva open to the public, in Battelle park. 3D printing, laser cutting, electronics and training in digital fabrication techniques, including workshops for young people and school classes. Welcomes students, associations and citizens through its activities.",
+    "target_audience": "Students, makers, associations and residents interested in digital fabrication",
+    "access_conditions": "Registration via the faclab.ch online community or by joining the activities on offer. Contact faclab@unige.ch."
+  },
+  "r_0250": {
+    "name": "EPER (HEKS) — Mobile Help Desks",
+    "description": "A space for listening, information and guidance for migrants in precarious situations, mainly the Spanish-speaking, Portuguese-speaking, Mongolian and Filipino communities. Administrative and social questions, support with procedures, information sessions, workshops and sports and cultural activities.",
+    "target_audience": "People without legal status or recently regularised (outside the asylum system and without an EU/EFTA passport)",
+    "access_conditions": "Free. Individual consultations by appointment; information sessions without appointment; workshops and activities upon registration."
   }
 }

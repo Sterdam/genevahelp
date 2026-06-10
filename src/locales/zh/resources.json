@@ -135,9 +135,10 @@
     "access_conditions": "电话预约，医疗费用由患者承担"
   },
   "r_0029": {
-    "description": "为生活困难人士提供日间接待。温馨空间，提供咖啡、淋浴、洗衣、上网和活动。",
+    "name": "La Roseraie（玫瑰园）接待中心",
+    "description": "为移民和生活困难人士提供的日间接待中心。温馨的空间，提供咖啡、各类活动以及免费法语课程，无需报名：初级班（A1和A2水平）、会话与发音、主题法语以及外出参观活动。",
     "target_audience": "生活困难人士",
-    "access_conditions": "无需任何条件，自由进入"
+    "access_conditions": "无条件，自由进入"
   },
   "r_0030": {
     "description": "为移民提供免费或优惠价格的心理咨询。多语言心理支持。",
@@ -410,9 +411,9 @@
     "access_conditions": "拨打免费电话0800 22 22 10获取床位，无条件接待"
   },
   "r_0084": {
-    "description": "塞尔维特教堂无条件日间接待，面向困难人群。团结餐、热饮、公共文书（简历、信件）、法语、英语和信息技术工作坊。伯尔尼街48号免费法律咨询（周一10-12时，周三17:30-19:30，周四10-12时）。",
-    "target_audience": "困难人群、移民、无家可归者",
-    "access_conditions": "无条件，无条件接待"
+    "description": "免费法语课程是活动的核心：4个级别（FRO新来者、FR1基础、FR2会话、FR3级别A2-B1）。周一至周五，9-12点和14-17点（周三上午关闭）。无需注册。此外：Temple de la Servette无条件日间接待、团结餐食、热饮、公共代书人、互联网空间。免费法律咨询（周一11:30-13点、周三17:30-19点，需预约）。",
+    "target_audience": "处于困难状况的人、移民、希望学习法语的人",
+    "access_conditions": "无条件、无条件接待。免费法语课程，无需注册。"
   },
   "r_0085": {
     "description": "日内瓦湖畔标志性公共浴场。沙滩、泳池、跳水台（3-10米）、桑拿和蒸汽浴、平价餐饮。门票非常实惠（夏季2瑞士法郎，冬季1瑞士法郎）。",
@@ -1589,5 +1590,47 @@
     "description": "Free municipal information and social orientation service. Support for administrative procedures. Open to all Geneva city residents.",
     "target_audience": "Geneva city residents",
     "access_conditions": "Free and open to all Geneva city residents."
+  },
+  "r_0244": {
+    "name": "阿尔法工作坊",
+    "description": "为不识字或有学习困难的移民提供口语法语和扫盲课程的协会。在专门配备的工作坊中采用创新和赋能的教学法。周一至周五上午和下午课程，周一和周三晚间课程。针对低预算的优惠价格：Hospice Général受益者每月CHF 20。",
+    "target_audience": "不识字或受教育程度低的移民",
+    "access_conditions": "Hospice Général受益者每月CHF 20（标准价格每月CHF 205）。每周至少2次课。"
+  },
+  "r_0245": {
+    "name": "圣热尔韦亲子空间",
+    "description": "为有0至12岁儿童的困难家庭提供的游戏和休息空间。12:15提供免费午餐。专业团队提供倾听、认可和社会引导。无需注册，匿名开放，学校假期期间也开放。",
+    "target_audience": "有0至12岁儿童的困难家庭、孕妇",
+    "access_conditions": "免费，无需注册，匿名接待。学校假期期间开放（夏季一个月除外）。公共假日关闭。"
+  },
+  "r_0246": {
+    "name": "饮用水点 — promenade de l'Aire（孔菲尼翁）",
+    "description": "位于经过生态修复的埃尔河滨步道（promenade de l'Aire）上的免费饮用水点，靠近passerelle des Chardons-à-Tête-Ronde（人行桥）。设有长椅和野餐桌的休息区。全天24小时开放，全年无休。",
+    "target_audience": "所有人",
+    "access_conditions": "自由使用，24小时开放。"
+  },
+  "r_0247": {
+    "name": "Info seniors Lancy — 电话咨询热线（Pôle seniors）",
+    "description": "朗西（Lancy）市为本市老年人及其亲属提供的免费电话咨询服务：市政服务、活动和外出、志愿服务、老年人住房方案、转介护理机构和居家支持服务（送餐、清洁、购物、出行），以及州和联邦的经济补助。",
+    "target_audience": "达到AVS（养老金）年龄的朗西居民、其亲属及身边的人",
+    "access_conditions": "免费，无需报名。免费电话号码。"
+  },
+  "r_0248": {
+    "name": "朗西数字帮助服务点（Villa Rapin）",
+    "description": "朗西市社会事务与住房处每月两次帮助居民使用数字设备（智能手机、电脑、平板电脑）和办理网上行政手续。由学生和专业人员提供指导。每月一个周一17:00至19:00，每月一个周二14:00至16:00 — 具体日期请查看lancy.ch。",
+    "target_audience": "朗西市居民，面向所有人",
+    "access_conditions": "免费，无需报名。请自带设备（不提供设备）。"
+  },
+  "r_0249": {
+    "name": "FacLab — 日内瓦大学（UNIGE，Battelle）",
+    "description": "日内瓦大学向公众开放的数字制造工坊，位于Battelle公园内。提供3D打印、激光切割、电子制作以及数字制造技术培训，包括面向青少年和学校班级的工作坊。学生、社团和市民均可参加其活动。",
+    "target_audience": "学生、创客、社团以及对数字制造感兴趣的居民",
+    "access_conditions": "通过在线社区faclab.ch注册，或参加其举办的活动。联系方式：faclab@unige.ch。"
+  },
+  "r_0250": {
+    "name": "EPER — 流动咨询服务点",
+    "description": "为生活困难的移民提供倾听、信息和指导的场所，主要面向西班牙语、葡萄牙语、蒙古和菲律宾社区。提供行政和社会事务咨询、手续办理协助、信息讲座、工作坊以及体育和文化活动。",
+    "target_audience": "无合法身份或近期身份合法化的人士（不包括庇护申请程序中的人士和持有欧盟/欧洲自由贸易联盟护照者）",
+    "access_conditions": "免费。个人咨询需预约；信息讲座无需预约；工作坊和活动需报名。"
   }
 }

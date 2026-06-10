@@ -135,9 +135,10 @@
     "access_conditions": "Gọi điện thoại, chi phí y tế do bệnh nhân chịu"
   },
   "r_0029": {
-    "description": "Nơi tiếp đón ban ngày cho người trong hoàn cảnh khó khăn. Không gian ấm cúng, cà phê, nhà tắm, giặt giũ, truy cập internet và hoạt động.",
+    "name": "Trung tâm tiếp đón La Roseraie",
+    "description": "Trung tâm tiếp đón ban ngày dành cho người di cư và người trong hoàn cảnh khó khăn. Không gian ấm cúng, cà phê, các hoạt động và lớp học tiếng Pháp miễn phí không cần đăng ký: lớp vỡ lòng (hướng tới trình độ A1 và A2), hội thoại và phát âm, tiếng Pháp theo chủ đề và các buổi đi tham quan khám phá.",
     "target_audience": "Người trong hoàn cảnh khó khăn",
-    "access_conditions": "Không điều kiện, tiếp nhận tự do"
+    "access_conditions": "Không điều kiện, tự do đến"
   },
   "r_0030": {
     "description": "Tư vấn tâm lý miễn phí hoặc giá ưu đãi cho người di cư. Hỗ trợ tâm lý bằng nhiều ngôn ngữ.",
@@ -410,9 +411,9 @@
     "access_conditions": "Gọi số miễn phí 0800 22 22 10 để có chỗ, tiếp nhận không điều kiện"
   },
   "r_0084": {
-    "description": "Trung tâm tiếp nhận ban ngày không điều kiện tại Đền Servette dành cho người khó khăn. Bữa ăn liên đới, đồ uống nóng, dịch vụ viết hộ (CV, thư), lớp tiếng Pháp, tiếng Anh và tin học. Tư vấn pháp lý miễn phí tại 48 rue de Berne (thứ Hai 10h-12h, thứ Tư 17h30-19h30, thứ Năm 10h-12h): luật người nước ngoài, gia đình, lao động, bảo hiểm xã hội, hình sự.",
-    "target_audience": "Người khó khăn, người di cư, người vô gia cư",
-    "access_conditions": "Không điều kiện, tiếp nhận vô điều kiện"
+    "description": "Các khóa tiếng Pháp miễn phí ở trung tâm hoạt động: 4 cấp độ (FRO người mới đến, FR1 cơ bản, FR2 giao tiếp, FR3 cấp A2-B1). Thứ Hai đến Thứ Sáu, 9h-12h và 14h-17h (đóng cửa sáng Thứ Tư). Không cần đăng ký. Ngoài ra: tiếp đón ban ngày vô điều kiện tại Temple de la Servette, bữa ăn chia sẻ, đồ uống nóng, người viết công cộng, không gian internet. Tư vấn pháp lý miễn phí (T2 11:30-13h, T4 17:30-19h, theo hẹn).",
+    "target_audience": "Người trong hoàn cảnh khó khăn, người di cư, người muốn học tiếng Pháp",
+    "access_conditions": "Không điều kiện, tiếp đón vô điều kiện. Các khóa tiếng Pháp miễn phí, không cần đăng ký."
   },
   "r_0085": {
     "description": "Bể tắm công cộng biểu tượng bên bờ hồ Léman. Bãi cát, hồ bơi, ván nhảy (3-10m), sauna và hammam, quán bình dân. Giá vào rất phải chăng (2 CHF mùa hè, 1 CHF mùa đông).",
@@ -1589,5 +1590,47 @@
     "description": "Free municipal information and social orientation service. Support for administrative procedures. Open to all Geneva city residents.",
     "target_audience": "Geneva city residents",
     "access_conditions": "Free and open to all Geneva city residents."
+  },
+  "r_0244": {
+    "name": "Atelier Alpha",
+    "description": "Hiệp hội cung cấp các khóa tiếng Pháp nói và xóa mù chữ cho người di cư mù chữ hoặc gặp khó khăn trong học tập. Phương pháp giảng dạy đổi mới và trao quyền trong xưởng được trang bị đặc biệt. Các khóa Thứ Hai đến Thứ Sáu sáng và chiều, khóa tối Thứ Hai và Thứ Tư. Mức phí điều chỉnh cho ngân sách thấp: CHF 20/tháng cho người thụ hưởng Hospice Général.",
+    "target_audience": "Người di cư mù chữ hoặc ít được đi học",
+    "access_conditions": "CHF 20/tháng cho người thụ hưởng Hospice Général (phí tiêu chuẩn CHF 205/tháng). Tối thiểu 2 buổi/tuần."
+  },
+  "r_0245": {
+    "name": "Không gian phụ huynh-trẻ em Saint-Gervais",
+    "description": "Không gian vui chơi và nghỉ ngơi cho các gia đình trong hoàn cảnh khó khăn có trẻ từ 0 đến 12 tuổi. Bữa trưa miễn phí lúc 12:15. Lắng nghe, công nhận và hướng dẫn xã hội bởi đội ngũ chuyên gia. Mở cửa không cần đăng ký và ẩn danh, kể cả trong kỳ nghỉ học.",
+    "target_audience": "Gia đình trong hoàn cảnh khó khăn có trẻ từ 0-12 tuổi, phụ nữ mang thai",
+    "access_conditions": "Miễn phí, không cần đăng ký, tiếp đón ẩn danh. Mở cửa trong kỳ nghỉ học (trừ một tháng mùa hè). Đóng cửa ngày lễ."
+  },
+  "r_0246": {
+    "name": "Điểm nước uống — promenade de l'Aire (Confignon)",
+    "description": "Điểm nước uống miễn phí trên lối đi dạo ven sông Aire đã được phục hồi tự nhiên (promenade de l'Aire), gần cầu đi bộ passerelle des Chardons-à-Tête-Ronde. Khu nghỉ chân có ghế băng và bàn dã ngoại. Mở cửa 24/24, quanh năm.",
+    "target_audience": "Mọi người",
+    "access_conditions": "Tự do sử dụng, 24/24."
+  },
+  "r_0247": {
+    "name": "Info seniors Lancy — Đường dây tư vấn qua điện thoại (Pôle seniors)",
+    "description": "Đường dây điện thoại tư vấn miễn phí của thành phố Lancy dành cho người cao tuổi ở Lancy và người thân: các dịch vụ của thành phố, hoạt động và các buổi đi chơi, tình nguyện, các lựa chọn nhà ở cho người cao tuổi, hướng dẫn đến các tổ chức chăm sóc và hỗ trợ tại nhà (bữa ăn, dọn dẹp, mua sắm, đi lại) cũng như các trợ cấp tài chính của bang và liên bang.",
+    "target_audience": "Cư dân Lancy ở tuổi hưu trí AVS, người thân và những người xung quanh",
+    "access_conditions": "Miễn phí, không cần đăng ký. Số điện thoại gọi miễn phí."
+  },
+  "r_0248": {
+    "name": "Điểm hỗ trợ kỹ thuật số Lancy (Villa Rapin)",
+    "description": "Mỗi tháng hai lần, Phòng Xã hội và Nhà ở của thành phố Lancy giúp cư dân sử dụng các thiết bị kỹ thuật số (điện thoại thông minh, máy tính, máy tính bảng) và làm các thủ tục hành chính trực tuyến. Có sinh viên và chuyên viên hướng dẫn. Một thứ Hai mỗi tháng từ 17h đến 19h và một thứ Ba mỗi tháng từ 14h đến 16h — xem ngày trên lancy.ch.",
+    "target_audience": "Cư dân thành phố Lancy, mở cho mọi người",
+    "access_conditions": "Miễn phí, không cần đăng ký. Mang theo thiết bị của mình (không có thiết bị cho mượn)."
+  },
+  "r_0249": {
+    "name": "FacLab — Đại học Geneva (UNIGE, Battelle)",
+    "description": "Xưởng chế tạo kỹ thuật số của Đại học Geneva mở cửa cho công chúng, nằm trong công viên Battelle. In 3D, cắt laser, điện tử và các khóa đào tạo về kỹ thuật chế tạo kỹ thuật số, bao gồm cả các buổi thực hành cho thanh thiếu niên và các lớp học. Đón tiếp sinh viên, hội đoàn và người dân qua các hoạt động của mình.",
+    "target_audience": "Sinh viên, người yêu thích chế tạo (maker), hội đoàn và cư dân quan tâm đến chế tạo kỹ thuật số",
+    "access_conditions": "Đăng ký qua cộng đồng trực tuyến faclab.ch hoặc tham gia các hoạt động được tổ chức. Liên hệ faclab@unige.ch."
+  },
+  "r_0250": {
+    "name": "EPER — Điểm tư vấn lưu động (Permanences volantes)",
+    "description": "Không gian lắng nghe, cung cấp thông tin và hướng dẫn cho người di cư trong hoàn cảnh khó khăn, chủ yếu là các cộng đồng nói tiếng Tây Ban Nha, tiếng Bồ Đào Nha, Mông Cổ và Philippines. Giải đáp các vấn đề hành chính và xã hội, hỗ trợ làm thủ tục, các buổi cung cấp thông tin, các buổi thực hành và hoạt động thể thao, văn hóa.",
+    "target_audience": "Người không có giấy tờ cư trú hợp pháp hoặc mới được hợp pháp hóa (không thuộc diện xin tị nạn và không có hộ chiếu EU/EFTA)",
+    "access_conditions": "Miễn phí. Tư vấn cá nhân cần đặt hẹn; các buổi cung cấp thông tin không cần hẹn; các buổi thực hành và hoạt động cần đăng ký."
   }
 }
