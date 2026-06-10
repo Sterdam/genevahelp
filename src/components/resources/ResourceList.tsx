@@ -47,7 +47,7 @@ export function ResourceList({
           key={resource.id}
           ref={resource.id === selectedId ? selectedRef : undefined}
           className="animate-card-enter"
-          style={{ animationDelay: `${Math.min(index * 50, 300)}ms` }}
+          style={{ animationDelay: `${Math.min(index * 25, 150)}ms` }}
         >
           <ResourceCard
             resource={resource}
