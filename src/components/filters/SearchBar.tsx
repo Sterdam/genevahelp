@@ -26,7 +26,7 @@ export function SearchBar({ onSearch }: SearchBarProps) {
     <div className="relative">
       <Search
         size={18}
-        className={`absolute left-3 top-1/2 -translate-y-1/2 transition-colors ${
+        className={`absolute start-3 top-1/2 -translate-y-1/2 transition-colors ${
           focused ? 'text-blue-500' : 'text-gray-400'
         }`}
       />
@@ -37,7 +37,7 @@ export function SearchBar({ onSearch }: SearchBarProps) {
         onFocus={() => setFocused(true)}
         onBlur={() => setFocused(false)}
         placeholder={t('search.placeholder')}
-        className={`w-full pl-10 pr-10 py-2.5 border rounded-xl text-sm text-gray-900 placeholder:text-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all ${
+        className={`w-full ps-10 pe-10 py-2.5 border rounded-xl text-sm text-gray-900 placeholder:text-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all ${
           focused
             ? 'bg-white border-blue-300 shadow-sm'
             : 'bg-gray-100 border-gray-200'
@@ -45,7 +45,7 @@ export function SearchBar({ onSearch }: SearchBarProps) {
       />
       <button
         onClick={handleClear}
-        className={`absolute right-2 top-1/2 -translate-y-1/2 p-1.5 rounded-full text-gray-400 hover:text-gray-600 hover:bg-gray-200 transition-all ${
+        className={`absolute end-2 top-1/2 -translate-y-1/2 p-1.5 rounded-full text-gray-400 hover:text-gray-600 hover:bg-gray-200 transition-all ${
           value ? 'opacity-100' : 'opacity-0 pointer-events-none'
         }`}
         aria-label="Clear search"

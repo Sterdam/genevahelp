@@ -1,6 +1,6 @@
 import { useState, useCallback, useMemo } from 'react'
 import { Link } from 'react-router-dom'
-import { Eye, Siren } from 'lucide-react'
+import { Clock, Eye, Siren } from 'lucide-react'
 import { SEOHead } from '../components/seo/SEOHead'
 import { canonicalUrl } from '../lib/seo-utils'
 import { MapView } from '../components/map/MapView'
@@ -23,6 +23,7 @@ interface HomePageProps {
 export function HomePage({ mobileView }: HomePageProps) {
   const { t } = useTranslation()
   const [categories, setCategories] = useState<ResourceCategory[]>([])
+  const [openNow, setOpenNow] = useState(false)
   const [selectedResource, setSelectedResource] = useState<Resource | null>(null)
   const [selectedId, setSelectedId] = useState<string | null>(null)
   const { query, setSearchQuery } = useSearch()
@@ -32,6 +33,7 @@ export function HomePage({ mobileView }: HomePageProps) {
   const { resources, allResources, loading } = useResources({
     categories,
     search: query,
+    openNow,
     userLat: latitude,
     userLng: longitude,
   })
@@ -69,6 +71,18 @@ export function HomePage({ mobileView }: HomePageProps) {
         <SearchBar onSearch={setSearchQuery} />
         <div className="flex items-center gap-2">
           <CategoryFilter selected={categories} onChange={setCategories} counts={categoryCounts} />
+          <button
+            onClick={() => setOpenNow((v) => !v)}
+            aria-pressed={openNow}
+            className={`shrink-0 flex items-center gap-1 px-2.5 py-1.5 text-xs font-medium rounded-lg border transition-colors ${
+              openNow
+                ? 'text-white bg-green-600 border-green-600'
+                : 'text-green-700 bg-green-50 border-green-200 hover:bg-green-100'
+            }`}
+          >
+            <Clock size={13} />
+            {t('filters.openNow')}
+          </button>
           <Link
             to="/emergency"
             className="shrink-0 flex items-center gap-1 px-2.5 py-1.5 text-xs font-medium text-red-600 bg-red-50 border border-red-200 rounded-lg hover:bg-red-100 transition-colors"
