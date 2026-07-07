@@ -1,6 +1,6 @@
 import { useState, useEffect, useCallback, useMemo } from 'react'
 import { Link } from 'react-router-dom'
-import { ChevronDown, Clock, Eye, Siren } from 'lucide-react'
+import { ChevronDown, Clock, Eye, Siren, SlidersHorizontal } from 'lucide-react'
 import { SEOHead } from '../components/seo/SEOHead'
 import { canonicalUrl } from '../lib/seo-utils'
 import { MapView } from '../components/map/MapView'
@@ -82,13 +82,16 @@ export function HomePage({ mobileView }: HomePageProps) {
       <div className="px-4 py-3 bg-white border-b border-gray-100 space-y-2.5 z-20 relative">
         <SearchBar onSearch={setSearchQuery} />
         <div className="flex items-center gap-2">
-          {/* Mobile: big category button opening the grid sheet */}
+          {/* Mobile: category filter button opening the grid sheet */}
           <button
             onClick={() => setSheetOpen(true)}
-            className={`sm:hidden flex-1 min-w-0 flex items-center justify-between gap-1.5 px-3 py-1.5 text-xs font-medium rounded-lg border transition-colors ${
+            aria-haspopup="dialog"
+            className={`sm:hidden flex-1 min-w-0 flex items-center justify-between gap-1.5 px-3 py-2 text-xs font-semibold rounded-lg border shadow-sm transition-colors ${
               categories.length === 1
                 ? 'text-white'
-                : 'text-gray-700 bg-gray-50 border-gray-200 hover:bg-gray-100'
+                : categories.length > 1
+                  ? 'text-blue-700 bg-blue-50 border-blue-300'
+                  : 'text-gray-700 bg-white border-gray-300 hover:bg-gray-50'
             }`}
             style={
               categories.length === 1
@@ -100,15 +103,19 @@ export function HomePage({ mobileView }: HomePageProps) {
             }
           >
             <span className="truncate flex items-center gap-1.5">
+              <SlidersHorizontal size={13} className="shrink-0" />
               {categories.length === 1 ? (
                 <>
                   <span>{CATEGORY_EMOJI[categories[0]]}</span>
                   {t(`categories.${categories[0]}`)}
                 </>
-              ) : categories.length > 1 ? (
-                `${t('filters.categories')} (${categories.length})`
               ) : (
                 t('filters.categories')
+              )}
+              {categories.length > 1 && (
+                <span className="shrink-0 min-w-[18px] h-[18px] px-1 rounded-full bg-blue-600 text-white text-[10px] font-bold flex items-center justify-center">
+                  {categories.length}
+                </span>
               )}
             </span>
             <ChevronDown size={14} className="shrink-0 opacity-60" />
@@ -206,6 +213,7 @@ export function HomePage({ mobileView }: HomePageProps) {
         open={sheetOpen}
         selected={categories}
         counts={categoryCounts}
+        resultCount={resources.length}
         onChange={updateCategories}
         onClose={() => setSheetOpen(false)}
       />
