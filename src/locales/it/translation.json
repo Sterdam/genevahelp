@@ -25,7 +25,8 @@
     "nearby": "Nelle vicinanze",
     "activeCount_one": "{{count}} filtro",
     "activeCount_other": "{{count}} filtri",
-    "activeCount_many": "{{count}} filtri"
+    "activeCount_many": "{{count}} filtri",
+    "categories": "Categorie"
   },
   "resource": {
     "address": "Indirizzo",
@@ -232,7 +233,8 @@
     "helpUsText": "Conosci una risorsa mancante? Un'informazione è errata? Vuoi essere rimosso? Non esitare a segnalarcelo.",
     "chooseLanguage": "Scegli la tua lingua",
     "explore": "Esplora la mappa",
-    "resourceCount": "{{count}} risorse verificate"
+    "resourceCount": "{{count}} risorse verificate",
+    "needQuestion": "Di cosa hai bisogno?"
   },
   "stats": {
     "visits": "visite"

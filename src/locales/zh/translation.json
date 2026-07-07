@@ -23,7 +23,8 @@
     "wheelchair": "无障碍通道",
     "nearby": "附近",
     "activeCount_one": "{{count}} 个筛选",
-    "activeCount_other": "{{count}} 个筛选"
+    "activeCount_other": "{{count}} 个筛选",
+    "categories": "分类"
   },
   "categories": {
     "food": "食物",
@@ -230,7 +231,8 @@
     "helpUsText": "知道缺少的资源吗？信息有误？希望被移除？请随时告诉我们。",
     "chooseLanguage": "选择您的语言",
     "explore": "探索地图",
-    "resourceCount": "{{count}} 个已验证资源"
+    "resourceCount": "{{count}} 个已验证资源",
+    "needQuestion": "您需要什么帮助？"
   },
   "stats": {
     "visits": "访问"

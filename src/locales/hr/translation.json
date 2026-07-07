@@ -25,7 +25,8 @@
     "nearby": "U blizini",
     "activeCount_one": "{{count}} filtar",
     "activeCount_other": "{{count}} filtera",
-    "activeCount_few": "{{count}} filtra"
+    "activeCount_few": "{{count}} filtra",
+    "categories": "Kategorije"
   },
   "resource": {
     "address": "Adresa",
@@ -232,7 +233,8 @@
     "helpUsText": "Znate resurs koji nedostaje? Neka informacija je netočna? Želite biti uklonjeni? Ne oklijevajte nas obavijestiti.",
     "chooseLanguage": "Odaberite svoj jezik",
     "explore": "Istražite kartu",
-    "resourceCount": "{{count}} provjerenih resursa"
+    "resourceCount": "{{count}} provjerenih resursa",
+    "needQuestion": "Što trebate?"
   },
   "stats": {
     "visits": "posjeta"

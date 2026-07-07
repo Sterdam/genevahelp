@@ -23,7 +23,8 @@
     "wheelchair": "دسترسی با ویلچر",
     "nearby": "نزدیک",
     "activeCount_one": "{{count}} فیلتر",
-    "activeCount_other": "{{count}} فیلتر"
+    "activeCount_other": "{{count}} فیلتر",
+    "categories": "دسته‌بندی‌ها"
   },
   "categories": {
     "food": "غذا",
@@ -230,7 +231,8 @@
     "helpUsText": "منبع گمشده‌ای می‌شناسید؟ اطلاعاتی نادرست است؟ می‌خواهید حذف شوید؟ تردید نکنید به ما اطلاع دهید.",
     "chooseLanguage": "زبان خود را انتخاب کنید",
     "explore": "نقشه را کاوش کنید",
-    "resourceCount": "{{count}} منبع تأیید شده"
+    "resourceCount": "{{count}} منبع تأیید شده",
+    "needQuestion": "به چه چیزی نیاز دارید؟"
   },
   "stats": {
     "visits": "بازدید"

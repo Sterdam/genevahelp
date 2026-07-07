@@ -1,12 +1,21 @@
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { MapPin, Heart, Users, MessageCircle, ChevronDown, ArrowRight } from 'lucide-react'
+import { MapPin, Users, ChevronDown, ArrowRight } from 'lucide-react'
 import { languages } from '../../lib/i18n'
 import { DEMO_RESOURCES } from '../../lib/demo-data'
+import { CategoryGrid } from '../filters/CategoryGrid'
+import { setStoredCategories } from '../../lib/user-prefs'
+import type { ResourceCategory } from '../../lib/types'
 
 interface WelcomeModalProps {
   onClose: () => void
 }
+
+// The most common needs, shown as big tap targets on first visit
+const MAIN_CATEGORIES: ResourceCategory[] = [
+  'food', 'health', 'housing', 'legal',
+  'language', 'admin', 'employment', 'social',
+]
 
 export function WelcomeModal({ onClose }: WelcomeModalProps) {
   const { t, i18n } = useTranslation()
@@ -20,9 +29,19 @@ export function WelcomeModal({ onClose }: WelcomeModalProps) {
     setLangDropdownOpen(false)
   }
 
-  const handleExplore = () => {
+  const finish = () => {
     localStorage.setItem('genevemap-welcomed', '1')
     onClose()
+  }
+
+  const handleSelectNeed = (category: ResourceCategory) => {
+    setStoredCategories([category])
+    finish()
+  }
+
+  const handleExplore = () => {
+    setStoredCategories([])
+    finish()
   }
 
   return (
@@ -39,9 +58,9 @@ export function WelcomeModal({ onClose }: WelcomeModalProps) {
           </div>
 
           {/* Header with logo */}
-          <div className="px-6 pt-4 sm:pt-6 pb-4 text-center">
-            <div className="w-16 h-16 bg-blue-600 rounded-2xl flex items-center justify-center mx-auto mb-4 shadow-lg shadow-blue-600/20">
-              <MapPin size={32} className="text-white" />
+          <div className="px-6 pt-4 sm:pt-6 pb-3 text-center">
+            <div className="w-14 h-14 bg-blue-600 rounded-2xl flex items-center justify-center mx-auto mb-3 shadow-lg shadow-blue-600/20">
+              <MapPin size={28} className="text-white" />
             </div>
             <h1 className="text-2xl font-bold text-gray-900">
               {t('welcome.title')}
@@ -89,59 +108,31 @@ export function WelcomeModal({ onClose }: WelcomeModalProps) {
             </div>
           </div>
 
-          {/* Content cards */}
-          <div className="px-6 space-y-3 pb-4">
-            {/* What is GenevaMap */}
-            <div className="bg-blue-50 rounded-xl p-4">
-              <div className="flex items-start gap-3">
-                <div className="w-9 h-9 bg-blue-100 rounded-lg flex items-center justify-center shrink-0 mt-0.5">
-                  <Heart size={18} className="text-blue-600" />
-                </div>
-                <div>
-                  <p className="text-sm text-gray-700 leading-relaxed">
-                    {t('welcome.description')}
-                  </p>
-                </div>
-              </div>
-            </div>
+          {/* What do you need? */}
+          <div className="px-6 pb-4">
+            <label className="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-1.5 block">
+              {t('welcome.needQuestion')}
+            </label>
+            <CategoryGrid
+              categories={MAIN_CATEGORIES}
+              onSelect={handleSelectNeed}
+            />
+          </div>
 
-            {/* For everyone */}
-            <div className="bg-green-50 rounded-xl p-4">
-              <div className="flex items-start gap-3">
-                <div className="w-9 h-9 bg-green-100 rounded-lg flex items-center justify-center shrink-0 mt-0.5">
-                  <Users size={18} className="text-green-600" />
-                </div>
-                <div>
-                  <p className="text-xs font-bold text-green-700 uppercase tracking-wider mb-1">
-                    {t('welcome.forEveryone')}
-                  </p>
-                  <p className="text-sm text-gray-600 leading-relaxed">
-                    {t('welcome.forEveryoneText')}
-                  </p>
-                </div>
-              </div>
-            </div>
-
-            {/* Help us */}
-            <div className="bg-amber-50 rounded-xl p-4">
-              <div className="flex items-start gap-3">
-                <div className="w-9 h-9 bg-amber-100 rounded-lg flex items-center justify-center shrink-0 mt-0.5">
-                  <MessageCircle size={18} className="text-amber-600" />
-                </div>
-                <div>
-                  <p className="text-xs font-bold text-amber-700 uppercase tracking-wider mb-1">
-                    {t('welcome.helpUs')}
-                  </p>
-                  <p className="text-sm text-gray-600 leading-relaxed">
-                    {t('welcome.helpUsText')}
-                  </p>
-                </div>
-              </div>
+          {/* For everyone, no conditions */}
+          <div className="px-6 pb-4">
+            <div className="bg-green-50 rounded-xl px-4 py-3 flex items-center gap-3">
+              <Users size={16} className="text-green-600 shrink-0" />
+              <p className="text-xs text-green-800 leading-relaxed">
+                <span className="font-bold">{t('welcome.forEveryone')}</span>
+                {' — '}
+                {t('welcome.forEveryoneText')}
+              </p>
             </div>
           </div>
 
-          {/* CTA */}
-          <div className="px-6 pb-6 pt-2">
+          {/* CTA: explore everything */}
+          <div className="px-6 pb-6">
             <button
               onClick={handleExplore}
               className="w-full py-3.5 bg-blue-600 text-white rounded-xl text-sm font-semibold hover:bg-blue-700 active:bg-blue-800 transition-colors flex items-center justify-center gap-2 shadow-lg shadow-blue-600/20"

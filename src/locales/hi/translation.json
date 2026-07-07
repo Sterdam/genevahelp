@@ -23,7 +23,8 @@
     "wheelchair": "व्हीलचेयर सुलभ",
     "nearby": "आस-पास",
     "activeCount_one": "{{count}} फ़िल्टर",
-    "activeCount_other": "{{count}} फ़िल्टर"
+    "activeCount_other": "{{count}} फ़िल्टर",
+    "categories": "श्रेणियाँ"
   },
   "categories": {
     "food": "भोजन",
@@ -230,7 +231,8 @@
     "helpUsText": "कोई गायब संसाधन जानते हैं? कोई जानकारी गलत है? हटाना चाहते हैं? हमें बताने में संकोच न करें।",
     "chooseLanguage": "अपनी भाषा चुनें",
     "explore": "मानचित्र देखें",
-    "resourceCount": "{{count}} सत्यापित संसाधन"
+    "resourceCount": "{{count}} सत्यापित संसाधन",
+    "needQuestion": "आपको किस चीज़ की ज़रूरत है?"
   },
   "stats": {
     "visits": "दौरे"

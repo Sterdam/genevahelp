@@ -23,7 +23,8 @@
     "wheelchair": "Inafikiwa na kiti cha magurudumu",
     "nearby": "Karibu",
     "activeCount_one": "kichujio {{count}}",
-    "activeCount_other": "vichujio {{count}}"
+    "activeCount_other": "vichujio {{count}}",
+    "categories": "Kategoria"
   },
   "categories": {
     "food": "Chakula",
@@ -230,7 +231,8 @@
     "helpUsText": "Unajua rasilimali inayokosekana? Taarifa si sahihi? Unataka kuondolewa? Usisite kutufahamisha.",
     "chooseLanguage": "Chagua lugha yako",
     "explore": "Chunguza ramani",
-    "resourceCount": "{{count}} rasilimali zilizothibitishwa"
+    "resourceCount": "{{count}} rasilimali zilizothibitishwa",
+    "needQuestion": "Unahitaji nini?"
   },
   "stats": {
     "visits": "ziara"

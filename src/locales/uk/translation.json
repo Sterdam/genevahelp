@@ -27,7 +27,8 @@
     "activeCount_one": "{{count}} фільтр",
     "activeCount_other": "{{count}} фільтрів",
     "activeCount_few": "{{count}} фільтри",
-    "activeCount_many": "{{count}} фільтрів"
+    "activeCount_many": "{{count}} фільтрів",
+    "categories": "Категорії"
   },
   "categories": {
     "food": "Харчування",
@@ -234,7 +235,8 @@
     "helpUsText": "Знаєте пропущений ресурс? Інформація невірна? Хочете бути видаленими? Не вагайтесь повідомити нас.",
     "chooseLanguage": "Оберіть вашу мову",
     "explore": "Досліджуйте карту",
-    "resourceCount": "{{count}} перевірених ресурсів"
+    "resourceCount": "{{count}} перевірених ресурсів",
+    "needQuestion": "Що вам потрібно?"
   },
   "stats": {
     "visits": "відвідувань"

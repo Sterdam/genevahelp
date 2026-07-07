@@ -1,6 +1,6 @@
 import { MapContainer, TileLayer, ZoomControl, useMap } from 'react-leaflet'
 import { MAP_CENTER, MAP_DEFAULT_ZOOM } from '../../lib/constants'
-import { ClusterMarkers } from './ClusterMarkers'
+import { ResourceMarker } from './ResourceMarker'
 import { UserLocationMarker } from './UserLocationMarker'
 import type { Resource } from '../../lib/types'
 import { useEffect } from 'react'
@@ -103,11 +103,16 @@ export function MapView({
 
       <ZoomControl position="bottomright" />
 
-      <ClusterMarkers
-        resources={resources}
-        selectedId={selectedId}
-        onSelectResource={onSelectResource}
-      />
+      {resources
+        .filter((r) => !Number.isNaN(r.latitude) && !Number.isNaN(r.longitude))
+        .map((resource) => (
+          <ResourceMarker
+            key={resource.id}
+            resource={resource}
+            isSelected={resource.id === selectedId}
+            onClick={() => onSelectResource(resource)}
+          />
+        ))}
 
       {userLat != null && userLng != null && (
         <UserLocationMarker lat={userLat} lng={userLng} />

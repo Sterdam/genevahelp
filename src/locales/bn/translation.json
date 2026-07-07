@@ -23,7 +23,8 @@
     "wheelchair": "হুইলচেয়ার প্রবেশযোগ্য",
     "nearby": "কাছাকাছি",
     "activeCount_one": "{{count}} ফিল্টার",
-    "activeCount_other": "{{count}} ফিল্টার"
+    "activeCount_other": "{{count}} ফিল্টার",
+    "categories": "বিভাগসমূহ"
   },
   "categories": {
     "food": "খাদ্য",
@@ -230,7 +231,8 @@
     "helpUsText": "একটি অনুপস্থিত সম্পদ জানেন? কোনো তথ্য ভুল? অপসারণ চান? আমাদের জানাতে দ্বিধা করবেন না।",
     "chooseLanguage": "আপনার ভাষা বেছে নিন",
     "explore": "মানচিত্র অন্বেষণ করুন",
-    "resourceCount": "{{count}} যাচাইকৃত সম্পদ"
+    "resourceCount": "{{count}} যাচাইকৃত সম্পদ",
+    "needQuestion": "আপনার কী প্রয়োজন?"
   },
   "stats": {
     "visits": "ভিজিট"

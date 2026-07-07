@@ -25,7 +25,8 @@
     "nearby": "În apropiere",
     "activeCount_one": "{{count}} filtru",
     "activeCount_other": "{{count}} de filtre",
-    "activeCount_few": "{{count}} filtre"
+    "activeCount_few": "{{count}} filtre",
+    "categories": "Categorii"
   },
   "resource": {
     "address": "Adresă",
@@ -232,7 +233,8 @@
     "helpUsText": "Cunoașteți o resursă care lipsește? O informație este incorectă? Doriți să fiți eliminat? Nu ezitați să ne anunțați.",
     "chooseLanguage": "Alegeți limba dvs.",
     "explore": "Explorați harta",
-    "resourceCount": "{{count}} resurse verificate"
+    "resourceCount": "{{count}} resurse verificate",
+    "needQuestion": "De ce aveți nevoie?"
   },
   "stats": {
     "visits": "vizite"

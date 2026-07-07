@@ -25,7 +25,8 @@
     "nearby": "U blizini",
     "activeCount_one": "{{count}} филтер",
     "activeCount_other": "{{count}} филтера",
-    "activeCount_few": "{{count}} филтера"
+    "activeCount_few": "{{count}} филтера",
+    "categories": "Kategorije"
   },
   "categories": {
     "food": "Hrana",
@@ -232,7 +233,8 @@
     "helpUsText": "Znate resurs koji nedostaje? Neka informacija je netačna? Želite da budete uklonjeni? Ne oklevajte da nas obavestite.",
     "chooseLanguage": "Izaberite svoj jezik",
     "explore": "Istražite mapu",
-    "resourceCount": "{{count}} proverenih resursa"
+    "resourceCount": "{{count}} proverenih resursa",
+    "needQuestion": "Šta vam je potrebno?"
   },
   "stats": {
     "visits": "посета"

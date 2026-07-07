@@ -31,7 +31,8 @@
     "activeCount_zero": "بدون فلاتر",
     "activeCount_two": "فلتران",
     "activeCount_few": "{{count}} فلاتر",
-    "activeCount_many": "{{count}} فلترًا"
+    "activeCount_many": "{{count}} فلترًا",
+    "categories": "الفئات"
   },
   "resource": {
     "address": "العنوان",
@@ -238,7 +239,8 @@
     "helpUsText": "هل تعرف مورداً مفقوداً؟ هل هناك معلومات خاطئة؟ هل تريد إزالة بياناتك؟ لا تتردد في إخبارنا.",
     "chooseLanguage": "اختر لغتك",
     "explore": "استكشف الخريطة",
-    "resourceCount": "{{count}} موارد موثقة"
+    "resourceCount": "{{count}} موارد موثقة",
+    "needQuestion": "ما الذي تحتاجه؟"
   },
   "stats": {
     "visits": "زيارة"

@@ -23,7 +23,8 @@
     "wheelchair": "휠체어 이용 가능",
     "nearby": "가까운 곳",
     "activeCount_one": "{{count}} 필터",
-    "activeCount_other": "{{count}} 필터"
+    "activeCount_other": "{{count}} 필터",
+    "categories": "카테고리"
   },
   "categories": {
     "food": "식료품",
@@ -230,7 +231,8 @@
     "helpUsText": "누락된 자원을 알고 계신가요? 잘못된 정보가 있나요? 삭제를 원하시나요? 주저하지 마시고 알려주세요.",
     "chooseLanguage": "언어를 선택하세요",
     "explore": "지도 탐색",
-    "resourceCount": "{{count}}개의 검증된 자원"
+    "resourceCount": "{{count}}개의 검증된 자원",
+    "needQuestion": "무엇이 필요하세요?"
   },
   "stats": {
     "visits": "방문"

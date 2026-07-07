@@ -23,7 +23,8 @@
     "wheelchair": "Engelli erişimine uygun",
     "nearby": "Yakınımda",
     "activeCount_one": "{{count}} filtre",
-    "activeCount_other": "{{count}} filtre"
+    "activeCount_other": "{{count}} filtre",
+    "categories": "Kategoriler"
   },
   "categories": {
     "food": "Gıda",
@@ -230,7 +231,8 @@
     "helpUsText": "Eksik bir kaynak biliyor musunuz? Bir bilgi yanlış mı? Kaldırılmak mı istiyorsunuz? Bize bildirmekten çekinmeyin.",
     "chooseLanguage": "Dilinizi seçin",
     "explore": "Haritayı keşfedin",
-    "resourceCount": "{{count}} doğrulanmış kaynak"
+    "resourceCount": "{{count}} doğrulanmış kaynak",
+    "needQuestion": "Neye ihtiyacınız var?"
   },
   "stats": {
     "visits": "ziyaret"

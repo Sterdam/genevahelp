@@ -23,7 +23,8 @@
     "wheelchair": "E aksesueshme për karrige me rrota",
     "nearby": "Afër",
     "activeCount_one": "{{count}} filtër",
-    "activeCount_other": "{{count}} filtra"
+    "activeCount_other": "{{count}} filtra",
+    "categories": "Kategoritë"
   },
   "resource": {
     "address": "Adresa",
@@ -230,7 +231,8 @@
     "helpUsText": "Dini një burim që mungon? Një informacion është i pasaktë? Dëshironi të hiqeni? Mos hezitoni të na njoftoni.",
     "chooseLanguage": "Zgjidhni gjuhën tuaj",
     "explore": "Eksploroni hartën",
-    "resourceCount": "{{count}} burime të verifikuara"
+    "resourceCount": "{{count}} burime të verifikuara",
+    "needQuestion": "Për çfarë keni nevojë?"
   },
   "stats": {
     "visits": "vizita"

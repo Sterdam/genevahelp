@@ -23,7 +23,8 @@
     "wheelchair": "சக்கர நாற்காலி அணுகல்",
     "nearby": "அருகில்",
     "activeCount_one": "{{count}} வடிகட்டி",
-    "activeCount_other": "{{count}} வடிகட்டிகள்"
+    "activeCount_other": "{{count}} வடிகட்டிகள்",
+    "categories": "பிரிவுகள்"
   },
   "categories": {
     "food": "உணவு",
@@ -230,7 +231,8 @@
     "helpUsText": "விடுபட்ட வளம் தெரியுமா? தவறான தகவல் உள்ளதா? நீக்க விரும்புகிறீர்களா? தயங்காமல் எங்களிடம் தெரிவியுங்கள்.",
     "chooseLanguage": "உங்கள் மொழியைத் தேர்ந்தெடுங்கள்",
     "explore": "வரைபடத்தை ஆராயுங்கள்",
-    "resourceCount": "{{count}} சரிபார்க்கப்பட்ட வளங்கள்"
+    "resourceCount": "{{count}} சரிபார்க்கப்பட்ட வளங்கள்",
+    "needQuestion": "உங்களுக்கு என்ன தேவை?"
   },
   "stats": {
     "visits": "வருகைகள்"

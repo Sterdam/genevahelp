@@ -23,7 +23,8 @@
     "wheelchair": "รองรับวีลแชร์",
     "nearby": "ใกล้เคียง",
     "activeCount_one": "{{count}} ตัวกรอง",
-    "activeCount_other": "{{count}} ตัวกรอง"
+    "activeCount_other": "{{count}} ตัวกรอง",
+    "categories": "หมวดหมู่"
   },
   "categories": {
     "food": "อาหาร",
@@ -230,7 +231,8 @@
     "helpUsText": "รู้จักทรัพยากรที่ขาดหายไป? ข้อมูลไม่ถูกต้อง? ต้องการถูกลบออก? อย่าลังเลที่จะแจ้งเรา",
     "chooseLanguage": "เลือกภาษาของคุณ",
     "explore": "สำรวจแผนที่",
-    "resourceCount": "{{count}} ทรัพยากรที่ตรวจสอบแล้ว"
+    "resourceCount": "{{count}} ทรัพยากรที่ตรวจสอบแล้ว",
+    "needQuestion": "คุณต้องการความช่วยเหลือด้านใด"
   },
   "stats": {
     "visits": "การเยี่ยมชม"

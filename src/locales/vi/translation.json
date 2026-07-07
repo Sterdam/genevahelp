@@ -23,7 +23,8 @@
     "wheelchair": "Xe lăn tiếp cận được",
     "nearby": "Gần đây",
     "activeCount_one": "{{count}} bộ lọc",
-    "activeCount_other": "{{count}} bộ lọc"
+    "activeCount_other": "{{count}} bộ lọc",
+    "categories": "Danh mục"
   },
   "categories": {
     "food": "Thực phẩm",
@@ -230,7 +231,8 @@
     "helpUsText": "Biết nguồn lực nào bị thiếu? Thông tin nào sai? Muốn được gỡ bỏ? Đừng ngần ngại cho chúng tôi biết.",
     "chooseLanguage": "Chọn ngôn ngữ của bạn",
     "explore": "Khám phá bản đồ",
-    "resourceCount": "{{count}} nguồn lực đã xác minh"
+    "resourceCount": "{{count}} nguồn lực đã xác minh",
+    "needQuestion": "Bạn cần gì?"
   },
   "stats": {
     "visits": "lượt truy cập"

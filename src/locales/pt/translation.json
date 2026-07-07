@@ -25,7 +25,8 @@
     "nearby": "Nas proximidades",
     "activeCount_one": "{{count}} filtro",
     "activeCount_other": "{{count}} filtros",
-    "activeCount_many": "{{count}} filtros"
+    "activeCount_many": "{{count}} filtros",
+    "categories": "Categorias"
   },
   "resource": {
     "address": "Endereço",
@@ -232,7 +233,8 @@
     "helpUsText": "Conhece um recurso em falta? Alguma informação está incorreta? Quer ser removido? Não hesite em contactar-nos.",
     "chooseLanguage": "Escolha o seu idioma",
     "explore": "Explorar o mapa",
-    "resourceCount": "{{count}} recursos verificados"
+    "resourceCount": "{{count}} recursos verificados",
+    "needQuestion": "De que precisa?"
   },
   "stats": {
     "visits": "visitas"

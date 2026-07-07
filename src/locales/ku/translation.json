@@ -23,7 +23,8 @@
     "wheelchair": "Ji bo ereba seqetan guncaw",
     "nearby": "Li nêzîk",
     "activeCount_one": "{{count}} fîlter",
-    "activeCount_other": "{{count}} fîlter"
+    "activeCount_other": "{{count}} fîlter",
+    "categories": "Kategorî"
   },
   "categories": {
     "food": "Xwarin",
@@ -230,7 +231,8 @@
     "helpUsText": "Çavkaniyek winda dizanî? Agahiyek çewt e? Dixwazî jê berdeyî? Dudilî nebin û ji me re bêjin.",
     "chooseLanguage": "Zimanê xwe hilbijêrin",
     "explore": "Nexşeyê bigerin",
-    "resourceCount": "{{count}} çavkaniyên piştrastkirî"
+    "resourceCount": "{{count}} çavkaniyên piştrastkirî",
+    "needQuestion": "Tu hewceyî çi yî?"
   },
   "stats": {
     "visits": "serdana"

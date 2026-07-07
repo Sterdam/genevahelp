@@ -1,6 +1,6 @@
-import { useState, useCallback, useMemo } from 'react'
+import { useState, useEffect, useCallback, useMemo } from 'react'
 import { Link } from 'react-router-dom'
-import { Clock, Eye, Siren } from 'lucide-react'
+import { ChevronDown, Clock, Eye, Siren } from 'lucide-react'
 import { SEOHead } from '../components/seo/SEOHead'
 import { canonicalUrl } from '../lib/seo-utils'
 import { MapView } from '../components/map/MapView'
@@ -8,6 +8,9 @@ import { ResourceList } from '../components/resources/ResourceList'
 import { ResourceDetail } from '../components/resources/ResourceDetail'
 import { SearchBar } from '../components/filters/SearchBar'
 import { CategoryFilter } from '../components/filters/CategoryFilter'
+import { CategorySheet } from '../components/filters/CategorySheet'
+import { CATEGORY_CONFIG, CATEGORY_EMOJI } from '../lib/constants'
+import { getStoredCategories, setStoredCategories, onPrefsChange } from '../lib/user-prefs'
 import { useResources } from '../hooks/useResources'
 import { useGeolocation } from '../hooks/useGeolocation'
 import { useSearch } from '../hooks/useSearch'
@@ -22,10 +25,19 @@ interface HomePageProps {
 
 export function HomePage({ mobileView }: HomePageProps) {
   const { t } = useTranslation()
-  const [categories, setCategories] = useState<ResourceCategory[]>([])
+  const [categories, setCategories] = useState<ResourceCategory[]>(getStoredCategories)
   const [openNow, setOpenNow] = useState(false)
+  const [sheetOpen, setSheetOpen] = useState(false)
   const [selectedResource, setSelectedResource] = useState<Resource | null>(null)
   const [selectedId, setSelectedId] = useState<string | null>(null)
+
+  // Stay in sync with choices made elsewhere (welcome modal)
+  useEffect(() => onPrefsChange(() => setCategories(getStoredCategories())), [])
+
+  const updateCategories = useCallback((next: ResourceCategory[]) => {
+    setCategories(next)
+    setStoredCategories(next)
+  }, [])
   const { query, setSearchQuery } = useSearch()
   const { latitude, longitude } = useGeolocation()
   const visitCount = useVisitCounter()
@@ -70,7 +82,43 @@ export function HomePage({ mobileView }: HomePageProps) {
       <div className="px-4 py-3 bg-white border-b border-gray-100 space-y-2.5 z-20 relative">
         <SearchBar onSearch={setSearchQuery} />
         <div className="flex items-center gap-2">
-          <CategoryFilter selected={categories} onChange={setCategories} counts={categoryCounts} />
+          {/* Mobile: big category button opening the grid sheet */}
+          <button
+            onClick={() => setSheetOpen(true)}
+            className={`sm:hidden flex-1 min-w-0 flex items-center justify-between gap-1.5 px-3 py-1.5 text-xs font-medium rounded-lg border transition-colors ${
+              categories.length === 1
+                ? 'text-white'
+                : 'text-gray-700 bg-gray-50 border-gray-200 hover:bg-gray-100'
+            }`}
+            style={
+              categories.length === 1
+                ? {
+                    backgroundColor: CATEGORY_CONFIG[categories[0]].color,
+                    borderColor: CATEGORY_CONFIG[categories[0]].color,
+                  }
+                : undefined
+            }
+          >
+            <span className="truncate flex items-center gap-1.5">
+              {categories.length === 1 ? (
+                <>
+                  <span>{CATEGORY_EMOJI[categories[0]]}</span>
+                  {t(`categories.${categories[0]}`)}
+                </>
+              ) : categories.length > 1 ? (
+                `${t('filters.categories')} (${categories.length})`
+              ) : (
+                t('filters.categories')
+              )}
+            </span>
+            <ChevronDown size={14} className="shrink-0 opacity-60" />
+          </button>
+
+          {/* Desktop: scrollable pills */}
+          <div className="hidden sm:block min-w-0 flex-1">
+            <CategoryFilter selected={categories} onChange={updateCategories} counts={categoryCounts} />
+          </div>
+
           <button
             onClick={() => setOpenNow((v) => !v)}
             aria-pressed={openNow}
@@ -153,6 +201,14 @@ export function HomePage({ mobileView }: HomePageProps) {
       {/* Resource Detail */}
       <ResourceDetail resource={translatedSelected} onClose={handleCloseDetail} />
 
+      {/* Mobile category sheet */}
+      <CategorySheet
+        open={sheetOpen}
+        selected={categories}
+        counts={categoryCounts}
+        onChange={updateCategories}
+        onClose={() => setSheetOpen(false)}
+      />
     </div>
   )
 }

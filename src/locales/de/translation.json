@@ -23,7 +23,8 @@
     "wheelchair": "Barrierefrei",
     "nearby": "In der Nähe",
     "activeCount_one": "{{count}} Filter",
-    "activeCount_other": "{{count}} Filter"
+    "activeCount_other": "{{count}} Filter",
+    "categories": "Kategorien"
   },
   "resource": {
     "address": "Adresse",
@@ -230,7 +231,8 @@
     "helpUsText": "Kennen Sie eine fehlende Ressource? Ist eine Information falsch? Möchten Sie entfernt werden? Zögern Sie nicht, uns zu informieren.",
     "chooseLanguage": "Wählen Sie Ihre Sprache",
     "explore": "Karte erkunden",
-    "resourceCount": "{{count}} verifizierte Ressourcen"
+    "resourceCount": "{{count}} verifizierte Ressourcen",
+    "needQuestion": "Was brauchen Sie?"
   },
   "stats": {
     "visits": "Besuche"

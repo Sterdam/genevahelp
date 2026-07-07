@@ -23,7 +23,8 @@
     "wheelchair": "Kursiga curyaanka loo mari karo",
     "nearby": "Kuwa dhow",
     "activeCount_one": "{{count}} shaandhayn",
-    "activeCount_other": "{{count}} shaandhayn"
+    "activeCount_other": "{{count}} shaandhayn",
+    "categories": "Qaybaha"
   },
   "categories": {
     "food": "Cunto",
@@ -230,7 +231,8 @@
     "helpUsText": "Ma taqaanaa kheyraad maqan? Macluumaad khaldan ma jiraa? Ma rabtaa in lagaa saaro? Ha ka shakiyin inaad noo sheegto.",
     "chooseLanguage": "Dooro luqaddaada",
     "explore": "Sahami khariidadda",
-    "resourceCount": "{{count}} kheyraad la xaqiijiyay"
+    "resourceCount": "{{count}} kheyraad la xaqiijiyay",
+    "needQuestion": "Maxaad u baahan tahay?"
   },
   "stats": {
     "visits": "booqasho"

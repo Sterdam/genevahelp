@@ -25,7 +25,8 @@
     "nearby": "À proximité",
     "activeCount_one": "{{count}} filtre",
     "activeCount_other": "{{count}} filtres",
-    "activeCount_many": "{{count}} filtres"
+    "activeCount_many": "{{count}} filtres",
+    "categories": "Catégories"
   },
   "resource": {
     "address": "Adresse",
@@ -203,7 +204,8 @@
     "helpUsText": "Vous connaissez une ressource qui manque ? Une information est incorrecte ? Vous souhaitez ne plus apparaître ? N'hésitez pas à nous le signaler.",
     "chooseLanguage": "Choisissez votre langue",
     "explore": "Explorer la carte",
-    "resourceCount": "{{count}} ressources vérifiées"
+    "resourceCount": "{{count}} ressources vérifiées",
+    "needQuestion": "De quoi avez-vous besoin ?"
   },
   "categories": {
     "food": "Alimentaire",

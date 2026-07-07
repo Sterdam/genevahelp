@@ -23,7 +23,8 @@
     "wheelchair": "車いす対応",
     "nearby": "近くにある",
     "activeCount_one": "{{count}} フィルター",
-    "activeCount_other": "{{count}} フィルター"
+    "activeCount_other": "{{count}} フィルター",
+    "categories": "カテゴリー"
   },
   "categories": {
     "food": "食料",
@@ -230,7 +231,8 @@
     "helpUsText": "不足しているリソースをご存知ですか？情報に誤りがありますか？削除を希望されますか？お気軽にお知らせください。",
     "chooseLanguage": "言語を選択",
     "explore": "マップを探索",
-    "resourceCount": "{{count}}件の確認済みリソース"
+    "resourceCount": "{{count}}件の確認済みリソース",
+    "needQuestion": "何をお探しですか？"
   },
   "stats": {
     "visits": "訪問"

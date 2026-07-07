@@ -23,7 +23,8 @@
     "wheelchair": "Wheelchair accessible",
     "nearby": "Nearby",
     "activeCount_one": "{{count}} filter",
-    "activeCount_other": "{{count}} filters"
+    "activeCount_other": "{{count}} filters",
+    "categories": "Categories"
   },
   "resource": {
     "address": "Address",
@@ -201,7 +202,8 @@
     "helpUsText": "Know a missing resource? Is some information incorrect? Want to be removed? Don't hesitate to let us know.",
     "chooseLanguage": "Choose your language",
     "explore": "Explore the map",
-    "resourceCount": "{{count}} verified resources"
+    "resourceCount": "{{count}} verified resources",
+    "needQuestion": "What do you need?"
   },
   "categories": {
     "food": "Food",

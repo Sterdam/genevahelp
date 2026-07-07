@@ -23,7 +23,8 @@
     "wheelchair": "ብዊልቸር ዝበጽሕ",
     "nearby": "ኣብ ቀረባ",
     "activeCount_one": "{{count}} ፊልተር",
-    "activeCount_other": "{{count}} ፊልተራት"
+    "activeCount_other": "{{count}} ፊልተራት",
+    "categories": "ምድባት"
   },
   "categories": {
     "food": "መግቢ",
@@ -230,7 +231,8 @@
     "helpUsText": "ዝጎደለ ጸጋ ትፈልጡ? ሓበሬታ ጌጋ ኣሎ? ክትእለዩ ትደልዩ? ከይተጸገሙ ሓብሩና።",
     "chooseLanguage": "ቋንቋኹም ምረጹ",
     "explore": "ካርታ ድለዩ",
-    "resourceCount": "{{count}} ዝተረጋገጹ ጸጋታት"
+    "resourceCount": "{{count}} ዝተረጋገጹ ጸጋታት",
+    "needQuestion": "እንታይ ትደልዩ?"
   },
   "stats": {
     "visits": "ምብጻሕ"

@@ -23,7 +23,8 @@
     "wheelchair": "በዊልቸር ተደራሽ",
     "nearby": "በአቅራቢያ",
     "activeCount_one": "{{count}} ማጣሪያ",
-    "activeCount_other": "{{count}} ማጣሪያዎች"
+    "activeCount_other": "{{count}} ማጣሪያዎች",
+    "categories": "ምድቦች"
   },
   "categories": {
     "food": "ምግብ",
@@ -230,7 +231,8 @@
     "helpUsText": "የጎደለ ሀብት ያውቃሉ? መረጃ ስህተት ነው? መወገድ ይፈልጋሉ? እባክዎ ያሳውቁን።",
     "chooseLanguage": "ቋንቋዎን ይምረጡ",
     "explore": "ካርታውን ያስሱ",
-    "resourceCount": "{{count}} የተረጋገጡ ሀብቶች"
+    "resourceCount": "{{count}} የተረጋገጡ ሀብቶች",
+    "needQuestion": "ምን ዓይነት እርዳታ ይፈልጋሉ?"
   },
   "stats": {
     "visits": "ጉብኝቶች"

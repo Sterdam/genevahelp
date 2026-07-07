@@ -23,7 +23,8 @@
     "wheelchair": "Достъпно за инвалидни колички",
     "nearby": "Наблизо",
     "activeCount_one": "{{count}} филтър",
-    "activeCount_other": "{{count}} филтри"
+    "activeCount_other": "{{count}} филтри",
+    "categories": "Категории"
   },
   "resource": {
     "address": "Адрес",
@@ -230,7 +231,8 @@
     "helpUsText": "Знаете липсващ ресурс? Информацията е неточна? Искате да бъдете премахнати? Не се колебайте да ни уведомите.",
     "chooseLanguage": "Изберете вашия език",
     "explore": "Разгледайте картата",
-    "resourceCount": "{{count}} проверени ресурса"
+    "resourceCount": "{{count}} проверени ресурса",
+    "needQuestion": "От какво имате нужда?"
   },
   "stats": {
     "visits": "посещения"

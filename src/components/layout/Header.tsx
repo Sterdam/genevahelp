@@ -53,6 +53,7 @@ export function Header() {
           >
             <span>{currentLang.flag}</span>
             <span className="hidden sm:inline">{currentLang.name}</span>
+            <span className="sm:hidden uppercase text-xs">{currentLang.code}</span>
             <ChevronDown size={14} className={`transition-transform ${langOpen ? 'rotate-180' : ''}`} />
           </button>
 

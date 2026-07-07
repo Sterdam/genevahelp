@@ -27,7 +27,8 @@
     "activeCount_one": "{{count}} фильтр",
     "activeCount_other": "{{count}} фильтров",
     "activeCount_few": "{{count}} фильтра",
-    "activeCount_many": "{{count}} фильтров"
+    "activeCount_many": "{{count}} фильтров",
+    "categories": "Категории"
   },
   "categories": {
     "food": "Питание",
@@ -234,7 +235,8 @@
     "helpUsText": "Знаете пропущенный ресурс? Информация неверна? Хотите быть удалены? Не стесняйтесь сообщить нам.",
     "chooseLanguage": "Выберите ваш язык",
     "explore": "Исследовать карту",
-    "resourceCount": "{{count}} проверенных ресурсов"
+    "resourceCount": "{{count}} проверенных ресурсов",
+    "needQuestion": "Что вам нужно?"
   },
   "stats": {
     "visits": "посещений"

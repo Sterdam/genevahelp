@@ -23,7 +23,8 @@
     "wheelchair": "ह्विलचेयर पहुँचयोग्य",
     "nearby": "नजिकै",
     "activeCount_one": "{{count}} फिल्टर",
-    "activeCount_other": "{{count}} फिल्टरहरू"
+    "activeCount_other": "{{count}} फिल्टरहरू",
+    "categories": "श्रेणीहरू"
   },
   "categories": {
     "food": "खाना",
@@ -230,7 +231,8 @@
     "helpUsText": "छुटेको स्रोत थाहा छ? कुनै जानकारी गलत छ? हटाउन चाहनुहुन्छ? हामीलाई जानकारी दिन नहिचकिचाउनुहोस्।",
     "chooseLanguage": "आफ्नो भाषा छान्नुहोस्",
     "explore": "नक्सा अन्वेषण गर्नुहोस्",
-    "resourceCount": "{{count}} प्रमाणित स्रोतहरू"
+    "resourceCount": "{{count}} प्रमाणित स्रोतहरू",
+    "needQuestion": "तपाईंलाई के चाहिन्छ?"
   },
   "stats": {
     "visits": "भ्रमण"

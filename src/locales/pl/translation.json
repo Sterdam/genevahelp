@@ -27,7 +27,8 @@
     "activeCount_one": "{{count}} filtr",
     "activeCount_other": "{{count}} filtry",
     "activeCount_few": "{{count}} filtry",
-    "activeCount_many": "{{count}} filtrów"
+    "activeCount_many": "{{count}} filtrów",
+    "categories": "Kategorie"
   },
   "resource": {
     "address": "Adres",
@@ -234,7 +235,8 @@
     "helpUsText": "Znasz brakujący zasób? Informacja jest nieprawidłowa? Chcesz zostać usunięty? Nie wahaj się nas poinformować.",
     "chooseLanguage": "Wybierz swój język",
     "explore": "Poznaj mapę",
-    "resourceCount": "{{count}} zweryfikowanych zasobów"
+    "resourceCount": "{{count}} zweryfikowanych zasobów",
+    "needQuestion": "Czego potrzebujesz?"
   },
   "stats": {
     "visits": "wizyt"

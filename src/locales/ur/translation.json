@@ -23,7 +23,8 @@
     "wheelchair": "وہیل چیئر قابل رسائی",
     "nearby": "قریب",
     "activeCount_one": "{{count}} فلٹر",
-    "activeCount_other": "{{count}} فلٹرز"
+    "activeCount_other": "{{count}} فلٹرز",
+    "categories": "زمرے"
   },
   "categories": {
     "food": "خوراک",
@@ -230,7 +231,8 @@
     "helpUsText": "کوئی گمشدہ وسیلہ جانتے ہیں؟ کوئی معلومات غلط ہے؟ ہٹانا چاہتے ہیں؟ ہمیں بتانے میں ہچکچاہٹ نہ کریں۔",
     "chooseLanguage": "اپنی زبان منتخب کریں",
     "explore": "نقشہ دریافت کریں",
-    "resourceCount": "{{count}} تصدیق شدہ وسائل"
+    "resourceCount": "{{count}} تصدیق شدہ وسائل",
+    "needQuestion": "آپ کو کس چیز کی ضرورت ہے؟"
   },
   "stats": {
     "visits": "دورے"
