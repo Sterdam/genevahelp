@@ -1632,5 +1632,47 @@
     "description": "Cihê guhdarîkirin, agahdarî û rêberiyê ji bo koçberên di rewşa dijwar de, bi taybetî civakên spanîaxêv, portekîzîaxêv, mongolî û fîlîpînî. Pirsên îdarî û civakî, piştgirî di karan de, danişînên agahdariyê, atolye û çalakiyên werzîşî û çandî.",
     "target_audience": "Kesên bê statûya qanûnî an ên ku vê dawiyê statûya wan hatiye birêkûpêkkirin (li derveyî warê penaberiyê û bê pasaporta YE/EFTA)",
     "access_conditions": "Belaş. Şêwirmendiyên takekesî bi randevû; danişînên agahdariyê bê randevû; atolye û çalakî bi tomarkirin."
+  },
+  "r_0251": {
+    "name": "Espace Léman — navenda xwezayê ya taybet ji bo golê (ASL)",
+    "description": "Navenda xwezayê ya Komeleya Parastina Gola Lémanê (ASL), li dilê taxa Eaux-Vives. Keşfkirina belaş a golê û ekosîstemên wê: temaşekirina bi mîkroskopê, atolyeyên naskirina cureyan, bernameyên «Labo Léman» (masî, çûk, nermîlaş, riwekên avê, qirêjiya plastîkê), pêşangeh û çalakî ji bo dibistanan ji 5 saliyê û pê ve.",
+    "target_audience": "Ji bo herkesî: malbat, dibistan, hezkerên xwezayê",
+    "access_conditions": "Tevahiya salê belaş, ketin serbest e."
+  },
+  "r_0252": {
+    "name": "Autonomia — Nivîsgeha alîkariya karên îdarî",
+    "description": "Alîkariya îdarî ya belaş û bê randevû: hevdîtineke 30 deqîqeyan bi xebatkareke civakî re, ji bo nirxandina rewşa xwe, fêmkirina fatûreyekê, dagirtina belgeyekê an rênîşandan di karên fermî de (bac, AVS, alîkariyên civakî, maf û erk). Komele her wiha atolyeyên fêrbûna karên îdarî û şopandina takekesî jî pêşkêş dike.",
+    "target_audience": "Ciwanên mezin û malbat, her kesê ku ji bo karên kaxezan alîkarî hewce dike",
+    "access_conditions": "Belaş û bê randevû. Hevdîtinên 30 deqîqeyan, qata duyem."
+  },
+  "r_0253": {
+    "name": "Europe-Charmilles — Nivîsgeha piştgiriya psîkolojîk",
+    "description": "Piştgiriya psîkolojîk a belaş a Komeleya Europe-Charmilles ji bo zarok, ciwan û mezinan. Guhdarîkirin û piştgiriya psîkolojîk a nêzîkî mirovan, salê ji 100î zêdetir şêwirmendî. Komeleyeke taxê ye ku wek saziya berjewendiya giştî hatiye naskirin.",
+    "target_audience": "Zarok, ciwan û mezin",
+    "access_conditions": "Belaş, bi randevû."
+  },
+  "r_0254": {
+    "name": "Europe-Charmilles — Nivîsgeha şêwirmendiya hiqûqî",
+    "description": "Şêwirmendiya hiqûqî ya belaş a Komeleya Europe-Charmilles: şîret û rênîşandana hiqûqî ya nêzîkî mirovan, salê ji 200î zêdetir şêwirmendî. Temamkera Xizmeta Şêwirmendiya Hiqûqî ya Xwendekaran (PJE) e, ku li heman navnîşanê ye.",
+    "target_audience": "Niştecihên taxê û her kesê ku şîreta hiqûqî hewce dike",
+    "access_conditions": "Belaş, bi randevû."
+  },
+  "r_0255": {
+    "name": "Europe-Charmilles — Nivîsgeha piştgiriya ji bo kar",
+    "description": "Alîkariya belaş a ji bo peydakirina kar ji bo niştecihên taxa Charmilles ên 16 heta 64 salî: CV, nameyên serlêdanê, lêgerîna kar an perwerdehiyê, rênîşandana pîşeyî.",
+    "target_audience": "Niştecihên taxa Charmilles ên 16 heta 64 salî",
+    "access_conditions": "Belaş, bi randevû."
+  },
+  "r_0256": {
+    "name": "Europe-Charmilles — Nivîsgeha alîkariya civakî",
+    "description": "Alîkariya civakî ya belaş a Komeleya Europe-Charmilles: tenduristî, xanî, alîkariyên aborî, alîkariya xwarinê — guhdarîkirin, agahdarî û rênîşandan ji bo mezin û malbatên taxê.",
+    "target_audience": "Mezin û malbatên taxê",
+    "access_conditions": "Belaş, bi randevû."
+  },
+  "r_0257": {
+    "name": "Free-Go Espace 99 — Sarincoka hevkariyê",
+    "description": "Sarincoka xizmeta-xweser a tora Free-Go li Espace 99: her kes dikare belaş xwarinê tê de deyne an jî jê hilde, ji bo têkoşîna li dijî îsrafkirina xwarinê. Her dem vekirî ye.",
+    "target_audience": "Ji bo herkesî",
+    "access_conditions": "Xizmeta xweser, her dem vekirî ye (24/7)."
   }
 }

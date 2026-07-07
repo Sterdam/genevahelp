@@ -1632,5 +1632,47 @@
     "description": "Spazio di ascolto, informazione e orientamento per le persone migranti in situazione di precarietà, principalmente le comunità ispanofona, lusofona, mongola e filippina. Questioni amministrative e sociali, sostegno nelle pratiche, sessioni informative, laboratori e attività sportive e culturali.",
     "target_audience": "Persone senza status legale o recentemente regolarizzate (al di fuori dell'ambito dell'asilo e senza passaporto UE/AELS)",
     "access_conditions": "Gratuito. Consulenze individuali su appuntamento; sessioni informative senza appuntamento; laboratori e attività su iscrizione."
+  },
+  "r_0251": {
+    "name": "Espace Léman — centro natura dedicato al lago (ASL)",
+    "description": "Centro natura dell'Association pour la Sauvegarde du Léman, nel cuore del quartiere Eaux-Vives. Scoperta gratuita del lago e dei suoi ecosistemi: osservazione al microscopio, laboratori di identificazione delle specie, programmi «Labo Léman» (pesci, uccelli, molluschi, piante acquatiche, inquinamento da plastica), mostre e attività per le scuole dai 5 anni.",
+    "target_audience": "Aperto a tutti: famiglie, scuole, appassionati di natura",
+    "access_conditions": "Gratuito tutto l'anno, ingresso libero."
+  },
+  "r_0252": {
+    "name": "Autonomia — Sportello amministrativo",
+    "description": "Sportello amministrativo gratuito e senza appuntamento: colloquio di 30 minuti con un'assistente sociale per fare il punto sulla propria situazione, capire una fattura, compilare un documento, orientarsi nelle pratiche (imposte, AVS, prestazioni sociali, diritti e doveri). L'associazione propone anche laboratori di educazione amministrativa e accompagnamenti individuali.",
+    "target_audience": "Giovani adulti e famiglie, chiunque abbia bisogno di aiuto amministrativo",
+    "access_conditions": "Gratuito e senza appuntamento. Colloqui di 30 minuti, 2° piano."
+  },
+  "r_0253": {
+    "name": "Europe-Charmilles — Sportello psicologico",
+    "description": "Sportello psicologico gratuito dell'Associazione Europe-Charmilles per bambini, giovani e adulti. Ascolto e sostegno psicologico di prossimità, oltre 100 consultazioni all'anno. Associazione di quartiere riconosciuta di pubblica utilità.",
+    "target_audience": "Bambini, giovani e adulti",
+    "access_conditions": "Gratuito, su appuntamento."
+  },
+  "r_0254": {
+    "name": "Europe-Charmilles — Sportello giuridico",
+    "description": "Sportello giuridico gratuito dell'Associazione Europe-Charmilles: consulenza e orientamento giuridico di prossimità, oltre 200 consultazioni all'anno. Complementare alla Permanence Juridique des Étudiants (PJE), lo sportello giuridico degli studenti ospitato allo stesso indirizzo.",
+    "target_audience": "Abitanti del quartiere e chiunque abbia bisogno di consulenza giuridica",
+    "access_conditions": "Gratuito, su appuntamento."
+  },
+  "r_0255": {
+    "name": "Europe-Charmilles — Sportello inserimento professionale",
+    "description": "Accompagnamento gratuito verso il lavoro per gli abitanti delle Charmilles dai 16 ai 64 anni: CV, lettere di motivazione, ricerca di un impiego o di una formazione, orientamento professionale.",
+    "target_audience": "Abitanti del quartiere delle Charmilles dai 16 ai 64 anni",
+    "access_conditions": "Gratuito, su appuntamento."
+  },
+  "r_0256": {
+    "name": "Europe-Charmilles — Sportello sociale",
+    "description": "Sportello sociale gratuito dell'Associazione Europe-Charmilles: salute, alloggio, prestazioni finanziarie, aiuto alimentare — ascolto, informazione e orientamento per gli adulti e le famiglie del quartiere.",
+    "target_audience": "Adulti e famiglie del quartiere",
+    "access_conditions": "Gratuito, su appuntamento."
+  },
+  "r_0257": {
+    "name": "Free-Go Espace 99 — Frigo solidale",
+    "description": "Frigorifero self-service della rete Free-Go all'Espace 99: chiunque può depositare o prendere gratuitamente del cibo, per lottare contro lo spreco alimentare. Accessibile in ogni momento.",
+    "target_audience": "Aperto a tutti",
+    "access_conditions": "Self-service, 24 ore su 24, 7 giorni su 7."
   }
 }

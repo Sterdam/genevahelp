@@ -1632,5 +1632,47 @@
     "description": "Espaço de escuta, informação e orientação para pessoas migrantes em situação de precariedade, principalmente as comunidades hispanofalante, lusófona, mongol e filipina. Questões administrativas e sociais, apoio nos trâmites, sessões de informação, oficinas e atividades desportivas e culturais.",
     "target_audience": "Pessoas sem estatuto legal ou recentemente regularizadas (fora do domínio do asilo e sem passaporte UE/EFTA)",
     "access_conditions": "Gratuito. Consultas individuais com marcação; sessões de informação sem marcação; oficinas e atividades mediante inscrição."
+  },
+  "r_0251": {
+    "name": "Espace Léman — centro de natureza dedicado ao lago (ASL)",
+    "description": "Centro de natureza da Association pour la Sauvegarde du Léman, no coração do bairro de Eaux-Vives. Descoberta gratuita do lago e dos seus ecossistemas: observação ao microscópio, ateliers de identificação de espécies, programas «Labo Léman» (peixes, aves, moluscos, plantas aquáticas, poluição por plásticos), exposições e atividades para escolas a partir dos 5 anos.",
+    "target_audience": "Para todos: famílias, escolas, amantes da natureza",
+    "access_conditions": "Gratuito todo o ano, entrada livre."
+  },
+  "r_0252": {
+    "name": "Autonomia — Serviço de apoio administrativo",
+    "description": "Serviço gratuito de apoio administrativo, sem marcação: entrevista de 30 minutos com uma assistente social para fazer o ponto da sua situação, compreender uma fatura, preencher um documento ou orientar-se nos trâmites (impostos, AVS, prestações sociais, direitos e deveres). A associação também propõe ateliers de educação administrativa e acompanhamentos individuais.",
+    "target_audience": "Jovens adultos e famílias, qualquer pessoa que precise de ajuda administrativa",
+    "access_conditions": "Gratuito e sem marcação. Entrevistas de 30 minutos, 2.º andar."
+  },
+  "r_0253": {
+    "name": "Europe-Charmilles — Apoio psicológico",
+    "description": "Serviço gratuito de apoio psicológico da Associação Europe-Charmilles para crianças, jovens e adultos. Escuta e apoio psicológico de proximidade, mais de 100 consultas por ano. Associação de bairro reconhecida de utilidade pública.",
+    "target_audience": "Crianças, jovens e adultos",
+    "access_conditions": "Gratuito, com marcação."
+  },
+  "r_0254": {
+    "name": "Europe-Charmilles — Apoio jurídico",
+    "description": "Serviço gratuito de apoio jurídico da Associação Europe-Charmilles: aconselhamento e orientação jurídica de proximidade, mais de 200 consultas por ano. Complementar à Permanence Juridique des Étudiants (PJE), o serviço jurídico dos estudantes, situado na mesma morada.",
+    "target_audience": "Moradores do bairro e qualquer pessoa que precise de aconselhamento jurídico",
+    "access_conditions": "Gratuito, com marcação."
+  },
+  "r_0255": {
+    "name": "Europe-Charmilles — Apoio à inserção profissional",
+    "description": "Acompanhamento gratuito para o emprego destinado aos moradores das Charmilles dos 16 aos 64 anos: CV, cartas de motivação, procura de emprego ou de formação, orientação profissional.",
+    "target_audience": "Moradores do bairro das Charmilles dos 16 aos 64 anos",
+    "access_conditions": "Gratuito, com marcação."
+  },
+  "r_0256": {
+    "name": "Europe-Charmilles — Apoio social",
+    "description": "Serviço social gratuito da Associação Europe-Charmilles: saúde, alojamento, prestações financeiras, ajuda alimentar — escuta, informação e orientação para os adultos e as famílias do bairro.",
+    "target_audience": "Adultos e famílias do bairro",
+    "access_conditions": "Gratuito, com marcação."
+  },
+  "r_0257": {
+    "name": "Free-Go Espace 99 — Frigorífico solidário",
+    "description": "Frigorífico em livre acesso da rede Free-Go no Espace 99: qualquer pessoa pode deixar ou levar alimentos gratuitamente, para combater o desperdício alimentar. Acessível a qualquer hora.",
+    "target_audience": "Para todos",
+    "access_conditions": "Livre acesso, 24 horas por dia, 7 dias por semana."
   }
 }

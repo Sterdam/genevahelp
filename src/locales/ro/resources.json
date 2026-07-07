@@ -1632,5 +1632,47 @@
     "description": "Spațiu de ascultare, informare și orientare pentru persoanele migrante aflate în situații precare, în principal comunitățile hispanofonă, lusofonă, mongolă și filipineză. Întrebări administrative și sociale, sprijin în demersuri, sesiuni de informare, ateliere și activități sportive și culturale.",
     "target_audience": "Persoane fără statut legal sau recent regularizate (în afara domeniului azilului și fără pașaport UE/AELS)",
     "access_conditions": "Gratuit. Consultații individuale pe bază de programare; sesiuni de informare fără programare; ateliere și activități cu înscriere."
+  },
+  "r_0251": {
+    "name": "Espace Léman — centru de natură dedicat lacului (ASL)",
+    "description": "Centru de natură al Association pour la Sauvegarde du Léman, în inima cartierului Eaux-Vives. Descoperire gratuită a lacului și a ecosistemelor sale: observare la microscop, ateliere de identificare a speciilor, programe «Labo Léman» (pești, păsări, moluște, plante acvatice, poluarea cu plastic), expoziții și activități pentru școli, de la 5 ani.",
+    "target_audience": "Pentru toți: familii, școli, iubitori de natură",
+    "access_conditions": "Gratuit tot anul, intrare liberă."
+  },
+  "r_0252": {
+    "name": "Autonomia — Permanență administrativă",
+    "description": "Permanență administrativă gratuită, fără programare: o întâlnire de 30 de minute cu o asistentă socială pentru a face bilanțul situației dumneavoastră, a înțelege o factură, a completa un document sau a vă orienta în demersuri (impozite, AVS, prestații sociale, drepturi și obligații). Asociația propune și ateliere de educație administrativă și acompaniere individuală.",
+    "target_audience": "Tineri adulți și familii, orice persoană care are nevoie de ajutor administrativ",
+    "access_conditions": "Gratuit și fără programare. Întâlniri de 30 de minute, etajul 2."
+  },
+  "r_0253": {
+    "name": "Europe-Charmilles — Permanență psihologică",
+    "description": "Permanență psihologică gratuită a Asociației Europe-Charmilles pentru copii, tineri și adulți. Ascultare și sprijin psihologic de proximitate, peste 100 de consultații pe an. Asociație de cartier recunoscută de utilitate publică.",
+    "target_audience": "Copii, tineri și adulți",
+    "access_conditions": "Gratuit, cu programare."
+  },
+  "r_0254": {
+    "name": "Europe-Charmilles — Permanență juridică",
+    "description": "Permanență juridică gratuită a Asociației Europe-Charmilles: consiliere și orientare juridică de proximitate, peste 200 de consultații pe an. Complementară cu Permanence Juridique des Étudiants (PJE), permanența juridică a studenților, găzduită la aceeași adresă.",
+    "target_audience": "Locuitorii cartierului și orice persoană care are nevoie de consiliere juridică",
+    "access_conditions": "Gratuit, cu programare."
+  },
+  "r_0255": {
+    "name": "Europe-Charmilles — Permanență de inserție profesională",
+    "description": "Acompaniere gratuită spre un loc de muncă pentru locuitorii cartierului Charmilles cu vârste între 16 și 64 de ani: CV, scrisori de motivație, căutarea unui loc de muncă sau a unei formări, orientare profesională.",
+    "target_audience": "Locuitorii cartierului Charmilles cu vârste între 16 și 64 de ani",
+    "access_conditions": "Gratuit, cu programare."
+  },
+  "r_0256": {
+    "name": "Europe-Charmilles — Permanență socială",
+    "description": "Permanență socială gratuită a Asociației Europe-Charmilles: sănătate, locuință, prestații financiare, ajutor alimentar — ascultare, informare și orientare pentru adulții și familiile din cartier.",
+    "target_audience": "Adulți și familii din cartier",
+    "access_conditions": "Gratuit, cu programare."
+  },
+  "r_0257": {
+    "name": "Free-Go Espace 99 — Frigider solidar",
+    "description": "Frigider în autoservire al rețelei Free-Go la Espace 99: oricine poate lăsa sau lua gratuit alimente, pentru a combate risipa alimentară. Accesibil în orice moment.",
+    "target_audience": "Pentru toți",
+    "access_conditions": "Autoservire, non-stop, 7 zile din 7."
   }
 }

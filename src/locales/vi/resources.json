@@ -1632,5 +1632,47 @@
     "description": "Không gian lắng nghe, cung cấp thông tin và hướng dẫn cho người di cư trong hoàn cảnh khó khăn, chủ yếu là các cộng đồng nói tiếng Tây Ban Nha, tiếng Bồ Đào Nha, Mông Cổ và Philippines. Giải đáp các vấn đề hành chính và xã hội, hỗ trợ làm thủ tục, các buổi cung cấp thông tin, các buổi thực hành và hoạt động thể thao, văn hóa.",
     "target_audience": "Người không có giấy tờ cư trú hợp pháp hoặc mới được hợp pháp hóa (không thuộc diện xin tị nạn và không có hộ chiếu EU/EFTA)",
     "access_conditions": "Miễn phí. Tư vấn cá nhân cần đặt hẹn; các buổi cung cấp thông tin không cần hẹn; các buổi thực hành và hoạt động cần đăng ký."
+  },
+  "r_0251": {
+    "name": "Espace Léman — Trung tâm thiên nhiên về hồ Léman (ASL)",
+    "description": "Trung tâm thiên nhiên của Hiệp hội Bảo vệ Hồ Léman (Association pour la Sauvegarde du Léman – ASL), nằm ở trung tâm khu Eaux-Vives. Khám phá miễn phí hồ và các hệ sinh thái của hồ: quan sát qua kính hiển vi, các buổi thực hành nhận diện loài, chương trình «Labo Léman» (cá, chim, động vật thân mềm, thực vật thủy sinh, ô nhiễm nhựa), triển lãm và hoạt động dành cho trường học từ 5 tuổi.",
+    "target_audience": "Mọi người: gia đình, trường học, người yêu thiên nhiên",
+    "access_conditions": "Miễn phí quanh năm, vào cửa tự do."
+  },
+  "r_0252": {
+    "name": "Autonomia — Điểm hỗ trợ thủ tục hành chính",
+    "description": "Điểm hỗ trợ hành chính miễn phí, không cần hẹn trước: buổi gặp 30 phút với nhân viên xã hội để rà soát tình hình của bạn, hiểu rõ một hóa đơn, điền giấy tờ, hoặc được hướng dẫn các thủ tục (thuế, AVS [bảo hiểm hưu trí và tử tuất], trợ cấp xã hội, quyền và nghĩa vụ). Hiệp hội cũng tổ chức các buổi hướng dẫn kỹ năng hành chính và hỗ trợ theo dõi cá nhân.",
+    "target_audience": "Người trẻ và các gia đình, bất kỳ ai cần trợ giúp về giấy tờ hành chính",
+    "access_conditions": "Miễn phí, không cần hẹn trước. Buổi gặp 30 phút, tầng 2."
+  },
+  "r_0253": {
+    "name": "Europe-Charmilles — Điểm hỗ trợ tâm lý",
+    "description": "Điểm hỗ trợ tâm lý miễn phí của Hiệp hội Europe-Charmilles dành cho trẻ em, thanh thiếu niên và người lớn. Lắng nghe và hỗ trợ tâm lý ngay tại khu phố, hơn 100 buổi tư vấn mỗi năm. Hiệp hội khu phố được công nhận là tổ chức vì lợi ích công cộng.",
+    "target_audience": "Trẻ em, thanh thiếu niên và người lớn",
+    "access_conditions": "Miễn phí, cần đặt hẹn."
+  },
+  "r_0254": {
+    "name": "Europe-Charmilles — Điểm tư vấn pháp lý",
+    "description": "Điểm tư vấn pháp lý miễn phí của Hiệp hội Europe-Charmilles: tư vấn và hướng dẫn pháp lý ngay tại khu phố, hơn 200 buổi tư vấn mỗi năm. Bổ trợ cho Văn phòng tư vấn pháp lý của sinh viên (PJE) đặt tại cùng địa chỉ.",
+    "target_audience": "Cư dân khu phố và bất kỳ ai cần tư vấn pháp lý",
+    "access_conditions": "Miễn phí, cần đặt hẹn."
+  },
+  "r_0255": {
+    "name": "Europe-Charmilles — Điểm hỗ trợ tìm việc làm",
+    "description": "Hỗ trợ tìm việc miễn phí cho cư dân khu Charmilles từ 16 đến 64 tuổi: CV, thư xin việc, tìm việc làm hoặc khóa đào tạo, định hướng nghề nghiệp.",
+    "target_audience": "Cư dân khu Charmilles từ 16 đến 64 tuổi",
+    "access_conditions": "Miễn phí, cần đặt hẹn."
+  },
+  "r_0256": {
+    "name": "Europe-Charmilles — Điểm hỗ trợ xã hội",
+    "description": "Điểm hỗ trợ xã hội miễn phí của Hiệp hội Europe-Charmilles: sức khỏe, nhà ở, trợ cấp tài chính, hỗ trợ thực phẩm — lắng nghe, cung cấp thông tin và hướng dẫn cho người lớn và các gia đình trong khu phố.",
+    "target_audience": "Người lớn và các gia đình trong khu phố",
+    "access_conditions": "Miễn phí, cần đặt hẹn."
+  },
+  "r_0257": {
+    "name": "Free-Go Espace 99 — Tủ lạnh cộng đồng",
+    "description": "Tủ lạnh tự phục vụ của mạng lưới Free-Go tại Espace 99: ai cũng có thể để lại hoặc lấy thực phẩm miễn phí, góp phần chống lãng phí thực phẩm. Mở cửa mọi lúc.",
+    "target_audience": "Mọi người",
+    "access_conditions": "Tự phục vụ, 24/24 giờ, 7 ngày trong tuần."
   }
 }

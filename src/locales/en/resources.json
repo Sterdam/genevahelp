@@ -1632,5 +1632,47 @@
     "description": "A space for listening, information and guidance for migrants in precarious situations, mainly the Spanish-speaking, Portuguese-speaking, Mongolian and Filipino communities. Administrative and social questions, support with procedures, information sessions, workshops and sports and cultural activities.",
     "target_audience": "People without legal status or recently regularised (outside the asylum system and without an EU/EFTA passport)",
     "access_conditions": "Free. Individual consultations by appointment; information sessions without appointment; workshops and activities upon registration."
+  },
+  "r_0251": {
+    "name": "Espace Léman — Lake Nature Centre (ASL)",
+    "description": "Nature centre of the Association pour la Sauvegarde du Léman, in the heart of Eaux-Vives. Free discovery of the lake and its ecosystems: microscope observation, species identification workshops, \"Labo Léman\" programmes (fish, birds, molluscs, aquatic plants, plastic pollution), exhibitions and activities for schools from age 5.",
+    "target_audience": "Everyone: families, schools, nature lovers",
+    "access_conditions": "Free all year round, free entry."
+  },
+  "r_0252": {
+    "name": "Autonomia — Administrative Help Desk",
+    "description": "Free walk-in administrative help desk: a 30-minute meeting with a social worker to review your situation, understand a bill, fill in a document, or navigate procedures (taxes, AVS, social benefits, rights and duties). The association also offers administrative-skills workshops and individual follow-up.",
+    "target_audience": "Young adults and families, anyone needing help with paperwork",
+    "access_conditions": "Free, no appointment needed. 30-minute meetings, 2nd floor."
+  },
+  "r_0253": {
+    "name": "Europe-Charmilles — Psychological Support Desk",
+    "description": "Free psychological support desk of the Europe-Charmilles Association for children, young people and adults. Local listening and psychological support, over 100 consultations per year. Neighbourhood association recognised as being of public utility.",
+    "target_audience": "Children, young people and adults",
+    "access_conditions": "Free, by appointment."
+  },
+  "r_0254": {
+    "name": "Europe-Charmilles — Legal Advice Desk",
+    "description": "Free legal advice desk of the Europe-Charmilles Association: local legal advice and guidance, over 200 consultations per year. Complements the Students' Legal Advice Service (PJE) hosted at the same address.",
+    "target_audience": "Neighbourhood residents and anyone needing legal advice",
+    "access_conditions": "Free, by appointment."
+  },
+  "r_0255": {
+    "name": "Europe-Charmilles — Job Support Desk",
+    "description": "Free employment support for Charmilles residents aged 16 to 64: CVs, cover letters, job or training search, career guidance.",
+    "target_audience": "Charmilles residents aged 16 to 64",
+    "access_conditions": "Free, by appointment."
+  },
+  "r_0256": {
+    "name": "Europe-Charmilles — Social Support Desk",
+    "description": "Free social support desk of the Europe-Charmilles Association: health, housing, financial benefits, food aid — listening, information and guidance for adults and families of the neighbourhood.",
+    "target_audience": "Adults and families of the neighbourhood",
+    "access_conditions": "Free, by appointment."
+  },
+  "r_0257": {
+    "name": "Free-Go Espace 99 — Community Fridge",
+    "description": "Self-service fridge of the Free-Go network at Espace 99: anyone can drop off or take food for free, fighting food waste. Accessible at all times.",
+    "target_audience": "Everyone",
+    "access_conditions": "Self-service, 24/7."
   }
 }

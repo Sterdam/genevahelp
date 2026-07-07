@@ -1632,5 +1632,47 @@
     "description": "어려운 상황에 처한 이주민을 위한 경청·정보·안내 공간으로, 주로 스페인어권, 포르투갈어권, 몽골, 필리핀 커뮤니티를 대상으로 합니다. 행정 및 사회복지 관련 질문, 절차 지원, 설명회, 워크숍, 스포츠 및 문화 활동을 제공합니다.",
     "target_audience": "체류 자격이 없거나 최근에 체류 자격을 얻은 분(난민 신청 절차 대상자 및 EU/EFTA 여권 소지자 제외)",
     "access_conditions": "무료. 개별 상담은 예약 필요, 설명회는 예약 없이 참여 가능, 워크숍과 활동은 등록 필요."
+  },
+  "r_0251": {
+    "name": "Espace Léman — 레만 호수 자연 센터 (ASL)",
+    "description": "레만 호수 보호 협회(Association pour la Sauvegarde du Léman, ASL)가 Eaux-Vives 중심부에서 운영하는 자연 센터입니다. 호수와 그 생태계를 무료로 탐구할 수 있습니다: 현미경 관찰, 생물종 구별 워크숍, «Labo Léman» 프로그램(어류, 조류, 연체동물, 수생 식물, 플라스틱 오염), 전시, 그리고 5세부터 참여할 수 있는 학교 대상 활동.",
+    "target_audience": "누구나: 가족, 학교, 자연에 관심 있는 분",
+    "access_conditions": "연중 무료, 자유 입장."
+  },
+  "r_0252": {
+    "name": "Autonomia — 행정 업무 상담 창구",
+    "description": "예약 없이 이용할 수 있는 무료 행정 상담 창구: 사회복지사와의 30분 면담을 통해 자신의 상황 점검, 고지서 이해, 서류 작성, 각종 절차 안내(세금, AVS〔노령·유족연금〕, 사회 급여, 권리와 의무)를 받을 수 있습니다. 협회는 행정 업무를 배우는 워크숍과 개별 사후 지원도 제공합니다.",
+    "target_audience": "청년과 가족을 비롯해 행정 업무 도움이 필요한 모든 분",
+    "access_conditions": "무료, 예약 불필요. 30분 면담, 2층."
+  },
+  "r_0253": {
+    "name": "Europe-Charmilles — 심리 상담 창구",
+    "description": "Europe-Charmilles 협회가 어린이, 청소년, 성인을 위해 운영하는 무료 심리 상담 창구입니다. 가까운 곳에서 이야기를 들어주고 심리적 지원을 제공하며, 연간 100회 이상의 상담을 진행합니다. 공익성을 인정받은 동네 협회입니다.",
+    "target_audience": "어린이, 청소년, 성인",
+    "access_conditions": "무료, 예약제."
+  },
+  "r_0254": {
+    "name": "Europe-Charmilles — 법률 상담 창구",
+    "description": "Europe-Charmilles 협회의 무료 법률 상담 창구: 가까운 곳에서 법률 자문과 안내를 제공하며, 연간 200회 이상의 상담을 진행합니다. 같은 주소에 있는 학생 법률 상담소(PJE)를 보완하는 서비스입니다.",
+    "target_audience": "동네 주민 및 법률 자문이 필요한 모든 분",
+    "access_conditions": "무료, 예약제."
+  },
+  "r_0255": {
+    "name": "Europe-Charmilles — 취업 지원 창구",
+    "description": "Charmilles 지역에 거주하는 16~64세 주민을 위한 무료 취업 지원: 이력서(CV)와 자기소개서 작성, 일자리·직업 훈련 찾기, 진로 상담.",
+    "target_audience": "Charmilles 지역에 거주하는 16~64세 주민",
+    "access_conditions": "무료, 예약제."
+  },
+  "r_0256": {
+    "name": "Europe-Charmilles — 사회복지 상담 창구",
+    "description": "Europe-Charmilles 협회의 무료 사회복지 상담 창구: 건강, 주거, 재정 지원, 식료품 지원 — 지역의 성인과 가족을 위해 이야기를 듣고, 정보를 제공하고, 안내해 드립니다.",
+    "target_audience": "지역의 성인과 가족",
+    "access_conditions": "무료, 예약제."
+  },
+  "r_0257": {
+    "name": "Free-Go Espace 99 — 나눔 냉장고",
+    "description": "Espace 99에 설치된 Free-Go 네트워크의 셀프서비스 냉장고: 누구나 무료로 음식을 두고 가거나 가져갈 수 있어 음식물 낭비를 줄이는 데 기여합니다. 언제든지 이용할 수 있습니다.",
+    "target_audience": "누구나",
+    "access_conditions": "셀프서비스, 연중무휴 24시간."
   }
 }

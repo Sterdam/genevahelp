@@ -1632,5 +1632,47 @@
     "description": "Mahali pa kusikilizwa, kupata habari na mwelekeo kwa wahamiaji walio katika hali ngumu, hasa jamii zinazozungumza Kihispania, Kireno, Kimongolia na Kifilipino. Maswali ya kiutawala na kijamii, msaada katika taratibu, vikao vya habari, warsha pamoja na shughuli za michezo na utamaduni.",
     "target_audience": "Watu wasio na hadhi ya kisheria au waliohalalishwa hivi karibuni (nje ya mfumo wa hifadhi na wasio na pasipoti ya EU/AELE)",
     "access_conditions": "Bila malipo. Ushauri wa kibinafsi kwa miadi; vikao vya habari bila miadi; warsha na shughuli kwa usajili."
+  },
+  "r_0251": {
+    "name": "Espace Léman — kituo cha asili kilichojitolea kwa ziwa (ASL)",
+    "description": "Kituo cha asili cha Association pour la Sauvegarde du Léman (ASL), katikati ya Eaux-Vives. Ugunduzi wa bure wa ziwa na mifumo yake ya ikolojia: uangalizi kwa hadubini, warsha za kutambua spishi, programu za « Labo Léman » (samaki, ndege, moluska, mimea ya majini, uchafuzi wa plastiki), maonyesho na shughuli kwa shule kuanzia umri wa miaka 5.",
+    "target_audience": "Kila mtu: familia, shule, wapenzi wa asili",
+    "access_conditions": "Bure mwaka mzima, kuingia ni bure."
+  },
+  "r_0252": {
+    "name": "Autonomia — Huduma ya msaada wa kiutawala",
+    "description": "Huduma ya bure ya msaada wa masuala ya kiutawala bila miadi: mazungumzo ya dakika 30 na mfanyakazi wa kijamii ili kutathmini hali yako, kuelewa bili, kujaza hati, au kupata mwelekeo katika taratibu (kodi, AVS, mafao ya kijamii, haki na wajibu). Chama pia hutoa warsha za elimu ya kiutawala na ufuatiliaji wa mtu binafsi.",
+    "target_audience": "Vijana wazima na familia, mtu yeyote anayehitaji msaada wa masuala ya kiutawala",
+    "access_conditions": "Bure na bila miadi. Mazungumzo ya dakika 30, ghorofa ya 2."
+  },
+  "r_0253": {
+    "name": "Europe-Charmilles — Huduma ya msaada wa kisaikolojia",
+    "description": "Huduma ya bure ya msaada wa kisaikolojia ya Chama cha Europe-Charmilles kwa watoto, vijana na watu wazima. Usikilizaji na msaada wa kisaikolojia wa karibu na jamii, zaidi ya mashauriano 100 kwa mwaka. Chama cha mtaa kinachotambuliwa kuwa cha manufaa ya umma.",
+    "target_audience": "Watoto, vijana na watu wazima",
+    "access_conditions": "Bure, kwa miadi."
+  },
+  "r_0254": {
+    "name": "Europe-Charmilles — Huduma ya ushauri wa kisheria",
+    "description": "Huduma ya bure ya ushauri wa kisheria ya Chama cha Europe-Charmilles: ushauri na mwelekeo wa kisheria wa karibu na jamii, zaidi ya mashauriano 200 kwa mwaka. Inakamilisha Huduma ya Ushauri wa Kisheria ya Wanafunzi (PJE) iliyoko katika anwani hiyo hiyo.",
+    "target_audience": "Wakazi wa mtaa na mtu yeyote anayehitaji ushauri wa kisheria",
+    "access_conditions": "Bure, kwa miadi."
+  },
+  "r_0255": {
+    "name": "Europe-Charmilles — Huduma ya msaada wa ajira",
+    "description": "Msaada wa bure wa kuelekea ajira kwa wakazi wa Charmilles wenye umri wa miaka 16 hadi 64: CV, barua za maombi, utafutaji wa kazi au mafunzo, mwelekeo wa kikazi.",
+    "target_audience": "Wakazi wa mtaa wa Charmilles wenye umri wa miaka 16 hadi 64",
+    "access_conditions": "Bure, kwa miadi."
+  },
+  "r_0256": {
+    "name": "Europe-Charmilles — Huduma ya msaada wa kijamii",
+    "description": "Huduma ya bure ya msaada wa kijamii ya Chama cha Europe-Charmilles: afya, makazi, mafao ya kifedha, msaada wa chakula — usikilizaji, taarifa na mwelekeo kwa watu wazima na familia za mtaa.",
+    "target_audience": "Watu wazima na familia za mtaa",
+    "access_conditions": "Bure, kwa miadi."
+  },
+  "r_0257": {
+    "name": "Free-Go Espace 99 — Friji ya mshikamano",
+    "description": "Friji ya kujihudumia ya mtandao wa Free-Go katika Espace 99: kila mtu anaweza kuweka au kuchukua chakula bure, ili kupambana na upotevu wa chakula. Inapatikana wakati wote.",
+    "target_audience": "Kila mtu",
+    "access_conditions": "Kujihudumia, saa 24 kwa siku, siku 7 kwa wiki."
   }
 }

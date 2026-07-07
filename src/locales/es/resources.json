@@ -1632,5 +1632,47 @@
     "description": "Espacio de escucha, información y orientación para personas migrantes en situación de precariedad, principalmente las comunidades hispanohablante, lusófona, mongola y filipina. Cuestiones administrativas y sociales, apoyo en los trámites, sesiones informativas, talleres y actividades deportivas y culturales.",
     "target_audience": "Personas sin estatus legal o recientemente regularizadas (fuera del ámbito del asilo y sin pasaporte UE/AELC)",
     "access_conditions": "Gratuito. Consultas individuales con cita previa; sesiones informativas sin cita; talleres y actividades con inscripción."
+  },
+  "r_0251": {
+    "name": "Espace Léman — centro de naturaleza dedicado al lago (ASL)",
+    "description": "Centro de naturaleza de la Association pour la Sauvegarde du Léman, en pleno barrio de Eaux-Vives. Descubrimiento gratuito del lago y de sus ecosistemas: observación al microscopio, talleres de identificación de especies, programas «Labo Léman» (peces, aves, moluscos, plantas acuáticas, contaminación por plásticos), exposiciones y actividades para escuelas a partir de los 5 años.",
+    "target_audience": "Todos los públicos: familias, escuelas, amantes de la naturaleza",
+    "access_conditions": "Gratuito todo el año, entrada libre."
+  },
+  "r_0252": {
+    "name": "Autonomia — Servicio de ayuda administrativa",
+    "description": "Servicio gratuito de ayuda administrativa sin cita previa: entrevista de 30 minutos con una trabajadora social para hacer balance de su situación, entender una factura, rellenar un documento u orientarse en los trámites (impuestos, AVS, prestaciones sociales, derechos y deberes). La asociación también ofrece talleres de educación administrativa y acompañamientos individuales.",
+    "target_audience": "Jóvenes adultos y familias, cualquier persona que necesite ayuda administrativa",
+    "access_conditions": "Gratuito y sin cita previa. Entrevistas de 30 minutos, 2.º piso."
+  },
+  "r_0253": {
+    "name": "Europe-Charmilles — Atención psicológica",
+    "description": "Servicio gratuito de apoyo psicológico de la Asociación Europe-Charmilles para niños, jóvenes y adultos. Escucha y apoyo psicológico de proximidad, más de 100 consultas al año. Asociación de barrio reconocida de utilidad pública.",
+    "target_audience": "Niños, jóvenes y adultos",
+    "access_conditions": "Gratuito, con cita previa."
+  },
+  "r_0254": {
+    "name": "Europe-Charmilles — Asesoría jurídica",
+    "description": "Asesoría jurídica gratuita de la Asociación Europe-Charmilles: consejos y orientación jurídica de proximidad, más de 200 consultas al año. Complementaria de la Permanence Juridique des Étudiants (PJE), la asesoría jurídica de los estudiantes, ubicada en la misma dirección.",
+    "target_audience": "Vecinos y vecinas del barrio y cualquier persona que necesite asesoramiento jurídico",
+    "access_conditions": "Gratuito, con cita previa."
+  },
+  "r_0255": {
+    "name": "Europe-Charmilles — Apoyo a la inserción laboral",
+    "description": "Acompañamiento gratuito hacia el empleo para los habitantes de Charmilles de 16 a 64 años: CV, cartas de motivación, búsqueda de empleo o de formación, orientación profesional.",
+    "target_audience": "Habitantes del barrio de Charmilles de 16 a 64 años",
+    "access_conditions": "Gratuito, con cita previa."
+  },
+  "r_0256": {
+    "name": "Europe-Charmilles — Atención social",
+    "description": "Servicio social gratuito de la Asociación Europe-Charmilles: salud, vivienda, prestaciones económicas, ayuda alimentaria — escucha, información y orientación para los adultos y las familias del barrio.",
+    "target_audience": "Adultos y familias del barrio",
+    "access_conditions": "Gratuito, con cita previa."
+  },
+  "r_0257": {
+    "name": "Free-Go Espace 99 — Nevera solidaria",
+    "description": "Refrigerador de libre acceso de la red Free-Go en el Espace 99: cualquiera puede dejar o llevarse comida gratuitamente, para luchar contra el desperdicio alimentario. Accesible en todo momento.",
+    "target_audience": "Todos los públicos",
+    "access_conditions": "Autoservicio, las 24 horas, los 7 días de la semana."
   }
 }

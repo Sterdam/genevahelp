@@ -1632,5 +1632,47 @@
     "description": "Zor durumda olan göçmenler için dinleme, bilgilendirme ve yönlendirme alanı; özellikle İspanyolca, Portekizce konuşan, Moğol ve Filipinli topluluklar için. İdari ve sosyal sorular, işlemlerde destek, bilgilendirme oturumları, atölyeler ile spor ve kültür etkinlikleri.",
     "target_audience": "Yasal statüsü olmayan veya yakın zamanda statü kazanmış kişiler (iltica alanı dışında ve AB/EFTA pasaportu olmayanlar)",
     "access_conditions": "Ücretsiz. Bireysel görüşmeler randevuyla; bilgilendirme oturumları randevusuz; atölyeler ve etkinlikler kayıtla."
+  },
+  "r_0251": {
+    "name": "Espace Léman — Göle adanmış doğa merkezi (ASL)",
+    "description": "Léman Gölü'nü Koruma Derneği'nin (ASL) doğa merkezi, Eaux-Vives semtinin kalbinde. Gölü ve ekosistemlerini ücretsiz keşif: mikroskopla gözlem, tür tanıma atölyeleri, «Labo Léman» programları (balıklar, kuşlar, yumuşakçalar, su bitkileri, plastik kirliliği), sergiler ve 5 yaşından itibaren okullara yönelik etkinlikler.",
+    "target_audience": "Herkese açık: aileler, okullar, doğa meraklıları",
+    "access_conditions": "Yıl boyunca ücretsiz, giriş serbesttir."
+  },
+  "r_0252": {
+    "name": "Autonomia — İdari işler danışma masası",
+    "description": "Ücretsiz ve randevusuz idari yardım masası: durumunuzu gözden geçirmek, bir faturayı anlamak, bir belgeyi doldurmak veya resmi işlemlerde (vergiler, AVS, sosyal yardımlar, hak ve yükümlülükler) yol bulmak için bir sosyal hizmet uzmanıyla 30 dakikalık görüşme. Dernek ayrıca idari beceriler atölyeleri ve bireysel takip de sunuyor.",
+    "target_audience": "Genç yetişkinler ve aileler, evrak işlerinde yardıma ihtiyacı olan herkes",
+    "access_conditions": "Ücretsiz ve randevusuz. 30 dakikalık görüşmeler, 2. kat."
+  },
+  "r_0253": {
+    "name": "Europe-Charmilles — Psikolojik destek masası",
+    "description": "Europe-Charmilles Derneği'nin çocuklar, gençler ve yetişkinler için ücretsiz psikolojik destek hizmeti. Mahalle düzeyinde dinleme ve psikolojik destek, yılda 100'den fazla görüşme. Kamu yararına çalışan dernek statüsüne sahip bir mahalle derneği.",
+    "target_audience": "Çocuklar, gençler ve yetişkinler",
+    "access_conditions": "Ücretsiz, randevuyla."
+  },
+  "r_0254": {
+    "name": "Europe-Charmilles — Hukuki danışma masası",
+    "description": "Europe-Charmilles Derneği'nin ücretsiz hukuki danışma hizmeti: mahalle düzeyinde hukuki danışmanlık ve yönlendirme, yılda 200'den fazla görüşme. Aynı adreste yer alan Öğrenci Hukuk Danışma Servisi'ni (PJE) tamamlayıcı niteliktedir.",
+    "target_audience": "Mahalle sakinleri ve hukuki danışmaya ihtiyacı olan herkes",
+    "access_conditions": "Ücretsiz, randevuyla."
+  },
+  "r_0255": {
+    "name": "Europe-Charmilles — İş bulma destek masası",
+    "description": "Charmilles semtinde yaşayan 16-64 yaş arası kişilere yönelik ücretsiz istihdam desteği: CV, motivasyon mektubu, iş veya eğitim arama, mesleki yönlendirme.",
+    "target_audience": "Charmilles semtinde yaşayan 16-64 yaş arası kişiler",
+    "access_conditions": "Ücretsiz, randevuyla."
+  },
+  "r_0256": {
+    "name": "Europe-Charmilles — Sosyal destek masası",
+    "description": "Europe-Charmilles Derneği'nin ücretsiz sosyal destek hizmeti: sağlık, konut, mali yardımlar, gıda yardımı — mahalledeki yetişkinler ve aileler için dinleme, bilgilendirme ve yönlendirme.",
+    "target_audience": "Mahalledeki yetişkinler ve aileler",
+    "access_conditions": "Ücretsiz, randevuyla."
+  },
+  "r_0257": {
+    "name": "Free-Go Espace 99 — Dayanışma buzdolabı",
+    "description": "Free-Go ağının Espace 99'daki self servis buzdolabı: gıda israfıyla mücadele için herkes ücretsiz olarak yiyecek bırakabilir veya alabilir. Her zaman erişilebilir.",
+    "target_audience": "Herkese açık",
+    "access_conditions": "Self servis, 7/24 açık."
   }
 }

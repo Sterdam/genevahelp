@@ -1632,5 +1632,47 @@
     "description": "Ein Ort zum Zuhören, Informieren und Orientieren für Migrantinnen und Migranten in prekären Lebenslagen, hauptsächlich für die spanischsprachigen, portugiesischsprachigen, mongolischen und philippinischen Gemeinschaften. Administrative und soziale Fragen, Unterstützung bei Behördengängen, Informationsveranstaltungen, Workshops sowie Sport- und Kulturaktivitäten.",
     "target_audience": "Personen ohne legalen Status oder kürzlich Regularisierte (ausserhalb des Asylbereichs und ohne EU/EFTA-Pass)",
     "access_conditions": "Kostenlos. Einzelberatungen auf Termin; Informationsveranstaltungen ohne Termin; Workshops und Aktivitäten mit Anmeldung."
+  },
+  "r_0251": {
+    "name": "Espace Léman — Naturzentrum rund um den See (ASL)",
+    "description": "Naturzentrum der Association pour la Sauvegarde du Léman, im Herzen des Quartiers Eaux-Vives. Kostenlose Entdeckung des Sees und seiner Ökosysteme: Beobachtung unter dem Mikroskop, Workshops zur Artenbestimmung, «Labo Léman»-Programme (Fische, Vögel, Weichtiere, Wasserpflanzen, Plastikverschmutzung), Ausstellungen und Angebote für Schulen ab 5 Jahren.",
+    "target_audience": "Für alle: Familien, Schulen, Naturinteressierte",
+    "access_conditions": "Ganzjährig kostenlos, freier Eintritt."
+  },
+  "r_0252": {
+    "name": "Autonomia — Administrative Beratungsstelle",
+    "description": "Kostenlose administrative Sprechstunde ohne Termin: 30-minütiges Gespräch mit einer Sozialarbeiterin, um die eigene Situation zu klären, eine Rechnung zu verstehen, ein Dokument auszufüllen oder sich in den Behördengängen zurechtzufinden (Steuern, AVS, Sozialleistungen, Rechte und Pflichten). Der Verein bietet auch Workshops zur administrativen Bildung und individuelle Begleitungen an.",
+    "target_audience": "Junge Erwachsene und Familien, alle Personen, die Hilfe bei administrativen Angelegenheiten benötigen",
+    "access_conditions": "Kostenlos und ohne Termin. Gespräche von 30 Minuten, 2. Stock."
+  },
+  "r_0253": {
+    "name": "Europe-Charmilles — Psychologische Sprechstunde",
+    "description": "Kostenlose psychologische Sprechstunde des Vereins Europe-Charmilles für Kinder, Jugendliche und Erwachsene. Zuhören und psychologische Unterstützung in Quartiersnähe, über 100 Beratungen pro Jahr. Als gemeinnützig anerkannter Quartierverein.",
+    "target_audience": "Kinder, Jugendliche und Erwachsene",
+    "access_conditions": "Kostenlos, nach Terminvereinbarung."
+  },
+  "r_0254": {
+    "name": "Europe-Charmilles — Rechtsberatung",
+    "description": "Kostenlose Rechtsberatung des Vereins Europe-Charmilles: juristische Beratung und Orientierung in Quartiersnähe, über 200 Beratungen pro Jahr. Ergänzend zur studentischen Rechtsberatung Permanence Juridique des Étudiants (PJE) an derselben Adresse.",
+    "target_audience": "Bewohnerinnen und Bewohner des Quartiers sowie alle, die Rechtsberatung benötigen",
+    "access_conditions": "Kostenlos, nach Terminvereinbarung."
+  },
+  "r_0255": {
+    "name": "Europe-Charmilles — Beratung für berufliche Integration",
+    "description": "Kostenlose Begleitung auf dem Weg zur Arbeit für Bewohnerinnen und Bewohner des Charmilles-Quartiers von 16 bis 64 Jahren: Lebenslauf, Motivationsschreiben, Stellen- oder Ausbildungssuche, Berufsberatung.",
+    "target_audience": "Bewohnerinnen und Bewohner des Charmilles-Quartiers von 16 bis 64 Jahren",
+    "access_conditions": "Kostenlos, nach Terminvereinbarung."
+  },
+  "r_0256": {
+    "name": "Europe-Charmilles — Sozialberatung",
+    "description": "Kostenlose Sozialberatung des Vereins Europe-Charmilles: Gesundheit, Wohnen, finanzielle Leistungen, Lebensmittelhilfe — Zuhören, Information und Orientierung für Erwachsene und Familien des Quartiers.",
+    "target_audience": "Erwachsene und Familien des Quartiers",
+    "access_conditions": "Kostenlos, nach Terminvereinbarung."
+  },
+  "r_0257": {
+    "name": "Free-Go Espace 99 — Solidarischer Kühlschrank",
+    "description": "Frei zugänglicher Kühlschrank des Free-Go-Netzwerks im Espace 99: Alle können kostenlos Lebensmittel hineinlegen oder mitnehmen, um der Lebensmittelverschwendung entgegenzuwirken. Jederzeit zugänglich.",
+    "target_audience": "Für alle",
+    "access_conditions": "Selbstbedienung, rund um die Uhr an 7 Tagen pro Woche."
   }
 }

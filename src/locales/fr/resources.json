@@ -1632,5 +1632,47 @@
     "description": "Espace d'écoute, d'information et d'orientation pour les personnes migrantes en situation de précarité, principalement les communautés hispanophone, lusophone, mongole et philippine. Questions administratives et sociales, soutien dans les démarches, séances d'information, ateliers et activités sportives et culturelles.",
     "target_audience": "Personnes sans statut légal ou récemment régularisées (hors domaine de l'asile et hors passeport UE/AELE)",
     "access_conditions": "Gratuit. Consultations individuelles sur rendez-vous ; séances d'information sans rendez-vous ; ateliers et activités sur inscription."
+  },
+  "r_0251": {
+    "name": "Espace Léman — centre nature dédié au lac (ASL)",
+    "description": "Centre nature de l'Association pour la Sauvegarde du Léman, au cœur des Eaux-Vives. Découverte gratuite du lac et de ses écosystèmes : observation au microscope, ateliers d'identification d'espèces, programmes « Labo Léman » (poissons, oiseaux, mollusques, plantes aquatiques, pollution plastique), expositions et animations pour les écoles dès 5 ans.",
+    "target_audience": "Tout public : familles, écoles, curieux de nature",
+    "access_conditions": "Gratuit toute l'année, entrée libre."
+  },
+  "r_0252": {
+    "name": "Autonomia — Permanence administrative",
+    "description": "Permanence administrative gratuite et sans rendez-vous : entretien de 30 minutes avec une assistante sociale pour faire le point sur sa situation, comprendre une facture, remplir un document, s'orienter dans les démarches (impôts, AVS, prestations sociales, droits et devoirs). L'association propose aussi des ateliers d'éducation administrative et des suivis individuels.",
+    "target_audience": "Jeunes adultes et familles, toute personne ayant besoin d'aide administrative",
+    "access_conditions": "Gratuit et sans rendez-vous. Entretiens de 30 minutes, 2e étage."
+  },
+  "r_0253": {
+    "name": "Europe-Charmilles — Permanence psychologique",
+    "description": "Permanence psychologique gratuite de l'Association Europe-Charmilles pour les enfants, les jeunes et les adultes. Écoute et soutien psychologique de proximité, plus de 100 consultations par an. Association de quartier reconnue d'utilité publique.",
+    "target_audience": "Enfants, jeunes et adultes",
+    "access_conditions": "Gratuit, sur rendez-vous."
+  },
+  "r_0254": {
+    "name": "Europe-Charmilles — Permanence juridique",
+    "description": "Permanence juridique gratuite de l'Association Europe-Charmilles : conseils et orientation juridiques de proximité, plus de 200 consultations par an. Complémentaire à la Permanence Juridique des Étudiants (PJE) hébergée à la même adresse.",
+    "target_audience": "Habitant-es du quartier et toute personne ayant besoin de conseils juridiques",
+    "access_conditions": "Gratuit, sur rendez-vous."
+  },
+  "r_0255": {
+    "name": "Europe-Charmilles — Permanence insertion professionnelle",
+    "description": "Accompagnement gratuit vers l'emploi pour les habitant-es des Charmilles de 16 à 64 ans : CV, lettres de motivation, recherche d'emploi ou de formation, orientation professionnelle.",
+    "target_audience": "Habitant-es de 16 à 64 ans du quartier des Charmilles",
+    "access_conditions": "Gratuit, sur rendez-vous."
+  },
+  "r_0256": {
+    "name": "Europe-Charmilles — Permanence sociale",
+    "description": "Permanence sociale gratuite de l'Association Europe-Charmilles : santé, logement, prestations financières, aide alimentaire — écoute, information et orientation pour les adultes et les familles du quartier.",
+    "target_audience": "Adultes et familles du quartier",
+    "access_conditions": "Gratuit, sur rendez-vous."
+  },
+  "r_0257": {
+    "name": "Free-Go Espace 99 — Frigo solidaire",
+    "description": "Réfrigérateur en libre-service du réseau Free-Go à l'Espace 99 : chacun peut y déposer ou prendre gratuitement de la nourriture, pour lutter contre le gaspillage alimentaire. Accessible en tout temps.",
+    "target_audience": "Tout public",
+    "access_conditions": "Libre-service, 24h/24 et 7j/7."
   }
 }

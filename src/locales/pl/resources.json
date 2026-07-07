@@ -1632,5 +1632,47 @@
     "description": "Miejsce wysłuchania, informacji i poradnictwa dla osób migrujących w trudnej sytuacji, głównie dla społeczności hiszpańskojęzycznej, portugalskojęzycznej, mongolskiej i filipińskiej. Sprawy administracyjne i socjalne, wsparcie w formalnościach, spotkania informacyjne, warsztaty oraz zajęcia sportowe i kulturalne.",
     "target_audience": "Osoby bez statusu prawnego lub niedawno zalegalizowane (poza systemem azylowym i bez paszportu UE/EFTA)",
     "access_conditions": "Bezpłatnie. Konsultacje indywidualne po umówieniu wizyty; spotkania informacyjne bez umawiania; warsztaty i zajęcia po zapisaniu się."
+  },
+  "r_0251": {
+    "name": "Espace Léman — centrum przyrodnicze poświęcone jezioru (ASL)",
+    "description": "Centrum przyrodnicze stowarzyszenia Association pour la Sauvegarde du Léman, w sercu dzielnicy Eaux-Vives. Bezpłatne odkrywanie jeziora i jego ekosystemów: obserwacje pod mikroskopem, warsztaty rozpoznawania gatunków, programy „Labo Léman” (ryby, ptaki, mięczaki, rośliny wodne, zanieczyszczenie plastikiem), wystawy i zajęcia dla szkół od 5. roku życia.",
+    "target_audience": "Dla wszystkich: rodziny, szkoły, miłośnicy przyrody",
+    "access_conditions": "Bezpłatnie przez cały rok, wstęp wolny."
+  },
+  "r_0252": {
+    "name": "Autonomia — Dyżur administracyjny",
+    "description": "Bezpłatny dyżur administracyjny bez umawiania się: 30-minutowa rozmowa z pracownikiem socjalnym, aby przeanalizować swoją sytuację, zrozumieć rachunek, wypełnić dokument lub zorientować się w formalnościach (podatki, AVS, świadczenia socjalne, prawa i obowiązki). Stowarzyszenie oferuje również warsztaty edukacji administracyjnej i indywidualne wsparcie.",
+    "target_audience": "Młodzi dorośli i rodziny, każda osoba potrzebująca pomocy administracyjnej",
+    "access_conditions": "Bezpłatnie i bez umawiania się. Rozmowy 30-minutowe, 2. piętro."
+  },
+  "r_0253": {
+    "name": "Europe-Charmilles — Dyżur psychologiczny",
+    "description": "Bezpłatny dyżur psychologiczny stowarzyszenia Europe-Charmilles dla dzieci, młodzieży i dorosłych. Wysłuchanie i wsparcie psychologiczne blisko mieszkańców, ponad 100 konsultacji rocznie. Stowarzyszenie dzielnicowe uznane za organizację pożytku publicznego.",
+    "target_audience": "Dzieci, młodzież i dorośli",
+    "access_conditions": "Bezpłatnie, po umówieniu wizyty."
+  },
+  "r_0254": {
+    "name": "Europe-Charmilles — Dyżur prawny",
+    "description": "Bezpłatny dyżur prawny stowarzyszenia Europe-Charmilles: porady i orientacja prawna blisko mieszkańców, ponad 200 konsultacji rocznie. Uzupełnia studencką poradnię prawną Permanence Juridique des Étudiants (PJE), działającą pod tym samym adresem.",
+    "target_audience": "Mieszkańcy dzielnicy i każda osoba potrzebująca porady prawnej",
+    "access_conditions": "Bezpłatnie, po umówieniu wizyty."
+  },
+  "r_0255": {
+    "name": "Europe-Charmilles — Dyżur ds. integracji zawodowej",
+    "description": "Bezpłatne wsparcie w drodze do zatrudnienia dla mieszkańców dzielnicy Charmilles w wieku od 16 do 64 lat: CV, listy motywacyjne, poszukiwanie pracy lub szkolenia, doradztwo zawodowe.",
+    "target_audience": "Mieszkańcy dzielnicy Charmilles w wieku od 16 do 64 lat",
+    "access_conditions": "Bezpłatnie, po umówieniu wizyty."
+  },
+  "r_0256": {
+    "name": "Europe-Charmilles — Dyżur socjalny",
+    "description": "Bezpłatny dyżur socjalny stowarzyszenia Europe-Charmilles: zdrowie, mieszkanie, świadczenia finansowe, pomoc żywnościowa — wysłuchanie, informacja i orientacja dla dorosłych i rodzin z dzielnicy.",
+    "target_audience": "Dorośli i rodziny z dzielnicy",
+    "access_conditions": "Bezpłatnie, po umówieniu wizyty."
+  },
+  "r_0257": {
+    "name": "Free-Go Espace 99 — Lodówka społeczna",
+    "description": "Ogólnodostępna lodówka sieci Free-Go w Espace 99: każdy może bezpłatnie zostawić lub wziąć żywność, aby przeciwdziałać marnowaniu jedzenia. Dostępna o każdej porze.",
+    "target_audience": "Dla wszystkich",
+    "access_conditions": "Samoobsługa, całą dobę, 7 dni w tygodniu."
   }
 }

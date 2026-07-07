@@ -1632,5 +1632,47 @@
     "description": "Prostor za razgovor, informiranje i usmjeravanje migranata u teškoj situaciji, uglavnom za zajednice španjolskog i portugalskog govornog područja, mongolsku i filipinsku zajednicu. Administrativna i socijalna pitanja, podrška u postupcima, informativne sesije, radionice te sportske i kulturne aktivnosti.",
     "target_audience": "Osobe bez zakonitog statusa ili nedavno regularizirane (izvan sustava azila i bez putovnice EU/EFTA-e)",
     "access_conditions": "Besplatno. Individualna savjetovanja uz dogovoren termin; informativne sesije bez najave; radionice i aktivnosti uz prijavu."
+  },
+  "r_0251": {
+    "name": "Espace Léman — centar prirode posvećen jezeru (ASL)",
+    "description": "Centar prirode Udruge za zaštitu Ženevskog jezera (Association pour la Sauvegarde du Léman), u srcu četvrti Eaux-Vives. Besplatno upoznavanje jezera i njegovih ekosustava: promatranje pod mikroskopom, radionice prepoznavanja vrsta, programi „Labo Léman“ (ribe, ptice, mekušci, vodeno bilje, onečišćenje plastikom), izložbe i aktivnosti za škole od 5 godina.",
+    "target_audience": "Za sve: obitelji, škole, ljubitelji prirode",
+    "access_conditions": "Besplatno tijekom cijele godine, slobodan ulaz."
+  },
+  "r_0252": {
+    "name": "Autonomia — Administrativno savjetovalište",
+    "description": "Besplatno administrativno savjetovalište bez najave: razgovor od 30 minuta sa socijalnom radnicom kako biste sagledali svoju situaciju, razumjeli račun, ispunili dokument ili se snašli u postupcima (porezi, AVS, socijalne naknade, prava i obveze). Udruga također nudi radionice administrativnog opismenjavanja i individualno praćenje.",
+    "target_audience": "Mladi odrasli i obitelji, svi kojima treba pomoć s papirologijom",
+    "access_conditions": "Besplatno i bez najave. Razgovori od 30 minuta, 2. kat."
+  },
+  "r_0253": {
+    "name": "Europe-Charmilles — Psihološko savjetovalište",
+    "description": "Besplatno psihološko savjetovalište udruge Europe-Charmilles za djecu, mlade i odrasle. Slušanje i psihološka podrška u susjedstvu, više od 100 savjetovanja godišnje. Kvartovska udruga priznata kao društveno korisna.",
+    "target_audience": "Djeca, mladi i odrasli",
+    "access_conditions": "Besplatno, uz prethodnu najavu."
+  },
+  "r_0254": {
+    "name": "Europe-Charmilles — Pravno savjetovalište",
+    "description": "Besplatno pravno savjetovalište udruge Europe-Charmilles: pravni savjeti i usmjeravanje u susjedstvu, više od 200 savjetovanja godišnje. Dopunjuje Studentsko pravno savjetovalište (PJE) koje se nalazi na istoj adresi.",
+    "target_audience": "Stanovnici četvrti i svi kojima treba pravni savjet",
+    "access_conditions": "Besplatno, uz prethodnu najavu."
+  },
+  "r_0255": {
+    "name": "Europe-Charmilles — Savjetovalište za zapošljavanje",
+    "description": "Besplatna podrška pri traženju posla za stanovnike četvrti Charmilles od 16 do 64 godine: životopis, motivacijska pisma, traženje posla ili edukacije, profesionalno usmjeravanje.",
+    "target_audience": "Stanovnici četvrti Charmilles od 16 do 64 godine",
+    "access_conditions": "Besplatno, uz prethodnu najavu."
+  },
+  "r_0256": {
+    "name": "Europe-Charmilles — Socijalno savjetovalište",
+    "description": "Besplatno socijalno savjetovalište udruge Europe-Charmilles: zdravlje, stanovanje, novčane naknade, pomoć u hrani — slušanje, informacije i usmjeravanje za odrasle i obitelji iz četvrti.",
+    "target_audience": "Odrasli i obitelji iz četvrti",
+    "access_conditions": "Besplatno, uz prethodnu najavu."
+  },
+  "r_0257": {
+    "name": "Free-Go Espace 99 — Solidarni hladnjak",
+    "description": "Samoposlužni hladnjak mreže Free-Go u prostoru Espace 99: svatko može besplatno ostaviti ili uzeti hranu, u borbi protiv bacanja hrane. Dostupan u svako doba.",
+    "target_audience": "Za sve",
+    "access_conditions": "Samoposluživanje, 0–24, 7 dana u tjednu."
   }
 }

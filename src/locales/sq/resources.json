@@ -1632,5 +1632,47 @@
     "description": "Hapësirë dëgjimi, informacioni dhe orientimi për migrantët në situatë të vështirë, kryesisht për komunitetet spanjishtfolëse, portugalishtfolëse, mongole dhe filipinase. Pyetje administrative dhe sociale, mbështetje në procedura, seanca informuese, punëtori dhe aktivitete sportive e kulturore.",
     "target_audience": "Personat pa status ligjor ose të rregulluar së fundmi (jashtë fushës së azilit dhe pa pasaportë të BE/AELE)",
     "access_conditions": "Falas. Konsultime individuale me takim; seanca informuese pa takim; punëtori dhe aktivitete me regjistrim."
+  },
+  "r_0251": {
+    "name": "Espace Léman — qendër natyre kushtuar liqenit (ASL)",
+    "description": "Qendra e natyrës e Shoqatës për Mbrojtjen e Liqenit Léman (ASL), në zemër të lagjes Eaux-Vives. Zbulim falas i liqenit dhe i ekosistemeve të tij: vëzhgim me mikroskop, punëtori për njohjen e specieve, programet «Labo Léman» (peshq, zogj, molusqe, bimë ujore, ndotja plastike), ekspozita dhe aktivitete për shkollat nga mosha 5 vjeç.",
+    "target_audience": "Për të gjithë: familje, shkolla, dashamirës të natyrës",
+    "access_conditions": "Falas gjatë gjithë vitit, hyrja e lirë."
+  },
+  "r_0252": {
+    "name": "Autonomia — Sportel ndihme administrative",
+    "description": "Sportel ndihme administrative falas dhe pa takim paraprak: bisedë 30-minutëshe me një punonjëse sociale për të parë situatën tuaj, për të kuptuar një faturë, për të plotësuar një dokument ose për t'u orientuar në procedurat (tatimet, AVS, përfitimet sociale, të drejtat dhe detyrimet). Shoqata ofron gjithashtu punëtori edukimi administrativ dhe ndjekje individuale.",
+    "target_audience": "Të rinj në moshë madhore dhe familje, kushdo që ka nevojë për ndihmë me dokumentet",
+    "access_conditions": "Falas dhe pa takim paraprak. Biseda 30-minutëshe, kati i 2-të."
+  },
+  "r_0253": {
+    "name": "Europe-Charmilles — Sportel mbështetjeje psikologjike",
+    "description": "Sportel falas mbështetjeje psikologjike i Shoqatës Europe-Charmilles për fëmijë, të rinj dhe të rritur. Dëgjim dhe mbështetje psikologjike afër banorëve, mbi 100 konsultime në vit. Shoqatë lagjeje e njohur si organizatë me dobi publike.",
+    "target_audience": "Fëmijë, të rinj dhe të rritur",
+    "access_conditions": "Falas, me takim paraprak."
+  },
+  "r_0254": {
+    "name": "Europe-Charmilles — Sportel këshillimi juridik",
+    "description": "Sportel falas këshillimi juridik i Shoqatës Europe-Charmilles: këshilla dhe orientim juridik afër banorëve, mbi 200 konsultime në vit. Plotëson Shërbimin e Këshillimit Juridik të Studentëve (PJE), që ndodhet në të njëjtën adresë.",
+    "target_audience": "Banorët e lagjes dhe kushdo që ka nevojë për këshilla juridike",
+    "access_conditions": "Falas, me takim paraprak."
+  },
+  "r_0255": {
+    "name": "Europe-Charmilles — Sportel për integrim profesional",
+    "description": "Shoqërim falas drejt punësimit për banorët e lagjes Charmilles nga 16 deri në 64 vjeç: CV, letra motivimi, kërkim pune ose formimi, orientim profesional.",
+    "target_audience": "Banorët e lagjes Charmilles nga 16 deri në 64 vjeç",
+    "access_conditions": "Falas, me takim paraprak."
+  },
+  "r_0256": {
+    "name": "Europe-Charmilles — Sportel social",
+    "description": "Sportel social falas i Shoqatës Europe-Charmilles: shëndeti, banimi, përfitimet financiare, ndihma ushqimore — dëgjim, informim dhe orientim për të rriturit dhe familjet e lagjes.",
+    "target_audience": "Të rritur dhe familje të lagjes",
+    "access_conditions": "Falas, me takim paraprak."
+  },
+  "r_0257": {
+    "name": "Free-Go Espace 99 — Frigorifer solidar",
+    "description": "Frigorifer me vetëshërbim i rrjetit Free-Go në Espace 99: secili mund të lërë ose të marrë ushqime falas, për të luftuar shpërdorimin e ushqimit. I hapur në çdo kohë.",
+    "target_audience": "Për të gjithë",
+    "access_conditions": "Vetëshërbim, 24 orë në ditë, 7 ditë në javë."
   }
 }

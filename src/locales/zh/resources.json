@@ -1632,5 +1632,47 @@
     "description": "为生活困难的移民提供倾听、信息和指导的场所，主要面向西班牙语、葡萄牙语、蒙古和菲律宾社区。提供行政和社会事务咨询、手续办理协助、信息讲座、工作坊以及体育和文化活动。",
     "target_audience": "无合法身份或近期身份合法化的人士（不包括庇护申请程序中的人士和持有欧盟/欧洲自由贸易联盟护照者）",
     "access_conditions": "免费。个人咨询需预约；信息讲座无需预约；工作坊和活动需报名。"
+  },
+  "r_0251": {
+    "name": "Espace Léman — 莱芒湖自然中心(ASL)",
+    "description": "由莱芒湖保护协会(Association pour la Sauvegarde du Léman,ASL)运营的自然中心,位于Eaux-Vives街区中心。免费探索莱芒湖及其生态系统:显微镜观察、物种识别工作坊、“Labo Léman”系列活动(鱼类、鸟类、软体动物、水生植物、塑料污染)、展览,以及面向5岁以上学生的学校活动。",
+    "target_audience": "面向所有人:家庭、学校、自然爱好者",
+    "access_conditions": "全年免费,自由入场。"
+  },
+  "r_0252": {
+    "name": "Autonomia — 行政事务咨询服务",
+    "description": "免费行政事务咨询,无需预约:与社工进行30分钟面谈,梳理个人情况、看懂账单、填写文件、了解各类手续(税务、AVS〔养老及遗属保险〕、社会福利、权利与义务)。协会还提供行政知识工作坊和个人跟进服务。",
+    "target_audience": "年轻人和家庭,以及所有需要行政事务帮助的人",
+    "access_conditions": "免费,无需预约。面谈30分钟,位于2楼。"
+  },
+  "r_0253": {
+    "name": "Europe-Charmilles — 心理咨询服务",
+    "description": "Europe-Charmilles协会为儿童、青少年和成人提供的免费心理咨询服务。就近提供倾听和心理支持,每年咨询超过100次。该协会是经认定的公益性社区组织。",
+    "target_audience": "儿童、青少年和成人",
+    "access_conditions": "免费,需预约。"
+  },
+  "r_0254": {
+    "name": "Europe-Charmilles — 法律咨询服务",
+    "description": "Europe-Charmilles协会的免费法律咨询服务:就近提供法律建议和指引,每年咨询超过200次。与设在同一地址的学生法律咨询处(PJE)互为补充。",
+    "target_audience": "社区居民及所有需要法律建议的人",
+    "access_conditions": "免费,需预约。"
+  },
+  "r_0255": {
+    "name": "Europe-Charmilles — 就业帮扶服务",
+    "description": "为Charmilles街区16至64岁居民提供的免费就业支持:简历(CV)、求职信、寻找工作或培训、职业规划指导。",
+    "target_audience": "Charmilles街区16至64岁的居民",
+    "access_conditions": "免费,需预约。"
+  },
+  "r_0256": {
+    "name": "Europe-Charmilles — 社会事务咨询服务",
+    "description": "Europe-Charmilles协会的免费社会事务咨询服务:健康、住房、经济补助、食品援助——为社区的成人和家庭提供倾听、信息和指引。",
+    "target_audience": "社区的成人和家庭",
+    "access_conditions": "免费,需预约。"
+  },
+  "r_0257": {
+    "name": "Free-Go Espace 99 — 共享冰箱",
+    "description": "Free-Go网络设在Espace 99的自助冰箱:任何人都可以免费存放或取用食物,共同减少食物浪费。全天开放。",
+    "target_audience": "面向所有人",
+    "access_conditions": "自助使用,全年无休,24小时开放。"
   }
 }

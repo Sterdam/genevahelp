@@ -688,3 +688,83 @@ L'équipe GenevaHelp
 - **Statut:** Suggestion laissée en attente
 
 Note : le frigo solidaire en libre-service à la Maison de Quartier de la Jonction n'a pas pu être corroboré en ligne (absent des réseaux Free-Go et Madame Frigo, aucune mention sur mqj.ch ni dans la presse). Avant publication, appeler la MQJ au 022 545 20 20 pour confirmer l'existence et les modalités du frigo. La MQJ elle-même est déjà référencée sur la carte.
+
+
+## Batch 12 — Espace Léman + Autonomia + Europe-Charmilles ×4 + Free-Go Espace 99 + rejet frigo MQJ (7 juillet 2026)
+
+### EMAIL 1: Robin Pittet / Espace Léman (acceptée)
+- **À:** robin.pittet@asleman.org
+- **Objet:** Votre suggestion sur GenevaHelp — Espace Léman ✓
+
+Bonjour Robin,
+
+Merci beaucoup pour votre suggestion de l'Espace Léman sur GenevaHelp !
+
+Le centre a été vérifié et ajouté à notre carte : Rue des Cordiers 2, gratuit toute l'année, ateliers Labo Léman, microscopes et animations scolaires. Deux précisions reprises du site de l'ASL : le mercredi l'ouverture est 11h-17h (et non 13h), et nous avons référencé l'email public asl@asleman.org.
+
+La ressource est disponible en 32 langues sur la carte.
+
+Merci pour le travail de l'ASL pour le lac !
+
+Cordialement,
+L'équipe GenevaHelp
+
+### EMAIL 2: Romain Genecand / UMSCOM (déjà référencée)
+- **À:** romain.genecand@unige.ch
+- **Objet:** Votre suggestion sur GenevaHelp — UMSCOM
+
+Bonjour,
+
+Merci pour votre suggestion de l'UMSCOM (HUG) sur GenevaHelp !
+
+Bonne nouvelle : cette ressource est déjà référencée sur notre carte (« UMSCOM - Soins communautaires HUG »), avec l'adresse Rue Hugo-de-Senger 4, les horaires sans rendez-vous que vous avez indiqués et les consultations sur rendez-vous en complément. Votre signalement nous a permis de re-vérifier la fiche : tout est à jour.
+
+Merci d'avoir pensé à GenevaHelp !
+
+Cordialement,
+L'équipe GenevaHelp
+
+### EMAIL 3: Laura Roux / Autonomia (acceptée)
+- **À:** laura@autonomia-ge.ch
+- **Objet:** Votre suggestion sur GenevaHelp — Autonomia ✓
+
+Bonjour Laura,
+
+Merci beaucoup pour votre suggestion sur GenevaHelp !
+
+La permanence administrative d'Autonomia a été vérifiée et ajoutée à notre carte : Avenue de Sainte-Clotilde 9 (2e étage), tous les mercredis 13h30-16h, gratuit et sans rendez-vous, entretiens de 30 minutes. Nous avons aussi mentionné les ateliers et les suivis individuels dans la description.
+
+La ressource est disponible en 32 langues sur la carte.
+
+Merci pour ce que fait Autonomia !
+
+Cordialement,
+L'équipe GenevaHelp
+
+### EMAIL 4: Patricia / Association Europe-Charmilles (4 ressources acceptées + confirmation horaires)
+- **À:** patricia@charmilles1203.ch
+- **Objet:** Vos 4 suggestions intégrées à GenevaHelp ✓ (+ une petite vérification)
+
+Bonjour Patricia,
+
+Merci beaucoup pour vos quatre suggestions ! Les quatre permanences de l'Association Europe-Charmilles ont été vérifiées et ajoutées à GenevaHelp en fiches séparées :
+
+- ✅ Permanence psychologique (Santé) — sur rendez-vous
+- ✅ Permanence juridique (Juridique) — sur rendez-vous
+- ✅ Permanence insertion professionnelle (Emploi) — mercredi et jeudi 13h30-17h30
+- ✅ Permanence sociale (Social) — mercredi 13h30-17h
+
+Nous avons ajouté le numéro public 077 814 82 42 affiché sur votre site. Petite vérification : votre site indique des horaires différents pour l'insertion professionnelle (mardis et vendredis 14h-19h) et la permanence sociale (mercredis 14h-16h30) — pouvez-vous nous confirmer lesquels font foi ? Nous mettrons la carte et vous pourrez mettre le site à jour en conséquence.
+
+Bonus : nous avons également référencé le frigo solidaire Free-Go « Espace 99 » de la Rue de Lyon 99.
+
+Chaque ressource est disponible en 32 langues sur la carte.
+
+Cordialement,
+L'équipe GenevaHelp
+
+### REJET: Sarah / Frigo solidaire MQJ (2e vérification négative)
+- **À:** 078 725 08 40 (téléphone uniquement)
+- **Statut:** Rejetée après 2e vérification (juillet 2026)
+
+Note : re-vérifié en juillet 2026 — toujours aucune trace du frigo solidaire à la MQJ (mqj.ch, free-go.ch — 10 emplacements listés dont aucun à la Jonction —, madamefrigo.ch, presse). Fiche rejetée. Le frigo vérifiable le plus proche (MIA, Rue des Savoises 15, réseau Free-Go) est un bon substitut à indiquer par téléphone. Re-vérifier dans quelques mois (« et plus à venir » sur free-go.ch).

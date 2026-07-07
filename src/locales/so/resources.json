@@ -1632,5 +1632,47 @@
     "description": "Goob dhageysi, macluumaad iyo hagid loogu talagalay muhaajiriinta xaalad adag ku nool, gaar ahaan bulshooyinka ku hadla Isbaanishka, Boortaqiiska, Mongooliyaanka iyo Filibiinka. Su'aalo maamul iyo bulsho, taageero hawlaha maamulka, kulamo macluumaad, aqoon-is-weydaarsiyo iyo hawlo isboorti iyo dhaqan.",
     "target_audience": "Dadka aan haysan sharci degenaansho ama kuwa dhowaan sharci helay (ka baxsan nidaamka magangelyada oo aan haysan baasaboor EU/AELE)",
     "access_conditions": "Bilaash. La-tashiyo shaqsiyeed ballan ayaa loo qabsadaa; kulamada macluumaadka ballan looma baahna; aqoon-is-weydaarsiyada iyo hawlaha waxaa loo baahan yahay diiwaangelin."
+  },
+  "r_0251": {
+    "name": "Espace Léman — xarun dabiici ah oo u heellan harada (ASL)",
+    "description": "Xarunta dabeecadda ee Association pour la Sauvegarde du Léman (ASL), oo ku taal bartamaha Eaux-Vives. Baaritaan bilaash ah oo ku saabsan harada iyo nidaamyadeeda deegaan: indho-indhayn mikroskoob, aqoon-is-weydaarsiyo lagu aqoonsado noocyada, barnaamijyada « Labo Léman » (kalluun, shimbiro, molluska, dhirta biyaha, wasakhda balaastikada), bandhigyo iyo hawlo loogu talagalay dugsiyada laga bilaabo da'da 5 sano.",
+    "target_audience": "Dadweynaha oo dhan: qoysas, dugsiyo, dadka jecel dabeecadda",
+    "access_conditions": "Bilaash sanadka oo dhan, gelitaanku waa furan yahay."
+  },
+  "r_0252": {
+    "name": "Autonomia — Adeegga caawimaadda maamulka",
+    "description": "Adeeg caawimaad maamul oo bilaash ah oo aan ballan loo baahnayn: kulan 30 daqiiqo ah oo lala yeesho shaqaale bulsho si aad u eegto xaaladdaada, u fahanto biil, u buuxiso dokumenti, ama u hesho jihayn ku saabsan habraacyada (canshuuraha, AVS, gargaarka bulshada, xuquuqda iyo waajibaadka). Ururku wuxuu sidoo kale bixiyaa aqoon-is-weydaarsiyo waxbarasho maamul iyo la-socod shakhsi ah.",
+    "target_audience": "Dhallinyarada qaangaarka ah iyo qoysaska, qof kasta oo u baahan caawimaad arrimaha maamulka",
+    "access_conditions": "Bilaash, ballan looma baahna. Kulamadu waa 30 daqiiqo, dabaqa 2aad."
+  },
+  "r_0253": {
+    "name": "Europe-Charmilles — Adeegga taageerada nafsiga",
+    "description": "Adeeg taageero nafsi oo bilaash ah oo uu bixiyo Ururka Europe-Charmilles, loona talagalay carruurta, dhallinyarada iyo dadka waaweyn. Dhegeysi iyo taageero nafsi oo xaafadda laga helo, in ka badan 100 la-tashi sanadkii. Urur xaafadeed oo loo aqoonsaday inuu dan guud u leeyahay bulshada.",
+    "target_audience": "Carruurta, dhallinyarada iyo dadka waaweyn",
+    "access_conditions": "Bilaash, ballan ayaa loo baahan yahay."
+  },
+  "r_0254": {
+    "name": "Europe-Charmilles — Adeegga talada sharciga",
+    "description": "Adeeg talo sharci oo bilaash ah oo uu bixiyo Ururka Europe-Charmilles: talo iyo jihayn sharci oo xaafadda laga helo, in ka badan 200 la-tashi sanadkii. Wuxuu dhammaystiraa Adeegga Talada Sharciga ee Ardayda (PJE) oo isla cinwaankan ku yaal.",
+    "target_audience": "Dadka deggan xaafadda iyo qof kasta oo u baahan talo sharci",
+    "access_conditions": "Bilaash, ballan ayaa loo baahan yahay."
+  },
+  "r_0255": {
+    "name": "Europe-Charmilles — Adeegga taageerada shaqada",
+    "description": "Taageero shaqo oo bilaash ah oo loogu talagalay dadka deggan Charmilles ee da'doodu tahay 16 ilaa 64 sano: CV, waraaqaha codsiga, raadinta shaqo ama tababar, jihaynta xirfadda.",
+    "target_audience": "Dadka deggan xaafadda Charmilles ee da'doodu tahay 16 ilaa 64 sano",
+    "access_conditions": "Bilaash, ballan ayaa loo baahan yahay."
+  },
+  "r_0256": {
+    "name": "Europe-Charmilles — Adeegga taageerada bulshada",
+    "description": "Adeeg taageero bulsho oo bilaash ah oo uu bixiyo Ururka Europe-Charmilles: caafimaadka, guriyeynta, gargaarka dhaqaalaha, gargaarka cuntada — dhegeysi, macluumaad iyo jihayn loogu talagalay dadka waaweyn iyo qoysaska xaafadda.",
+    "target_audience": "Dadka waaweyn iyo qoysaska xaafadda",
+    "access_conditions": "Bilaash, ballan ayaa loo baahan yahay."
+  },
+  "r_0257": {
+    "name": "Free-Go Espace 99 — Qaboojiyaha wadaagga bulshada",
+    "description": "Qaboojiye is-adeeg ah oo ka tirsan shabakadda Free-Go, kuna yaal Espace 99: qof kastaa wuxuu bilaash ku dhigi karaa ama ka qaadan karaa cunto, si looga hortago khasaaraha cuntada. Waqti kasta waa la heli karaa.",
+    "target_audience": "Dadweynaha oo dhan",
+    "access_conditions": "Is-adeeg, 24 saac maalintii, 7 maalmood toddobaadkii."
   }
 }
